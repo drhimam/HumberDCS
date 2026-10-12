@@ -12,6 +12,8 @@ EchoBank is a browser-first question bank for Humber's Diagnostic Cardiac Sonogr
 
 The production target is Cloudflare Pages for the frontend with a future Cloudflare Workers/D1 backend. Authentication, email, PayPal, and administration are not yet connected.
 
+Cloudflare Pages deployment settings and environment boundaries are documented in [memory/CLOUDFLARE_DEPLOYMENT.md](memory/CLOUDFLARE_DEPLOYMENT.md). The repository also runs frontend validation through GitHub Actions on pull requests and pushes to `main`.
+
 The frontend is also packaged as a standards-based Progressive Web App (PWA). On supported mobile browsers, use “Add to Home Screen”; on supported desktop browsers, use the install icon in the address bar or the browser menu. This provides an installable app experience on mobile and desktop without maintaining separate native codebases. Native iOS/Android/Windows/macOS packages are not currently generated.
 
 ## Prerequisites
@@ -52,6 +54,13 @@ Available scripts:
 | `npm run build` | Create the production frontend build |
 | `npm run validate:qbank` | Validate all static QBank content and image references |
 | `npm run inventory:qbank` | Generate a subject/chapter/question coverage inventory |
+
+## Cloudflare Pages deployment
+
+Use `frontend` as the Pages root directory, `npm run build` as the build command,
+and `build` as the output directory. Configure Node 20. Do not add auth,
+ZeptoMail, PayPal, or D1 credentials to frontend environment variables; those
+belong to the future Worker environment.
 
 ## QBank maintenance
 

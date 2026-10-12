@@ -109,6 +109,8 @@ The visual pass also adds a soft sky/teal background treatment while retaining h
 - Define custom domains, HTTPS, CORS, security headers, logging, rollback, and backup expectations.
 - Add CI checks for content validation, frontend build, Worker tests, migrations, and deployment previews.
 
+**Status:** Added Cloudflare Pages SPA fallback/security headers, a GitHub Actions frontend validation workflow, and the [Cloudflare deployment runbook](./CLOUDFLARE_DEPLOYMENT.md). Pages is configured as a frontend-only boundary for now; Worker/D1 resources remain intentionally deferred until their entrypoint and migrations exist.
+
 ### 9. Design the D1 schema and migration process
 
 Define migrations before implementing application code. At minimum, plan tables for:

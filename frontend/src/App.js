@@ -12,6 +12,7 @@ import WrongAnswers from "@/pages/WrongAnswers";
 import Courses from "@/pages/Courses";
 import Landing from "@/pages/Landing";
 import { AuthPage } from "@/pages/Auth";
+import { RequireAuth } from "@/components/RequireAuth";
 
 function App() {
   return (
@@ -20,16 +21,18 @@ function App() {
         <Route path="/" element={<Landing />} />
         <Route path="/signin" element={<AuthPage mode="signin" />} />
         <Route path="/signup" element={<AuthPage mode="signup" />} />
-        <Route element={<AppShell />}>
-          <Route path="/dashboard" element={<Dashboard />} />
-          <Route path="/courses" element={<Courses />} />
-          <Route path="/wrong-answers" element={<WrongAnswers />} />
-          <Route path="/subject/:sid/study" element={<StudyChapters />} />
-          <Route path="/subject/:sid/study/:cid" element={<StudySession />} />
-          <Route path="/subject/:sid/exam" element={<ExamSetup />} />
-          <Route path="/exam/results" element={<ExamResults />} />
+        <Route element={<RequireAuth />}>
+          <Route element={<AppShell />}>
+            <Route path="/dashboard" element={<Dashboard />} />
+            <Route path="/courses" element={<Courses />} />
+            <Route path="/wrong-answers" element={<WrongAnswers />} />
+            <Route path="/subject/:sid/study" element={<StudyChapters />} />
+            <Route path="/subject/:sid/study/:cid" element={<StudySession />} />
+            <Route path="/subject/:sid/exam" element={<ExamSetup />} />
+            <Route path="/exam/results" element={<ExamResults />} />
+          </Route>
         </Route>
-        <Route path="/exam/run" element={<ExamRunner />} />
+        <Route path="/exam/run" element={<RequireAuth><ExamRunner /></RequireAuth>} />
         <Route path="*" element={<Navigate to="/dashboard" replace />} />
       </Routes>
       <Toaster theme="light" position="bottom-right" richColors />

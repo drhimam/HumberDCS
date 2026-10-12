@@ -141,8 +141,9 @@ to production D1. Auth routes remain the next implementation boundary.
 
 The public product entry point is now implemented and deployed: `/` is a
 landing page, `/signin` is the sign-in screen, and `/signup` is the create
-account screen. The screens are UI-only until the secure Worker auth contract
-and ZeptoMail flows are implemented.
+account screen. Protected application routes now redirect unauthenticated
+visitors to `/signin`. The screens are UI-only until the secure Worker auth
+contract and ZeptoMail flows are implemented.
 
 ## P3 — Implement authentication, email, payments, and administration
 

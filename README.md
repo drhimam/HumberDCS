@@ -79,8 +79,10 @@ The deployed health-only Worker is
 or user data to it yet; authentication routes are not exposed.
 
 The public landing page is available at `/`, with frontend shells for `/signin`
-and `/signup`. These forms are intentionally not connected to account creation
-until the Worker auth routes, email verification, and rate limiting are ready.
+and `/signup`. Dashboard, subjects, study, exam, and wrong-answer routes are
+protected by a frontend session guard and redirect unauthenticated visitors to
+`/signin`. The forms are intentionally not connected to account creation until
+the Worker auth routes, email verification, and rate limiting are ready.
 
 ## QBank maintenance
 

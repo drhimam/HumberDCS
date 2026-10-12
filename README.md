@@ -78,6 +78,10 @@ The deployed health-only Worker is
 `https://dcsqbank-api.rifa-numis.workers.dev/health`. Do not send credentials
 or user data to it yet; authentication routes are not exposed.
 
+The public landing page is available at `/`, with frontend shells for `/signin`
+and `/signup`. These forms are intentionally not connected to account creation
+until the Worker auth routes, email verification, and rate limiting are ready.
+
 ## QBank maintenance
 
 Read [memory/QBANK_CONTENT_MAINTENANCE_GUIDE.md](memory/QBANK_CONTENT_MAINTENANCE_GUIDE.md) before adding or editing content. Question IDs are permanent because learner progress is keyed by ID.

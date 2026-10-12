@@ -32,6 +32,8 @@ Relevant areas: `frontend/src/lib/qbank.js`, `frontend/public/qbank/`, `scripts/
 - Log enough context for debugging without exposing learner data.
 - Add a catalog health check that can be run in CI.
 
+**Status:** Implemented in `frontend/src/lib/qbank.js`. Valid empty chapters remain supported; missing files, invalid JSON, malformed catalog structures, and chapter ID mismatches now fail with contextual errors that the existing page error state displays.
+
 Relevant area: `frontend/src/lib/qbank.js`.
 
 ### 3. Create real application tests

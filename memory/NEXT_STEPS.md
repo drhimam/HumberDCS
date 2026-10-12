@@ -50,6 +50,8 @@ Prioritize pure logic tests first:
 
 Then add focused UI tests for navigation, study answer locking, exam setup, resume, results filters, and import/export.
 
+**Status:** Initial pure-logic coverage is implemented in `frontend/src/lib/progress.test.js`, `frontend/src/lib/exam.test.js`, and `frontend/src/lib/stats.test.js`. The targeted suite passes 10 tests covering progress aggregation/import, wrong-answer derivation, exam filtering and option remapping, statistics, durations, and clock formatting. UI tests and catalog-loader tests remain follow-up work.
+
 ### 4. Make installation and build reproducible
 
 - Decide and document the supported Node version.

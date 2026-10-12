@@ -127,7 +127,12 @@ Define migrations before implementing application code. At minimum, plan tables 
 
 Use numbered, forward-only SQL migrations. Every migration must be reviewed, tested against a disposable D1 database, and applied to preview before production. Define retention, indexes, foreign keys, timestamps, and UTC conventions.
 
-**Status:** Added the initial forward-only D1 migration at `database/migrations/0001_initial.sql` and documented table ownership, indexes, retention, cleanup, and environment migration rules in [D1_SCHEMA.md](./D1_SCHEMA.md). Worker bindings and runtime queries remain deferred until the Worker entrypoint is introduced.
+**Status:** Added the initial forward-only D1 migration at `database/migrations/0001_initial.sql` and documented table ownership, indexes, retention, cleanup, and environment migration rules in [D1_SCHEMA.md](./D1_SCHEMA.md). The agreed environment model uses Wrangler's local D1 emulator for development and one production D1 database; no remote preview database is planned. Worker bindings and runtime queries remain deferred until the Worker entrypoint is introduced.
+
+Cloudflare provisioning is complete for this boundary: the `dcsqbank` Pages
+project and `dcsqbank-production-db` D1 database exist, the migration is
+applied, and the frontend has a production deployment. The Worker remains
+deferred until the authentication/API implementation is ready.
 
 ## P3 — Implement authentication, email, payments, and administration
 

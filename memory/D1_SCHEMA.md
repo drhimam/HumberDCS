@@ -23,9 +23,9 @@ backend. The current frontend does not connect to this database.
 ## Migration rules
 
 1. Use numbered, forward-only SQL files. Never edit an applied migration.
-2. Apply migrations to a disposable local database, then preview D1, then
-   production D1 after review.
-3. Keep preview and production D1 database IDs and bindings separate.
+2. Apply migrations to a disposable local database, then production D1 after
+   review. This project does not use a remote preview D1 database.
+3. Keep the local D1 binding and production D1 binding separate.
 4. Use UTC ISO-8601 timestamps and parameterized queries.
 5. Store token hashes, password hashes, and provider IDs only as required.
 6. Make webhook processing idempotent through `paypal_webhook_events.event_id`.

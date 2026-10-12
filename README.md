@@ -14,7 +14,7 @@ The production target is Cloudflare Pages for the frontend with a future Cloudfl
 
 Cloudflare Pages deployment settings and environment boundaries are documented in [memory/CLOUDFLARE_DEPLOYMENT.md](memory/CLOUDFLARE_DEPLOYMENT.md). The repository also runs frontend validation through GitHub Actions on pull requests and pushes to `main`.
 
-The future D1 schema and migration rules are documented in [memory/D1_SCHEMA.md](memory/D1_SCHEMA.md). The initial migration is stored in `database/migrations/0001_initial.sql`; it is not connected to the current frontend yet.
+The future D1 schema and migration rules are documented in [memory/D1_SCHEMA.md](memory/D1_SCHEMA.md). The initial migration is stored in `database/migrations/0001_initial.sql`; it is not connected to the current frontend yet. The planned environment uses Wrangler's local D1 emulator for development and one production D1 database, without a remote preview database.
 
 The frontend is also packaged as a standards-based Progressive Web App (PWA). On supported mobile browsers, use “Add to Home Screen”; on supported desktop browsers, use the install icon in the address bar or the browser menu. This provides an installable app experience on mobile and desktop without maintaining separate native codebases. Native iOS/Android/Windows/macOS packages are not currently generated.
 
@@ -63,6 +63,12 @@ Use `frontend` as the Pages root directory, `npm run build` as the build command
 and `build` as the output directory. Configure Node 20. Do not add auth,
 ZeptoMail, PayPal, or D1 credentials to frontend environment variables; those
 belong to the future Worker environment.
+
+The current Pages project is `dcsqbank` at
+`https://dcsqbank.pages.dev/`. The production D1 database is
+`dcsqbank-production-db`; see [memory/CLOUDFLARE_DEPLOYMENT.md](memory/CLOUDFLARE_DEPLOYMENT.md)
+for resource details. The Worker/API is intentionally not deployed until its
+authentication entrypoint is implemented.
 
 ## QBank maintenance
 

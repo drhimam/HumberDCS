@@ -82,6 +82,8 @@ Then add focused UI tests for navigation, study answer locking, exam setup, resu
 - Fix chart container sizing warnings.
 - Confirm color contrast for correct/wrong/flagged states.
 
+**Status:** Added mobile-safe overflow handling, touch-friendly browser behavior, safe-area support, responsive navigation sizing, PWA manifest/icons, and a production service worker for app-shell/static QBank caching. The app can be installed from supported mobile and desktop browsers. Native store packages remain out of scope until a separate wrapper strategy is selected.
+
 ### 7. Improve data safety
 
 - Show the last successful export and warn before reset/replace.

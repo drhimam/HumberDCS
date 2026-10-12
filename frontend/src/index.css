@@ -9,6 +9,22 @@ body {
     font-family: "Plus Jakarta Sans", system-ui, sans-serif;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
+    min-width: 320px;
+    overflow-x: hidden;
+}
+
+button,
+a,
+input,
+select,
+textarea {
+    touch-action: manipulation;
+}
+
+@media (max-width: 640px) {
+    body {
+        padding-bottom: env(safe-area-inset-bottom);
+    }
 }
 
 code {

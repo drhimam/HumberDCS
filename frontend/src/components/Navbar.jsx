@@ -24,7 +24,7 @@ export const Navbar = () => {
   const wrong = wrongAttempts(progress).length;
   return (
     <header className="sticky top-0 z-40 border-b border-slate-200 bg-white/85 backdrop-blur-md">
-      <div className="mx-auto flex h-16 max-w-7xl items-center justify-between gap-4 px-4 sm:px-6">
+      <div className="mx-auto flex min-h-16 max-w-7xl items-center justify-between gap-2 px-3 py-2 sm:gap-4 sm:px-6">
         <Link to="/dashboard" className="flex items-center gap-3" data-testid="brand-link">
           <span className="flex h-9 w-9 items-center justify-center rounded-xl bg-sky-500 text-white shadow-sm shadow-sky-200">
             <HeartPulse className="h-5 w-5" />
@@ -34,7 +34,7 @@ export const Navbar = () => {
             <span className="hidden sm:block text-[11px] font-medium uppercase tracking-wider text-slate-500">Diagnostic Cardiac Sonography</span>
           </span>
         </Link>
-        <nav className="flex items-center gap-1">
+        <nav className="flex shrink-0 items-center gap-1 overflow-x-auto">
           <NavItem to="/dashboard" icon={LayoutDashboard} testId="nav-dashboard"><span className="hidden sm:inline">Dashboard</span></NavItem>
           <NavItem to="/courses" icon={BookOpen} testId="nav-courses"><span className="hidden sm:inline">Subjects</span></NavItem>
           <NavItem to="/wrong-answers" icon={XOctagon} testId="nav-wrong-answers">

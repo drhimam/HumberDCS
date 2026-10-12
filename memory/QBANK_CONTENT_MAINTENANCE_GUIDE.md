@@ -336,6 +336,14 @@ Maintain a generated inventory containing:
 
 Regenerate it after significant content imports so gaps are visible before release.
 
+From the `frontend` directory, generate the current inventory with:
+
+```powershell
+npm run inventory:qbank
+```
+
+The command prints a Markdown report with subject/chapter counts, section coverage, image usage, empty chapters, missing references, and missing explanations. Save the output in a pull request or release note when completing a large import.
+
 ## Troubleshooting
 
 ### A chapter shows zero questions unexpectedly

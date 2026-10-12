@@ -72,6 +72,8 @@ Then add focused UI tests for navigation, study answer locking, exam setup, resu
 - Add a duplicate/answer-range/content-quality report.
 - Prioritize empty chapters that block the main curriculum path.
 
+**Status:** Added `scripts/qbank_inventory.js` and `npm run inventory:qbank` to generate repeatable coverage and metadata reports after imports. The maintenance guide now includes the command and release-recording procedure.
+
 ### 6. Accessibility and responsive UX pass
 
 - Verify all interactive controls have accessible names and visible focus.

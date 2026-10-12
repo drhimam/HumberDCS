@@ -49,6 +49,7 @@ Available scripts:
 | `npm test -- --watchAll=false --runInBand` | Run the Jest suite once |
 | `npm run build` | Create the production frontend build |
 | `npm run validate:qbank` | Validate all static QBank content and image references |
+| `npm run inventory:qbank` | Generate a subject/chapter/question coverage inventory |
 
 ## QBank maintenance
 

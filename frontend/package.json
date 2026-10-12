@@ -68,7 +68,8 @@
     "start": "craco start",
     "build": "craco build",
     "test": "craco test",
-    "validate:qbank": "python ../scripts/validate_qbank.py"
+    "validate:qbank": "python ../scripts/validate_qbank.py",
+    "inventory:qbank": "node ../scripts/qbank_inventory.js"
   },
   "browserslist": {
     "production": [

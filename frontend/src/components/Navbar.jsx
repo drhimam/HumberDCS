@@ -11,7 +11,9 @@ const NavItem = ({ to, icon: Icon, children, testId }) => (
     className={({ isActive }) =>
       cn(
         "flex items-center gap-2 rounded-full px-4 py-2 text-sm font-medium transition-colors",
-        isActive ? "bg-slate-900 text-white" : "text-slate-600 hover:bg-slate-100 hover:text-slate-900",
+        isActive
+          ? "bg-white/20 text-white shadow-sm ring-1 ring-white/25"
+          : "text-sky-50/80 hover:bg-white/10 hover:text-white",
       )
     }
   >
@@ -26,15 +28,15 @@ export const Navbar = () => {
   const [open, setOpen] = useState(false);
   const close = () => setOpen(false);
   return (
-    <header className="sticky top-0 z-40 border-b border-slate-200 bg-white/85 backdrop-blur-md">
+    <header className="sticky top-0 z-40 border-b border-sky-900/20 bg-gradient-to-r from-sky-700 via-cyan-600 to-teal-600 shadow-lg shadow-sky-900/10">
       <div className="mx-auto flex min-h-16 max-w-7xl items-center justify-between gap-2 px-3 py-2 sm:gap-4 sm:px-6">
         <Link to="/dashboard" className="flex min-w-0 items-center gap-3" data-testid="brand-link" onClick={close}>
-          <span className="flex h-9 w-9 items-center justify-center rounded-xl bg-sky-500 text-white shadow-sm shadow-sky-200">
+          <span className="flex h-10 w-10 items-center justify-center rounded-2xl bg-white text-sky-600 shadow-lg shadow-sky-950/20 ring-4 ring-white/15">
             <HeartPulse className="h-5 w-5" />
           </span>
           <span className="leading-tight">
-            <span className="block font-heading text-lg font-bold text-slate-900">EchoBank</span>
-            <span className="hidden sm:block text-[11px] font-medium uppercase tracking-wider text-slate-500">Diagnostic Cardiac Sonography</span>
+            <span className="block font-heading text-lg font-bold tracking-tight text-white">EchoBank</span>
+            <span className="hidden text-[11px] font-medium uppercase tracking-wider text-sky-100 sm:block">Diagnostic Cardiac Sonography</span>
           </span>
         </Link>
         <nav className="hidden shrink-0 items-center gap-1 overflow-x-auto sm:flex">
@@ -49,7 +51,7 @@ export const Navbar = () => {
         </nav>
         <button
           type="button"
-          className="flex h-10 w-10 shrink-0 items-center justify-center rounded-full text-slate-700 hover:bg-slate-100 sm:hidden"
+          className="flex h-10 w-10 shrink-0 items-center justify-center rounded-full text-white hover:bg-white/10 sm:hidden"
           aria-label={open ? "Close navigation menu" : "Open navigation menu"}
           aria-expanded={open}
           onClick={() => setOpen((value) => !value)}
@@ -59,7 +61,7 @@ export const Navbar = () => {
         </button>
       </div>
       {open && (
-        <nav className="border-t border-slate-200 px-3 pb-3 pt-2 sm:hidden" data-testid="mobile-nav-menu">
+        <nav className="border-t border-white/15 bg-sky-900/20 px-3 pb-3 pt-2 sm:hidden" data-testid="mobile-nav-menu">
           <div className="flex flex-col gap-1">
             <NavItem to="/dashboard" icon={LayoutDashboard} testId="mobile-nav-dashboard"><span>Dashboard</span></NavItem>
             <NavItem to="/courses" icon={BookOpen} testId="mobile-nav-courses"><span>Subjects</span></NavItem>

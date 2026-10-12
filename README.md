@@ -1,6 +1,6 @@
-# EchoBank / HumberDCS
+# DCSQbank / HumberDCS
 
-EchoBank is a browser-first question bank for Humber's Diagnostic Cardiac Sonography program. The React frontend loads reviewed question content from static JSON and stores anonymous learner progress in the browser.
+DCSQbank is a browser-first question bank for Humber's Diagnostic Cardiac Sonography program. The React frontend loads reviewed question content from static JSON and stores anonymous learner progress in the browser.
 
 ## Current architecture
 

@@ -1,10 +1,10 @@
-# EchoBank / DCS QBank Project Memory
+# DCSQbank / DCS QBank Project Memory
 
 Updated: 2026-10-12
 
 ## Executive summary
 
-EchoBank is a React-based question bank for Humber's Diagnostic Cardiac Sonography program. It is designed to work without an account: question content is static JSON shipped from `frontend/public/qbank`, while learner progress is stored in the browser. The current application is functional as a study and single-subject exam tool. The Python backend exists as a FastAPI/MongoDB starter template, but the frontend does not call it yet.
+DCSQbank is a React-based question bank for Humber's Diagnostic Cardiac Sonography program. It is designed to work without an account: question content is static JSON shipped from `frontend/public/qbank`, while learner progress is stored in the browser. The current application is functional as a study and single-subject exam tool. The Python backend exists as a FastAPI/MongoDB starter template, but the frontend does not call it yet.
 
 The current product has two primary areas:
 

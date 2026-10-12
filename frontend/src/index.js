@@ -25,7 +25,7 @@ root.render(
 if (process.env.NODE_ENV === "production" && "serviceWorker" in navigator) {
   window.addEventListener("load", () => {
     navigator.serviceWorker.register(`${process.env.PUBLIC_URL || ""}/sw.js`).catch((error) => {
-      console.error("EchoBank service worker registration failed:", error);
+      console.error("DCSQbank service worker registration failed:", error);
     });
   });
 }

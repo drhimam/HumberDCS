@@ -1,4 +1,4 @@
-# EchoBank – DCS QBank PRD
+# DCSQbank – DCS QBank PRD
 
 ## Original problem
 QBank for a Diagnostic Cardiac Sonography program (14 courses, Sem 1 & 2). Minimal backend later (sign up/in only). Questions stored in the frontend as JSON: one folder per subject, one file per chapter, with images. Dashboard with detailed progress stored locally (import/export, includes wrong answers). Subject card → Study mode (chapters, answer + explanation side panel) or Exam mode (settings: time/question, count, chapters, exclude correct, include wrong; results at end). Landing + auth pages: LATER.

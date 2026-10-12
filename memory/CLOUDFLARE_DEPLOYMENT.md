@@ -1,6 +1,6 @@
 # Cloudflare Deployment Runbook
 
-This runbook defines the first deployment boundary for EchoBank. The current
+This runbook defines the first deployment boundary for DCSQbank. The current
 application is a static React/PWA frontend. Authentication, D1, payments,
 email, and administration remain future Worker features and must not be
 simulated with frontend secrets.

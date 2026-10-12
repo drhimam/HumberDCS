@@ -1,8 +1,8 @@
-# EchoBank QBank Content Maintenance Guide
+# DCSQbank Content Maintenance Guide
 
 ## Purpose
 
-This guide is the operating procedure for manually adding, editing, reviewing, and publishing EchoBank question-bank content. It is intended for ongoing maintenance as the bank grows across semesters, subjects, chapters, questions, explanations, references, and images.
+This guide is the operating procedure for manually adding, editing, reviewing, and publishing DCSQbank question-bank content. It is intended for ongoing maintenance as the bank grows across semesters, subjects, chapters, questions, explanations, references, and images.
 
 The current content model is static, version-controlled JSON deployed with the frontend:
 

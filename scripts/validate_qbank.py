@@ -204,7 +204,7 @@ class Validator:
 
 
 def main():
-    parser = argparse.ArgumentParser(description="Validate the EchoBank static QBank.")
+    parser = argparse.ArgumentParser(description="Validate the DCSQbank static QBank.")
     parser.add_argument(
         "--root",
         type=Path,

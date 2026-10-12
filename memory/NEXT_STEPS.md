@@ -1,4 +1,4 @@
-# EchoBank / DCS QBank Next Steps
+# DCSQbank / DCS QBank Next Steps
 
 Updated: 2026-10-12
 

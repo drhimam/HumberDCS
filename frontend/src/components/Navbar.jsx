@@ -35,7 +35,7 @@ export const Navbar = () => {
             <HeartPulse className="h-5 w-5" />
           </span>
           <span className="leading-tight">
-            <span className="block font-heading text-lg font-bold tracking-tight text-white">EchoBank</span>
+            <span className="block font-heading text-lg font-bold tracking-tight text-white">DCSQbank</span>
             <span className="hidden text-[11px] font-medium uppercase tracking-wider text-sky-100 sm:block">Diagnostic Cardiac Sonography</span>
           </span>
         </Link>

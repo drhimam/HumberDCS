@@ -1,4 +1,4 @@
-const CACHE_NAME = "echobank-static-v1";
+const CACHE_NAME = "dcsqbank-static-v2";
 const APP_SHELL = [
   "./",
   "./index.html",

@@ -112,7 +112,7 @@ export default function StudySession() {
           {questions.length === 0 ? (
             <div className="rounded-2xl border border-slate-200 bg-white p-12 text-center text-slate-500" data-testid="study-empty">No questions here yet.</div>
           ) : (
-            <div className="grid gap-6 lg:grid-cols-[220px_minmax(0,1fr)_400px]">
+            <div className={`grid gap-6 ${focusMode ? "" : navigatorOpen ? "lg:grid-cols-[220px_minmax(0,1fr)_400px]" : "lg:grid-cols-[minmax(0,1fr)_400px]"}`}>
               {!focusMode && navigatorOpen && (
                 <aside className="order-3 rounded-2xl border border-slate-200 bg-white p-4 lg:order-1 lg:sticky lg:top-24 lg:self-start">
                   <p className="mb-3 text-xs font-semibold uppercase tracking-wider text-slate-500">Questions</p>

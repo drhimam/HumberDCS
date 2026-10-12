@@ -1,6 +1,6 @@
 import { useCallback, useEffect, useRef, useState } from "react";
 import { Link, useParams } from "react-router-dom";
-import { ArrowLeft, ChevronLeft, ChevronRight, RotateCcw, Eye, Calculator as CalcIcon } from "lucide-react";
+import { ArrowLeft, ChevronLeft, ChevronRight, RotateCcw, Eye, Calculator as CalcIcon, Expand, List, Minimize2 } from "lucide-react";
 import { Calculator } from "@/components/Calculator";
 import { useSubject } from "@/hooks/useQbank";
 import { addSession, getProgress, recordAnswers } from "@/lib/progress";
@@ -38,6 +38,9 @@ export default function StudySession() {
   const [idx, setIdx] = useState(0);
   const [answers, setAnswers] = useState({});
   const [calcOpen, setCalcOpen] = useState(false);
+  const [focusMode, setFocusMode] = useState(false);
+  const [fontSize, setFontSize] = useState("normal");
+  const [navigatorOpen, setNavigatorOpen] = useState(false);
   const chapter = subject?.chapters.find((c) => c.id === cid);
   const label = cid === "wrong" ? "Wrong-answer review" : chapter?.title || "";
   const logger = useSessionLogger(subject, label, answers);
@@ -79,7 +82,7 @@ export default function StudySession() {
   return (
     <PageState loading={isLoading || (subject && !questions)} error={error}>
       {subject && questions && (
-        <main className="mx-auto max-w-[1440px] px-4 py-6 sm:px-6" data-testid="study-session-page">
+        <main className={`${focusMode ? "fixed inset-0 z-50 overflow-y-auto bg-slate-50" : ""} mx-auto max-w-[1440px] px-4 py-6 sm:px-6`} data-testid="study-session-page">
           <div className="mb-6 flex flex-wrap items-center justify-between gap-3">
             <div>
               <Link to={`/subject/${sid}/study`} className="inline-flex items-center gap-1 text-sm text-slate-500 hover:text-slate-900" data-testid="back-to-chapters">
@@ -93,6 +96,14 @@ export default function StudySession() {
               <Button variant="outline" size="sm" className={`rounded-full ${calcOpen ? "border-sky-400 text-sky-700" : ""}`} onClick={() => setCalcOpen((v) => !v)} data-testid="toggle-calculator-btn">
                 <CalcIcon className="h-4 w-4" /> Calculator
               </Button>
+              <Button variant="outline" size="sm" aria-label={focusMode ? "Exit focus mode" : "Enter focus mode"} className={`rounded-full ${focusMode ? "border-sky-400 text-sky-700" : ""}`} onClick={() => setFocusMode((v) => !v)} data-testid="toggle-focus-mode-btn">
+                {focusMode ? <Minimize2 className="h-4 w-4" /> : <Expand className="h-4 w-4" />} <span className="hidden sm:inline">{focusMode ? "Exit focus" : "Focus"}</span>
+              </Button>
+              <select value={fontSize} onChange={(e) => setFontSize(e.target.value)} className="h-9 rounded-full border border-slate-200 bg-white px-3 text-xs font-semibold text-slate-700" aria-label="Question font size" data-testid="study-font-size">
+                <option value="normal">Text: normal</option>
+                <option value="large">Text: large</option>
+                <option value="larger">Text: larger</option>
+              </select>
               <Button variant="outline" size="sm" className="rounded-full" onClick={() => { setAnswers({}); setIdx(0); }} data-testid="restart-study-btn">
                 <RotateCcw className="h-4 w-4" /> Restart
               </Button>
@@ -102,17 +113,19 @@ export default function StudySession() {
             <div className="rounded-2xl border border-slate-200 bg-white p-12 text-center text-slate-500" data-testid="study-empty">No questions here yet.</div>
           ) : (
             <div className="grid gap-6 lg:grid-cols-[220px_minmax(0,1fr)_400px]">
-              <aside className="order-3 rounded-2xl border border-slate-200 bg-white p-4 lg:order-1 lg:sticky lg:top-24 lg:self-start">
-                <p className="mb-3 text-xs font-semibold uppercase tracking-wider text-slate-500">Questions</p>
-                <QuestionNavigator questions={questions} current={idx} onJump={setIdx} statusOf={statusOf} />
-              </aside>
+              {!focusMode && navigatorOpen && (
+                <aside className="order-3 rounded-2xl border border-slate-200 bg-white p-4 lg:order-1 lg:sticky lg:top-24 lg:self-start">
+                  <p className="mb-3 text-xs font-semibold uppercase tracking-wider text-slate-500">Questions</p>
+                  <QuestionNavigator questions={questions} current={idx} onJump={setIdx} statusOf={statusOf} />
+                </aside>
+              )}
               <section className="order-1 rounded-2xl border border-slate-200 bg-white p-6 md:p-8 lg:order-2">
                 {prev && !answers[q.id] && (
                   <div className="mb-4 inline-flex rounded-full bg-slate-100 px-3 py-1 text-xs text-slate-600" data-testid="previous-attempt-badge">
                     Previously {prev.lastCorrect ? "answered correctly" : "answered wrong"} · {prev.attempts} attempt{prev.attempts > 1 ? "s" : ""}
                   </div>
                 )}
-                <QuestionCard key={q.id} question={q} number={idx + 1} total={questions.length} selected={sel} reveal={sel !== undefined} locked={sel !== undefined} onSelect={choose} />
+                <QuestionCard key={q.id} question={q} number={idx + 1} total={questions.length} selected={sel} reveal={sel !== undefined} locked={sel !== undefined} onSelect={choose} fontSize={fontSize} />
                 <div className="mt-8 flex items-center justify-between border-t border-slate-100 pt-5">
                   <Button variant="outline" className="rounded-full" disabled={idx === 0} onClick={() => setIdx(idx - 1)} data-testid="prev-question-btn">
                     <ChevronLeft className="h-4 w-4" /> Previous
@@ -123,7 +136,7 @@ export default function StudySession() {
                   </Button>
                 </div>
               </section>
-              <aside className="order-2 rounded-2xl border border-teal-200 bg-teal-50/60 p-6 lg:order-3 lg:sticky lg:top-24 lg:self-start lg:max-h-[calc(100vh-7rem)] lg:overflow-y-auto" data-testid="explanation-side-panel">
+              <aside className={`${focusMode ? "hidden" : ""} order-2 rounded-2xl border border-teal-200 bg-teal-50/60 p-6 lg:order-3 lg:sticky lg:top-24 lg:self-start lg:max-h-[calc(100vh-7rem)] lg:overflow-y-auto`} data-testid="explanation-side-panel">
                 {sel !== undefined ? (
                   <ExplanationPanel question={q} selected={sel} />
                 ) : (
@@ -134,6 +147,11 @@ export default function StudySession() {
                 )}
               </aside>
             </div>
+          )}
+          {questions.length > 0 && !focusMode && (
+            <button type="button" onClick={() => setNavigatorOpen((v) => !v)} className="mt-4 inline-flex items-center gap-2 rounded-full border border-slate-200 bg-white px-4 py-2 text-sm font-semibold text-slate-700 shadow-sm hover:bg-slate-50" data-testid="toggle-question-navigator">
+              <List className="h-4 w-4" /> {navigatorOpen ? "Hide question navigator" : `Show question navigator (${idx + 1}/${questions.length})`}
+            </button>
           )}
           <Calculator open={calcOpen} onClose={() => setCalcOpen(false)} />
         </main>

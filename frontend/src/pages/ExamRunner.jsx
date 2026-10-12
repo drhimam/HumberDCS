@@ -1,6 +1,6 @@
 import { useCallback, useEffect, useRef, useState } from "react";
 import { Navigate, useNavigate } from "react-router-dom";
-import { Clock, Flag, ChevronLeft, ChevronRight, LogOut, CheckSquare, Calculator as CalcIcon } from "lucide-react";
+import { Clock, Flag, ChevronLeft, ChevronRight, LogOut, CheckSquare, Calculator as CalcIcon, Expand, List, Minimize2 } from "lucide-react";
 import { Calculator } from "@/components/Calculator";
 import { addSession, recordAnswers } from "@/lib/progress";
 import { clearActiveExam, loadActiveExam, saveActiveExam, saveExamResult } from "@/lib/exam";
@@ -32,6 +32,9 @@ export default function ExamRunner() {
   const [exam, setExam] = useState(loadActiveExam);
   const [confirm, setConfirm] = useState(false);
   const [calcOpen, setCalcOpen] = useState(false);
+  const [focusMode, setFocusMode] = useState(false);
+  const [fontSize, setFontSize] = useState("normal");
+  const [navigatorOpen, setNavigatorOpen] = useState(false);
   const finished = useRef(false);
 
   useEffect(() => { if (exam) saveActiveExam(exam); }, [exam]);
@@ -67,7 +70,7 @@ export default function ExamRunner() {
   const low = remaining !== null && remaining < 60;
 
   return (
-    <div className="min-h-screen bg-slate-50" data-testid="exam-runner-page">
+    <div className={`${focusMode ? "fixed inset-0 z-50 overflow-y-auto" : ""} min-h-screen bg-slate-50`} data-testid="exam-runner-page">
       <header className="sticky top-0 z-40 bg-slate-900 text-white shadow-md">
         <div className="mx-auto flex min-h-16 max-w-7xl flex-wrap items-center justify-between gap-2 px-3 py-2 sm:gap-4 sm:px-6">
           <div className="min-w-0 flex-1">
@@ -81,6 +84,14 @@ export default function ExamRunner() {
             <Button variant="outline" className={`rounded-full border-slate-600 bg-transparent text-white hover:bg-slate-800 hover:text-white ${calcOpen ? "border-sky-400 text-sky-300" : ""}`} onClick={() => setCalcOpen((v) => !v)} data-testid="toggle-calculator-btn">
               <CalcIcon className="h-4 w-4" /> <span className="hidden sm:inline">Calculator</span>
             </Button>
+            <Button variant="outline" aria-label={focusMode ? "Exit focus mode" : "Enter focus mode"} className={`rounded-full border-slate-600 bg-transparent text-white hover:bg-slate-800 hover:text-white ${focusMode ? "border-sky-400 text-sky-300" : ""}`} onClick={() => setFocusMode((v) => !v)} data-testid="toggle-focus-mode-btn">
+              {focusMode ? <Minimize2 className="h-4 w-4" /> : <Expand className="h-4 w-4" />} <span className="hidden sm:inline">{focusMode ? "Exit focus" : "Focus"}</span>
+            </Button>
+            <select value={fontSize} onChange={(e) => setFontSize(e.target.value)} className="h-9 max-w-[106px] rounded-full border border-slate-600 bg-slate-800 px-2 text-[11px] font-semibold text-white sm:max-w-none sm:px-3 sm:text-xs" aria-label="Question font size" data-testid="exam-font-size">
+              <option value="normal">Text: normal</option>
+              <option value="large">Text: large</option>
+              <option value="larger">Text: larger</option>
+            </select>
             <Button variant="outline" className="rounded-full border-slate-600 bg-transparent text-white hover:bg-slate-800 hover:text-white" onClick={() => setConfirm(true)} data-testid="end-exam-btn">
               <LogOut className="h-4 w-4" /> <span className="hidden sm:inline">End test</span>
             </Button>
@@ -89,7 +100,7 @@ export default function ExamRunner() {
       </header>
       <main className="mx-auto grid max-w-7xl gap-6 px-4 py-6 sm:px-6 lg:grid-cols-[minmax(0,1fr)_300px]">
         <section className="order-1 rounded-2xl border border-slate-200 bg-white p-6 md:p-8 lg:order-1">
-          <QuestionCard key={q.id} question={q} number={exam.current + 1} total={exam.questions.length} selected={exam.answers[q.id]} reveal={false}
+          <QuestionCard key={q.id} question={q} number={exam.current + 1} total={exam.questions.length} selected={exam.answers[q.id]} reveal={false} fontSize={fontSize}
             onSelect={(i) => update({ answers: { ...exam.answers, [q.id]: i } })} />
           <div className="mt-8 flex flex-wrap items-center justify-between gap-3 border-t border-slate-100 pt-5">
             <Button variant="outline" className="rounded-full" disabled={exam.current === 0} onClick={() => go(exam.current - 1)} data-testid="exam-prev-btn">
@@ -110,7 +121,7 @@ export default function ExamRunner() {
             )}
           </div>
         </section>
-        <aside className="order-3 space-y-4 rounded-2xl border border-slate-200 bg-white p-5 lg:order-2 lg:sticky lg:top-24 lg:self-start">
+        {navigatorOpen && <aside className="order-3 space-y-4 rounded-2xl border border-slate-200 bg-white p-5 lg:order-2 lg:sticky lg:top-24 lg:self-start">
           <div className="flex justify-between text-sm">
             <span className="text-slate-500">Answered</span>
             <span className="font-semibold" data-testid="exam-answered-count">{answeredCount}/{exam.questions.length}</span>
@@ -120,8 +131,11 @@ export default function ExamRunner() {
             <span className="flex items-center gap-1"><span className="h-3 w-3 rounded bg-sky-100 border border-sky-200" /> Answered</span>
             <span className="flex items-center gap-1"><span className="h-3 w-3 rounded bg-amber-50 border-2 border-amber-400" /> Flagged</span>
           </div>
-        </aside>
+        </aside>}
       </main>
+      <button type="button" onClick={() => setNavigatorOpen((v) => !v)} className="fixed bottom-4 left-4 z-40 inline-flex items-center gap-2 rounded-full border border-slate-200 bg-white px-4 py-2 text-sm font-semibold text-slate-700 shadow-lg" data-testid="toggle-question-navigator">
+        <List className="h-4 w-4" /> {navigatorOpen ? "Hide questions" : `Questions (${answeredCount}/${exam.questions.length})`}
+      </button>
       <Calculator open={calcOpen} onClose={() => setCalcOpen(false)} />
       <AlertDialog open={confirm} onOpenChange={setConfirm}>
         <AlertDialogContent data-testid="end-exam-dialog">

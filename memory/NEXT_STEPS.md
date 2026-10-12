@@ -84,6 +84,10 @@ Then add focused UI tests for navigation, study answer locking, exam setup, resu
 
 **Status:** Added mobile-safe overflow handling, touch-friendly browser behavior, safe-area support, responsive navigation sizing, a hamburger navigation menu, and mobile ordering that places the question navigator below the question and explanation in study/exam mode. PWA manifest/icons and a production service worker provide installation from supported mobile and desktop browsers. Native store packages remain out of scope until a separate wrapper strategy is selected.
 
+Additional UX pass: study and exam modes now include Focus mode, normal/large/larger question text controls, and a smart collapsible question navigator that can be shown only when needed. Focus mode removes secondary panels and keeps the question as the primary full-page task.
+
+The visual pass also adds a soft sky/teal background treatment while retaining high-contrast white cards and semantic correct/wrong colors.
+
 ### 7. Improve data safety
 
 - Show the last successful export and warn before reset/replace.

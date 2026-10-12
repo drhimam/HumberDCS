@@ -35,3 +35,7 @@ npm run deploy
 
 Provider credentials must be added later with `wrangler secret put`; never add
 them to this directory, the frontend, or Git.
+
+The configured sender is `DCS QBank <info@qbanks.org>`. Verify the `qbanks.org`
+domain and this sender address in ZeptoMail before deploying email-dependent
+routes.

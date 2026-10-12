@@ -8,6 +8,7 @@ ALLOWED_ORIGIN = "https://dcsqbank.pages.dev"
 APP_ORIGIN = "https://dcsqbank.pages.dev"
 EMAIL_FROM_NAME = "DCS QBank"
 EMAIL_FROM_ADDRESS = "info@qbanks.org"
+ZEPTOMAIL_API_URL = "https://cpaas.zohocloud.ca/v1.1/email"
 
 [[d1_databases]]
 binding = "DB"

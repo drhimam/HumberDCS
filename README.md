@@ -14,6 +14,8 @@ The production target is Cloudflare Pages for the frontend with a future Cloudfl
 
 Cloudflare Pages deployment settings and environment boundaries are documented in [memory/CLOUDFLARE_DEPLOYMENT.md](memory/CLOUDFLARE_DEPLOYMENT.md). The repository also runs frontend validation through GitHub Actions on pull requests and pushes to `main`.
 
+The future D1 schema and migration rules are documented in [memory/D1_SCHEMA.md](memory/D1_SCHEMA.md). The initial migration is stored in `database/migrations/0001_initial.sql`; it is not connected to the current frontend yet.
+
 The frontend is also packaged as a standards-based Progressive Web App (PWA). On supported mobile browsers, use “Add to Home Screen”; on supported desktop browsers, use the install icon in the address bar or the browser menu. This provides an installable app experience on mobile and desktop without maintaining separate native codebases. Native iOS/Android/Windows/macOS packages are not currently generated.
 
 ## Prerequisites

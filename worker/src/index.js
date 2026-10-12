@@ -65,7 +65,17 @@ async function sendVerificationEmail(env, email, displayName, token) {
       htmlbody: `<p>Hello ${displayName},</p><p>Verify your DCSQbank account:</p><p><a href="${link}">Verify email address</a></p>`,
     }),
   });
-  if (!response.ok) throw new Error("Email service rejected the verification email.");
+  if (!response.ok) {
+    let detail = "";
+    try {
+      const provider = await response.json();
+      detail = provider.message || provider.error || provider.code || "";
+    } catch {
+      detail = "";
+    }
+    console.error("ZeptoMail rejected verification email", { status: response.status, detail });
+    throw new Error(`Email service rejected the verification email (${response.status}).${detail ? ` ${detail}` : ""}`);
+  }
 }
 
 async function createSession(db, userId) {

@@ -1,5 +1,6 @@
 const SESSION_DAYS = 30;
 const VERIFICATION_HOURS = 24;
+const PASSWORD_ITERATIONS = 100000;
 
 const json = (body, status = 200, headers = {}) =>
   new Response(JSON.stringify(body), {
@@ -21,7 +22,7 @@ async function hashPassword(password) {
   const salt = bytes(16);
   const key = await crypto.subtle.importKey("raw", new TextEncoder().encode(password), "PBKDF2", false, ["deriveBits"]);
   const bits = await crypto.subtle.deriveBits({ name: "PBKDF2", salt, iterations: 120000, hash: "SHA-256" }, key, 256);
-  return `pbkdf2$120000$${hex(salt)}$${hex(bits)}`;
+  return `pbkdf2$${PASSWORD_ITERATIONS}$${hex(salt)}$${hex(bits)}`;
 }
 
 async function verifyPassword(password, stored) {

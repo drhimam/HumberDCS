@@ -1,15 +1,23 @@
 # DCSQbank API Worker
 
-This is the first Cloudflare Worker boundary for DCSQbank. It currently
-exposes only a database-backed health endpoint:
+This is the Cloudflare Worker boundary for DCSQbank. It exposes a
+database-backed health endpoint and the initial authentication routes:
 
 - `GET /health`
 - `GET /api/health`
+- `POST /auth/register`
+- `GET /auth/verify-email`
+- `POST /auth/login`
+- `GET /auth/me`
+- `POST /auth/logout`
 
-It is intentionally not an authentication API yet. Signup, email verification,
-password reset, sessions, and admin authorization must be implemented together
-with ZeptoMail delivery, rate limiting, and authorization tests before those
-routes are exposed.
+Forgot-password, rate limiting, and admin authorization still need to be
+implemented with the same security and testing requirements.
+
+Passwords use PBKDF2-HMAC-SHA-256 with 100,000 iterations, the maximum
+iteration count supported by Cloudflare Workers WebCrypto. The iteration count
+is stored in each password hash so future migrations can support a different
+work factor safely.
 
 ## Local development
 

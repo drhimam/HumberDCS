@@ -60,6 +60,8 @@ Then add focused UI tests for navigation, study answer locking, exam setup, resu
 - Add a clean-install and production-build check.
 - Review the current npm audit output separately; do not apply broad forced upgrades without compatibility testing.
 
+**Status:** Implemented repository setup documentation, pinned Node 20 LTS via `.nvmrc`, added frontend npm engine requirements, and committed `frontend/.npmrc` so clean npm installs consistently use the known peer-dependency resolution. The documented verification sequence is `npm ci`, `npm run validate:qbank`, the one-shot Jest suite, and `npm run build`.
+
 ## P1 — Complete the learning content and UX
 
 ### 5. Establish a content production workflow

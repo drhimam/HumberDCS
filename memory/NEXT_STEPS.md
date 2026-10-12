@@ -95,6 +95,8 @@ The visual pass also adds a soft sky/teal background treatment while retaining h
 - Validate imported question snapshots and session records more strictly.
 - Provide a recoverable backup workflow before any storage schema change.
 
+**Status:** Implemented export timestamp visibility, versioned export metadata, strict import shape/size/record validation, and explicit recovery warnings before replace/reset. Existing browser storage remains backward-compatible at version 1; future schema changes should migrate through the validated import boundary.
+
 ## P2 — Define the Cloudflare production architecture
 
 ### 8. Establish environments and deployment boundaries

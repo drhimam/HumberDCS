@@ -1,6 +1,7 @@
 import { useSyncExternalStore } from "react";
 
 const KEY = "dcs_qbank_progress_v1";
+const EXPORT_KEY = "dcs_qbank_last_export_v1";
 const emptyState = () => ({ version: 1, attempts: {}, sessions: [], createdAt: new Date().toISOString(), updatedAt: null });
 
 const read = () => {
@@ -53,8 +54,9 @@ export const wrongAttempts = (p) =>
 
 export function exportProgress() {
   const wrongQuestions = wrongAttempts(state);
+  const exportedAt = new Date().toISOString();
   const payload = {
-    app: "dcs-qbank", exportedAt: new Date().toISOString(), ...state,
+    app: "dcs-qbank", exportVersion: 1, exportedAt, ...state,
     summary: { answered: Object.keys(state.attempts).length, wrong: wrongQuestions.length, sessions: state.sessions.length },
     wrongQuestions,
   };
@@ -64,22 +66,57 @@ export function exportProgress() {
   a.download = `dcs-qbank-progress-${new Date().toISOString().slice(0, 10)}.json`;
   a.click();
   URL.revokeObjectURL(a.href);
+  localStorage.setItem(EXPORT_KEY, exportedAt);
+  return exportedAt;
+}
+
+export const getLastExportAt = () => localStorage.getItem(EXPORT_KEY);
+
+const isPlainObject = (value) => value !== null && typeof value === "object" && !Array.isArray(value);
+
+export function validateProgressImport(data) {
+  if (!isPlainObject(data) || data.app !== "dcs-qbank" || !isPlainObject(data.attempts) || !Array.isArray(data.sessions)) {
+    throw new Error("This file is not a valid DCS QBank progress export.");
+  }
+  if (data.exportVersion !== undefined && data.exportVersion !== 1) {
+    throw new Error("This progress export uses an unsupported version.");
+  }
+  if (Object.keys(data.attempts).length > 10000 || data.sessions.length > 500) {
+    throw new Error("This progress export exceeds the supported size limit.");
+  }
+  const attempts = {};
+  Object.entries(data.attempts).forEach(([id, attempt]) => {
+    if (!isPlainObject(attempt) || (attempt.qid || attempt.id || id) !== id || typeof (attempt.qid || attempt.id || id) !== "string") {
+      throw new Error("This progress export contains an invalid question record.");
+    }
+    if (attempt.lastSelected !== undefined && (!Number.isInteger(attempt.lastSelected) || attempt.lastSelected < 0)) {
+      throw new Error("This progress export contains an invalid answer selection.");
+    }
+    attempts[id] = { ...attempt, qid: attempt.qid || attempt.id || id };
+  });
+  const sessionIds = new Set();
+  const sessions = data.sessions.map((session) => {
+    if (!isPlainObject(session) || typeof session.id !== "string" || sessionIds.has(session.id)) {
+      throw new Error("This progress export contains an invalid session record.");
+    }
+    sessionIds.add(session.id);
+    return session;
+  });
+  return { ...data, attempts, sessions };
 }
 
 export function importProgress(data, strategy) {
-  if (!data || typeof data.attempts !== "object" || Array.isArray(data.attempts) || !Array.isArray(data.sessions)) {
-    throw new Error("This file is not a valid DCS QBank progress export.");
-  }
+  const validated = validateProgressImport(data);
   if (strategy === "replace") {
-    commit({ ...emptyState(), attempts: data.attempts, sessions: data.sessions, createdAt: data.createdAt || new Date().toISOString() });
+    commit({ ...emptyState(), attempts: validated.attempts, sessions: validated.sessions, createdAt: validated.createdAt || new Date().toISOString() });
     return;
   }
   const attempts = { ...state.attempts };
-  Object.entries(data.attempts).forEach(([id, a]) => {
+  Object.entries(validated.attempts).forEach(([id, a]) => {
     if (!attempts[id] || (a.lastAt || "") > (attempts[id].lastAt || "")) attempts[id] = a;
   });
   const known = new Set(state.sessions.map((s) => s.id));
-  const sessions = [...state.sessions, ...data.sessions.filter((s) => !known.has(s.id))]
+  const sessions = [...state.sessions, ...validated.sessions.filter((s) => !known.has(s.id))]
     .sort((a, b) => ((b.endedAt || "") > (a.endedAt || "") ? 1 : -1));
   commit({ ...state, attempts, sessions });
 }

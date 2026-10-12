@@ -1,0 +1,60 @@
+{
+  "chapterId": "ch04",
+  "title": "Hemodynamics & Cardiac Output",
+  "questions": [
+    {
+      "id": "DCS5002-ch04-q001",
+      "stem": "Cardiac output is calculated as:",
+      "image": null,
+      "options": [
+        "Stroke volume × heart rate",
+        "Stroke volume ÷ heart rate",
+        "End-diastolic volume − end-systolic volume",
+        "Mean arterial pressure × heart rate"
+      ],
+      "answer": 0,
+      "explanation": "CO = SV × HR. Stroke volume is EDV − ESV. On echo it can also be found with LVOT area × LVOT VTI.",
+      "explanationImage": null,
+      "tags": [
+        "hemodynamics"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch04-q002",
+      "stem": "An LVOT diameter of 2.0 cm and an LVOT VTI of 20 cm give a stroke volume of approximately:",
+      "image": null,
+      "options": [
+        "31 mL",
+        "63 mL",
+        "80 mL",
+        "126 mL"
+      ],
+      "answer": 1,
+      "explanation": "LVOT area = 0.785 × D² = 0.785 × 4 = 3.14 cm². SV = 3.14 cm² × 20 cm ≈ 63 mL.",
+      "explanationImage": null,
+      "tags": [
+        "calculations"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch04-q003",
+      "stem": "According to the Frank-Starling mechanism, increasing preload (within physiologic limits) will:",
+      "image": null,
+      "options": [
+        "Decrease stroke volume",
+        "Increase stroke volume",
+        "Not change stroke volume",
+        "Decrease contractility"
+      ],
+      "answer": 1,
+      "explanation": "More stretch of the myocardial fibers at end-diastole (preload) produces a stronger contraction, so stroke volume increases. This holds until the fibers are overstretched.",
+      "explanationImage": null,
+      "tags": [
+        "physiology"
+      ],
+      "reference": ""
+    }
+  ]
+}

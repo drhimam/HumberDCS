@@ -1,0 +1,78 @@
+{
+  "chapterId": "ch04",
+  "title": "Basic Image Optimization",
+  "questions": [
+    {
+      "id": "DCS5000-ch04-q001",
+      "stem": "Increasing the overall gain affects the image by:",
+      "image": null,
+      "options": [
+        "Increasing transmitted acoustic power",
+        "Amplifying all received echoes equally",
+        "Improving axial resolution",
+        "Changing the frame rate"
+      ],
+      "answer": 1,
+      "explanation": "Gain is a receiver function. It amplifies all returning signals equally, making the whole image brighter. It does not change output power, so patient exposure stays the same.",
+      "explanationImage": null,
+      "tags": [
+        "knobology"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch04-q002",
+      "stem": "Time gain compensation (TGC) is used to correct for:",
+      "image": null,
+      "options": [
+        "Refraction artifacts",
+        "Attenuation with depth",
+        "Doppler aliasing",
+        "Low frame rate"
+      ],
+      "answer": 1,
+      "explanation": "Echoes from deeper structures are weaker because of attenuation. TGC applies more amplification at greater depths, so similar tissues look equally bright from top to bottom.",
+      "explanationImage": null,
+      "tags": [
+        "TGC"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch04-q003",
+      "stem": "Which adjustment will increase the 2D frame rate?",
+      "image": null,
+      "options": [
+        "Increasing the imaging depth",
+        "Widening the sector",
+        "Narrowing the sector width",
+        "Adding more focal zones"
+      ],
+      "answer": 2,
+      "explanation": "Frame rate depends on how many scan lines are needed and how long each takes. A narrower sector, shallower depth, and fewer focal zones all increase the frame rate.",
+      "explanationImage": null,
+      "tags": [
+        "temporal resolution"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch04-q004",
+      "stem": "Where should the transmit focal zone be placed for best lateral resolution of a structure?",
+      "image": null,
+      "options": [
+        "Well above the structure",
+        "At or slightly below the level of the structure",
+        "At the maximum depth",
+        "Focus position has no effect"
+      ],
+      "answer": 1,
+      "explanation": "The beam is narrowest at the focus, and that is where lateral resolution is best. Place the focal zone at the level of the structure of interest, or just below it.",
+      "explanationImage": null,
+      "tags": [
+        "focus"
+      ],
+      "reference": ""
+    }
+  ]
+}

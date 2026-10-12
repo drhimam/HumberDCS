@@ -1,0 +1,1806 @@
+{
+  "chapterId": "ch05",
+  "title": "Module 5: Transducer Design, Construction and Types",
+  "questions": [
+    {
+      "id": "DCS5004-ch05-q001",
+      "stem": "Which statement best defines an ultrasound transducer?",
+      "image": null,
+      "options": [
+        "A device that measures tissue attenuation",
+        "A device that converts one form of energy into another",
+        "A device that displays returning echoes",
+        "A device that determines pulse repetition frequency"
+      ],
+      "answer": 1,
+      "explanation": "A transducer converts one form of energy into another.",
+      "explanationImage": null,
+      "tags": [
+        "Transducer Function and the Piezoelectric Effect"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch05-q002",
+      "stem": "During transmission, the active element converts:",
+      "image": null,
+      "options": [
+        "Mechanical energy into electrical energy",
+        "Heat energy into electrical energy",
+        "Electrical energy into mechanical energy",
+        "Acoustic impedance into sound velocity"
+      ],
+      "answer": 2,
+      "explanation": "On transmission, electrical energy becomes mechanical energy.",
+      "explanationImage": null,
+      "tags": [
+        "Transducer Function and the Piezoelectric Effect"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch05-q003",
+      "stem": "During reception, returning echoes cause the active element to produce:",
+      "image": null,
+      "options": [
+        "A matching-layer vibration",
+        "A longer transmitted pulse",
+        "A higher propagation speed",
+        "An electrical signal"
+      ],
+      "answer": 3,
+      "explanation": "Returning echoes make the element produce an electrical signal.",
+      "explanationImage": null,
+      "tags": [
+        "Transducer Function and the Piezoelectric Effect"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch05-q004",
+      "stem": "A brief electrical voltage is applied to the active element. What happens next?",
+      "image": null,
+      "options": [
+        "The element changes shape and vibrates",
+        "The backing layer produces an electrical signal",
+        "The matching layer changes acoustic impedance",
+        "The lens increases the pulse frequency"
+      ],
+      "answer": 0,
+      "explanation": "A voltage makes the element change shape and vibrate.",
+      "explanationImage": null,
+      "tags": [
+        "Transducer Function and the Piezoelectric Effect"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch05-q005",
+      "stem": "Which transducer component is commonly called the \"crystal\"?",
+      "image": null,
+      "options": [
+        "Acoustic lens",
+        "Matching layer",
+        "Active element",
+        "Backing material"
+      ],
+      "answer": 2,
+      "explanation": "The active element is called the crystal.",
+      "explanationImage": null,
+      "tags": [
+        "Transducer Function and the Piezoelectric Effect"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch05-q006",
+      "stem": "Which event represents the direct piezoelectric effect?",
+      "image": null,
+      "options": [
+        "Electrical voltage causes the element to vibrate",
+        "Returning sound deforms the element and produces a voltage",
+        "The matching layer transfers sound into tissue",
+        "The backing material reduces element vibration"
+      ],
+      "answer": 1,
+      "explanation": "The direct effect is pressure producing a voltage.",
+      "explanationImage": null,
+      "tags": [
+        "Transducer Function and the Piezoelectric Effect"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch05-q007",
+      "stem": "Which event represents the converse (inverse) piezoelectric effect?",
+      "image": null,
+      "options": [
+        "Mechanical pressure produces an electrical signal",
+        "Returning echoes create an image pixel",
+        "Applied voltage causes the active element to change shape",
+        "Tissue impedance changes the propagation speed"
+      ],
+      "answer": 2,
+      "explanation": "The converse effect is voltage changing the element's shape.",
+      "explanationImage": null,
+      "tags": [
+        "Transducer Function and the Piezoelectric Effect"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch05-q008",
+      "stem": "The term \"piezoelectric\" describes a material that:",
+      "image": null,
+      "options": [
+        "Changes shape when a voltage is applied and produces a voltage when deformed",
+        "Conducts heat rapidly",
+        "Absorbs all sound",
+        "Changes colour with pressure"
+      ],
+      "answer": 0,
+      "explanation": "Piezoelectric materials work in both directions.",
+      "explanationImage": null,
+      "tags": [
+        "Transducer Function and the Piezoelectric Effect"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch05-q009",
+      "stem": "Which effect is used during transmission of a pulse?",
+      "image": null,
+      "options": [
+        "The direct effect",
+        "The Doppler effect",
+        "The Curie effect",
+        "The converse (inverse) effect"
+      ],
+      "answer": 3,
+      "explanation": "Transmission uses the converse (inverse) effect.",
+      "explanationImage": null,
+      "tags": [
+        "Transducer Function and the Piezoelectric Effect"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch05-q010",
+      "stem": "Which effect is used during reception of echoes?",
+      "image": null,
+      "options": [
+        "The converse effect",
+        "The direct effect",
+        "The Doppler effect",
+        "The thermal effect"
+      ],
+      "answer": 1,
+      "explanation": "Reception uses the direct effect.",
+      "explanationImage": null,
+      "tags": [
+        "Transducer Function and the Piezoelectric Effect"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch05-q011",
+      "stem": "In pulse-echo imaging, a single transducer element:",
+      "image": null,
+      "options": [
+        "Only transmits",
+        "Only receives",
+        "Both transmits and receives",
+        "Neither transmits nor receives"
+      ],
+      "answer": 2,
+      "explanation": "One element transmits and receives.",
+      "explanationImage": null,
+      "tags": [
+        "Transducer Function and the Piezoelectric Effect"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch05-q012",
+      "stem": "Which sequence of energy conversions is correct for pulse-echo imaging?",
+      "image": null,
+      "options": [
+        "Electrical to mechanical on transmit; mechanical to electrical on receive",
+        "Mechanical to electrical on transmit; electrical to mechanical on receive",
+        "Heat to electrical on transmit; electrical to heat on receive",
+        "Electrical to light on transmit; light to electrical on receive"
+      ],
+      "answer": 0,
+      "explanation": "Electrical to mechanical on transmit; mechanical to electrical on receive.",
+      "explanationImage": null,
+      "tags": [
+        "Transducer Function and the Piezoelectric Effect"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch05-q013",
+      "stem": "The strength of the electrical signal produced on reception depends on:",
+      "image": null,
+      "options": [
+        "The wavelength of the element",
+        "The amplitude of the returning echo",
+        "The PRF",
+        "The coupling gel thickness"
+      ],
+      "answer": 1,
+      "explanation": "Stronger echoes give a larger electrical signal.",
+      "explanationImage": null,
+      "tags": [
+        "Transducer Function and the Piezoelectric Effect"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch05-q014",
+      "stem": "An ultrasound pulse is produced when:",
+      "image": null,
+      "options": [
+        "The element is heated",
+        "Gel is applied",
+        "The backing material absorbs sound",
+        "A brief electrical voltage excites the element"
+      ],
+      "answer": 3,
+      "explanation": "A brief voltage excites the element and forms the pulse.",
+      "explanationImage": null,
+      "tags": [
+        "Transducer Function and the Piezoelectric Effect"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch05-q015",
+      "stem": "Which material is commonly used for conventional transducer elements?",
+      "image": null,
+      "options": [
+        "Lead zirconate titanate (PZT)",
+        "Tungsten carbide",
+        "Silicone rubber",
+        "Polyethylene gel"
+      ],
+      "answer": 0,
+      "explanation": "PZT is the common transducer ceramic.",
+      "explanationImage": null,
+      "tags": [
+        "Piezoelectric Materials and Curie Temperature"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch05-q016",
+      "stem": "A piezoelectric element is heated above its Curie temperature. The most likely result is that it:",
+      "image": null,
+      "options": [
+        "Doubles its propagation speed",
+        "Increases its matching-layer impedance",
+        "Loses its piezoelectric properties",
+        "Temporarily narrows its bandwidth"
+      ],
+      "answer": 2,
+      "explanation": "Above the Curie temperature piezoelectric properties are lost.",
+      "explanationImage": null,
+      "tags": [
+        "Piezoelectric Materials and Curie Temperature"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch05-q017",
+      "stem": "Why must transducers generally not be heat sterilised?",
+      "image": null,
+      "options": [
+        "The gel would melt",
+        "Excess heat could exceed the Curie temperature and destroy piezoelectric properties",
+        "The lens would become electrically charged",
+        "Heat increases the PRF"
+      ],
+      "answer": 1,
+      "explanation": "Heat can exceed the Curie temperature and ruin the element.",
+      "explanationImage": null,
+      "tags": [
+        "Piezoelectric Materials and Curie Temperature"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch05-q018",
+      "stem": "Which of the following is a synthetic piezoelectric ceramic?",
+      "image": null,
+      "options": [
+        "Quartz",
+        "Tourmaline",
+        "Silicone rubber",
+        "Lead zirconate titanate"
+      ],
+      "answer": 3,
+      "explanation": "PZT is a synthetic ceramic; quartz and tourmaline are natural.",
+      "explanationImage": null,
+      "tags": [
+        "Piezoelectric Materials and Curie Temperature"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch05-q019",
+      "stem": "The Curie temperature is the temperature above which a piezoelectric material:",
+      "image": null,
+      "options": [
+        "Loses its piezoelectric properties",
+        "Doubles its resonant frequency",
+        "Becomes a perfect matching layer",
+        "Stops reflecting sound"
+      ],
+      "answer": 0,
+      "explanation": "That is the definition of the Curie temperature.",
+      "explanationImage": null,
+      "tags": [
+        "Piezoelectric Materials and Curie Temperature"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch05-q020",
+      "stem": "Which terms refer to the same transducer component?",
+      "image": null,
+      "options": [
+        "Lens and matching layer",
+        "Crystal and piezoelectric (active) element",
+        "Backing and gel",
+        "Matching layer and backing"
+      ],
+      "answer": 1,
+      "explanation": "Crystal and piezoelectric element mean the active element.",
+      "explanationImage": null,
+      "tags": [
+        "Piezoelectric Materials and Curie Temperature"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch05-q021",
+      "stem": "The resonant frequency of a piezoelectric element is determined primarily by:",
+      "image": null,
+      "options": [
+        "Element thickness and propagation speed in the element",
+        "Matching-layer thickness and patient depth",
+        "PRF and duty factor",
+        "Lens curvature and scan-line density"
+      ],
+      "answer": 0,
+      "explanation": "Thickness and propagation speed set the resonant frequency.",
+      "explanationImage": null,
+      "tags": [
+        "Resonant Frequency and Element Thickness"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch05-q022",
+      "stem": "Which relationship exists between element thickness and resonant frequency?",
+      "image": null,
+      "options": [
+        "Direct",
+        "Inverse",
+        "Unrelated",
+        "Exponential"
+      ],
+      "answer": 1,
+      "explanation": "Thinner elements resonate at higher frequencies (inverse).",
+      "explanationImage": null,
+      "tags": [
+        "Resonant Frequency and Element Thickness"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch05-q023",
+      "stem": "Two elements have the same thickness but different propagation speeds. Which has the higher resonant frequency?",
+      "image": null,
+      "options": [
+        "The element with the higher propagation speed",
+        "The element with the lower propagation speed",
+        "Both are the same",
+        "It cannot be predicted"
+      ],
+      "answer": 0,
+      "explanation": "Higher speed with the same thickness gives a higher frequency.",
+      "explanationImage": null,
+      "tags": [
+        "Resonant Frequency and Element Thickness"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch05-q024",
+      "stem": "A manufacturer decreases element thickness while keeping the material unchanged. The resonant frequency:",
+      "image": null,
+      "options": [
+        "Decreases",
+        "Is unchanged",
+        "Increases",
+        "Becomes equal to the tissue frequency"
+      ],
+      "answer": 2,
+      "explanation": "Thinner means higher resonant frequency.",
+      "explanationImage": null,
+      "tags": [
+        "Resonant Frequency and Element Thickness"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch05-q025",
+      "stem": "A 0.4 mm element produces 5 MHz. What thickness gives 10 MHz in the same material?",
+      "image": null,
+      "options": [
+        "0.1 mm",
+        "0.2 mm",
+        "0.8 mm",
+        "1.0 mm"
+      ],
+      "answer": 1,
+      "explanation": "Doubling frequency halves thickness: 0.4 ÷ 2 = 0.2 mm.",
+      "explanationImage": null,
+      "tags": [
+        "Resonant Frequency and Element Thickness"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch05-q026",
+      "stem": "A 0.5 mm element produces 4 MHz. What thickness gives 2 MHz in the same material?",
+      "image": null,
+      "options": [
+        "0.25 mm",
+        "0.5 mm",
+        "1.0 mm",
+        "2.0 mm"
+      ],
+      "answer": 2,
+      "explanation": "Halving frequency doubles thickness: 0.5 × 2 = 1.0 mm.",
+      "explanationImage": null,
+      "tags": [
+        "Resonant Frequency and Element Thickness"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch05-q027",
+      "stem": "A 1 mm element produces 2 MHz. What thickness gives 4 MHz in the same material?",
+      "image": null,
+      "options": [
+        "0.25 mm",
+        "2 mm",
+        "4 mm",
+        "0.5 mm"
+      ],
+      "answer": 3,
+      "explanation": "Doubling frequency halves thickness: 1 ÷ 2 = 0.5 mm.",
+      "explanationImage": null,
+      "tags": [
+        "Resonant Frequency and Element Thickness"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch05-q028",
+      "stem": "A 0.8 mm element produces 2.5 MHz. What thickness gives 5 MHz in the same material?",
+      "image": null,
+      "options": [
+        "0.4 mm",
+        "0.2 mm",
+        "1.6 mm",
+        "3.2 mm"
+      ],
+      "answer": 0,
+      "explanation": "0.8 ÷ 2 = 0.4 mm.",
+      "explanationImage": null,
+      "tags": [
+        "Resonant Frequency and Element Thickness"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch05-q029",
+      "stem": "If the desired frequency doubles (same material), the element thickness must:",
+      "image": null,
+      "options": [
+        "Double",
+        "Be halved",
+        "Stay the same",
+        "Quadruple"
+      ],
+      "answer": 1,
+      "explanation": "Frequency and thickness are inversely related.",
+      "explanationImage": null,
+      "tags": [
+        "Resonant Frequency and Element Thickness"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch05-q030",
+      "stem": "An element has a propagation speed of 4 mm/µs and a thickness of 0.4 mm. Using f = c ÷ 2T, what is its resonant frequency?",
+      "image": null,
+      "options": [
+        "2.5 MHz",
+        "10 MHz",
+        "5 MHz",
+        "0.2 MHz"
+      ],
+      "answer": 2,
+      "explanation": "f = 4 ÷ (2 × 0.4) = 5 MHz.",
+      "explanationImage": null,
+      "tags": [
+        "Resonant Frequency and Element Thickness"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch05-q031",
+      "stem": "An element has a propagation speed of 4 mm/µs and a thickness of 0.2 mm. What is its resonant frequency?",
+      "image": null,
+      "options": [
+        "10 MHz",
+        "5 MHz",
+        "20 MHz",
+        "2 MHz"
+      ],
+      "answer": 0,
+      "explanation": "f = 4 ÷ (2 × 0.2) = 10 MHz.",
+      "explanationImage": null,
+      "tags": [
+        "Resonant Frequency and Element Thickness"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch05-q032",
+      "stem": "An element has a propagation speed of 4 mm/µs and must resonate at 2 MHz. What thickness is needed?",
+      "image": null,
+      "options": [
+        "0.5 mm",
+        "1 mm",
+        "2 mm",
+        "4 mm"
+      ],
+      "answer": 1,
+      "explanation": "T = c ÷ 2f = 4 ÷ 4 = 1 mm.",
+      "explanationImage": null,
+      "tags": [
+        "Resonant Frequency and Element Thickness"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch05-q033",
+      "stem": "At resonance, the active-element thickness equals approximately:",
+      "image": null,
+      "options": [
+        "One full wavelength in the element",
+        "One-half wavelength in the element",
+        "One-quarter wavelength in the element",
+        "Twice the wavelength in the element"
+      ],
+      "answer": 1,
+      "explanation": "Element thickness is about half a wavelength.",
+      "explanationImage": null,
+      "tags": [
+        "Resonant Frequency and Element Thickness"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch05-q034",
+      "stem": "Resonant frequency is best described as:",
+      "image": null,
+      "options": [
+        "The frequency chosen by the sonographer for every exam",
+        "The highest harmonic received by the system",
+        "The pulse repetition frequency",
+        "The natural frequency at which the element vibrates efficiently"
+      ],
+      "answer": 3,
+      "explanation": "Resonant frequency is the natural frequency of efficient vibration.",
+      "explanationImage": null,
+      "tags": [
+        "Resonant Frequency and Element Thickness"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch05-q035",
+      "stem": "How does PRF relate to the transducer's resonant frequency?",
+      "image": null,
+      "options": [
+        "PRF is determined by element thickness",
+        "PRF and pulse timing are distinct from resonant frequency",
+        "PRF equals resonant frequency",
+        "PRF is set by the matching layer"
+      ],
+      "answer": 1,
+      "explanation": "PRF is pulse timing, separate from resonant frequency.",
+      "explanationImage": null,
+      "tags": [
+        "Resonant Frequency and Element Thickness"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch05-q036",
+      "stem": "To produce a higher resonant frequency with the same material, the element must be:",
+      "image": null,
+      "options": [
+        "Thicker",
+        "Made denser by backing",
+        "Thinner",
+        "Heated"
+      ],
+      "answer": 2,
+      "explanation": "A thinner element gives a higher frequency.",
+      "explanationImage": null,
+      "tags": [
+        "Resonant Frequency and Element Thickness"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch05-q037",
+      "stem": "What is the primary function of the matching layer?",
+      "image": null,
+      "options": [
+        "To increase element ringing",
+        "To reduce acoustic impedance mismatch",
+        "To eliminate electrical interference",
+        "To steer the beam electronically"
+      ],
+      "answer": 1,
+      "explanation": "The matching layer reduces the impedance mismatch.",
+      "explanationImage": null,
+      "tags": [
+        "Construction: Matching Layer, Backing, Damping, Lens, Gel"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch05-q038",
+      "stem": "A transducer has no effective matching layer. The most likely outcome is that:",
+      "image": null,
+      "options": [
+        "PRF increases",
+        "The wavelength shortens",
+        "More sound is reflected at the transducer face",
+        "The lens becomes electronically adjustable"
+      ],
+      "answer": 2,
+      "explanation": "Without it, more sound reflects at the transducer face.",
+      "explanationImage": null,
+      "tags": [
+        "Construction: Matching Layer, Backing, Damping, Lens, Gel"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch05-q039",
+      "stem": "Why do broadband transducers commonly use multiple matching layers?",
+      "image": null,
+      "options": [
+        "They increase ringing",
+        "They improve transmission over a wider frequency range",
+        "They eliminate the need for backing material",
+        "They provide electronic beam steering"
+      ],
+      "answer": 1,
+      "explanation": "Multiple layers transmit well over a wider frequency range.",
+      "explanationImage": null,
+      "tags": [
+        "Construction: Matching Layer, Backing, Damping, Lens, Gel"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch05-q040",
+      "stem": "For efficient transmission, the acoustic impedance of a matching layer should be:",
+      "image": null,
+      "options": [
+        "Lower than both the element and tissue",
+        "Higher than both the element and tissue",
+        "Equal to the backing material only",
+        "Between the impedances of the element and tissue"
+      ],
+      "answer": 3,
+      "explanation": "The layer's impedance lies between element and tissue.",
+      "explanationImage": null,
+      "tags": [
+        "Construction: Matching Layer, Backing, Damping, Lens, Gel"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch05-q041",
+      "stem": "A matching layer is commonly made with a thickness of about:",
+      "image": null,
+      "options": [
+        "One wavelength",
+        "One-half wavelength",
+        "One-quarter wavelength",
+        "Two wavelengths"
+      ],
+      "answer": 2,
+      "explanation": "Matching layers are about a quarter wavelength thick.",
+      "explanationImage": null,
+      "tags": [
+        "Construction: Matching Layer, Backing, Damping, Lens, Gel"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch05-q042",
+      "stem": "In a transducer with several matching layers, impedance:",
+      "image": null,
+      "options": [
+        "Decreases progressively from the element toward tissue",
+        "Increases progressively from the element toward tissue",
+        "Is identical in all layers",
+        "Is lowest at the element"
+      ],
+      "answer": 0,
+      "explanation": "Impedance falls step by step from element toward tissue.",
+      "explanationImage": null,
+      "tags": [
+        "Construction: Matching Layer, Backing, Damping, Lens, Gel"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch05-q043",
+      "stem": "The main purpose of coupling gel is to:",
+      "image": null,
+      "options": [
+        "Cool the transducer",
+        "Remove the air gap between the probe and skin",
+        "Increase the speed of sound",
+        "Focus the beam"
+      ],
+      "answer": 1,
+      "explanation": "Gel removes the air gap.",
+      "explanationImage": null,
+      "tags": [
+        "Construction: Matching Layer, Backing, Damping, Lens, Gel"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch05-q044",
+      "stem": "An air gap remains between the transducer face and the skin. The most likely result is:",
+      "image": null,
+      "options": [
+        "Increased sound transmission",
+        "Increased penetration",
+        "Reflection of nearly all transmitted sound",
+        "Improved axial resolution"
+      ],
+      "answer": 2,
+      "explanation": "Air reflects almost all the sound.",
+      "explanationImage": null,
+      "tags": [
+        "Construction: Matching Layer, Backing, Damping, Lens, Gel"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch05-q045",
+      "stem": "A stand-off pad is:",
+      "image": null,
+      "options": [
+        "A device that raises the transducer frequency",
+        "A type of backing material",
+        "An electrical safety shield",
+        "An acoustic coupling material placed between the transducer and the skin"
+      ],
+      "answer": 3,
+      "explanation": "A stand-off pad is an acoustic coupling material between probe and skin.",
+      "explanationImage": null,
+      "tags": [
+        "Construction: Matching Layer, Backing, Damping, Lens, Gel"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch05-q046",
+      "stem": "What is the main benefit of a stand-off pad for a structure immediately beneath the skin?",
+      "image": null,
+      "options": [
+        "It places the structure farther from the transducer face, in a more useful part of the beam",
+        "It increases the transducer frequency",
+        "It lowers the propagation speed",
+        "It electronically focuses the beam"
+      ],
+      "answer": 0,
+      "explanation": "It moves the structure away from the face into a more useful part of the beam.",
+      "explanationImage": null,
+      "tags": [
+        "Construction: Matching Layer, Backing, Damping, Lens, Gel"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch05-q047",
+      "stem": "A stand-off pad moves a very superficial target out of the near field and into the:",
+      "image": null,
+      "options": [
+        "Near field",
+        "Focal zone",
+        "Acoustic shadow",
+        "Far field"
+      ],
+      "answer": 1,
+      "explanation": "It places the target in the better-focused zone.",
+      "explanationImage": null,
+      "tags": [
+        "Construction: Matching Layer, Backing, Damping, Lens, Gel"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch05-q048",
+      "stem": "Which function is commonly performed by the acoustic lens?",
+      "image": null,
+      "options": [
+        "Fixed focusing in the elevational plane",
+        "Electronic steering in the scan plane",
+        "Generating electrical excitation pulses",
+        "Absorbing backward-directed sound"
+      ],
+      "answer": 0,
+      "explanation": "The lens gives fixed elevational focusing.",
+      "explanationImage": null,
+      "tags": [
+        "Construction: Matching Layer, Backing, Damping, Lens, Gel"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch05-q049",
+      "stem": "Where is the acoustic lens located?",
+      "image": null,
+      "options": [
+        "Behind the active element",
+        "Between the element and the backing",
+        "At the front of the transducer, nearest the patient",
+        "Inside the system monitor"
+      ],
+      "answer": 2,
+      "explanation": "The lens is the outermost layer, nearest the patient.",
+      "explanationImage": null,
+      "tags": [
+        "Construction: Matching Layer, Backing, Damping, Lens, Gel"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch05-q050",
+      "stem": "Where is the backing material located?",
+      "image": null,
+      "options": [
+        "Between the probe and the skin",
+        "In front of the matching layer",
+        "Behind the active element",
+        "Inside the system monitor"
+      ],
+      "answer": 2,
+      "explanation": "Backing material sits behind the active element.",
+      "explanationImage": null,
+      "tags": [
+        "Construction: Matching Layer, Backing, Damping, Lens, Gel"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch05-q051",
+      "stem": "The backing material supports:",
+      "image": null,
+      "options": [
+        "Damping, which reduces ringing",
+        "Fixed elevational focusing",
+        "Impedance matching to tissue",
+        "Electronic beam steering"
+      ],
+      "answer": 0,
+      "explanation": "Backing supports damping and reduces ringing.",
+      "explanationImage": null,
+      "tags": [
+        "Construction: Matching Layer, Backing, Damping, Lens, Gel"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch05-q052",
+      "stem": "Increasing the damping applied to the active element results in:",
+      "image": null,
+      "options": [
+        "More cycles per pulse",
+        "Longer pulse duration",
+        "Shorter spatial pulse length",
+        "Narrower bandwidth"
+      ],
+      "answer": 2,
+      "explanation": "More damping shortens the pulse and SPL.",
+      "explanationImage": null,
+      "tags": [
+        "Construction: Matching Layer, Backing, Damping, Lens, Gel"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch05-q053",
+      "stem": "A transducer produces fewer cycles in each pulse. Which characteristic is most directly improved?",
+      "image": null,
+      "options": [
+        "Temporal resolution",
+        "Contrast resolution",
+        "Display dynamic range",
+        "Axial resolution"
+      ],
+      "answer": 3,
+      "explanation": "Fewer cycles shorten the pulse, improving axial resolution.",
+      "explanationImage": null,
+      "tags": [
+        "Construction: Matching Layer, Backing, Damping, Lens, Gel"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch05-q054",
+      "stem": "A manufacturer increases damping to improve axial resolution. What additional change should be expected?",
+      "image": null,
+      "options": [
+        "Increased sensitivity",
+        "Reduced sensitivity",
+        "Increased ringing",
+        "Narrower bandwidth"
+      ],
+      "answer": 1,
+      "explanation": "Damping improves axial resolution but reduces sensitivity.",
+      "explanationImage": null,
+      "tags": [
+        "Construction: Matching Layer, Backing, Damping, Lens, Gel"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch05-q055",
+      "stem": "Which sequence correctly describes increased damping?",
+      "image": null,
+      "options": [
+        "More ringing → longer pulse → broader bandwidth",
+        "Less ringing → longer pulse → narrower bandwidth",
+        "Less ringing → shorter pulse → broader bandwidth",
+        "More ringing → shorter pulse → lower quality factor"
+      ],
+      "answer": 2,
+      "explanation": "More damping: less ringing, shorter pulse, broader bandwidth.",
+      "explanationImage": null,
+      "tags": [
+        "Construction: Matching Layer, Backing, Damping, Lens, Gel"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch05-q056",
+      "stem": "\"Ringing\" in a transducer refers to:",
+      "image": null,
+      "options": [
+        "Electrical noise in the cable",
+        "Echoes from deeper structures",
+        "Electronic beam steering",
+        "Continued vibration of the element after the pulse"
+      ],
+      "answer": 3,
+      "explanation": "Ringing is continued vibration after excitation.",
+      "explanationImage": null,
+      "tags": [
+        "Construction: Matching Layer, Backing, Damping, Lens, Gel"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch05-q057",
+      "stem": "More damping causes pulse duration to:",
+      "image": null,
+      "options": [
+        "Shorten",
+        "Lengthen",
+        "Stay unchanged",
+        "Double"
+      ],
+      "answer": 0,
+      "explanation": "More damping shortens pulse duration.",
+      "explanationImage": null,
+      "tags": [
+        "Construction: Matching Layer, Backing, Damping, Lens, Gel"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch05-q058",
+      "stem": "More damping causes the number of cycles per pulse to:",
+      "image": null,
+      "options": [
+        "Increase",
+        "Decrease",
+        "Stay unchanged",
+        "Double"
+      ],
+      "answer": 1,
+      "explanation": "More damping means fewer cycles.",
+      "explanationImage": null,
+      "tags": [
+        "Construction: Matching Layer, Backing, Damping, Lens, Gel"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch05-q059",
+      "stem": "More damping causes bandwidth to:",
+      "image": null,
+      "options": [
+        "Narrow",
+        "Stay unchanged",
+        "Widen",
+        "Fall to zero"
+      ],
+      "answer": 2,
+      "explanation": "More damping widens the bandwidth.",
+      "explanationImage": null,
+      "tags": [
+        "Construction: Matching Layer, Backing, Damping, Lens, Gel"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch05-q060",
+      "stem": "Which is a disadvantage of heavy damping?",
+      "image": null,
+      "options": [
+        "Longer spatial pulse length",
+        "More ringing",
+        "Narrower bandwidth",
+        "Reduced sensitivity"
+      ],
+      "answer": 3,
+      "explanation": "Heavy damping lowers sensitivity.",
+      "explanationImage": null,
+      "tags": [
+        "Construction: Matching Layer, Backing, Damping, Lens, Gel"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch05-q061",
+      "stem": "Which component reduces ringing?",
+      "image": null,
+      "options": [
+        "Backing material",
+        "Acoustic lens",
+        "Coupling gel",
+        "Matching layer"
+      ],
+      "answer": 0,
+      "explanation": "Backing material damps ringing.",
+      "explanationImage": null,
+      "tags": [
+        "Construction: Matching Layer, Backing, Damping, Lens, Gel"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch05-q062",
+      "stem": "From the patient inward, which order of components is correct?",
+      "image": null,
+      "options": [
+        "Active element, matching layer, lens, backing",
+        "Lens, matching layer, active element, backing",
+        "Backing, active element, matching layer, lens",
+        "Matching layer, lens, backing, active element"
+      ],
+      "answer": 1,
+      "explanation": "Lens, matching layer, active element, backing.",
+      "explanationImage": null,
+      "tags": [
+        "Construction: Matching Layer, Backing, Damping, Lens, Gel"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch05-q063",
+      "stem": "A \"5 MHz\" probe efficiently transmits and receives from 3 to 7 MHz. What is its bandwidth?",
+      "image": null,
+      "options": [
+        "2 MHz",
+        "4 MHz",
+        "5 MHz",
+        "10 MHz"
+      ],
+      "answer": 1,
+      "explanation": "7 − 3 = 4 MHz.",
+      "explanationImage": null,
+      "tags": [
+        "Bandwidth and Quality Factor"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch05-q064",
+      "stem": "A transducer has a centre frequency of 6 MHz and a bandwidth of 3 MHz. What is its quality factor?",
+      "image": null,
+      "options": [
+        "0.5",
+        "2",
+        "3",
+        "18"
+      ],
+      "answer": 1,
+      "explanation": "Q = 6 ÷ 3 = 2.",
+      "explanationImage": null,
+      "tags": [
+        "Bandwidth and Quality Factor"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch05-q065",
+      "stem": "A transducer has a centre frequency of 5 MHz and a bandwidth of 2.5 MHz. What is its quality factor?",
+      "image": null,
+      "options": [
+        "0.5",
+        "12.5",
+        "2",
+        "7.5"
+      ],
+      "answer": 2,
+      "explanation": "Q = 5 ÷ 2.5 = 2.",
+      "explanationImage": null,
+      "tags": [
+        "Bandwidth and Quality Factor"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch05-q066",
+      "stem": "A transducer has a centre frequency of 4 MHz and a bandwidth of 4 MHz. What is its quality factor?",
+      "image": null,
+      "options": [
+        "16",
+        "4",
+        "0.25",
+        "1"
+      ],
+      "answer": 3,
+      "explanation": "Q = 4 ÷ 4 = 1.",
+      "explanationImage": null,
+      "tags": [
+        "Bandwidth and Quality Factor"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch05-q067",
+      "stem": "A transducer has a centre frequency of 3 MHz and a bandwidth of 1.5 MHz. What is its quality factor?",
+      "image": null,
+      "options": [
+        "2",
+        "4.5",
+        "0.5",
+        "1.5"
+      ],
+      "answer": 0,
+      "explanation": "Q = 3 ÷ 1.5 = 2.",
+      "explanationImage": null,
+      "tags": [
+        "Bandwidth and Quality Factor"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch05-q068",
+      "stem": "A transducer has a quality factor of 4 and a centre frequency of 8 MHz. What is its bandwidth?",
+      "image": null,
+      "options": [
+        "32 MHz",
+        "12 MHz",
+        "2 MHz",
+        "0.5 MHz"
+      ],
+      "answer": 2,
+      "explanation": "BW = 8 ÷ 4 = 2 MHz.",
+      "explanationImage": null,
+      "tags": [
+        "Bandwidth and Quality Factor"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch05-q069",
+      "stem": "Which combination is associated with a low-quality-factor transducer?",
+      "image": null,
+      "options": [
+        "Narrow bandwidth and long pulse",
+        "Narrow bandwidth and short pulse",
+        "Broad bandwidth and short pulse",
+        "Broad bandwidth and prolonged ringing"
+      ],
+      "answer": 2,
+      "explanation": "Low Q means broad bandwidth and short pulses.",
+      "explanationImage": null,
+      "tags": [
+        "Bandwidth and Quality Factor"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch05-q070",
+      "stem": "Which combination is associated with a high-quality-factor transducer?",
+      "image": null,
+      "options": [
+        "Narrow bandwidth and long pulse",
+        "Broad bandwidth and short pulse",
+        "Broad bandwidth and long pulse",
+        "Narrow bandwidth and short pulse"
+      ],
+      "answer": 0,
+      "explanation": "High Q means narrow bandwidth and long pulses.",
+      "explanationImage": null,
+      "tags": [
+        "Bandwidth and Quality Factor"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch05-q071",
+      "stem": "Two transducers have the same centre frequency. A has a bandwidth of 2 MHz; B has a bandwidth of 5 MHz. Which statement is correct?",
+      "image": null,
+      "options": [
+        "A has the lower quality factor",
+        "B has the higher quality factor",
+        "B has the lower quality factor",
+        "They have the same quality factor"
+      ],
+      "answer": 2,
+      "explanation": "Wider bandwidth at the same centre frequency gives a lower Q.",
+      "explanationImage": null,
+      "tags": [
+        "Bandwidth and Quality Factor"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch05-q072",
+      "stem": "A sonographer changes the transmit frequency without changing probes. Which probe characteristic makes this possible?",
+      "image": null,
+      "options": [
+        "Narrow bandwidth",
+        "Broad bandwidth",
+        "High quality factor",
+        "Thick backing material only"
+      ],
+      "answer": 1,
+      "explanation": "Broad bandwidth allows frequency changes with one probe.",
+      "explanationImage": null,
+      "tags": [
+        "Bandwidth and Quality Factor"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch05-q073",
+      "stem": "A broadband \"5 MHz\" probe lets the system choose a lower frequency or a higher frequency. Which pairing is correct?",
+      "image": null,
+      "options": [
+        "Lower frequency for better resolution; higher for deeper penetration",
+        "Both give the same penetration",
+        "Lower frequency for better PRF; higher for better duty factor",
+        "Lower frequency for deeper penetration; higher for better resolution"
+      ],
+      "answer": 3,
+      "explanation": "Lower frequency penetrates deeper; higher gives better resolution.",
+      "explanationImage": null,
+      "tags": [
+        "Bandwidth and Quality Factor"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch05-q074",
+      "stem": "Which imaging technique requires a transducer able to transmit and receive different frequency ranges?",
+      "image": null,
+      "options": [
+        "Tissue harmonic imaging",
+        "M-mode sweep speed",
+        "Time-gain compensation",
+        "PRP adjustment"
+      ],
+      "answer": 0,
+      "explanation": "Tissue harmonic imaging needs broadband transmit and receive.",
+      "explanationImage": null,
+      "tags": [
+        "Bandwidth and Quality Factor"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch05-q075",
+      "stem": "Short pulses are associated with:",
+      "image": null,
+      "options": [
+        "Narrow bandwidth",
+        "High quality factor",
+        "Long spatial pulse length",
+        "Wide bandwidth"
+      ],
+      "answer": 3,
+      "explanation": "Short pulses go with wide bandwidth.",
+      "explanationImage": null,
+      "tags": [
+        "Bandwidth and Quality Factor"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch05-q076",
+      "stem": "Increasing damping has what effect on quality factor?",
+      "image": null,
+      "options": [
+        "It decreases the quality factor",
+        "It increases the quality factor",
+        "It does not change it",
+        "It doubles it"
+      ],
+      "answer": 0,
+      "explanation": "More damping widens bandwidth and lowers Q.",
+      "explanationImage": null,
+      "tags": [
+        "Bandwidth and Quality Factor"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch05-q077",
+      "stem": "A high-quality-factor transducer typically produces:",
+      "image": null,
+      "options": [
+        "Shorter pulses",
+        "Longer pulses and poorer axial resolution",
+        "A wider bandwidth",
+        "Fewer cycles per pulse"
+      ],
+      "answer": 1,
+      "explanation": "High Q gives longer pulses and poorer axial resolution.",
+      "explanationImage": null,
+      "tags": [
+        "Bandwidth and Quality Factor"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch05-q078",
+      "stem": "Quality factor has which units?",
+      "image": null,
+      "options": [
+        "MHz",
+        "µs",
+        "It is unitless",
+        "mm"
+      ],
+      "answer": 2,
+      "explanation": "Q is a ratio of frequencies, so unitless.",
+      "explanationImage": null,
+      "tags": [
+        "Bandwidth and Quality Factor"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch05-q079",
+      "stem": "How does a phased-array transducer steer the beam?",
+      "image": null,
+      "options": [
+        "By mechanically rotating the elements",
+        "By changing propagation speed in the matching layer",
+        "By applying small timing differences to element excitation",
+        "By increasing the gel thickness"
+      ],
+      "answer": 2,
+      "explanation": "Small timing differences steer the beam electronically.",
+      "explanationImage": null,
+      "tags": [
+        "Array Types and Transducer Selection"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch05-q080",
+      "stem": "Which combination is most characteristic of a linear-array transducer?",
+      "image": null,
+      "options": [
+        "Wide footprint and rectangular image",
+        "Small footprint and sector image",
+        "Curved footprint and sector-like image",
+        "Long internal shaft and circular image"
+      ],
+      "answer": 0,
+      "explanation": "Linear arrays have a wide footprint and rectangular image.",
+      "explanationImage": null,
+      "tags": [
+        "Array Types and Transducer Selection"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch05-q081",
+      "stem": "What is an important advantage of a curvilinear transducer over a linear transducer for abdominal imaging?",
+      "image": null,
+      "options": [
+        "Higher near-field resolution",
+        "Wider field of view at greater depth",
+        "Smaller intercostal footprint",
+        "Higher operating frequency"
+      ],
+      "answer": 1,
+      "explanation": "Curvilinear arrays give a wider field of view at depth.",
+      "explanationImage": null,
+      "tags": [
+        "Array Types and Transducer Selection"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch05-q082",
+      "stem": "Which transducer is most appropriate for imaging a superficial carotid artery?",
+      "image": null,
+      "options": [
+        "Low-frequency curvilinear",
+        "Low-frequency phased array",
+        "Endocavitary",
+        "High-frequency linear"
+      ],
+      "answer": 3,
+      "explanation": "A high-frequency linear probe suits the superficial carotid.",
+      "explanationImage": null,
+      "tags": [
+        "Array Types and Transducer Selection"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch05-q083",
+      "stem": "Which transducer is most appropriate for a routine adult abdominal examination?",
+      "image": null,
+      "options": [
+        "Low-frequency curvilinear",
+        "High-frequency linear",
+        "High-frequency endocavitary",
+        "Small-footprint phased array"
+      ],
+      "answer": 0,
+      "explanation": "A low-frequency curvilinear probe suits routine abdominal imaging.",
+      "explanationImage": null,
+      "tags": [
+        "Array Types and Transducer Selection"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch05-q084",
+      "stem": "A sonographer must image the heart through a narrow intercostal window. Which transducer is most appropriate?",
+      "image": null,
+      "options": [
+        "Linear array",
+        "Curvilinear array",
+        "Phased array",
+        "Endocavitary"
+      ],
+      "answer": 2,
+      "explanation": "A phased array fits a narrow intercostal window.",
+      "explanationImage": null,
+      "tags": [
+        "Array Types and Transducer Selection"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch05-q085",
+      "stem": "Why can an endocavitary transducer typically operate at a higher frequency than a transabdominal probe?",
+      "image": null,
+      "options": [
+        "Sound travels faster inside a body cavity",
+        "The probe is positioned closer to the anatomy",
+        "Endocavitary probes have no matching layer",
+        "Higher frequency reduces attenuation"
+      ],
+      "answer": 1,
+      "explanation": "Being close to the anatomy allows higher frequency.",
+      "explanationImage": null,
+      "tags": [
+        "Array Types and Transducer Selection"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch05-q086",
+      "stem": "A sonographer chooses between a 3 MHz and a 10 MHz probe for a deep abdominal structure. Which gives better penetration?",
+      "image": null,
+      "options": [
+        "The 3 MHz probe",
+        "The 10 MHz probe",
+        "Both are identical",
+        "Penetration is unrelated to frequency"
+      ],
+      "answer": 0,
+      "explanation": "Lower frequency penetrates better.",
+      "explanationImage": null,
+      "tags": [
+        "Array Types and Transducer Selection"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch05-q087",
+      "stem": "Lower frequency generally provides:",
+      "image": null,
+      "options": [
+        "Poorer penetration",
+        "No change in penetration",
+        "Better resolution always",
+        "Better penetration"
+      ],
+      "answer": 3,
+      "explanation": "Lower frequency gives better penetration.",
+      "explanationImage": null,
+      "tags": [
+        "Array Types and Transducer Selection"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch05-q088",
+      "stem": "Higher frequency generally provides:",
+      "image": null,
+      "options": [
+        "Better axial resolution but less penetration",
+        "Better penetration but poorer axial resolution",
+        "Both better penetration and better resolution",
+        "Neither penetration nor resolution change"
+      ],
+      "answer": 0,
+      "explanation": "Higher frequency gives better axial resolution but less penetration.",
+      "explanationImage": null,
+      "tags": [
+        "Array Types and Transducer Selection"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch05-q089",
+      "stem": "Which transducer is best suited to superficial structures such as the thyroid?",
+      "image": null,
+      "options": [
+        "Low-frequency curvilinear",
+        "Low-frequency phased array",
+        "High-frequency linear",
+        "Low-frequency endocavitary"
+      ],
+      "answer": 2,
+      "explanation": "A high-frequency linear probe suits small superficial parts.",
+      "explanationImage": null,
+      "tags": [
+        "Array Types and Transducer Selection"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch05-q090",
+      "stem": "A phased-array transducer is characterised by a:",
+      "image": null,
+      "options": [
+        "Large footprint",
+        "Small footprint",
+        "Curved footprint",
+        "Long internal shaft"
+      ],
+      "answer": 1,
+      "explanation": "Phased arrays have a small footprint.",
+      "explanationImage": null,
+      "tags": [
+        "Array Types and Transducer Selection"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch05-q091",
+      "stem": "Which statement about linear arrays is correct?",
+      "image": null,
+      "options": [
+        "They are used for superficial structures such as vessels",
+        "They are used for transthoracic echocardiography through the ribs",
+        "They always use the lowest available frequency",
+        "They produce a sector image"
+      ],
+      "answer": 0,
+      "explanation": "Linear arrays are used for vessels and other superficial structures.",
+      "explanationImage": null,
+      "tags": [
+        "Array Types and Transducer Selection"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch05-q092",
+      "stem": "A curvilinear transducer produces an image that is:",
+      "image": null,
+      "options": [
+        "Rectangular",
+        "Circular",
+        "Curved and fan-shaped",
+        "Square"
+      ],
+      "answer": 2,
+      "explanation": "Curvilinear images are curved and fan-shaped.",
+      "explanationImage": null,
+      "tags": [
+        "Array Types and Transducer Selection"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch05-q093",
+      "stem": "A phased-array transducer produces an image that is:",
+      "image": null,
+      "options": [
+        "Rectangular",
+        "Curved rectangle",
+        "Square",
+        "Sector (fan-shaped)"
+      ],
+      "answer": 3,
+      "explanation": "Phased arrays give a sector image.",
+      "explanationImage": null,
+      "tags": [
+        "Array Types and Transducer Selection"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch05-q094",
+      "stem": "Which is an endocavitary application?",
+      "image": null,
+      "options": [
+        "Carotid imaging",
+        "Transvaginal pelvic imaging",
+        "Thyroid imaging",
+        "Superficial vein mapping"
+      ],
+      "answer": 1,
+      "explanation": "Transvaginal imaging uses an endocavitary probe.",
+      "explanationImage": null,
+      "tags": [
+        "Array Types and Transducer Selection"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch05-q095",
+      "stem": "Which statement best describes a CMUT?",
+      "image": null,
+      "options": [
+        "It uses microscopic vibrating membranes manufactured on silicon",
+        "It uses a conventional PZT crystal only",
+        "It requires no electrical excitation",
+        "It can transmit but not receive"
+      ],
+      "answer": 0,
+      "explanation": "CMUTs use tiny vibrating membranes made on silicon.",
+      "explanationImage": null,
+      "tags": [
+        "Array Types and Transducer Selection"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch05-q096",
+      "stem": "Which potential advantage is associated with CMUT technology?",
+      "image": null,
+      "options": [
+        "Very narrow bandwidth",
+        "Increased element ringing",
+        "Broad bandwidth and easier integration with electronics",
+        "No need for beam formation"
+      ],
+      "answer": 2,
+      "explanation": "CMUTs offer broad bandwidth and easy electronics integration.",
+      "explanationImage": null,
+      "tags": [
+        "Array Types and Transducer Selection"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch05-q097",
+      "stem": "How does a CMUT differ from a conventional transducer?",
+      "image": null,
+      "options": [
+        "It uses a thicker PZT element",
+        "It has no backing or matching layer",
+        "It cannot be used in arrays",
+        "It uses capacitive vibration of membranes rather than a piezoelectric crystal"
+      ],
+      "answer": 3,
+      "explanation": "CMUTs use capacitive membranes instead of a piezoelectric crystal.",
+      "explanationImage": null,
+      "tags": [
+        "Array Types and Transducer Selection"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch05-q098",
+      "stem": "Why does cardiac imaging call for a small-footprint transducer?",
+      "image": null,
+      "options": [
+        "To use the lowest gain",
+        "To fit between the ribs",
+        "To increase the dynamic range",
+        "To raise the PRF"
+      ],
+      "answer": 1,
+      "explanation": "A small footprint fits between the ribs.",
+      "explanationImage": null,
+      "tags": [
+        "Array Types and Transducer Selection"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch05-q099",
+      "stem": "Which factors guide transducer choice?",
+      "image": null,
+      "options": [
+        "Depth of the anatomy, required penetration, footprint and acoustic window",
+        "Patient age only",
+        "Display colour map",
+        "Monitor brightness"
+      ],
+      "answer": 0,
+      "explanation": "Depth, penetration, footprint and acoustic window guide the choice.",
+      "explanationImage": null,
+      "tags": [
+        "Array Types and Transducer Selection"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch05-q100",
+      "stem": "Why is a low-frequency probe chosen for a deep structure?",
+      "image": null,
+      "options": [
+        "Better resolution",
+        "Smaller footprint",
+        "Greater penetration",
+        "Shorter pulses"
+      ],
+      "answer": 2,
+      "explanation": "Lower frequency penetrates deeper.",
+      "explanationImage": null,
+      "tags": [
+        "Array Types and Transducer Selection"
+      ],
+      "reference": ""
+    }
+  ]
+}

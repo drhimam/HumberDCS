@@ -1,0 +1,28 @@
+{
+  "id": "DCS5005",
+  "code": "DCS 5005",
+  "title": "Cardiac Scanning 1",
+  "semester": "sem1",
+  "chapters": [
+    {
+      "id": "ch01",
+      "title": "Parasternal Views",
+      "file": "ch01.json"
+    },
+    {
+      "id": "ch02",
+      "title": "Apical Views",
+      "file": "ch02.json"
+    },
+    {
+      "id": "ch03",
+      "title": "Subcostal & Suprasternal Views",
+      "file": "ch03.json"
+    },
+    {
+      "id": "ch04",
+      "title": "M-Mode Measurements",
+      "file": "ch04.json"
+    }
+  ]
+}

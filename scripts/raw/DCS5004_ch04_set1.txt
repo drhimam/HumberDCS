@@ -1,0 +1,609 @@
+Section 1: Cycle vs Pulse Terminology (Q1–14)
+1. Period is:
+A. The time occupied by one pulse
+B. The time required for one cycle
+C. The time from the start of one pulse to the start of the next
+D. The number of pulses per second
+2. Pulse duration is:
+A. The time for one cycle
+B. The time between pulses
+C. The total time occupied by one transmitted pulse
+D. The listening time
+3. Pulse repetition period (PRP) is measured from:
+A. The end of one pulse to the start of the next
+B. The start of one cycle to the start of the next cycle
+C. The end of transmit time to the end of receive time
+D. The start of one pulse to the start of the next pulse
+4. Pulse repetition frequency (PRF) is:
+A. The number of pulses transmitted per second
+B. The number of cycles in a pulse
+C. The time required for one pulse
+D. The distance occupied by one pulse
+5. PRP and PRF are:
+A. Directly equal
+B. Unrelated
+C. Reciprocals of each other
+D. Squares of each other
+6. Which parameter describes the physical distance occupied by one pulse?
+A. Pulse duration
+B. Spatial pulse length
+C. Pulse repetition period
+D. Duty factor
+7. Which parameters describe pulse-to-pulse timing rather than individual cycles?
+A. PRP and PRF
+B. Period and frequency
+C. Frequency and wavelength
+D. Wavelength and amplitude
+8. Listening time is the part of the PRP during which the system:
+A. Transmits a pulse
+B. Changes frequency
+C. Builds the display
+D. Receives returning echoes
+9. The PRP consists of:
+A. Listening time only
+B. Pulse duration plus listening time
+C. Transmit time only
+D. Cycles multiplied by wavelength
+10. Which of the following describes an individual cycle?
+A. PRF
+B. PRP
+C. Period
+D. Duty factor
+11. Which of the following is a pulse parameter?
+A. Frequency
+B. Wavelength
+C. Amplitude
+D. Spatial pulse length
+12. Duty factor represents:
+A. The fraction of time the system is listening
+B. The fraction of time the system is transmitting pulses
+C. The number of cycles in a pulse
+D. The distance occupied by a pulse
+13. The duty factor of continuous wave ultrasound is:
+A. 0
+B. 0.5
+C. 1 (100%)
+D. 10
+14. Which statement correctly distinguishes period from pulse duration?
+A. They are the same quantity
+B. Period measures a pulse; pulse duration measures a cycle
+C. Both measure the time between pulse starts
+D. Period measures one cycle; pulse duration measures the whole pulse
+Section 2: Pulse Duration (Q15–28)
+15. A pulse has 3 cycles, each with a period of 0.5 µs. What is the pulse duration?
+A. 0.17 µs
+B. 1.5 µs
+C. 3.5 µs
+D. 6 µs
+16. A pulse has 5 cycles, each with a period of 0.25 µs. What is the pulse duration?
+A. 1.25 µs
+B. 0.05 µs
+C. 5.25 µs
+D. 20 µs
+17. A pulse has 2 cycles, each with a period of 0.4 µs. What is the pulse duration?
+A. 0.2 µs
+B. 2.4 µs
+C. 0.8 µs
+D. 8 µs
+18. A 2 MHz transducer emits a pulse of 4 cycles. What is the pulse duration?
+A. 0.5 µs
+B. 8 µs
+C. 4 µs
+D. 2 µs
+19. A 5 MHz transducer emits a pulse of 3 cycles. What is the pulse duration?
+A. 0.6 µs
+B. 0.06 µs
+C. 1.5 µs
+D. 15 µs
+20. A 4 MHz transducer emits a pulse of 2 cycles. What is the pulse duration?
+A. 0.125 µs
+B. 0.5 µs
+C. 2 µs
+D. 8 µs
+21. A 3 MHz transducer emits a pulse of 6 cycles. What is the pulse duration?
+A. 18 µs
+B. 0.5 µs
+C. 2 µs
+D. 9 µs
+22. A 1 MHz transducer emits a pulse of 3 cycles. What is the pulse duration?
+A. 0.33 µs
+B. 1 µs
+C. 4 µs
+D. 3 µs
+23. With the number of cycles per pulse constant, increasing frequency causes pulse duration to:
+A. Decrease
+B. Increase
+C. Stay the same
+D. Double
+24. With frequency constant, increasing the number of cycles per pulse causes pulse duration to:
+A. Decrease
+B. Increase
+C. Stay the same
+D. Fall to zero
+25. With the number of cycles constant, halving the frequency causes pulse duration to:
+A. Halve
+B. Stay the same
+C. Double
+D. Quadruple
+26. The number of cycles doubles while the period is halved. Pulse duration:
+A. Doubles
+B. Halves
+C. Quadruples
+D. Is unchanged
+27. Which change decreases pulse duration when the number of cycles is constant?
+A. Lowering the frequency
+B. Lengthening the period
+C. Raising the frequency
+D. Increasing the imaging depth
+28. Which unit is appropriate for pulse duration?
+A. mm
+B. µs
+C. kHz
+D. It is unitless
+Section 3: Spatial Pulse Length (Q29–40)
+29. A pulse has 3 cycles and a wavelength of 0.5 mm. What is the spatial pulse length?
+A. 0.17 mm
+B. 1.5 mm
+C. 3.5 mm
+D. 6 mm
+30. A pulse has 4 cycles and a wavelength of 0.3 mm. What is the spatial pulse length?
+A. 1.2 mm
+B. 0.075 mm
+C. 4.3 mm
+D. 12 mm
+31. A pulse has 2 cycles and a wavelength of 0.77 mm. What is the spatial pulse length?
+A. 0.385 mm
+B. 3.08 mm
+C. 1.54 mm
+D. 2.77 mm
+32. A 1 MHz pulse of 3 cycles travels in soft tissue (c = 1540 m/s). What is the spatial pulse length?
+A. 0.51 mm
+B. 1.54 mm
+C. 3 mm
+D. 4.62 mm
+33. A 5 MHz pulse of 2 cycles travels in soft tissue (c = 1540 m/s). What is the spatial pulse length?
+A. 0.616 mm
+B. 0.154 mm
+C. 1.54 mm
+D. 6.16 mm
+34. A pulse of 4 cycles has a spatial pulse length of 6 mm. What is the wavelength?
+A. 24 mm
+B. 1.5 mm
+C. 0.67 mm
+D. 2 mm
+35. Which combination produces the shortest spatial pulse length?
+A. Many cycles and a long wavelength
+B. Many cycles and a short wavelength
+C. Few cycles and a short wavelength
+D. Few cycles and a long wavelength
+36. If the number of cycles doubles and the wavelength is unchanged, spatial pulse length:
+A. Is unchanged
+B. Halves
+C. Falls to one-quarter
+D. Doubles
+37. In the same medium with a constant number of cycles, doubling the frequency causes spatial pulse length to:
+A. Double
+B. Halve
+C. Stay the same
+D. Quadruple
+38. Which unit is appropriate for spatial pulse length?
+A. µs
+B. Hz
+C. mm
+D. %
+39. Spatial pulse length is determined by:
+A. The number of cycles and the wavelength
+B. PRP and imaging depth
+C. Duty factor
+D. Amplitude
+40. A 2-cycle pulse and a 3-cycle pulse both have a frequency of 5 MHz in soft tissue. Which has the shorter spatial pulse length?
+A. The 3-cycle pulse
+B. They are equal
+C. The 2-cycle pulse
+D. It cannot be determined
+Section 4: Axial Resolution (Q41–50)
+41. Which pulse characteristic gives the best axial resolution?
+A. Long pulse duration
+B. Long spatial pulse length
+C. Short spatial pulse length
+D. A high PRP
+42. Axial resolution equals:
+A. Spatial pulse length × 2
+B. Spatial pulse length ÷ 2
+C. Spatial pulse length
+D. PRP ÷ 2
+43. A pulse has a spatial pulse length of 1.2 mm. What is the axial resolution?
+A. 2.4 mm
+B. 1.2 mm
+C. 0.3 mm
+D. 0.6 mm
+44. A pulse has a spatial pulse length of 3 mm. What is the axial resolution?
+A. 1.5 mm
+B. 3 mm
+C. 6 mm
+D. 0.75 mm
+45. The axial resolution is 0.4 mm. What is the spatial pulse length?
+A. 0.2 mm
+B. 0.4 mm
+C. 0.8 mm
+D. 1.6 mm
+46. Two reflectors lie very close together along the beam direction. Which change would most improve their separate display?
+A. Increase spatial pulse length
+B. Increase pulse duration
+C. Increase imaging depth
+D. Decrease spatial pulse length
+47. A transducer uses fewer cycles per pulse at an unchanged frequency. What is expected?
+A. Longer pulse duration and poorer axial resolution
+B. Shorter pulse duration and improved axial resolution
+C. Longer PRP and lower PRF
+D. Higher duty factor only
+48. Improved axial resolution means the system is better able to:
+A. Separate structures side by side
+B. Show motion over time
+C. Penetrate deeper
+D. Separate reflectors lying along the beam axis
+49. The axial resolution is 0.6 mm. Two reflectors 0.4 mm apart along the beam will:
+A. Be displayed separately
+B. Merge into a single echo
+C. Appear brighter
+D. Appear deeper
+50. The axial resolution is 0.3 mm. Two reflectors 0.5 mm apart along the beam will:
+A. Merge into a single echo
+B. Disappear from the display
+C. Be displayed separately
+D. Appear as a single brighter echo
+Section 5: PRP, PRF and Listening Time (Q51–66)
+51. The PRP is 200 µs. What is the PRF?
+A. 0.5 kHz
+B. 5 kHz
+C. 50 kHz
+D. 200 kHz
+52. The PRP is 100 µs. What is the PRF?
+A. 1 kHz
+B. 100 kHz
+C. 10 kHz
+D. 0.01 kHz
+53. The PRP is 500 µs. What is the PRF?
+A. 2 kHz
+B. 0.5 kHz
+C. 5 kHz
+D. 500 kHz
+54. The PRP is 250 µs. What is the PRF?
+A. 0.25 kHz
+B. 2.5 kHz
+C. 40 kHz
+D. 4 kHz
+55. The PRF is 10 kHz. What is the PRP?
+A. 10 µs
+B. 100 µs
+C. 1,000 µs
+D. 0.1 µs
+56. The PRF is 4 kHz. What is the PRP?
+A. 25 µs
+B. 40 µs
+C. 250 µs
+D. 2,500 µs
+57. The PRF is 2 kHz. What is the PRP?
+A. 50 µs
+B. 2 µs
+C. 5,000 µs
+D. 500 µs
+58. What happens to PRF when PRP increases?
+A. PRF increases
+B. PRF decreases
+C. PRF is unchanged
+D. PRF equals duty factor
+59. If PRF doubles, PRP:
+A. Doubles
+B. Is unchanged
+C. Halves
+D. Quadruples
+60. Greater imaging depth requires:
+A. Longer listening time
+B. Shorter listening time
+C. Higher pulse duration
+D. Shorter wavelength
+61. Which pulse parameter is directly related to imaging depth?
+A. Pulse duration
+B. Spatial pulse length
+C. Pulse repetition period
+D. Transmitted frequency
+62. For a 10 cm imaging depth in soft tissue (13 µs per cm round trip), the minimum PRP needed to listen for the deepest echo is about:
+A. 13 µs
+B. 130 µs
+C. 1,300 µs
+D. 1.3 µs
+63. For a 5 cm imaging depth in soft tissue (13 µs per cm round trip), the minimum PRP is about:
+A. 13 µs
+B. 130 µs
+C. 6.5 µs
+D. 65 µs
+64. A 130 µs PRP corresponds to a PRF of about:
+A. 7.7 kHz
+B. 77 kHz
+C. 0.77 kHz
+D. 13 kHz
+65. A sonographer decreases imaging depth with all other settings unchanged. What is expected?
+A. Longer PRP and lower PRF
+B. Shorter PRP and higher PRF
+C. Longer pulse duration
+D. Lower duty factor
+66. Which unit is commonly used for PRF?
+A. µs
+B. mm
+C. kHz
+D. %
+Section 6: Duty Factor (Q67–82)
+67. Duty factor is calculated as:
+A. Pulse duration ÷ PRP
+B. PRP ÷ pulse duration
+C. PRF ÷ pulse duration
+D. SPL ÷ wavelength
+68. The pulse duration is 2 µs and the PRP is 400 µs. What is the duty factor?
+A. 0.05%
+B. 0.5%
+C. 5%
+D. 50%
+69. The pulse duration is 1 µs and the PRP is 500 µs. What is the duty factor?
+A. 0.02%
+B. 2%
+C. 0.2%
+D. 20%
+70. The pulse duration is 3 µs and the PRP is 300 µs. What is the duty factor?
+A. 0.1%
+B. 1%
+C. 10%
+D. 3%
+71. The pulse duration is 0.5 µs and the PRP is 100 µs. What is the duty factor?
+A. 5%
+B. 0.05%
+C. 50%
+D. 0.5%
+72. The pulse duration is 2 µs and the PRP is 100 µs. What is the duty factor?
+A. 2%
+B. 0.2%
+C. 20%
+D. 0.02%
+73. The pulse duration is 1.5 µs and the PRP is 150 µs. What is the duty factor?
+A. 10%
+B. 0.1%
+C. 1%
+D. 15%
+74. A duty factor of 0.005 is equal to:
+A. 0.05%
+B. 0.5%
+C. 5%
+D. 0.005%
+75. Which statement about the units of duty factor is correct?
+A. It is measured in microseconds
+B. It is measured in hertz
+C. It is measured in millimetres
+D. It is unitless (a ratio or percentage)
+76. With pulse duration constant, increasing PRP causes duty factor to:
+A. Decrease
+B. Increase
+C. Stay the same
+D. Double
+77. With pulse duration constant, decreasing PRP causes duty factor to:
+A. Decrease
+B. Increase
+C. Stay the same
+D. Fall to zero
+78. With PRP constant, increasing pulse duration causes duty factor to:
+A. Decrease
+B. Stay the same
+C. Increase
+D. Become zero
+79. Which change increases duty factor when pulse duration is constant?
+A. Increasing imaging depth
+B. Decreasing imaging depth
+C. Increasing PRP
+D. Decreasing PRF
+80. What happens to duty factor when imaging depth increases (pulse duration constant)?
+A. It decreases because PRP increases
+B. It increases because PRP increases
+C. It stays constant
+D. It increases because PRF decreases
+81. The duty factor of a continuous wave system is:
+A. 0
+B. 0.01
+C. 1%
+D. 1 (100%)
+82. A pulse lasts 1 µs and the PRF is 5 kHz. What is the duty factor?
+A. 0.05%
+B. 0.5%
+C. 5%
+D. 50%
+Section 7: Imaging Depth Relationships (Q83–94)
+83. A sonographer increases the imaging depth. Which change occurs?
+A. PRP decreases
+B. PRF increases
+C. Listening time increases
+D. Pulse duration increases
+84. Which combination is expected when imaging depth increases?
+A. PRP decreases, PRF increases, duty factor increases
+B. PRP increases, PRF decreases, duty factor decreases
+C. PRP increases, PRF increases, duty factor decreases
+D. PRP decreases, PRF decreases, duty factor increases
+85. Which combination is expected when imaging depth decreases?
+A. PRP decreases, PRF increases, duty factor increases
+B. PRP increases, PRF decreases, duty factor decreases
+C. PRP increases, PRF increases, duty factor increases
+D. PRP decreases, PRF decreases, duty factor decreases
+86. Which parameter is not affected by a change in imaging depth?
+A. PRP
+B. PRF
+C. Duty factor
+D. Pulse duration
+87. Which parameter is unaffected by imaging depth?
+A. PRF
+B. PRP
+C. Spatial pulse length
+D. Duty factor
+88. A sonographer leaves the depth unnecessarily deep when imaging a superficial structure. The most likely consequence is:
+A. Higher PRF and improved temporal resolution
+B. Shorter PRP and increased duty factor
+C. Shorter SPL and improved axial resolution
+D. Lower PRF and reduced frame rate
+89. Which parameter can be changed most directly by adjusting imaging depth?
+A. Pulse duration
+B. Spatial pulse length
+C. Pulse repetition frequency
+D. Wavelength
+90. Which statement about duty factor and depth is correct?
+A. Duty factor increases with depth because PRP increases
+B. Duty factor decreases with depth because PRP increases
+C. Duty factor is unchanged by depth
+D. Duty factor increases with depth because PRF decreases
+91. If imaging depth doubles, PRP (dominated by listening time) approximately:
+A. Is unchanged
+B. Halves
+C. Doubles
+D. Quadruples
+92. If imaging depth doubles, PRF approximately:
+A. Doubles
+B. Is unchanged
+C. Quadruples
+D. Halves
+93. If imaging depth is halved with pulse duration constant, duty factor approximately:
+A. Doubles
+B. Halves
+C. Is unchanged
+D. Quadruples
+94. Why can PRF increase when imaging depth decreases?
+A. Pulse duration becomes longer
+B. Echoes return sooner, so less listening time is needed
+C. Frequency increases
+D. More cycles are used per pulse
+Section 8: Units and Clinical Application (Q95–100)
+95. Which parameter is measured in millimetres?
+A. Pulse duration
+B. Pulse repetition period
+C. Spatial pulse length
+D. Pulse repetition frequency
+96. Which parameter is commonly expressed in kilohertz?
+A. Pulse duration
+B. Pulse repetition frequency
+C. Spatial pulse length
+D. Duty factor
+97. Which units are appropriate for pulse repetition period?
+A. µs or ms
+B. mm
+C. kHz
+D. %
+98. A transducer uses fewer cycles per pulse at an unchanged frequency. The result is:
+A. Longer pulse duration and poorer axial resolution
+B. Shorter pulse duration and improved axial resolution
+C. A longer PRP
+D. Increased penetration
+99. The PRP is 0.5 ms. What is the PRF?
+A. 200 Hz
+B. 2 kHz
+C. 20 kHz
+D. 0.5 kHz
+100. A pulse lasts 2 µs and the PRP is 0.4 ms. What is the duty factor?
+A. 5%
+B. 0.05%
+C. 0.5%
+D. 50%
+Answer Key with Short Explanations
+1. B: Period is the time for one cycle.
+2. C: Pulse duration is the total time of one transmitted pulse.
+3. D: PRP runs from the start of one pulse to the start of the next.
+4. A: PRF is pulses transmitted per second.
+5. C: PRF = 1 ÷ PRP.
+6. B: Spatial pulse length is the distance occupied by one pulse.
+7. A: PRP and PRF describe pulse-to-pulse timing.
+8. D: Listening time is when echoes are received.
+9. B: PRP = pulse duration + listening time.
+10. C: Period describes one cycle.
+11. D: Spatial pulse length describes a whole pulse.
+12. B: Duty factor is the fraction of time spent transmitting.
+13. C: Continuous wave transmits all the time, so DF = 1 (100%).
+14. D: Period is one cycle; pulse duration is the entire pulse.
+15. B: 3 × 0.5 = 1.5 µs.
+16. A: 5 × 0.25 = 1.25 µs.
+17. C: 2 × 0.4 = 0.8 µs.
+18. D: T = 0.5 µs; 4 × 0.5 = 2 µs.
+19. A: T = 0.2 µs; 3 × 0.2 = 0.6 µs.
+20. B: T = 0.25 µs; 2 × 0.25 = 0.5 µs.
+21. C: T = 0.333 µs; 6 × 0.333 = 2 µs.
+22. D: T = 1 µs; 3 × 1 = 3 µs.
+23. A: Higher frequency means a shorter period, so a shorter pulse.
+24. B: More cycles lengthen the pulse.
+25. C: Halving frequency doubles the period, doubling pulse duration.
+26. D: Cycles × period stays the same.
+27. C: Higher frequency shortens the period and the pulse.
+28. B: Pulse duration is a time (µs).
+29. B: 3 × 0.5 = 1.5 mm.
+30. A: 4 × 0.3 = 1.2 mm.
+31. C: 2 × 0.77 = 1.54 mm.
+32. D: λ = 1.54 mm; 3 × 1.54 = 4.62 mm.
+33. A: λ = 0.308 mm; 2 × 0.308 = 0.616 mm.
+34. B: λ = SPL ÷ cycles = 6 ÷ 4 = 1.5 mm.
+35. C: Few cycles and a short wavelength minimize SPL.
+36. D: SPL = cycles × wavelength; doubling cycles doubles SPL.
+37. B: Doubling frequency halves wavelength and so halves SPL.
+38. C: SPL is a distance (mm).
+39. A: SPL = cycles × wavelength.
+40. C: Same wavelength, fewer cycles gives a shorter SPL.
+41. C: A short SPL gives the best axial resolution.
+42. B: Axial resolution = SPL ÷ 2.
+43. D: 1.2 ÷ 2 = 0.6 mm.
+44. A: 3 ÷ 2 = 1.5 mm.
+45. C: SPL = 2 × 0.4 = 0.8 mm.
+46. D: Decreasing SPL improves axial resolution.
+47. B: Fewer cycles shorten PD and SPL, improving axial resolution.
+48. D: Axial resolution separates reflectors along the beam axis.
+49. B: Spacing (0.4 mm) is less than axial resolution (0.6 mm), so the echoes merge.
+50. C: Spacing (0.5 mm) exceeds axial resolution (0.3 mm), so they are separate.
+51. B: 1 ÷ 200 µs = 5 kHz.
+52. C: 1 ÷ 100 µs = 10 kHz.
+53. A: 1 ÷ 500 µs = 2 kHz.
+54. D: 1 ÷ 250 µs = 4 kHz.
+55. B: 1 ÷ 10 kHz = 100 µs.
+56. C: 1 ÷ 4 kHz = 250 µs.
+57. D: 1 ÷ 2 kHz = 500 µs.
+58. B: PRF and PRP are reciprocal.
+59. C: Doubling PRF halves PRP.
+60. A: Deeper imaging needs longer listening time.
+61. C: Pulse repetition period is directly related to depth.
+62. B: 10 cm × 13 µs/cm = 130 µs.
+63. D: 5 cm × 13 µs/cm = 65 µs.
+64. A: 1 ÷ 130 µs ≈ 7.7 kHz.
+65. B: Less depth means shorter PRP and higher PRF.
+66. C: PRF is commonly given in kHz.
+67. A: Duty factor = pulse duration ÷ PRP.
+68. B: 2 ÷ 400 = 0.005 = 0.5%.
+69. C: 1 ÷ 500 = 0.002 = 0.2%.
+70. B: 3 ÷ 300 = 0.01 = 1%.
+71. D: 0.5 ÷ 100 = 0.005 = 0.5%.
+72. A: 2 ÷ 100 = 0.02 = 2%.
+73. C: 1.5 ÷ 150 = 0.01 = 1%.
+74. B: 0.005 × 100 = 0.5%.
+75. D: Duty factor is a ratio or percentage with no units.
+76. A: A larger PRP makes PD ÷ PRP smaller.
+77. B: A smaller PRP makes PD ÷ PRP larger.
+78. C: Longer pulses with the same PRP raise the ratio.
+79. B: Less depth shortens PRP, raising duty factor.
+80. A: Greater depth lengthens PRP and lowers PD ÷ PRP.
+81. D: Continuous wave is always transmitting: DF = 1 (100%).
+82. B: PRP = 200 µs; 1 ÷ 200 = 0.5%.
+83. C: Greater depth needs more listening time.
+84. B: Greater depth: PRP up, PRF down, DF down.
+85. A: Less depth: PRP down, PRF up, DF up.
+86. D: Pulse duration does not depend on depth.
+87. C: SPL does not depend on depth.
+88. D: Excess depth lowers PRF and can reduce frame rate.
+89. C: Depth changes listening time, PRP and therefore PRF.
+90. B: Longer PRP with constant PD lowers duty factor.
+91. C: Twice the depth needs about twice the listening time.
+92. D: PRF = 1 ÷ PRP, so it roughly halves.
+93. A: PRP roughly halves, so PD ÷ PRP roughly doubles.
+94. B: Shallower echoes return sooner.
+95. C: Spatial pulse length is a distance.
+96. B: PRF is a frequency, often in kHz.
+97. A: PRP is a time, in µs or ms.
+98. B: Fewer cycles shorten PD and SPL, improving axial resolution.
+99. B: 1 ÷ 0.0005 s = 2,000 Hz = 2 kHz.
+100. C: 2 ÷ 400 = 0.005 = 0.5%.

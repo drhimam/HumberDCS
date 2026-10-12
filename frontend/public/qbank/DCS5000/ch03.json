@@ -1,0 +1,60 @@
+{
+  "chapterId": "ch03",
+  "title": "Transducer Selection & Ergonomics",
+  "questions": [
+    {
+      "id": "DCS5000-ch03-q001",
+      "stem": "Adult transthoracic echocardiography is most commonly performed with a transducer of which type?",
+      "image": null,
+      "options": [
+        "Linear array",
+        "Phased array",
+        "Curvilinear array",
+        "Annular array"
+      ],
+      "answer": 1,
+      "explanation": "A phased-array transducer has a small footprint that fits between the ribs. It electronically steers a sector-shaped beam, which makes it the standard probe for cardiac imaging.",
+      "explanationImage": null,
+      "tags": [
+        "transducers"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch03-q002",
+      "stem": "Compared with a 2.5 MHz transducer, a 5 MHz transducer provides:",
+      "image": null,
+      "options": [
+        "Better penetration and worse resolution",
+        "Better resolution and less penetration",
+        "Better resolution and better penetration",
+        "No change in resolution"
+      ],
+      "answer": 1,
+      "explanation": "Higher frequency means a shorter wavelength, which improves axial resolution. However, attenuation also rises with frequency, so penetration decreases. This is why pediatric echo uses higher frequencies than adult echo.",
+      "explanationImage": null,
+      "tags": [
+        "frequency"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch03-q003",
+      "stem": "Which practice best reduces a sonographer's risk of work-related musculoskeletal disorders?",
+      "image": null,
+      "options": [
+        "Abducting the scanning arm beyond 90 degrees",
+        "Applying sustained heavy probe pressure",
+        "Adjusting bed and chair height so the arm stays close to the body",
+        "Twisting the neck to view the monitor"
+      ],
+      "answer": 2,
+      "explanation": "Neutral posture is key. Keep the arm abducted less than about 30 degrees, adjust the equipment height, and place the monitor directly in front of you. These steps reduce shoulder, neck, and wrist strain.",
+      "explanationImage": null,
+      "tags": [
+        "ergonomics"
+      ],
+      "reference": ""
+    }
+  ]
+}

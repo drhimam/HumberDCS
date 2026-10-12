@@ -1,0 +1,601 @@
+1. A wave is best defined as:
+A) A movement of matter from one place to another
+B) A vibration that stays in one place
+C) A mechanism that transfers energy without permanently displacing matter
+D) A flow of particles through a medium
+2. Ultrasound waves are cyclical because they are produced by:
+A) A repetitive electrical signal in the transducer
+B) A single electrical spike
+C) Heat in the tissue
+D) Light striking the skin
+3. In wave terminology, a "cycle" is:
+A) The distance between two crests
+B) One complete oscillation
+C) The maximum pressure
+D) The speed of the wave
+4. As a wave passes through a medium, the particles:
+A) Travel forward with the wave
+B) Are permanently displaced
+C) Leave the medium
+D) Oscillate around their resting positions without travelling with the wave
+5. Greater wave amplitude is associated with:
+A) Less energy
+B) Greater energy
+C) Higher frequency
+D) Slower speed
+6. Mechanical waves:
+A) Require a material medium
+B) Travel through a vacuum
+C) Consist of electric and magnetic fields
+D) Never transfer energy
+7. Which wave cannot travel through a vacuum?
+A) Light
+B) Radio waves
+C) Sound
+D) X-rays
+8. Which is an electromagnetic wave?
+A) Sound
+B) Rope wave
+C) Water wave
+D) X-rays
+9. Ultrasound is a:
+A) Electromagnetic wave
+B) Mechanical wave
+C) Light wave
+D) Radio wave
+10. Sound is best described as:
+A) A pressure wave created by a mechanical action
+B) A stream of charged particles
+C) A magnetic disturbance
+D) A heat wave
+11. Which is NOT one of the five important characteristics of sound?
+A) Sound is a wave that transfers energy
+B) Sound requires a medium to propagate
+C) Sound travels in straight paths through a uniform medium
+D) Sound is an electromagnetic wave
+12. In soft tissue, ultrasound is a:
+A) Longitudinal wave
+B) Transverse wave
+C) Shear wave
+D) Electromagnetic wave
+13. Sound travels in straight paths through:
+A) Any medium
+B) A vacuum
+C) A uniform medium
+D) Only air
+14. A vibrating source causes a wave to propagate because:
+A) The source moves through the tissue
+B) Intermolecular forces transfer the disturbance to neighbouring particles
+C) Particles travel from the source to the receiver
+D) Heat flows to the surface
+15. Which list contains the four acoustic variables?
+A) Pressure, density, particle motion, temperature
+B) Frequency, period, wavelength, speed
+C) Amplitude, power, intensity, speed
+D) Pressure, frequency, power, density
+16. Which is NOT an acoustic variable?
+A) Pressure
+B) Density
+C) Temperature
+D) Wavelength
+17. The unit of pressure is:
+A) kg/m³
+B) Pa
+C) m
+D) Hz
+18. The unit of density is:
+A) Pa
+B) m
+C) kg/m³
+D) W
+19. Particle motion (displacement) is measured in:
+A) Metres
+B) Pascals
+C) kg/m³
+D) Hertz
+20. If the resting value of a wave is 20 pascals, the acoustic variable is:
+A) Density
+B) Particle motion
+C) Temperature
+D) Pressure
+21. If the resting value of a wave is 19 kg/m³, the acoustic variable is:
+A) Density
+B) Pressure
+C) Particle motion
+D) Power
+22. In a transverse wave, the particles move:
+A) Parallel to wave travel
+B) Randomly
+C) Perpendicular to wave travel
+D) Not at all
+23. Transverse waves are often called:
+A) Compression waves
+B) Shear waves
+C) Pressure waves
+D) Sound waves
+24. A wave along a stretched rope is an example of a:
+A) Transverse wave
+B) Longitudinal wave
+C) Electromagnetic wave
+D) Standing sound wave in soft tissue
+25. In a longitudinal wave, the particles move:
+A) Perpendicular to wave travel
+B) Parallel to wave travel
+C) In circles only
+D) Out of the medium
+26. Longitudinal waves produce alternating:
+A) Compressions and rarefactions
+B) Crests and troughs of particle travel
+C) Electric and magnetic fields
+D) Light and dark bands
+27. A compression is a region of:
+A) Lower density and lower pressure
+B) Lower density and higher pressure
+C) Higher density and higher pressure
+D) Higher density and lower pressure
+28. A rarefaction is a region of:
+A) Higher density and higher pressure
+B) Higher density and lower pressure
+C) Lower density and higher pressure
+D) Lower density and lower pressure
+29. The sine wave used to display sound is:
+A) The actual path of the particles
+B) A graph of an acoustic variable over time or distance
+C) A picture of the transducer
+D) A map of the tissue
+30. On a pressure sine wave, crests represent:
+A) Maximum compression pressure
+B) Maximum rarefaction pressure
+C) Zero pressure
+D) Minimum frequency
+31. On a pressure sine wave, troughs represent:
+A) Maximum compression pressure
+B) Zero pressure
+C) Maximum rarefaction pressure
+D) Maximum frequency
+32. How many acoustic parameters of sound are listed in the lecture?
+A) 4
+B) 7
+C) 5
+D) 9
+33. Frequency is defined as:
+A) The number of cycles per second
+B) The time for one cycle
+C) The distance of one cycle
+D) The speed of sound
+34. The unit of frequency is:
+A) Seconds
+B) Metres
+C) Watts
+D) Hertz
+35. Diagnostic ultrasound frequencies are expressed in:
+A) Hz
+B) kHz
+C) MHz
+D) GHz
+36. Frequency is determined by the:
+A) Medium
+B) Sound source (transducer)
+C) Sonographer's TGC
+D) Tissue density
+37. According to the lecture, is frequency changed by the sonographer?
+A) No – it is determined by the sound source
+B) Yes – by adjusting gain
+C) Yes – by adjusting depth
+D) Yes – by adjusting TGC
+38. Infrasound has a frequency:
+A) Above 20,000 Hz
+B) Between 20 and 20,000 Hz
+C) Below 20 Hz
+D) Between 2 and 20 MHz
+39. Audible sound ranges from:
+A) 20 Hz to 20,000 Hz
+B) 2 MHz to 20 MHz
+C) Below 20 Hz
+D) Above 20,000 Hz
+40. Ultrasound is defined as sound with a frequency:
+A) Below 20 Hz
+B) Between 20 and 2000 Hz
+C) Of exactly 1 MHz
+D) Above 20,000 Hz
+41. Conventional diagnostic ultrasound uses frequencies of about:
+A) 20–200 Hz
+B) 2–20 MHz
+C) 200–2000 MHz
+D) 1–10 kHz
+42. Higher-frequency sound provides:
+A) Worse resolution and deeper penetration
+B) Worse resolution and less penetration
+C) Better resolution and less penetration
+D) Better resolution and deeper penetration
+43. Lower-frequency sound provides:
+A) Deeper penetration and lower resolution
+B) Shallower penetration and higher resolution
+C) Deeper penetration and higher resolution
+D) Shallower penetration and lower resolution
+44. Higher-frequency sound has:
+A) A longer period
+B) A longer wavelength
+C) A lower speed in tissue
+D) A shorter wavelength
+45. Period is:
+A) The number of cycles per second
+B) The time required for one cycle
+C) The distance of one cycle
+D) The maximum pressure
+46. A common unit for the period of ultrasound is the:
+A) Microsecond
+B) Megahertz
+C) Millimetre
+D) Watt
+47. Frequency and period are:
+A) Directly proportional
+B) Unrelated
+C) Reciprocals
+D) Equal
+48. A 2 MHz wave has a period of:
+A) 2 µs
+B) 0.5 µs
+C) 5 µs
+D) 0.2 µs
+49. Propagation speed is determined by:
+A) The transducer
+B) The frequency
+C) The amplitude
+D) The properties of the medium
+50. The symbol and common unit of propagation speed are:
+A) c; m/s (or mm/µs)
+B) f; Hz
+C) T; µs
+D) λ; mm
+51. The average speed of sound in soft tissue is about:
+A) 330 m/s
+B) 1540 m/s
+C) 4080 m/s
+D) 15,400 m/s
+52. Which medium has the slowest propagation speed?
+A) Bone
+B) Soft tissue
+C) Lung
+D) Fat
+53. In which state of matter is sound fastest?
+A) Solids
+B) Liquids
+C) Gases
+D) It is equal in all
+54. Does propagation speed depend on frequency?
+A) Yes, directly
+B) No, it is independent of frequency
+C) Yes, inversely
+D) Only in bone
+55. Wavelength is:
+A) The time for one cycle
+B) The number of cycles per second
+C) The speed of sound
+D) The distance occupied by one cycle
+56. Which equation gives wavelength?
+A) λ = c / f
+B) λ = c × f
+C) λ = f / c
+D) λ = 1 / c
+57. What is the wavelength of a 3 MHz pulse in soft tissue (c = 1540 m/s)?
+A) 0.15 mm
+B) 1.5 mm
+C) 0.51 mm
+D) 5.1 mm
+58. What is the wavelength of a 1 MHz wave in bone (c = 4080 m/s)?
+A) 0.41 mm
+B) 4.08 mm
+C) 40.8 mm
+D) 1.54 mm
+59. What is the wavelength of a 5 MHz wave in soft tissue?
+A) 3.1 mm
+B) 1.54 mm
+C) 0.5 mm
+D) 0.31 mm
+60. What is the wavelength of a 2 MHz wave in soft tissue?
+A) 0.77 mm
+B) 1.54 mm
+C) 3.08 mm
+D) 0.077 mm
+61. What is the wavelength of a 10 MHz wave in soft tissue?
+A) 1.54 mm
+B) 0.154 mm
+C) 15.4 mm
+D) 0.0154 mm
+62. For the same frequency, which wave has the longer wavelength?
+A) A wave in fat
+B) Both are equal
+C) A wave in soft tissue
+D) It depends on amplitude
+63. If frequency doubles in the same medium, wavelength:
+A) Is halved
+B) Doubles
+C) Stays the same
+D) Quadruples
+64. At the same frequency, a higher propagation speed gives a:
+A) Shorter period
+B) Shorter wavelength
+C) Lower amplitude
+D) Longer wavelength
+65. Which properties of a medium determine propagation speed?
+A) Frequency and amplitude
+B) Elasticity, compressibility, stiffness and bulk modulus
+C) Power and intensity
+D) Period and wavelength
+66. Bulk modulus is a measure of:
+A) Stiffness
+B) Frequency
+C) Amplitude
+D) Wavelength
+67. A material with a high bulk modulus is:
+A) Compressible and elastic
+B) Soft and compressible
+C) Stiff, incompressible and inelastic
+D) Less dense than air
+68. Bulk modulus is ______ to compressibility.
+A) Directly proportional
+B) Equal
+C) Unrelated
+D) Inversely proportional
+69. A high bulk modulus results in:
+A) High propagation speed
+B) Low propagation speed
+C) High frequency
+D) Low amplitude
+70. Bone has a very fast sound speed mainly because it is:
+A) Compressible
+B) Very stiff (and dense)
+C) Very thin
+D) Very warm
+71. Two media have the same density but different compressibility. The more compressible medium has:
+A) A greater propagation speed
+B) The same propagation speed
+C) A lower propagation speed
+D) A higher frequency
+72. Soft tissue propagates sound faster than air mainly because soft tissue is:
+A) Stiffer (higher bulk modulus)
+B) Warmer
+C) Thinner
+D) Lower in density
+73. In the train analogy, the slack between cars represents:
+A) Frequency
+B) Amplitude
+C) Power
+D) Compressibility
+74. In the train analogy, more slack causes:
+A) Faster wave propagation
+B) Slower wave propagation
+C) Higher frequency
+D) No change
+75. In the train analogy, tight coupling between cars causes:
+A) Faster wave propagation
+B) Slower wave propagation
+C) Lower frequency
+D) No wave
+76. In the train analogy, a heavier (greater mass) train gives:
+A) Faster acceleration and faster propagation
+B) No change in propagation
+C) Slower acceleration and slower propagation
+D) Higher frequency
+77. Can the sonographer directly adjust propagation speed?
+A) Yes, with the depth control
+B) No
+C) Yes, with the gain control
+D) Yes, with the frequency control
+78. Compared with soft tissue, sound in gases is:
+A) Slower
+B) Faster
+C) Equal
+D) Dependent only on frequency
+79. If frequency increases in the same medium, propagation speed:
+A) Increases
+B) Decreases
+C) Doubles
+D) Stays the same
+80. If frequency increases, the period:
+A) Increases
+B) Stays the same
+C) Decreases
+D) Doubles
+81. The relationship between speed, frequency and wavelength is:
+A) c = f × λ
+B) c = f / λ
+C) c = λ / f
+D) c = f + λ
+82. Amplitude is formally defined as the:
+A) Time for one cycle
+B) Maximum variation of an acoustic variable from its mean
+C) Number of cycles per second
+D) Distance of one cycle
+83. In ultrasound, amplitude often refers to the:
+A) Wavelength
+B) Period
+C) Speed
+D) Transmit voltage exciting the crystal (unit: volts)
+84. Which expression gives amplitude?
+A) (max − min) / 2
+B) max + min
+C) max × min
+D) max / min
+85. A wave has a maximum of 12 and a minimum of 4. Its amplitude is:
+A) 8
+B) 16
+C) 4
+D) 2
+86. Overall (receiver) gain:
+A) Changes the frequency
+B) Amplifies all returning echoes equally
+C) Changes the propagation speed
+D) Changes the wavelength
+87. Time gain compensation (TGC):
+A) Changes the transducer frequency
+B) Changes the pulse duration
+C) Changes the speed of sound
+D) Adjusts gain at different depths to compensate for attenuation
+88. Increasing transmit power changes the:
+A) Amplitude of the sound leaving the probe
+B) Frequency
+C) Propagation speed
+D) Wavelength
+89. Power is:
+A) Maximum pressure
+B) Energy per unit area
+C) The rate of acoustic energy transfer
+D) The number of cycles per second
+90. Power is proportional to:
+A) Amplitude
+B) Amplitude squared
+C) 1 / amplitude
+D) Frequency
+91. If the transmit voltage (amplitude) is doubled, power:
+A) Doubles
+B) Is halved
+C) Stays the same
+D) Quadruples
+92. Intensity is:
+A) Power divided by area
+B) Power multiplied by area
+C) Energy multiplied by time
+D) Frequency divided by area
+93. A beam has a power of 2 W over an area of 4 cm². Its intensity is:
+A) 8 W/cm²
+B) 0.5 W/cm²
+C) 2 W/cm²
+D) 6 W/cm²
+94. If the beam area gets smaller while power stays constant, intensity:
+A) Decreases
+B) Stays the same
+C) Increases
+D) Becomes zero
+95. In a sound beam, intensity is greatest where the beam is:
+A) Narrowest
+B) Widest
+C) Deepest
+D) Slowest
+96. As sound propagates through tissue, amplitude, power and intensity:
+A) Increase
+B) Decrease (weaken)
+C) Stay constant
+D) Become frequency
+97. Interference occurs when:
+A) Two waves meet and their pressure changes combine
+B) A wave is absorbed
+C) A wave changes frequency
+D) A wave enters a vacuum
+98. Constructive interference occurs when waves are:
+A) Out of phase and subtract
+B) Different in frequency
+C) In phase, so peaks align with peaks and amplitudes add
+D) Travelling in opposite media
+99. Destructive interference occurs when waves are:
+A) In phase
+B) Out of phase, so amplitudes subtract
+C) Identical
+D) Of unlimited amplitude
+100. Complete destructive interference requires waves that have:
+A) Different frequencies
+B) Equal amplitudes and are in phase
+C) Different speeds
+D) Equal amplitudes and are 180° out of phase
+Part B – Answer Key and Explanations
+1. C – A wave transfers energy from one location to another without permanently displacing matter.
+2. A – Ultrasound is produced by a repetitive electrical signal applied to the transducer, creating repeated cycles.
+3. B – A cycle is one complete oscillation; "cyclical" means repeated cycles.
+4. D – Energy moves through the medium while particles only oscillate around their resting positions.
+5. B – Greater amplitude is associated with greater wave energy.
+6. A – Mechanical waves need a material medium and transfer energy through particle interaction.
+7. C – Sound is mechanical and cannot travel through a vacuum. Light, X-rays and radio waves can.
+8. D – X-rays are electromagnetic waves (changing electric and magnetic fields).
+9. B – Ultrasound is a mechanical wave and needs tissue or another medium.
+10. A – Sound is a pressure wave created by a mechanical action (a vibrating source).
+11. D – Sound is mechanical, not electromagnetic.
+12. A – Sound is longitudinal in soft tissue.
+13. C – Sound travels in straight paths through a uniform medium.
+14. B – Intermolecular forces pass the disturbance to neighbouring particles, so the wave propagates.
+15. A – The four acoustic variables are pressure, density, particle motion and temperature.
+16. D – Wavelength is an acoustic parameter, not an acoustic variable.
+17. B – Pressure is force per unit area, measured in pascals (Pa).
+18. C – Density is mass per unit volume, measured in kg/m³.
+19. A – Particle motion is displacement from the resting position, in metres.
+20. D – Pascals are the unit of pressure.
+21. A – kg/m³ is the unit of density.
+22. C – Transverse waves have particle motion perpendicular to the direction of propagation.
+23. B – Transverse waves are often called shear waves.
+24. A – A rope wave is the classic transverse wave example.
+25. B – In longitudinal waves, particles move parallel to wave propagation.
+26. A – Longitudinal waves create alternating compressions and rarefactions.
+27. C – Compressions have particles closer together: higher density and higher pressure.
+28. D – Rarefactions have particles farther apart: lower density and lower pressure.
+29. B – The sine wave is a graph of an acoustic variable, not the path of the particles.
+30. A – Crests represent maximum compression pressure.
+31. C – Troughs represent maximum rarefaction pressure.
+32. B – The seven parameters are frequency, period, wavelength, propagation speed, amplitude, power and intensity.
+33. A – Frequency is the number of cycles per second.
+34. D – Frequency is measured in hertz (1/second).
+35. C – Diagnostic ultrasound uses megahertz (MHz).
+36. B – Frequency is determined by the sound source (the transducer crystal).
+37. A – The lecture lists frequency as determined by the source and not changed by the sonographer.
+38. C – Infrasound is below 20 Hz.
+39. A – Audible sound is 20 Hz to 20,000 Hz.
+40. D – Ultrasound is above 20,000 Hz.
+41. B – Conventional diagnostic ultrasound is about 2–20 MHz.
+42. C – Higher frequency gives better resolution but more attenuation and less penetration.
+43. A – Lower frequency penetrates deeper but gives lower resolution.
+44. D – Wavelength = c/f, so a higher frequency means a shorter wavelength.
+45. B – Period is the time required for one cycle.
+46. A – Periods of diagnostic ultrasound are in microseconds.
+47. C – f = 1/T and T = 1/f.
+48. B – T = 1/2 MHz = 0.5 µs.
+49. D – Propagation speed is set by the medium, not the transducer.
+50. A – Propagation speed uses symbol c, in m/s or mm/µs.
+51. B – The soft tissue average is about 1540 m/s.
+52. C – Of the listed media, lung (air-containing) is the slowest.
+53. A – Sound is fastest in solids, intermediate in liquids and slowest in gases.
+54. B – Propagation speed is independent of frequency.
+55. D – Wavelength is the distance occupied by one cycle.
+56. A – λ = c / f.
+57. C – 1540 m/s ÷ 3,000,000 Hz = 0.000513 m = 0.51 mm.
+58. B – 4080 m/s ÷ 1,000,000 Hz = 0.00408 m = 4.08 mm.
+59. D – 1540 ÷ 5,000,000 = 0.000308 m ≈ 0.31 mm.
+60. A – 1540 ÷ 2,000,000 = 0.00077 m = 0.77 mm.
+61. B – 1540 ÷ 10,000,000 = 0.000154 m = 0.154 mm.
+62. C – Sound travels faster in soft tissue than in fat, so at the same frequency its wavelength is longer.
+63. A – λ = c/f, so doubling f halves λ.
+64. D – At constant frequency, λ = c/f increases when c increases.
+65. B – Speed depends on the medium's elasticity, compressibility, stiffness and bulk modulus.
+66. A – Bulk modulus measures stiffness: how much pressure is needed to compress the material.
+67. C – High bulk modulus means stiff, incompressible and inelastic.
+68. D – Low compressibility means high bulk modulus, so they are inversely proportional.
+69. A – High bulk modulus means high propagation speed.
+70. B – Bone is very stiff (and dense), giving a very fast sound speed.
+71. C – Higher compressibility means lower bulk modulus and lower speed. The statement that the more compressible medium is faster is false.
+72. A – Soft tissue is much stiffer than air. The speed difference is not explained by density alone.
+73. D – Slack between cars represents compressibility.
+74. B – More slack (more compressible) means slower propagation.
+75. A – Tight coupling (stiff) means faster propagation.
+76. C – A heavier train accelerates more slowly, so the wave propagates more slowly.
+77. B – Propagation speed depends on the medium, so the sonographer cannot directly adjust it.
+78. A – Gases are slower than soft tissue.
+79. D – Speed is independent of frequency within the same medium.
+80. C – T = 1/f, so higher frequency means a shorter period.
+81. A – c = f × λ.
+82. B – Amplitude is the maximum variation of a variable from its mean.
+83. D – In ultrasound, amplitude often refers to the transmit voltage that excites the crystal, in volts.
+84. A – Amplitude = (max − min)/2 (also max − mean, or mean − min).
+85. C – (12 − 4)/2 = 4.
+86. B – Overall (receiver) gain amplifies all returning echoes equally and affects image brightness.
+87. D – TGC adjusts gain at different depths to compensate for attenuation.
+88. A – Transmit gain (power) changes the amplitude of the sound leaving the probe.
+89. C – Power is the rate of acoustic energy transfer (watts).
+90. B – Power is proportional to amplitude squared.
+91. D – 2² = 4, so doubling amplitude quadruples power.
+92. A – I = P / A.
+93. B – 2 W ÷ 4 cm² = 0.5 W/cm².
+94. C – Smaller area means higher intensity.
+95. A – Intensity is greatest where the beam is narrow.
+96. B – All three strength parameters weaken as sound propagates through tissue.
+97. A – Interference occurs when two waves meet and their pressure changes combine.
+98. C – In-phase waves (peaks with peaks) add, giving a larger amplitude.
+99. B – Out-of-phase waves overlap positive with negative pressure, so amplitudes subtract.
+100. D – Complete cancellation needs equal amplitudes that are exactly out of phase (180°).

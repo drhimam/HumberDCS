@@ -1,0 +1,609 @@
+Section 1: Factors, Proportionality and Reciprocals (Q1–16)
+1. A value increases from 5 to 20. By what factor did it increase?
+A. 2
+B. 3
+C. 4
+D. 15
+2. A value decreases from 18 to 6. By what factor did it decrease?
+A. 2
+B. 3
+C. 6
+D. 12
+3. At constant propagation speed, what happens to sound travel distance if travel time triples?
+A. It triples
+B. It remains unchanged
+C. It decreases to one-third
+D. It increases ninefold
+4. In a directly proportional relationship y = kx, what happens to y when x is halved?
+A. It doubles
+B. It is halved
+C. It remains unchanged
+D. It becomes four times larger
+5. In the same medium, frequency increases from 3 MHz to 6 MHz. What happens to wavelength?
+A. It doubles
+B. It remains unchanged
+C. It decreases by half
+D. It quadruples
+6. In the same medium, frequency decreases to one-quarter of its original value. What happens to wavelength?
+A. It decreases to one-quarter
+B. It decreases by half
+C. It increases fourfold
+D. It remains unchanged
+7. What is the period of a 5 MHz ultrasound wave?
+A. 0.2 µs
+B. 2 µs
+C. 5 µs
+D. 0.5 µs
+8. A wave has a period of 0.5 µs. What is its frequency?
+A. 0.5 MHz
+B. 2 MHz
+C. 5 MHz
+D. 20 MHz
+9. Which pair of quantities is reciprocal?
+A. Distance and time
+B. Intensity and power
+C. Frequency and period
+D. Amplitude and intensity
+10. Frequency decreases from 4 MHz to 2 MHz. What happens to the period?
+A. It decreases by half
+B. It remains unchanged
+C. It doubles
+D. It quadruples
+11. Two variables are inversely proportional. If the first is halved, the second:
+A. Is halved
+B. Doubles
+C. Remains unchanged
+D. Quadruples
+12. Two variables are inversely proportional. If the first is multiplied by 5, the second:
+A. Is multiplied by 5
+B. Remains unchanged
+C. Is multiplied by 25
+D. Is multiplied by one-fifth
+13. Echo return time is directly proportional to reflector depth. A reflector moves from 2 cm to 8 cm. By what factor does return time change?
+A. 2
+B. 6
+C. 16
+D. 4
+14. A reflector moves from 12 cm to 4 cm. What happens to the echo return time?
+A. It increases by a factor of 3
+B. It remains unchanged
+C. It decreases by half
+D. It decreases to one-third
+15. The inverse relationship between frequency and wavelength (c = fλ) holds when:
+A. Sound travels in the same medium
+B. Amplitude is constant
+C. Power is constant
+D. Beam area is constant
+16. Power and intensity are directly proportional only when:
+A. Frequency is constant
+B. Period is constant
+C. Beam area is constant
+D. Speed is constant
+Section 2: Rearranging Equations and Units (Q17–28)
+17. Given c = d/t, which equation solves for time?
+A. t = cd
+B. t = c/d
+C. t = d/c
+D. t = d − c
+18. Given c = fλ, which equation solves for wavelength?
+A. λ = fc
+B. λ = c/f
+C. λ = f/c
+D. λ = c − f
+19. Given f = 1/T, which equation solves for period?
+A. T = f
+B. T = −f
+C. T = f²
+D. T = 1/f
+20. Given I = P/A, which equation solves for beam area?
+A. A = I/P
+B. A = P/I
+C. A = IP
+D. A = P − I
+21. Which unit is appropriate for propagation speed?
+A. m/s
+B. m
+C. s
+D. m²
+22. Which unit is appropriate for frequency?
+A. m
+B. s
+C. Hz
+D. m/s
+23. Which unit is appropriate for period?
+A. Hz
+B. s
+C. m
+D. W
+24. Which unit is appropriate for intensity?
+A. W
+B. cm²
+C. W/cm²
+D. W·cm²
+25. In d = ct, with c in m/s and t in s, the result d has units of:
+A. m/s
+B. s
+C. m²
+D. m
+26. If power is in mW and area is in cm², intensity from I = P/A is expressed in:
+A. mW/cm²
+B. mW·cm²
+C. cm²/mW
+D. mW
+27. What is the wavelength of 2 MHz ultrasound in soft tissue (c = 1540 m/s)?
+A. 0.077 mm
+B. 0.77 mm
+C. 7.7 mm
+D. 77 mm
+28. An echo comes from a reflector 4 cm deep (c = 1540 m/s). What is the round-trip time?
+A. 26 µs
+B. 104 µs
+C. 52 µs
+D. 520 µs
+Section 3: Metric Prefixes, Unit Conversion and Scientific Notation (Q29–46)
+29. Which prefix represents 10³?
+A. Milli
+B. Micro
+C. Kilo
+D. Mega
+30. Which prefix represents 10⁶?
+A. Mega
+B. Kilo
+C. Micro
+D. Milli
+31. Which prefix represents 10⁻³?
+A. Micro
+B. Milli
+C. Kilo
+D. Nano
+32. Which prefix represents 10⁻⁹?
+A. Pico
+B. Micro
+C. Milli
+D. Nano
+33. Which prefix represents 10⁻²?
+A. Centi
+B. Milli
+C. Kilo
+D. Mega
+34. Convert 7.5 cm to millimetres.
+A. 0.75 mm
+B. 7.5 mm
+C. 750 mm
+D. 75 mm
+35. Convert 120 mm to centimetres.
+A. 1.2 cm
+B. 12 cm
+C. 120 cm
+D. 1,200 cm
+36. Convert 2.5 m to centimetres.
+A. 25 cm
+B. 0.25 cm
+C. 250 cm
+D. 2,500 cm
+37. Convert 5 ms to microseconds.
+A. 5 µs
+B. 50 µs
+C. 500 µs
+D. 5,000 µs
+38. Convert 300 µs to milliseconds.
+A. 0.3 ms
+B. 3 ms
+C. 30 ms
+D. 300,000 ms
+39. Convert 3 MHz to hertz.
+A. 3,000 Hz
+B. 30,000 Hz
+C. 3,000,000 Hz
+D. 300,000 Hz
+40. Convert 2,500 Hz to kilohertz.
+A. 25 kHz
+B. 0.25 kHz
+C. 250 kHz
+D. 2.5 kHz
+41. Convert 0.5 mm to micrometres.
+A. 5 µm
+B. 50 µm
+C. 500 µm
+D. 0.0005 µm
+42. Express 3,200,000 Hz in scientific notation.
+A. 3.2 × 10⁶ Hz
+B. 3.2 × 10⁵ Hz
+C. 3.2 × 10⁷ Hz
+D. 3.2 × 10³ Hz
+43. Express 0.00075 s in scientific notation.
+A. 7.5 × 10⁻³ s
+B. 7.5 × 10⁻⁵ s
+C. 7.5 × 10⁴ s
+D. 7.5 × 10⁻⁴ s
+44. Which decimal value equals 6.5 × 10⁴?
+A. 650
+B. 6,500
+C. 65,000
+D. 650,000
+45. Which decimal value equals 2 × 10⁻⁶?
+A. 0.00002
+B. 0.0000002
+C. 0.002
+D. 0.000002
+46. Express 1,540 m/s in scientific notation.
+A. 1.54 × 10² m/s
+B. 1.54 × 10³ m/s
+C. 1.54 × 10⁴ m/s
+D. 1.54 × 10⁻³ m/s
+Section 4: Logarithms and Decibels (Q47–60)
+47. What is log₁₀(100)?
+A. 1
+B. 2
+C. 10
+D. 100
+48. What is log₁₀(1,000,000)?
+A. 4
+B. 5
+C. 6
+D. 10
+49. What is log₁₀(0.001)?
+A. 3
+B. −3
+C. −1
+D. 0.001
+50. What is log₁₀(1)?
+A. 0
+B. 1
+C. 10
+D. Undefined
+51. Which exponential statement is equivalent to log₁₀(10,000) = 4?
+A. 4¹⁰ = 10,000
+B. 10 × 4 = 10,000
+C. 10³ = 10,000
+D. 10⁴ = 10,000
+52. Decibels are used in ultrasound to express:
+A. Absolute frequency
+B. Ratios of intensity or power
+C. Propagation speed
+D. Imaging depth
+53. An increase of 10 dB corresponds to an intensity change by a factor of:
+A. 2
+B. 10
+C. 100
+D. 1,000
+54. An increase of 20 dB corresponds to an intensity change by a factor of:
+A. 20
+B. 200
+C. 2
+D. 100
+55. A negative decibel value indicates:
+A. Amplification
+B. No change
+C. Attenuation
+D. Reflection
+56. A positive decibel value indicates:
+A. Amplification
+B. Attenuation
+C. No change
+D. Absorption only
+57. On a logarithmic scale, each increment:
+A. Adds the same amount
+B. Subtracts the same amount
+C. Squares the previous value
+D. Multiplies by the base
+58. Why are decibels useful in ultrasound?
+A. They avoid the use of ratios
+B. They express very large ranges with manageable numbers
+C. They are a linear scale
+D. They apply only to frequency
+59. A 60 dB difference corresponds to an intensity ratio of:
+A. 60
+B. 600
+C. 1,000,000
+D. 6
+60. A change of −30 dB means intensity becomes:
+A. One-thirtieth
+B. One-thousandth
+C. One-tenth
+D. Thirty times larger
+Section 5: Squared Relationships and Graphs (Q61–72)
+61. Intensity is proportional to amplitude squared. If amplitude doubles, intensity:
+A. Doubles
+B. Increases fourfold
+C. Increases eightfold
+D. Increases sixteenfold
+62. If amplitude increases by a factor of 4, intensity increases by a factor of:
+A. 4
+B. 8
+C. 16
+D. 12
+63. If amplitude is cut in half, intensity is multiplied by:
+A. One-half
+B. 2
+C. 4
+D. One-quarter
+64. Intensity increases by a factor of 25. By what factor did amplitude change?
+A. 5
+B. 25
+C. 10
+D. 50
+65. Which relationship is linear?
+A. Intensity and amplitude
+B. Distance and time at constant speed
+C. Frequency and period
+D. Wavelength and frequency
+66. A directly proportional relationship is graphed as:
+A. A hyperbola
+B. A horizontal line
+C. A straight line through the origin
+D. A downward-sloping curve that levels off
+67. An inversely proportional relationship is graphed as:
+A. A straight line through the origin
+B. A curve that falls as x increases
+C. A horizontal line
+D. A vertical line
+68. A horizontal line on a graph of y versus x shows that:
+A. y is directly proportional to x
+B. y is inversely proportional to x
+C. y is proportional to x squared
+D. y remains constant as x changes
+69. A graph of intensity versus amplitude appears as:
+A. A horizontal line
+B. An upward curve that becomes progressively steeper
+C. A straight line through the origin
+D. A downward-sloping straight line
+70. On a graph of distance versus time, the slope represents:
+A. Time
+B. Area
+C. Speed
+D. Frequency
+71. The side of a square is doubled. Its area:
+A. Increases fourfold
+B. Doubles
+C. Increases eightfold
+D. Remains unchanged
+72. Power is constant and the beam area increases fourfold. Intensity:
+A. Increases fourfold
+B. Doubles
+C. Remains unchanged
+D. Decreases to one-fourth
+Section 6: Trigonometry and Angle Conventions (Q73–82)
+73. In a right triangle, sine is defined as:
+A. Adjacent ÷ hypotenuse
+B. Opposite ÷ hypotenuse
+C. Opposite ÷ adjacent
+D. Hypotenuse ÷ opposite
+74. In a right triangle, cosine is defined as:
+A. Adjacent ÷ hypotenuse
+B. Opposite ÷ hypotenuse
+C. Opposite ÷ adjacent
+D. Adjacent ÷ opposite
+75. In a right triangle, tangent is defined as:
+A. Adjacent ÷ hypotenuse
+B. Opposite ÷ hypotenuse
+C. Opposite ÷ adjacent
+D. Hypotenuse ÷ adjacent
+76. In the memory aid SOH CAH TOA, "TOA" stands for:
+A. Tangent = Adjacent ÷ Opposite
+B. Tangent = Opposite × Adjacent
+C. Tangent = Hypotenuse ÷ Opposite
+D. Tangent = Opposite ÷ Adjacent
+77. The angle of incidence is measured relative to:
+A. The normal line
+B. The tissue interface
+C. The transducer face
+D. The horizontal axis
+78. The normal line is:
+A. Parallel to the interface
+B. Perpendicular to the interface
+C. At 45° to the interface
+D. The same as the interface
+79. A beam strikes an interface at 20° from the normal. What is the angle between the beam and the interface?
+A. 20°
+B. 110°
+C. 160°
+D. 70°
+80. A beam travels along the normal (perpendicular to the interface). What is its angle of incidence?
+A. 90°
+B. 45°
+C. 0°
+D. 180°
+81. The angle of incidence is 40°. If the reflection is specular, the angle of reflection is:
+A. 50°
+B. 140°
+C. 0°
+D. 40°
+82. What is the value of cos 0°?
+A. 0
+B. 1
+C. 0.5
+D. −1
+Section 7: Area and Volume (Q83–88)
+83. A rectangle measures 5 cm by 2 cm. What is its area?
+A. 7 cm²
+B. 10 cm²
+C. 10 cm
+D. 10 cm³
+84. Which unit is appropriate for volume?
+A. cm
+B. cm²
+C. cm³
+D. cm/s
+85. A calculated volume is 150 cm³. What is it in millilitres?
+A. 150 mL
+B. 15 mL
+C. 1,500 mL
+D. 1.5 mL
+86. A box measures 3 cm × 4 cm × 5 cm. What is its volume?
+A. 12 cm³
+B. 60 cm²
+C. 12 cm²
+D. 60 cm³
+87. A square has an area of 9 cm². What is the length of one side?
+A. 2 cm
+B. 3 cm
+C. 4.5 cm
+D. 9 cm
+88. A fluid volume is 2 litres. How many millilitres is this?
+A. 20 mL
+B. 200 mL
+C. 20,000 mL
+D. 2,000 mL
+Section 8: Diagnostic Statistics (Q89–100)
+89. Sensitivity is calculated as:
+A. TN ÷ (TN + FP)
+B. TP ÷ (TP + FP)
+C. TP ÷ (TP + FN)
+D. TN ÷ (TN + FN)
+90. Specificity is calculated as:
+A. TP ÷ (TP + FP)
+B. TP ÷ (TP + FN)
+C. TN ÷ (TN + FP)
+D. TN ÷ (TN + FN)
+91. A test finds 45 true positives and misses 5 patients who have the condition. What is the sensitivity?
+A. 45%
+B. 50%
+C. 95%
+D. 90%
+92. A test gives 70 true negatives and 30 false positives. What is the specificity?
+A. 30%
+B. 70%
+C. 43%
+D. 100%
+93. Positive predictive value (PPV) is calculated as:
+A. TP ÷ (TP + FP)
+B. TP ÷ (TP + FN)
+C. TN ÷ (TN + FP)
+D. TN ÷ (TN + FN)
+94. Negative predictive value (NPV) is calculated as:
+A. TP ÷ (TP + FN)
+B. TN ÷ (TN + FP)
+C. TP ÷ (TP + FP)
+D. TN ÷ (TN + FN)
+95. A test produces 60 true positives and 20 false positives. What is the PPV?
+A. 60%
+B. 20%
+C. 75%
+D. 80%
+96. A test produces 90 true negatives and 10 false negatives. What is the NPV?
+A. 10%
+B. 90%
+C. 100%
+D. 50%
+97. The denominator in the calculation of specificity is:
+A. All patients with a positive test
+B. All patients with a negative test
+C. All patients who truly have the condition
+D. All patients who truly do not have the condition
+98. A test with high sensitivity is good at:
+A. Detecting most patients who truly have the condition
+B. Excluding most patients who do not have the condition
+C. Predicting disease from a positive result only
+D. Measuring depth accurately
+99. A false negative is a patient who:
+A. Has no condition and tests positive
+B. Has the condition and tests positive
+C. Has the condition and tests negative
+D. Has no condition and tests negative
+100. Of 200 patients, 50 truly have a condition and the test detects 40 of them. What is the sensitivity?
+A. 20%
+B. 40%
+C. 80%
+D. 100%
+Answer Key with Short Explanations
+1. C: Factor = new ÷ original = 20 ÷ 5 = 4.
+2. B: 18 ÷ 6 = 3, so it decreased by a factor of 3.
+3. A: d = ct; with c constant, distance is directly proportional to time.
+4. B: In y = kx, halving x halves y.
+5. C: With c constant, c = fλ, so doubling f halves λ.
+6. C: Quartering f makes λ four times longer.
+7. A: T = 1/f = 1 ÷ (5 × 10⁶ Hz) = 0.2 µs.
+8. B: f = 1/T = 1 ÷ (0.5 × 10⁻⁶ s) = 2 MHz.
+9. C: Frequency and period satisfy f = 1/T.
+10. C: Halving the frequency doubles the reciprocal period.
+11. B: Inverse: halving one variable doubles the other.
+12. D: Inverse: multiplying one by 5 multiplies the other by 1/5.
+13. D: Depth changes by 8 ÷ 2 = 4, so return time changes by the same factor.
+14. D: Depth falls to one-third, so return time falls to one-third.
+15. A: c = fλ gives an inverse relationship only for constant speed (same medium).
+16. C: I = P/A; intensity tracks power directly only when area is constant.
+17. C: Divide both sides of c = d/t appropriately: t = d/c.
+18. B: Divide both sides of c = fλ by f: λ = c/f.
+19. D: Invert f = 1/T: T = 1/f.
+20. B: Multiply by A, divide by I: A = P/I.
+21. A: Speed is distance per time (m/s).
+22. C: Frequency is measured in hertz.
+23. B: Period is a time, in seconds.
+24. C: Intensity is power per unit area (W/cm²).
+25. D: (m/s) × s = m.
+26. A: mW ÷ cm² = mW/cm².
+27. B: λ = c/f = 1540 ÷ (2 × 10⁶) = 0.00077 m = 0.77 mm.
+28. C: t = 2d/c = 0.08 m ÷ 1540 m/s ≈ 52 µs.
+29. C: Kilo = 10³.
+30. A: Mega = 10⁶.
+31. B: Milli = 10⁻³.
+32. D: Nano = 10⁻⁹.
+33. A: Centi = 10⁻².
+34. D: 1 cm = 10 mm, so 7.5 × 10 = 75 mm.
+35. B: 120 mm ÷ 10 = 12 cm.
+36. C: 1 m = 100 cm, so 2.5 × 100 = 250 cm.
+37. D: 1 ms = 1,000 µs, so 5 ms = 5,000 µs.
+38. A: 300 µs ÷ 1,000 = 0.3 ms.
+39. C: 1 MHz = 10⁶ Hz, so 3 MHz = 3,000,000 Hz.
+40. D: 1 kHz = 1,000 Hz, so 2,500 Hz = 2.5 kHz.
+41. C: 1 mm = 1,000 µm, so 0.5 mm = 500 µm.
+42. A: Move the decimal six places left: 3.2 × 10⁶.
+43. D: Move the decimal four places right: 7.5 × 10⁻⁴.
+44. C: 6.5 × 10,000 = 65,000.
+45. D: A negative exponent of 6 moves the decimal six places left: 0.000002.
+46. B: 1,540 = 1.54 × 10³.
+47. B: 10 to the power 2 is 100.
+48. C: 1,000,000 = 10⁶.
+49. B: 0.001 = 10⁻³.
+50. A: 10⁰ = 1.
+51. D: A log asks "10 to what power?": 10⁴ = 10,000.
+52. B: Decibels use logarithms to express ratios of intensity or power.
+53. B: Each 10 dB step is a factor of 10 in intensity.
+54. D: 20 dB is two 10 dB steps: 10 × 10 = 100.
+55. C: Negative dB means attenuation (loss).
+56. A: Positive dB means amplification (gain).
+57. D: Logarithmic increments multiply by the base.
+58. B: Logarithms compress huge ranges into manageable numbers.
+59. C: 60 dB = six 10 dB steps = 10⁶.
+60. B: −30 dB = three steps of ÷10 = one-thousandth.
+61. B: I ∝ amplitude², so 2² = 4.
+62. C: 4² = 16.
+63. D: (1/2)² = 1/4.
+64. A: √25 = 5.
+65. B: d = ct is linear; the others are nonlinear.
+66. C: y = kx passes through the origin.
+67. B: An inverse relationship is a curve that falls as x increases.
+68. D: A horizontal line means y does not change with x.
+69. B: A squared relationship curves upward and steepens.
+70. C: Slope = distance ÷ time = speed.
+71. A: Area scales with side squared: 2² = 4.
+72. D: I = P/A; area ×4 makes intensity ÷4.
+73. B: SOH: sine = opposite ÷ hypotenuse.
+74. A: CAH: cosine = adjacent ÷ hypotenuse.
+75. C: TOA: tangent = opposite ÷ adjacent.
+76. D: TOA = Tangent, Opposite, Adjacent.
+77. A: Angles are measured from the normal, not the interface.
+78. B: The normal is perpendicular to the interface.
+79. D: 90° − 20° = 70°.
+80. C: Along the normal, the angle of incidence is 0°.
+81. D: Angle of reflection equals angle of incidence.
+82. B: cos 0° = 1.
+83. B: Area = 5 × 2 = 10 cm².
+84. C: Volume is three-dimensional (cm³).
+85. A: 1 cm³ = 1 mL.
+86. D: 3 × 4 × 5 = 60 cm³.
+87. B: √9 = 3 cm.
+88. D: 1 L = 1,000 mL.
+89. C: Sensitivity = TP ÷ (TP + FN).
+90. C: Specificity = TN ÷ (TN + FP).
+91. D: 45 ÷ (45 + 5) = 90%.
+92. B: 70 ÷ (70 + 30) = 70%.
+93. A: PPV = TP ÷ (TP + FP).
+94. D: NPV = TN ÷ (TN + FN).
+95. C: 60 ÷ (60 + 20) = 75%.
+96. B: 90 ÷ (90 + 10) = 90%.
+97. D: Specificity uses everyone who truly does not have the condition.
+98. A: High sensitivity means most true cases are detected.
+99. C: A false negative has the condition but tests negative.
+100. C: 40 ÷ 50 = 80%.

@@ -1,0 +1,609 @@
+Section 1: Sound, Waves and Ultrasound Basics (Q1–12)
+1. Ultrasound is best defined as sound with a frequency:
+A. Below the range of human hearing
+B. Above the range of human hearing
+C. Within the range of human hearing
+D. Produced only by electromagnetic sources
+2. Diagnostic ultrasound typically uses frequencies in the range of:
+A. 20–200 Hz
+B. 2–20 kHz
+C. 2–20 MHz
+D. 2–20 GHz
+3. The human audible range is approximately:
+A. 20 Hz to 20 kHz
+B. 2 Hz to 2 kHz
+C. 20 kHz to 20 MHz
+D. 200 Hz to 200 kHz
+4. Sound with a frequency below 20 Hz is called:
+A. Ultrasound
+B. Audible sound
+C. Infrasound
+D. Shock sound
+5. Sound is classified as which type of wave?
+A. Transverse electromagnetic wave
+B. Transverse mechanical wave
+C. Longitudinal electromagnetic wave
+D. Longitudinal mechanical wave
+6. Which of the following requires a medium in order to travel?
+A. Sound
+B. Light
+C. X-rays
+D. Radio waves
+7. Ultrasound cannot travel through:
+A. Soft tissue
+B. Fluid
+C. A vacuum
+D. Muscle
+8. Unlike X-rays, diagnostic ultrasound is:
+A. Ionizing energy
+B. Non-ionizing mechanical energy
+C. A form of electromagnetic radiation
+D. Able to travel through a vacuum
+9. A wave is best defined as:
+A. A device that converts energy from one form to another
+B. A change in tissue density
+C. A repeating cycle of electrical signals
+D. A mechanism that transfers energy from one location to another
+10. In a longitudinal wave, particle motion is:
+A. Perpendicular to the direction of wave propagation
+B. Along the direction of wave propagation
+C. Circular around the source
+D. Absent
+11. Which wave has particle motion perpendicular to the direction of propagation?
+A. Longitudinal wave
+B. Shock wave
+C. Transverse wave
+D. Infrasonic wave
+12. In the word "sonography," the term "graphy" means:
+A. To write or record
+B. To measure
+C. To listen
+D. To heal
+Section 2: History of Ultrasound (Q13–19)
+13. The sinking of the Titanic in 1912 increased demand for:
+A. Medical imaging
+B. Radio communication
+C. Weather forecasting
+D. Underwater detection
+14. SONAR stands for:
+A. Sound Navigation And Radiation
+B. SOund NAvigation And Ranging
+C. Sonic Noise And Resonance
+D. Signal Optimization And Range
+15. Diagnostic ultrasound was developed from:
+A. X-ray tomography
+B. Radio astronomy
+C. SONAR used to detect submarines
+D. Magnetic resonance techniques
+16. In 1928, through-transmission ultrasound was used to:
+A. Detect flaws in metals
+B. Image the brain
+C. Detect gallstones
+D. Monitor fetal heart rate
+17. The first diagnostic finding with ultrasound (1949) was:
+A. A brain tumour
+B. A cardiac valve defect
+C. A fetal anomaly
+D. Gallstones
+18. A-mode and B-mode imaging were developed during the:
+A. 1910s
+B. 1950s–60s
+C. 1980s
+D. 2000s
+19. Gallstones were detectable because they:
+A. Emit their own sound
+B. Are less dense than surrounding tissue
+C. Are denser than surrounding tissue, creating an impedance difference
+D. Absorb all ultrasound
+Section 3: System Components, Transducer and Coupling Gel (Q20–31)
+20. A unique advantage of ultrasound is that it can assess:
+A. Soft tissue structure and real-time blood flow without ionizing radiation
+B. Bone density only
+C. Lung air spaces
+D. Only stationary structures
+21. Which sequence correctly describes the fundamental imaging chain?
+A. Echoes → sound pulse → transducer → image
+B. Image → transducer → sound pulse → echoes
+C. Electrical signal → transducer → sound pulse → tissue interaction → echoes → transducer → electrical signal → image
+D. Sound pulse → image → transducer → electrical signal
+22. An ultrasound image is constructed from:
+A. Sound passing completely through the body, like an X-ray
+B. The pattern of returning echoes
+C. Heat produced in tissue
+D. Light reflected from the skin
+23. The system console is used by the sonographer to adjust:
+A. Patient position
+B. Tissue density
+C. Speed of sound
+D. Gain, depth, frequency and Doppler settings
+24. The role of the transducer is to:
+A. Generate ultrasound pulses and receive returning echoes
+B. Store images
+C. Display images on the monitor
+D. Only receive echoes
+25. During transmission, the transducer converts:
+A. Sound energy into electrical energy
+B. Heat into sound energy
+C. Electrical energy into sound energy
+D. Light into electrical energy
+26. The main purpose of coupling gel is to:
+A. Cool the transducer
+B. Remove the air gap between the probe and skin
+C. Increase the speed of sound in tissue
+D. Produce the image
+27. A tissue–air boundary reflects:
+A. Very little sound
+B. Exactly half of the sound
+C. No sound
+D. Almost all of the sound
+28. Which statement about coupling gel is correct?
+A. It produces the image itself
+B. It amplifies echoes electronically
+C. It improves acoustic coupling between the transducer and the skin
+D. It changes the frequency of the pulse
+29. Which transducer is standard for adult cardiac sonography?
+A. Linear
+B. Phased array
+C. Curvilinear
+D. Endovaginal
+30. Which transducer is commonly used for carotid and DVT studies?
+A. Linear
+B. Phased array
+C. Sector
+D. Curvilinear
+31. Which transducer is commonly used for abdominal imaging and general OB?
+A. Linear
+B. Pedoff
+C. TEE
+D. Curvilinear
+Section 4: Acoustic Interfaces, Pulse-Echo and the Range Equation (Q32–46)
+32. An acoustic interface is:
+A. A type of transducer
+B. A display setting
+C. A boundary between two tissues
+D. A frequency range
+33. Acoustic impedance depends on a tissue's:
+A. Density and the speed of sound in it
+B. Colour and temperature
+C. Thickness and shape
+D. Frequency and amplitude
+34. A greater acoustic impedance mismatch at an interface generally produces:
+A. No echo
+B. A weaker echo
+C. A lower-frequency echo
+D. A stronger echo
+35. A very small impedance difference between adjacent tissues produces:
+A. A very strong echo
+B. A weak echo
+C. Complete reflection
+D. Complete absorption
+36. At an interface, the sound that is not reflected:
+A. Continues into deeper tissue
+B. Is converted into light
+C. Returns to the transducer immediately
+D. Disappears from the body
+37. In the pulse-echo technique, the pulse is very short so that the transducer spends most of its time:
+A. Transmitting
+B. Cooling
+C. Listening for echoes
+D. Idle
+38. The average speed of sound in soft tissue assumed by the system is:
+A. 330 m/s
+B. 1540 m/s
+C. 3000 m/s
+D. 15,400 m/s
+39. In the range equation, the result is divided by two because:
+A. Sound speed is halved in tissue
+B. Only half of the pulse returns
+C. The pulse is two cycles long
+D. Sound travels to the reflector and back (round trip)
+40. Echoes that return earlier are displayed:
+A. Closer to the transducer
+B. Deeper in the image
+C. Brighter
+D. At the image edges
+41. The accuracy of the range equation depends on:
+A. The patient's age
+B. The monitor size
+C. The assumption that sound travels at 1540 m/s in soft tissue
+D. The number of scan lines
+42. An echo returns 130 µs after the pulse is transmitted. Assuming c = 1540 m/s, the reflector depth is approximately:
+A. 5 cm
+B. 10 cm
+C. 20 cm
+D. 2 cm
+43. A reflector is 5 cm deep. The round-trip time of the echo is approximately:
+A. 13 µs
+B. 32.5 µs
+C. 130 µs
+D. 65 µs
+44. Echo from reflector X returns twice as late as the echo from reflector Y. Reflector X is:
+A. Half as deep as Y
+B. The same depth as Y
+C. Twice as deep as Y
+D. Four times as deep as Y
+45. Which is the first step of the pulse-echo technique?
+A. Echoes return to the transducer
+B. The pulse interacts with tissue interfaces
+C. Echoes are processed
+D. The transducer generates a pulse of ultrasound
+46. Echo ranging in SONAR is the same principle as:
+A. Doppler imaging
+B. The pulse-echo technique
+C. M-mode only
+D. Through-transmission
+Section 5: Scan Lines, Brightness and Gray Scale (Q47–64)
+47. Echo amplitude determines:
+A. Echo depth
+B. Scan format
+C. Pixel brightness
+D. Pulse frequency
+48. Echo travel time determines:
+A. Display depth
+B. Pixel brightness
+C. Image colour
+D. Frame rate
+49. Echo information collected along one ultrasound beam forms:
+A. One frame
+B. One 3D volume
+C. One Doppler shift
+D. One scan line
+50. In B-mode imaging, one pulse produces:
+A. One full image
+B. One scan line
+C. One frame per second
+D. Ten scan lines
+51. A frame is:
+A. A complete 2D image made from many scan lines
+B. A single echo
+C. A single pulse
+D. A single pixel
+52. A typical cross-sectional image is made of approximately how many scan lines?
+A. 1–5
+B. 10–20
+C. 96–256 (hundreds)
+D. More than 10,000
+53. What happens when more scan lines are used to build each image frame?
+A. Frame rate increases automatically
+B. Spatial sampling improves, but frame rate may decrease
+C. Axial resolution always improves
+D. Imaging depth decreases automatically
+54. A sufficiently high frame rate is especially important in cardiac imaging because:
+A. The heart is large
+B. Gel is needed
+C. The ribs block sound
+D. The heart moves rapidly
+55. A hyperechoic structure appears:
+A. Bright
+B. Black
+C. Dark grey
+D. Colour-coded
+56. A hypoechoic area appears:
+A. White
+B. Bright with shadowing
+C. Dark
+D. Uniformly grey
+57. An anechoic structure:
+A. Is the brightest on the image
+B. Produces virtually no echoes and appears black
+C. Contains calcification
+D. Is a tissue–air interface
+58. Which of the following typically appears bright because it is a strong reflector?
+A. Bile
+B. Urine
+C. Blood in the ventricles
+D. The diaphragm
+59. Weak reflectors are typically:
+A. Fluid-filled structures
+B. Calcifications
+C. Air interfaces
+D. The diaphragm
+60. Blood normally appears dark in cardiac images because:
+A. It is completely echo-free
+B. It absorbs all ultrasound
+C. Red blood cells produce weak backscatter
+D. It has the highest impedance
+61. Different gray shades within tissue are caused by:
+A. Gel thickness
+B. Scattering of the sound wave
+C. Transducer colour
+D. Monitor size
+62. An image that is too bright or too dark may reflect:
+A. A true tissue characteristic only
+B. A faulty monitor only
+C. Wrong patient identity
+D. Poor optimization (for example, gain settings)
+63. Gray scale imaging is also known as:
+A. B-mode imaging
+B. A-mode imaging
+C. M-mode imaging
+D. Doppler imaging
+64. Intermediate gray levels in the myocardium reveal:
+A. Blood velocity
+B. Transducer frequency
+C. Tissue texture
+D. Gain settings only
+Section 6: Display Modes: A-, B- and M-mode (Q65–72)
+65. A-mode displays echoes as:
+A. Brightness-coded pixels
+B. A 3D volume
+C. Colour-coded flow
+D. Amplitude spikes along a depth axis
+66. In A-mode, the position of each spike represents:
+A. Echo amplitude
+B. Reflector depth
+C. Blood velocity
+D. Frame rate
+67. A-mode is still used in:
+A. Ophthalmology and precise distance measurement
+B. Routine abdominal imaging
+C. Routine echocardiography
+D. 3D imaging
+68. In B-mode, the letter "B" stands for:
+A. Blood
+B. Beam
+C. Brightness
+D. Bone
+69. M-mode displays:
+A. A 3D volume
+B. Motion along a single ultrasound beam over time
+C. Many parallel beams at once
+D. Colour-coded Doppler shifts
+70. On an M-mode display, the horizontal axis represents:
+A. Time
+B. Depth
+C. Frequency
+D. Amplitude
+71. M-mode has very high temporal resolution because:
+A. It uses many scan lines
+B. It uses the lowest frequency
+C. It averages several frames
+D. Only one beam line is sampled repeatedly
+72. Temporal resolution refers to:
+A. The ability to separate two close objects side by side
+B. The range of gray shades
+C. How well ultrasound shows motion over time
+D. The depth of penetration
+Section 7: Scan Formats: Linear, Sector and Curvilinear (Q73–89)
+73. In a linear scan format, the ultrasound beams are:
+A. Parallel to one another
+B. Spread from a single point
+C. Arranged in curved groups only
+D. Rotated mechanically
+74. A linear transducer produces an image that is:
+A. Fan-shaped
+B. Circular
+C. Rectangular
+D. Triangular
+75. Linear transducers are commonly used for:
+A. Adult echocardiography through the ribs
+B. Superficial structures such as vessels, thyroid and breast
+C. Deep abdominal imaging
+D. Transoesophageal imaging
+76. Linear transducers are not normally used for routine adult echocardiography because:
+A. They cannot produce images
+B. Their frequency is too low
+C. Their beams are not parallel
+D. Their larger footprint does not fit between the ribs
+77. A sector (phased-array) image is produced by:
+A. Electronically steering beams from a small footprint
+B. Parallel beams starting at different elements
+C. Mechanically rotating a flat probe
+D. Sampling one beam over time
+78. The sector image has which typical shape?
+A. Rectangular
+B. Square
+C. Fan-shaped
+D. Cylindrical
+79. In a sector image, the field of view:
+A. Narrows with depth
+B. Widens with depth
+C. Stays constant
+D. Depends on the gel used
+80. In a sector image, lateral resolution generally:
+A. Improves with depth
+B. Stays constant with depth
+C. Improves only in the near field
+D. Decreases with depth because scan lines spread apart
+81. The curvilinear format is described as:
+A. A combination of linear and sector characteristics
+B. Parallel beams only
+C. A single-beam motion display
+D. A small-footprint cardiac format
+82. Curved-linear transducers are commonly used for:
+A. Adult echocardiography
+B. Carotid studies
+C. Abdominal, pelvic and obstetric imaging
+D. Eye examinations
+83. A curved-linear array forms its image by:
+A. Steering beams from a very small footprint
+B. Activating groups of elements sequentially along its curved face
+C. Rotating a single crystal
+D. Sampling one beam repeatedly
+84. A phased array differs from a curved-linear array in that it:
+A. Uses no electronics
+B. Produces parallel scan lines
+C. Has a flat, wide face
+D. Electronically steers beams from a much smaller footprint
+85. Cardiac imaging typically uses frequencies of about:
+A. 2–5 MHz
+B. 20–50 MHz
+C. 100–200 kHz
+D. 20 Hz–2 kHz
+86. Why is the sector format well suited to cardiac imaging?
+A. The heart is very superficial
+B. Beams must remain parallel
+C. The heart lies behind ribs and lungs, and a small footprint fits between the ribs
+D. Gel is not required
+87. Air in the lungs interferes with cardiac imaging because it:
+A. Absorbs the gel
+B. Prevents effective transmission of the beam
+C. Increases the frame rate
+D. Creates Doppler shifts
+88. Complete the memory aid: "Linear is straight, Sector spreads, Curvilinear …"
+A. Rotates
+B. Narrows
+C. Reflects
+D. Combines the advantages of both
+89. In a linear format, each scan line:
+A. Begins at a different element position
+B. Begins at the same point
+C. Begins only at the centre of the transducer
+D. Begins at the focus
+Section 8: 2D, 3D and Doppler (Q90–100)
+90. A 2D ultrasound image displays:
+A. A volume of tissue
+B. Blood velocity only
+C. A single cross-sectional plane
+D. Only motion over time
+91. A 3D ultrasound dataset:
+A. Is a volume that can be rotated and cropped to view from any angle
+B. Shows only one plane
+C. Is sampled along a single beam
+D. Is audio-only
+92. 3D echocardiography is particularly useful for:
+A. Measuring blood velocity
+B. Replacing coupling gel
+C. Detecting gallstones
+D. En-face views of the mitral valve and guiding structural procedures
+93. The relationship between 3D and 2D echocardiography is that 3D:
+A. Completely replaces 2D
+B. Supplements 2D when extra spatial information is needed
+C. Is never used in cardiac imaging
+D. Always has a higher frame rate than 2D
+94. The Doppler effect is:
+A. Reflection at an impedance mismatch
+B. Conversion of electrical energy to sound
+C. A change in frequency of echoes returning from moving targets
+D. A change in brightness with depth
+95. Echoes from red blood cells moving toward the transducer return with:
+A. A higher frequency
+B. A lower frequency
+C. The same frequency
+D. No echo
+96. The Doppler frequency shift provides information about:
+A. Tissue density
+B. Depth only
+C. Gel quality
+D. Direction and velocity of blood flow
+97. In medicine, Doppler is used to:
+A. Detect gallstones
+B. Monitor a baby's heart rate during delivery
+C. Measure bone length
+D. Set the gain
+98. Colour Doppler information is displayed superimposed on:
+A. The B-mode gray scale image
+B. An A-mode spike display
+C. An M-mode trace only
+D. Nothing; it is shown alone
+99. Differences in tissue stiffness and density create:
+A. Doppler shifts
+B. Scan lines
+C. Interfaces
+D. Gel layers
+100. Which statement best summarises how echoes form the image?
+A. Weaker echoes are displayed brighter
+B. A greater impedance difference gives a stronger echo and a brighter dot
+C. One pulse forms the entire image
+D. Echo amplitude determines the depth of the dot
+Answer Key with Short Explanations
+1. B: Ultrasound is sound above the range of human hearing.
+2. C: Diagnostic ultrasound uses about 2–20 MHz.
+3. A: Humans hear about 20 Hz to 20 kHz.
+4. C: Infrasound is below 20 Hz.
+5. D: Sound is a longitudinal mechanical wave.
+6. A: Sound is mechanical and needs a medium; the others are electromagnetic.
+7. C: Ultrasound cannot travel through a vacuum.
+8. B: Ultrasound is non-ionizing mechanical energy.
+9. D: A wave transfers energy from one location to another.
+10. B: Longitudinal motion is along the direction of propagation.
+11. C: Transverse motion is perpendicular to propagation.
+12. A: "Sono" means sound; "graphy" means to write or record.
+13. D: The Titanic disaster drove demand for underwater detection.
+14. B: SOund NAvigation And Ranging.
+15. C: Diagnostic ultrasound grew out of SONAR.
+16. A: Sokolov used through-transmission for flaw detection in metals.
+17. D: Gallstones were the first diagnostic finding (1949).
+18. B: A-mode and B-mode appeared in the 1950s–60s.
+19. C: Gallstones are denser than surrounding tissue, giving an impedance difference.
+20. A: Ultrasound shows soft tissue and blood flow without ionizing radiation.
+21. C: Electrical signal → transducer → pulse → tissue → echoes → transducer → electrical signal → image.
+22. B: The image is built from the pattern of returning echoes.
+23. D: The console adjusts gain, depth, frequency and Doppler.
+24. A: The transducer transmits pulses and receives echoes.
+25. C: On transmission, electrical energy becomes sound energy.
+26. B: Gel removes the air gap.
+27. D: A tissue–air boundary reflects almost all sound.
+28. C: Gel improves acoustic coupling; it does not make the image.
+29. B: Phased array is standard for adult echo.
+30. A: Linear probes are used for carotids and DVT studies.
+31. D: Curvilinear probes suit abdominal and general OB imaging.
+32. C: An acoustic interface is a boundary between two tissues.
+33. A: Impedance depends on density and speed of sound.
+34. D: Greater mismatch gives a stronger echo.
+35. B: A small difference gives a weak echo.
+36. A: Unreflected sound continues into deeper tissue.
+37. C: The pulse is short, so the transducer mostly listens.
+38. B: The system assumes 1540 m/s.
+39. D: Sound travels to the reflector and back, so divide by two.
+40. A: Earlier echoes are displayed nearer the transducer.
+41. C: Range accuracy depends on the 1540 m/s assumption.
+42. B: d = (1540 × 130 × 10⁻⁶) / 2 ≈ 0.10 m = 10 cm.
+43. D: t = 2d / c = (2 × 0.05) / 1540 ≈ 65 µs.
+44. C: Twice the round-trip time means twice the depth.
+45. D: The transducer generates the pulse first.
+46. B: SONAR echo ranging is the pulse-echo principle.
+47. C: Echo amplitude sets pixel brightness.
+48. A: Echo travel time sets display depth.
+49. D: One beam gives one scan line.
+50. B: One pulse equals one scan line.
+51. A: A frame is a complete 2D image made of many scan lines.
+52. C: Typical images use about 96–256 scan lines (hundreds).
+53. B: More lines improve spatial sampling but may lower frame rate.
+54. D: The heart moves rapidly, so frame rate matters.
+55. A: Hyperechoic structures appear bright.
+56. C: Hypoechoic areas appear dark.
+57. B: Anechoic structures produce virtually no echoes and look black.
+58. D: The diaphragm is a strong reflector; the others are fluids.
+59. A: Fluid-filled structures are weak reflectors.
+60. C: Red blood cells give weak backscatter; blood is not totally echo-free.
+61. B: Gray shades within tissue come from scattering.
+62. D: Wrong brightness may reflect poor optimization such as gain.
+63. A: Gray scale imaging is B-mode.
+64. C: Intermediate gray levels reveal tissue texture.
+65. D: A-mode shows amplitude spikes.
+66. B: Spike position shows depth.
+67. A: A-mode is used in ophthalmology and precise distance measurement.
+68. C: B stands for brightness.
+69. B: M-mode shows motion along one beam over time.
+70. A: The horizontal axis is time.
+71. D: One beam is sampled repeatedly, giving excellent temporal resolution.
+72. C: Temporal resolution is how well motion is shown over time.
+73. A: Linear beams are parallel.
+74. C: Linear images are rectangular.
+75. B: Linear probes suit superficial structures.
+76. D: The large footprint does not fit between ribs.
+77. A: Phased arrays steer beams electronically from a small footprint.
+78. C: Sector images are fan-shaped.
+79. B: The sector widens with depth.
+80. D: Diverging scan lines reduce lateral resolution with depth.
+81. A: Curvilinear combines linear and sector features.
+82. C: Used for abdominal, pelvic and obstetric imaging.
+83. B: Groups of elements fire sequentially along the curved face.
+84. D: A phased array steers from a much smaller footprint.
+85. A: Cardiac imaging uses about 2–5 MHz.
+86. C: A small footprint fits between ribs; the heart lies behind ribs and lungs.
+87. B: Lung air prevents effective beam transmission.
+88. D: Curvilinear combines the advantages of both.
+89. A: Each linear scan line starts at a different element position.
+90. C: 2D shows one cross-sectional plane.
+91. A: 3D is a volume that can be rotated and viewed from any angle.
+92. D: 3D gives en-face mitral valve views and guides structural procedures.
+93. B: 3D supplements, and does not replace, 2D.
+94. C: Doppler is a frequency shift from moving targets.
+95. A: Motion toward the transducer raises the echo frequency.
+96. D: The shift gives direction and velocity of flow.
+97. B: Doppler monitors a baby's heart rate during delivery.
+98. A: Colour Doppler is overlaid on the B-mode image.
+99. C: Stiffness and density differences create interfaces.
+100. B: Greater difference gives a stronger echo and a brighter dot.

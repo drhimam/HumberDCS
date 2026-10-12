@@ -1,0 +1,28 @@
+{
+  "id": "DCS5505",
+  "code": "DCS 5505",
+  "title": "Cardiac Scanning 2",
+  "semester": "sem2",
+  "chapters": [
+    {
+      "id": "ch01",
+      "title": "Doppler Quantification",
+      "file": "ch01.json"
+    },
+    {
+      "id": "ch02",
+      "title": "Contrast & Bubble Studies",
+      "file": "ch02.json"
+    },
+    {
+      "id": "ch03",
+      "title": "Stress Echo",
+      "file": "ch03.json"
+    },
+    {
+      "id": "ch04",
+      "title": "TEE",
+      "file": "ch04.json"
+    }
+  ]
+}

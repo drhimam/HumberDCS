@@ -1,0 +1,78 @@
+{
+  "chapterId": "ch02",
+  "title": "Standard Windows & Views",
+  "questions": [
+    {
+      "id": "DCS5000-ch02-q001",
+      "stem": "The schematic shows a standard transthoracic view. Which view is it?",
+      "image": "/qbank/DCS5000/images/a4c-schematic.svg",
+      "options": [
+        "Parasternal long axis",
+        "Apical four-chamber",
+        "Subcostal short axis",
+        "Suprasternal notch"
+      ],
+      "answer": 1,
+      "explanation": "The apical four-chamber view shows all four chambers at once: the ventricles at the top (near the apex) and the atria at the bottom. The interventricular and interatrial septa run vertically down the middle of the image.",
+      "explanationImage": null,
+      "tags": [
+        "views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch02-q002",
+      "stem": "In the parasternal long-axis view, which cardiac structure lies closest to the transducer (top of the image)?",
+      "image": null,
+      "options": [
+        "Left atrium",
+        "Descending aorta",
+        "Right ventricular outflow tract / RV free wall",
+        "Left ventricular posterior wall"
+      ],
+      "answer": 2,
+      "explanation": "The right ventricle is anterior, so it sits nearest the transducer at the top of the image. Moving deeper you see the septum, the LV cavity, and then the posterior wall. The LA and descending aorta are posterior.",
+      "explanationImage": null,
+      "tags": [
+        "PLAX"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch02-q003",
+      "stem": "The suprasternal notch window is best used to evaluate:",
+      "image": null,
+      "options": [
+        "Mitral valve leaflets",
+        "Aortic arch and its branches",
+        "Tricuspid regurgitation",
+        "Interatrial septum"
+      ],
+      "answer": 1,
+      "explanation": "From the suprasternal notch, the beam is aimed down at the aortic arch. This shows the ascending aorta, arch, descending aorta, and the origins of the great vessels. It is key for assessing coarctation.",
+      "explanationImage": null,
+      "tags": [
+        "SSN"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch02-q004",
+      "stem": "Which window is often the best choice for a patient with COPD and hyperinflated lungs?",
+      "image": null,
+      "options": [
+        "Parasternal",
+        "Apical",
+        "Subcostal",
+        "Right parasternal"
+      ],
+      "answer": 2,
+      "explanation": "In hyperinflated lungs, the heart sits lower and the lungs cover the parasternal and apical windows. The subcostal window uses the liver as an acoustic window, so it often gives the best images in COPD patients.",
+      "explanationImage": null,
+      "tags": [
+        "windows"
+      ],
+      "reference": ""
+    }
+  ]
+}

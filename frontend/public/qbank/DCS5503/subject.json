@@ -1,0 +1,28 @@
+{
+  "id": "DCS5503",
+  "code": "DCS 5503",
+  "title": "Congenital Heart Defects",
+  "semester": "sem2",
+  "chapters": [
+    {
+      "id": "ch01",
+      "title": "Tetralogy of Fallot",
+      "file": "ch01.json"
+    },
+    {
+      "id": "ch02",
+      "title": "Transposition of Great Arteries",
+      "file": "ch02.json"
+    },
+    {
+      "id": "ch03",
+      "title": "Ebstein Anomaly",
+      "file": "ch03.json"
+    },
+    {
+      "id": "ch04",
+      "title": "Complex Defects",
+      "file": "ch04.json"
+    }
+  ]
+}

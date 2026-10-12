@@ -1,0 +1,3606 @@
+{
+  "chapterId": "ch02",
+  "title": "Module 2: Mathematical Concepts for Sonographers",
+  "questions": [
+    {
+      "id": "DCS5004-ch02-q001",
+      "stem": "A value increases from 5 to 20. By what factor did it increase?",
+      "image": null,
+      "options": [
+        "2",
+        "3",
+        "4",
+        "15"
+      ],
+      "answer": 2,
+      "explanation": "Factor = new ÷ original = 20 ÷ 5 = 4.",
+      "explanationImage": null,
+      "tags": [
+        "Factors, Proportionality and Reciprocals"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch02-q002",
+      "stem": "A value decreases from 18 to 6. By what factor did it decrease?",
+      "image": null,
+      "options": [
+        "2",
+        "3",
+        "6",
+        "12"
+      ],
+      "answer": 1,
+      "explanation": "18 ÷ 6 = 3, so it decreased by a factor of 3.",
+      "explanationImage": null,
+      "tags": [
+        "Factors, Proportionality and Reciprocals"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch02-q003",
+      "stem": "At constant propagation speed, what happens to sound travel distance if travel time triples?",
+      "image": null,
+      "options": [
+        "It triples",
+        "It remains unchanged",
+        "It decreases to one-third",
+        "It increases ninefold"
+      ],
+      "answer": 0,
+      "explanation": "d = ct; with c constant, distance is directly proportional to time.",
+      "explanationImage": null,
+      "tags": [
+        "Factors, Proportionality and Reciprocals"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch02-q004",
+      "stem": "In a directly proportional relationship y = kx, what happens to y when x is halved?",
+      "image": null,
+      "options": [
+        "It doubles",
+        "It is halved",
+        "It remains unchanged",
+        "It becomes four times larger"
+      ],
+      "answer": 1,
+      "explanation": "In y = kx, halving x halves y.",
+      "explanationImage": null,
+      "tags": [
+        "Factors, Proportionality and Reciprocals"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch02-q005",
+      "stem": "In the same medium, frequency increases from 3 MHz to 6 MHz. What happens to wavelength?",
+      "image": null,
+      "options": [
+        "It doubles",
+        "It remains unchanged",
+        "It decreases by half",
+        "It quadruples"
+      ],
+      "answer": 2,
+      "explanation": "With c constant, c = fλ, so doubling f halves λ.",
+      "explanationImage": null,
+      "tags": [
+        "Factors, Proportionality and Reciprocals"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch02-q006",
+      "stem": "In the same medium, frequency decreases to one-quarter of its original value. What happens to wavelength?",
+      "image": null,
+      "options": [
+        "It decreases to one-quarter",
+        "It decreases by half",
+        "It increases fourfold",
+        "It remains unchanged"
+      ],
+      "answer": 2,
+      "explanation": "Quartering f makes λ four times longer.",
+      "explanationImage": null,
+      "tags": [
+        "Factors, Proportionality and Reciprocals"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch02-q007",
+      "stem": "What is the period of a 5 MHz ultrasound wave?",
+      "image": null,
+      "options": [
+        "0.2 µs",
+        "2 µs",
+        "5 µs",
+        "0.5 µs"
+      ],
+      "answer": 0,
+      "explanation": "T = 1/f = 1 ÷ (5 × 10⁶ Hz) = 0.2 µs.",
+      "explanationImage": null,
+      "tags": [
+        "Factors, Proportionality and Reciprocals"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch02-q008",
+      "stem": "A wave has a period of 0.5 µs. What is its frequency?",
+      "image": null,
+      "options": [
+        "0.5 MHz",
+        "2 MHz",
+        "5 MHz",
+        "20 MHz"
+      ],
+      "answer": 1,
+      "explanation": "f = 1/T = 1 ÷ (0.5 × 10⁻⁶ s) = 2 MHz.",
+      "explanationImage": null,
+      "tags": [
+        "Factors, Proportionality and Reciprocals"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch02-q009",
+      "stem": "Which pair of quantities is reciprocal?",
+      "image": null,
+      "options": [
+        "Distance and time",
+        "Intensity and power",
+        "Frequency and period",
+        "Amplitude and intensity"
+      ],
+      "answer": 2,
+      "explanation": "Frequency and period satisfy f = 1/T.",
+      "explanationImage": null,
+      "tags": [
+        "Factors, Proportionality and Reciprocals"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch02-q010",
+      "stem": "Frequency decreases from 4 MHz to 2 MHz. What happens to the period?",
+      "image": null,
+      "options": [
+        "It decreases by half",
+        "It remains unchanged",
+        "It doubles",
+        "It quadruples"
+      ],
+      "answer": 2,
+      "explanation": "Halving the frequency doubles the reciprocal period.",
+      "explanationImage": null,
+      "tags": [
+        "Factors, Proportionality and Reciprocals"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch02-q011",
+      "stem": "Two variables are inversely proportional. If the first is halved, the second:",
+      "image": null,
+      "options": [
+        "Is halved",
+        "Doubles",
+        "Remains unchanged",
+        "Quadruples"
+      ],
+      "answer": 1,
+      "explanation": "Inverse: halving one variable doubles the other.",
+      "explanationImage": null,
+      "tags": [
+        "Factors, Proportionality and Reciprocals"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch02-q012",
+      "stem": "Two variables are inversely proportional. If the first is multiplied by 5, the second:",
+      "image": null,
+      "options": [
+        "Is multiplied by 5",
+        "Remains unchanged",
+        "Is multiplied by 25",
+        "Is multiplied by one-fifth"
+      ],
+      "answer": 3,
+      "explanation": "Inverse: multiplying one by 5 multiplies the other by 1/5.",
+      "explanationImage": null,
+      "tags": [
+        "Factors, Proportionality and Reciprocals"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch02-q013",
+      "stem": "Echo return time is directly proportional to reflector depth. A reflector moves from 2 cm to 8 cm. By what factor does return time change?",
+      "image": null,
+      "options": [
+        "2",
+        "6",
+        "16",
+        "4"
+      ],
+      "answer": 3,
+      "explanation": "Depth changes by 8 ÷ 2 = 4, so return time changes by the same factor.",
+      "explanationImage": null,
+      "tags": [
+        "Factors, Proportionality and Reciprocals"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch02-q014",
+      "stem": "A reflector moves from 12 cm to 4 cm. What happens to the echo return time?",
+      "image": null,
+      "options": [
+        "It increases by a factor of 3",
+        "It remains unchanged",
+        "It decreases by half",
+        "It decreases to one-third"
+      ],
+      "answer": 3,
+      "explanation": "Depth falls to one-third, so return time falls to one-third.",
+      "explanationImage": null,
+      "tags": [
+        "Factors, Proportionality and Reciprocals"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch02-q015",
+      "stem": "The inverse relationship between frequency and wavelength (c = fλ) holds when:",
+      "image": null,
+      "options": [
+        "Sound travels in the same medium",
+        "Amplitude is constant",
+        "Power is constant",
+        "Beam area is constant"
+      ],
+      "answer": 0,
+      "explanation": "c = fλ gives an inverse relationship only for constant speed (same medium).",
+      "explanationImage": null,
+      "tags": [
+        "Factors, Proportionality and Reciprocals"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch02-q016",
+      "stem": "Power and intensity are directly proportional only when:",
+      "image": null,
+      "options": [
+        "Frequency is constant",
+        "Period is constant",
+        "Beam area is constant",
+        "Speed is constant"
+      ],
+      "answer": 2,
+      "explanation": "I = P/A; intensity tracks power directly only when area is constant.",
+      "explanationImage": null,
+      "tags": [
+        "Factors, Proportionality and Reciprocals"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch02-q017",
+      "stem": "Given c = d/t, which equation solves for time?",
+      "image": null,
+      "options": [
+        "t = cd",
+        "t = c/d",
+        "t = d/c",
+        "t = d − c"
+      ],
+      "answer": 2,
+      "explanation": "Divide both sides of c = d/t appropriately: t = d/c.",
+      "explanationImage": null,
+      "tags": [
+        "Rearranging Equations and Units"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch02-q018",
+      "stem": "Given c = fλ, which equation solves for wavelength?",
+      "image": null,
+      "options": [
+        "λ = fc",
+        "λ = c/f",
+        "λ = f/c",
+        "λ = c − f"
+      ],
+      "answer": 1,
+      "explanation": "Divide both sides of c = fλ by f: λ = c/f.",
+      "explanationImage": null,
+      "tags": [
+        "Rearranging Equations and Units"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch02-q019",
+      "stem": "Given f = 1/T, which equation solves for period?",
+      "image": null,
+      "options": [
+        "T = f",
+        "T = −f",
+        "T = f²",
+        "T = 1/f"
+      ],
+      "answer": 3,
+      "explanation": "Invert f = 1/T: T = 1/f.",
+      "explanationImage": null,
+      "tags": [
+        "Rearranging Equations and Units"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch02-q020",
+      "stem": "Given I = P/A, which equation solves for beam area?",
+      "image": null,
+      "options": [
+        "A = I/P",
+        "A = P/I",
+        "A = IP",
+        "A = P − I"
+      ],
+      "answer": 1,
+      "explanation": "Multiply by A, divide by I: A = P/I.",
+      "explanationImage": null,
+      "tags": [
+        "Rearranging Equations and Units"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch02-q021",
+      "stem": "Which unit is appropriate for propagation speed?",
+      "image": null,
+      "options": [
+        "m/s",
+        "m",
+        "s",
+        "m²"
+      ],
+      "answer": 0,
+      "explanation": "Speed is distance per time (m/s).",
+      "explanationImage": null,
+      "tags": [
+        "Rearranging Equations and Units"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch02-q022",
+      "stem": "Which unit is appropriate for frequency?",
+      "image": null,
+      "options": [
+        "m",
+        "s",
+        "Hz",
+        "m/s"
+      ],
+      "answer": 2,
+      "explanation": "Frequency is measured in hertz.",
+      "explanationImage": null,
+      "tags": [
+        "Rearranging Equations and Units"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch02-q023",
+      "stem": "Which unit is appropriate for period?",
+      "image": null,
+      "options": [
+        "Hz",
+        "s",
+        "m",
+        "W"
+      ],
+      "answer": 1,
+      "explanation": "Period is a time, in seconds.",
+      "explanationImage": null,
+      "tags": [
+        "Rearranging Equations and Units"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch02-q024",
+      "stem": "Which unit is appropriate for intensity?",
+      "image": null,
+      "options": [
+        "W",
+        "cm²",
+        "W/cm²",
+        "W·cm²"
+      ],
+      "answer": 2,
+      "explanation": "Intensity is power per unit area (W/cm²).",
+      "explanationImage": null,
+      "tags": [
+        "Rearranging Equations and Units"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch02-q025",
+      "stem": "In d = ct, with c in m/s and t in s, the result d has units of:",
+      "image": null,
+      "options": [
+        "m/s",
+        "s",
+        "m²",
+        "m"
+      ],
+      "answer": 3,
+      "explanation": "(m/s) × s = m.",
+      "explanationImage": null,
+      "tags": [
+        "Rearranging Equations and Units"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch02-q026",
+      "stem": "If power is in mW and area is in cm², intensity from I = P/A is expressed in:",
+      "image": null,
+      "options": [
+        "mW/cm²",
+        "mW·cm²",
+        "cm²/mW",
+        "mW"
+      ],
+      "answer": 0,
+      "explanation": "mW ÷ cm² = mW/cm².",
+      "explanationImage": null,
+      "tags": [
+        "Rearranging Equations and Units"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch02-q027",
+      "stem": "What is the wavelength of 2 MHz ultrasound in soft tissue (c = 1540 m/s)?",
+      "image": null,
+      "options": [
+        "0.077 mm",
+        "0.77 mm",
+        "7.7 mm",
+        "77 mm"
+      ],
+      "answer": 1,
+      "explanation": "λ = c/f = 1540 ÷ (2 × 10⁶) = 0.00077 m = 0.77 mm.",
+      "explanationImage": null,
+      "tags": [
+        "Rearranging Equations and Units"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch02-q028",
+      "stem": "An echo comes from a reflector 4 cm deep (c = 1540 m/s). What is the round-trip time?",
+      "image": null,
+      "options": [
+        "26 µs",
+        "104 µs",
+        "52 µs",
+        "520 µs"
+      ],
+      "answer": 2,
+      "explanation": "t = 2d/c = 0.08 m ÷ 1540 m/s ≈ 52 µs.",
+      "explanationImage": null,
+      "tags": [
+        "Rearranging Equations and Units"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch02-q029",
+      "stem": "Which prefix represents 10³?",
+      "image": null,
+      "options": [
+        "Milli",
+        "Micro",
+        "Kilo",
+        "Mega"
+      ],
+      "answer": 2,
+      "explanation": "Kilo = 10³.",
+      "explanationImage": null,
+      "tags": [
+        "Metric Prefixes, Unit Conversion and Scientific Notation"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch02-q030",
+      "stem": "Which prefix represents 10⁶?",
+      "image": null,
+      "options": [
+        "Mega",
+        "Kilo",
+        "Micro",
+        "Milli"
+      ],
+      "answer": 0,
+      "explanation": "Mega = 10⁶.",
+      "explanationImage": null,
+      "tags": [
+        "Metric Prefixes, Unit Conversion and Scientific Notation"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch02-q031",
+      "stem": "Which prefix represents 10⁻³?",
+      "image": null,
+      "options": [
+        "Micro",
+        "Milli",
+        "Kilo",
+        "Nano"
+      ],
+      "answer": 1,
+      "explanation": "Milli = 10⁻³.",
+      "explanationImage": null,
+      "tags": [
+        "Metric Prefixes, Unit Conversion and Scientific Notation"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch02-q032",
+      "stem": "Which prefix represents 10⁻⁹?",
+      "image": null,
+      "options": [
+        "Pico",
+        "Micro",
+        "Milli",
+        "Nano"
+      ],
+      "answer": 3,
+      "explanation": "Nano = 10⁻⁹.",
+      "explanationImage": null,
+      "tags": [
+        "Metric Prefixes, Unit Conversion and Scientific Notation"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch02-q033",
+      "stem": "Which prefix represents 10⁻²?",
+      "image": null,
+      "options": [
+        "Centi",
+        "Milli",
+        "Kilo",
+        "Mega"
+      ],
+      "answer": 0,
+      "explanation": "Centi = 10⁻².",
+      "explanationImage": null,
+      "tags": [
+        "Metric Prefixes, Unit Conversion and Scientific Notation"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch02-q034",
+      "stem": "Convert 7.5 cm to millimetres.",
+      "image": null,
+      "options": [
+        "0.75 mm",
+        "7.5 mm",
+        "750 mm",
+        "75 mm"
+      ],
+      "answer": 3,
+      "explanation": "1 cm = 10 mm, so 7.5 × 10 = 75 mm.",
+      "explanationImage": null,
+      "tags": [
+        "Metric Prefixes, Unit Conversion and Scientific Notation"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch02-q035",
+      "stem": "Convert 120 mm to centimetres.",
+      "image": null,
+      "options": [
+        "1.2 cm",
+        "12 cm",
+        "120 cm",
+        "1,200 cm"
+      ],
+      "answer": 1,
+      "explanation": "120 mm ÷ 10 = 12 cm.",
+      "explanationImage": null,
+      "tags": [
+        "Metric Prefixes, Unit Conversion and Scientific Notation"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch02-q036",
+      "stem": "Convert 2.5 m to centimetres.",
+      "image": null,
+      "options": [
+        "25 cm",
+        "0.25 cm",
+        "250 cm",
+        "2,500 cm"
+      ],
+      "answer": 2,
+      "explanation": "1 m = 100 cm, so 2.5 × 100 = 250 cm.",
+      "explanationImage": null,
+      "tags": [
+        "Metric Prefixes, Unit Conversion and Scientific Notation"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch02-q037",
+      "stem": "Convert 5 ms to microseconds.",
+      "image": null,
+      "options": [
+        "5 µs",
+        "50 µs",
+        "500 µs",
+        "5,000 µs"
+      ],
+      "answer": 3,
+      "explanation": "1 ms = 1,000 µs, so 5 ms = 5,000 µs.",
+      "explanationImage": null,
+      "tags": [
+        "Metric Prefixes, Unit Conversion and Scientific Notation"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch02-q038",
+      "stem": "Convert 300 µs to milliseconds.",
+      "image": null,
+      "options": [
+        "0.3 ms",
+        "3 ms",
+        "30 ms",
+        "300,000 ms"
+      ],
+      "answer": 0,
+      "explanation": "300 µs ÷ 1,000 = 0.3 ms.",
+      "explanationImage": null,
+      "tags": [
+        "Metric Prefixes, Unit Conversion and Scientific Notation"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch02-q039",
+      "stem": "Convert 3 MHz to hertz.",
+      "image": null,
+      "options": [
+        "3,000 Hz",
+        "30,000 Hz",
+        "3,000,000 Hz",
+        "300,000 Hz"
+      ],
+      "answer": 2,
+      "explanation": "1 MHz = 10⁶ Hz, so 3 MHz = 3,000,000 Hz.",
+      "explanationImage": null,
+      "tags": [
+        "Metric Prefixes, Unit Conversion and Scientific Notation"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch02-q040",
+      "stem": "Convert 2,500 Hz to kilohertz.",
+      "image": null,
+      "options": [
+        "25 kHz",
+        "0.25 kHz",
+        "250 kHz",
+        "2.5 kHz"
+      ],
+      "answer": 3,
+      "explanation": "1 kHz = 1,000 Hz, so 2,500 Hz = 2.5 kHz.",
+      "explanationImage": null,
+      "tags": [
+        "Metric Prefixes, Unit Conversion and Scientific Notation"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch02-q041",
+      "stem": "Convert 0.5 mm to micrometres.",
+      "image": null,
+      "options": [
+        "5 µm",
+        "50 µm",
+        "500 µm",
+        "0.0005 µm"
+      ],
+      "answer": 2,
+      "explanation": "1 mm = 1,000 µm, so 0.5 mm = 500 µm.",
+      "explanationImage": null,
+      "tags": [
+        "Metric Prefixes, Unit Conversion and Scientific Notation"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch02-q042",
+      "stem": "Express 3,200,000 Hz in scientific notation.",
+      "image": null,
+      "options": [
+        "3.2 × 10⁶ Hz",
+        "3.2 × 10⁵ Hz",
+        "3.2 × 10⁷ Hz",
+        "3.2 × 10³ Hz"
+      ],
+      "answer": 0,
+      "explanation": "Move the decimal six places left: 3.2 × 10⁶.",
+      "explanationImage": null,
+      "tags": [
+        "Metric Prefixes, Unit Conversion and Scientific Notation"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch02-q043",
+      "stem": "Express 0.00075 s in scientific notation.",
+      "image": null,
+      "options": [
+        "7.5 × 10⁻³ s",
+        "7.5 × 10⁻⁵ s",
+        "7.5 × 10⁴ s",
+        "7.5 × 10⁻⁴ s"
+      ],
+      "answer": 3,
+      "explanation": "Move the decimal four places right: 7.5 × 10⁻⁴.",
+      "explanationImage": null,
+      "tags": [
+        "Metric Prefixes, Unit Conversion and Scientific Notation"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch02-q044",
+      "stem": "Which decimal value equals 6.5 × 10⁴?",
+      "image": null,
+      "options": [
+        "650",
+        "6,500",
+        "65,000",
+        "650,000"
+      ],
+      "answer": 2,
+      "explanation": "6.5 × 10,000 = 65,000.",
+      "explanationImage": null,
+      "tags": [
+        "Metric Prefixes, Unit Conversion and Scientific Notation"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch02-q045",
+      "stem": "Which decimal value equals 2 × 10⁻⁶?",
+      "image": null,
+      "options": [
+        "0.00002",
+        "0.0000002",
+        "0.002",
+        "0.000002"
+      ],
+      "answer": 3,
+      "explanation": "A negative exponent of 6 moves the decimal six places left: 0.000002.",
+      "explanationImage": null,
+      "tags": [
+        "Metric Prefixes, Unit Conversion and Scientific Notation"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch02-q046",
+      "stem": "Express 1,540 m/s in scientific notation.",
+      "image": null,
+      "options": [
+        "1.54 × 10² m/s",
+        "1.54 × 10³ m/s",
+        "1.54 × 10⁴ m/s",
+        "1.54 × 10⁻³ m/s"
+      ],
+      "answer": 1,
+      "explanation": "1,540 = 1.54 × 10³.",
+      "explanationImage": null,
+      "tags": [
+        "Metric Prefixes, Unit Conversion and Scientific Notation"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch02-q047",
+      "stem": "What is log₁₀(100)?",
+      "image": null,
+      "options": [
+        "1",
+        "2",
+        "10",
+        "100"
+      ],
+      "answer": 1,
+      "explanation": "10 to the power 2 is 100.",
+      "explanationImage": null,
+      "tags": [
+        "Logarithms and Decibels"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch02-q048",
+      "stem": "What is log₁₀(1,000,000)?",
+      "image": null,
+      "options": [
+        "4",
+        "5",
+        "6",
+        "10"
+      ],
+      "answer": 2,
+      "explanation": "1,000,000 = 10⁶.",
+      "explanationImage": null,
+      "tags": [
+        "Logarithms and Decibels"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch02-q049",
+      "stem": "What is log₁₀(0.001)?",
+      "image": null,
+      "options": [
+        "3",
+        "−3",
+        "−1",
+        "0.001"
+      ],
+      "answer": 1,
+      "explanation": "0.001 = 10⁻³.",
+      "explanationImage": null,
+      "tags": [
+        "Logarithms and Decibels"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch02-q050",
+      "stem": "What is log₁₀(1)?",
+      "image": null,
+      "options": [
+        "0",
+        "1",
+        "10",
+        "Undefined"
+      ],
+      "answer": 0,
+      "explanation": "10⁰ = 1.",
+      "explanationImage": null,
+      "tags": [
+        "Logarithms and Decibels"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch02-q051",
+      "stem": "Which exponential statement is equivalent to log₁₀(10,000) = 4?",
+      "image": null,
+      "options": [
+        "4¹⁰ = 10,000",
+        "10 × 4 = 10,000",
+        "10³ = 10,000",
+        "10⁴ = 10,000"
+      ],
+      "answer": 3,
+      "explanation": "A log asks \"10 to what power?\": 10⁴ = 10,000.",
+      "explanationImage": null,
+      "tags": [
+        "Logarithms and Decibels"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch02-q052",
+      "stem": "Decibels are used in ultrasound to express:",
+      "image": null,
+      "options": [
+        "Absolute frequency",
+        "Ratios of intensity or power",
+        "Propagation speed",
+        "Imaging depth"
+      ],
+      "answer": 1,
+      "explanation": "Decibels use logarithms to express ratios of intensity or power.",
+      "explanationImage": null,
+      "tags": [
+        "Logarithms and Decibels"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch02-q053",
+      "stem": "An increase of 10 dB corresponds to an intensity change by a factor of:",
+      "image": null,
+      "options": [
+        "2",
+        "10",
+        "100",
+        "1,000"
+      ],
+      "answer": 1,
+      "explanation": "Each 10 dB step is a factor of 10 in intensity.",
+      "explanationImage": null,
+      "tags": [
+        "Logarithms and Decibels"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch02-q054",
+      "stem": "An increase of 20 dB corresponds to an intensity change by a factor of:",
+      "image": null,
+      "options": [
+        "20",
+        "200",
+        "2",
+        "100"
+      ],
+      "answer": 3,
+      "explanation": "20 dB is two 10 dB steps: 10 × 10 = 100.",
+      "explanationImage": null,
+      "tags": [
+        "Logarithms and Decibels"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch02-q055",
+      "stem": "A negative decibel value indicates:",
+      "image": null,
+      "options": [
+        "Amplification",
+        "No change",
+        "Attenuation",
+        "Reflection"
+      ],
+      "answer": 2,
+      "explanation": "Negative dB means attenuation (loss).",
+      "explanationImage": null,
+      "tags": [
+        "Logarithms and Decibels"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch02-q056",
+      "stem": "A positive decibel value indicates:",
+      "image": null,
+      "options": [
+        "Amplification",
+        "Attenuation",
+        "No change",
+        "Absorption only"
+      ],
+      "answer": 0,
+      "explanation": "Positive dB means amplification (gain).",
+      "explanationImage": null,
+      "tags": [
+        "Logarithms and Decibels"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch02-q057",
+      "stem": "On a logarithmic scale, each increment:",
+      "image": null,
+      "options": [
+        "Adds the same amount",
+        "Subtracts the same amount",
+        "Squares the previous value",
+        "Multiplies by the base"
+      ],
+      "answer": 3,
+      "explanation": "Logarithmic increments multiply by the base.",
+      "explanationImage": null,
+      "tags": [
+        "Logarithms and Decibels"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch02-q058",
+      "stem": "Why are decibels useful in ultrasound?",
+      "image": null,
+      "options": [
+        "They avoid the use of ratios",
+        "They express very large ranges with manageable numbers",
+        "They are a linear scale",
+        "They apply only to frequency"
+      ],
+      "answer": 1,
+      "explanation": "Logarithms compress huge ranges into manageable numbers.",
+      "explanationImage": null,
+      "tags": [
+        "Logarithms and Decibels"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch02-q059",
+      "stem": "A 60 dB difference corresponds to an intensity ratio of:",
+      "image": null,
+      "options": [
+        "60",
+        "600",
+        "1,000,000",
+        "6"
+      ],
+      "answer": 2,
+      "explanation": "60 dB = six 10 dB steps = 10⁶.",
+      "explanationImage": null,
+      "tags": [
+        "Logarithms and Decibels"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch02-q060",
+      "stem": "A change of −30 dB means intensity becomes:",
+      "image": null,
+      "options": [
+        "One-thirtieth",
+        "One-thousandth",
+        "One-tenth",
+        "Thirty times larger"
+      ],
+      "answer": 1,
+      "explanation": "−30 dB = three steps of ÷10 = one-thousandth.",
+      "explanationImage": null,
+      "tags": [
+        "Logarithms and Decibels"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch02-q061",
+      "stem": "Intensity is proportional to amplitude squared. If amplitude doubles, intensity:",
+      "image": null,
+      "options": [
+        "Doubles",
+        "Increases fourfold",
+        "Increases eightfold",
+        "Increases sixteenfold"
+      ],
+      "answer": 1,
+      "explanation": "I ∝ amplitude², so 2² = 4.",
+      "explanationImage": null,
+      "tags": [
+        "Squared Relationships and Graphs"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch02-q062",
+      "stem": "If amplitude increases by a factor of 4, intensity increases by a factor of:",
+      "image": null,
+      "options": [
+        "4",
+        "8",
+        "16",
+        "12"
+      ],
+      "answer": 2,
+      "explanation": "4² = 16.",
+      "explanationImage": null,
+      "tags": [
+        "Squared Relationships and Graphs"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch02-q063",
+      "stem": "If amplitude is cut in half, intensity is multiplied by:",
+      "image": null,
+      "options": [
+        "One-half",
+        "2",
+        "4",
+        "One-quarter"
+      ],
+      "answer": 3,
+      "explanation": "(1/2)² = 1/4.",
+      "explanationImage": null,
+      "tags": [
+        "Squared Relationships and Graphs"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch02-q064",
+      "stem": "Intensity increases by a factor of 25. By what factor did amplitude change?",
+      "image": null,
+      "options": [
+        "5",
+        "25",
+        "10",
+        "50"
+      ],
+      "answer": 0,
+      "explanation": "√25 = 5.",
+      "explanationImage": null,
+      "tags": [
+        "Squared Relationships and Graphs"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch02-q065",
+      "stem": "Which relationship is linear?",
+      "image": null,
+      "options": [
+        "Intensity and amplitude",
+        "Distance and time at constant speed",
+        "Frequency and period",
+        "Wavelength and frequency"
+      ],
+      "answer": 1,
+      "explanation": "d = ct is linear; the others are nonlinear.",
+      "explanationImage": null,
+      "tags": [
+        "Squared Relationships and Graphs"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch02-q066",
+      "stem": "A directly proportional relationship is graphed as:",
+      "image": null,
+      "options": [
+        "A hyperbola",
+        "A horizontal line",
+        "A straight line through the origin",
+        "A downward-sloping curve that levels off"
+      ],
+      "answer": 2,
+      "explanation": "y = kx passes through the origin.",
+      "explanationImage": null,
+      "tags": [
+        "Squared Relationships and Graphs"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch02-q067",
+      "stem": "An inversely proportional relationship is graphed as:",
+      "image": null,
+      "options": [
+        "A straight line through the origin",
+        "A curve that falls as x increases",
+        "A horizontal line",
+        "A vertical line"
+      ],
+      "answer": 1,
+      "explanation": "An inverse relationship is a curve that falls as x increases.",
+      "explanationImage": null,
+      "tags": [
+        "Squared Relationships and Graphs"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch02-q068",
+      "stem": "A horizontal line on a graph of y versus x shows that:",
+      "image": null,
+      "options": [
+        "y is directly proportional to x",
+        "y is inversely proportional to x",
+        "y is proportional to x squared",
+        "y remains constant as x changes"
+      ],
+      "answer": 3,
+      "explanation": "A horizontal line means y does not change with x.",
+      "explanationImage": null,
+      "tags": [
+        "Squared Relationships and Graphs"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch02-q069",
+      "stem": "A graph of intensity versus amplitude appears as:",
+      "image": null,
+      "options": [
+        "A horizontal line",
+        "An upward curve that becomes progressively steeper",
+        "A straight line through the origin",
+        "A downward-sloping straight line"
+      ],
+      "answer": 1,
+      "explanation": "A squared relationship curves upward and steepens.",
+      "explanationImage": null,
+      "tags": [
+        "Squared Relationships and Graphs"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch02-q070",
+      "stem": "On a graph of distance versus time, the slope represents:",
+      "image": null,
+      "options": [
+        "Time",
+        "Area",
+        "Speed",
+        "Frequency"
+      ],
+      "answer": 2,
+      "explanation": "Slope = distance ÷ time = speed.",
+      "explanationImage": null,
+      "tags": [
+        "Squared Relationships and Graphs"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch02-q071",
+      "stem": "The side of a square is doubled. Its area:",
+      "image": null,
+      "options": [
+        "Increases fourfold",
+        "Doubles",
+        "Increases eightfold",
+        "Remains unchanged"
+      ],
+      "answer": 0,
+      "explanation": "Area scales with side squared: 2² = 4.",
+      "explanationImage": null,
+      "tags": [
+        "Squared Relationships and Graphs"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch02-q072",
+      "stem": "Power is constant and the beam area increases fourfold. Intensity:",
+      "image": null,
+      "options": [
+        "Increases fourfold",
+        "Doubles",
+        "Remains unchanged",
+        "Decreases to one-fourth"
+      ],
+      "answer": 3,
+      "explanation": "I = P/A; area ×4 makes intensity ÷4.",
+      "explanationImage": null,
+      "tags": [
+        "Squared Relationships and Graphs"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch02-q073",
+      "stem": "In a right triangle, sine is defined as:",
+      "image": null,
+      "options": [
+        "Adjacent ÷ hypotenuse",
+        "Opposite ÷ hypotenuse",
+        "Opposite ÷ adjacent",
+        "Hypotenuse ÷ opposite"
+      ],
+      "answer": 1,
+      "explanation": "SOH: sine = opposite ÷ hypotenuse.",
+      "explanationImage": null,
+      "tags": [
+        "Trigonometry and Angle Conventions"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch02-q074",
+      "stem": "In a right triangle, cosine is defined as:",
+      "image": null,
+      "options": [
+        "Adjacent ÷ hypotenuse",
+        "Opposite ÷ hypotenuse",
+        "Opposite ÷ adjacent",
+        "Adjacent ÷ opposite"
+      ],
+      "answer": 0,
+      "explanation": "CAH: cosine = adjacent ÷ hypotenuse.",
+      "explanationImage": null,
+      "tags": [
+        "Trigonometry and Angle Conventions"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch02-q075",
+      "stem": "In a right triangle, tangent is defined as:",
+      "image": null,
+      "options": [
+        "Adjacent ÷ hypotenuse",
+        "Opposite ÷ hypotenuse",
+        "Opposite ÷ adjacent",
+        "Hypotenuse ÷ adjacent"
+      ],
+      "answer": 2,
+      "explanation": "TOA: tangent = opposite ÷ adjacent.",
+      "explanationImage": null,
+      "tags": [
+        "Trigonometry and Angle Conventions"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch02-q076",
+      "stem": "In the memory aid SOH CAH TOA, \"TOA\" stands for:",
+      "image": null,
+      "options": [
+        "Tangent = Adjacent ÷ Opposite",
+        "Tangent = Opposite × Adjacent",
+        "Tangent = Hypotenuse ÷ Opposite",
+        "Tangent = Opposite ÷ Adjacent"
+      ],
+      "answer": 3,
+      "explanation": "TOA = Tangent, Opposite, Adjacent.",
+      "explanationImage": null,
+      "tags": [
+        "Trigonometry and Angle Conventions"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch02-q077",
+      "stem": "The angle of incidence is measured relative to:",
+      "image": null,
+      "options": [
+        "The normal line",
+        "The tissue interface",
+        "The transducer face",
+        "The horizontal axis"
+      ],
+      "answer": 0,
+      "explanation": "Angles are measured from the normal, not the interface.",
+      "explanationImage": null,
+      "tags": [
+        "Trigonometry and Angle Conventions"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch02-q078",
+      "stem": "The normal line is:",
+      "image": null,
+      "options": [
+        "Parallel to the interface",
+        "Perpendicular to the interface",
+        "At 45° to the interface",
+        "The same as the interface"
+      ],
+      "answer": 1,
+      "explanation": "The normal is perpendicular to the interface.",
+      "explanationImage": null,
+      "tags": [
+        "Trigonometry and Angle Conventions"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch02-q079",
+      "stem": "A beam strikes an interface at 20° from the normal. What is the angle between the beam and the interface?",
+      "image": null,
+      "options": [
+        "20°",
+        "110°",
+        "160°",
+        "70°"
+      ],
+      "answer": 3,
+      "explanation": "90° − 20° = 70°.",
+      "explanationImage": null,
+      "tags": [
+        "Trigonometry and Angle Conventions"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch02-q080",
+      "stem": "A beam travels along the normal (perpendicular to the interface). What is its angle of incidence?",
+      "image": null,
+      "options": [
+        "90°",
+        "45°",
+        "0°",
+        "180°"
+      ],
+      "answer": 2,
+      "explanation": "Along the normal, the angle of incidence is 0°.",
+      "explanationImage": null,
+      "tags": [
+        "Trigonometry and Angle Conventions"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch02-q081",
+      "stem": "The angle of incidence is 40°. If the reflection is specular, the angle of reflection is:",
+      "image": null,
+      "options": [
+        "50°",
+        "140°",
+        "0°",
+        "40°"
+      ],
+      "answer": 3,
+      "explanation": "Angle of reflection equals angle of incidence.",
+      "explanationImage": null,
+      "tags": [
+        "Trigonometry and Angle Conventions"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch02-q082",
+      "stem": "What is the value of cos 0°?",
+      "image": null,
+      "options": [
+        "0",
+        "1",
+        "0.5",
+        "−1"
+      ],
+      "answer": 1,
+      "explanation": "cos 0° = 1.",
+      "explanationImage": null,
+      "tags": [
+        "Trigonometry and Angle Conventions"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch02-q083",
+      "stem": "A rectangle measures 5 cm by 2 cm. What is its area?",
+      "image": null,
+      "options": [
+        "7 cm²",
+        "10 cm²",
+        "10 cm",
+        "10 cm³"
+      ],
+      "answer": 1,
+      "explanation": "Area = 5 × 2 = 10 cm².",
+      "explanationImage": null,
+      "tags": [
+        "Area and Volume"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch02-q084",
+      "stem": "Which unit is appropriate for volume?",
+      "image": null,
+      "options": [
+        "cm",
+        "cm²",
+        "cm³",
+        "cm/s"
+      ],
+      "answer": 2,
+      "explanation": "Volume is three-dimensional (cm³).",
+      "explanationImage": null,
+      "tags": [
+        "Area and Volume"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch02-q085",
+      "stem": "A calculated volume is 150 cm³. What is it in millilitres?",
+      "image": null,
+      "options": [
+        "150 mL",
+        "15 mL",
+        "1,500 mL",
+        "1.5 mL"
+      ],
+      "answer": 0,
+      "explanation": "1 cm³ = 1 mL.",
+      "explanationImage": null,
+      "tags": [
+        "Area and Volume"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch02-q086",
+      "stem": "A box measures 3 cm × 4 cm × 5 cm. What is its volume?",
+      "image": null,
+      "options": [
+        "12 cm³",
+        "60 cm²",
+        "12 cm²",
+        "60 cm³"
+      ],
+      "answer": 3,
+      "explanation": "3 × 4 × 5 = 60 cm³.",
+      "explanationImage": null,
+      "tags": [
+        "Area and Volume"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch02-q087",
+      "stem": "A square has an area of 9 cm². What is the length of one side?",
+      "image": null,
+      "options": [
+        "2 cm",
+        "3 cm",
+        "4.5 cm",
+        "9 cm"
+      ],
+      "answer": 1,
+      "explanation": "√9 = 3 cm.",
+      "explanationImage": null,
+      "tags": [
+        "Area and Volume"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch02-q088",
+      "stem": "A fluid volume is 2 litres. How many millilitres is this?",
+      "image": null,
+      "options": [
+        "20 mL",
+        "200 mL",
+        "20,000 mL",
+        "2,000 mL"
+      ],
+      "answer": 3,
+      "explanation": "1 L = 1,000 mL.",
+      "explanationImage": null,
+      "tags": [
+        "Area and Volume"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch02-q089",
+      "stem": "Sensitivity is calculated as:",
+      "image": null,
+      "options": [
+        "TN ÷ (TN + FP)",
+        "TP ÷ (TP + FP)",
+        "TP ÷ (TP + FN)",
+        "TN ÷ (TN + FN)"
+      ],
+      "answer": 2,
+      "explanation": "Sensitivity = TP ÷ (TP + FN).",
+      "explanationImage": null,
+      "tags": [
+        "Diagnostic Statistics"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch02-q090",
+      "stem": "Specificity is calculated as:",
+      "image": null,
+      "options": [
+        "TP ÷ (TP + FP)",
+        "TP ÷ (TP + FN)",
+        "TN ÷ (TN + FP)",
+        "TN ÷ (TN + FN)"
+      ],
+      "answer": 2,
+      "explanation": "Specificity = TN ÷ (TN + FP).",
+      "explanationImage": null,
+      "tags": [
+        "Diagnostic Statistics"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch02-q091",
+      "stem": "A test finds 45 true positives and misses 5 patients who have the condition. What is the sensitivity?",
+      "image": null,
+      "options": [
+        "45%",
+        "50%",
+        "95%",
+        "90%"
+      ],
+      "answer": 3,
+      "explanation": "45 ÷ (45 + 5) = 90%.",
+      "explanationImage": null,
+      "tags": [
+        "Diagnostic Statistics"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch02-q092",
+      "stem": "A test gives 70 true negatives and 30 false positives. What is the specificity?",
+      "image": null,
+      "options": [
+        "30%",
+        "70%",
+        "43%",
+        "100%"
+      ],
+      "answer": 1,
+      "explanation": "70 ÷ (70 + 30) = 70%.",
+      "explanationImage": null,
+      "tags": [
+        "Diagnostic Statistics"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch02-q093",
+      "stem": "Positive predictive value (PPV) is calculated as:",
+      "image": null,
+      "options": [
+        "TP ÷ (TP + FP)",
+        "TP ÷ (TP + FN)",
+        "TN ÷ (TN + FP)",
+        "TN ÷ (TN + FN)"
+      ],
+      "answer": 0,
+      "explanation": "PPV = TP ÷ (TP + FP).",
+      "explanationImage": null,
+      "tags": [
+        "Diagnostic Statistics"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch02-q094",
+      "stem": "Negative predictive value (NPV) is calculated as:",
+      "image": null,
+      "options": [
+        "TP ÷ (TP + FN)",
+        "TN ÷ (TN + FP)",
+        "TP ÷ (TP + FP)",
+        "TN ÷ (TN + FN)"
+      ],
+      "answer": 3,
+      "explanation": "NPV = TN ÷ (TN + FN).",
+      "explanationImage": null,
+      "tags": [
+        "Diagnostic Statistics"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch02-q095",
+      "stem": "A test produces 60 true positives and 20 false positives. What is the PPV?",
+      "image": null,
+      "options": [
+        "60%",
+        "20%",
+        "75%",
+        "80%"
+      ],
+      "answer": 2,
+      "explanation": "60 ÷ (60 + 20) = 75%.",
+      "explanationImage": null,
+      "tags": [
+        "Diagnostic Statistics"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch02-q096",
+      "stem": "A test produces 90 true negatives and 10 false negatives. What is the NPV?",
+      "image": null,
+      "options": [
+        "10%",
+        "90%",
+        "100%",
+        "50%"
+      ],
+      "answer": 1,
+      "explanation": "90 ÷ (90 + 10) = 90%.",
+      "explanationImage": null,
+      "tags": [
+        "Diagnostic Statistics"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch02-q097",
+      "stem": "The denominator in the calculation of specificity is:",
+      "image": null,
+      "options": [
+        "All patients with a positive test",
+        "All patients with a negative test",
+        "All patients who truly have the condition",
+        "All patients who truly do not have the condition"
+      ],
+      "answer": 3,
+      "explanation": "Specificity uses everyone who truly does not have the condition.",
+      "explanationImage": null,
+      "tags": [
+        "Diagnostic Statistics"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch02-q098",
+      "stem": "A test with high sensitivity is good at:",
+      "image": null,
+      "options": [
+        "Detecting most patients who truly have the condition",
+        "Excluding most patients who do not have the condition",
+        "Predicting disease from a positive result only",
+        "Measuring depth accurately"
+      ],
+      "answer": 0,
+      "explanation": "High sensitivity means most true cases are detected.",
+      "explanationImage": null,
+      "tags": [
+        "Diagnostic Statistics"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch02-q099",
+      "stem": "A false negative is a patient who:",
+      "image": null,
+      "options": [
+        "Has no condition and tests positive",
+        "Has the condition and tests positive",
+        "Has the condition and tests negative",
+        "Has no condition and tests negative"
+      ],
+      "answer": 2,
+      "explanation": "A false negative has the condition but tests negative.",
+      "explanationImage": null,
+      "tags": [
+        "Diagnostic Statistics"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch02-q100",
+      "stem": "Of 200 patients, 50 truly have a condition and the test detects 40 of them. What is the sensitivity?",
+      "image": null,
+      "options": [
+        "20%",
+        "40%",
+        "80%",
+        "100%"
+      ],
+      "answer": 2,
+      "explanation": "40 ÷ 50 = 80%.",
+      "explanationImage": null,
+      "tags": [
+        "Diagnostic Statistics"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch02-q101",
+      "stem": "Which term means to increase by a factor of 2?",
+      "image": null,
+      "options": [
+        "Half",
+        "Double",
+        "Quadruple",
+        "Reciprocal"
+      ],
+      "answer": 1,
+      "explanation": "Double means increase by a factor of 2 (multiply by 2).",
+      "explanationImage": null,
+      "tags": [
+        "Lecture 2 Review"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch02-q102",
+      "stem": "\"Quarters\" means a value is:",
+      "image": null,
+      "options": [
+        "Multiplied by 4",
+        "Divided by 2",
+        "Divided by 4",
+        "Multiplied by 2"
+      ],
+      "answer": 2,
+      "explanation": "Quarters means decrease by a factor of 4 (divide by 4).",
+      "explanationImage": null,
+      "tags": [
+        "Lecture 2 Review"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch02-q103",
+      "stem": "\"Quadruples\" means a value:",
+      "image": null,
+      "options": [
+        "Increases by 2",
+        "Increases by a factor of 4",
+        "Decreases by a factor of 4",
+        "Increases by 4 units"
+      ],
+      "answer": 1,
+      "explanation": "Quadruples means increase by a factor of 4 (multiply by 4).",
+      "explanationImage": null,
+      "tags": [
+        "Lecture 2 Review"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch02-q104",
+      "stem": "The reciprocal of a number is:",
+      "image": null,
+      "options": [
+        "Its negative",
+        "Its square",
+        "1 divided by the number",
+        "The number multiplied by 2"
+      ],
+      "answer": 2,
+      "explanation": "A reciprocal is the inverted value: 1 divided by the number.",
+      "explanationImage": null,
+      "tags": [
+        "Lecture 2 Review"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch02-q105",
+      "stem": "In mathematical language, the word \"factor\" implies:",
+      "image": null,
+      "options": [
+        "Addition only",
+        "Subtraction only",
+        "Multiplication or division",
+        "Rounding"
+      ],
+      "answer": 2,
+      "explanation": "\"Factor\" implies multiplication or division, not addition or subtraction.",
+      "explanationImage": null,
+      "tags": [
+        "Lecture 2 Review"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch02-q106",
+      "stem": "\"Half\" describes a value that has:",
+      "image": null,
+      "options": [
+        "Decreased by a factor of 2",
+        "Decreased by a factor of 4",
+        "Decreased by exactly 2 units",
+        "Increased by a factor of 2"
+      ],
+      "answer": 0,
+      "explanation": "Half means decrease by a factor of 2 (divide by 2).",
+      "explanationImage": null,
+      "tags": [
+        "Lecture 2 Review"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch02-q107",
+      "stem": "What is the reciprocal of 4?",
+      "image": null,
+      "options": [
+        "0.25",
+        "4",
+        "−4",
+        "2"
+      ],
+      "answer": 0,
+      "explanation": "1 ÷ 4 = 0.25.",
+      "explanationImage": null,
+      "tags": [
+        "Lecture 2 Review"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch02-q108",
+      "stem": "If frequency triples, the period:",
+      "image": null,
+      "options": [
+        "Triples",
+        "Becomes one-third",
+        "Stays the same",
+        "Doubles"
+      ],
+      "answer": 1,
+      "explanation": "Frequency and period are reciprocals (T = 1/f), so tripling f makes T one-third.",
+      "explanationImage": null,
+      "tags": [
+        "Lecture 2 Review"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch02-q109",
+      "stem": "A linear relationship produces which type of graph?",
+      "image": null,
+      "options": [
+        "A curved line",
+        "A straight line",
+        "A circle",
+        "No graph"
+      ],
+      "answer": 1,
+      "explanation": "Linear relationships change at a constant rate and give a straight-line graph.",
+      "explanationImage": null,
+      "tags": [
+        "Lecture 2 Review"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch02-q110",
+      "stem": "Which is an example of a nonlinear relationship from the lecture?",
+      "image": null,
+      "options": [
+        "Distance increasing with travel time at constant speed",
+        "Intensity changing with amplitude squared",
+        "Doubling depth doubling round-trip time",
+        "Frequency and period as reciprocals of a straight-line plot"
+      ],
+      "answer": 1,
+      "explanation": "Intensity varies with amplitude squared, so the rate of change is not constant and the graph is curved.",
+      "explanationImage": null,
+      "tags": [
+        "Lecture 2 Review"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch02-q111",
+      "stem": "In a linear relationship, the rate of change is:",
+      "image": null,
+      "options": [
+        "Constant",
+        "Variable",
+        "Always zero",
+        "Always negative"
+      ],
+      "answer": 0,
+      "explanation": "A constant rate of change defines a linear relationship.",
+      "explanationImage": null,
+      "tags": [
+        "Lecture 2 Review"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch02-q112",
+      "stem": "The graph of a directly proportional relationship is:",
+      "image": null,
+      "options": [
+        "A downward curve",
+        "A straight line through zero",
+        "A horizontal line",
+        "A vertical line"
+      ],
+      "answer": 1,
+      "explanation": "Direct proportionality gives a straight line passing through the origin (zero).",
+      "explanationImage": null,
+      "tags": [
+        "Lecture 2 Review"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch02-q113",
+      "stem": "In direct proportionality, doubling one variable:",
+      "image": null,
+      "options": [
+        "Halves the other",
+        "Doubles the other",
+        "Leaves the other unchanged",
+        "Quadruples the other"
+      ],
+      "answer": 1,
+      "explanation": "Variables change in the same direction by the same factor; doubling one doubles the other.",
+      "explanationImage": null,
+      "tags": [
+        "Lecture 2 Review"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch02-q114",
+      "stem": "Imaging depth and echo return time are:",
+      "image": null,
+      "options": [
+        "Inversely proportional",
+        "Directly proportional",
+        "Reciprocals",
+        "Unrelated"
+      ],
+      "answer": 1,
+      "explanation": "Doubling depth doubles the round-trip travel time, so they are directly proportional.",
+      "explanationImage": null,
+      "tags": [
+        "Lecture 2 Review"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch02-q115",
+      "stem": "In inverse proportionality, the product of the two variables:",
+      "image": null,
+      "options": [
+        "Remains constant",
+        "Doubles",
+        "Becomes zero",
+        "Becomes infinite"
+      ],
+      "answer": 0,
+      "explanation": "For inverse proportionality, x × y stays constant.",
+      "explanationImage": null,
+      "tags": [
+        "Lecture 2 Review"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch02-q116",
+      "stem": "The graph of an inverse relationship forms:",
+      "image": null,
+      "options": [
+        "A straight line through zero",
+        "A downward curve",
+        "A horizontal line",
+        "A vertical line"
+      ],
+      "answer": 1,
+      "explanation": "Inverse relationships plot as a downward curve.",
+      "explanationImage": null,
+      "tags": [
+        "Lecture 2 Review"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch02-q117",
+      "stem": "In an inverse relationship, doubling one variable:",
+      "image": null,
+      "options": [
+        "Doubles the other",
+        "Halves the other",
+        "Quadruples the other",
+        "Does not change the other"
+      ],
+      "answer": 1,
+      "explanation": "Variables change in opposite directions; doubling one halves the other.",
+      "explanationImage": null,
+      "tags": [
+        "Lecture 2 Review"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch02-q118",
+      "stem": "In a reciprocal relationship, the two variables multiply to equal:",
+      "image": null,
+      "options": [
+        "0",
+        "1",
+        "2",
+        "10"
+      ],
+      "answer": 1,
+      "explanation": "Reciprocals multiply to equal 1 (e.g., f × T = 1).",
+      "explanationImage": null,
+      "tags": [
+        "Lecture 2 Review"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch02-q119",
+      "stem": "Which pair is an example of a reciprocal relationship?",
+      "image": null,
+      "options": [
+        "Amplitude and power",
+        "Frequency and period",
+        "Depth and time",
+        "Intensity and area"
+      ],
+      "answer": 1,
+      "explanation": "Frequency and period (and PRF and PRP) are the lecture's examples of reciprocal pairs.",
+      "explanationImage": null,
+      "tags": [
+        "Lecture 2 Review"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch02-q120",
+      "stem": "PRF and PRP are:",
+      "image": null,
+      "options": [
+        "Directly proportional",
+        "Reciprocals of each other",
+        "Unrelated",
+        "Always equal"
+      ],
+      "answer": 1,
+      "explanation": "PRF = 1/PRP, and PRP = 1/PRF.",
+      "explanationImage": null,
+      "tags": [
+        "Lecture 2 Review"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch02-q121",
+      "stem": "Y is directly proportional to z and inversely proportional to k. Which expression fits?",
+      "image": null,
+      "options": [
+        "Y = z × k",
+        "Y ∝ z / k",
+        "Y ∝ k / z",
+        "Y = z + k"
+      ],
+      "answer": 1,
+      "explanation": "Direct proportionality to z puts z in the numerator; inverse proportionality to k puts k in the denominator.",
+      "explanationImage": null,
+      "tags": [
+        "Lecture 2 Review"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch02-q122",
+      "stem": "If x is directly proportional to y and y increases by a factor of 36, x will:",
+      "image": null,
+      "options": [
+        "Decrease by a factor of 36",
+        "Increase by a factor of 36",
+        "Increase by a factor of 6",
+        "Stay the same"
+      ],
+      "answer": 1,
+      "explanation": "Direct proportionality: both variables change by the same factor, so x also increases 36-fold.",
+      "explanationImage": null,
+      "tags": [
+        "Lecture 2 Review"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch02-q123",
+      "stem": "If x and y are inversely proportional and x decreases by a factor of 19, y will:",
+      "image": null,
+      "options": [
+        "Decrease by a factor of 19",
+        "Increase by a factor of 19",
+        "Stay the same",
+        "Decrease by a factor of 38"
+      ],
+      "answer": 1,
+      "explanation": "Inverse proportionality: if x falls by a factor of 19, y rises by a factor of 19.",
+      "explanationImage": null,
+      "tags": [
+        "Lecture 2 Review"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch02-q124",
+      "stem": "A is inversely proportional to B. If B is doubled, A:",
+      "image": null,
+      "options": [
+        "Doubles",
+        "Is halved",
+        "Quadruples",
+        "Is unchanged"
+      ],
+      "answer": 1,
+      "explanation": "Doubling B halves A when they are inversely proportional.",
+      "explanationImage": null,
+      "tags": [
+        "Lecture 2 Review"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch02-q125",
+      "stem": "Which is NOT recommended when building a formula sheet?",
+      "image": null,
+      "options": [
+        "Writing what each variable represents",
+        "Rearranging formulas for each variable",
+        "Identifying direct, inverse and reciprocal relationships",
+        "Memorizing formulas without understanding the variables"
+      ],
+      "answer": 3,
+      "explanation": "A good formula sheet records the meaning of each variable and shows how to rearrange it. Memorizing without understanding defeats the purpose.",
+      "explanationImage": null,
+      "tags": [
+        "Lecture 2 Review"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch02-q126",
+      "stem": "According to the lecture, a unit:",
+      "image": null,
+      "options": [
+        "Gives meaning to a number",
+        "Changes the value of a number",
+        "Is optional in science",
+        "Is only used in ultrasound"
+      ],
+      "answer": 0,
+      "explanation": "A unit gives meaning to a number (\"10\" means nothing until you say 10 km, 10 miles, etc.).",
+      "explanationImage": null,
+      "tags": [
+        "Lecture 2 Review"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch02-q127",
+      "stem": "The metric system is based on powers of:",
+      "image": null,
+      "options": [
+        "2",
+        "10",
+        "12",
+        "16"
+      ],
+      "answer": 1,
+      "explanation": "The metric system is built on powers of 10.",
+      "explanationImage": null,
+      "tags": [
+        "Lecture 2 Review"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch02-q128",
+      "stem": "A metric prefix is:",
+      "image": null,
+      "options": [
+        "A modifier placed before a unit indicating a power of 10",
+        "A suffix added after a unit",
+        "A base unit",
+        "A physical constant"
+      ],
+      "answer": 0,
+      "explanation": "A prefix is a modifier placed before a unit to indicate a specific multiplier or power of 10.",
+      "explanationImage": null,
+      "tags": [
+        "Lecture 2 Review"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch02-q129",
+      "stem": "The prefix \"kilo\" represents:",
+      "image": null,
+      "options": [
+        "10³",
+        "10⁶",
+        "10⁻³",
+        "10⁻⁶"
+      ],
+      "answer": 0,
+      "explanation": "Kilo = 10³ (1000).",
+      "explanationImage": null,
+      "tags": [
+        "Lecture 2 Review"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch02-q130",
+      "stem": "The prefix \"milli\" represents:",
+      "image": null,
+      "options": [
+        "10³",
+        "10⁶",
+        "10⁻³",
+        "10⁻⁶"
+      ],
+      "answer": 2,
+      "explanation": "Milli = 10⁻³ (one-thousandth).",
+      "explanationImage": null,
+      "tags": [
+        "Lecture 2 Review"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch02-q131",
+      "stem": "The prefix \"micro\" represents:",
+      "image": null,
+      "options": [
+        "10⁻³",
+        "10³",
+        "10⁶",
+        "10⁻⁶"
+      ],
+      "answer": 3,
+      "explanation": "Micro = 10⁻⁶ (one-millionth).",
+      "explanationImage": null,
+      "tags": [
+        "Lecture 2 Review"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch02-q132",
+      "stem": "The prefix \"mega\" represents:",
+      "image": null,
+      "options": [
+        "10³",
+        "10⁹",
+        "10⁶",
+        "10⁻⁶"
+      ],
+      "answer": 2,
+      "explanation": "Mega = 10⁶ (one million).",
+      "explanationImage": null,
+      "tags": [
+        "Lecture 2 Review"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch02-q133",
+      "stem": "The prefix \"nano\" represents:",
+      "image": null,
+      "options": [
+        "10⁻¹²",
+        "10⁻⁹",
+        "10⁻⁶",
+        "10⁹"
+      ],
+      "answer": 1,
+      "explanation": "Nano = 10⁻⁹.",
+      "explanationImage": null,
+      "tags": [
+        "Lecture 2 Review"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch02-q134",
+      "stem": "The prefix \"centi\" represents:",
+      "image": null,
+      "options": [
+        "10⁻²",
+        "10²",
+        "10⁻³",
+        "10⁻¹"
+      ],
+      "answer": 0,
+      "explanation": "Centi = 10⁻² (one-hundredth).",
+      "explanationImage": null,
+      "tags": [
+        "Lecture 2 Review"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch02-q135",
+      "stem": "Convert 4.5 cm to millimetres.",
+      "image": null,
+      "options": [
+        "0.45 mm",
+        "45 mm",
+        "450 mm",
+        "4500 mm"
+      ],
+      "answer": 1,
+      "explanation": "1 cm = 10 mm, so 4.5 × 10 = 45 mm.",
+      "explanationImage": null,
+      "tags": [
+        "Lecture 2 Review"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch02-q136",
+      "stem": "Convert 2 MHz to Hz.",
+      "image": null,
+      "options": [
+        "2,000 Hz",
+        "200,000 Hz",
+        "2,000,000 Hz",
+        "2,000,000,000 Hz"
+      ],
+      "answer": 2,
+      "explanation": "Mega = 10⁶, so 2 MHz = 2,000,000 Hz.",
+      "explanationImage": null,
+      "tags": [
+        "Lecture 2 Review"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch02-q137",
+      "stem": "Convert 15 mm to cm.",
+      "image": null,
+      "options": [
+        "150 cm",
+        "1.5 cm",
+        "0.15 cm",
+        "15,000 cm"
+      ],
+      "answer": 1,
+      "explanation": "10 mm = 1 cm, so 15 ÷ 10 = 1.5 cm.",
+      "explanationImage": null,
+      "tags": [
+        "Lecture 2 Review"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch02-q138",
+      "stem": "Convert 5 ms to seconds.",
+      "image": null,
+      "options": [
+        "0.005 s",
+        "0.05 s",
+        "5000 s",
+        "0.0005 s"
+      ],
+      "answer": 0,
+      "explanation": "Milli = 10⁻³, so 5 ms = 0.005 s.",
+      "explanationImage": null,
+      "tags": [
+        "Lecture 2 Review"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch02-q139",
+      "stem": "13 µs expressed in seconds in scientific notation is:",
+      "image": null,
+      "options": [
+        "1.3 × 10⁻³ s",
+        "1.3 × 10⁻⁶ s",
+        "1.3 × 10⁻⁵ s",
+        "1.3 × 10⁻⁹ s"
+      ],
+      "answer": 2,
+      "explanation": "13 µs = 13 × 10⁻⁶ s = 1.3 × 10⁻⁵ s.",
+      "explanationImage": null,
+      "tags": [
+        "Lecture 2 Review"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch02-q140",
+      "stem": "0.00032 in scientific notation is:",
+      "image": null,
+      "options": [
+        "3.2 × 10⁴",
+        "3.2 × 10⁻⁴",
+        "3.2 × 10⁻³",
+        "3.2 × 10⁻⁵"
+      ],
+      "answer": 1,
+      "explanation": "Move the decimal four places right: 3.2 × 10⁻⁴.",
+      "explanationImage": null,
+      "tags": [
+        "Lecture 2 Review"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch02-q141",
+      "stem": "6,500,000 in scientific notation is:",
+      "image": null,
+      "options": [
+        "6.5 × 10⁵",
+        "65 × 10⁵",
+        "6.5 × 10⁷",
+        "6.5 × 10⁶"
+      ],
+      "answer": 3,
+      "explanation": "Move the decimal six places left: 6.5 × 10⁶.",
+      "explanationImage": null,
+      "tags": [
+        "Lecture 2 Review"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch02-q142",
+      "stem": "Length measures:",
+      "image": null,
+      "options": [
+        "One dimension",
+        "Two dimensions",
+        "Three dimensions",
+        "Time"
+      ],
+      "answer": 0,
+      "explanation": "Length is a one-dimensional measurement, reported in mm or cm.",
+      "explanationImage": null,
+      "tags": [
+        "Lecture 2 Review"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch02-q143",
+      "stem": "Area of a rectangle equals:",
+      "image": null,
+      "options": [
+        "Length × width",
+        "Length + width",
+        "Length × width × height",
+        "Length ÷ width"
+      ],
+      "answer": 0,
+      "explanation": "Area (two dimensions) = length × width.",
+      "explanationImage": null,
+      "tags": [
+        "Lecture 2 Review"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch02-q144",
+      "stem": "Which is a correct unit of area?",
+      "image": null,
+      "options": [
+        "cm",
+        "cm²",
+        "cm³",
+        "mL"
+      ],
+      "answer": 1,
+      "explanation": "Area is reported in square units such as cm² or m². cm³ is volume.",
+      "explanationImage": null,
+      "tags": [
+        "Lecture 2 Review"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch02-q145",
+      "stem": "Volume is calculated as:",
+      "image": null,
+      "options": [
+        "Length × width",
+        "Length + width + height",
+        "Length × width × height",
+        "2 × (length + width)"
+      ],
+      "answer": 2,
+      "explanation": "Volume uses three dimensions: length × width × height.",
+      "explanationImage": null,
+      "tags": [
+        "Lecture 2 Review"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch02-q146",
+      "stem": "1 cm³ is equal to:",
+      "image": null,
+      "options": [
+        "1 mL",
+        "10 mL",
+        "0.1 mL",
+        "100 mL"
+      ],
+      "answer": 0,
+      "explanation": "1 cm³ = 1 mL.",
+      "explanationImage": null,
+      "tags": [
+        "Lecture 2 Review"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch02-q147",
+      "stem": "A rectangle is 4 cm long and 3 cm wide. Its area is:",
+      "image": null,
+      "options": [
+        "7 cm²",
+        "12 cm²",
+        "12 cm",
+        "24 cm²"
+      ],
+      "answer": 1,
+      "explanation": "4 × 3 = 12 cm².",
+      "explanationImage": null,
+      "tags": [
+        "Lecture 2 Review"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch02-q148",
+      "stem": "A structure measures 2 cm × 3 cm × 5 cm. Its volume in mL is:",
+      "image": null,
+      "options": [
+        "10 mL",
+        "30 mL",
+        "300 mL",
+        "0.3 mL"
+      ],
+      "answer": 1,
+      "explanation": "2 × 3 × 5 = 30 cm³, and 1 cm³ = 1 mL, so 30 mL.",
+      "explanationImage": null,
+      "tags": [
+        "Lecture 2 Review"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch02-q149",
+      "stem": "Which set lists units of time?",
+      "image": null,
+      "options": [
+        "s, ms, µs, ns",
+        "m, cm, mm",
+        "Hz, kHz, MHz",
+        "W, mW, kW"
+      ],
+      "answer": 0,
+      "explanation": "Time is reported in seconds, milliseconds, microseconds and nanoseconds.",
+      "explanationImage": null,
+      "tags": [
+        "Lecture 2 Review"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch02-q150",
+      "stem": "Which time unit is the smallest?",
+      "image": null,
+      "options": [
+        "Second",
+        "Millisecond",
+        "Microsecond",
+        "Nanosecond"
+      ],
+      "answer": 3,
+      "explanation": "Nanosecond (10⁻⁹ s) is smaller than a microsecond (10⁻⁶ s) or millisecond (10⁻³ s).",
+      "explanationImage": null,
+      "tags": [
+        "Lecture 2 Review"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch02-q151",
+      "stem": "1 millisecond equals:",
+      "image": null,
+      "options": [
+        "1000 s",
+        "0.001 s",
+        "0.000001 s",
+        "0.01 s"
+      ],
+      "answer": 1,
+      "explanation": "Milli = 10⁻³, so 1 ms = 0.001 s.",
+      "explanationImage": null,
+      "tags": [
+        "Lecture 2 Review"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch02-q152",
+      "stem": "1000 µs equals:",
+      "image": null,
+      "options": [
+        "1 s",
+        "1 ms",
+        "1 ns",
+        "0.1 ms"
+      ],
+      "answer": 1,
+      "explanation": "1000 × 10⁻⁶ s = 10⁻³ s = 1 ms.",
+      "explanationImage": null,
+      "tags": [
+        "Lecture 2 Review"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch02-q153",
+      "stem": "Which ultrasound application uses logarithms?",
+      "image": null,
+      "options": [
+        "Decibels",
+        "Hertz",
+        "Pascals",
+        "Metres"
+      ],
+      "answer": 0,
+      "explanation": "Decibels use logarithms to express large ratios.",
+      "explanationImage": null,
+      "tags": [
+        "Lecture 2 Review"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch02-q154",
+      "stem": "What is log₁₀(100)?",
+      "image": null,
+      "options": [
+        "1",
+        "2",
+        "10",
+        "100"
+      ],
+      "answer": 1,
+      "explanation": "10² = 100, so log₁₀(100) = 2.",
+      "explanationImage": null,
+      "tags": [
+        "Lecture 2 Review"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch02-q155",
+      "stem": "What is log₁₀(1000)?",
+      "image": null,
+      "options": [
+        "2",
+        "4",
+        "3",
+        "10"
+      ],
+      "answer": 2,
+      "explanation": "10³ = 1000, so the logarithm is 3.",
+      "explanationImage": null,
+      "tags": [
+        "Lecture 2 Review"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch02-q156",
+      "stem": "What is log₁₀(1)?",
+      "image": null,
+      "options": [
+        "1",
+        "10",
+        "0",
+        "Undefined"
+      ],
+      "answer": 2,
+      "explanation": "10⁰ = 1, so log₁₀(1) = 0.",
+      "explanationImage": null,
+      "tags": [
+        "Lecture 2 Review"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch02-q157",
+      "stem": "What is log₁₀(10)?",
+      "image": null,
+      "options": [
+        "0",
+        "1",
+        "10",
+        "100"
+      ],
+      "answer": 1,
+      "explanation": "10¹ = 10, so log₁₀(10) = 1.",
+      "explanationImage": null,
+      "tags": [
+        "Lecture 2 Review"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch02-q158",
+      "stem": "log₁₀(1000) = 3 written in exponential form is:",
+      "image": null,
+      "options": [
+        "10³ = 1000",
+        "3¹⁰ = 1000",
+        "10 × 3 = 1000",
+        "1000³ = 10"
+      ],
+      "answer": 0,
+      "explanation": "A logarithm is the exponent: log₁₀(1000) = 3 means 10³ = 1000.",
+      "explanationImage": null,
+      "tags": [
+        "Lecture 2 Review"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch02-q159",
+      "stem": "Logarithms are useful in ultrasound because they:",
+      "image": null,
+      "options": [
+        "Express large ratios compactly",
+        "Measure only small numbers",
+        "Measure only angles",
+        "Replace units"
+      ],
+      "answer": 0,
+      "explanation": "Logs compress large ratios into manageable numbers, which is why decibels use them.",
+      "explanationImage": null,
+      "tags": [
+        "Lecture 2 Review"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch02-q160",
+      "stem": "What is log₁₀(0.1)?",
+      "image": null,
+      "options": [
+        "1",
+        "−1",
+        "0.1",
+        "10"
+      ],
+      "answer": 1,
+      "explanation": "0.1 = 10⁻¹, so log₁₀(0.1) = −1.",
+      "explanationImage": null,
+      "tags": [
+        "Lecture 2 Review"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch02-q161",
+      "stem": "sin 30° equals:",
+      "image": null,
+      "options": [
+        "0.5",
+        "0.87",
+        "1",
+        "0"
+      ],
+      "answer": 0,
+      "explanation": "From the trig table, sin 30° = 0.5.",
+      "explanationImage": null,
+      "tags": [
+        "Lecture 2 Review"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch02-q162",
+      "stem": "cos 0° equals:",
+      "image": null,
+      "options": [
+        "0",
+        "1",
+        "0.5",
+        "0.707"
+      ],
+      "answer": 1,
+      "explanation": "cos 0° = 1.",
+      "explanationImage": null,
+      "tags": [
+        "Lecture 2 Review"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch02-q163",
+      "stem": "cos 90° equals:",
+      "image": null,
+      "options": [
+        "1",
+        "0.5",
+        "0",
+        "−1"
+      ],
+      "answer": 2,
+      "explanation": "cos 90° = 0.",
+      "explanationImage": null,
+      "tags": [
+        "Lecture 2 Review"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch02-q164",
+      "stem": "sin 90° equals:",
+      "image": null,
+      "options": [
+        "0",
+        "0.5",
+        "0.707",
+        "1"
+      ],
+      "answer": 3,
+      "explanation": "sin 90° = 1.",
+      "explanationImage": null,
+      "tags": [
+        "Lecture 2 Review"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch02-q165",
+      "stem": "sin 45° and cos 45° are both approximately:",
+      "image": null,
+      "options": [
+        "0.5",
+        "0.866",
+        "0.707",
+        "1"
+      ],
+      "answer": 2,
+      "explanation": "At 45°, sine and cosine are equal at about 0.707.",
+      "explanationImage": null,
+      "tags": [
+        "Lecture 2 Review"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch02-q166",
+      "stem": "cos 60° equals:",
+      "image": null,
+      "options": [
+        "0.866",
+        "0.5",
+        "0.707",
+        "0"
+      ],
+      "answer": 1,
+      "explanation": "cos 60° = 0.5.",
+      "explanationImage": null,
+      "tags": [
+        "Lecture 2 Review"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch02-q167",
+      "stem": "cos 30° is approximately:",
+      "image": null,
+      "options": [
+        "0.5",
+        "0.707",
+        "0.87",
+        "1"
+      ],
+      "answer": 2,
+      "explanation": "cos 30° ≈ 0.87 (0.866).",
+      "explanationImage": null,
+      "tags": [
+        "Lecture 2 Review"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch02-q168",
+      "stem": "sin 0° equals:",
+      "image": null,
+      "options": [
+        "1",
+        "0",
+        "0.5",
+        "0.707"
+      ],
+      "answer": 1,
+      "explanation": "sin 0° = 0.",
+      "explanationImage": null,
+      "tags": [
+        "Lecture 2 Review"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch02-q169",
+      "stem": "As an angle increases from 0° to 90°, its cosine:",
+      "image": null,
+      "options": [
+        "Increases from 0 to 1",
+        "Decreases from 1 to 0",
+        "Stays constant",
+        "Becomes negative"
+      ],
+      "answer": 1,
+      "explanation": "Cosine falls from 1 at 0° to 0 at 90°.",
+      "explanationImage": null,
+      "tags": [
+        "Lecture 2 Review"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch02-q170",
+      "stem": "Angle conventions require:",
+      "image": null,
+      "options": [
+        "A clearly identified reference line",
+        "No reference line",
+        "Only radians",
+        "Only the transducer face"
+      ],
+      "answer": 0,
+      "explanation": "Angles must be measured from a clearly identified reference line.",
+      "explanationImage": null,
+      "tags": [
+        "Lecture 2 Review"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch02-q171",
+      "stem": "In reflection and refraction, incidence angles are conventionally measured relative to the:",
+      "image": null,
+      "options": [
+        "Boundary surface",
+        "Normal (perpendicular) to the boundary",
+        "Transducer cable",
+        "Skin surface only"
+      ],
+      "answer": 1,
+      "explanation": "Reflection and refraction angles are measured from the normal, the line perpendicular to the boundary.",
+      "explanationImage": null,
+      "tags": [
+        "Lecture 2 Review"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch02-q172",
+      "stem": "Diagnostic test statistics help determine the:",
+      "image": null,
+      "options": [
+        "Accuracy and reliability of sonography findings",
+        "Transducer frequency",
+        "Imaging depth",
+        "Gain setting"
+      ],
+      "answer": 0,
+      "explanation": "Diagnostic test statistics help determine the accuracy and reliability of sonography findings.",
+      "explanationImage": null,
+      "tags": [
+        "Lecture 2 Review"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch02-q173",
+      "stem": "Interpreting an anatomic image for a structural abnormality is an example of a:",
+      "image": null,
+      "options": [
+        "Qualitative assessment",
+        "Quantitative assessment",
+        "Logarithmic assessment",
+        "Unit conversion"
+      ],
+      "answer": 0,
+      "explanation": "Interpreting an anatomic image is a qualitative assessment.",
+      "explanationImage": null,
+      "tags": [
+        "Lecture 2 Review"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch02-q174",
+      "stem": "Doppler values and other numeric data are examples of:",
+      "image": null,
+      "options": [
+        "Qualitative data",
+        "Quantitative data",
+        "Anatomic data",
+        "Subjective data"
+      ],
+      "answer": 1,
+      "explanation": "Doppler values and other numeric data are quantitative.",
+      "explanationImage": null,
+      "tags": [
+        "Lecture 2 Review"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch02-q175",
+      "stem": "An echocardiogram used to evaluate aortic stenosis is an example of a:",
+      "image": null,
+      "options": [
+        "Diagnostic test",
+        "Metric prefix",
+        "Unit conversion",
+        "Transducer type"
+      ],
+      "answer": 0,
+      "explanation": "An echocardiogram evaluating for aortic stenosis is a diagnostic test.",
+      "explanationImage": null,
+      "tags": [
+        "Lecture 2 Review"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch02-q176",
+      "stem": "Sensitivity is the ability of a test to correctly identify:",
+      "image": null,
+      "options": [
+        "Patients who have the disease",
+        "Patients who do not have the disease",
+        "False positives",
+        "Healthy patients only"
+      ],
+      "answer": 0,
+      "explanation": "Sensitivity is the true-positive rate: how well the test detects people who have the condition.",
+      "explanationImage": null,
+      "tags": [
+        "Lecture 2 Review"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch02-q177",
+      "stem": "Specificity is the ability of a test to correctly identify:",
+      "image": null,
+      "options": [
+        "Patients with the disease",
+        "Patients without the disease",
+        "False negatives",
+        "Positive results only"
+      ],
+      "answer": 1,
+      "explanation": "Specificity is the true-negative rate: how well the test identifies people without the condition.",
+      "explanationImage": null,
+      "tags": [
+        "Lecture 2 Review"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch02-q178",
+      "stem": "Which formula gives sensitivity?",
+      "image": null,
+      "options": [
+        "TP / (TP + FN)",
+        "TN / (TN + FP)",
+        "TP / (TP + FP)",
+        "TN / (TN + FN)"
+      ],
+      "answer": 0,
+      "explanation": "Sensitivity = TP / (TP + FN).",
+      "explanationImage": null,
+      "tags": [
+        "Lecture 2 Review"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch02-q179",
+      "stem": "Which formula gives specificity?",
+      "image": null,
+      "options": [
+        "TP / (TP + FP)",
+        "TN / (TN + FP)",
+        "TP / (TP + FN)",
+        "TN / (TN + FN)"
+      ],
+      "answer": 1,
+      "explanation": "Specificity = TN / (TN + FP).",
+      "explanationImage": null,
+      "tags": [
+        "Lecture 2 Review"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch02-q180",
+      "stem": "Which formula gives positive predictive value (PPV)?",
+      "image": null,
+      "options": [
+        "TP / (TP + FN)",
+        "TN / (TN + FP)",
+        "TP / (TP + FP)",
+        "TN / (TN + FN)"
+      ],
+      "answer": 2,
+      "explanation": "PPV = TP / (TP + FP): the proportion of positive results that are truly positive.",
+      "explanationImage": null,
+      "tags": [
+        "Lecture 2 Review"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch02-q181",
+      "stem": "Which formula gives negative predictive value (NPV)?",
+      "image": null,
+      "options": [
+        "TP / (TP + FN)",
+        "TN / (TN + FP)",
+        "TP / (TP + FP)",
+        "TN / (TN + FN)"
+      ],
+      "answer": 3,
+      "explanation": "NPV = TN / (TN + FN): the proportion of negative results that are truly negative.",
+      "explanationImage": null,
+      "tags": [
+        "Lecture 2 Review"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch02-q182",
+      "stem": "Accuracy is calculated as:",
+      "image": null,
+      "options": [
+        "(TP + TN) / (TP + TN + FP + FN)",
+        "TP / (TP + FN)",
+        "TN / (TN + FP)",
+        "FP / (FP + TN)"
+      ],
+      "answer": 0,
+      "explanation": "Accuracy = all correct results divided by all results.",
+      "explanationImage": null,
+      "tags": [
+        "Lecture 2 Review"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch02-q183",
+      "stem": "A test finds 90 true positives and misses 10 diseased patients (false negatives). Sensitivity is:",
+      "image": null,
+      "options": [
+        "90%",
+        "10%",
+        "80%",
+        "99%"
+      ],
+      "answer": 0,
+      "explanation": "90 / (90 + 10) = 90%.",
+      "explanationImage": null,
+      "tags": [
+        "Lecture 2 Review"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch02-q184",
+      "stem": "A test has 80 true negatives and 20 false positives. Specificity is:",
+      "image": null,
+      "options": [
+        "20%",
+        "80%",
+        "100%",
+        "25%"
+      ],
+      "answer": 1,
+      "explanation": "80 / (80 + 20) = 80%.",
+      "explanationImage": null,
+      "tags": [
+        "Lecture 2 Review"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch02-q185",
+      "stem": "A test has 45 true positives and 5 false positives. PPV is:",
+      "image": null,
+      "options": [
+        "5%",
+        "45%",
+        "90%",
+        "100%"
+      ],
+      "answer": 2,
+      "explanation": "45 / (45 + 5) = 90%.",
+      "explanationImage": null,
+      "tags": [
+        "Lecture 2 Review"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch02-q186",
+      "stem": "A test has 95 true negatives and 5 false negatives. NPV is:",
+      "image": null,
+      "options": [
+        "5%",
+        "90%",
+        "100%",
+        "95%"
+      ],
+      "answer": 3,
+      "explanation": "95 / (95 + 5) = 95%.",
+      "explanationImage": null,
+      "tags": [
+        "Lecture 2 Review"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch02-q187",
+      "stem": "A study has TP = 40, TN = 50, FP = 5, FN = 5. Accuracy is:",
+      "image": null,
+      "options": [
+        "90%",
+        "85%",
+        "80%",
+        "95%"
+      ],
+      "answer": 0,
+      "explanation": "(40 + 50) / (40 + 50 + 5 + 5) = 90 / 100 = 90%.",
+      "explanationImage": null,
+      "tags": [
+        "Lecture 2 Review"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch02-q188",
+      "stem": "A false negative is a:",
+      "image": null,
+      "options": [
+        "Diseased patient with a negative test",
+        "Healthy patient with a positive test",
+        "Healthy patient with a negative test",
+        "Diseased patient with a positive test"
+      ],
+      "answer": 0,
+      "explanation": "A false negative is a patient who has the disease but tests negative.",
+      "explanationImage": null,
+      "tags": [
+        "Lecture 2 Review"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch02-q189",
+      "stem": "A false positive is a:",
+      "image": null,
+      "options": [
+        "Diseased patient with a positive test",
+        "Healthy patient with a positive test",
+        "Diseased patient with a negative test",
+        "Healthy patient with a negative test"
+      ],
+      "answer": 1,
+      "explanation": "A false positive is a healthy patient who tests positive.",
+      "explanationImage": null,
+      "tags": [
+        "Lecture 2 Review"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch02-q190",
+      "stem": "A highly sensitive test is most useful for:",
+      "image": null,
+      "options": [
+        "Ruling out disease when the result is negative",
+        "Ruling in disease when the result is positive",
+        "Measuring propagation speed",
+        "Measuring pulse duration"
+      ],
+      "answer": 0,
+      "explanation": "A highly sensitive test rarely misses disease, so a negative result helps rule disease out.",
+      "explanationImage": null,
+      "tags": [
+        "Lecture 2 Review"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch02-q191",
+      "stem": "Pulse timing in Physics 1 involves which parameters?",
+      "image": null,
+      "options": [
+        "PRF, PRP and pulse duration",
+        "Colour, gel and cables",
+        "Only gain and TGC",
+        "Only wavelength"
+      ],
+      "answer": 0,
+      "explanation": "Pulse timing covers PRF, PRP and pulse duration.",
+      "explanationImage": null,
+      "tags": [
+        "Lecture 2 Review"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch02-q192",
+      "stem": "Attenuation in later modules uses which mathematical tools?",
+      "image": null,
+      "options": [
+        "Ratios, logarithms and decibels",
+        "Angles only",
+        "Time only",
+        "Volumes only"
+      ],
+      "answer": 0,
+      "explanation": "Attenuation uses ratios, logarithms and decibels.",
+      "explanationImage": null,
+      "tags": [
+        "Lecture 2 Review"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch02-q193",
+      "stem": "Which ultrasound task is listed as using mathematics?",
+      "image": null,
+      "options": [
+        "Imaging depth calculations",
+        "Pulse timing relationships",
+        "Doppler velocity estimation",
+        "All of the above"
+      ],
+      "answer": 3,
+      "explanation": "Depth calculations, pulse timing and Doppler velocity estimation all rely on mathematics.",
+      "explanationImage": null,
+      "tags": [
+        "Lecture 2 Review"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch02-q194",
+      "stem": "If f = 5 MHz, the period T is:",
+      "image": null,
+      "options": [
+        "0.2 µs",
+        "5 µs",
+        "0.5 µs",
+        "2 µs"
+      ],
+      "answer": 0,
+      "explanation": "T = 1/f = 1 / 5 MHz = 0.2 µs.",
+      "explanationImage": null,
+      "tags": [
+        "Lecture 2 Review"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch02-q195",
+      "stem": "If the period is 0.5 µs, the frequency is:",
+      "image": null,
+      "options": [
+        "0.5 MHz",
+        "2 MHz",
+        "5 MHz",
+        "0.2 MHz"
+      ],
+      "answer": 1,
+      "explanation": "f = 1/T = 1 / 0.5 µs = 2 MHz.",
+      "explanationImage": null,
+      "tags": [
+        "Lecture 2 Review"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch02-q196",
+      "stem": "If PRP = 200 µs, the PRF is:",
+      "image": null,
+      "options": [
+        "2 kHz",
+        "5 kHz",
+        "50 kHz",
+        "0.5 kHz"
+      ],
+      "answer": 1,
+      "explanation": "PRF = 1/PRP = 1 / 200 µs = 5000 Hz = 5 kHz.",
+      "explanationImage": null,
+      "tags": [
+        "Lecture 2 Review"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch02-q197",
+      "stem": "If imaging depth doubles, round-trip echo time:",
+      "image": null,
+      "options": [
+        "Doubles",
+        "Halves",
+        "Is quartered",
+        "Is unchanged"
+      ],
+      "answer": 0,
+      "explanation": "Depth and round-trip time are directly proportional, so doubling depth doubles time.",
+      "explanationImage": null,
+      "tags": [
+        "Lecture 2 Review"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch02-q198",
+      "stem": "Which statement is TRUE?",
+      "image": null,
+      "options": [
+        "Relationships may be linear, nonlinear, direct or inverse",
+        "All relationships in ultrasound are linear",
+        "Equations cannot be rearranged",
+        "Logarithms are unrelated to decibels"
+      ],
+      "answer": 0,
+      "explanation": "Relationships can be linear, nonlinear, direct or inverse, and equations can be rearranged. Logarithms underpin decibels.",
+      "explanationImage": null,
+      "tags": [
+        "Lecture 2 Review"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch02-q199",
+      "stem": "Metric prefixes and scientific notation are used mainly to:",
+      "image": null,
+      "options": [
+        "Simplify very large and very small values",
+        "Make numbers larger",
+        "Remove units",
+        "Convert angles"
+      ],
+      "answer": 0,
+      "explanation": "Prefixes and scientific notation make very large and very small values easier to write and compare.",
+      "explanationImage": null,
+      "tags": [
+        "Lecture 2 Review"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch02-q200",
+      "stem": "Which of the following is a reciprocal pair of the form a × b = 1?",
+      "image": null,
+      "options": [
+        "4 and 0.25",
+        "4 and 2",
+        "4 and −4",
+        "4 and 16"
+      ],
+      "answer": 0,
+      "explanation": "4 × 0.25 = 1, so they are reciprocals.",
+      "explanationImage": null,
+      "tags": [
+        "Lecture 2 Review"
+      ],
+      "reference": ""
+    }
+  ]
+}

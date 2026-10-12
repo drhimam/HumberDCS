@@ -1,0 +1,1606 @@
+{
+  "chapterId": "ch03",
+  "title": "Module 3: Sound Waves and Acoustic Parameters",
+  "questions": [
+    {
+      "id": "DCS5004-ch03-q001",
+      "stem": "A wave is best defined as:",
+      "image": null,
+      "options": [
+        "A movement of matter from one place to another",
+        "A vibration that stays in one place",
+        "A mechanism that transfers energy without permanently displacing matter",
+        "A flow of particles through a medium"
+      ],
+      "answer": 2,
+      "explanation": "A wave transfers energy from one location to another without permanently displacing matter.",
+      "explanationImage": null,
+      "tags": [],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch03-q002",
+      "stem": "Ultrasound waves are cyclical because they are produced by:",
+      "image": null,
+      "options": [
+        "A repetitive electrical signal in the transducer",
+        "A single electrical spike",
+        "Heat in the tissue",
+        "Light striking the skin"
+      ],
+      "answer": 0,
+      "explanation": "Ultrasound is produced by a repetitive electrical signal applied to the transducer, creating repeated cycles.",
+      "explanationImage": null,
+      "tags": [],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch03-q003",
+      "stem": "In wave terminology, a \"cycle\" is:",
+      "image": null,
+      "options": [
+        "The distance between two crests",
+        "One complete oscillation",
+        "The maximum pressure",
+        "The speed of the wave"
+      ],
+      "answer": 1,
+      "explanation": "A cycle is one complete oscillation; \"cyclical\" means repeated cycles.",
+      "explanationImage": null,
+      "tags": [],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch03-q004",
+      "stem": "As a wave passes through a medium, the particles:",
+      "image": null,
+      "options": [
+        "Travel forward with the wave",
+        "Are permanently displaced",
+        "Leave the medium",
+        "Oscillate around their resting positions without travelling with the wave"
+      ],
+      "answer": 3,
+      "explanation": "Energy moves through the medium while particles only oscillate around their resting positions.",
+      "explanationImage": null,
+      "tags": [],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch03-q005",
+      "stem": "Greater wave amplitude is associated with:",
+      "image": null,
+      "options": [
+        "Less energy",
+        "Greater energy",
+        "Higher frequency",
+        "Slower speed"
+      ],
+      "answer": 1,
+      "explanation": "Greater amplitude is associated with greater wave energy.",
+      "explanationImage": null,
+      "tags": [],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch03-q006",
+      "stem": "Mechanical waves:",
+      "image": null,
+      "options": [
+        "Require a material medium",
+        "Travel through a vacuum",
+        "Consist of electric and magnetic fields",
+        "Never transfer energy"
+      ],
+      "answer": 0,
+      "explanation": "Mechanical waves need a material medium and transfer energy through particle interaction.",
+      "explanationImage": null,
+      "tags": [],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch03-q007",
+      "stem": "Which wave cannot travel through a vacuum?",
+      "image": null,
+      "options": [
+        "Light",
+        "Radio waves",
+        "Sound",
+        "X-rays"
+      ],
+      "answer": 2,
+      "explanation": "Sound is mechanical and cannot travel through a vacuum. Light, X-rays and radio waves can.",
+      "explanationImage": null,
+      "tags": [],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch03-q008",
+      "stem": "Which is an electromagnetic wave?",
+      "image": null,
+      "options": [
+        "Sound",
+        "Rope wave",
+        "Water wave",
+        "X-rays"
+      ],
+      "answer": 3,
+      "explanation": "X-rays are electromagnetic waves (changing electric and magnetic fields).",
+      "explanationImage": null,
+      "tags": [],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch03-q009",
+      "stem": "Ultrasound is a:",
+      "image": null,
+      "options": [
+        "Electromagnetic wave",
+        "Mechanical wave",
+        "Light wave",
+        "Radio wave"
+      ],
+      "answer": 1,
+      "explanation": "Ultrasound is a mechanical wave and needs tissue or another medium.",
+      "explanationImage": null,
+      "tags": [],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch03-q010",
+      "stem": "Sound is best described as:",
+      "image": null,
+      "options": [
+        "A pressure wave created by a mechanical action",
+        "A stream of charged particles",
+        "A magnetic disturbance",
+        "A heat wave"
+      ],
+      "answer": 0,
+      "explanation": "Sound is a pressure wave created by a mechanical action (a vibrating source).",
+      "explanationImage": null,
+      "tags": [],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch03-q011",
+      "stem": "Which is NOT one of the five important characteristics of sound?",
+      "image": null,
+      "options": [
+        "Sound is a wave that transfers energy",
+        "Sound requires a medium to propagate",
+        "Sound travels in straight paths through a uniform medium",
+        "Sound is an electromagnetic wave"
+      ],
+      "answer": 3,
+      "explanation": "Sound is mechanical, not electromagnetic.",
+      "explanationImage": null,
+      "tags": [],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch03-q012",
+      "stem": "In soft tissue, ultrasound is a:",
+      "image": null,
+      "options": [
+        "Longitudinal wave",
+        "Transverse wave",
+        "Shear wave",
+        "Electromagnetic wave"
+      ],
+      "answer": 0,
+      "explanation": "Sound is longitudinal in soft tissue.",
+      "explanationImage": null,
+      "tags": [],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch03-q013",
+      "stem": "Sound travels in straight paths through:",
+      "image": null,
+      "options": [
+        "Any medium",
+        "A vacuum",
+        "A uniform medium",
+        "Only air"
+      ],
+      "answer": 2,
+      "explanation": "Sound travels in straight paths through a uniform medium.",
+      "explanationImage": null,
+      "tags": [],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch03-q014",
+      "stem": "A vibrating source causes a wave to propagate because:",
+      "image": null,
+      "options": [
+        "The source moves through the tissue",
+        "Intermolecular forces transfer the disturbance to neighbouring particles",
+        "Particles travel from the source to the receiver",
+        "Heat flows to the surface"
+      ],
+      "answer": 1,
+      "explanation": "Intermolecular forces pass the disturbance to neighbouring particles, so the wave propagates.",
+      "explanationImage": null,
+      "tags": [],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch03-q015",
+      "stem": "Which list contains the four acoustic variables?",
+      "image": null,
+      "options": [
+        "Pressure, density, particle motion, temperature",
+        "Frequency, period, wavelength, speed",
+        "Amplitude, power, intensity, speed",
+        "Pressure, frequency, power, density"
+      ],
+      "answer": 0,
+      "explanation": "The four acoustic variables are pressure, density, particle motion and temperature.",
+      "explanationImage": null,
+      "tags": [],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch03-q016",
+      "stem": "Which is NOT an acoustic variable?",
+      "image": null,
+      "options": [
+        "Pressure",
+        "Density",
+        "Temperature",
+        "Wavelength"
+      ],
+      "answer": 3,
+      "explanation": "Wavelength is an acoustic parameter, not an acoustic variable.",
+      "explanationImage": null,
+      "tags": [],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch03-q017",
+      "stem": "The unit of pressure is:",
+      "image": null,
+      "options": [
+        "kg/m³",
+        "Pa",
+        "m",
+        "Hz"
+      ],
+      "answer": 1,
+      "explanation": "Pressure is force per unit area, measured in pascals (Pa).",
+      "explanationImage": null,
+      "tags": [],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch03-q018",
+      "stem": "The unit of density is:",
+      "image": null,
+      "options": [
+        "Pa",
+        "m",
+        "kg/m³",
+        "W"
+      ],
+      "answer": 2,
+      "explanation": "Density is mass per unit volume, measured in kg/m³.",
+      "explanationImage": null,
+      "tags": [],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch03-q019",
+      "stem": "Particle motion (displacement) is measured in:",
+      "image": null,
+      "options": [
+        "Metres",
+        "Pascals",
+        "kg/m³",
+        "Hertz"
+      ],
+      "answer": 0,
+      "explanation": "Particle motion is displacement from the resting position, in metres.",
+      "explanationImage": null,
+      "tags": [],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch03-q020",
+      "stem": "If the resting value of a wave is 20 pascals, the acoustic variable is:",
+      "image": null,
+      "options": [
+        "Density",
+        "Particle motion",
+        "Temperature",
+        "Pressure"
+      ],
+      "answer": 3,
+      "explanation": "Pascals are the unit of pressure.",
+      "explanationImage": null,
+      "tags": [],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch03-q021",
+      "stem": "If the resting value of a wave is 19 kg/m³, the acoustic variable is:",
+      "image": null,
+      "options": [
+        "Density",
+        "Pressure",
+        "Particle motion",
+        "Power"
+      ],
+      "answer": 0,
+      "explanation": "kg/m³ is the unit of density.",
+      "explanationImage": null,
+      "tags": [],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch03-q022",
+      "stem": "In a transverse wave, the particles move:",
+      "image": null,
+      "options": [
+        "Parallel to wave travel",
+        "Randomly",
+        "Perpendicular to wave travel",
+        "Not at all"
+      ],
+      "answer": 2,
+      "explanation": "Transverse waves have particle motion perpendicular to the direction of propagation.",
+      "explanationImage": null,
+      "tags": [],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch03-q023",
+      "stem": "Transverse waves are often called:",
+      "image": null,
+      "options": [
+        "Compression waves",
+        "Shear waves",
+        "Pressure waves",
+        "Sound waves"
+      ],
+      "answer": 1,
+      "explanation": "Transverse waves are often called shear waves.",
+      "explanationImage": null,
+      "tags": [],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch03-q024",
+      "stem": "A wave along a stretched rope is an example of a:",
+      "image": null,
+      "options": [
+        "Transverse wave",
+        "Longitudinal wave",
+        "Electromagnetic wave",
+        "Standing sound wave in soft tissue"
+      ],
+      "answer": 0,
+      "explanation": "A rope wave is the classic transverse wave example.",
+      "explanationImage": null,
+      "tags": [],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch03-q025",
+      "stem": "In a longitudinal wave, the particles move:",
+      "image": null,
+      "options": [
+        "Perpendicular to wave travel",
+        "Parallel to wave travel",
+        "In circles only",
+        "Out of the medium"
+      ],
+      "answer": 1,
+      "explanation": "In longitudinal waves, particles move parallel to wave propagation.",
+      "explanationImage": null,
+      "tags": [],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch03-q026",
+      "stem": "Longitudinal waves produce alternating:",
+      "image": null,
+      "options": [
+        "Compressions and rarefactions",
+        "Crests and troughs of particle travel",
+        "Electric and magnetic fields",
+        "Light and dark bands"
+      ],
+      "answer": 0,
+      "explanation": "Longitudinal waves create alternating compressions and rarefactions.",
+      "explanationImage": null,
+      "tags": [],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch03-q027",
+      "stem": "A compression is a region of:",
+      "image": null,
+      "options": [
+        "Lower density and lower pressure",
+        "Lower density and higher pressure",
+        "Higher density and higher pressure",
+        "Higher density and lower pressure"
+      ],
+      "answer": 2,
+      "explanation": "Compressions have particles closer together: higher density and higher pressure.",
+      "explanationImage": null,
+      "tags": [],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch03-q028",
+      "stem": "A rarefaction is a region of:",
+      "image": null,
+      "options": [
+        "Higher density and higher pressure",
+        "Higher density and lower pressure",
+        "Lower density and higher pressure",
+        "Lower density and lower pressure"
+      ],
+      "answer": 3,
+      "explanation": "Rarefactions have particles farther apart: lower density and lower pressure.",
+      "explanationImage": null,
+      "tags": [],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch03-q029",
+      "stem": "The sine wave used to display sound is:",
+      "image": null,
+      "options": [
+        "The actual path of the particles",
+        "A graph of an acoustic variable over time or distance",
+        "A picture of the transducer",
+        "A map of the tissue"
+      ],
+      "answer": 1,
+      "explanation": "The sine wave is a graph of an acoustic variable, not the path of the particles.",
+      "explanationImage": null,
+      "tags": [],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch03-q030",
+      "stem": "On a pressure sine wave, crests represent:",
+      "image": null,
+      "options": [
+        "Maximum compression pressure",
+        "Maximum rarefaction pressure",
+        "Zero pressure",
+        "Minimum frequency"
+      ],
+      "answer": 0,
+      "explanation": "Crests represent maximum compression pressure.",
+      "explanationImage": null,
+      "tags": [],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch03-q031",
+      "stem": "On a pressure sine wave, troughs represent:",
+      "image": null,
+      "options": [
+        "Maximum compression pressure",
+        "Zero pressure",
+        "Maximum rarefaction pressure",
+        "Maximum frequency"
+      ],
+      "answer": 2,
+      "explanation": "Troughs represent maximum rarefaction pressure.",
+      "explanationImage": null,
+      "tags": [],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch03-q032",
+      "stem": "How many acoustic parameters of sound are listed in the lecture?",
+      "image": null,
+      "options": [
+        "4",
+        "7",
+        "5",
+        "9"
+      ],
+      "answer": 1,
+      "explanation": "The seven parameters are frequency, period, wavelength, propagation speed, amplitude, power and intensity.",
+      "explanationImage": null,
+      "tags": [],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch03-q033",
+      "stem": "Frequency is defined as:",
+      "image": null,
+      "options": [
+        "The number of cycles per second",
+        "The time for one cycle",
+        "The distance of one cycle",
+        "The speed of sound"
+      ],
+      "answer": 0,
+      "explanation": "Frequency is the number of cycles per second.",
+      "explanationImage": null,
+      "tags": [],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch03-q034",
+      "stem": "The unit of frequency is:",
+      "image": null,
+      "options": [
+        "Seconds",
+        "Metres",
+        "Watts",
+        "Hertz"
+      ],
+      "answer": 3,
+      "explanation": "Frequency is measured in hertz (1/second).",
+      "explanationImage": null,
+      "tags": [],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch03-q035",
+      "stem": "Diagnostic ultrasound frequencies are expressed in:",
+      "image": null,
+      "options": [
+        "Hz",
+        "kHz",
+        "MHz",
+        "GHz"
+      ],
+      "answer": 2,
+      "explanation": "Diagnostic ultrasound uses megahertz (MHz).",
+      "explanationImage": null,
+      "tags": [],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch03-q036",
+      "stem": "Frequency is determined by the:",
+      "image": null,
+      "options": [
+        "Medium",
+        "Sound source (transducer)",
+        "Sonographer's TGC",
+        "Tissue density"
+      ],
+      "answer": 1,
+      "explanation": "Frequency is determined by the sound source (the transducer crystal).",
+      "explanationImage": null,
+      "tags": [],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch03-q037",
+      "stem": "According to the lecture, is frequency changed by the sonographer?",
+      "image": null,
+      "options": [
+        "No – it is determined by the sound source",
+        "Yes – by adjusting gain",
+        "Yes – by adjusting depth",
+        "Yes – by adjusting TGC"
+      ],
+      "answer": 0,
+      "explanation": "The lecture lists frequency as determined by the source and not changed by the sonographer.",
+      "explanationImage": null,
+      "tags": [],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch03-q038",
+      "stem": "Infrasound has a frequency:",
+      "image": null,
+      "options": [
+        "Above 20,000 Hz",
+        "Between 20 and 20,000 Hz",
+        "Below 20 Hz",
+        "Between 2 and 20 MHz"
+      ],
+      "answer": 2,
+      "explanation": "Infrasound is below 20 Hz.",
+      "explanationImage": null,
+      "tags": [],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch03-q039",
+      "stem": "Audible sound ranges from:",
+      "image": null,
+      "options": [
+        "20 Hz to 20,000 Hz",
+        "2 MHz to 20 MHz",
+        "Below 20 Hz",
+        "Above 20,000 Hz"
+      ],
+      "answer": 0,
+      "explanation": "Audible sound is 20 Hz to 20,000 Hz.",
+      "explanationImage": null,
+      "tags": [],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch03-q040",
+      "stem": "Ultrasound is defined as sound with a frequency:",
+      "image": null,
+      "options": [
+        "Below 20 Hz",
+        "Between 20 and 2000 Hz",
+        "Of exactly 1 MHz",
+        "Above 20,000 Hz"
+      ],
+      "answer": 3,
+      "explanation": "Ultrasound is above 20,000 Hz.",
+      "explanationImage": null,
+      "tags": [],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch03-q041",
+      "stem": "Conventional diagnostic ultrasound uses frequencies of about:",
+      "image": null,
+      "options": [
+        "20–200 Hz",
+        "2–20 MHz",
+        "200–2000 MHz",
+        "1–10 kHz"
+      ],
+      "answer": 1,
+      "explanation": "Conventional diagnostic ultrasound is about 2–20 MHz.",
+      "explanationImage": null,
+      "tags": [],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch03-q042",
+      "stem": "Higher-frequency sound provides:",
+      "image": null,
+      "options": [
+        "Worse resolution and deeper penetration",
+        "Worse resolution and less penetration",
+        "Better resolution and less penetration",
+        "Better resolution and deeper penetration"
+      ],
+      "answer": 2,
+      "explanation": "Higher frequency gives better resolution but more attenuation and less penetration.",
+      "explanationImage": null,
+      "tags": [],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch03-q043",
+      "stem": "Lower-frequency sound provides:",
+      "image": null,
+      "options": [
+        "Deeper penetration and lower resolution",
+        "Shallower penetration and higher resolution",
+        "Deeper penetration and higher resolution",
+        "Shallower penetration and lower resolution"
+      ],
+      "answer": 0,
+      "explanation": "Lower frequency penetrates deeper but gives lower resolution.",
+      "explanationImage": null,
+      "tags": [],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch03-q044",
+      "stem": "Higher-frequency sound has:",
+      "image": null,
+      "options": [
+        "A longer period",
+        "A longer wavelength",
+        "A lower speed in tissue",
+        "A shorter wavelength"
+      ],
+      "answer": 3,
+      "explanation": "Wavelength = c/f, so a higher frequency means a shorter wavelength.",
+      "explanationImage": null,
+      "tags": [],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch03-q045",
+      "stem": "Period is:",
+      "image": null,
+      "options": [
+        "The number of cycles per second",
+        "The time required for one cycle",
+        "The distance of one cycle",
+        "The maximum pressure"
+      ],
+      "answer": 1,
+      "explanation": "Period is the time required for one cycle.",
+      "explanationImage": null,
+      "tags": [],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch03-q046",
+      "stem": "A common unit for the period of ultrasound is the:",
+      "image": null,
+      "options": [
+        "Microsecond",
+        "Megahertz",
+        "Millimetre",
+        "Watt"
+      ],
+      "answer": 0,
+      "explanation": "Periods of diagnostic ultrasound are in microseconds.",
+      "explanationImage": null,
+      "tags": [],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch03-q047",
+      "stem": "Frequency and period are:",
+      "image": null,
+      "options": [
+        "Directly proportional",
+        "Unrelated",
+        "Reciprocals",
+        "Equal"
+      ],
+      "answer": 2,
+      "explanation": "f = 1/T and T = 1/f.",
+      "explanationImage": null,
+      "tags": [],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch03-q048",
+      "stem": "A 2 MHz wave has a period of:",
+      "image": null,
+      "options": [
+        "2 µs",
+        "0.5 µs",
+        "5 µs",
+        "0.2 µs"
+      ],
+      "answer": 1,
+      "explanation": "T = 1/2 MHz = 0.5 µs.",
+      "explanationImage": null,
+      "tags": [],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch03-q049",
+      "stem": "Propagation speed is determined by:",
+      "image": null,
+      "options": [
+        "The transducer",
+        "The frequency",
+        "The amplitude",
+        "The properties of the medium"
+      ],
+      "answer": 3,
+      "explanation": "Propagation speed is set by the medium, not the transducer.",
+      "explanationImage": null,
+      "tags": [],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch03-q050",
+      "stem": "The symbol and common unit of propagation speed are:",
+      "image": null,
+      "options": [
+        "c; m/s (or mm/µs)",
+        "f; Hz",
+        "T; µs",
+        "λ; mm"
+      ],
+      "answer": 0,
+      "explanation": "Propagation speed uses symbol c, in m/s or mm/µs.",
+      "explanationImage": null,
+      "tags": [],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch03-q051",
+      "stem": "The average speed of sound in soft tissue is about:",
+      "image": null,
+      "options": [
+        "330 m/s",
+        "1540 m/s",
+        "4080 m/s",
+        "15,400 m/s"
+      ],
+      "answer": 1,
+      "explanation": "The soft tissue average is about 1540 m/s.",
+      "explanationImage": null,
+      "tags": [],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch03-q052",
+      "stem": "Which medium has the slowest propagation speed?",
+      "image": null,
+      "options": [
+        "Bone",
+        "Soft tissue",
+        "Lung",
+        "Fat"
+      ],
+      "answer": 2,
+      "explanation": "Of the listed media, lung (air-containing) is the slowest.",
+      "explanationImage": null,
+      "tags": [],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch03-q053",
+      "stem": "In which state of matter is sound fastest?",
+      "image": null,
+      "options": [
+        "Solids",
+        "Liquids",
+        "Gases",
+        "It is equal in all"
+      ],
+      "answer": 0,
+      "explanation": "Sound is fastest in solids, intermediate in liquids and slowest in gases.",
+      "explanationImage": null,
+      "tags": [],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch03-q054",
+      "stem": "Does propagation speed depend on frequency?",
+      "image": null,
+      "options": [
+        "Yes, directly",
+        "No, it is independent of frequency",
+        "Yes, inversely",
+        "Only in bone"
+      ],
+      "answer": 1,
+      "explanation": "Propagation speed is independent of frequency.",
+      "explanationImage": null,
+      "tags": [],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch03-q055",
+      "stem": "Wavelength is:",
+      "image": null,
+      "options": [
+        "The time for one cycle",
+        "The number of cycles per second",
+        "The speed of sound",
+        "The distance occupied by one cycle"
+      ],
+      "answer": 3,
+      "explanation": "Wavelength is the distance occupied by one cycle.",
+      "explanationImage": null,
+      "tags": [],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch03-q056",
+      "stem": "Which equation gives wavelength?",
+      "image": null,
+      "options": [
+        "λ = c / f",
+        "λ = c × f",
+        "λ = f / c",
+        "λ = 1 / c"
+      ],
+      "answer": 0,
+      "explanation": "λ = c / f.",
+      "explanationImage": null,
+      "tags": [],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch03-q057",
+      "stem": "What is the wavelength of a 3 MHz pulse in soft tissue (c = 1540 m/s)?",
+      "image": null,
+      "options": [
+        "0.15 mm",
+        "1.5 mm",
+        "0.51 mm",
+        "5.1 mm"
+      ],
+      "answer": 2,
+      "explanation": "1540 m/s ÷ 3,000,000 Hz = 0.000513 m = 0.51 mm.",
+      "explanationImage": null,
+      "tags": [],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch03-q058",
+      "stem": "What is the wavelength of a 1 MHz wave in bone (c = 4080 m/s)?",
+      "image": null,
+      "options": [
+        "0.41 mm",
+        "4.08 mm",
+        "40.8 mm",
+        "1.54 mm"
+      ],
+      "answer": 1,
+      "explanation": "4080 m/s ÷ 1,000,000 Hz = 0.00408 m = 4.08 mm.",
+      "explanationImage": null,
+      "tags": [],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch03-q059",
+      "stem": "What is the wavelength of a 5 MHz wave in soft tissue?",
+      "image": null,
+      "options": [
+        "3.1 mm",
+        "1.54 mm",
+        "0.5 mm",
+        "0.31 mm"
+      ],
+      "answer": 3,
+      "explanation": "1540 ÷ 5,000,000 = 0.000308 m ≈ 0.31 mm.",
+      "explanationImage": null,
+      "tags": [],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch03-q060",
+      "stem": "What is the wavelength of a 2 MHz wave in soft tissue?",
+      "image": null,
+      "options": [
+        "0.77 mm",
+        "1.54 mm",
+        "3.08 mm",
+        "0.077 mm"
+      ],
+      "answer": 0,
+      "explanation": "1540 ÷ 2,000,000 = 0.00077 m = 0.77 mm.",
+      "explanationImage": null,
+      "tags": [],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch03-q061",
+      "stem": "What is the wavelength of a 10 MHz wave in soft tissue?",
+      "image": null,
+      "options": [
+        "1.54 mm",
+        "0.154 mm",
+        "15.4 mm",
+        "0.0154 mm"
+      ],
+      "answer": 1,
+      "explanation": "1540 ÷ 10,000,000 = 0.000154 m = 0.154 mm.",
+      "explanationImage": null,
+      "tags": [],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch03-q062",
+      "stem": "For the same frequency, which wave has the longer wavelength?",
+      "image": null,
+      "options": [
+        "A wave in fat",
+        "Both are equal",
+        "A wave in soft tissue",
+        "It depends on amplitude"
+      ],
+      "answer": 2,
+      "explanation": "Sound travels faster in soft tissue than in fat, so at the same frequency its wavelength is longer.",
+      "explanationImage": null,
+      "tags": [],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch03-q063",
+      "stem": "If frequency doubles in the same medium, wavelength:",
+      "image": null,
+      "options": [
+        "Is halved",
+        "Doubles",
+        "Stays the same",
+        "Quadruples"
+      ],
+      "answer": 0,
+      "explanation": "λ = c/f, so doubling f halves λ.",
+      "explanationImage": null,
+      "tags": [],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch03-q064",
+      "stem": "At the same frequency, a higher propagation speed gives a:",
+      "image": null,
+      "options": [
+        "Shorter period",
+        "Shorter wavelength",
+        "Lower amplitude",
+        "Longer wavelength"
+      ],
+      "answer": 3,
+      "explanation": "At constant frequency, λ = c/f increases when c increases.",
+      "explanationImage": null,
+      "tags": [],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch03-q065",
+      "stem": "Which properties of a medium determine propagation speed?",
+      "image": null,
+      "options": [
+        "Frequency and amplitude",
+        "Elasticity, compressibility, stiffness and bulk modulus",
+        "Power and intensity",
+        "Period and wavelength"
+      ],
+      "answer": 1,
+      "explanation": "Speed depends on the medium's elasticity, compressibility, stiffness and bulk modulus.",
+      "explanationImage": null,
+      "tags": [],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch03-q066",
+      "stem": "Bulk modulus is a measure of:",
+      "image": null,
+      "options": [
+        "Stiffness",
+        "Frequency",
+        "Amplitude",
+        "Wavelength"
+      ],
+      "answer": 0,
+      "explanation": "Bulk modulus measures stiffness: how much pressure is needed to compress the material.",
+      "explanationImage": null,
+      "tags": [],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch03-q067",
+      "stem": "A material with a high bulk modulus is:",
+      "image": null,
+      "options": [
+        "Compressible and elastic",
+        "Soft and compressible",
+        "Stiff, incompressible and inelastic",
+        "Less dense than air"
+      ],
+      "answer": 2,
+      "explanation": "High bulk modulus means stiff, incompressible and inelastic.",
+      "explanationImage": null,
+      "tags": [],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch03-q068",
+      "stem": "Bulk modulus is ______ to compressibility.",
+      "image": null,
+      "options": [
+        "Directly proportional",
+        "Equal",
+        "Unrelated",
+        "Inversely proportional"
+      ],
+      "answer": 3,
+      "explanation": "Low compressibility means high bulk modulus, so they are inversely proportional.",
+      "explanationImage": null,
+      "tags": [],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch03-q069",
+      "stem": "A high bulk modulus results in:",
+      "image": null,
+      "options": [
+        "High propagation speed",
+        "Low propagation speed",
+        "High frequency",
+        "Low amplitude"
+      ],
+      "answer": 0,
+      "explanation": "High bulk modulus means high propagation speed.",
+      "explanationImage": null,
+      "tags": [],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch03-q070",
+      "stem": "Bone has a very fast sound speed mainly because it is:",
+      "image": null,
+      "options": [
+        "Compressible",
+        "Very stiff (and dense)",
+        "Very thin",
+        "Very warm"
+      ],
+      "answer": 1,
+      "explanation": "Bone is very stiff (and dense), giving a very fast sound speed.",
+      "explanationImage": null,
+      "tags": [],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch03-q071",
+      "stem": "Two media have the same density but different compressibility. The more compressible medium has:",
+      "image": null,
+      "options": [
+        "A greater propagation speed",
+        "The same propagation speed",
+        "A lower propagation speed",
+        "A higher frequency"
+      ],
+      "answer": 2,
+      "explanation": "Higher compressibility means lower bulk modulus and lower speed. The statement that the more compressible medium is faster is false.",
+      "explanationImage": null,
+      "tags": [],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch03-q072",
+      "stem": "Soft tissue propagates sound faster than air mainly because soft tissue is:",
+      "image": null,
+      "options": [
+        "Stiffer (higher bulk modulus)",
+        "Warmer",
+        "Thinner",
+        "Lower in density"
+      ],
+      "answer": 0,
+      "explanation": "Soft tissue is much stiffer than air. The speed difference is not explained by density alone.",
+      "explanationImage": null,
+      "tags": [],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch03-q073",
+      "stem": "In the train analogy, the slack between cars represents:",
+      "image": null,
+      "options": [
+        "Frequency",
+        "Amplitude",
+        "Power",
+        "Compressibility"
+      ],
+      "answer": 3,
+      "explanation": "Slack between cars represents compressibility.",
+      "explanationImage": null,
+      "tags": [],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch03-q074",
+      "stem": "In the train analogy, more slack causes:",
+      "image": null,
+      "options": [
+        "Faster wave propagation",
+        "Slower wave propagation",
+        "Higher frequency",
+        "No change"
+      ],
+      "answer": 1,
+      "explanation": "More slack (more compressible) means slower propagation.",
+      "explanationImage": null,
+      "tags": [],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch03-q075",
+      "stem": "In the train analogy, tight coupling between cars causes:",
+      "image": null,
+      "options": [
+        "Faster wave propagation",
+        "Slower wave propagation",
+        "Lower frequency",
+        "No wave"
+      ],
+      "answer": 0,
+      "explanation": "Tight coupling (stiff) means faster propagation.",
+      "explanationImage": null,
+      "tags": [],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch03-q076",
+      "stem": "In the train analogy, a heavier (greater mass) train gives:",
+      "image": null,
+      "options": [
+        "Faster acceleration and faster propagation",
+        "No change in propagation",
+        "Slower acceleration and slower propagation",
+        "Higher frequency"
+      ],
+      "answer": 2,
+      "explanation": "A heavier train accelerates more slowly, so the wave propagates more slowly.",
+      "explanationImage": null,
+      "tags": [],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch03-q077",
+      "stem": "Can the sonographer directly adjust propagation speed?",
+      "image": null,
+      "options": [
+        "Yes, with the depth control",
+        "No",
+        "Yes, with the gain control",
+        "Yes, with the frequency control"
+      ],
+      "answer": 1,
+      "explanation": "Propagation speed depends on the medium, so the sonographer cannot directly adjust it.",
+      "explanationImage": null,
+      "tags": [],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch03-q078",
+      "stem": "Compared with soft tissue, sound in gases is:",
+      "image": null,
+      "options": [
+        "Slower",
+        "Faster",
+        "Equal",
+        "Dependent only on frequency"
+      ],
+      "answer": 0,
+      "explanation": "Gases are slower than soft tissue.",
+      "explanationImage": null,
+      "tags": [],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch03-q079",
+      "stem": "If frequency increases in the same medium, propagation speed:",
+      "image": null,
+      "options": [
+        "Increases",
+        "Decreases",
+        "Doubles",
+        "Stays the same"
+      ],
+      "answer": 3,
+      "explanation": "Speed is independent of frequency within the same medium.",
+      "explanationImage": null,
+      "tags": [],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch03-q080",
+      "stem": "If frequency increases, the period:",
+      "image": null,
+      "options": [
+        "Increases",
+        "Stays the same",
+        "Decreases",
+        "Doubles"
+      ],
+      "answer": 2,
+      "explanation": "T = 1/f, so higher frequency means a shorter period.",
+      "explanationImage": null,
+      "tags": [],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch03-q081",
+      "stem": "The relationship between speed, frequency and wavelength is:",
+      "image": null,
+      "options": [
+        "c = f × λ",
+        "c = f / λ",
+        "c = λ / f",
+        "c = f + λ"
+      ],
+      "answer": 0,
+      "explanation": "c = f × λ.",
+      "explanationImage": null,
+      "tags": [],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch03-q082",
+      "stem": "Amplitude is formally defined as the:",
+      "image": null,
+      "options": [
+        "Time for one cycle",
+        "Maximum variation of an acoustic variable from its mean",
+        "Number of cycles per second",
+        "Distance of one cycle"
+      ],
+      "answer": 1,
+      "explanation": "Amplitude is the maximum variation of a variable from its mean.",
+      "explanationImage": null,
+      "tags": [],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch03-q083",
+      "stem": "In ultrasound, amplitude often refers to the:",
+      "image": null,
+      "options": [
+        "Wavelength",
+        "Period",
+        "Speed",
+        "Transmit voltage exciting the crystal (unit: volts)"
+      ],
+      "answer": 3,
+      "explanation": "In ultrasound, amplitude often refers to the transmit voltage that excites the crystal, in volts.",
+      "explanationImage": null,
+      "tags": [],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch03-q084",
+      "stem": "Which expression gives amplitude?",
+      "image": null,
+      "options": [
+        "(max − min) / 2",
+        "max + min",
+        "max × min",
+        "max / min"
+      ],
+      "answer": 0,
+      "explanation": "Amplitude = (max − min)/2 (also max − mean, or mean − min).",
+      "explanationImage": null,
+      "tags": [],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch03-q085",
+      "stem": "A wave has a maximum of 12 and a minimum of 4. Its amplitude is:",
+      "image": null,
+      "options": [
+        "8",
+        "16",
+        "4",
+        "2"
+      ],
+      "answer": 2,
+      "explanation": "(12 − 4)/2 = 4.",
+      "explanationImage": null,
+      "tags": [],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch03-q086",
+      "stem": "Overall (receiver) gain:",
+      "image": null,
+      "options": [
+        "Changes the frequency",
+        "Amplifies all returning echoes equally",
+        "Changes the propagation speed",
+        "Changes the wavelength"
+      ],
+      "answer": 1,
+      "explanation": "Overall (receiver) gain amplifies all returning echoes equally and affects image brightness.",
+      "explanationImage": null,
+      "tags": [],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch03-q087",
+      "stem": "Time gain compensation (TGC):",
+      "image": null,
+      "options": [
+        "Changes the transducer frequency",
+        "Changes the pulse duration",
+        "Changes the speed of sound",
+        "Adjusts gain at different depths to compensate for attenuation"
+      ],
+      "answer": 3,
+      "explanation": "TGC adjusts gain at different depths to compensate for attenuation.",
+      "explanationImage": null,
+      "tags": [],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch03-q088",
+      "stem": "Increasing transmit power changes the:",
+      "image": null,
+      "options": [
+        "Amplitude of the sound leaving the probe",
+        "Frequency",
+        "Propagation speed",
+        "Wavelength"
+      ],
+      "answer": 0,
+      "explanation": "Transmit gain (power) changes the amplitude of the sound leaving the probe.",
+      "explanationImage": null,
+      "tags": [],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch03-q089",
+      "stem": "Power is:",
+      "image": null,
+      "options": [
+        "Maximum pressure",
+        "Energy per unit area",
+        "The rate of acoustic energy transfer",
+        "The number of cycles per second"
+      ],
+      "answer": 2,
+      "explanation": "Power is the rate of acoustic energy transfer (watts).",
+      "explanationImage": null,
+      "tags": [],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch03-q090",
+      "stem": "Power is proportional to:",
+      "image": null,
+      "options": [
+        "Amplitude",
+        "Amplitude squared",
+        "1 / amplitude",
+        "Frequency"
+      ],
+      "answer": 1,
+      "explanation": "Power is proportional to amplitude squared.",
+      "explanationImage": null,
+      "tags": [],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch03-q091",
+      "stem": "If the transmit voltage (amplitude) is doubled, power:",
+      "image": null,
+      "options": [
+        "Doubles",
+        "Is halved",
+        "Stays the same",
+        "Quadruples"
+      ],
+      "answer": 3,
+      "explanation": "2² = 4, so doubling amplitude quadruples power.",
+      "explanationImage": null,
+      "tags": [],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch03-q092",
+      "stem": "Intensity is:",
+      "image": null,
+      "options": [
+        "Power divided by area",
+        "Power multiplied by area",
+        "Energy multiplied by time",
+        "Frequency divided by area"
+      ],
+      "answer": 0,
+      "explanation": "I = P / A.",
+      "explanationImage": null,
+      "tags": [],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch03-q093",
+      "stem": "A beam has a power of 2 W over an area of 4 cm². Its intensity is:",
+      "image": null,
+      "options": [
+        "8 W/cm²",
+        "0.5 W/cm²",
+        "2 W/cm²",
+        "6 W/cm²"
+      ],
+      "answer": 1,
+      "explanation": "2 W ÷ 4 cm² = 0.5 W/cm².",
+      "explanationImage": null,
+      "tags": [],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch03-q094",
+      "stem": "If the beam area gets smaller while power stays constant, intensity:",
+      "image": null,
+      "options": [
+        "Decreases",
+        "Stays the same",
+        "Increases",
+        "Becomes zero"
+      ],
+      "answer": 2,
+      "explanation": "Smaller area means higher intensity.",
+      "explanationImage": null,
+      "tags": [],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch03-q095",
+      "stem": "In a sound beam, intensity is greatest where the beam is:",
+      "image": null,
+      "options": [
+        "Narrowest",
+        "Widest",
+        "Deepest",
+        "Slowest"
+      ],
+      "answer": 0,
+      "explanation": "Intensity is greatest where the beam is narrow.",
+      "explanationImage": null,
+      "tags": [],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch03-q096",
+      "stem": "As sound propagates through tissue, amplitude, power and intensity:",
+      "image": null,
+      "options": [
+        "Increase",
+        "Decrease (weaken)",
+        "Stay constant",
+        "Become frequency"
+      ],
+      "answer": 1,
+      "explanation": "All three strength parameters weaken as sound propagates through tissue.",
+      "explanationImage": null,
+      "tags": [],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch03-q097",
+      "stem": "Interference occurs when:",
+      "image": null,
+      "options": [
+        "Two waves meet and their pressure changes combine",
+        "A wave is absorbed",
+        "A wave changes frequency",
+        "A wave enters a vacuum"
+      ],
+      "answer": 0,
+      "explanation": "Interference occurs when two waves meet and their pressure changes combine.",
+      "explanationImage": null,
+      "tags": [],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch03-q098",
+      "stem": "Constructive interference occurs when waves are:",
+      "image": null,
+      "options": [
+        "Out of phase and subtract",
+        "Different in frequency",
+        "In phase, so peaks align with peaks and amplitudes add",
+        "Travelling in opposite media"
+      ],
+      "answer": 2,
+      "explanation": "In-phase waves (peaks with peaks) add, giving a larger amplitude.",
+      "explanationImage": null,
+      "tags": [],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch03-q099",
+      "stem": "Destructive interference occurs when waves are:",
+      "image": null,
+      "options": [
+        "In phase",
+        "Out of phase, so amplitudes subtract",
+        "Identical",
+        "Of unlimited amplitude"
+      ],
+      "answer": 1,
+      "explanation": "Out-of-phase waves overlap positive with negative pressure, so amplitudes subtract.",
+      "explanationImage": null,
+      "tags": [],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch03-q100",
+      "stem": "Complete destructive interference requires waves that have:",
+      "image": null,
+      "options": [
+        "Different frequencies",
+        "Equal amplitudes and are in phase",
+        "Different speeds",
+        "Equal amplitudes and are 180° out of phase"
+      ],
+      "answer": 3,
+      "explanation": "Complete cancellation needs equal amplitudes that are exactly out of phase (180°).",
+      "explanationImage": null,
+      "tags": [],
+      "reference": ""
+    }
+  ]
+}

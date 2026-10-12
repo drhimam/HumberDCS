@@ -1,0 +1,29 @@
+{
+  "summary": "First-run frontend E2E for DCS QBank. Verified dashboard tiles & semesters, mode dialog (incl. empty-subject disabled states), study mode (options lock, verdict/explanation panel, side-panel placeholder, image zoom, keyboard 1-4 & arrows), wrong-answer bank (nav badge, items, filter + practice route), exam setup (toggles, time select, summary), exam runner (timer countdown, answer locking, flag, answered-count, resume via sessionStorage + resume-exam-banner on dashboard after reload), exam results (score, result tiles, filters, review items with explanation), dashboard DataTools (export/import/reset dialogs). No JS errors in console.",
+  "backend_issues": {"critical": [], "minor": []},
+  "frontend_issues": {
+    "ui_bugs": [],
+    "integration_issues": [],
+    "design_issues": [
+      {"screen": "/subject/:sid/study/wrong (Wrong-answer review)", "issues": ["Route is not declared in App.js but accidentally works because it is caught by /subject/:sid/study/:cid with cid='wrong'. Works today but is fragile and relies on StudySession's special handling. Consider declaring explicit route."]}
+    ]
+  },
+  "test_report_links": [],
+  "action_items": [
+    "Nothing critical. Optional: declare an explicit route '/subject/:sid/study/wrong' in App.js for clarity; it currently matches the generic :cid param.",
+    "practice-wrong-btn is only rendered when a specific subject filter is selected AND wrong.length > 0 (per WrongAnswers.jsx L74). This matches the test spec which says 'subject filter, practice-wrong-btn' but is worth confirming is the intended UX (no 'practice all wrong' when filter = all)."
+  ],
+  "critical_code_review_comments": [
+    "progress.js emptyState spread when reading can leak stale defaults into existing state after schema changes; acceptable for v1.",
+    "exam.js pickQuestions includeWrong may exceed requested count when wrong > count (picked array can be longer than count). Minor edge-case.",
+    "/subject/:sid/study/wrong relies on cid param wildcard; add explicit route for maintainability.",
+    "DataTools uses Blob/URL.createObjectURL in exportProgress — correct; no cleanup issues observed."
+  ],
+  "updated_files": [],
+  "success_rate": {"backend": "N/A", "frontend": "100%"},
+  "test_credentials": "none (no auth)",
+  "seed_data_creation": "none; used in-browser localStorage/sessionStorage during tests then cleared.",
+  "retest_needed": false,
+  "should_main_agent_self_test": true,
+  "context_for_next_testing_agent": "App is at https://cardiac-sono-quiz.preview.emergentagent.com. Backend is template-only (not used). All UI data-testids referenced by the spec exist and work. Keyboard shortcuts in StudySession: digits 1-4 select option, ArrowLeft/Right navigate. Exam state is saved to sessionStorage key dcs_exam_active and survives reload. Progress localStorage key is dcs_qbank_progress_v1. Note: /subject/:sid/study/wrong is handled by StudySession via generic :cid match."
+}

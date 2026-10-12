@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "semesters": [
+    {
+      "id": "sem1",
+      "title": "Semester 1",
+      "subjects": [
+        "DCS5000",
+        "DCS5002",
+        "DCS5003",
+        "DCS5004",
+        "DCS5005",
+        "DCS5006",
+        "IPE101"
+      ]
+    },
+    {
+      "id": "sem2",
+      "title": "Semester 2",
+      "subjects": [
+        "DCS5500",
+        "DCS5501",
+        "DCS5502",
+        "DCS5503",
+        "DCS5504",
+        "DCS5505",
+        "DCS5506"
+      ]
+    }
+  ]
+}

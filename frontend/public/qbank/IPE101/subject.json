@@ -1,0 +1,23 @@
+{
+  "id": "IPE101",
+  "code": "IPE 101",
+  "title": "Interprofessional Education: Exploring Professional Roles and Responsibilities",
+  "semester": "sem1",
+  "chapters": [
+    {
+      "id": "ch01",
+      "title": "Professional Roles",
+      "file": "ch01.json"
+    },
+    {
+      "id": "ch02",
+      "title": "Communication & Collaboration",
+      "file": "ch02.json"
+    },
+    {
+      "id": "ch03",
+      "title": "Patient Safety",
+      "file": "ch03.json"
+    }
+  ]
+}

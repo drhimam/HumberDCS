@@ -1,0 +1,1806 @@
+{
+  "chapterId": "ch01",
+  "title": "Module 1: Introduction to Sonography and Physics",
+  "questions": [
+    {
+      "id": "DCS5004-ch01-q001",
+      "stem": "Ultrasound is best defined as sound with a frequency:",
+      "image": null,
+      "options": [
+        "Below the range of human hearing",
+        "Above the range of human hearing",
+        "Within the range of human hearing",
+        "Produced only by electromagnetic sources"
+      ],
+      "answer": 1,
+      "explanation": "Ultrasound is sound above the range of human hearing.",
+      "explanationImage": null,
+      "tags": [
+        "Sound, Waves and Ultrasound Basics"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch01-q002",
+      "stem": "Diagnostic ultrasound typically uses frequencies in the range of:",
+      "image": null,
+      "options": [
+        "20–200 Hz",
+        "2–20 kHz",
+        "2–20 MHz",
+        "2–20 GHz"
+      ],
+      "answer": 2,
+      "explanation": "Diagnostic ultrasound uses about 2–20 MHz.",
+      "explanationImage": null,
+      "tags": [
+        "Sound, Waves and Ultrasound Basics"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch01-q003",
+      "stem": "The human audible range is approximately:",
+      "image": null,
+      "options": [
+        "20 Hz to 20 kHz",
+        "2 Hz to 2 kHz",
+        "20 kHz to 20 MHz",
+        "200 Hz to 200 kHz"
+      ],
+      "answer": 0,
+      "explanation": "Humans hear about 20 Hz to 20 kHz.",
+      "explanationImage": null,
+      "tags": [
+        "Sound, Waves and Ultrasound Basics"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch01-q004",
+      "stem": "Sound with a frequency below 20 Hz is called:",
+      "image": null,
+      "options": [
+        "Ultrasound",
+        "Audible sound",
+        "Infrasound",
+        "Shock sound"
+      ],
+      "answer": 2,
+      "explanation": "Infrasound is below 20 Hz.",
+      "explanationImage": null,
+      "tags": [
+        "Sound, Waves and Ultrasound Basics"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch01-q005",
+      "stem": "Sound is classified as which type of wave?",
+      "image": null,
+      "options": [
+        "Transverse electromagnetic wave",
+        "Transverse mechanical wave",
+        "Longitudinal electromagnetic wave",
+        "Longitudinal mechanical wave"
+      ],
+      "answer": 3,
+      "explanation": "Sound is a longitudinal mechanical wave.",
+      "explanationImage": null,
+      "tags": [
+        "Sound, Waves and Ultrasound Basics"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch01-q006",
+      "stem": "Which of the following requires a medium in order to travel?",
+      "image": null,
+      "options": [
+        "Sound",
+        "Light",
+        "X-rays",
+        "Radio waves"
+      ],
+      "answer": 0,
+      "explanation": "Sound is mechanical and needs a medium; the others are electromagnetic.",
+      "explanationImage": null,
+      "tags": [
+        "Sound, Waves and Ultrasound Basics"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch01-q007",
+      "stem": "Ultrasound cannot travel through:",
+      "image": null,
+      "options": [
+        "Soft tissue",
+        "Fluid",
+        "A vacuum",
+        "Muscle"
+      ],
+      "answer": 2,
+      "explanation": "Ultrasound cannot travel through a vacuum.",
+      "explanationImage": null,
+      "tags": [
+        "Sound, Waves and Ultrasound Basics"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch01-q008",
+      "stem": "Unlike X-rays, diagnostic ultrasound is:",
+      "image": null,
+      "options": [
+        "Ionizing energy",
+        "Non-ionizing mechanical energy",
+        "A form of electromagnetic radiation",
+        "Able to travel through a vacuum"
+      ],
+      "answer": 1,
+      "explanation": "Ultrasound is non-ionizing mechanical energy.",
+      "explanationImage": null,
+      "tags": [
+        "Sound, Waves and Ultrasound Basics"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch01-q009",
+      "stem": "A wave is best defined as:",
+      "image": null,
+      "options": [
+        "A device that converts energy from one form to another",
+        "A change in tissue density",
+        "A repeating cycle of electrical signals",
+        "A mechanism that transfers energy from one location to another"
+      ],
+      "answer": 3,
+      "explanation": "A wave transfers energy from one location to another.",
+      "explanationImage": null,
+      "tags": [
+        "Sound, Waves and Ultrasound Basics"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch01-q010",
+      "stem": "In a longitudinal wave, particle motion is:",
+      "image": null,
+      "options": [
+        "Perpendicular to the direction of wave propagation",
+        "Along the direction of wave propagation",
+        "Circular around the source",
+        "Absent"
+      ],
+      "answer": 1,
+      "explanation": "Longitudinal motion is along the direction of propagation.",
+      "explanationImage": null,
+      "tags": [
+        "Sound, Waves and Ultrasound Basics"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch01-q011",
+      "stem": "Which wave has particle motion perpendicular to the direction of propagation?",
+      "image": null,
+      "options": [
+        "Longitudinal wave",
+        "Shock wave",
+        "Transverse wave",
+        "Infrasonic wave"
+      ],
+      "answer": 2,
+      "explanation": "Transverse motion is perpendicular to propagation.",
+      "explanationImage": null,
+      "tags": [
+        "Sound, Waves and Ultrasound Basics"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch01-q012",
+      "stem": "In the word \"sonography,\" the term \"graphy\" means:",
+      "image": null,
+      "options": [
+        "To write or record",
+        "To measure",
+        "To listen",
+        "To heal"
+      ],
+      "answer": 0,
+      "explanation": "\"Sono\" means sound; \"graphy\" means to write or record.",
+      "explanationImage": null,
+      "tags": [
+        "Sound, Waves and Ultrasound Basics"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch01-q013",
+      "stem": "The sinking of the Titanic in 1912 increased demand for:",
+      "image": null,
+      "options": [
+        "Medical imaging",
+        "Radio communication",
+        "Weather forecasting",
+        "Underwater detection"
+      ],
+      "answer": 3,
+      "explanation": "The Titanic disaster drove demand for underwater detection.",
+      "explanationImage": null,
+      "tags": [
+        "History of Ultrasound"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch01-q014",
+      "stem": "SONAR stands for:",
+      "image": null,
+      "options": [
+        "Sound Navigation And Radiation",
+        "SOund NAvigation And Ranging",
+        "Sonic Noise And Resonance",
+        "Signal Optimization And Range"
+      ],
+      "answer": 1,
+      "explanation": "SOund NAvigation And Ranging.",
+      "explanationImage": null,
+      "tags": [
+        "History of Ultrasound"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch01-q015",
+      "stem": "Diagnostic ultrasound was developed from:",
+      "image": null,
+      "options": [
+        "X-ray tomography",
+        "Radio astronomy",
+        "SONAR used to detect submarines",
+        "Magnetic resonance techniques"
+      ],
+      "answer": 2,
+      "explanation": "Diagnostic ultrasound grew out of SONAR.",
+      "explanationImage": null,
+      "tags": [
+        "History of Ultrasound"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch01-q016",
+      "stem": "In 1928, through-transmission ultrasound was used to:",
+      "image": null,
+      "options": [
+        "Detect flaws in metals",
+        "Image the brain",
+        "Detect gallstones",
+        "Monitor fetal heart rate"
+      ],
+      "answer": 0,
+      "explanation": "Sokolov used through-transmission for flaw detection in metals.",
+      "explanationImage": null,
+      "tags": [
+        "History of Ultrasound"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch01-q017",
+      "stem": "The first diagnostic finding with ultrasound (1949) was:",
+      "image": null,
+      "options": [
+        "A brain tumour",
+        "A cardiac valve defect",
+        "A fetal anomaly",
+        "Gallstones"
+      ],
+      "answer": 3,
+      "explanation": "Gallstones were the first diagnostic finding (1949).",
+      "explanationImage": null,
+      "tags": [
+        "History of Ultrasound"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch01-q018",
+      "stem": "A-mode and B-mode imaging were developed during the:",
+      "image": null,
+      "options": [
+        "1910s",
+        "1950s–60s",
+        "1980s",
+        "2000s"
+      ],
+      "answer": 1,
+      "explanation": "A-mode and B-mode appeared in the 1950s–60s.",
+      "explanationImage": null,
+      "tags": [
+        "History of Ultrasound"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch01-q019",
+      "stem": "Gallstones were detectable because they:",
+      "image": null,
+      "options": [
+        "Emit their own sound",
+        "Are less dense than surrounding tissue",
+        "Are denser than surrounding tissue, creating an impedance difference",
+        "Absorb all ultrasound"
+      ],
+      "answer": 2,
+      "explanation": "Gallstones are denser than surrounding tissue, giving an impedance difference.",
+      "explanationImage": null,
+      "tags": [
+        "History of Ultrasound"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch01-q020",
+      "stem": "A unique advantage of ultrasound is that it can assess:",
+      "image": null,
+      "options": [
+        "Soft tissue structure and real-time blood flow without ionizing radiation",
+        "Bone density only",
+        "Lung air spaces",
+        "Only stationary structures"
+      ],
+      "answer": 0,
+      "explanation": "Ultrasound shows soft tissue and blood flow without ionizing radiation.",
+      "explanationImage": null,
+      "tags": [
+        "System Components, Transducer and Coupling Gel"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch01-q021",
+      "stem": "Which sequence correctly describes the fundamental imaging chain?",
+      "image": null,
+      "options": [
+        "Echoes → sound pulse → transducer → image",
+        "Image → transducer → sound pulse → echoes",
+        "Electrical signal → transducer → sound pulse → tissue interaction → echoes → transducer → electrical signal → image",
+        "Sound pulse → image → transducer → electrical signal"
+      ],
+      "answer": 2,
+      "explanation": "Electrical signal → transducer → pulse → tissue → echoes → transducer → electrical signal → image.",
+      "explanationImage": null,
+      "tags": [
+        "System Components, Transducer and Coupling Gel"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch01-q022",
+      "stem": "An ultrasound image is constructed from:",
+      "image": null,
+      "options": [
+        "Sound passing completely through the body, like an X-ray",
+        "The pattern of returning echoes",
+        "Heat produced in tissue",
+        "Light reflected from the skin"
+      ],
+      "answer": 1,
+      "explanation": "The image is built from the pattern of returning echoes.",
+      "explanationImage": null,
+      "tags": [
+        "System Components, Transducer and Coupling Gel"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch01-q023",
+      "stem": "The system console is used by the sonographer to adjust:",
+      "image": null,
+      "options": [
+        "Patient position",
+        "Tissue density",
+        "Speed of sound",
+        "Gain, depth, frequency and Doppler settings"
+      ],
+      "answer": 3,
+      "explanation": "The console adjusts gain, depth, frequency and Doppler.",
+      "explanationImage": null,
+      "tags": [
+        "System Components, Transducer and Coupling Gel"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch01-q024",
+      "stem": "The role of the transducer is to:",
+      "image": null,
+      "options": [
+        "Generate ultrasound pulses and receive returning echoes",
+        "Store images",
+        "Display images on the monitor",
+        "Only receive echoes"
+      ],
+      "answer": 0,
+      "explanation": "The transducer transmits pulses and receives echoes.",
+      "explanationImage": null,
+      "tags": [
+        "System Components, Transducer and Coupling Gel"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch01-q025",
+      "stem": "During transmission, the transducer converts:",
+      "image": null,
+      "options": [
+        "Sound energy into electrical energy",
+        "Heat into sound energy",
+        "Electrical energy into sound energy",
+        "Light into electrical energy"
+      ],
+      "answer": 2,
+      "explanation": "On transmission, electrical energy becomes sound energy.",
+      "explanationImage": null,
+      "tags": [
+        "System Components, Transducer and Coupling Gel"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch01-q026",
+      "stem": "The main purpose of coupling gel is to:",
+      "image": null,
+      "options": [
+        "Cool the transducer",
+        "Remove the air gap between the probe and skin",
+        "Increase the speed of sound in tissue",
+        "Produce the image"
+      ],
+      "answer": 1,
+      "explanation": "Gel removes the air gap.",
+      "explanationImage": null,
+      "tags": [
+        "System Components, Transducer and Coupling Gel"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch01-q027",
+      "stem": "A tissue–air boundary reflects:",
+      "image": null,
+      "options": [
+        "Very little sound",
+        "Exactly half of the sound",
+        "No sound",
+        "Almost all of the sound"
+      ],
+      "answer": 3,
+      "explanation": "A tissue–air boundary reflects almost all sound.",
+      "explanationImage": null,
+      "tags": [
+        "System Components, Transducer and Coupling Gel"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch01-q028",
+      "stem": "Which statement about coupling gel is correct?",
+      "image": null,
+      "options": [
+        "It produces the image itself",
+        "It amplifies echoes electronically",
+        "It improves acoustic coupling between the transducer and the skin",
+        "It changes the frequency of the pulse"
+      ],
+      "answer": 2,
+      "explanation": "Gel improves acoustic coupling; it does not make the image.",
+      "explanationImage": null,
+      "tags": [
+        "System Components, Transducer and Coupling Gel"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch01-q029",
+      "stem": "Which transducer is standard for adult cardiac sonography?",
+      "image": null,
+      "options": [
+        "Linear",
+        "Phased array",
+        "Curvilinear",
+        "Endovaginal"
+      ],
+      "answer": 1,
+      "explanation": "Phased array is standard for adult echo.",
+      "explanationImage": null,
+      "tags": [
+        "System Components, Transducer and Coupling Gel"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch01-q030",
+      "stem": "Which transducer is commonly used for carotid and DVT studies?",
+      "image": null,
+      "options": [
+        "Linear",
+        "Phased array",
+        "Sector",
+        "Curvilinear"
+      ],
+      "answer": 0,
+      "explanation": "Linear probes are used for carotids and DVT studies.",
+      "explanationImage": null,
+      "tags": [
+        "System Components, Transducer and Coupling Gel"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch01-q031",
+      "stem": "Which transducer is commonly used for abdominal imaging and general OB?",
+      "image": null,
+      "options": [
+        "Linear",
+        "Pedoff",
+        "TEE",
+        "Curvilinear"
+      ],
+      "answer": 3,
+      "explanation": "Curvilinear probes suit abdominal and general OB imaging.",
+      "explanationImage": null,
+      "tags": [
+        "System Components, Transducer and Coupling Gel"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch01-q032",
+      "stem": "An acoustic interface is:",
+      "image": null,
+      "options": [
+        "A type of transducer",
+        "A display setting",
+        "A boundary between two tissues",
+        "A frequency range"
+      ],
+      "answer": 2,
+      "explanation": "An acoustic interface is a boundary between two tissues.",
+      "explanationImage": null,
+      "tags": [
+        "Acoustic Interfaces, Pulse-Echo and the Range Equation"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch01-q033",
+      "stem": "Acoustic impedance depends on a tissue's:",
+      "image": null,
+      "options": [
+        "Density and the speed of sound in it",
+        "Colour and temperature",
+        "Thickness and shape",
+        "Frequency and amplitude"
+      ],
+      "answer": 0,
+      "explanation": "Impedance depends on density and speed of sound.",
+      "explanationImage": null,
+      "tags": [
+        "Acoustic Interfaces, Pulse-Echo and the Range Equation"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch01-q034",
+      "stem": "A greater acoustic impedance mismatch at an interface generally produces:",
+      "image": null,
+      "options": [
+        "No echo",
+        "A weaker echo",
+        "A lower-frequency echo",
+        "A stronger echo"
+      ],
+      "answer": 3,
+      "explanation": "Greater mismatch gives a stronger echo.",
+      "explanationImage": null,
+      "tags": [
+        "Acoustic Interfaces, Pulse-Echo and the Range Equation"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch01-q035",
+      "stem": "A very small impedance difference between adjacent tissues produces:",
+      "image": null,
+      "options": [
+        "A very strong echo",
+        "A weak echo",
+        "Complete reflection",
+        "Complete absorption"
+      ],
+      "answer": 1,
+      "explanation": "A small difference gives a weak echo.",
+      "explanationImage": null,
+      "tags": [
+        "Acoustic Interfaces, Pulse-Echo and the Range Equation"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch01-q036",
+      "stem": "At an interface, the sound that is not reflected:",
+      "image": null,
+      "options": [
+        "Continues into deeper tissue",
+        "Is converted into light",
+        "Returns to the transducer immediately",
+        "Disappears from the body"
+      ],
+      "answer": 0,
+      "explanation": "Unreflected sound continues into deeper tissue.",
+      "explanationImage": null,
+      "tags": [
+        "Acoustic Interfaces, Pulse-Echo and the Range Equation"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch01-q037",
+      "stem": "In the pulse-echo technique, the pulse is very short so that the transducer spends most of its time:",
+      "image": null,
+      "options": [
+        "Transmitting",
+        "Cooling",
+        "Listening for echoes",
+        "Idle"
+      ],
+      "answer": 2,
+      "explanation": "The pulse is short, so the transducer mostly listens.",
+      "explanationImage": null,
+      "tags": [
+        "Acoustic Interfaces, Pulse-Echo and the Range Equation"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch01-q038",
+      "stem": "The average speed of sound in soft tissue assumed by the system is:",
+      "image": null,
+      "options": [
+        "330 m/s",
+        "1540 m/s",
+        "3000 m/s",
+        "15,400 m/s"
+      ],
+      "answer": 1,
+      "explanation": "The system assumes 1540 m/s.",
+      "explanationImage": null,
+      "tags": [
+        "Acoustic Interfaces, Pulse-Echo and the Range Equation"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch01-q039",
+      "stem": "In the range equation, the result is divided by two because:",
+      "image": null,
+      "options": [
+        "Sound speed is halved in tissue",
+        "Only half of the pulse returns",
+        "The pulse is two cycles long",
+        "Sound travels to the reflector and back (round trip)"
+      ],
+      "answer": 3,
+      "explanation": "Sound travels to the reflector and back, so divide by two.",
+      "explanationImage": null,
+      "tags": [
+        "Acoustic Interfaces, Pulse-Echo and the Range Equation"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch01-q040",
+      "stem": "Echoes that return earlier are displayed:",
+      "image": null,
+      "options": [
+        "Closer to the transducer",
+        "Deeper in the image",
+        "Brighter",
+        "At the image edges"
+      ],
+      "answer": 0,
+      "explanation": "Earlier echoes are displayed nearer the transducer.",
+      "explanationImage": null,
+      "tags": [
+        "Acoustic Interfaces, Pulse-Echo and the Range Equation"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch01-q041",
+      "stem": "The accuracy of the range equation depends on:",
+      "image": null,
+      "options": [
+        "The patient's age",
+        "The monitor size",
+        "The assumption that sound travels at 1540 m/s in soft tissue",
+        "The number of scan lines"
+      ],
+      "answer": 2,
+      "explanation": "Range accuracy depends on the 1540 m/s assumption.",
+      "explanationImage": null,
+      "tags": [
+        "Acoustic Interfaces, Pulse-Echo and the Range Equation"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch01-q042",
+      "stem": "An echo returns 130 µs after the pulse is transmitted. Assuming c = 1540 m/s, the reflector depth is approximately:",
+      "image": null,
+      "options": [
+        "5 cm",
+        "10 cm",
+        "20 cm",
+        "2 cm"
+      ],
+      "answer": 1,
+      "explanation": "d = (1540 × 130 × 10⁻⁶) / 2 ≈ 0.10 m = 10 cm.",
+      "explanationImage": null,
+      "tags": [
+        "Acoustic Interfaces, Pulse-Echo and the Range Equation"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch01-q043",
+      "stem": "A reflector is 5 cm deep. The round-trip time of the echo is approximately:",
+      "image": null,
+      "options": [
+        "13 µs",
+        "32.5 µs",
+        "130 µs",
+        "65 µs"
+      ],
+      "answer": 3,
+      "explanation": "t = 2d / c = (2 × 0.05) / 1540 ≈ 65 µs.",
+      "explanationImage": null,
+      "tags": [
+        "Acoustic Interfaces, Pulse-Echo and the Range Equation"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch01-q044",
+      "stem": "Echo from reflector X returns twice as late as the echo from reflector Y. Reflector X is:",
+      "image": null,
+      "options": [
+        "Half as deep as Y",
+        "The same depth as Y",
+        "Twice as deep as Y",
+        "Four times as deep as Y"
+      ],
+      "answer": 2,
+      "explanation": "Twice the round-trip time means twice the depth.",
+      "explanationImage": null,
+      "tags": [
+        "Acoustic Interfaces, Pulse-Echo and the Range Equation"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch01-q045",
+      "stem": "Which is the first step of the pulse-echo technique?",
+      "image": null,
+      "options": [
+        "Echoes return to the transducer",
+        "The pulse interacts with tissue interfaces",
+        "Echoes are processed",
+        "The transducer generates a pulse of ultrasound"
+      ],
+      "answer": 3,
+      "explanation": "The transducer generates the pulse first.",
+      "explanationImage": null,
+      "tags": [
+        "Acoustic Interfaces, Pulse-Echo and the Range Equation"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch01-q046",
+      "stem": "Echo ranging in SONAR is the same principle as:",
+      "image": null,
+      "options": [
+        "Doppler imaging",
+        "The pulse-echo technique",
+        "M-mode only",
+        "Through-transmission"
+      ],
+      "answer": 1,
+      "explanation": "SONAR echo ranging is the pulse-echo principle.",
+      "explanationImage": null,
+      "tags": [
+        "Acoustic Interfaces, Pulse-Echo and the Range Equation"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch01-q047",
+      "stem": "Echo amplitude determines:",
+      "image": null,
+      "options": [
+        "Echo depth",
+        "Scan format",
+        "Pixel brightness",
+        "Pulse frequency"
+      ],
+      "answer": 2,
+      "explanation": "Echo amplitude sets pixel brightness.",
+      "explanationImage": null,
+      "tags": [
+        "Scan Lines, Brightness and Gray Scale"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch01-q048",
+      "stem": "Echo travel time determines:",
+      "image": null,
+      "options": [
+        "Display depth",
+        "Pixel brightness",
+        "Image colour",
+        "Frame rate"
+      ],
+      "answer": 0,
+      "explanation": "Echo travel time sets display depth.",
+      "explanationImage": null,
+      "tags": [
+        "Scan Lines, Brightness and Gray Scale"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch01-q049",
+      "stem": "Echo information collected along one ultrasound beam forms:",
+      "image": null,
+      "options": [
+        "One frame",
+        "One 3D volume",
+        "One Doppler shift",
+        "One scan line"
+      ],
+      "answer": 3,
+      "explanation": "One beam gives one scan line.",
+      "explanationImage": null,
+      "tags": [
+        "Scan Lines, Brightness and Gray Scale"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch01-q050",
+      "stem": "In B-mode imaging, one pulse produces:",
+      "image": null,
+      "options": [
+        "One full image",
+        "One scan line",
+        "One frame per second",
+        "Ten scan lines"
+      ],
+      "answer": 1,
+      "explanation": "One pulse equals one scan line.",
+      "explanationImage": null,
+      "tags": [
+        "Scan Lines, Brightness and Gray Scale"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch01-q051",
+      "stem": "A frame is:",
+      "image": null,
+      "options": [
+        "A complete 2D image made from many scan lines",
+        "A single echo",
+        "A single pulse",
+        "A single pixel"
+      ],
+      "answer": 0,
+      "explanation": "A frame is a complete 2D image made of many scan lines.",
+      "explanationImage": null,
+      "tags": [
+        "Scan Lines, Brightness and Gray Scale"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch01-q052",
+      "stem": "A typical cross-sectional image is made of approximately how many scan lines?",
+      "image": null,
+      "options": [
+        "1–5",
+        "10–20",
+        "96–256 (hundreds)",
+        "More than 10,000"
+      ],
+      "answer": 2,
+      "explanation": "Typical images use about 96–256 scan lines (hundreds).",
+      "explanationImage": null,
+      "tags": [
+        "Scan Lines, Brightness and Gray Scale"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch01-q053",
+      "stem": "What happens when more scan lines are used to build each image frame?",
+      "image": null,
+      "options": [
+        "Frame rate increases automatically",
+        "Spatial sampling improves, but frame rate may decrease",
+        "Axial resolution always improves",
+        "Imaging depth decreases automatically"
+      ],
+      "answer": 1,
+      "explanation": "More lines improve spatial sampling but may lower frame rate.",
+      "explanationImage": null,
+      "tags": [
+        "Scan Lines, Brightness and Gray Scale"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch01-q054",
+      "stem": "A sufficiently high frame rate is especially important in cardiac imaging because:",
+      "image": null,
+      "options": [
+        "The heart is large",
+        "Gel is needed",
+        "The ribs block sound",
+        "The heart moves rapidly"
+      ],
+      "answer": 3,
+      "explanation": "The heart moves rapidly, so frame rate matters.",
+      "explanationImage": null,
+      "tags": [
+        "Scan Lines, Brightness and Gray Scale"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch01-q055",
+      "stem": "A hyperechoic structure appears:",
+      "image": null,
+      "options": [
+        "Bright",
+        "Black",
+        "Dark grey",
+        "Colour-coded"
+      ],
+      "answer": 0,
+      "explanation": "Hyperechoic structures appear bright.",
+      "explanationImage": null,
+      "tags": [
+        "Scan Lines, Brightness and Gray Scale"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch01-q056",
+      "stem": "A hypoechoic area appears:",
+      "image": null,
+      "options": [
+        "White",
+        "Bright with shadowing",
+        "Dark",
+        "Uniformly grey"
+      ],
+      "answer": 2,
+      "explanation": "Hypoechoic areas appear dark.",
+      "explanationImage": null,
+      "tags": [
+        "Scan Lines, Brightness and Gray Scale"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch01-q057",
+      "stem": "An anechoic structure:",
+      "image": null,
+      "options": [
+        "Is the brightest on the image",
+        "Produces virtually no echoes and appears black",
+        "Contains calcification",
+        "Is a tissue–air interface"
+      ],
+      "answer": 1,
+      "explanation": "Anechoic structures produce virtually no echoes and look black.",
+      "explanationImage": null,
+      "tags": [
+        "Scan Lines, Brightness and Gray Scale"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch01-q058",
+      "stem": "Which of the following typically appears bright because it is a strong reflector?",
+      "image": null,
+      "options": [
+        "Bile",
+        "Urine",
+        "Blood in the ventricles",
+        "The diaphragm"
+      ],
+      "answer": 3,
+      "explanation": "The diaphragm is a strong reflector; the others are fluids.",
+      "explanationImage": null,
+      "tags": [
+        "Scan Lines, Brightness and Gray Scale"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch01-q059",
+      "stem": "Weak reflectors are typically:",
+      "image": null,
+      "options": [
+        "Fluid-filled structures",
+        "Calcifications",
+        "Air interfaces",
+        "The diaphragm"
+      ],
+      "answer": 0,
+      "explanation": "Fluid-filled structures are weak reflectors.",
+      "explanationImage": null,
+      "tags": [
+        "Scan Lines, Brightness and Gray Scale"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch01-q060",
+      "stem": "Blood normally appears dark in cardiac images because:",
+      "image": null,
+      "options": [
+        "It is completely echo-free",
+        "It absorbs all ultrasound",
+        "Red blood cells produce weak backscatter",
+        "It has the highest impedance"
+      ],
+      "answer": 2,
+      "explanation": "Red blood cells give weak backscatter; blood is not totally echo-free.",
+      "explanationImage": null,
+      "tags": [
+        "Scan Lines, Brightness and Gray Scale"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch01-q061",
+      "stem": "Different gray shades within tissue are caused by:",
+      "image": null,
+      "options": [
+        "Gel thickness",
+        "Scattering of the sound wave",
+        "Transducer colour",
+        "Monitor size"
+      ],
+      "answer": 1,
+      "explanation": "Gray shades within tissue come from scattering.",
+      "explanationImage": null,
+      "tags": [
+        "Scan Lines, Brightness and Gray Scale"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch01-q062",
+      "stem": "An image that is too bright or too dark may reflect:",
+      "image": null,
+      "options": [
+        "A true tissue characteristic only",
+        "A faulty monitor only",
+        "Wrong patient identity",
+        "Poor optimization (for example, gain settings)"
+      ],
+      "answer": 3,
+      "explanation": "Wrong brightness may reflect poor optimization such as gain.",
+      "explanationImage": null,
+      "tags": [
+        "Scan Lines, Brightness and Gray Scale"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch01-q063",
+      "stem": "Gray scale imaging is also known as:",
+      "image": null,
+      "options": [
+        "B-mode imaging",
+        "A-mode imaging",
+        "M-mode imaging",
+        "Doppler imaging"
+      ],
+      "answer": 0,
+      "explanation": "Gray scale imaging is B-mode.",
+      "explanationImage": null,
+      "tags": [
+        "Scan Lines, Brightness and Gray Scale"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch01-q064",
+      "stem": "Intermediate gray levels in the myocardium reveal:",
+      "image": null,
+      "options": [
+        "Blood velocity",
+        "Transducer frequency",
+        "Tissue texture",
+        "Gain settings only"
+      ],
+      "answer": 2,
+      "explanation": "Intermediate gray levels reveal tissue texture.",
+      "explanationImage": null,
+      "tags": [
+        "Scan Lines, Brightness and Gray Scale"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch01-q065",
+      "stem": "A-mode displays echoes as:",
+      "image": null,
+      "options": [
+        "Brightness-coded pixels",
+        "A 3D volume",
+        "Colour-coded flow",
+        "Amplitude spikes along a depth axis"
+      ],
+      "answer": 3,
+      "explanation": "A-mode shows amplitude spikes.",
+      "explanationImage": null,
+      "tags": [
+        "Display Modes: A-, B- and M-mode"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch01-q066",
+      "stem": "In A-mode, the position of each spike represents:",
+      "image": null,
+      "options": [
+        "Echo amplitude",
+        "Reflector depth",
+        "Blood velocity",
+        "Frame rate"
+      ],
+      "answer": 1,
+      "explanation": "Spike position shows depth.",
+      "explanationImage": null,
+      "tags": [
+        "Display Modes: A-, B- and M-mode"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch01-q067",
+      "stem": "A-mode is still used in:",
+      "image": null,
+      "options": [
+        "Ophthalmology and precise distance measurement",
+        "Routine abdominal imaging",
+        "Routine echocardiography",
+        "3D imaging"
+      ],
+      "answer": 0,
+      "explanation": "A-mode is used in ophthalmology and precise distance measurement.",
+      "explanationImage": null,
+      "tags": [
+        "Display Modes: A-, B- and M-mode"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch01-q068",
+      "stem": "In B-mode, the letter \"B\" stands for:",
+      "image": null,
+      "options": [
+        "Blood",
+        "Beam",
+        "Brightness",
+        "Bone"
+      ],
+      "answer": 2,
+      "explanation": "B stands for brightness.",
+      "explanationImage": null,
+      "tags": [
+        "Display Modes: A-, B- and M-mode"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch01-q069",
+      "stem": "M-mode displays:",
+      "image": null,
+      "options": [
+        "A 3D volume",
+        "Motion along a single ultrasound beam over time",
+        "Many parallel beams at once",
+        "Colour-coded Doppler shifts"
+      ],
+      "answer": 1,
+      "explanation": "M-mode shows motion along one beam over time.",
+      "explanationImage": null,
+      "tags": [
+        "Display Modes: A-, B- and M-mode"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch01-q070",
+      "stem": "On an M-mode display, the horizontal axis represents:",
+      "image": null,
+      "options": [
+        "Time",
+        "Depth",
+        "Frequency",
+        "Amplitude"
+      ],
+      "answer": 0,
+      "explanation": "The horizontal axis is time.",
+      "explanationImage": null,
+      "tags": [
+        "Display Modes: A-, B- and M-mode"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch01-q071",
+      "stem": "M-mode has very high temporal resolution because:",
+      "image": null,
+      "options": [
+        "It uses many scan lines",
+        "It uses the lowest frequency",
+        "It averages several frames",
+        "Only one beam line is sampled repeatedly"
+      ],
+      "answer": 3,
+      "explanation": "One beam is sampled repeatedly, giving excellent temporal resolution.",
+      "explanationImage": null,
+      "tags": [
+        "Display Modes: A-, B- and M-mode"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch01-q072",
+      "stem": "Temporal resolution refers to:",
+      "image": null,
+      "options": [
+        "The ability to separate two close objects side by side",
+        "The range of gray shades",
+        "How well ultrasound shows motion over time",
+        "The depth of penetration"
+      ],
+      "answer": 2,
+      "explanation": "Temporal resolution is how well motion is shown over time.",
+      "explanationImage": null,
+      "tags": [
+        "Display Modes: A-, B- and M-mode"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch01-q073",
+      "stem": "In a linear scan format, the ultrasound beams are:",
+      "image": null,
+      "options": [
+        "Parallel to one another",
+        "Spread from a single point",
+        "Arranged in curved groups only",
+        "Rotated mechanically"
+      ],
+      "answer": 0,
+      "explanation": "Linear beams are parallel.",
+      "explanationImage": null,
+      "tags": [
+        "Scan Formats: Linear, Sector and Curvilinear"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch01-q074",
+      "stem": "A linear transducer produces an image that is:",
+      "image": null,
+      "options": [
+        "Fan-shaped",
+        "Circular",
+        "Rectangular",
+        "Triangular"
+      ],
+      "answer": 2,
+      "explanation": "Linear images are rectangular.",
+      "explanationImage": null,
+      "tags": [
+        "Scan Formats: Linear, Sector and Curvilinear"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch01-q075",
+      "stem": "Linear transducers are commonly used for:",
+      "image": null,
+      "options": [
+        "Adult echocardiography through the ribs",
+        "Superficial structures such as vessels, thyroid and breast",
+        "Deep abdominal imaging",
+        "Transoesophageal imaging"
+      ],
+      "answer": 1,
+      "explanation": "Linear probes suit superficial structures.",
+      "explanationImage": null,
+      "tags": [
+        "Scan Formats: Linear, Sector and Curvilinear"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch01-q076",
+      "stem": "Linear transducers are not normally used for routine adult echocardiography because:",
+      "image": null,
+      "options": [
+        "They cannot produce images",
+        "Their frequency is too low",
+        "Their beams are not parallel",
+        "Their larger footprint does not fit between the ribs"
+      ],
+      "answer": 3,
+      "explanation": "The large footprint does not fit between ribs.",
+      "explanationImage": null,
+      "tags": [
+        "Scan Formats: Linear, Sector and Curvilinear"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch01-q077",
+      "stem": "A sector (phased-array) image is produced by:",
+      "image": null,
+      "options": [
+        "Electronically steering beams from a small footprint",
+        "Parallel beams starting at different elements",
+        "Mechanically rotating a flat probe",
+        "Sampling one beam over time"
+      ],
+      "answer": 0,
+      "explanation": "Phased arrays steer beams electronically from a small footprint.",
+      "explanationImage": null,
+      "tags": [
+        "Scan Formats: Linear, Sector and Curvilinear"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch01-q078",
+      "stem": "The sector image has which typical shape?",
+      "image": null,
+      "options": [
+        "Rectangular",
+        "Square",
+        "Fan-shaped",
+        "Cylindrical"
+      ],
+      "answer": 2,
+      "explanation": "Sector images are fan-shaped.",
+      "explanationImage": null,
+      "tags": [
+        "Scan Formats: Linear, Sector and Curvilinear"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch01-q079",
+      "stem": "In a sector image, the field of view:",
+      "image": null,
+      "options": [
+        "Narrows with depth",
+        "Widens with depth",
+        "Stays constant",
+        "Depends on the gel used"
+      ],
+      "answer": 1,
+      "explanation": "The sector widens with depth.",
+      "explanationImage": null,
+      "tags": [
+        "Scan Formats: Linear, Sector and Curvilinear"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch01-q080",
+      "stem": "In a sector image, lateral resolution generally:",
+      "image": null,
+      "options": [
+        "Improves with depth",
+        "Stays constant with depth",
+        "Improves only in the near field",
+        "Decreases with depth because scan lines spread apart"
+      ],
+      "answer": 3,
+      "explanation": "Diverging scan lines reduce lateral resolution with depth.",
+      "explanationImage": null,
+      "tags": [
+        "Scan Formats: Linear, Sector and Curvilinear"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch01-q081",
+      "stem": "The curvilinear format is described as:",
+      "image": null,
+      "options": [
+        "A combination of linear and sector characteristics",
+        "Parallel beams only",
+        "A single-beam motion display",
+        "A small-footprint cardiac format"
+      ],
+      "answer": 0,
+      "explanation": "Curvilinear combines linear and sector features.",
+      "explanationImage": null,
+      "tags": [
+        "Scan Formats: Linear, Sector and Curvilinear"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch01-q082",
+      "stem": "Curved-linear transducers are commonly used for:",
+      "image": null,
+      "options": [
+        "Adult echocardiography",
+        "Carotid studies",
+        "Abdominal, pelvic and obstetric imaging",
+        "Eye examinations"
+      ],
+      "answer": 2,
+      "explanation": "Used for abdominal, pelvic and obstetric imaging.",
+      "explanationImage": null,
+      "tags": [
+        "Scan Formats: Linear, Sector and Curvilinear"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch01-q083",
+      "stem": "A curved-linear array forms its image by:",
+      "image": null,
+      "options": [
+        "Steering beams from a very small footprint",
+        "Activating groups of elements sequentially along its curved face",
+        "Rotating a single crystal",
+        "Sampling one beam repeatedly"
+      ],
+      "answer": 1,
+      "explanation": "Groups of elements fire sequentially along the curved face.",
+      "explanationImage": null,
+      "tags": [
+        "Scan Formats: Linear, Sector and Curvilinear"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch01-q084",
+      "stem": "A phased array differs from a curved-linear array in that it:",
+      "image": null,
+      "options": [
+        "Uses no electronics",
+        "Produces parallel scan lines",
+        "Has a flat, wide face",
+        "Electronically steers beams from a much smaller footprint"
+      ],
+      "answer": 3,
+      "explanation": "A phased array steers from a much smaller footprint.",
+      "explanationImage": null,
+      "tags": [
+        "Scan Formats: Linear, Sector and Curvilinear"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch01-q085",
+      "stem": "Cardiac imaging typically uses frequencies of about:",
+      "image": null,
+      "options": [
+        "2–5 MHz",
+        "20–50 MHz",
+        "100–200 kHz",
+        "20 Hz–2 kHz"
+      ],
+      "answer": 0,
+      "explanation": "Cardiac imaging uses about 2–5 MHz.",
+      "explanationImage": null,
+      "tags": [
+        "Scan Formats: Linear, Sector and Curvilinear"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch01-q086",
+      "stem": "Why is the sector format well suited to cardiac imaging?",
+      "image": null,
+      "options": [
+        "The heart is very superficial",
+        "Beams must remain parallel",
+        "The heart lies behind ribs and lungs, and a small footprint fits between the ribs",
+        "Gel is not required"
+      ],
+      "answer": 2,
+      "explanation": "A small footprint fits between ribs; the heart lies behind ribs and lungs.",
+      "explanationImage": null,
+      "tags": [
+        "Scan Formats: Linear, Sector and Curvilinear"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch01-q087",
+      "stem": "Air in the lungs interferes with cardiac imaging because it:",
+      "image": null,
+      "options": [
+        "Absorbs the gel",
+        "Prevents effective transmission of the beam",
+        "Increases the frame rate",
+        "Creates Doppler shifts"
+      ],
+      "answer": 1,
+      "explanation": "Lung air prevents effective beam transmission.",
+      "explanationImage": null,
+      "tags": [
+        "Scan Formats: Linear, Sector and Curvilinear"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch01-q088",
+      "stem": "Complete the memory aid: \"Linear is straight, Sector spreads, Curvilinear …\"",
+      "image": null,
+      "options": [
+        "Rotates",
+        "Narrows",
+        "Reflects",
+        "Combines the advantages of both"
+      ],
+      "answer": 3,
+      "explanation": "Curvilinear combines the advantages of both.",
+      "explanationImage": null,
+      "tags": [
+        "Scan Formats: Linear, Sector and Curvilinear"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch01-q089",
+      "stem": "In a linear format, each scan line:",
+      "image": null,
+      "options": [
+        "Begins at a different element position",
+        "Begins at the same point",
+        "Begins only at the centre of the transducer",
+        "Begins at the focus"
+      ],
+      "answer": 0,
+      "explanation": "Each linear scan line starts at a different element position.",
+      "explanationImage": null,
+      "tags": [
+        "Scan Formats: Linear, Sector and Curvilinear"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch01-q090",
+      "stem": "A 2D ultrasound image displays:",
+      "image": null,
+      "options": [
+        "A volume of tissue",
+        "Blood velocity only",
+        "A single cross-sectional plane",
+        "Only motion over time"
+      ],
+      "answer": 2,
+      "explanation": "2D shows one cross-sectional plane.",
+      "explanationImage": null,
+      "tags": [
+        "2D, 3D and Doppler"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch01-q091",
+      "stem": "A 3D ultrasound dataset:",
+      "image": null,
+      "options": [
+        "Is a volume that can be rotated and cropped to view from any angle",
+        "Shows only one plane",
+        "Is sampled along a single beam",
+        "Is audio-only"
+      ],
+      "answer": 0,
+      "explanation": "3D is a volume that can be rotated and viewed from any angle.",
+      "explanationImage": null,
+      "tags": [
+        "2D, 3D and Doppler"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch01-q092",
+      "stem": "3D echocardiography is particularly useful for:",
+      "image": null,
+      "options": [
+        "Measuring blood velocity",
+        "Replacing coupling gel",
+        "Detecting gallstones",
+        "En-face views of the mitral valve and guiding structural procedures"
+      ],
+      "answer": 3,
+      "explanation": "3D gives en-face mitral valve views and guides structural procedures.",
+      "explanationImage": null,
+      "tags": [
+        "2D, 3D and Doppler"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch01-q093",
+      "stem": "The relationship between 3D and 2D echocardiography is that 3D:",
+      "image": null,
+      "options": [
+        "Completely replaces 2D",
+        "Supplements 2D when extra spatial information is needed",
+        "Is never used in cardiac imaging",
+        "Always has a higher frame rate than 2D"
+      ],
+      "answer": 1,
+      "explanation": "3D supplements, and does not replace, 2D.",
+      "explanationImage": null,
+      "tags": [
+        "2D, 3D and Doppler"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch01-q094",
+      "stem": "The Doppler effect is:",
+      "image": null,
+      "options": [
+        "Reflection at an impedance mismatch",
+        "Conversion of electrical energy to sound",
+        "A change in frequency of echoes returning from moving targets",
+        "A change in brightness with depth"
+      ],
+      "answer": 2,
+      "explanation": "Doppler is a frequency shift from moving targets.",
+      "explanationImage": null,
+      "tags": [
+        "2D, 3D and Doppler"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch01-q095",
+      "stem": "Echoes from red blood cells moving toward the transducer return with:",
+      "image": null,
+      "options": [
+        "A higher frequency",
+        "A lower frequency",
+        "The same frequency",
+        "No echo"
+      ],
+      "answer": 0,
+      "explanation": "Motion toward the transducer raises the echo frequency.",
+      "explanationImage": null,
+      "tags": [
+        "2D, 3D and Doppler"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch01-q096",
+      "stem": "The Doppler frequency shift provides information about:",
+      "image": null,
+      "options": [
+        "Tissue density",
+        "Depth only",
+        "Gel quality",
+        "Direction and velocity of blood flow"
+      ],
+      "answer": 3,
+      "explanation": "The shift gives direction and velocity of flow.",
+      "explanationImage": null,
+      "tags": [
+        "2D, 3D and Doppler"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch01-q097",
+      "stem": "In medicine, Doppler is used to:",
+      "image": null,
+      "options": [
+        "Detect gallstones",
+        "Monitor a baby's heart rate during delivery",
+        "Measure bone length",
+        "Set the gain"
+      ],
+      "answer": 1,
+      "explanation": "Doppler monitors a baby's heart rate during delivery.",
+      "explanationImage": null,
+      "tags": [
+        "2D, 3D and Doppler"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch01-q098",
+      "stem": "Colour Doppler information is displayed superimposed on:",
+      "image": null,
+      "options": [
+        "The B-mode gray scale image",
+        "An A-mode spike display",
+        "An M-mode trace only",
+        "Nothing; it is shown alone"
+      ],
+      "answer": 0,
+      "explanation": "Colour Doppler is overlaid on the B-mode image.",
+      "explanationImage": null,
+      "tags": [
+        "2D, 3D and Doppler"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch01-q099",
+      "stem": "Differences in tissue stiffness and density create:",
+      "image": null,
+      "options": [
+        "Doppler shifts",
+        "Scan lines",
+        "Interfaces",
+        "Gel layers"
+      ],
+      "answer": 2,
+      "explanation": "Stiffness and density differences create interfaces.",
+      "explanationImage": null,
+      "tags": [
+        "2D, 3D and Doppler"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch01-q100",
+      "stem": "Which statement best summarises how echoes form the image?",
+      "image": null,
+      "options": [
+        "Weaker echoes are displayed brighter",
+        "A greater impedance difference gives a stronger echo and a brighter dot",
+        "One pulse forms the entire image",
+        "Echo amplitude determines the depth of the dot"
+      ],
+      "answer": 1,
+      "explanation": "Greater difference gives a stronger echo and a brighter dot.",
+      "explanationImage": null,
+      "tags": [
+        "2D, 3D and Doppler"
+      ],
+      "reference": ""
+    }
+  ]
+}

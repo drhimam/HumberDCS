@@ -1,0 +1,602 @@
+Section 0: Lecture 4 Review
+1. Ultrasound can be produced in which two basic ways?
+A) Static and dynamic
+B) Continuous wave and pulsed wave
+C) Longitudinal and transverse
+D) Linear and curved
+2. Pulsed ultrasound alternates between:
+A) Transmit periods and receive periods
+B) High and low frequency
+C) Compression and rarefaction only
+D) Two different transducers
+3. In pulsed ultrasound, the "on time" is when the system:
+A) Receives echoes
+B) Stores images
+C) Transmits a pulse
+D) Adjusts gain
+4. In pulsed ultrasound, the "off time" is when the system:
+A) Transmits a pulse
+B) Powers down
+C) Changes frequency
+D) Receives returning echoes
+5. Continuous-wave ultrasound:
+A) Transmits continuously
+B) Alternates transmit and receive
+C) Uses only one cycle
+D) Has gaps between pulses
+6. Pulsed ultrasound is required for 2D imaging because it:
+A) Uses a higher frequency
+B) Provides measurable echo-return time for depth (range) information
+C) Needs no off time
+D) Produces continuous echoes
+7. Continuous wave cannot produce range-resolved B-mode imaging because it lacks a:
+A) Frequency
+B) Wavelength
+C) Pulse-timing reference
+D) Transducer
+8. Multiple scan lines, each from a pulse, form a:
+A) 2D image
+B) Single cycle
+C) Continuous wave
+D) Spectral trace only
+9. Ranging is also known as:
+A) Attenuation
+B) Refraction
+C) Interference
+D) Echo location
+10. Every echo displayed on the screen represents sound that:
+A) Travelled only into the body
+B) Travelled to a reflector and back to the transducer (round trip)
+C) Never left the transducer
+D) Travelled in a vacuum
+11. The round-trip travel time of ultrasound in soft tissue is about:
+A) 13 µs per cm of depth
+B) 1.3 µs per cm
+C) 130 µs per cm
+D) 13 ms per cm
+12. The speed of sound assumed by ultrasound systems in soft tissue is:
+A) 330 m/s
+B) 4080 m/s
+C) 1540 m/s
+D) 15,400 m/s
+13. The range equation is:
+A) Depth = (propagation speed × time) ÷ 2
+B) Depth = propagation speed × time
+C) Depth = time ÷ propagation speed
+D) Depth = propagation speed ÷ 2
+14. The echo travel time is divided by two because:
+A) Sound slows down in tissue
+B) The echo travels to the reflector and back, so only half the time is the one-way distance
+C) Frequency doubles
+D) Gain doubles
+15. An echo returns 26 µs after the pulse. The reflector depth is:
+A) 1 cm
+B) 4 cm
+C) 2 cm
+D) 13 cm
+16. An echo returns 65 µs after the pulse. The reflector depth is:
+A) 13 cm
+B) 10 cm
+C) 6.5 cm
+D) 5 cm
+17. The round-trip time for a reflector at 8 cm is:
+A) 104 µs
+B) 52 µs
+C) 13 µs
+D) 208 µs
+18. An echo returns after 39 µs. The depth is:
+A) 2 cm
+B) 3 cm
+C) 6 cm
+D) 39 cm
+19. Which list contains the five parameters of pulsed sound?
+A) PD, SPL, PRP, PRF, DF
+B) Frequency, period, wavelength, speed, amplitude
+C) Power, intensity, amplitude, gain, TGC
+D) PD, SPL, c, f, T
+20. Cycles grouped together with gaps between them form:
+A) A continuous wave
+B) A single cycle
+C) Pulsed ultrasound
+D) A standing wave
+21. The gap between pulses is the:
+A) On time
+B) Off time (receive phase)
+C) Pulse duration
+D) Wavelength
+22. Pulse duration (PD) is:
+A) The time between the start of one pulse and the next
+B) The number of pulses per second
+C) The distance a pulse occupies
+D) The time for a pulse to occur
+23. The unit of pulse duration is:
+A) Microsecond
+B) Hertz
+C) Millimetre
+D) Percent
+24. Pulse duration includes:
+A) Transmit and receive time
+B) Transmit (on) time only
+C) Receive (off) time only
+D) Listening time
+25. Pulse duration is calculated as:
+A) Wavelength × number of cycles
+B) Frequency × number of cycles
+C) Number of cycles × period
+D) PRP ÷ number of cycles
+26. If the period increases while the number of cycles stays the same, pulse duration:
+A) Increases
+B) Decreases
+C) Stays the same
+D) Becomes zero
+27. If the number of cycles per pulse increases at the same frequency, pulse duration:
+A) Decreases
+B) Stays the same
+C) Increases
+D) Is halved
+28. A pulse has 4 cycles at 2 MHz. The pulse duration is:
+A) 0.5 µs
+B) 2 µs
+C) 8 µs
+D) 4 µs
+29. A pulse has 3 cycles at 5 MHz. The pulse duration is:
+A) 1.5 µs
+B) 0.2 µs
+C) 15 µs
+D) 0.6 µs
+30. Two pulses both have 5 cycles, one at 5 MHz and one at 10 MHz. The 10 MHz pulse duration is:
+A) Half that of the 5 MHz pulse
+B) Double that of the 5 MHz pulse
+C) The same as the 5 MHz pulse
+D) Four times longer
+31. B-mode imaging typically uses pulses of about:
+A) 50–100 cycles
+B) 5–30 cycles
+C) 2–3 cycles
+D) 1 continuous cycle
+32. Doppler pulses are typically:
+A) 2–3 cycles
+B) 5–30 cycles (longer)
+C) 1 cycle
+D) Infinite
+33. Continuous wave Doppler is characterised by:
+A) Very short pulses
+B) 5–30 cycles per pulse
+C) 2–3 cycles per pulse
+D) No pulsing; the signal is on continuously
+34. Is pulse duration directly adjustable by the sonographer?
+A) No
+B) Yes, using the depth control
+C) Yes, using the gain control
+D) Yes, using TGC
+35. Pulse duration depends on:
+A) Imaging depth and PRF
+B) Gain and TGC
+C) Cycles per pulse and period
+D) Frame rate only
+36. The period of a pulse is determined by the:
+A) Imaging depth
+B) Operating frequency
+C) Number of scan lines
+D) Gain
+37. Changing the operating frequency can:
+A) Indirectly change pulse duration
+B) Not affect pulse duration at all
+C) Change PRF directly only
+D) Change propagation speed
+38. A shorter pulse duration improves:
+A) Penetration
+B) Echo brightness
+C) Frame time
+D) Axial resolution
+39. If cycles per pulse stay the same and frequency increases, pulse duration:
+A) Increases
+B) Stays the same
+C) Decreases
+D) Becomes infinite
+40. A shorter pulse duration reduces:
+A) Frequency
+B) Echo overlap
+C) Propagation speed
+D) Depth
+41. Spatial pulse length (SPL) is:
+A) The length of space occupied by one pulse
+B) The time for one pulse
+C) The time between pulses
+D) The number of pulses per second
+42. SPL is calculated as:
+A) Period × number of cycles
+B) Frequency × cycles
+C) Wavelength × number of cycles
+D) Speed ÷ cycles
+43. A common unit for SPL in diagnostic ultrasound is the:
+A) Microsecond
+B) Hertz
+C) Percent
+D) Millimetre
+44. A pulse of 4 cycles at 2 MHz in soft tissue (λ = 0.77 mm) has an SPL of:
+A) 3.08 mm
+B) 0.77 mm
+C) 1.54 mm
+D) 6.16 mm
+45. A pulse of 3 cycles with a wavelength of 0.5 mm has an SPL of:
+A) 0.5 mm
+B) 1.5 mm
+C) 3.5 mm
+D) 0.17 mm
+46. A longer wavelength gives a:
+A) Shorter SPL
+B) Shorter PD only
+C) Higher PRF
+D) Longer SPL
+47. Fewer cycles per pulse give a:
+A) Longer SPL
+B) Higher DF only
+C) Shorter SPL
+D) Longer wavelength
+48. If cycles per pulse remain unchanged, a higher frequency:
+A) Shortens SPL
+B) Lengthens SPL
+C) Does not change SPL
+D) Changes PRP only
+49. Is SPL directly adjustable by the sonographer?
+A) Yes, by changing depth
+B) No
+C) Yes, by changing gain
+D) Yes, by changing PRF
+50. A shorter SPL improves:
+A) Penetration
+B) Brightness
+C) Duty factor
+D) Axial resolution
+51. Which two pulsed parameters do NOT depend on imaging depth?
+A) PRP and PRF
+B) PRF and DF
+C) PD and SPL
+D) PRP and DF
+52. Which three pulsed parameters change with imaging depth?
+A) PRP, PRF and DF
+B) PD, SPL and DF
+C) PD, PRP and PRF
+D) SPL, PRF and DF
+53. Pulse repetition period (PRP) is the time:
+A) For one pulse to occur
+B) From the start of one pulse to the start of the next
+C) For one cycle
+D) Occupied by the off time only
+54. PRP includes:
+A) Transmit time only
+B) Receive time only
+C) Transmit time and receive time
+D) Frame time
+55. PRP is measured in:
+A) Hertz
+B) Millimetres
+C) Watts
+D) Microseconds or milliseconds
+56. Greater imaging depth produces a:
+A) Longer PRP
+B) Shorter PRP
+C) Higher PRF
+D) Shorter PD
+57. The PRP for an imaging depth of 10 cm is about:
+A) 13 µs
+B) 130 µs
+C) 26 µs
+D) 1300 µs
+58. The PRP for an imaging depth of 4 cm is about:
+A) 13 µs
+B) 26 µs
+C) 52 µs
+D) 104 µs
+59. The minimum PRP must allow:
+A) The pulse to be doubled
+B) The gain to be applied
+C) The frame to be stored
+D) Echoes from the deepest reflector to return
+60. PRP and PRF describe:
+A) The timing between pulses
+B) A single cycle
+C) The wave frequency
+D) The wavelength
+61. Period and frequency describe:
+A) The timing between pulses
+B) A single wave (cycle)
+C) The pulse repetition
+D) The depth
+62. Pulse repetition frequency (PRF) is the number of:
+A) Cycles per pulse
+B) Frames per second
+C) Pulses transmitted each second
+D) Scan lines per frame
+63. PRF is measured in:
+A) Microseconds
+B) Millimetres
+C) Percent
+D) Hertz or kilohertz
+64. The typical PRF range in clinical imaging is about:
+A) 1–10 kHz
+B) 1–10 MHz
+C) 1–10 Hz
+D) 100–1000 MHz
+65. PRF is the ______ of PRP.
+A) Square
+B) Reciprocal
+C) Product
+D) Difference
+66. A PRP of 250 µs corresponds to a PRF of:
+A) 25 kHz
+B) 2.5 kHz
+C) 4 kHz
+D) 40 kHz
+67. A PRF of 5 kHz corresponds to a PRP of:
+A) 5 µs
+B) 20 µs
+C) 2 ms
+D) 200 µs
+68. When imaging depth increases, PRF:
+A) Decreases
+B) Increases
+C) Stays the same
+D) Doubles
+69. A shallower imaging depth gives a:
+A) Lower PRF
+B) Higher PRF
+C) Longer PRP
+D) Lower frame rate
+70. At a depth of 10 cm, PRP is 130 µs, so PRF is approximately:
+A) 130 Hz
+B) 1.3 kHz
+C) 7.7 kHz
+D) 77 kHz
+71. At a depth of 5 cm, PRP is 65 µs, so PRF is approximately:
+A) 6.5 kHz
+B) 65 kHz
+C) 7.7 kHz
+D) 15.4 kHz
+72. PRF is determined by:
+A) Propagation speed and imaging depth
+B) Transducer frequency only
+C) Gain and TGC
+D) Number of cycles per pulse
+73. One single pulse corresponds to:
+A) One frame
+B) One scan line on the display
+C) One cycle
+D) One wavelength
+74. To maximise PRF, a sonographer should:
+A) Increase gain
+B) Decrease frequency
+C) Use the shallowest depth that includes the anatomy of interest
+D) Use the deepest depth possible
+75. A higher PRF can support a:
+A) Lower frame rate
+B) Longer PRP
+C) Longer SPL
+D) Higher frame rate and better temporal resolution
+76. Duty factor (DF) is the:
+A) Fraction (percentage) of time the system transmits
+B) Fraction of time the system receives
+C) Number of pulses per second
+D) Distance of one pulse
+77. Which formula gives duty factor?
+A) PRP / PD × 100
+B) PD / PRP × 100
+C) PD × PRP
+D) PRF / PD
+78. Duty factor is usually expressed as a:
+A) Time in microseconds
+B) Frequency in kHz
+C) Percentage
+D) Length in mm
+79. A pulse with PD = 2 µs and PRP = 200 µs has a duty factor of:
+A) 100%
+B) 10%
+C) 0.1%
+D) 1%
+80. A pulse with PD = 1 µs and PRP = 250 µs has a duty factor of:
+A) 0.4%
+B) 4%
+C) 25%
+D) 0.04%
+81. If pulse duration increases and PRP stays the same, duty factor:
+A) Decreases
+B) Increases
+C) Stays the same
+D) Becomes zero
+82. If PRP increases and PD stays the same, duty factor:
+A) Increases
+B) Stays the same
+C) Decreases
+D) Doubles
+83. Greater imaging depth produces a:
+A) Higher duty factor
+B) Shorter PRP
+C) Longer PD
+D) Lower duty factor
+84. Shallower imaging depth gives a:
+A) Higher duty factor
+B) Lower duty factor
+C) Lower PRF
+D) Longer PRP
+85. The duty factor of continuous-wave ultrasound is:
+A) 0%
+B) 100%
+C) 1%
+D) 50%
+86. The sonographer changes duty factor:
+A) Directly, by adjusting PD
+B) Directly, by adjusting SPL
+C) Indirectly, through imaging depth
+D) By changing the gain
+87. If the imaging depth is doubled, PRF is:
+A) Halved
+B) Doubled
+C) Unchanged
+D) Quadrupled
+88. If the imaging depth is doubled (PD constant), duty factor is:
+A) Doubled
+B) Unchanged
+C) Halved
+D) Quadrupled
+89. Frame rate is:
+A) The time to create one frame
+B) The number of frames per second
+C) The number of pulses per frame
+D) The number of cycles per pulse
+90. Frame time is:
+A) The number of frames per second
+B) The time between pulses
+C) The time required to create one complete frame
+D) The pulse duration
+91. Frame rate and frame time are:
+A) Directly proportional
+B) Unrelated
+C) Equal
+D) Reciprocals
+92. A frame time of 50 ms gives a frame rate of:
+A) 20 Hz
+B) 50 Hz
+C) 2 Hz
+D) 200 Hz
+93. A frame rate of 40 Hz gives a frame time of:
+A) 40 ms
+B) 2.5 ms
+C) 4 ms
+D) 25 ms
+94. If imaging depth increases (with the same number of scan lines), frame rate:
+A) Increases
+B) Decreases
+C) Stays the same
+D) Doubles
+95. Scanned modalities:
+A) Sweep the ultrasound beam across a region to build an image
+B) Transmit in the same direction repeatedly
+C) Use only continuous wave
+D) Produce a single line only
+96. Which is an example of a scanned modality?
+A) M-mode
+B) A-mode
+C) B-mode
+D) CW Doppler
+97. Non-scanned modalities:
+A) Sweep the beam across a wide field
+B) Transmit the acoustic beam in the same direction repeatedly
+C) Always form 3D images
+D) Cannot be used clinically
+98. Which is an example of a non-scanned modality?
+A) B-mode
+B) Power Doppler
+C) M-mode
+D) 3D imaging
+99. Compared with scanned modalities, non-scanned modalities present:
+A) Lower thermal risk
+B) No thermal risk
+C) A wider field of view
+D) Greater thermal risks
+100. In colour Doppler, multiple acoustic lines sent along one direction are generally called a:
+A) Colour packet
+B) Spectral gate
+C) Colour frame
+D) Duty cycle
+Part B – Answer Key and Explanations
+1. B – Ultrasound is produced as continuous wave (CW) or pulsed wave (PW).
+2. A – Pulsed ultrasound alternates transmit (on) and receive (off) periods.
+3. C – On time is when the system transmits a pulse.
+4. D – Off time is when the system listens for returning echoes.
+5. A – CW ultrasound transmits continuously with no gaps.
+6. B – Pulses give a measurable echo-return time, which allows depth to be calculated.
+7. C – CW has no pulse-timing reference, so it cannot create range-resolved B-mode images.
+8. A – Many scan lines together form a 2D image.
+9. D – Ranging is also called echo location.
+10. B – Each displayed echo left the transducer, reflected from a structure, and returned (round trip).
+11. A – About 13 µs of round-trip time is needed for every centimetre of depth.
+12. C – Systems assume 1540 m/s in soft tissue.
+13. A – Range = (c × t) ÷ 2.
+14. B – The measured time covers the trip to the reflector and back, so it is divided by two.
+15. C – 26 µs ÷ 13 µs/cm = 2 cm.
+16. D – 65 µs ÷ 13 = 5 cm.
+17. A – 8 cm × 13 µs/cm = 104 µs.
+18. B – 39 ÷ 13 = 3 cm.
+19. A – The five parameters are PD, SPL, PRP, PRF and DF.
+20. C – Cycles grouped with gaps between groups form pulsed ultrasound.
+21. B – The gap between pulses is the off time, when echoes are received.
+22. D – PD is the time for a pulse to occur (on time only).
+23. A – PD is measured in microseconds.
+24. B – PD represents transmit time only and does not include receive time.
+25. C – PD = number of cycles × period.
+26. A – A longer period means a longer PD for the same number of cycles.
+27. C – More cycles per pulse means a longer PD.
+28. B – T = 0.5 µs, so PD = 4 × 0.5 = 2 µs.
+29. D – T = 0.2 µs, so PD = 3 × 0.2 = 0.6 µs.
+30. A – 5 MHz: PD = 5 × 0.2 = 1 µs. 10 MHz: PD = 5 × 0.1 = 0.5 µs, which is half.
+31. C – B-mode uses very short pulses of about 2–3 cycles.
+32. B – Doppler uses longer pulses of about 5–30 cycles.
+33. D – CW Doppler has no pulsing; the signal is on continuously.
+34. A – PD is not directly adjustable by the sonographer.
+35. C – PD depends on cycles per pulse and the period.
+36. B – Period is determined by the operating frequency.
+37. A – Changing frequency changes the period, so it indirectly changes PD.
+38. D – Shorter PD supports better axial resolution.
+39. C – A higher frequency shortens the period, so PD decreases when the cycle count is unchanged.
+40. B – A shorter PD reduces echo overlap, which improves axial resolution.
+41. A – SPL is the length of space occupied by one pulse.
+42. C – SPL = wavelength × number of cycles.
+43. D – SPL is a length, commonly in millimetres.
+44. A – 4 × 0.77 mm = 3.08 mm.
+45. B – 3 × 0.5 mm = 1.5 mm.
+46. D – Longer wavelength means longer SPL.
+47. C – Fewer cycles per pulse means shorter SPL.
+48. A – A higher frequency shortens wavelength, so SPL shortens when cycles are unchanged.
+49. B – SPL is not directly adjustable.
+50. D – Shorter SPL improves axial resolution.
+51. C – PD and SPL depend on the source (cycles, frequency, medium), not on depth.
+52. A – PRP, PRF and DF change with imaging depth.
+53. B – PRP is measured from the start of one pulse to the start of the next.
+54. C – PRP = transmit (on) time + receive (off) time.
+55. D – PRP is measured in microseconds or milliseconds.
+56. A – Greater depth needs more listening time, so PRP is longer.
+57. B – 10 cm × 13 µs/cm = 130 µs.
+58. C – 4 × 13 = 52 µs.
+59. D – PRP must be long enough for echoes from the deepest reflector to return before the next pulse.
+60. A – PRP and PRF describe the timing between pulses.
+61. B – Period and frequency describe a single wave (cycle). They are different from PRP and PRF.
+62. C – PRF is the number of pulses transmitted each second.
+63. D – PRF is measured in Hz or kHz.
+64. A – Typical clinical imaging PRF is 1–10 kHz.
+65. B – PRF = 1/PRP.
+66. C – 1 ÷ 250 µs = 4000 Hz = 4 kHz.
+67. D – 1 ÷ 5000 Hz = 0.0002 s = 200 µs.
+68. A – PRF is inversely related to imaging depth.
+69. B – Shallower depth means shorter PRP and higher PRF.
+70. C – 1 ÷ 130 µs ≈ 7692 Hz ≈ 7.7 kHz.
+71. D – 1 ÷ 65 µs ≈ 15,385 Hz ≈ 15.4 kHz.
+72. A – PRF is determined by propagation velocity and imaging depth.
+73. B – One pulse produces one scan line of image information.
+74. C – The shallowest useful depth maximises PRF, which improves frame rate and temporal resolution.
+75. D – Higher PRF supports a higher frame rate and better temporal resolution.
+76. A – Duty factor is the percentage of time the system is transmitting.
+77. B – DF = (PD / PRP) × 100.
+78. C – DF is expressed as a percentage.
+79. D – 2 ÷ 200 = 0.01, which is 1%.
+80. A – 1 ÷ 250 = 0.004, which is 0.4%.
+81. B – PD and DF move in the same direction.
+82. C – PRP and DF move in opposite directions.
+83. D – Greater depth means longer PRP and therefore lower DF.
+84. A – Shallower depth means shorter PRP and therefore higher DF.
+85. B – CW is always transmitting, so DF = 100%.
+86. C – PD is not adjusted directly, so DF changes indirectly through depth (PRP).
+87. A – Depth doubles, so PRP doubles and PRF is halved.
+88. C – Depth doubles, so PRP doubles; with PD constant, DF is halved.
+89. B – Frame rate is the number of frames per second.
+90. C – Frame time is the time needed to create one complete frame.
+91. D – Frame rate = 1 / frame time.
+92. A – 1 ÷ 0.050 s = 20 Hz.
+93. D – 1 ÷ 40 Hz = 0.025 s = 25 ms.
+94. B – Greater depth lowers PRF, so frames take longer to build and frame rate falls.
+95. A – Scanned modalities sweep the beam across a region to build an image.
+96. C – B-mode is a scanned modality. M-mode, A-mode and CW Doppler are non-scanned.
+97. B – Non-scanned modalities transmit the beam in the same direction repeatedly.
+98. C – M-mode is non-scanned (like A-mode, CW Doppler and single-gate PW Doppler).
+99. D – Non-scanned modalities present greater thermal risks than scanned modalities.
+100. A – Colour Doppler sends multiple acoustic lines per colour display line, called a colour packet.

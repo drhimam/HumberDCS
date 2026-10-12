@@ -1,0 +1,24 @@
+{
+  "summary": "Frontend-only testing of (a) Study Mode Calculator and key-gating and (b) Exam Setup Section Filter. All review-request scenarios pass: calculator opens in study mode via toggle-calculator-btn, 1540÷3E6 now correctly yields 5.1333E-4 (previous iteration bug fixed), while open digit keys 1-4 type into the calculator and do NOT answer the current question (expression shows '2', score stays 0/200), ArrowRight does not navigate, and after calculator-close-btn digits again select answers (score moves to 1/200). On /subject/DCS5004/exam: section-filter block renders with section-group-ch01/ch02/ch04/ch05 (ch03 correctly hidden because all its questions are 'General'), chips use the slugged ids (e.g. section-chip-ch04-duty-factor with count 16), clicking a chip excludes it, available count decreases (200→184 after excluding Duty Factor), summary-excluded-sections appears with count. sections-none-ch04 + enabling only Duty Factor yields exactly 16 questions available; starting an exam preserves the 'selected sections' label on the results page and the review items are all duty-factor questions. Deselecting a chapter removes its section-group and clears its exclusions from the summary. When only ch03 is selected, the fallback message 'The chosen chapters have no sections to filter.' is displayed. Exam calculator (regression), exam start/end flow, and results page still work.",
+  "backend_issues": {"critical": [], "minor": []},
+  "frontend_issues": {
+    "ui_bugs": [],
+    "integration_issues": [],
+    "design_issues": []
+  },
+  "test_report_links": [],
+  "action_items": [],
+  "critical_code_review_comments": [
+    "SectionFilter.groupSections uses first tag as section (sectionOf = q.tags?.[0] || 'General'); any multi-tag design would need revisiting but current data model is consistent.",
+    "ExamSetup activeExcluded correctly re-filters excludedSections when chapters are deselected, so stale exclusions don't bleed into other sessions. Nice.",
+    "Calculator E-notation bug from iteration_2 (1540÷3E6) is now fixed via the pre-MAP regex that converts 'aE[-]?b' to '(ae[-]?b)'. Verified empirically."
+  ],
+  "updated_files": [],
+  "success_rate": {"backend": "N/A", "frontend": "100% (all 7 scenarios in review request pass)"},
+  "test_credentials": "none (no auth)",
+  "seed_data_creation": "none",
+  "retest_needed": false,
+  "should_main_agent_self_test": false,
+  "context_for_next_testing_agent": "Study calculator and section filter features verified end-to-end on DCS5004. ch03 is treated as 'General only' and is hidden from the Section group; selecting only ch03 shows the fallback 'no sections to filter' message. Duty Factor section in ch04 set1 has 16 Qs matching spec. Exam label is only visible on the results page header (format 'DCS 5004 · 1 chapter(s) · selected sections · ...').",
+  "rca of the issue": "n/a"
+}

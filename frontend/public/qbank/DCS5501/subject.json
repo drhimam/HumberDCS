@@ -1,0 +1,28 @@
+{
+  "id": "DCS5501",
+  "code": "DCS 5501",
+  "title": "Valvular Disease",
+  "semester": "sem2",
+  "chapters": [
+    {
+      "id": "ch01",
+      "title": "Aortic Valve",
+      "file": "ch01.json"
+    },
+    {
+      "id": "ch02",
+      "title": "Mitral Valve",
+      "file": "ch02.json"
+    },
+    {
+      "id": "ch03",
+      "title": "Right-Sided Valves",
+      "file": "ch03.json"
+    },
+    {
+      "id": "ch04",
+      "title": "Prosthetic Valves",
+      "file": "ch04.json"
+    }
+  ]
+}

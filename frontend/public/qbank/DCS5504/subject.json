@@ -1,0 +1,28 @@
+{
+  "id": "DCS5504",
+  "code": "DCS 5504",
+  "title": "Physics and Instrumentation 2",
+  "semester": "sem2",
+  "chapters": [
+    {
+      "id": "ch01",
+      "title": "Tissue Doppler",
+      "file": "ch01.json"
+    },
+    {
+      "id": "ch02",
+      "title": "Strain Imaging",
+      "file": "ch02.json"
+    },
+    {
+      "id": "ch03",
+      "title": "3D Echo",
+      "file": "ch03.json"
+    },
+    {
+      "id": "ch04",
+      "title": "Bioeffects & Safety",
+      "file": "ch04.json"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": "DCS5004",
+  "code": "DCS 5004",
+  "title": "Physics and Instrumentation 1",
+  "semester": "sem1",
+  "chapters": [
+    {
+      "id": "ch01",
+      "title": "Module 1: Introduction to Sonography and Physics",
+      "file": "ch01.json"
+    },
+    {
+      "id": "ch02",
+      "title": "Module 2: Mathematical Concepts for Sonographers",
+      "file": "ch02.json"
+    },
+    {
+      "id": "ch03",
+      "title": "Module 3: Sound Waves and Acoustic Parameters",
+      "file": "ch03.json"
+    },
+    {
+      "id": "ch04",
+      "title": "Module 4: Pulsed Ultrasound Parameters and Timing",
+      "file": "ch04.json"
+    },
+    {
+      "id": "ch05",
+      "title": "Module 5: Transducer Design, Construction and Types",
+      "file": "ch05.json"
+    }
+  ]
+}

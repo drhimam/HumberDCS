@@ -1,0 +1,28 @@
+{
+  "id": "DCS5002",
+  "code": "DCS 5002",
+  "title": "Cardiovascular Anatomy and Physiology",
+  "semester": "sem1",
+  "chapters": [
+    {
+      "id": "ch01",
+      "title": "Cardiac Chambers & Walls",
+      "file": "ch01.json"
+    },
+    {
+      "id": "ch02",
+      "title": "Coronary Circulation",
+      "file": "ch02.json"
+    },
+    {
+      "id": "ch03",
+      "title": "Cardiac Cycle & Pressures",
+      "file": "ch03.json"
+    },
+    {
+      "id": "ch04",
+      "title": "Hemodynamics & Cardiac Output",
+      "file": "ch04.json"
+    }
+  ]
+}

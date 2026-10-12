@@ -1,0 +1,602 @@
+Section 0: Lecture 2 Review
+1. Which term means to increase by a factor of 2?
+A) Half
+B) Double
+C) Quadruple
+D) Reciprocal
+2. "Quarters" means a value is:
+A) Multiplied by 4
+B) Divided by 2
+C) Divided by 4
+D) Multiplied by 2
+3. "Quadruples" means a value:
+A) Increases by 2
+B) Increases by a factor of 4
+C) Decreases by a factor of 4
+D) Increases by 4 units
+4. The reciprocal of a number is:
+A) Its negative
+B) Its square
+C) 1 divided by the number
+D) The number multiplied by 2
+5. In mathematical language, the word "factor" implies:
+A) Addition only
+B) Subtraction only
+C) Multiplication or division
+D) Rounding
+6. "Half" describes a value that has:
+A) Decreased by a factor of 2
+B) Decreased by a factor of 4
+C) Decreased by exactly 2 units
+D) Increased by a factor of 2
+7. What is the reciprocal of 4?
+A) 0.25
+B) 4
+C) −4
+D) 2
+8. If frequency triples, the period:
+A) Triples
+B) Becomes one-third
+C) Stays the same
+D) Doubles
+9. A linear relationship produces which type of graph?
+A) A curved line
+B) A straight line
+C) A circle
+D) No graph
+10. Which is an example of a nonlinear relationship from the lecture?
+A) Distance increasing with travel time at constant speed
+B) Intensity changing with amplitude squared
+C) Doubling depth doubling round-trip time
+D) Frequency and period as reciprocals of a straight-line plot
+11. In a linear relationship, the rate of change is:
+A) Constant
+B) Variable
+C) Always zero
+D) Always negative
+12. The graph of a directly proportional relationship is:
+A) A downward curve
+B) A straight line through zero
+C) A horizontal line
+D) A vertical line
+13. In direct proportionality, doubling one variable:
+A) Halves the other
+B) Doubles the other
+C) Leaves the other unchanged
+D) Quadruples the other
+14. Imaging depth and echo return time are:
+A) Inversely proportional
+B) Directly proportional
+C) Reciprocals
+D) Unrelated
+15. In inverse proportionality, the product of the two variables:
+A) Remains constant
+B) Doubles
+C) Becomes zero
+D) Becomes infinite
+16. The graph of an inverse relationship forms:
+A) A straight line through zero
+B) A downward curve
+C) A horizontal line
+D) A vertical line
+17. In an inverse relationship, doubling one variable:
+A) Doubles the other
+B) Halves the other
+C) Quadruples the other
+D) Does not change the other
+18. In a reciprocal relationship, the two variables multiply to equal:
+A) 0
+B) 1
+C) 2
+D) 10
+19. Which pair is an example of a reciprocal relationship?
+A) Amplitude and power
+B) Frequency and period
+C) Depth and time
+D) Intensity and area
+20. PRF and PRP are:
+A) Directly proportional
+B) Reciprocals of each other
+C) Unrelated
+D) Always equal
+21. Y is directly proportional to z and inversely proportional to k. Which expression fits?
+A) Y = z × k
+B) Y ∝ z / k
+C) Y ∝ k / z
+D) Y = z + k
+22. If x is directly proportional to y and y increases by a factor of 36, x will:
+A) Decrease by a factor of 36
+B) Increase by a factor of 36
+C) Increase by a factor of 6
+D) Stay the same
+23. If x and y are inversely proportional and x decreases by a factor of 19, y will:
+A) Decrease by a factor of 19
+B) Increase by a factor of 19
+C) Stay the same
+D) Decrease by a factor of 38
+24. A is inversely proportional to B. If B is doubled, A:
+A) Doubles
+B) Is halved
+C) Quadruples
+D) Is unchanged
+25. Which is NOT recommended when building a formula sheet?
+A) Writing what each variable represents
+B) Rearranging formulas for each variable
+C) Identifying direct, inverse and reciprocal relationships
+D) Memorizing formulas without understanding the variables
+26. According to the lecture, a unit:
+A) Gives meaning to a number
+B) Changes the value of a number
+C) Is optional in science
+D) Is only used in ultrasound
+27. The metric system is based on powers of:
+A) 2
+B) 10
+C) 12
+D) 16
+28. A metric prefix is:
+A) A modifier placed before a unit indicating a power of 10
+B) A suffix added after a unit
+C) A base unit
+D) A physical constant
+29. The prefix "kilo" represents:
+A) 10³
+B) 10⁶
+C) 10⁻³
+D) 10⁻⁶
+30. The prefix "milli" represents:
+A) 10³
+B) 10⁶
+C) 10⁻³
+D) 10⁻⁶
+31. The prefix "micro" represents:
+A) 10⁻³
+B) 10³
+C) 10⁶
+D) 10⁻⁶
+32. The prefix "mega" represents:
+A) 10³
+B) 10⁹
+C) 10⁶
+D) 10⁻⁶
+33. The prefix "nano" represents:
+A) 10⁻¹²
+B) 10⁻⁹
+C) 10⁻⁶
+D) 10⁹
+34. The prefix "centi" represents:
+A) 10⁻²
+B) 10²
+C) 10⁻³
+D) 10⁻¹
+35. Convert 4.5 cm to millimetres.
+A) 0.45 mm
+B) 45 mm
+C) 450 mm
+D) 4500 mm
+36. Convert 2 MHz to Hz.
+A) 2,000 Hz
+B) 200,000 Hz
+C) 2,000,000 Hz
+D) 2,000,000,000 Hz
+37. Convert 15 mm to cm.
+A) 150 cm
+B) 1.5 cm
+C) 0.15 cm
+D) 15,000 cm
+38. Convert 5 ms to seconds.
+A) 0.005 s
+B) 0.05 s
+C) 5000 s
+D) 0.0005 s
+39. 13 µs expressed in seconds in scientific notation is:
+A) 1.3 × 10⁻³ s
+B) 1.3 × 10⁻⁶ s
+C) 1.3 × 10⁻⁵ s
+D) 1.3 × 10⁻⁹ s
+40. 0.00032 in scientific notation is:
+A) 3.2 × 10⁴
+B) 3.2 × 10⁻⁴
+C) 3.2 × 10⁻³
+D) 3.2 × 10⁻⁵
+41. 6,500,000 in scientific notation is:
+A) 6.5 × 10⁵
+B) 65 × 10⁵
+C) 6.5 × 10⁷
+D) 6.5 × 10⁶
+42. Length measures:
+A) One dimension
+B) Two dimensions
+C) Three dimensions
+D) Time
+43. Area of a rectangle equals:
+A) Length × width
+B) Length + width
+C) Length × width × height
+D) Length ÷ width
+44. Which is a correct unit of area?
+A) cm
+B) cm²
+C) cm³
+D) mL
+45. Volume is calculated as:
+A) Length × width
+B) Length + width + height
+C) Length × width × height
+D) 2 × (length + width)
+46. 1 cm³ is equal to:
+A) 1 mL
+B) 10 mL
+C) 0.1 mL
+D) 100 mL
+47. A rectangle is 4 cm long and 3 cm wide. Its area is:
+A) 7 cm²
+B) 12 cm²
+C) 12 cm
+D) 24 cm²
+48. A structure measures 2 cm × 3 cm × 5 cm. Its volume in mL is:
+A) 10 mL
+B) 30 mL
+C) 300 mL
+D) 0.3 mL
+49. Which set lists units of time?
+A) s, ms, µs, ns
+B) m, cm, mm
+C) Hz, kHz, MHz
+D) W, mW, kW
+50. Which time unit is the smallest?
+A) Second
+B) Millisecond
+C) Microsecond
+D) Nanosecond
+51. 1 millisecond equals:
+A) 1000 s
+B) 0.001 s
+C) 0.000001 s
+D) 0.01 s
+52. 1000 µs equals:
+A) 1 s
+B) 1 ms
+C) 1 ns
+D) 0.1 ms
+53. Which ultrasound application uses logarithms?
+A) Decibels
+B) Hertz
+C) Pascals
+D) Metres
+54. What is log₁₀(100)?
+A) 1
+B) 2
+C) 10
+D) 100
+55. What is log₁₀(1000)?
+A) 2
+B) 4
+C) 3
+D) 10
+56. What is log₁₀(1)?
+A) 1
+B) 10
+C) 0
+D) Undefined
+57. What is log₁₀(10)?
+A) 0
+B) 1
+C) 10
+D) 100
+58. log₁₀(1000) = 3 written in exponential form is:
+A) 10³ = 1000
+B) 3¹⁰ = 1000
+C) 10 × 3 = 1000
+D) 1000³ = 10
+59. Logarithms are useful in ultrasound because they:
+A) Express large ratios compactly
+B) Measure only small numbers
+C) Measure only angles
+D) Replace units
+60. What is log₁₀(0.1)?
+A) 1
+B) −1
+C) 0.1
+D) 10
+61. sin 30° equals:
+A) 0.5
+B) 0.87
+C) 1
+D) 0
+62. cos 0° equals:
+A) 0
+B) 1
+C) 0.5
+D) 0.707
+63. cos 90° equals:
+A) 1
+B) 0.5
+C) 0
+D) −1
+64. sin 90° equals:
+A) 0
+B) 0.5
+C) 0.707
+D) 1
+65. sin 45° and cos 45° are both approximately:
+A) 0.5
+B) 0.866
+C) 0.707
+D) 1
+66. cos 60° equals:
+A) 0.866
+B) 0.5
+C) 0.707
+D) 0
+67. cos 30° is approximately:
+A) 0.5
+B) 0.707
+C) 0.87
+D) 1
+68. sin 0° equals:
+A) 1
+B) 0
+C) 0.5
+D) 0.707
+69. As an angle increases from 0° to 90°, its cosine:
+A) Increases from 0 to 1
+B) Decreases from 1 to 0
+C) Stays constant
+D) Becomes negative
+70. Angle conventions require:
+A) A clearly identified reference line
+B) No reference line
+C) Only radians
+D) Only the transducer face
+71. In reflection and refraction, incidence angles are conventionally measured relative to the:
+A) Boundary surface
+B) Normal (perpendicular) to the boundary
+C) Transducer cable
+D) Skin surface only
+72. Diagnostic test statistics help determine the:
+A) Accuracy and reliability of sonography findings
+B) Transducer frequency
+C) Imaging depth
+D) Gain setting
+73. Interpreting an anatomic image for a structural abnormality is an example of a:
+A) Qualitative assessment
+B) Quantitative assessment
+C) Logarithmic assessment
+D) Unit conversion
+74. Doppler values and other numeric data are examples of:
+A) Qualitative data
+B) Quantitative data
+C) Anatomic data
+D) Subjective data
+75. An echocardiogram used to evaluate aortic stenosis is an example of a:
+A) Diagnostic test
+B) Metric prefix
+C) Unit conversion
+D) Transducer type
+76. Sensitivity is the ability of a test to correctly identify:
+A) Patients who have the disease
+B) Patients who do not have the disease
+C) False positives
+D) Healthy patients only
+77. Specificity is the ability of a test to correctly identify:
+A) Patients with the disease
+B) Patients without the disease
+C) False negatives
+D) Positive results only
+78. Which formula gives sensitivity?
+A) TP / (TP + FN)
+B) TN / (TN + FP)
+C) TP / (TP + FP)
+D) TN / (TN + FN)
+79. Which formula gives specificity?
+A) TP / (TP + FP)
+B) TN / (TN + FP)
+C) TP / (TP + FN)
+D) TN / (TN + FN)
+80. Which formula gives positive predictive value (PPV)?
+A) TP / (TP + FN)
+B) TN / (TN + FP)
+C) TP / (TP + FP)
+D) TN / (TN + FN)
+81. Which formula gives negative predictive value (NPV)?
+A) TP / (TP + FN)
+B) TN / (TN + FP)
+C) TP / (TP + FP)
+D) TN / (TN + FN)
+82. Accuracy is calculated as:
+A) (TP + TN) / (TP + TN + FP + FN)
+B) TP / (TP + FN)
+C) TN / (TN + FP)
+D) FP / (FP + TN)
+83. A test finds 90 true positives and misses 10 diseased patients (false negatives). Sensitivity is:
+A) 90%
+B) 10%
+C) 80%
+D) 99%
+84. A test has 80 true negatives and 20 false positives. Specificity is:
+A) 20%
+B) 80%
+C) 100%
+D) 25%
+85. A test has 45 true positives and 5 false positives. PPV is:
+A) 5%
+B) 45%
+C) 90%
+D) 100%
+86. A test has 95 true negatives and 5 false negatives. NPV is:
+A) 5%
+B) 90%
+C) 100%
+D) 95%
+87. A study has TP = 40, TN = 50, FP = 5, FN = 5. Accuracy is:
+A) 90%
+B) 85%
+C) 80%
+D) 95%
+88. A false negative is a:
+A) Diseased patient with a negative test
+B) Healthy patient with a positive test
+C) Healthy patient with a negative test
+D) Diseased patient with a positive test
+89. A false positive is a:
+A) Diseased patient with a positive test
+B) Healthy patient with a positive test
+C) Diseased patient with a negative test
+D) Healthy patient with a negative test
+90. A highly sensitive test is most useful for:
+A) Ruling out disease when the result is negative
+B) Ruling in disease when the result is positive
+C) Measuring propagation speed
+D) Measuring pulse duration
+91. Pulse timing in Physics 1 involves which parameters?
+A) PRF, PRP and pulse duration
+B) Colour, gel and cables
+C) Only gain and TGC
+D) Only wavelength
+92. Attenuation in later modules uses which mathematical tools?
+A) Ratios, logarithms and decibels
+B) Angles only
+C) Time only
+D) Volumes only
+93. Which ultrasound task is listed as using mathematics?
+A) Imaging depth calculations
+B) Pulse timing relationships
+C) Doppler velocity estimation
+D) All of the above
+94. If f = 5 MHz, the period T is:
+A) 0.2 µs
+B) 5 µs
+C) 0.5 µs
+D) 2 µs
+95. If the period is 0.5 µs, the frequency is:
+A) 0.5 MHz
+B) 2 MHz
+C) 5 MHz
+D) 0.2 MHz
+96. If PRP = 200 µs, the PRF is:
+A) 2 kHz
+B) 5 kHz
+C) 50 kHz
+D) 0.5 kHz
+97. If imaging depth doubles, round-trip echo time:
+A) Doubles
+B) Halves
+C) Is quartered
+D) Is unchanged
+98. Which statement is TRUE?
+A) Relationships may be linear, nonlinear, direct or inverse
+B) All relationships in ultrasound are linear
+C) Equations cannot be rearranged
+D) Logarithms are unrelated to decibels
+99. Metric prefixes and scientific notation are used mainly to:
+A) Simplify very large and very small values
+B) Make numbers larger
+C) Remove units
+D) Convert angles
+100. Which of the following is a reciprocal pair of the form a × b = 1?
+A) 4 and 0.25
+B) 4 and 2
+C) 4 and −4
+D) 4 and 16
+Part B – Answer Key and Explanations
+1. B – Double means increase by a factor of 2 (multiply by 2).
+2. C – Quarters means decrease by a factor of 4 (divide by 4).
+3. B – Quadruples means increase by a factor of 4 (multiply by 4).
+4. C – A reciprocal is the inverted value: 1 divided by the number.
+5. C – "Factor" implies multiplication or division, not addition or subtraction.
+6. A – Half means decrease by a factor of 2 (divide by 2).
+7. A – 1 ÷ 4 = 0.25.
+8. B – Frequency and period are reciprocals (T = 1/f), so tripling f makes T one-third.
+9. B – Linear relationships change at a constant rate and give a straight-line graph.
+10. B – Intensity varies with amplitude squared, so the rate of change is not constant and the graph is curved.
+11. A – A constant rate of change defines a linear relationship.
+12. B – Direct proportionality gives a straight line passing through the origin (zero).
+13. B – Variables change in the same direction by the same factor; doubling one doubles the other.
+14. B – Doubling depth doubles the round-trip travel time, so they are directly proportional.
+15. A – For inverse proportionality, x × y stays constant.
+16. B – Inverse relationships plot as a downward curve.
+17. B – Variables change in opposite directions; doubling one halves the other.
+18. B – Reciprocals multiply to equal 1 (e.g., f × T = 1).
+19. B – Frequency and period (and PRF and PRP) are the lecture's examples of reciprocal pairs.
+20. B – PRF = 1/PRP, and PRP = 1/PRF.
+21. B – Direct proportionality to z puts z in the numerator; inverse proportionality to k puts k in the denominator.
+22. B – Direct proportionality: both variables change by the same factor, so x also increases 36-fold.
+23. B – Inverse proportionality: if x falls by a factor of 19, y rises by a factor of 19.
+24. B – Doubling B halves A when they are inversely proportional.
+25. D – A good formula sheet records the meaning of each variable and shows how to rearrange it. Memorizing without understanding defeats the purpose.
+26. A – A unit gives meaning to a number ("10" means nothing until you say 10 km, 10 miles, etc.).
+27. B – The metric system is built on powers of 10.
+28. A – A prefix is a modifier placed before a unit to indicate a specific multiplier or power of 10.
+29. A – Kilo = 10³ (1000).
+30. C – Milli = 10⁻³ (one-thousandth).
+31. D – Micro = 10⁻⁶ (one-millionth).
+32. C – Mega = 10⁶ (one million).
+33. B – Nano = 10⁻⁹.
+34. A – Centi = 10⁻² (one-hundredth).
+35. B – 1 cm = 10 mm, so 4.5 × 10 = 45 mm.
+36. C – Mega = 10⁶, so 2 MHz = 2,000,000 Hz.
+37. B – 10 mm = 1 cm, so 15 ÷ 10 = 1.5 cm.
+38. A – Milli = 10⁻³, so 5 ms = 0.005 s.
+39. C – 13 µs = 13 × 10⁻⁶ s = 1.3 × 10⁻⁵ s.
+40. B – Move the decimal four places right: 3.2 × 10⁻⁴.
+41. D – Move the decimal six places left: 6.5 × 10⁶.
+42. A – Length is a one-dimensional measurement, reported in mm or cm.
+43. A – Area (two dimensions) = length × width.
+44. B – Area is reported in square units such as cm² or m². cm³ is volume.
+45. C – Volume uses three dimensions: length × width × height.
+46. A – 1 cm³ = 1 mL.
+47. B – 4 × 3 = 12 cm².
+48. B – 2 × 3 × 5 = 30 cm³, and 1 cm³ = 1 mL, so 30 mL.
+49. A – Time is reported in seconds, milliseconds, microseconds and nanoseconds.
+50. D – Nanosecond (10⁻⁹ s) is smaller than a microsecond (10⁻⁶ s) or millisecond (10⁻³ s).
+51. B – Milli = 10⁻³, so 1 ms = 0.001 s.
+52. B – 1000 × 10⁻⁶ s = 10⁻³ s = 1 ms.
+53. A – Decibels use logarithms to express large ratios.
+54. B – 10² = 100, so log₁₀(100) = 2.
+55. C – 10³ = 1000, so the logarithm is 3.
+56. C – 10⁰ = 1, so log₁₀(1) = 0.
+57. B – 10¹ = 10, so log₁₀(10) = 1.
+58. A – A logarithm is the exponent: log₁₀(1000) = 3 means 10³ = 1000.
+59. A – Logs compress large ratios into manageable numbers, which is why decibels use them.
+60. B – 0.1 = 10⁻¹, so log₁₀(0.1) = −1.
+61. A – From the trig table, sin 30° = 0.5.
+62. B – cos 0° = 1.
+63. C – cos 90° = 0.
+64. D – sin 90° = 1.
+65. C – At 45°, sine and cosine are equal at about 0.707.
+66. B – cos 60° = 0.5.
+67. C – cos 30° ≈ 0.87 (0.866).
+68. B – sin 0° = 0.
+69. B – Cosine falls from 1 at 0° to 0 at 90°.
+70. A – Angles must be measured from a clearly identified reference line.
+71. B – Reflection and refraction angles are measured from the normal, the line perpendicular to the boundary.
+72. A – Diagnostic test statistics help determine the accuracy and reliability of sonography findings.
+73. A – Interpreting an anatomic image is a qualitative assessment.
+74. B – Doppler values and other numeric data are quantitative.
+75. A – An echocardiogram evaluating for aortic stenosis is a diagnostic test.
+76. A – Sensitivity is the true-positive rate: how well the test detects people who have the condition.
+77. B – Specificity is the true-negative rate: how well the test identifies people without the condition.
+78. A – Sensitivity = TP / (TP + FN).
+79. B – Specificity = TN / (TN + FP).
+80. C – PPV = TP / (TP + FP): the proportion of positive results that are truly positive.
+81. D – NPV = TN / (TN + FN): the proportion of negative results that are truly negative.
+82. A – Accuracy = all correct results divided by all results.
+83. A – 90 / (90 + 10) = 90%.
+84. B – 80 / (80 + 20) = 80%.
+85. C – 45 / (45 + 5) = 90%.
+86. D – 95 / (95 + 5) = 95%.
+87. A – (40 + 50) / (40 + 50 + 5 + 5) = 90 / 100 = 90%.
+88. A – A false negative is a patient who has the disease but tests negative.
+89. B – A false positive is a healthy patient who tests positive.
+90. A – A highly sensitive test rarely misses disease, so a negative result helps rule disease out.
+91. A – Pulse timing covers PRF, PRP and pulse duration.
+92. A – Attenuation uses ratios, logarithms and decibels.
+93. D – Depth calculations, pulse timing and Doppler velocity estimation all rely on mathematics.
+94. A – T = 1/f = 1 / 5 MHz = 0.2 µs.
+95. B – f = 1/T = 1 / 0.5 µs = 2 MHz.
+96. B – PRF = 1/PRP = 1 / 200 µs = 5000 Hz = 5 kHz.
+97. A – Depth and round-trip time are directly proportional, so doubling depth doubles time.
+98. A – Relationships can be linear, nonlinear, direct or inverse, and equations can be rearranged. Logarithms underpin decibels.
+99. A – Prefixes and scientific notation make very large and very small values easier to write and compare.
+100. A – 4 × 0.25 = 1, so they are reciprocals.

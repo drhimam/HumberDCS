@@ -1,0 +1,60 @@
+{
+  "chapterId": "ch02",
+  "title": "Coronary Circulation",
+  "questions": [
+    {
+      "id": "DCS5002-ch02-q001",
+      "stem": "The left anterior descending (LAD) artery primarily supplies:",
+      "image": null,
+      "options": [
+        "Inferior wall",
+        "Anterior wall and anterior two-thirds of the septum",
+        "Lateral wall only",
+        "Right ventricular free wall"
+      ],
+      "answer": 1,
+      "explanation": "The LAD supplies the anterior wall, the anterior septum, and the apex. The RCA usually supplies the inferior wall, and the circumflex supplies the lateral wall.",
+      "explanationImage": null,
+      "tags": [
+        "coronaries"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch02-q002",
+      "stem": "Coronary artery dominance is determined by which artery gives rise to the:",
+      "image": null,
+      "options": [
+        "Left main coronary artery",
+        "Posterior descending artery",
+        "First diagonal branch",
+        "Obtuse marginal branch"
+      ],
+      "answer": 1,
+      "explanation": "Dominance is defined by which artery gives rise to the posterior descending artery (PDA). About 70-80% of people are right dominant, meaning the PDA comes from the RCA.",
+      "explanationImage": null,
+      "tags": [
+        "coronaries"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch02-q003",
+      "stem": "Most coronary blood flow to the left ventricle occurs during:",
+      "image": null,
+      "options": [
+        "Isovolumic contraction",
+        "Systole",
+        "Diastole",
+        "Atrial systole only"
+      ],
+      "answer": 2,
+      "explanation": "During systole, the contracting LV myocardium compresses the intramural coronary vessels. Most LV perfusion therefore happens in diastole. This is why tachycardia, which shortens diastole, can cause ischemia.",
+      "explanationImage": null,
+      "tags": [
+        "physiology"
+      ],
+      "reference": ""
+    }
+  ]
+}

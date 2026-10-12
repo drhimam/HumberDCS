@@ -1,0 +1,78 @@
+{
+  "chapterId": "ch01",
+  "title": "Cardiac Chambers & Walls",
+  "questions": [
+    {
+      "id": "DCS5002-ch01-q001",
+      "stem": "Which cardiac chamber forms most of the anterior (sternocostal) surface of the heart?",
+      "image": null,
+      "options": [
+        "Left ventricle",
+        "Right ventricle",
+        "Left atrium",
+        "Right atrium"
+      ],
+      "answer": 1,
+      "explanation": "The right ventricle lies directly behind the sternum and forms most of the anterior surface. The left atrium is the most posterior chamber.",
+      "explanationImage": null,
+      "tags": [
+        "anatomy"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch01-q002",
+      "stem": "The moderator band is an anatomic landmark of which chamber?",
+      "image": null,
+      "options": [
+        "Left ventricle",
+        "Right atrium",
+        "Right ventricle",
+        "Left atrium"
+      ],
+      "answer": 2,
+      "explanation": "The moderator band (septomarginal trabecula) runs from the interventricular septum to the base of the anterior papillary muscle in the RV. It carries the right bundle branch and helps identify the morphologic right ventricle.",
+      "explanationImage": null,
+      "tags": [
+        "RV"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch01-q003",
+      "stem": "Normal left ventricular wall thickness at end-diastole in an adult is approximately:",
+      "image": null,
+      "options": [
+        "2-4 mm",
+        "6-10 mm",
+        "13-16 mm",
+        "18-22 mm"
+      ],
+      "answer": 1,
+      "explanation": "Normal septal and posterior wall thickness is about 6-10 mm (slightly less in women). A thickness of 11 mm or more suggests hypertrophy, and 15 mm or more raises concern for hypertrophic cardiomyopathy.",
+      "explanationImage": null,
+      "tags": [
+        "measurements"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch01-q004",
+      "stem": "The fossa ovalis is located on which structure?",
+      "image": null,
+      "options": [
+        "Interventricular septum",
+        "Interatrial septum",
+        "Mitral annulus",
+        "Left atrial appendage"
+      ],
+      "answer": 1,
+      "explanation": "The fossa ovalis is a thin depression in the interatrial septum. It is the remnant of the fetal foramen ovale, and it is where secundum ASDs and patent foramen ovale occur.",
+      "explanationImage": null,
+      "tags": [
+        "septum"
+      ],
+      "reference": ""
+    }
+  ]
+}

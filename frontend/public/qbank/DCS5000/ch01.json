@@ -1,0 +1,78 @@
+{
+  "chapterId": "ch01",
+  "title": "History & Echo Modalities",
+  "questions": [
+    {
+      "id": "DCS5000-ch01-q001",
+      "stem": "Which echocardiographic modality displays motion of structures along a single scan line over time?",
+      "image": null,
+      "options": [
+        "2D (B-mode) imaging",
+        "M-mode",
+        "Color Doppler",
+        "Pulsed-wave Doppler"
+      ],
+      "answer": 1,
+      "explanation": "M-mode (motion mode) samples a single ultrasound line and plots depth against time. Its very high temporal resolution makes it ideal for timing rapid valve and wall motion.\n\n2D imaging shows anatomy in a plane, and the Doppler modalities show blood flow velocity, not structure motion along one line.",
+      "explanationImage": null,
+      "tags": [
+        "modalities"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch01-q002",
+      "stem": "A transesophageal echocardiogram (TEE) is preferred over transthoracic echo (TTE) mainly when evaluating:",
+      "image": null,
+      "options": [
+        "Pericardial effusion",
+        "Left atrial appendage thrombus",
+        "Left ventricular wall thickness",
+        "Inferior vena cava size"
+      ],
+      "answer": 1,
+      "explanation": "The left atrial appendage is posterior and close to the esophagus, so TEE shows it clearly. TTE often cannot rule out an appendage thrombus. The other choices are routinely assessed with TTE.",
+      "explanationImage": null,
+      "tags": [
+        "TEE"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch01-q003",
+      "stem": "Which Doppler modality can measure very high velocities without aliasing but cannot locate where along the beam the velocity occurs?",
+      "image": null,
+      "options": [
+        "Pulsed-wave Doppler",
+        "Color flow Doppler",
+        "Continuous-wave Doppler",
+        "Tissue Doppler imaging"
+      ],
+      "answer": 2,
+      "explanation": "Continuous-wave (CW) Doppler transmits and receives continuously using separate crystals, so it has no Nyquist limit. The trade-off is range ambiguity: it cannot tell the depth where the peak velocity came from.",
+      "explanationImage": null,
+      "tags": [
+        "doppler"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch01-q004",
+      "stem": "Stress echocardiography is primarily used to detect:",
+      "image": null,
+      "options": [
+        "Congenital shunts",
+        "Inducible myocardial ischemia",
+        "Valve vegetations",
+        "Aortic dissection"
+      ],
+      "answer": 1,
+      "explanation": "Stress echo compares wall motion at rest and under stress (exercise or dobutamine). A new or worsening regional wall motion abnormality under stress suggests inducible ischemia.",
+      "explanationImage": null,
+      "tags": [
+        "stress echo"
+      ],
+      "reference": ""
+    }
+  ]
+}

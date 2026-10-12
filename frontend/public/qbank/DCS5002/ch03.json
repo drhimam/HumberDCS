@@ -1,0 +1,78 @@
+{
+  "chapterId": "ch03",
+  "title": "Cardiac Cycle & Pressures",
+  "questions": [
+    {
+      "id": "DCS5002-ch03-q001",
+      "stem": "The mitral valve opens at which point of the cardiac cycle?",
+      "image": null,
+      "options": [
+        "When LV pressure exceeds aortic pressure",
+        "When LV pressure falls below LA pressure",
+        "At the peak of the T wave",
+        "At the onset of the QRS complex"
+      ],
+      "answer": 1,
+      "explanation": "At the end of isovolumic relaxation, LV pressure falls below LA pressure, and the mitral valve opens. This starts rapid ventricular filling, which is the E wave on Doppler.",
+      "explanationImage": null,
+      "tags": [
+        "cardiac cycle"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch03-q002",
+      "stem": "During isovolumic contraction:",
+      "image": null,
+      "options": [
+        "All four valves are closed",
+        "The aortic valve is open",
+        "The mitral valve is open",
+        "Ventricular volume decreases rapidly"
+      ],
+      "answer": 0,
+      "explanation": "Isovolumic contraction occurs between mitral valve closure and aortic valve opening. All valves are closed, so pressure rises quickly while volume stays the same.",
+      "explanationImage": null,
+      "tags": [
+        "cardiac cycle"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch03-q003",
+      "stem": "Which Doppler wave represents left atrial contraction across the mitral valve?",
+      "image": null,
+      "options": [
+        "E wave",
+        "A wave",
+        "S wave",
+        "e' wave"
+      ],
+      "answer": 1,
+      "explanation": "The mitral inflow A wave occurs in late diastole, when the atrium contracts. It follows the P wave on the ECG. The E wave represents early passive filling.",
+      "explanationImage": null,
+      "tags": [
+        "doppler"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch03-q004",
+      "stem": "Normal right ventricular systolic pressure in an adult is approximately:",
+      "image": null,
+      "options": [
+        "5-10 mmHg",
+        "15-30 mmHg",
+        "60-80 mmHg",
+        "100-120 mmHg"
+      ],
+      "answer": 1,
+      "explanation": "Normal RV systolic pressure (which equals PA systolic pressure without pulmonic stenosis) is about 15-30 mmHg. On echo it is estimated as 4(TR Vmax)² + RA pressure.",
+      "explanationImage": null,
+      "tags": [
+        "pressures"
+      ],
+      "reference": ""
+    }
+  ]
+}

@@ -1,0 +1,607 @@
+Section 1: Transducer Function and the Piezoelectric Effect (Q1–14)
+1. Which statement best defines an ultrasound transducer?
+A. A device that measures tissue attenuation
+B. A device that converts one form of energy into another
+C. A device that displays returning echoes
+D. A device that determines pulse repetition frequency
+2. During transmission, the active element converts:
+A. Mechanical energy into electrical energy
+B. Heat energy into electrical energy
+C. Electrical energy into mechanical energy
+D. Acoustic impedance into sound velocity
+3. During reception, returning echoes cause the active element to produce:
+A. A matching-layer vibration
+B. A longer transmitted pulse
+C. A higher propagation speed
+D. An electrical signal
+4. A brief electrical voltage is applied to the active element. What happens next?
+A. The element changes shape and vibrates
+B. The backing layer produces an electrical signal
+C. The matching layer changes acoustic impedance
+D. The lens increases the pulse frequency
+5. Which transducer component is commonly called the "crystal"?
+A. Acoustic lens
+B. Matching layer
+C. Active element
+D. Backing material
+6. Which event represents the direct piezoelectric effect?
+A. Electrical voltage causes the element to vibrate
+B. Returning sound deforms the element and produces a voltage
+C. The matching layer transfers sound into tissue
+D. The backing material reduces element vibration
+7. Which event represents the converse (inverse) piezoelectric effect?
+A. Mechanical pressure produces an electrical signal
+B. Returning echoes create an image pixel
+C. Applied voltage causes the active element to change shape
+D. Tissue impedance changes the propagation speed
+8. The term "piezoelectric" describes a material that:
+A. Changes shape when a voltage is applied and produces a voltage when deformed
+B. Conducts heat rapidly
+C. Absorbs all sound
+D. Changes colour with pressure
+9. Which effect is used during transmission of a pulse?
+A. The direct effect
+B. The Doppler effect
+C. The Curie effect
+D. The converse (inverse) effect
+10. Which effect is used during reception of echoes?
+A. The converse effect
+B. The direct effect
+C. The Doppler effect
+D. The thermal effect
+11. In pulse-echo imaging, a single transducer element:
+A. Only transmits
+B. Only receives
+C. Both transmits and receives
+D. Neither transmits nor receives
+12. Which sequence of energy conversions is correct for pulse-echo imaging?
+A. Electrical to mechanical on transmit; mechanical to electrical on receive
+B. Mechanical to electrical on transmit; electrical to mechanical on receive
+C. Heat to electrical on transmit; electrical to heat on receive
+D. Electrical to light on transmit; light to electrical on receive
+13. The strength of the electrical signal produced on reception depends on:
+A. The wavelength of the element
+B. The amplitude of the returning echo
+C. The PRF
+D. The coupling gel thickness
+14. An ultrasound pulse is produced when:
+A. The element is heated
+B. Gel is applied
+C. The backing material absorbs sound
+D. A brief electrical voltage excites the element
+Section 2: Piezoelectric Materials and Curie Temperature (Q15–20)
+15. Which material is commonly used for conventional transducer elements?
+A. Lead zirconate titanate (PZT)
+B. Tungsten carbide
+C. Silicone rubber
+D. Polyethylene gel
+16. A piezoelectric element is heated above its Curie temperature. The most likely result is that it:
+A. Doubles its propagation speed
+B. Increases its matching-layer impedance
+C. Loses its piezoelectric properties
+D. Temporarily narrows its bandwidth
+17. Why must transducers generally not be heat sterilised?
+A. The gel would melt
+B. Excess heat could exceed the Curie temperature and destroy piezoelectric properties
+C. The lens would become electrically charged
+D. Heat increases the PRF
+18. Which of the following is a synthetic piezoelectric ceramic?
+A. Quartz
+B. Tourmaline
+C. Silicone rubber
+D. Lead zirconate titanate
+19. The Curie temperature is the temperature above which a piezoelectric material:
+A. Loses its piezoelectric properties
+B. Doubles its resonant frequency
+C. Becomes a perfect matching layer
+D. Stops reflecting sound
+20. Which terms refer to the same transducer component?
+A. Lens and matching layer
+B. Crystal and piezoelectric (active) element
+C. Backing and gel
+D. Matching layer and backing
+Section 3: Resonant Frequency and Element Thickness (Q21–36)
+21. The resonant frequency of a piezoelectric element is determined primarily by:
+A. Element thickness and propagation speed in the element
+B. Matching-layer thickness and patient depth
+C. PRF and duty factor
+D. Lens curvature and scan-line density
+22. Which relationship exists between element thickness and resonant frequency?
+A. Direct
+B. Inverse
+C. Unrelated
+D. Exponential
+23. Two elements have the same thickness but different propagation speeds. Which has the higher resonant frequency?
+A. The element with the higher propagation speed
+B. The element with the lower propagation speed
+C. Both are the same
+D. It cannot be predicted
+24. A manufacturer decreases element thickness while keeping the material unchanged. The resonant frequency:
+A. Decreases
+B. Is unchanged
+C. Increases
+D. Becomes equal to the tissue frequency
+25. A 0.4 mm element produces 5 MHz. What thickness gives 10 MHz in the same material?
+A. 0.1 mm
+B. 0.2 mm
+C. 0.8 mm
+D. 1.0 mm
+26. A 0.5 mm element produces 4 MHz. What thickness gives 2 MHz in the same material?
+A. 0.25 mm
+B. 0.5 mm
+C. 1.0 mm
+D. 2.0 mm
+27. A 1 mm element produces 2 MHz. What thickness gives 4 MHz in the same material?
+A. 0.25 mm
+B. 2 mm
+C. 4 mm
+D. 0.5 mm
+28. A 0.8 mm element produces 2.5 MHz. What thickness gives 5 MHz in the same material?
+A. 0.4 mm
+B. 0.2 mm
+C. 1.6 mm
+D. 3.2 mm
+29. If the desired frequency doubles (same material), the element thickness must:
+A. Double
+B. Be halved
+C. Stay the same
+D. Quadruple
+30. An element has a propagation speed of 4 mm/µs and a thickness of 0.4 mm. Using f = c ÷ 2T, what is its resonant frequency?
+A. 2.5 MHz
+B. 10 MHz
+C. 5 MHz
+D. 0.2 MHz
+31. An element has a propagation speed of 4 mm/µs and a thickness of 0.2 mm. What is its resonant frequency?
+A. 10 MHz
+B. 5 MHz
+C. 20 MHz
+D. 2 MHz
+32. An element has a propagation speed of 4 mm/µs and must resonate at 2 MHz. What thickness is needed?
+A. 0.5 mm
+B. 1 mm
+C. 2 mm
+D. 4 mm
+33. At resonance, the active-element thickness equals approximately:
+A. One full wavelength in the element
+B. One-half wavelength in the element
+C. One-quarter wavelength in the element
+D. Twice the wavelength in the element
+34. Resonant frequency is best described as:
+A. The frequency chosen by the sonographer for every exam
+B. The highest harmonic received by the system
+C. The pulse repetition frequency
+D. The natural frequency at which the element vibrates efficiently
+35. How does PRF relate to the transducer's resonant frequency?
+A. PRF is determined by element thickness
+B. PRF and pulse timing are distinct from resonant frequency
+C. PRF equals resonant frequency
+D. PRF is set by the matching layer
+36. To produce a higher resonant frequency with the same material, the element must be:
+A. Thicker
+B. Made denser by backing
+C. Thinner
+D. Heated
+Section 4: Construction: Matching Layer, Backing, Damping, Lens, Gel (Q37–62)
+37. What is the primary function of the matching layer?
+A. To increase element ringing
+B. To reduce acoustic impedance mismatch
+C. To eliminate electrical interference
+D. To steer the beam electronically
+38. A transducer has no effective matching layer. The most likely outcome is that:
+A. PRF increases
+B. The wavelength shortens
+C. More sound is reflected at the transducer face
+D. The lens becomes electronically adjustable
+39. Why do broadband transducers commonly use multiple matching layers?
+A. They increase ringing
+B. They improve transmission over a wider frequency range
+C. They eliminate the need for backing material
+D. They provide electronic beam steering
+40. For efficient transmission, the acoustic impedance of a matching layer should be:
+A. Lower than both the element and tissue
+B. Higher than both the element and tissue
+C. Equal to the backing material only
+D. Between the impedances of the element and tissue
+41. A matching layer is commonly made with a thickness of about:
+A. One wavelength
+B. One-half wavelength
+C. One-quarter wavelength
+D. Two wavelengths
+42. In a transducer with several matching layers, impedance:
+A. Decreases progressively from the element toward tissue
+B. Increases progressively from the element toward tissue
+C. Is identical in all layers
+D. Is lowest at the element
+43. The main purpose of coupling gel is to:
+A. Cool the transducer
+B. Remove the air gap between the probe and skin
+C. Increase the speed of sound
+D. Focus the beam
+44. An air gap remains between the transducer face and the skin. The most likely result is:
+A. Increased sound transmission
+B. Increased penetration
+C. Reflection of nearly all transmitted sound
+D. Improved axial resolution
+45. A stand-off pad is:
+A. A device that raises the transducer frequency
+B. A type of backing material
+C. An electrical safety shield
+D. An acoustic coupling material placed between the transducer and the skin
+46. What is the main benefit of a stand-off pad for a structure immediately beneath the skin?
+A. It places the structure farther from the transducer face, in a more useful part of the beam
+B. It increases the transducer frequency
+C. It lowers the propagation speed
+D. It electronically focuses the beam
+47. A stand-off pad moves a very superficial target out of the near field and into the:
+A. Near field
+B. Focal zone
+C. Acoustic shadow
+D. Far field
+48. Which function is commonly performed by the acoustic lens?
+A. Fixed focusing in the elevational plane
+B. Electronic steering in the scan plane
+C. Generating electrical excitation pulses
+D. Absorbing backward-directed sound
+49. Where is the acoustic lens located?
+A. Behind the active element
+B. Between the element and the backing
+C. At the front of the transducer, nearest the patient
+D. Inside the system monitor
+50. Where is the backing material located?
+A. Between the probe and the skin
+B. In front of the matching layer
+C. Behind the active element
+D. Inside the system monitor
+51. The backing material supports:
+A. Damping, which reduces ringing
+B. Fixed elevational focusing
+C. Impedance matching to tissue
+D. Electronic beam steering
+52. Increasing the damping applied to the active element results in:
+A. More cycles per pulse
+B. Longer pulse duration
+C. Shorter spatial pulse length
+D. Narrower bandwidth
+53. A transducer produces fewer cycles in each pulse. Which characteristic is most directly improved?
+A. Temporal resolution
+B. Contrast resolution
+C. Display dynamic range
+D. Axial resolution
+54. A manufacturer increases damping to improve axial resolution. What additional change should be expected?
+A. Increased sensitivity
+B. Reduced sensitivity
+C. Increased ringing
+D. Narrower bandwidth
+55. Which sequence correctly describes increased damping?
+A. More ringing → longer pulse → broader bandwidth
+B. Less ringing → longer pulse → narrower bandwidth
+C. Less ringing → shorter pulse → broader bandwidth
+D. More ringing → shorter pulse → lower quality factor
+56. "Ringing" in a transducer refers to:
+A. Electrical noise in the cable
+B. Echoes from deeper structures
+C. Electronic beam steering
+D. Continued vibration of the element after the pulse
+57. More damping causes pulse duration to:
+A. Shorten
+B. Lengthen
+C. Stay unchanged
+D. Double
+58. More damping causes the number of cycles per pulse to:
+A. Increase
+B. Decrease
+C. Stay unchanged
+D. Double
+59. More damping causes bandwidth to:
+A. Narrow
+B. Stay unchanged
+C. Widen
+D. Fall to zero
+60. Which is a disadvantage of heavy damping?
+A. Longer spatial pulse length
+B. More ringing
+C. Narrower bandwidth
+D. Reduced sensitivity
+61. Which component reduces ringing?
+A. Backing material
+B. Acoustic lens
+C. Coupling gel
+D. Matching layer
+62. From the patient inward, which order of components is correct?
+A. Active element, matching layer, lens, backing
+B. Lens, matching layer, active element, backing
+C. Backing, active element, matching layer, lens
+D. Matching layer, lens, backing, active element
+Section 5: Bandwidth and Quality Factor (Q63–78)
+63. A "5 MHz" probe efficiently transmits and receives from 3 to 7 MHz. What is its bandwidth?
+A. 2 MHz
+B. 4 MHz
+C. 5 MHz
+D. 10 MHz
+64. A transducer has a centre frequency of 6 MHz and a bandwidth of 3 MHz. What is its quality factor?
+A. 0.5
+B. 2
+C. 3
+D. 18
+65. A transducer has a centre frequency of 5 MHz and a bandwidth of 2.5 MHz. What is its quality factor?
+A. 0.5
+B. 12.5
+C. 2
+D. 7.5
+66. A transducer has a centre frequency of 4 MHz and a bandwidth of 4 MHz. What is its quality factor?
+A. 16
+B. 4
+C. 0.25
+D. 1
+67. A transducer has a centre frequency of 3 MHz and a bandwidth of 1.5 MHz. What is its quality factor?
+A. 2
+B. 4.5
+C. 0.5
+D. 1.5
+68. A transducer has a quality factor of 4 and a centre frequency of 8 MHz. What is its bandwidth?
+A. 32 MHz
+B. 12 MHz
+C. 2 MHz
+D. 0.5 MHz
+69. Which combination is associated with a low-quality-factor transducer?
+A. Narrow bandwidth and long pulse
+B. Narrow bandwidth and short pulse
+C. Broad bandwidth and short pulse
+D. Broad bandwidth and prolonged ringing
+70. Which combination is associated with a high-quality-factor transducer?
+A. Narrow bandwidth and long pulse
+B. Broad bandwidth and short pulse
+C. Broad bandwidth and long pulse
+D. Narrow bandwidth and short pulse
+71. Two transducers have the same centre frequency. A has a bandwidth of 2 MHz; B has a bandwidth of 5 MHz. Which statement is correct?
+A. A has the lower quality factor
+B. B has the higher quality factor
+C. B has the lower quality factor
+D. They have the same quality factor
+72. A sonographer changes the transmit frequency without changing probes. Which probe characteristic makes this possible?
+A. Narrow bandwidth
+B. Broad bandwidth
+C. High quality factor
+D. Thick backing material only
+73. A broadband "5 MHz" probe lets the system choose a lower frequency or a higher frequency. Which pairing is correct?
+A. Lower frequency for better resolution; higher for deeper penetration
+B. Both give the same penetration
+C. Lower frequency for better PRF; higher for better duty factor
+D. Lower frequency for deeper penetration; higher for better resolution
+74. Which imaging technique requires a transducer able to transmit and receive different frequency ranges?
+A. Tissue harmonic imaging
+B. M-mode sweep speed
+C. Time-gain compensation
+D. PRP adjustment
+75. Short pulses are associated with:
+A. Narrow bandwidth
+B. High quality factor
+C. Long spatial pulse length
+D. Wide bandwidth
+76. Increasing damping has what effect on quality factor?
+A. It decreases the quality factor
+B. It increases the quality factor
+C. It does not change it
+D. It doubles it
+77. A high-quality-factor transducer typically produces:
+A. Shorter pulses
+B. Longer pulses and poorer axial resolution
+C. A wider bandwidth
+D. Fewer cycles per pulse
+78. Quality factor has which units?
+A. MHz
+B. µs
+C. It is unitless
+D. mm
+Section 6: Array Types and Transducer Selection (Q79–100)
+79. How does a phased-array transducer steer the beam?
+A. By mechanically rotating the elements
+B. By changing propagation speed in the matching layer
+C. By applying small timing differences to element excitation
+D. By increasing the gel thickness
+80. Which combination is most characteristic of a linear-array transducer?
+A. Wide footprint and rectangular image
+B. Small footprint and sector image
+C. Curved footprint and sector-like image
+D. Long internal shaft and circular image
+81. What is an important advantage of a curvilinear transducer over a linear transducer for abdominal imaging?
+A. Higher near-field resolution
+B. Wider field of view at greater depth
+C. Smaller intercostal footprint
+D. Higher operating frequency
+82. Which transducer is most appropriate for imaging a superficial carotid artery?
+A. Low-frequency curvilinear
+B. Low-frequency phased array
+C. Endocavitary
+D. High-frequency linear
+83. Which transducer is most appropriate for a routine adult abdominal examination?
+A. Low-frequency curvilinear
+B. High-frequency linear
+C. High-frequency endocavitary
+D. Small-footprint phased array
+84. A sonographer must image the heart through a narrow intercostal window. Which transducer is most appropriate?
+A. Linear array
+B. Curvilinear array
+C. Phased array
+D. Endocavitary
+85. Why can an endocavitary transducer typically operate at a higher frequency than a transabdominal probe?
+A. Sound travels faster inside a body cavity
+B. The probe is positioned closer to the anatomy
+C. Endocavitary probes have no matching layer
+D. Higher frequency reduces attenuation
+86. A sonographer chooses between a 3 MHz and a 10 MHz probe for a deep abdominal structure. Which gives better penetration?
+A. The 3 MHz probe
+B. The 10 MHz probe
+C. Both are identical
+D. Penetration is unrelated to frequency
+87. Lower frequency generally provides:
+A. Poorer penetration
+B. No change in penetration
+C. Better resolution always
+D. Better penetration
+88. Higher frequency generally provides:
+A. Better axial resolution but less penetration
+B. Better penetration but poorer axial resolution
+C. Both better penetration and better resolution
+D. Neither penetration nor resolution change
+89. Which transducer is best suited to superficial structures such as the thyroid?
+A. Low-frequency curvilinear
+B. Low-frequency phased array
+C. High-frequency linear
+D. Low-frequency endocavitary
+90. A phased-array transducer is characterised by a:
+A. Large footprint
+B. Small footprint
+C. Curved footprint
+D. Long internal shaft
+91. Which statement about linear arrays is correct?
+A. They are used for superficial structures such as vessels
+B. They are used for transthoracic echocardiography through the ribs
+C. They always use the lowest available frequency
+D. They produce a sector image
+92. A curvilinear transducer produces an image that is:
+A. Rectangular
+B. Circular
+C. Curved and fan-shaped
+D. Square
+93. A phased-array transducer produces an image that is:
+A. Rectangular
+B. Curved rectangle
+C. Square
+D. Sector (fan-shaped)
+94. Which is an endocavitary application?
+A. Carotid imaging
+B. Transvaginal pelvic imaging
+C. Thyroid imaging
+D. Superficial vein mapping
+95. Which statement best describes a CMUT?
+A. It uses microscopic vibrating membranes manufactured on silicon
+B. It uses a conventional PZT crystal only
+C. It requires no electrical excitation
+D. It can transmit but not receive
+96. Which potential advantage is associated with CMUT technology?
+A. Very narrow bandwidth
+B. Increased element ringing
+C. Broad bandwidth and easier integration with electronics
+D. No need for beam formation
+97. How does a CMUT differ from a conventional transducer?
+A. It uses a thicker PZT element
+B. It has no backing or matching layer
+C. It cannot be used in arrays
+D. It uses capacitive vibration of membranes rather than a piezoelectric crystal
+98. Why does cardiac imaging call for a small-footprint transducer?
+A. To use the lowest gain
+B. To fit between the ribs
+C. To increase the dynamic range
+D. To raise the PRF
+99. Which factors guide transducer choice?
+A. Depth of the anatomy, required penetration, footprint and acoustic window
+B. Patient age only
+C. Display colour map
+D. Monitor brightness
+100. Why is a low-frequency probe chosen for a deep structure?
+A. Better resolution
+B. Smaller footprint
+C. Greater penetration
+D. Shorter pulses
+Answer Key with Short Explanations
+1. B: A transducer converts one form of energy into another.
+2. C: On transmission, electrical energy becomes mechanical energy.
+3. D: Returning echoes make the element produce an electrical signal.
+4. A: A voltage makes the element change shape and vibrate.
+5. C: The active element is called the crystal.
+6. B: The direct effect is pressure producing a voltage.
+7. C: The converse effect is voltage changing the element's shape.
+8. A: Piezoelectric materials work in both directions.
+9. D: Transmission uses the converse (inverse) effect.
+10. B: Reception uses the direct effect.
+11. C: One element transmits and receives.
+12. A: Electrical to mechanical on transmit; mechanical to electrical on receive.
+13. B: Stronger echoes give a larger electrical signal.
+14. D: A brief voltage excites the element and forms the pulse.
+15. A: PZT is the common transducer ceramic.
+16. C: Above the Curie temperature piezoelectric properties are lost.
+17. B: Heat can exceed the Curie temperature and ruin the element.
+18. D: PZT is a synthetic ceramic; quartz and tourmaline are natural.
+19. A: That is the definition of the Curie temperature.
+20. B: Crystal and piezoelectric element mean the active element.
+21. A: Thickness and propagation speed set the resonant frequency.
+22. B: Thinner elements resonate at higher frequencies (inverse).
+23. A: Higher speed with the same thickness gives a higher frequency.
+24. C: Thinner means higher resonant frequency.
+25. B: Doubling frequency halves thickness: 0.4 ÷ 2 = 0.2 mm.
+26. C: Halving frequency doubles thickness: 0.5 × 2 = 1.0 mm.
+27. D: Doubling frequency halves thickness: 1 ÷ 2 = 0.5 mm.
+28. A: 0.8 ÷ 2 = 0.4 mm.
+29. B: Frequency and thickness are inversely related.
+30. C: f = 4 ÷ (2 × 0.4) = 5 MHz.
+31. A: f = 4 ÷ (2 × 0.2) = 10 MHz.
+32. B: T = c ÷ 2f = 4 ÷ 4 = 1 mm.
+33. B: Element thickness is about half a wavelength.
+34. D: Resonant frequency is the natural frequency of efficient vibration.
+35. B: PRF is pulse timing, separate from resonant frequency.
+36. C: A thinner element gives a higher frequency.
+37. B: The matching layer reduces the impedance mismatch.
+38. C: Without it, more sound reflects at the transducer face.
+39. B: Multiple layers transmit well over a wider frequency range.
+40. D: The layer's impedance lies between element and tissue.
+41. C: Matching layers are about a quarter wavelength thick.
+42. A: Impedance falls step by step from element toward tissue.
+43. B: Gel removes the air gap.
+44. C: Air reflects almost all the sound.
+45. D: A stand-off pad is an acoustic coupling material between probe and skin.
+46. A: It moves the structure away from the face into a more useful part of the beam.
+47. B: It places the target in the better-focused zone.
+48. A: The lens gives fixed elevational focusing.
+49. C: The lens is the outermost layer, nearest the patient.
+50. C: Backing material sits behind the active element.
+51. A: Backing supports damping and reduces ringing.
+52. C: More damping shortens the pulse and SPL.
+53. D: Fewer cycles shorten the pulse, improving axial resolution.
+54. B: Damping improves axial resolution but reduces sensitivity.
+55. C: More damping: less ringing, shorter pulse, broader bandwidth.
+56. D: Ringing is continued vibration after excitation.
+57. A: More damping shortens pulse duration.
+58. B: More damping means fewer cycles.
+59. C: More damping widens the bandwidth.
+60. D: Heavy damping lowers sensitivity.
+61. A: Backing material damps ringing.
+62. B: Lens, matching layer, active element, backing.
+63. B: 7 − 3 = 4 MHz.
+64. B: Q = 6 ÷ 3 = 2.
+65. C: Q = 5 ÷ 2.5 = 2.
+66. D: Q = 4 ÷ 4 = 1.
+67. A: Q = 3 ÷ 1.5 = 2.
+68. C: BW = 8 ÷ 4 = 2 MHz.
+69. C: Low Q means broad bandwidth and short pulses.
+70. A: High Q means narrow bandwidth and long pulses.
+71. C: Wider bandwidth at the same centre frequency gives a lower Q.
+72. B: Broad bandwidth allows frequency changes with one probe.
+73. D: Lower frequency penetrates deeper; higher gives better resolution.
+74. A: Tissue harmonic imaging needs broadband transmit and receive.
+75. D: Short pulses go with wide bandwidth.
+76. A: More damping widens bandwidth and lowers Q.
+77. B: High Q gives longer pulses and poorer axial resolution.
+78. C: Q is a ratio of frequencies, so unitless.
+79. C: Small timing differences steer the beam electronically.
+80. A: Linear arrays have a wide footprint and rectangular image.
+81. B: Curvilinear arrays give a wider field of view at depth.
+82. D: A high-frequency linear probe suits the superficial carotid.
+83. A: A low-frequency curvilinear probe suits routine abdominal imaging.
+84. C: A phased array fits a narrow intercostal window.
+85. B: Being close to the anatomy allows higher frequency.
+86. A: Lower frequency penetrates better.
+87. D: Lower frequency gives better penetration.
+88. A: Higher frequency gives better axial resolution but less penetration.
+89. C: A high-frequency linear probe suits small superficial parts.
+90. B: Phased arrays have a small footprint.
+91. A: Linear arrays are used for vessels and other superficial structures.
+92. C: Curvilinear images are curved and fan-shaped.
+93. D: Phased arrays give a sector image.
+94. B: Transvaginal imaging uses an endocavitary probe.
+95. A: CMUTs use tiny vibrating membranes made on silicon.
+96. C: CMUTs offer broad bandwidth and easy electronics integration.
+97. D: CMUTs use capacitive membranes instead of a piezoelectric crystal.
+98. B: A small footprint fits between the ribs.
+99. A: Depth, penetration, footprint and acoustic window guide the choice.
+100. C: Lower frequency penetrates deeper.

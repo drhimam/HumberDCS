@@ -1,0 +1,28 @@
+{
+  "id": "DCS5006",
+  "code": "DCS 5006",
+  "title": "Professional Practice",
+  "semester": "sem1",
+  "chapters": [
+    {
+      "id": "ch01",
+      "title": "Ethics & Consent",
+      "file": "ch01.json"
+    },
+    {
+      "id": "ch02",
+      "title": "Scope of Practice",
+      "file": "ch02.json"
+    },
+    {
+      "id": "ch03",
+      "title": "Quality Assurance",
+      "file": "ch03.json"
+    },
+    {
+      "id": "ch04",
+      "title": "Ergonomics & Injury Prevention",
+      "file": "ch04.json"
+    }
+  ]
+}

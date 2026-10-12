@@ -1,0 +1,28 @@
+{
+  "id": "DCS5500",
+  "code": "DCS 5500",
+  "title": "ECG Interpretation",
+  "semester": "sem2",
+  "chapters": [
+    {
+      "id": "ch01",
+      "title": "Normal ECG",
+      "file": "ch01.json"
+    },
+    {
+      "id": "ch02",
+      "title": "Arrhythmias",
+      "file": "ch02.json"
+    },
+    {
+      "id": "ch03",
+      "title": "Ischemia & Infarction",
+      "file": "ch03.json"
+    },
+    {
+      "id": "ch04",
+      "title": "Conduction Blocks",
+      "file": "ch04.json"
+    }
+  ]
+}

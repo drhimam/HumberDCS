@@ -1,0 +1,28 @@
+{
+  "id": "DCS5000",
+  "code": "DCS 5000",
+  "title": "Introduction to Echocardiography",
+  "semester": "sem1",
+  "chapters": [
+    {
+      "id": "ch01",
+      "title": "History & Echo Modalities",
+      "file": "ch01.json"
+    },
+    {
+      "id": "ch02",
+      "title": "Standard Windows & Views",
+      "file": "ch02.json"
+    },
+    {
+      "id": "ch03",
+      "title": "Transducer Selection & Ergonomics",
+      "file": "ch03.json"
+    },
+    {
+      "id": "ch04",
+      "title": "Basic Image Optimization",
+      "file": "ch04.json"
+    }
+  ]
+}

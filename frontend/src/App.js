@@ -1,0 +1,36 @@
+import "@/App.css";
+import { BrowserRouter, Navigate, Route, Routes } from "react-router-dom";
+import { Toaster } from "@/components/ui/sonner";
+import { AppShell } from "@/components/AppShell";
+import Dashboard from "@/pages/Dashboard";
+import StudyChapters from "@/pages/StudyChapters";
+import StudySession from "@/pages/StudySession";
+import ExamSetup from "@/pages/ExamSetup";
+import ExamRunner from "@/pages/ExamRunner";
+import ExamResults from "@/pages/ExamResults";
+import WrongAnswers from "@/pages/WrongAnswers";
+import Courses from "@/pages/Courses";
+
+function App() {
+  return (
+    <BrowserRouter>
+      <Routes>
+        <Route path="/" element={<Navigate to="/dashboard" replace />} />
+        <Route element={<AppShell />}>
+          <Route path="/dashboard" element={<Dashboard />} />
+          <Route path="/courses" element={<Courses />} />
+          <Route path="/wrong-answers" element={<WrongAnswers />} />
+          <Route path="/subject/:sid/study" element={<StudyChapters />} />
+          <Route path="/subject/:sid/study/:cid" element={<StudySession />} />
+          <Route path="/subject/:sid/exam" element={<ExamSetup />} />
+          <Route path="/exam/results" element={<ExamResults />} />
+        </Route>
+        <Route path="/exam/run" element={<ExamRunner />} />
+        <Route path="*" element={<Navigate to="/dashboard" replace />} />
+      </Routes>
+      <Toaster theme="light" position="bottom-right" richColors />
+    </BrowserRouter>
+  );
+}
+
+export default App;

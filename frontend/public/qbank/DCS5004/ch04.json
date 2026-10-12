@@ -1,0 +1,3606 @@
+{
+  "chapterId": "ch04",
+  "title": "Module 4: Pulsed Ultrasound Parameters and Timing",
+  "questions": [
+    {
+      "id": "DCS5004-ch04-q001",
+      "stem": "Period is:",
+      "image": null,
+      "options": [
+        "The time occupied by one pulse",
+        "The time required for one cycle",
+        "The time from the start of one pulse to the start of the next",
+        "The number of pulses per second"
+      ],
+      "answer": 1,
+      "explanation": "Period is the time for one cycle.",
+      "explanationImage": null,
+      "tags": [
+        "Cycle vs Pulse Terminology"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch04-q002",
+      "stem": "Pulse duration is:",
+      "image": null,
+      "options": [
+        "The time for one cycle",
+        "The time between pulses",
+        "The total time occupied by one transmitted pulse",
+        "The listening time"
+      ],
+      "answer": 2,
+      "explanation": "Pulse duration is the total time of one transmitted pulse.",
+      "explanationImage": null,
+      "tags": [
+        "Cycle vs Pulse Terminology"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch04-q003",
+      "stem": "Pulse repetition period (PRP) is measured from:",
+      "image": null,
+      "options": [
+        "The end of one pulse to the start of the next",
+        "The start of one cycle to the start of the next cycle",
+        "The end of transmit time to the end of receive time",
+        "The start of one pulse to the start of the next pulse"
+      ],
+      "answer": 3,
+      "explanation": "PRP runs from the start of one pulse to the start of the next.",
+      "explanationImage": null,
+      "tags": [
+        "Cycle vs Pulse Terminology"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch04-q004",
+      "stem": "Pulse repetition frequency (PRF) is:",
+      "image": null,
+      "options": [
+        "The number of pulses transmitted per second",
+        "The number of cycles in a pulse",
+        "The time required for one pulse",
+        "The distance occupied by one pulse"
+      ],
+      "answer": 0,
+      "explanation": "PRF is pulses transmitted per second.",
+      "explanationImage": null,
+      "tags": [
+        "Cycle vs Pulse Terminology"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch04-q005",
+      "stem": "PRP and PRF are:",
+      "image": null,
+      "options": [
+        "Directly equal",
+        "Unrelated",
+        "Reciprocals of each other",
+        "Squares of each other"
+      ],
+      "answer": 2,
+      "explanation": "PRF = 1 ÷ PRP.",
+      "explanationImage": null,
+      "tags": [
+        "Cycle vs Pulse Terminology"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch04-q006",
+      "stem": "Which parameter describes the physical distance occupied by one pulse?",
+      "image": null,
+      "options": [
+        "Pulse duration",
+        "Spatial pulse length",
+        "Pulse repetition period",
+        "Duty factor"
+      ],
+      "answer": 1,
+      "explanation": "Spatial pulse length is the distance occupied by one pulse.",
+      "explanationImage": null,
+      "tags": [
+        "Cycle vs Pulse Terminology"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch04-q007",
+      "stem": "Which parameters describe pulse-to-pulse timing rather than individual cycles?",
+      "image": null,
+      "options": [
+        "PRP and PRF",
+        "Period and frequency",
+        "Frequency and wavelength",
+        "Wavelength and amplitude"
+      ],
+      "answer": 0,
+      "explanation": "PRP and PRF describe pulse-to-pulse timing.",
+      "explanationImage": null,
+      "tags": [
+        "Cycle vs Pulse Terminology"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch04-q008",
+      "stem": "Listening time is the part of the PRP during which the system:",
+      "image": null,
+      "options": [
+        "Transmits a pulse",
+        "Changes frequency",
+        "Builds the display",
+        "Receives returning echoes"
+      ],
+      "answer": 3,
+      "explanation": "Listening time is when echoes are received.",
+      "explanationImage": null,
+      "tags": [
+        "Cycle vs Pulse Terminology"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch04-q009",
+      "stem": "The PRP consists of:",
+      "image": null,
+      "options": [
+        "Listening time only",
+        "Pulse duration plus listening time",
+        "Transmit time only",
+        "Cycles multiplied by wavelength"
+      ],
+      "answer": 1,
+      "explanation": "PRP = pulse duration + listening time.",
+      "explanationImage": null,
+      "tags": [
+        "Cycle vs Pulse Terminology"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch04-q010",
+      "stem": "Which of the following describes an individual cycle?",
+      "image": null,
+      "options": [
+        "PRF",
+        "PRP",
+        "Period",
+        "Duty factor"
+      ],
+      "answer": 2,
+      "explanation": "Period describes one cycle.",
+      "explanationImage": null,
+      "tags": [
+        "Cycle vs Pulse Terminology"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch04-q011",
+      "stem": "Which of the following is a pulse parameter?",
+      "image": null,
+      "options": [
+        "Frequency",
+        "Wavelength",
+        "Amplitude",
+        "Spatial pulse length"
+      ],
+      "answer": 3,
+      "explanation": "Spatial pulse length describes a whole pulse.",
+      "explanationImage": null,
+      "tags": [
+        "Cycle vs Pulse Terminology"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch04-q012",
+      "stem": "Duty factor represents:",
+      "image": null,
+      "options": [
+        "The fraction of time the system is listening",
+        "The fraction of time the system is transmitting pulses",
+        "The number of cycles in a pulse",
+        "The distance occupied by a pulse"
+      ],
+      "answer": 1,
+      "explanation": "Duty factor is the fraction of time spent transmitting.",
+      "explanationImage": null,
+      "tags": [
+        "Cycle vs Pulse Terminology"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch04-q013",
+      "stem": "The duty factor of continuous wave ultrasound is:",
+      "image": null,
+      "options": [
+        "0",
+        "0.5",
+        "1 (100%)",
+        "10"
+      ],
+      "answer": 2,
+      "explanation": "Continuous wave transmits all the time, so DF = 1 (100%).",
+      "explanationImage": null,
+      "tags": [
+        "Cycle vs Pulse Terminology"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch04-q014",
+      "stem": "Which statement correctly distinguishes period from pulse duration?",
+      "image": null,
+      "options": [
+        "They are the same quantity",
+        "Period measures a pulse; pulse duration measures a cycle",
+        "Both measure the time between pulse starts",
+        "Period measures one cycle; pulse duration measures the whole pulse"
+      ],
+      "answer": 3,
+      "explanation": "Period is one cycle; pulse duration is the entire pulse.",
+      "explanationImage": null,
+      "tags": [
+        "Cycle vs Pulse Terminology"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch04-q015",
+      "stem": "A pulse has 3 cycles, each with a period of 0.5 µs. What is the pulse duration?",
+      "image": null,
+      "options": [
+        "0.17 µs",
+        "1.5 µs",
+        "3.5 µs",
+        "6 µs"
+      ],
+      "answer": 1,
+      "explanation": "3 × 0.5 = 1.5 µs.",
+      "explanationImage": null,
+      "tags": [
+        "Pulse Duration"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch04-q016",
+      "stem": "A pulse has 5 cycles, each with a period of 0.25 µs. What is the pulse duration?",
+      "image": null,
+      "options": [
+        "1.25 µs",
+        "0.05 µs",
+        "5.25 µs",
+        "20 µs"
+      ],
+      "answer": 0,
+      "explanation": "5 × 0.25 = 1.25 µs.",
+      "explanationImage": null,
+      "tags": [
+        "Pulse Duration"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch04-q017",
+      "stem": "A pulse has 2 cycles, each with a period of 0.4 µs. What is the pulse duration?",
+      "image": null,
+      "options": [
+        "0.2 µs",
+        "2.4 µs",
+        "0.8 µs",
+        "8 µs"
+      ],
+      "answer": 2,
+      "explanation": "2 × 0.4 = 0.8 µs.",
+      "explanationImage": null,
+      "tags": [
+        "Pulse Duration"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch04-q018",
+      "stem": "A 2 MHz transducer emits a pulse of 4 cycles. What is the pulse duration?",
+      "image": null,
+      "options": [
+        "0.5 µs",
+        "8 µs",
+        "4 µs",
+        "2 µs"
+      ],
+      "answer": 3,
+      "explanation": "T = 0.5 µs; 4 × 0.5 = 2 µs.",
+      "explanationImage": null,
+      "tags": [
+        "Pulse Duration"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch04-q019",
+      "stem": "A 5 MHz transducer emits a pulse of 3 cycles. What is the pulse duration?",
+      "image": null,
+      "options": [
+        "0.6 µs",
+        "0.06 µs",
+        "1.5 µs",
+        "15 µs"
+      ],
+      "answer": 0,
+      "explanation": "T = 0.2 µs; 3 × 0.2 = 0.6 µs.",
+      "explanationImage": null,
+      "tags": [
+        "Pulse Duration"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch04-q020",
+      "stem": "A 4 MHz transducer emits a pulse of 2 cycles. What is the pulse duration?",
+      "image": null,
+      "options": [
+        "0.125 µs",
+        "0.5 µs",
+        "2 µs",
+        "8 µs"
+      ],
+      "answer": 1,
+      "explanation": "T = 0.25 µs; 2 × 0.25 = 0.5 µs.",
+      "explanationImage": null,
+      "tags": [
+        "Pulse Duration"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch04-q021",
+      "stem": "A 3 MHz transducer emits a pulse of 6 cycles. What is the pulse duration?",
+      "image": null,
+      "options": [
+        "18 µs",
+        "0.5 µs",
+        "2 µs",
+        "9 µs"
+      ],
+      "answer": 2,
+      "explanation": "T = 0.333 µs; 6 × 0.333 = 2 µs.",
+      "explanationImage": null,
+      "tags": [
+        "Pulse Duration"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch04-q022",
+      "stem": "A 1 MHz transducer emits a pulse of 3 cycles. What is the pulse duration?",
+      "image": null,
+      "options": [
+        "0.33 µs",
+        "1 µs",
+        "4 µs",
+        "3 µs"
+      ],
+      "answer": 3,
+      "explanation": "T = 1 µs; 3 × 1 = 3 µs.",
+      "explanationImage": null,
+      "tags": [
+        "Pulse Duration"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch04-q023",
+      "stem": "With the number of cycles per pulse constant, increasing frequency causes pulse duration to:",
+      "image": null,
+      "options": [
+        "Decrease",
+        "Increase",
+        "Stay the same",
+        "Double"
+      ],
+      "answer": 0,
+      "explanation": "Higher frequency means a shorter period, so a shorter pulse.",
+      "explanationImage": null,
+      "tags": [
+        "Pulse Duration"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch04-q024",
+      "stem": "With frequency constant, increasing the number of cycles per pulse causes pulse duration to:",
+      "image": null,
+      "options": [
+        "Decrease",
+        "Increase",
+        "Stay the same",
+        "Fall to zero"
+      ],
+      "answer": 1,
+      "explanation": "More cycles lengthen the pulse.",
+      "explanationImage": null,
+      "tags": [
+        "Pulse Duration"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch04-q025",
+      "stem": "With the number of cycles constant, halving the frequency causes pulse duration to:",
+      "image": null,
+      "options": [
+        "Halve",
+        "Stay the same",
+        "Double",
+        "Quadruple"
+      ],
+      "answer": 2,
+      "explanation": "Halving frequency doubles the period, doubling pulse duration.",
+      "explanationImage": null,
+      "tags": [
+        "Pulse Duration"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch04-q026",
+      "stem": "The number of cycles doubles while the period is halved. Pulse duration:",
+      "image": null,
+      "options": [
+        "Doubles",
+        "Halves",
+        "Quadruples",
+        "Is unchanged"
+      ],
+      "answer": 3,
+      "explanation": "Cycles × period stays the same.",
+      "explanationImage": null,
+      "tags": [
+        "Pulse Duration"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch04-q027",
+      "stem": "Which change decreases pulse duration when the number of cycles is constant?",
+      "image": null,
+      "options": [
+        "Lowering the frequency",
+        "Lengthening the period",
+        "Raising the frequency",
+        "Increasing the imaging depth"
+      ],
+      "answer": 2,
+      "explanation": "Higher frequency shortens the period and the pulse.",
+      "explanationImage": null,
+      "tags": [
+        "Pulse Duration"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch04-q028",
+      "stem": "Which unit is appropriate for pulse duration?",
+      "image": null,
+      "options": [
+        "mm",
+        "µs",
+        "kHz",
+        "It is unitless"
+      ],
+      "answer": 1,
+      "explanation": "Pulse duration is a time (µs).",
+      "explanationImage": null,
+      "tags": [
+        "Pulse Duration"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch04-q029",
+      "stem": "A pulse has 3 cycles and a wavelength of 0.5 mm. What is the spatial pulse length?",
+      "image": null,
+      "options": [
+        "0.17 mm",
+        "1.5 mm",
+        "3.5 mm",
+        "6 mm"
+      ],
+      "answer": 1,
+      "explanation": "3 × 0.5 = 1.5 mm.",
+      "explanationImage": null,
+      "tags": [
+        "Spatial Pulse Length"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch04-q030",
+      "stem": "A pulse has 4 cycles and a wavelength of 0.3 mm. What is the spatial pulse length?",
+      "image": null,
+      "options": [
+        "1.2 mm",
+        "0.075 mm",
+        "4.3 mm",
+        "12 mm"
+      ],
+      "answer": 0,
+      "explanation": "4 × 0.3 = 1.2 mm.",
+      "explanationImage": null,
+      "tags": [
+        "Spatial Pulse Length"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch04-q031",
+      "stem": "A pulse has 2 cycles and a wavelength of 0.77 mm. What is the spatial pulse length?",
+      "image": null,
+      "options": [
+        "0.385 mm",
+        "3.08 mm",
+        "1.54 mm",
+        "2.77 mm"
+      ],
+      "answer": 2,
+      "explanation": "2 × 0.77 = 1.54 mm.",
+      "explanationImage": null,
+      "tags": [
+        "Spatial Pulse Length"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch04-q032",
+      "stem": "A 1 MHz pulse of 3 cycles travels in soft tissue (c = 1540 m/s). What is the spatial pulse length?",
+      "image": null,
+      "options": [
+        "0.51 mm",
+        "1.54 mm",
+        "3 mm",
+        "4.62 mm"
+      ],
+      "answer": 3,
+      "explanation": "λ = 1.54 mm; 3 × 1.54 = 4.62 mm.",
+      "explanationImage": null,
+      "tags": [
+        "Spatial Pulse Length"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch04-q033",
+      "stem": "A 5 MHz pulse of 2 cycles travels in soft tissue (c = 1540 m/s). What is the spatial pulse length?",
+      "image": null,
+      "options": [
+        "0.616 mm",
+        "0.154 mm",
+        "1.54 mm",
+        "6.16 mm"
+      ],
+      "answer": 0,
+      "explanation": "λ = 0.308 mm; 2 × 0.308 = 0.616 mm.",
+      "explanationImage": null,
+      "tags": [
+        "Spatial Pulse Length"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch04-q034",
+      "stem": "A pulse of 4 cycles has a spatial pulse length of 6 mm. What is the wavelength?",
+      "image": null,
+      "options": [
+        "24 mm",
+        "1.5 mm",
+        "0.67 mm",
+        "2 mm"
+      ],
+      "answer": 1,
+      "explanation": "λ = SPL ÷ cycles = 6 ÷ 4 = 1.5 mm.",
+      "explanationImage": null,
+      "tags": [
+        "Spatial Pulse Length"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch04-q035",
+      "stem": "Which combination produces the shortest spatial pulse length?",
+      "image": null,
+      "options": [
+        "Many cycles and a long wavelength",
+        "Many cycles and a short wavelength",
+        "Few cycles and a short wavelength",
+        "Few cycles and a long wavelength"
+      ],
+      "answer": 2,
+      "explanation": "Few cycles and a short wavelength minimize SPL.",
+      "explanationImage": null,
+      "tags": [
+        "Spatial Pulse Length"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch04-q036",
+      "stem": "If the number of cycles doubles and the wavelength is unchanged, spatial pulse length:",
+      "image": null,
+      "options": [
+        "Is unchanged",
+        "Halves",
+        "Falls to one-quarter",
+        "Doubles"
+      ],
+      "answer": 3,
+      "explanation": "SPL = cycles × wavelength; doubling cycles doubles SPL.",
+      "explanationImage": null,
+      "tags": [
+        "Spatial Pulse Length"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch04-q037",
+      "stem": "In the same medium with a constant number of cycles, doubling the frequency causes spatial pulse length to:",
+      "image": null,
+      "options": [
+        "Double",
+        "Halve",
+        "Stay the same",
+        "Quadruple"
+      ],
+      "answer": 1,
+      "explanation": "Doubling frequency halves wavelength and so halves SPL.",
+      "explanationImage": null,
+      "tags": [
+        "Spatial Pulse Length"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch04-q038",
+      "stem": "Which unit is appropriate for spatial pulse length?",
+      "image": null,
+      "options": [
+        "µs",
+        "Hz",
+        "mm",
+        "%"
+      ],
+      "answer": 2,
+      "explanation": "SPL is a distance (mm).",
+      "explanationImage": null,
+      "tags": [
+        "Spatial Pulse Length"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch04-q039",
+      "stem": "Spatial pulse length is determined by:",
+      "image": null,
+      "options": [
+        "The number of cycles and the wavelength",
+        "PRP and imaging depth",
+        "Duty factor",
+        "Amplitude"
+      ],
+      "answer": 0,
+      "explanation": "SPL = cycles × wavelength.",
+      "explanationImage": null,
+      "tags": [
+        "Spatial Pulse Length"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch04-q040",
+      "stem": "A 2-cycle pulse and a 3-cycle pulse both have a frequency of 5 MHz in soft tissue. Which has the shorter spatial pulse length?",
+      "image": null,
+      "options": [
+        "The 3-cycle pulse",
+        "They are equal",
+        "The 2-cycle pulse",
+        "It cannot be determined"
+      ],
+      "answer": 2,
+      "explanation": "Same wavelength, fewer cycles gives a shorter SPL.",
+      "explanationImage": null,
+      "tags": [
+        "Spatial Pulse Length"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch04-q041",
+      "stem": "Which pulse characteristic gives the best axial resolution?",
+      "image": null,
+      "options": [
+        "Long pulse duration",
+        "Long spatial pulse length",
+        "Short spatial pulse length",
+        "A high PRP"
+      ],
+      "answer": 2,
+      "explanation": "A short SPL gives the best axial resolution.",
+      "explanationImage": null,
+      "tags": [
+        "Axial Resolution"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch04-q042",
+      "stem": "Axial resolution equals:",
+      "image": null,
+      "options": [
+        "Spatial pulse length × 2",
+        "Spatial pulse length ÷ 2",
+        "Spatial pulse length",
+        "PRP ÷ 2"
+      ],
+      "answer": 1,
+      "explanation": "Axial resolution = SPL ÷ 2.",
+      "explanationImage": null,
+      "tags": [
+        "Axial Resolution"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch04-q043",
+      "stem": "A pulse has a spatial pulse length of 1.2 mm. What is the axial resolution?",
+      "image": null,
+      "options": [
+        "2.4 mm",
+        "1.2 mm",
+        "0.3 mm",
+        "0.6 mm"
+      ],
+      "answer": 3,
+      "explanation": "1.2 ÷ 2 = 0.6 mm.",
+      "explanationImage": null,
+      "tags": [
+        "Axial Resolution"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch04-q044",
+      "stem": "A pulse has a spatial pulse length of 3 mm. What is the axial resolution?",
+      "image": null,
+      "options": [
+        "1.5 mm",
+        "3 mm",
+        "6 mm",
+        "0.75 mm"
+      ],
+      "answer": 0,
+      "explanation": "3 ÷ 2 = 1.5 mm.",
+      "explanationImage": null,
+      "tags": [
+        "Axial Resolution"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch04-q045",
+      "stem": "The axial resolution is 0.4 mm. What is the spatial pulse length?",
+      "image": null,
+      "options": [
+        "0.2 mm",
+        "0.4 mm",
+        "0.8 mm",
+        "1.6 mm"
+      ],
+      "answer": 2,
+      "explanation": "SPL = 2 × 0.4 = 0.8 mm.",
+      "explanationImage": null,
+      "tags": [
+        "Axial Resolution"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch04-q046",
+      "stem": "Two reflectors lie very close together along the beam direction. Which change would most improve their separate display?",
+      "image": null,
+      "options": [
+        "Increase spatial pulse length",
+        "Increase pulse duration",
+        "Increase imaging depth",
+        "Decrease spatial pulse length"
+      ],
+      "answer": 3,
+      "explanation": "Decreasing SPL improves axial resolution.",
+      "explanationImage": null,
+      "tags": [
+        "Axial Resolution"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch04-q047",
+      "stem": "A transducer uses fewer cycles per pulse at an unchanged frequency. What is expected?",
+      "image": null,
+      "options": [
+        "Longer pulse duration and poorer axial resolution",
+        "Shorter pulse duration and improved axial resolution",
+        "Longer PRP and lower PRF",
+        "Higher duty factor only"
+      ],
+      "answer": 1,
+      "explanation": "Fewer cycles shorten PD and SPL, improving axial resolution.",
+      "explanationImage": null,
+      "tags": [
+        "Axial Resolution"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch04-q048",
+      "stem": "Improved axial resolution means the system is better able to:",
+      "image": null,
+      "options": [
+        "Separate structures side by side",
+        "Show motion over time",
+        "Penetrate deeper",
+        "Separate reflectors lying along the beam axis"
+      ],
+      "answer": 3,
+      "explanation": "Axial resolution separates reflectors along the beam axis.",
+      "explanationImage": null,
+      "tags": [
+        "Axial Resolution"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch04-q049",
+      "stem": "The axial resolution is 0.6 mm. Two reflectors 0.4 mm apart along the beam will:",
+      "image": null,
+      "options": [
+        "Be displayed separately",
+        "Merge into a single echo",
+        "Appear brighter",
+        "Appear deeper"
+      ],
+      "answer": 1,
+      "explanation": "Spacing (0.4 mm) is less than axial resolution (0.6 mm), so the echoes merge.",
+      "explanationImage": null,
+      "tags": [
+        "Axial Resolution"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch04-q050",
+      "stem": "The axial resolution is 0.3 mm. Two reflectors 0.5 mm apart along the beam will:",
+      "image": null,
+      "options": [
+        "Merge into a single echo",
+        "Disappear from the display",
+        "Be displayed separately",
+        "Appear as a single brighter echo"
+      ],
+      "answer": 2,
+      "explanation": "Spacing (0.5 mm) exceeds axial resolution (0.3 mm), so they are separate.",
+      "explanationImage": null,
+      "tags": [
+        "Axial Resolution"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch04-q051",
+      "stem": "The PRP is 200 µs. What is the PRF?",
+      "image": null,
+      "options": [
+        "0.5 kHz",
+        "5 kHz",
+        "50 kHz",
+        "200 kHz"
+      ],
+      "answer": 1,
+      "explanation": "1 ÷ 200 µs = 5 kHz.",
+      "explanationImage": null,
+      "tags": [
+        "PRP, PRF and Listening Time"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch04-q052",
+      "stem": "The PRP is 100 µs. What is the PRF?",
+      "image": null,
+      "options": [
+        "1 kHz",
+        "100 kHz",
+        "10 kHz",
+        "0.01 kHz"
+      ],
+      "answer": 2,
+      "explanation": "1 ÷ 100 µs = 10 kHz.",
+      "explanationImage": null,
+      "tags": [
+        "PRP, PRF and Listening Time"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch04-q053",
+      "stem": "The PRP is 500 µs. What is the PRF?",
+      "image": null,
+      "options": [
+        "2 kHz",
+        "0.5 kHz",
+        "5 kHz",
+        "500 kHz"
+      ],
+      "answer": 0,
+      "explanation": "1 ÷ 500 µs = 2 kHz.",
+      "explanationImage": null,
+      "tags": [
+        "PRP, PRF and Listening Time"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch04-q054",
+      "stem": "The PRP is 250 µs. What is the PRF?",
+      "image": null,
+      "options": [
+        "0.25 kHz",
+        "2.5 kHz",
+        "40 kHz",
+        "4 kHz"
+      ],
+      "answer": 3,
+      "explanation": "1 ÷ 250 µs = 4 kHz.",
+      "explanationImage": null,
+      "tags": [
+        "PRP, PRF and Listening Time"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch04-q055",
+      "stem": "The PRF is 10 kHz. What is the PRP?",
+      "image": null,
+      "options": [
+        "10 µs",
+        "100 µs",
+        "1,000 µs",
+        "0.1 µs"
+      ],
+      "answer": 1,
+      "explanation": "1 ÷ 10 kHz = 100 µs.",
+      "explanationImage": null,
+      "tags": [
+        "PRP, PRF and Listening Time"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch04-q056",
+      "stem": "The PRF is 4 kHz. What is the PRP?",
+      "image": null,
+      "options": [
+        "25 µs",
+        "40 µs",
+        "250 µs",
+        "2,500 µs"
+      ],
+      "answer": 2,
+      "explanation": "1 ÷ 4 kHz = 250 µs.",
+      "explanationImage": null,
+      "tags": [
+        "PRP, PRF and Listening Time"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch04-q057",
+      "stem": "The PRF is 2 kHz. What is the PRP?",
+      "image": null,
+      "options": [
+        "50 µs",
+        "2 µs",
+        "5,000 µs",
+        "500 µs"
+      ],
+      "answer": 3,
+      "explanation": "1 ÷ 2 kHz = 500 µs.",
+      "explanationImage": null,
+      "tags": [
+        "PRP, PRF and Listening Time"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch04-q058",
+      "stem": "What happens to PRF when PRP increases?",
+      "image": null,
+      "options": [
+        "PRF increases",
+        "PRF decreases",
+        "PRF is unchanged",
+        "PRF equals duty factor"
+      ],
+      "answer": 1,
+      "explanation": "PRF and PRP are reciprocal.",
+      "explanationImage": null,
+      "tags": [
+        "PRP, PRF and Listening Time"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch04-q059",
+      "stem": "If PRF doubles, PRP:",
+      "image": null,
+      "options": [
+        "Doubles",
+        "Is unchanged",
+        "Halves",
+        "Quadruples"
+      ],
+      "answer": 2,
+      "explanation": "Doubling PRF halves PRP.",
+      "explanationImage": null,
+      "tags": [
+        "PRP, PRF and Listening Time"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch04-q060",
+      "stem": "Greater imaging depth requires:",
+      "image": null,
+      "options": [
+        "Longer listening time",
+        "Shorter listening time",
+        "Higher pulse duration",
+        "Shorter wavelength"
+      ],
+      "answer": 0,
+      "explanation": "Deeper imaging needs longer listening time.",
+      "explanationImage": null,
+      "tags": [
+        "PRP, PRF and Listening Time"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch04-q061",
+      "stem": "Which pulse parameter is directly related to imaging depth?",
+      "image": null,
+      "options": [
+        "Pulse duration",
+        "Spatial pulse length",
+        "Pulse repetition period",
+        "Transmitted frequency"
+      ],
+      "answer": 2,
+      "explanation": "Pulse repetition period is directly related to depth.",
+      "explanationImage": null,
+      "tags": [
+        "PRP, PRF and Listening Time"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch04-q062",
+      "stem": "For a 10 cm imaging depth in soft tissue (13 µs per cm round trip), the minimum PRP needed to listen for the deepest echo is about:",
+      "image": null,
+      "options": [
+        "13 µs",
+        "130 µs",
+        "1,300 µs",
+        "1.3 µs"
+      ],
+      "answer": 1,
+      "explanation": "10 cm × 13 µs/cm = 130 µs.",
+      "explanationImage": null,
+      "tags": [
+        "PRP, PRF and Listening Time"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch04-q063",
+      "stem": "For a 5 cm imaging depth in soft tissue (13 µs per cm round trip), the minimum PRP is about:",
+      "image": null,
+      "options": [
+        "13 µs",
+        "130 µs",
+        "6.5 µs",
+        "65 µs"
+      ],
+      "answer": 3,
+      "explanation": "5 cm × 13 µs/cm = 65 µs.",
+      "explanationImage": null,
+      "tags": [
+        "PRP, PRF and Listening Time"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch04-q064",
+      "stem": "A 130 µs PRP corresponds to a PRF of about:",
+      "image": null,
+      "options": [
+        "7.7 kHz",
+        "77 kHz",
+        "0.77 kHz",
+        "13 kHz"
+      ],
+      "answer": 0,
+      "explanation": "1 ÷ 130 µs ≈ 7.7 kHz.",
+      "explanationImage": null,
+      "tags": [
+        "PRP, PRF and Listening Time"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch04-q065",
+      "stem": "A sonographer decreases imaging depth with all other settings unchanged. What is expected?",
+      "image": null,
+      "options": [
+        "Longer PRP and lower PRF",
+        "Shorter PRP and higher PRF",
+        "Longer pulse duration",
+        "Lower duty factor"
+      ],
+      "answer": 1,
+      "explanation": "Less depth means shorter PRP and higher PRF.",
+      "explanationImage": null,
+      "tags": [
+        "PRP, PRF and Listening Time"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch04-q066",
+      "stem": "Which unit is commonly used for PRF?",
+      "image": null,
+      "options": [
+        "µs",
+        "mm",
+        "kHz",
+        "%"
+      ],
+      "answer": 2,
+      "explanation": "PRF is commonly given in kHz.",
+      "explanationImage": null,
+      "tags": [
+        "PRP, PRF and Listening Time"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch04-q067",
+      "stem": "Duty factor is calculated as:",
+      "image": null,
+      "options": [
+        "Pulse duration ÷ PRP",
+        "PRP ÷ pulse duration",
+        "PRF ÷ pulse duration",
+        "SPL ÷ wavelength"
+      ],
+      "answer": 0,
+      "explanation": "Duty factor = pulse duration ÷ PRP.",
+      "explanationImage": null,
+      "tags": [
+        "Duty Factor"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch04-q068",
+      "stem": "The pulse duration is 2 µs and the PRP is 400 µs. What is the duty factor?",
+      "image": null,
+      "options": [
+        "0.05%",
+        "0.5%",
+        "5%",
+        "50%"
+      ],
+      "answer": 1,
+      "explanation": "2 ÷ 400 = 0.005 = 0.5%.",
+      "explanationImage": null,
+      "tags": [
+        "Duty Factor"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch04-q069",
+      "stem": "The pulse duration is 1 µs and the PRP is 500 µs. What is the duty factor?",
+      "image": null,
+      "options": [
+        "0.02%",
+        "2%",
+        "0.2%",
+        "20%"
+      ],
+      "answer": 2,
+      "explanation": "1 ÷ 500 = 0.002 = 0.2%.",
+      "explanationImage": null,
+      "tags": [
+        "Duty Factor"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch04-q070",
+      "stem": "The pulse duration is 3 µs and the PRP is 300 µs. What is the duty factor?",
+      "image": null,
+      "options": [
+        "0.1%",
+        "1%",
+        "10%",
+        "3%"
+      ],
+      "answer": 1,
+      "explanation": "3 ÷ 300 = 0.01 = 1%.",
+      "explanationImage": null,
+      "tags": [
+        "Duty Factor"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch04-q071",
+      "stem": "The pulse duration is 0.5 µs and the PRP is 100 µs. What is the duty factor?",
+      "image": null,
+      "options": [
+        "5%",
+        "0.05%",
+        "50%",
+        "0.5%"
+      ],
+      "answer": 3,
+      "explanation": "0.5 ÷ 100 = 0.005 = 0.5%.",
+      "explanationImage": null,
+      "tags": [
+        "Duty Factor"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch04-q072",
+      "stem": "The pulse duration is 2 µs and the PRP is 100 µs. What is the duty factor?",
+      "image": null,
+      "options": [
+        "2%",
+        "0.2%",
+        "20%",
+        "0.02%"
+      ],
+      "answer": 0,
+      "explanation": "2 ÷ 100 = 0.02 = 2%.",
+      "explanationImage": null,
+      "tags": [
+        "Duty Factor"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch04-q073",
+      "stem": "The pulse duration is 1.5 µs and the PRP is 150 µs. What is the duty factor?",
+      "image": null,
+      "options": [
+        "10%",
+        "0.1%",
+        "1%",
+        "15%"
+      ],
+      "answer": 2,
+      "explanation": "1.5 ÷ 150 = 0.01 = 1%.",
+      "explanationImage": null,
+      "tags": [
+        "Duty Factor"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch04-q074",
+      "stem": "A duty factor of 0.005 is equal to:",
+      "image": null,
+      "options": [
+        "0.05%",
+        "0.5%",
+        "5%",
+        "0.005%"
+      ],
+      "answer": 1,
+      "explanation": "0.005 × 100 = 0.5%.",
+      "explanationImage": null,
+      "tags": [
+        "Duty Factor"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch04-q075",
+      "stem": "Which statement about the units of duty factor is correct?",
+      "image": null,
+      "options": [
+        "It is measured in microseconds",
+        "It is measured in hertz",
+        "It is measured in millimetres",
+        "It is unitless (a ratio or percentage)"
+      ],
+      "answer": 3,
+      "explanation": "Duty factor is a ratio or percentage with no units.",
+      "explanationImage": null,
+      "tags": [
+        "Duty Factor"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch04-q076",
+      "stem": "With pulse duration constant, increasing PRP causes duty factor to:",
+      "image": null,
+      "options": [
+        "Decrease",
+        "Increase",
+        "Stay the same",
+        "Double"
+      ],
+      "answer": 0,
+      "explanation": "A larger PRP makes PD ÷ PRP smaller.",
+      "explanationImage": null,
+      "tags": [
+        "Duty Factor"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch04-q077",
+      "stem": "With pulse duration constant, decreasing PRP causes duty factor to:",
+      "image": null,
+      "options": [
+        "Decrease",
+        "Increase",
+        "Stay the same",
+        "Fall to zero"
+      ],
+      "answer": 1,
+      "explanation": "A smaller PRP makes PD ÷ PRP larger.",
+      "explanationImage": null,
+      "tags": [
+        "Duty Factor"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch04-q078",
+      "stem": "With PRP constant, increasing pulse duration causes duty factor to:",
+      "image": null,
+      "options": [
+        "Decrease",
+        "Stay the same",
+        "Increase",
+        "Become zero"
+      ],
+      "answer": 2,
+      "explanation": "Longer pulses with the same PRP raise the ratio.",
+      "explanationImage": null,
+      "tags": [
+        "Duty Factor"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch04-q079",
+      "stem": "Which change increases duty factor when pulse duration is constant?",
+      "image": null,
+      "options": [
+        "Increasing imaging depth",
+        "Decreasing imaging depth",
+        "Increasing PRP",
+        "Decreasing PRF"
+      ],
+      "answer": 1,
+      "explanation": "Less depth shortens PRP, raising duty factor.",
+      "explanationImage": null,
+      "tags": [
+        "Duty Factor"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch04-q080",
+      "stem": "What happens to duty factor when imaging depth increases (pulse duration constant)?",
+      "image": null,
+      "options": [
+        "It decreases because PRP increases",
+        "It increases because PRP increases",
+        "It stays constant",
+        "It increases because PRF decreases"
+      ],
+      "answer": 0,
+      "explanation": "Greater depth lengthens PRP and lowers PD ÷ PRP.",
+      "explanationImage": null,
+      "tags": [
+        "Duty Factor"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch04-q081",
+      "stem": "The duty factor of a continuous wave system is:",
+      "image": null,
+      "options": [
+        "0",
+        "0.01",
+        "1%",
+        "1 (100%)"
+      ],
+      "answer": 3,
+      "explanation": "Continuous wave is always transmitting: DF = 1 (100%).",
+      "explanationImage": null,
+      "tags": [
+        "Duty Factor"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch04-q082",
+      "stem": "A pulse lasts 1 µs and the PRF is 5 kHz. What is the duty factor?",
+      "image": null,
+      "options": [
+        "0.05%",
+        "0.5%",
+        "5%",
+        "50%"
+      ],
+      "answer": 1,
+      "explanation": "PRP = 200 µs; 1 ÷ 200 = 0.5%.",
+      "explanationImage": null,
+      "tags": [
+        "Duty Factor"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch04-q083",
+      "stem": "A sonographer increases the imaging depth. Which change occurs?",
+      "image": null,
+      "options": [
+        "PRP decreases",
+        "PRF increases",
+        "Listening time increases",
+        "Pulse duration increases"
+      ],
+      "answer": 2,
+      "explanation": "Greater depth needs more listening time.",
+      "explanationImage": null,
+      "tags": [
+        "Imaging Depth Relationships"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch04-q084",
+      "stem": "Which combination is expected when imaging depth increases?",
+      "image": null,
+      "options": [
+        "PRP decreases, PRF increases, duty factor increases",
+        "PRP increases, PRF decreases, duty factor decreases",
+        "PRP increases, PRF increases, duty factor decreases",
+        "PRP decreases, PRF decreases, duty factor increases"
+      ],
+      "answer": 1,
+      "explanation": "Greater depth: PRP up, PRF down, DF down.",
+      "explanationImage": null,
+      "tags": [
+        "Imaging Depth Relationships"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch04-q085",
+      "stem": "Which combination is expected when imaging depth decreases?",
+      "image": null,
+      "options": [
+        "PRP decreases, PRF increases, duty factor increases",
+        "PRP increases, PRF decreases, duty factor decreases",
+        "PRP increases, PRF increases, duty factor increases",
+        "PRP decreases, PRF decreases, duty factor decreases"
+      ],
+      "answer": 0,
+      "explanation": "Less depth: PRP down, PRF up, DF up.",
+      "explanationImage": null,
+      "tags": [
+        "Imaging Depth Relationships"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch04-q086",
+      "stem": "Which parameter is not affected by a change in imaging depth?",
+      "image": null,
+      "options": [
+        "PRP",
+        "PRF",
+        "Duty factor",
+        "Pulse duration"
+      ],
+      "answer": 3,
+      "explanation": "Pulse duration does not depend on depth.",
+      "explanationImage": null,
+      "tags": [
+        "Imaging Depth Relationships"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch04-q087",
+      "stem": "Which parameter is unaffected by imaging depth?",
+      "image": null,
+      "options": [
+        "PRF",
+        "PRP",
+        "Spatial pulse length",
+        "Duty factor"
+      ],
+      "answer": 2,
+      "explanation": "SPL does not depend on depth.",
+      "explanationImage": null,
+      "tags": [
+        "Imaging Depth Relationships"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch04-q088",
+      "stem": "A sonographer leaves the depth unnecessarily deep when imaging a superficial structure. The most likely consequence is:",
+      "image": null,
+      "options": [
+        "Higher PRF and improved temporal resolution",
+        "Shorter PRP and increased duty factor",
+        "Shorter SPL and improved axial resolution",
+        "Lower PRF and reduced frame rate"
+      ],
+      "answer": 3,
+      "explanation": "Excess depth lowers PRF and can reduce frame rate.",
+      "explanationImage": null,
+      "tags": [
+        "Imaging Depth Relationships"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch04-q089",
+      "stem": "Which parameter can be changed most directly by adjusting imaging depth?",
+      "image": null,
+      "options": [
+        "Pulse duration",
+        "Spatial pulse length",
+        "Pulse repetition frequency",
+        "Wavelength"
+      ],
+      "answer": 2,
+      "explanation": "Depth changes listening time, PRP and therefore PRF.",
+      "explanationImage": null,
+      "tags": [
+        "Imaging Depth Relationships"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch04-q090",
+      "stem": "Which statement about duty factor and depth is correct?",
+      "image": null,
+      "options": [
+        "Duty factor increases with depth because PRP increases",
+        "Duty factor decreases with depth because PRP increases",
+        "Duty factor is unchanged by depth",
+        "Duty factor increases with depth because PRF decreases"
+      ],
+      "answer": 1,
+      "explanation": "Longer PRP with constant PD lowers duty factor.",
+      "explanationImage": null,
+      "tags": [
+        "Imaging Depth Relationships"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch04-q091",
+      "stem": "If imaging depth doubles, PRP (dominated by listening time) approximately:",
+      "image": null,
+      "options": [
+        "Is unchanged",
+        "Halves",
+        "Doubles",
+        "Quadruples"
+      ],
+      "answer": 2,
+      "explanation": "Twice the depth needs about twice the listening time.",
+      "explanationImage": null,
+      "tags": [
+        "Imaging Depth Relationships"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch04-q092",
+      "stem": "If imaging depth doubles, PRF approximately:",
+      "image": null,
+      "options": [
+        "Doubles",
+        "Is unchanged",
+        "Quadruples",
+        "Halves"
+      ],
+      "answer": 3,
+      "explanation": "PRF = 1 ÷ PRP, so it roughly halves.",
+      "explanationImage": null,
+      "tags": [
+        "Imaging Depth Relationships"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch04-q093",
+      "stem": "If imaging depth is halved with pulse duration constant, duty factor approximately:",
+      "image": null,
+      "options": [
+        "Doubles",
+        "Halves",
+        "Is unchanged",
+        "Quadruples"
+      ],
+      "answer": 0,
+      "explanation": "PRP roughly halves, so PD ÷ PRP roughly doubles.",
+      "explanationImage": null,
+      "tags": [
+        "Imaging Depth Relationships"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch04-q094",
+      "stem": "Why can PRF increase when imaging depth decreases?",
+      "image": null,
+      "options": [
+        "Pulse duration becomes longer",
+        "Echoes return sooner, so less listening time is needed",
+        "Frequency increases",
+        "More cycles are used per pulse"
+      ],
+      "answer": 1,
+      "explanation": "Shallower echoes return sooner.",
+      "explanationImage": null,
+      "tags": [
+        "Imaging Depth Relationships"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch04-q095",
+      "stem": "Which parameter is measured in millimetres?",
+      "image": null,
+      "options": [
+        "Pulse duration",
+        "Pulse repetition period",
+        "Spatial pulse length",
+        "Pulse repetition frequency"
+      ],
+      "answer": 2,
+      "explanation": "Spatial pulse length is a distance.",
+      "explanationImage": null,
+      "tags": [
+        "Units and Clinical Application"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch04-q096",
+      "stem": "Which parameter is commonly expressed in kilohertz?",
+      "image": null,
+      "options": [
+        "Pulse duration",
+        "Pulse repetition frequency",
+        "Spatial pulse length",
+        "Duty factor"
+      ],
+      "answer": 1,
+      "explanation": "PRF is a frequency, often in kHz.",
+      "explanationImage": null,
+      "tags": [
+        "Units and Clinical Application"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch04-q097",
+      "stem": "Which units are appropriate for pulse repetition period?",
+      "image": null,
+      "options": [
+        "µs or ms",
+        "mm",
+        "kHz",
+        "%"
+      ],
+      "answer": 0,
+      "explanation": "PRP is a time, in µs or ms.",
+      "explanationImage": null,
+      "tags": [
+        "Units and Clinical Application"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch04-q098",
+      "stem": "A transducer uses fewer cycles per pulse at an unchanged frequency. The result is:",
+      "image": null,
+      "options": [
+        "Longer pulse duration and poorer axial resolution",
+        "Shorter pulse duration and improved axial resolution",
+        "A longer PRP",
+        "Increased penetration"
+      ],
+      "answer": 1,
+      "explanation": "Fewer cycles shorten PD and SPL, improving axial resolution.",
+      "explanationImage": null,
+      "tags": [
+        "Units and Clinical Application"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch04-q099",
+      "stem": "The PRP is 0.5 ms. What is the PRF?",
+      "image": null,
+      "options": [
+        "200 Hz",
+        "2 kHz",
+        "20 kHz",
+        "0.5 kHz"
+      ],
+      "answer": 1,
+      "explanation": "1 ÷ 0.0005 s = 2,000 Hz = 2 kHz.",
+      "explanationImage": null,
+      "tags": [
+        "Units and Clinical Application"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch04-q100",
+      "stem": "A pulse lasts 2 µs and the PRP is 0.4 ms. What is the duty factor?",
+      "image": null,
+      "options": [
+        "5%",
+        "0.05%",
+        "0.5%",
+        "50%"
+      ],
+      "answer": 2,
+      "explanation": "2 ÷ 400 = 0.005 = 0.5%.",
+      "explanationImage": null,
+      "tags": [
+        "Units and Clinical Application"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch04-q101",
+      "stem": "Ultrasound can be produced in which two basic ways?",
+      "image": null,
+      "options": [
+        "Static and dynamic",
+        "Continuous wave and pulsed wave",
+        "Longitudinal and transverse",
+        "Linear and curved"
+      ],
+      "answer": 1,
+      "explanation": "Ultrasound is produced as continuous wave (CW) or pulsed wave (PW).",
+      "explanationImage": null,
+      "tags": [
+        "Lecture 4 Review"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch04-q102",
+      "stem": "Pulsed ultrasound alternates between:",
+      "image": null,
+      "options": [
+        "Transmit periods and receive periods",
+        "High and low frequency",
+        "Compression and rarefaction only",
+        "Two different transducers"
+      ],
+      "answer": 0,
+      "explanation": "Pulsed ultrasound alternates transmit (on) and receive (off) periods.",
+      "explanationImage": null,
+      "tags": [
+        "Lecture 4 Review"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch04-q103",
+      "stem": "In pulsed ultrasound, the \"on time\" is when the system:",
+      "image": null,
+      "options": [
+        "Receives echoes",
+        "Stores images",
+        "Transmits a pulse",
+        "Adjusts gain"
+      ],
+      "answer": 2,
+      "explanation": "On time is when the system transmits a pulse.",
+      "explanationImage": null,
+      "tags": [
+        "Lecture 4 Review"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch04-q104",
+      "stem": "In pulsed ultrasound, the \"off time\" is when the system:",
+      "image": null,
+      "options": [
+        "Transmits a pulse",
+        "Powers down",
+        "Changes frequency",
+        "Receives returning echoes"
+      ],
+      "answer": 3,
+      "explanation": "Off time is when the system listens for returning echoes.",
+      "explanationImage": null,
+      "tags": [
+        "Lecture 4 Review"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch04-q105",
+      "stem": "Continuous-wave ultrasound:",
+      "image": null,
+      "options": [
+        "Transmits continuously",
+        "Alternates transmit and receive",
+        "Uses only one cycle",
+        "Has gaps between pulses"
+      ],
+      "answer": 0,
+      "explanation": "CW ultrasound transmits continuously with no gaps.",
+      "explanationImage": null,
+      "tags": [
+        "Lecture 4 Review"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch04-q106",
+      "stem": "Pulsed ultrasound is required for 2D imaging because it:",
+      "image": null,
+      "options": [
+        "Uses a higher frequency",
+        "Provides measurable echo-return time for depth (range) information",
+        "Needs no off time",
+        "Produces continuous echoes"
+      ],
+      "answer": 1,
+      "explanation": "Pulses give a measurable echo-return time, which allows depth to be calculated.",
+      "explanationImage": null,
+      "tags": [
+        "Lecture 4 Review"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch04-q107",
+      "stem": "Continuous wave cannot produce range-resolved B-mode imaging because it lacks a:",
+      "image": null,
+      "options": [
+        "Frequency",
+        "Wavelength",
+        "Pulse-timing reference",
+        "Transducer"
+      ],
+      "answer": 2,
+      "explanation": "CW has no pulse-timing reference, so it cannot create range-resolved B-mode images.",
+      "explanationImage": null,
+      "tags": [
+        "Lecture 4 Review"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch04-q108",
+      "stem": "Multiple scan lines, each from a pulse, form a:",
+      "image": null,
+      "options": [
+        "2D image",
+        "Single cycle",
+        "Continuous wave",
+        "Spectral trace only"
+      ],
+      "answer": 0,
+      "explanation": "Many scan lines together form a 2D image.",
+      "explanationImage": null,
+      "tags": [
+        "Lecture 4 Review"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch04-q109",
+      "stem": "Ranging is also known as:",
+      "image": null,
+      "options": [
+        "Attenuation",
+        "Refraction",
+        "Interference",
+        "Echo location"
+      ],
+      "answer": 3,
+      "explanation": "Ranging is also called echo location.",
+      "explanationImage": null,
+      "tags": [
+        "Lecture 4 Review"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch04-q110",
+      "stem": "Every echo displayed on the screen represents sound that:",
+      "image": null,
+      "options": [
+        "Travelled only into the body",
+        "Travelled to a reflector and back to the transducer (round trip)",
+        "Never left the transducer",
+        "Travelled in a vacuum"
+      ],
+      "answer": 1,
+      "explanation": "Each displayed echo left the transducer, reflected from a structure, and returned (round trip).",
+      "explanationImage": null,
+      "tags": [
+        "Lecture 4 Review"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch04-q111",
+      "stem": "The round-trip travel time of ultrasound in soft tissue is about:",
+      "image": null,
+      "options": [
+        "13 µs per cm of depth",
+        "1.3 µs per cm",
+        "130 µs per cm",
+        "13 ms per cm"
+      ],
+      "answer": 0,
+      "explanation": "About 13 µs of round-trip time is needed for every centimetre of depth.",
+      "explanationImage": null,
+      "tags": [
+        "Lecture 4 Review"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch04-q112",
+      "stem": "The speed of sound assumed by ultrasound systems in soft tissue is:",
+      "image": null,
+      "options": [
+        "330 m/s",
+        "4080 m/s",
+        "1540 m/s",
+        "15,400 m/s"
+      ],
+      "answer": 2,
+      "explanation": "Systems assume 1540 m/s in soft tissue.",
+      "explanationImage": null,
+      "tags": [
+        "Lecture 4 Review"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch04-q113",
+      "stem": "The range equation is:",
+      "image": null,
+      "options": [
+        "Depth = (propagation speed × time) ÷ 2",
+        "Depth = propagation speed × time",
+        "Depth = time ÷ propagation speed",
+        "Depth = propagation speed ÷ 2"
+      ],
+      "answer": 0,
+      "explanation": "Range = (c × t) ÷ 2.",
+      "explanationImage": null,
+      "tags": [
+        "Lecture 4 Review"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch04-q114",
+      "stem": "The echo travel time is divided by two because:",
+      "image": null,
+      "options": [
+        "Sound slows down in tissue",
+        "The echo travels to the reflector and back, so only half the time is the one-way distance",
+        "Frequency doubles",
+        "Gain doubles"
+      ],
+      "answer": 1,
+      "explanation": "The measured time covers the trip to the reflector and back, so it is divided by two.",
+      "explanationImage": null,
+      "tags": [
+        "Lecture 4 Review"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch04-q115",
+      "stem": "An echo returns 26 µs after the pulse. The reflector depth is:",
+      "image": null,
+      "options": [
+        "1 cm",
+        "4 cm",
+        "2 cm",
+        "13 cm"
+      ],
+      "answer": 2,
+      "explanation": "26 µs ÷ 13 µs/cm = 2 cm.",
+      "explanationImage": null,
+      "tags": [
+        "Lecture 4 Review"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch04-q116",
+      "stem": "An echo returns 65 µs after the pulse. The reflector depth is:",
+      "image": null,
+      "options": [
+        "13 cm",
+        "10 cm",
+        "6.5 cm",
+        "5 cm"
+      ],
+      "answer": 3,
+      "explanation": "65 µs ÷ 13 = 5 cm.",
+      "explanationImage": null,
+      "tags": [
+        "Lecture 4 Review"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch04-q117",
+      "stem": "The round-trip time for a reflector at 8 cm is:",
+      "image": null,
+      "options": [
+        "104 µs",
+        "52 µs",
+        "13 µs",
+        "208 µs"
+      ],
+      "answer": 0,
+      "explanation": "8 cm × 13 µs/cm = 104 µs.",
+      "explanationImage": null,
+      "tags": [
+        "Lecture 4 Review"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch04-q118",
+      "stem": "An echo returns after 39 µs. The depth is:",
+      "image": null,
+      "options": [
+        "2 cm",
+        "3 cm",
+        "6 cm",
+        "39 cm"
+      ],
+      "answer": 1,
+      "explanation": "39 ÷ 13 = 3 cm.",
+      "explanationImage": null,
+      "tags": [
+        "Lecture 4 Review"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch04-q119",
+      "stem": "Which list contains the five parameters of pulsed sound?",
+      "image": null,
+      "options": [
+        "PD, SPL, PRP, PRF, DF",
+        "Frequency, period, wavelength, speed, amplitude",
+        "Power, intensity, amplitude, gain, TGC",
+        "PD, SPL, c, f, T"
+      ],
+      "answer": 0,
+      "explanation": "The five parameters are PD, SPL, PRP, PRF and DF.",
+      "explanationImage": null,
+      "tags": [
+        "Lecture 4 Review"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch04-q120",
+      "stem": "Cycles grouped together with gaps between them form:",
+      "image": null,
+      "options": [
+        "A continuous wave",
+        "A single cycle",
+        "Pulsed ultrasound",
+        "A standing wave"
+      ],
+      "answer": 2,
+      "explanation": "Cycles grouped with gaps between groups form pulsed ultrasound.",
+      "explanationImage": null,
+      "tags": [
+        "Lecture 4 Review"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch04-q121",
+      "stem": "The gap between pulses is the:",
+      "image": null,
+      "options": [
+        "On time",
+        "Off time (receive phase)",
+        "Pulse duration",
+        "Wavelength"
+      ],
+      "answer": 1,
+      "explanation": "The gap between pulses is the off time, when echoes are received.",
+      "explanationImage": null,
+      "tags": [
+        "Lecture 4 Review"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch04-q122",
+      "stem": "Pulse duration (PD) is:",
+      "image": null,
+      "options": [
+        "The time between the start of one pulse and the next",
+        "The number of pulses per second",
+        "The distance a pulse occupies",
+        "The time for a pulse to occur"
+      ],
+      "answer": 3,
+      "explanation": "PD is the time for a pulse to occur (on time only).",
+      "explanationImage": null,
+      "tags": [
+        "Lecture 4 Review"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch04-q123",
+      "stem": "The unit of pulse duration is:",
+      "image": null,
+      "options": [
+        "Microsecond",
+        "Hertz",
+        "Millimetre",
+        "Percent"
+      ],
+      "answer": 0,
+      "explanation": "PD is measured in microseconds.",
+      "explanationImage": null,
+      "tags": [
+        "Lecture 4 Review"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch04-q124",
+      "stem": "Pulse duration includes:",
+      "image": null,
+      "options": [
+        "Transmit and receive time",
+        "Transmit (on) time only",
+        "Receive (off) time only",
+        "Listening time"
+      ],
+      "answer": 1,
+      "explanation": "PD represents transmit time only and does not include receive time.",
+      "explanationImage": null,
+      "tags": [
+        "Lecture 4 Review"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch04-q125",
+      "stem": "Pulse duration is calculated as:",
+      "image": null,
+      "options": [
+        "Wavelength × number of cycles",
+        "Frequency × number of cycles",
+        "Number of cycles × period",
+        "PRP ÷ number of cycles"
+      ],
+      "answer": 2,
+      "explanation": "PD = number of cycles × period.",
+      "explanationImage": null,
+      "tags": [
+        "Lecture 4 Review"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch04-q126",
+      "stem": "If the period increases while the number of cycles stays the same, pulse duration:",
+      "image": null,
+      "options": [
+        "Increases",
+        "Decreases",
+        "Stays the same",
+        "Becomes zero"
+      ],
+      "answer": 0,
+      "explanation": "A longer period means a longer PD for the same number of cycles.",
+      "explanationImage": null,
+      "tags": [
+        "Lecture 4 Review"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch04-q127",
+      "stem": "If the number of cycles per pulse increases at the same frequency, pulse duration:",
+      "image": null,
+      "options": [
+        "Decreases",
+        "Stays the same",
+        "Increases",
+        "Is halved"
+      ],
+      "answer": 2,
+      "explanation": "More cycles per pulse means a longer PD.",
+      "explanationImage": null,
+      "tags": [
+        "Lecture 4 Review"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch04-q128",
+      "stem": "A pulse has 4 cycles at 2 MHz. The pulse duration is:",
+      "image": null,
+      "options": [
+        "0.5 µs",
+        "2 µs",
+        "8 µs",
+        "4 µs"
+      ],
+      "answer": 1,
+      "explanation": "T = 0.5 µs, so PD = 4 × 0.5 = 2 µs.",
+      "explanationImage": null,
+      "tags": [
+        "Lecture 4 Review"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch04-q129",
+      "stem": "A pulse has 3 cycles at 5 MHz. The pulse duration is:",
+      "image": null,
+      "options": [
+        "1.5 µs",
+        "0.2 µs",
+        "15 µs",
+        "0.6 µs"
+      ],
+      "answer": 3,
+      "explanation": "T = 0.2 µs, so PD = 3 × 0.2 = 0.6 µs.",
+      "explanationImage": null,
+      "tags": [
+        "Lecture 4 Review"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch04-q130",
+      "stem": "Two pulses both have 5 cycles, one at 5 MHz and one at 10 MHz. The 10 MHz pulse duration is:",
+      "image": null,
+      "options": [
+        "Half that of the 5 MHz pulse",
+        "Double that of the 5 MHz pulse",
+        "The same as the 5 MHz pulse",
+        "Four times longer"
+      ],
+      "answer": 0,
+      "explanation": "5 MHz: PD = 5 × 0.2 = 1 µs. 10 MHz: PD = 5 × 0.1 = 0.5 µs, which is half.",
+      "explanationImage": null,
+      "tags": [
+        "Lecture 4 Review"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch04-q131",
+      "stem": "B-mode imaging typically uses pulses of about:",
+      "image": null,
+      "options": [
+        "50–100 cycles",
+        "5–30 cycles",
+        "2–3 cycles",
+        "1 continuous cycle"
+      ],
+      "answer": 2,
+      "explanation": "B-mode uses very short pulses of about 2–3 cycles.",
+      "explanationImage": null,
+      "tags": [
+        "Lecture 4 Review"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch04-q132",
+      "stem": "Doppler pulses are typically:",
+      "image": null,
+      "options": [
+        "2–3 cycles",
+        "5–30 cycles (longer)",
+        "1 cycle",
+        "Infinite"
+      ],
+      "answer": 1,
+      "explanation": "Doppler uses longer pulses of about 5–30 cycles.",
+      "explanationImage": null,
+      "tags": [
+        "Lecture 4 Review"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch04-q133",
+      "stem": "Continuous wave Doppler is characterised by:",
+      "image": null,
+      "options": [
+        "Very short pulses",
+        "5–30 cycles per pulse",
+        "2–3 cycles per pulse",
+        "No pulsing; the signal is on continuously"
+      ],
+      "answer": 3,
+      "explanation": "CW Doppler has no pulsing; the signal is on continuously.",
+      "explanationImage": null,
+      "tags": [
+        "Lecture 4 Review"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch04-q134",
+      "stem": "Is pulse duration directly adjustable by the sonographer?",
+      "image": null,
+      "options": [
+        "No",
+        "Yes, using the depth control",
+        "Yes, using the gain control",
+        "Yes, using TGC"
+      ],
+      "answer": 0,
+      "explanation": "PD is not directly adjustable by the sonographer.",
+      "explanationImage": null,
+      "tags": [
+        "Lecture 4 Review"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch04-q135",
+      "stem": "Pulse duration depends on:",
+      "image": null,
+      "options": [
+        "Imaging depth and PRF",
+        "Gain and TGC",
+        "Cycles per pulse and period",
+        "Frame rate only"
+      ],
+      "answer": 2,
+      "explanation": "PD depends on cycles per pulse and the period.",
+      "explanationImage": null,
+      "tags": [
+        "Lecture 4 Review"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch04-q136",
+      "stem": "The period of a pulse is determined by the:",
+      "image": null,
+      "options": [
+        "Imaging depth",
+        "Operating frequency",
+        "Number of scan lines",
+        "Gain"
+      ],
+      "answer": 1,
+      "explanation": "Period is determined by the operating frequency.",
+      "explanationImage": null,
+      "tags": [
+        "Lecture 4 Review"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch04-q137",
+      "stem": "Changing the operating frequency can:",
+      "image": null,
+      "options": [
+        "Indirectly change pulse duration",
+        "Not affect pulse duration at all",
+        "Change PRF directly only",
+        "Change propagation speed"
+      ],
+      "answer": 0,
+      "explanation": "Changing frequency changes the period, so it indirectly changes PD.",
+      "explanationImage": null,
+      "tags": [
+        "Lecture 4 Review"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch04-q138",
+      "stem": "A shorter pulse duration improves:",
+      "image": null,
+      "options": [
+        "Penetration",
+        "Echo brightness",
+        "Frame time",
+        "Axial resolution"
+      ],
+      "answer": 3,
+      "explanation": "Shorter PD supports better axial resolution.",
+      "explanationImage": null,
+      "tags": [
+        "Lecture 4 Review"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch04-q139",
+      "stem": "If cycles per pulse stay the same and frequency increases, pulse duration:",
+      "image": null,
+      "options": [
+        "Increases",
+        "Stays the same",
+        "Decreases",
+        "Becomes infinite"
+      ],
+      "answer": 2,
+      "explanation": "A higher frequency shortens the period, so PD decreases when the cycle count is unchanged.",
+      "explanationImage": null,
+      "tags": [
+        "Lecture 4 Review"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch04-q140",
+      "stem": "A shorter pulse duration reduces:",
+      "image": null,
+      "options": [
+        "Frequency",
+        "Echo overlap",
+        "Propagation speed",
+        "Depth"
+      ],
+      "answer": 1,
+      "explanation": "A shorter PD reduces echo overlap, which improves axial resolution.",
+      "explanationImage": null,
+      "tags": [
+        "Lecture 4 Review"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch04-q141",
+      "stem": "Spatial pulse length (SPL) is:",
+      "image": null,
+      "options": [
+        "The length of space occupied by one pulse",
+        "The time for one pulse",
+        "The time between pulses",
+        "The number of pulses per second"
+      ],
+      "answer": 0,
+      "explanation": "SPL is the length of space occupied by one pulse.",
+      "explanationImage": null,
+      "tags": [
+        "Lecture 4 Review"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch04-q142",
+      "stem": "SPL is calculated as:",
+      "image": null,
+      "options": [
+        "Period × number of cycles",
+        "Frequency × cycles",
+        "Wavelength × number of cycles",
+        "Speed ÷ cycles"
+      ],
+      "answer": 2,
+      "explanation": "SPL = wavelength × number of cycles.",
+      "explanationImage": null,
+      "tags": [
+        "Lecture 4 Review"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch04-q143",
+      "stem": "A common unit for SPL in diagnostic ultrasound is the:",
+      "image": null,
+      "options": [
+        "Microsecond",
+        "Hertz",
+        "Percent",
+        "Millimetre"
+      ],
+      "answer": 3,
+      "explanation": "SPL is a length, commonly in millimetres.",
+      "explanationImage": null,
+      "tags": [
+        "Lecture 4 Review"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch04-q144",
+      "stem": "A pulse of 4 cycles at 2 MHz in soft tissue (λ = 0.77 mm) has an SPL of:",
+      "image": null,
+      "options": [
+        "3.08 mm",
+        "0.77 mm",
+        "1.54 mm",
+        "6.16 mm"
+      ],
+      "answer": 0,
+      "explanation": "4 × 0.77 mm = 3.08 mm.",
+      "explanationImage": null,
+      "tags": [
+        "Lecture 4 Review"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch04-q145",
+      "stem": "A pulse of 3 cycles with a wavelength of 0.5 mm has an SPL of:",
+      "image": null,
+      "options": [
+        "0.5 mm",
+        "1.5 mm",
+        "3.5 mm",
+        "0.17 mm"
+      ],
+      "answer": 1,
+      "explanation": "3 × 0.5 mm = 1.5 mm.",
+      "explanationImage": null,
+      "tags": [
+        "Lecture 4 Review"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch04-q146",
+      "stem": "A longer wavelength gives a:",
+      "image": null,
+      "options": [
+        "Shorter SPL",
+        "Shorter PD only",
+        "Higher PRF",
+        "Longer SPL"
+      ],
+      "answer": 3,
+      "explanation": "Longer wavelength means longer SPL.",
+      "explanationImage": null,
+      "tags": [
+        "Lecture 4 Review"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch04-q147",
+      "stem": "Fewer cycles per pulse give a:",
+      "image": null,
+      "options": [
+        "Longer SPL",
+        "Higher DF only",
+        "Shorter SPL",
+        "Longer wavelength"
+      ],
+      "answer": 2,
+      "explanation": "Fewer cycles per pulse means shorter SPL.",
+      "explanationImage": null,
+      "tags": [
+        "Lecture 4 Review"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch04-q148",
+      "stem": "If cycles per pulse remain unchanged, a higher frequency:",
+      "image": null,
+      "options": [
+        "Shortens SPL",
+        "Lengthens SPL",
+        "Does not change SPL",
+        "Changes PRP only"
+      ],
+      "answer": 0,
+      "explanation": "A higher frequency shortens wavelength, so SPL shortens when cycles are unchanged.",
+      "explanationImage": null,
+      "tags": [
+        "Lecture 4 Review"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch04-q149",
+      "stem": "Is SPL directly adjustable by the sonographer?",
+      "image": null,
+      "options": [
+        "Yes, by changing depth",
+        "No",
+        "Yes, by changing gain",
+        "Yes, by changing PRF"
+      ],
+      "answer": 1,
+      "explanation": "SPL is not directly adjustable.",
+      "explanationImage": null,
+      "tags": [
+        "Lecture 4 Review"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch04-q150",
+      "stem": "A shorter SPL improves:",
+      "image": null,
+      "options": [
+        "Penetration",
+        "Brightness",
+        "Duty factor",
+        "Axial resolution"
+      ],
+      "answer": 3,
+      "explanation": "Shorter SPL improves axial resolution.",
+      "explanationImage": null,
+      "tags": [
+        "Lecture 4 Review"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch04-q151",
+      "stem": "Which two pulsed parameters do NOT depend on imaging depth?",
+      "image": null,
+      "options": [
+        "PRP and PRF",
+        "PRF and DF",
+        "PD and SPL",
+        "PRP and DF"
+      ],
+      "answer": 2,
+      "explanation": "PD and SPL depend on the source (cycles, frequency, medium), not on depth.",
+      "explanationImage": null,
+      "tags": [
+        "Lecture 4 Review"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch04-q152",
+      "stem": "Which three pulsed parameters change with imaging depth?",
+      "image": null,
+      "options": [
+        "PRP, PRF and DF",
+        "PD, SPL and DF",
+        "PD, PRP and PRF",
+        "SPL, PRF and DF"
+      ],
+      "answer": 0,
+      "explanation": "PRP, PRF and DF change with imaging depth.",
+      "explanationImage": null,
+      "tags": [
+        "Lecture 4 Review"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch04-q153",
+      "stem": "Pulse repetition period (PRP) is the time:",
+      "image": null,
+      "options": [
+        "For one pulse to occur",
+        "From the start of one pulse to the start of the next",
+        "For one cycle",
+        "Occupied by the off time only"
+      ],
+      "answer": 1,
+      "explanation": "PRP is measured from the start of one pulse to the start of the next.",
+      "explanationImage": null,
+      "tags": [
+        "Lecture 4 Review"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch04-q154",
+      "stem": "PRP includes:",
+      "image": null,
+      "options": [
+        "Transmit time only",
+        "Receive time only",
+        "Transmit time and receive time",
+        "Frame time"
+      ],
+      "answer": 2,
+      "explanation": "PRP = transmit (on) time + receive (off) time.",
+      "explanationImage": null,
+      "tags": [
+        "Lecture 4 Review"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch04-q155",
+      "stem": "PRP is measured in:",
+      "image": null,
+      "options": [
+        "Hertz",
+        "Millimetres",
+        "Watts",
+        "Microseconds or milliseconds"
+      ],
+      "answer": 3,
+      "explanation": "PRP is measured in microseconds or milliseconds.",
+      "explanationImage": null,
+      "tags": [
+        "Lecture 4 Review"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch04-q156",
+      "stem": "Greater imaging depth produces a:",
+      "image": null,
+      "options": [
+        "Longer PRP",
+        "Shorter PRP",
+        "Higher PRF",
+        "Shorter PD"
+      ],
+      "answer": 0,
+      "explanation": "Greater depth needs more listening time, so PRP is longer.",
+      "explanationImage": null,
+      "tags": [
+        "Lecture 4 Review"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch04-q157",
+      "stem": "The PRP for an imaging depth of 10 cm is about:",
+      "image": null,
+      "options": [
+        "13 µs",
+        "130 µs",
+        "26 µs",
+        "1300 µs"
+      ],
+      "answer": 1,
+      "explanation": "10 cm × 13 µs/cm = 130 µs.",
+      "explanationImage": null,
+      "tags": [
+        "Lecture 4 Review"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch04-q158",
+      "stem": "The PRP for an imaging depth of 4 cm is about:",
+      "image": null,
+      "options": [
+        "13 µs",
+        "26 µs",
+        "52 µs",
+        "104 µs"
+      ],
+      "answer": 2,
+      "explanation": "4 × 13 = 52 µs.",
+      "explanationImage": null,
+      "tags": [
+        "Lecture 4 Review"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch04-q159",
+      "stem": "The minimum PRP must allow:",
+      "image": null,
+      "options": [
+        "The pulse to be doubled",
+        "The gain to be applied",
+        "The frame to be stored",
+        "Echoes from the deepest reflector to return"
+      ],
+      "answer": 3,
+      "explanation": "PRP must be long enough for echoes from the deepest reflector to return before the next pulse.",
+      "explanationImage": null,
+      "tags": [
+        "Lecture 4 Review"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch04-q160",
+      "stem": "PRP and PRF describe:",
+      "image": null,
+      "options": [
+        "The timing between pulses",
+        "A single cycle",
+        "The wave frequency",
+        "The wavelength"
+      ],
+      "answer": 0,
+      "explanation": "PRP and PRF describe the timing between pulses.",
+      "explanationImage": null,
+      "tags": [
+        "Lecture 4 Review"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch04-q161",
+      "stem": "Period and frequency describe:",
+      "image": null,
+      "options": [
+        "The timing between pulses",
+        "A single wave (cycle)",
+        "The pulse repetition",
+        "The depth"
+      ],
+      "answer": 1,
+      "explanation": "Period and frequency describe a single wave (cycle). They are different from PRP and PRF.",
+      "explanationImage": null,
+      "tags": [
+        "Lecture 4 Review"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch04-q162",
+      "stem": "Pulse repetition frequency (PRF) is the number of:",
+      "image": null,
+      "options": [
+        "Cycles per pulse",
+        "Frames per second",
+        "Pulses transmitted each second",
+        "Scan lines per frame"
+      ],
+      "answer": 2,
+      "explanation": "PRF is the number of pulses transmitted each second.",
+      "explanationImage": null,
+      "tags": [
+        "Lecture 4 Review"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch04-q163",
+      "stem": "PRF is measured in:",
+      "image": null,
+      "options": [
+        "Microseconds",
+        "Millimetres",
+        "Percent",
+        "Hertz or kilohertz"
+      ],
+      "answer": 3,
+      "explanation": "PRF is measured in Hz or kHz.",
+      "explanationImage": null,
+      "tags": [
+        "Lecture 4 Review"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch04-q164",
+      "stem": "The typical PRF range in clinical imaging is about:",
+      "image": null,
+      "options": [
+        "1–10 kHz",
+        "1–10 MHz",
+        "1–10 Hz",
+        "100–1000 MHz"
+      ],
+      "answer": 0,
+      "explanation": "Typical clinical imaging PRF is 1–10 kHz.",
+      "explanationImage": null,
+      "tags": [
+        "Lecture 4 Review"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch04-q165",
+      "stem": "PRF is the ______ of PRP.",
+      "image": null,
+      "options": [
+        "Square",
+        "Reciprocal",
+        "Product",
+        "Difference"
+      ],
+      "answer": 1,
+      "explanation": "PRF = 1/PRP.",
+      "explanationImage": null,
+      "tags": [
+        "Lecture 4 Review"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch04-q166",
+      "stem": "A PRP of 250 µs corresponds to a PRF of:",
+      "image": null,
+      "options": [
+        "25 kHz",
+        "2.5 kHz",
+        "4 kHz",
+        "40 kHz"
+      ],
+      "answer": 2,
+      "explanation": "1 ÷ 250 µs = 4000 Hz = 4 kHz.",
+      "explanationImage": null,
+      "tags": [
+        "Lecture 4 Review"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch04-q167",
+      "stem": "A PRF of 5 kHz corresponds to a PRP of:",
+      "image": null,
+      "options": [
+        "5 µs",
+        "20 µs",
+        "2 ms",
+        "200 µs"
+      ],
+      "answer": 3,
+      "explanation": "1 ÷ 5000 Hz = 0.0002 s = 200 µs.",
+      "explanationImage": null,
+      "tags": [
+        "Lecture 4 Review"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch04-q168",
+      "stem": "When imaging depth increases, PRF:",
+      "image": null,
+      "options": [
+        "Decreases",
+        "Increases",
+        "Stays the same",
+        "Doubles"
+      ],
+      "answer": 0,
+      "explanation": "PRF is inversely related to imaging depth.",
+      "explanationImage": null,
+      "tags": [
+        "Lecture 4 Review"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch04-q169",
+      "stem": "A shallower imaging depth gives a:",
+      "image": null,
+      "options": [
+        "Lower PRF",
+        "Higher PRF",
+        "Longer PRP",
+        "Lower frame rate"
+      ],
+      "answer": 1,
+      "explanation": "Shallower depth means shorter PRP and higher PRF.",
+      "explanationImage": null,
+      "tags": [
+        "Lecture 4 Review"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch04-q170",
+      "stem": "At a depth of 10 cm, PRP is 130 µs, so PRF is approximately:",
+      "image": null,
+      "options": [
+        "130 Hz",
+        "1.3 kHz",
+        "7.7 kHz",
+        "77 kHz"
+      ],
+      "answer": 2,
+      "explanation": "1 ÷ 130 µs ≈ 7692 Hz ≈ 7.7 kHz.",
+      "explanationImage": null,
+      "tags": [
+        "Lecture 4 Review"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch04-q171",
+      "stem": "At a depth of 5 cm, PRP is 65 µs, so PRF is approximately:",
+      "image": null,
+      "options": [
+        "6.5 kHz",
+        "65 kHz",
+        "7.7 kHz",
+        "15.4 kHz"
+      ],
+      "answer": 3,
+      "explanation": "1 ÷ 65 µs ≈ 15,385 Hz ≈ 15.4 kHz.",
+      "explanationImage": null,
+      "tags": [
+        "Lecture 4 Review"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch04-q172",
+      "stem": "PRF is determined by:",
+      "image": null,
+      "options": [
+        "Propagation speed and imaging depth",
+        "Transducer frequency only",
+        "Gain and TGC",
+        "Number of cycles per pulse"
+      ],
+      "answer": 0,
+      "explanation": "PRF is determined by propagation velocity and imaging depth.",
+      "explanationImage": null,
+      "tags": [
+        "Lecture 4 Review"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch04-q173",
+      "stem": "One single pulse corresponds to:",
+      "image": null,
+      "options": [
+        "One frame",
+        "One scan line on the display",
+        "One cycle",
+        "One wavelength"
+      ],
+      "answer": 1,
+      "explanation": "One pulse produces one scan line of image information.",
+      "explanationImage": null,
+      "tags": [
+        "Lecture 4 Review"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch04-q174",
+      "stem": "To maximise PRF, a sonographer should:",
+      "image": null,
+      "options": [
+        "Increase gain",
+        "Decrease frequency",
+        "Use the shallowest depth that includes the anatomy of interest",
+        "Use the deepest depth possible"
+      ],
+      "answer": 2,
+      "explanation": "The shallowest useful depth maximises PRF, which improves frame rate and temporal resolution.",
+      "explanationImage": null,
+      "tags": [
+        "Lecture 4 Review"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch04-q175",
+      "stem": "A higher PRF can support a:",
+      "image": null,
+      "options": [
+        "Lower frame rate",
+        "Longer PRP",
+        "Longer SPL",
+        "Higher frame rate and better temporal resolution"
+      ],
+      "answer": 3,
+      "explanation": "Higher PRF supports a higher frame rate and better temporal resolution.",
+      "explanationImage": null,
+      "tags": [
+        "Lecture 4 Review"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch04-q176",
+      "stem": "Duty factor (DF) is the:",
+      "image": null,
+      "options": [
+        "Fraction (percentage) of time the system transmits",
+        "Fraction of time the system receives",
+        "Number of pulses per second",
+        "Distance of one pulse"
+      ],
+      "answer": 0,
+      "explanation": "Duty factor is the percentage of time the system is transmitting.",
+      "explanationImage": null,
+      "tags": [
+        "Lecture 4 Review"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch04-q177",
+      "stem": "Which formula gives duty factor?",
+      "image": null,
+      "options": [
+        "PRP / PD × 100",
+        "PD / PRP × 100",
+        "PD × PRP",
+        "PRF / PD"
+      ],
+      "answer": 1,
+      "explanation": "DF = (PD / PRP) × 100.",
+      "explanationImage": null,
+      "tags": [
+        "Lecture 4 Review"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch04-q178",
+      "stem": "Duty factor is usually expressed as a:",
+      "image": null,
+      "options": [
+        "Time in microseconds",
+        "Frequency in kHz",
+        "Percentage",
+        "Length in mm"
+      ],
+      "answer": 2,
+      "explanation": "DF is expressed as a percentage.",
+      "explanationImage": null,
+      "tags": [
+        "Lecture 4 Review"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch04-q179",
+      "stem": "A pulse with PD = 2 µs and PRP = 200 µs has a duty factor of:",
+      "image": null,
+      "options": [
+        "100%",
+        "10%",
+        "0.1%",
+        "1%"
+      ],
+      "answer": 3,
+      "explanation": "2 ÷ 200 = 0.01, which is 1%.",
+      "explanationImage": null,
+      "tags": [
+        "Lecture 4 Review"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch04-q180",
+      "stem": "A pulse with PD = 1 µs and PRP = 250 µs has a duty factor of:",
+      "image": null,
+      "options": [
+        "0.4%",
+        "4%",
+        "25%",
+        "0.04%"
+      ],
+      "answer": 0,
+      "explanation": "1 ÷ 250 = 0.004, which is 0.4%.",
+      "explanationImage": null,
+      "tags": [
+        "Lecture 4 Review"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch04-q181",
+      "stem": "If pulse duration increases and PRP stays the same, duty factor:",
+      "image": null,
+      "options": [
+        "Decreases",
+        "Increases",
+        "Stays the same",
+        "Becomes zero"
+      ],
+      "answer": 1,
+      "explanation": "PD and DF move in the same direction.",
+      "explanationImage": null,
+      "tags": [
+        "Lecture 4 Review"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch04-q182",
+      "stem": "If PRP increases and PD stays the same, duty factor:",
+      "image": null,
+      "options": [
+        "Increases",
+        "Stays the same",
+        "Decreases",
+        "Doubles"
+      ],
+      "answer": 2,
+      "explanation": "PRP and DF move in opposite directions.",
+      "explanationImage": null,
+      "tags": [
+        "Lecture 4 Review"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch04-q183",
+      "stem": "Greater imaging depth produces a:",
+      "image": null,
+      "options": [
+        "Higher duty factor",
+        "Shorter PRP",
+        "Longer PD",
+        "Lower duty factor"
+      ],
+      "answer": 3,
+      "explanation": "Greater depth means longer PRP and therefore lower DF.",
+      "explanationImage": null,
+      "tags": [
+        "Lecture 4 Review"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch04-q184",
+      "stem": "Shallower imaging depth gives a:",
+      "image": null,
+      "options": [
+        "Higher duty factor",
+        "Lower duty factor",
+        "Lower PRF",
+        "Longer PRP"
+      ],
+      "answer": 0,
+      "explanation": "Shallower depth means shorter PRP and therefore higher DF.",
+      "explanationImage": null,
+      "tags": [
+        "Lecture 4 Review"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch04-q185",
+      "stem": "The duty factor of continuous-wave ultrasound is:",
+      "image": null,
+      "options": [
+        "0%",
+        "100%",
+        "1%",
+        "50%"
+      ],
+      "answer": 1,
+      "explanation": "CW is always transmitting, so DF = 100%.",
+      "explanationImage": null,
+      "tags": [
+        "Lecture 4 Review"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch04-q186",
+      "stem": "The sonographer changes duty factor:",
+      "image": null,
+      "options": [
+        "Directly, by adjusting PD",
+        "Directly, by adjusting SPL",
+        "Indirectly, through imaging depth",
+        "By changing the gain"
+      ],
+      "answer": 2,
+      "explanation": "PD is not adjusted directly, so DF changes indirectly through depth (PRP).",
+      "explanationImage": null,
+      "tags": [
+        "Lecture 4 Review"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch04-q187",
+      "stem": "If the imaging depth is doubled, PRF is:",
+      "image": null,
+      "options": [
+        "Halved",
+        "Doubled",
+        "Unchanged",
+        "Quadrupled"
+      ],
+      "answer": 0,
+      "explanation": "Depth doubles, so PRP doubles and PRF is halved.",
+      "explanationImage": null,
+      "tags": [
+        "Lecture 4 Review"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch04-q188",
+      "stem": "If the imaging depth is doubled (PD constant), duty factor is:",
+      "image": null,
+      "options": [
+        "Doubled",
+        "Unchanged",
+        "Halved",
+        "Quadrupled"
+      ],
+      "answer": 2,
+      "explanation": "Depth doubles, so PRP doubles; with PD constant, DF is halved.",
+      "explanationImage": null,
+      "tags": [
+        "Lecture 4 Review"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch04-q189",
+      "stem": "Frame rate is:",
+      "image": null,
+      "options": [
+        "The time to create one frame",
+        "The number of frames per second",
+        "The number of pulses per frame",
+        "The number of cycles per pulse"
+      ],
+      "answer": 1,
+      "explanation": "Frame rate is the number of frames per second.",
+      "explanationImage": null,
+      "tags": [
+        "Lecture 4 Review"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch04-q190",
+      "stem": "Frame time is:",
+      "image": null,
+      "options": [
+        "The number of frames per second",
+        "The time between pulses",
+        "The time required to create one complete frame",
+        "The pulse duration"
+      ],
+      "answer": 2,
+      "explanation": "Frame time is the time needed to create one complete frame.",
+      "explanationImage": null,
+      "tags": [
+        "Lecture 4 Review"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch04-q191",
+      "stem": "Frame rate and frame time are:",
+      "image": null,
+      "options": [
+        "Directly proportional",
+        "Unrelated",
+        "Equal",
+        "Reciprocals"
+      ],
+      "answer": 3,
+      "explanation": "Frame rate = 1 / frame time.",
+      "explanationImage": null,
+      "tags": [
+        "Lecture 4 Review"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch04-q192",
+      "stem": "A frame time of 50 ms gives a frame rate of:",
+      "image": null,
+      "options": [
+        "20 Hz",
+        "50 Hz",
+        "2 Hz",
+        "200 Hz"
+      ],
+      "answer": 0,
+      "explanation": "1 ÷ 0.050 s = 20 Hz.",
+      "explanationImage": null,
+      "tags": [
+        "Lecture 4 Review"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch04-q193",
+      "stem": "A frame rate of 40 Hz gives a frame time of:",
+      "image": null,
+      "options": [
+        "40 ms",
+        "2.5 ms",
+        "4 ms",
+        "25 ms"
+      ],
+      "answer": 3,
+      "explanation": "1 ÷ 40 Hz = 0.025 s = 25 ms.",
+      "explanationImage": null,
+      "tags": [
+        "Lecture 4 Review"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch04-q194",
+      "stem": "If imaging depth increases (with the same number of scan lines), frame rate:",
+      "image": null,
+      "options": [
+        "Increases",
+        "Decreases",
+        "Stays the same",
+        "Doubles"
+      ],
+      "answer": 1,
+      "explanation": "Greater depth lowers PRF, so frames take longer to build and frame rate falls.",
+      "explanationImage": null,
+      "tags": [
+        "Lecture 4 Review"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch04-q195",
+      "stem": "Scanned modalities:",
+      "image": null,
+      "options": [
+        "Sweep the ultrasound beam across a region to build an image",
+        "Transmit in the same direction repeatedly",
+        "Use only continuous wave",
+        "Produce a single line only"
+      ],
+      "answer": 0,
+      "explanation": "Scanned modalities sweep the beam across a region to build an image.",
+      "explanationImage": null,
+      "tags": [
+        "Lecture 4 Review"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch04-q196",
+      "stem": "Which is an example of a scanned modality?",
+      "image": null,
+      "options": [
+        "M-mode",
+        "A-mode",
+        "B-mode",
+        "CW Doppler"
+      ],
+      "answer": 2,
+      "explanation": "B-mode is a scanned modality. M-mode, A-mode and CW Doppler are non-scanned.",
+      "explanationImage": null,
+      "tags": [
+        "Lecture 4 Review"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch04-q197",
+      "stem": "Non-scanned modalities:",
+      "image": null,
+      "options": [
+        "Sweep the beam across a wide field",
+        "Transmit the acoustic beam in the same direction repeatedly",
+        "Always form 3D images",
+        "Cannot be used clinically"
+      ],
+      "answer": 1,
+      "explanation": "Non-scanned modalities transmit the beam in the same direction repeatedly.",
+      "explanationImage": null,
+      "tags": [
+        "Lecture 4 Review"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch04-q198",
+      "stem": "Which is an example of a non-scanned modality?",
+      "image": null,
+      "options": [
+        "B-mode",
+        "Power Doppler",
+        "M-mode",
+        "3D imaging"
+      ],
+      "answer": 2,
+      "explanation": "M-mode is non-scanned (like A-mode, CW Doppler and single-gate PW Doppler).",
+      "explanationImage": null,
+      "tags": [
+        "Lecture 4 Review"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch04-q199",
+      "stem": "Compared with scanned modalities, non-scanned modalities present:",
+      "image": null,
+      "options": [
+        "Lower thermal risk",
+        "No thermal risk",
+        "A wider field of view",
+        "Greater thermal risks"
+      ],
+      "answer": 3,
+      "explanation": "Non-scanned modalities present greater thermal risks than scanned modalities.",
+      "explanationImage": null,
+      "tags": [
+        "Lecture 4 Review"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch04-q200",
+      "stem": "In colour Doppler, multiple acoustic lines sent along one direction are generally called a:",
+      "image": null,
+      "options": [
+        "Colour packet",
+        "Spectral gate",
+        "Colour frame",
+        "Duty cycle"
+      ],
+      "answer": 0,
+      "explanation": "Colour Doppler sends multiple acoustic lines per colour display line, called a colour packet.",
+      "explanationImage": null,
+      "tags": [
+        "Lecture 4 Review"
+      ],
+      "reference": ""
+    }
+  ]
+}

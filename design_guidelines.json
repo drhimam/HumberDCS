@@ -1,0 +1,349 @@
+{
+  "project_overview": {
+    "title": "Diagnostic Cardiac Sonography (DCS) QBank",
+    "theme": "Clean Clinical Light Theme",
+    "target_audience": "Diagnostic Cardiac Sonography students, ultrasound technologists, and clinical echo trainees.",
+    "core_goal": "Provide a comprehensive, high-yield, distraction-free study and exam testing interface for DCS courses across Semester 1 & Semester 2 with client-side local storage analytics, wrong-answer bank tracking, import/export capabilities, and rich clinical feedback."
+  },
+  "emotional_tone_and_archetype": {
+    "archetype": "ORGANIC & CLINICAL PRECISION (Trust, Accuracy, Focus)",
+    "tone": "High-trust clinical workspace, precise medical aesthetics, calm focus, crisp contrast, highly legible medical typography.",
+    "vibe": "UWorld / USMLE Vault level clean diagnostic studio with soft clinical teal/cyan hints, slate structural tones, crisp white surfaces, and distinct status indicators."
+  },
+  "color_palette": {
+    "primary": {
+      "name": "Clinical Deep Slate",
+      "hex": "#0F172A",
+      "hsl": "222 47% 11%",
+      "usage": "Primary headings, dark action accents, prominent structural UI frames."
+    },
+    "brand_accent": {
+      "name": "Echo Cyan / Medical Blue",
+      "hex": "#0EA5E9",
+      "hsl": "199 89% 48%",
+      "usage": "Active state indicators, study progress highlights, key CTA buttons, selected option states."
+    },
+    "secondary_accent": {
+      "name": "Teal Medical Glow",
+      "hex": "#0D9488",
+      "hsl": "173 80% 40%",
+      "usage": "Correct answer indicators, positive score badges, high accuracy stats."
+    },
+    "warning_accent": {
+      "name": "Pulse Amber",
+      "hex": "#D97706",
+      "hsl": "38 92% 50%",
+      "usage": "Flagged questions, study reminder tags, warning alerts."
+    },
+    "destructive": {
+      "name": "Cardiac Crimson",
+      "hex": "#E11D48",
+      "hsl": "347 77% 50%",
+      "usage": "Incorrect answer highlights, wrong answer bank highlights, reset actions."
+    },
+    "background": {
+      "main": "#F8FAFC",
+      "card": "#FFFFFF",
+      "sidebar": "#F1F5F9",
+      "panel_explanation": "#F0FDFA"
+    },
+    "border": {
+      "subtle": "#E2E8F0",
+      "strong": "#CBD5E1",
+      "active": "#38BDF8"
+    },
+    "text": {
+      "primary": "#0F172A",
+      "secondary": "#475569",
+      "muted": "#64748B",
+      "contrast_on_primary": "#FFFFFF"
+    }
+  },
+  "typography": {
+    "font_family_headings": "Outfit, system-ui, sans-serif",
+    "font_family_body": "Plus Jakarta Sans, system-ui, sans-serif",
+    "font_family_mono": "JetBrains Mono, monospace",
+    "hierarchy": {
+      "h1": "text-3xl sm:text-4xl lg:text-5xl font-bold tracking-tight text-slate-900",
+      "h2": "text-2xl sm:text-3xl font-semibold tracking-tight text-slate-900",
+      "h3": "text-xl sm:text-2xl font-semibold text-slate-800",
+      "h4": "text-lg font-medium text-slate-800",
+      "body": "text-base leading-relaxed text-slate-700",
+      "body_sm": "text-sm leading-normal text-slate-600",
+      "caption": "text-xs font-medium uppercase tracking-wider text-slate-500"
+    }
+  },
+  "layout_and_structure": {
+    "navigation_bar": {
+      "position": "Sticky top-0 z-40",
+      "background": "bg-white/90 backdrop-blur-md border-b border-slate-200",
+      "elements": [
+        "App Brand Logo (EchoPulse DCS QBank icon + title)",
+        "Semester Switcher Tabs (All, Semester 1, Semester 2)",
+        "Quick Nav (Dashboard / Courses, Wrong Answer Bank, Custom Test Builder)",
+        "Progress Quick-Pill (Overall Accuracy %, Total Answered)",
+        "Data Tools (Import / Export JSON Data, Reset Progress Modal Trigger)"
+      ]
+    },
+    "dashboard_grid": {
+      "mode": "MODE B: High Density Dashboard & System Cards Grid",
+      "layout": "grid grid-cols-1 md:grid-cols-3 lg:grid-cols-4 gap-6 p-6 max-w-7xl mx-auto",
+      "widgets": {
+        "stats_overview_banner": "col-span-full grid grid-cols-2 md:grid-cols-4 gap-4 bg-white p-6 rounded-2xl border border-slate-200 shadow-sm",
+        "wrong_answer_quick_card": "col-span-full md:col-span-2 bg-gradient-to-br from-rose-50 to-white p-6 rounded-2xl border border-rose-100 shadow-sm",
+        "semester_1_section": "col-span-full space-y-4",
+        "semester_2_section": "col-span-full space-y-4"
+      }
+    },
+    "study_question_layout": {
+      "wrapper": "flex flex-col lg:flex-row h-[calc(100vh-4rem)] overflow-hidden bg-slate-50",
+      "question_area": "flex-1 overflow-y-auto p-6 md:p-8 space-y-6 max-w-4xl mx-auto",
+      "side_explanation_panel": "w-full lg:w-96 bg-teal-50/70 border-l border-teal-200 p-6 overflow-y-auto backdrop-blur-sm",
+      "bottom_bar": "sticky bottom-0 bg-white border-t border-slate-200 p-4 flex items-center justify-between shadow-lg"
+    },
+    "exam_mode_layout": {
+      "header": "bg-slate-900 text-white p-4 flex justify-between items-center shadow-md",
+      "timer_badge": "bg-slate-800 text-sky-400 font-mono px-4 py-1.5 rounded-full border border-slate-700 text-sm font-semibold flex items-center gap-2",
+      "main_runner": "max-w-4xl mx-auto p-6 space-y-6",
+      "navigator_drawer": "fixed right-0 top-16 bottom-0 w-80 bg-white border-l border-slate-200 shadow-xl p-6 overflow-y-auto z-30"
+    }
+  },
+  "subject_and_chapter_structure": {
+    "semester_1": [
+      {
+        "id": "dcs-5000",
+        "code": "DCS 5000",
+        "title": "Introduction to Echocardiography",
+        "icon": "Activity",
+        "chapters": [
+          "History & Echo Modalities",
+          "Standard Ultrasound Windows & Views",
+          "Transducer Selection & Ergonomics",
+          "Basic Image Optimization"
+        ]
+      },
+      {
+        "id": "dcs-5002",
+        "code": "DCS 5002",
+        "title": "Cardiovascular Anatomy and Physiology",
+        "icon": "Heart",
+        "chapters": [
+          "Cardiac Chambers & Wall Segments",
+          "Coronary Circulation & Perfusion",
+          "Cardiac Cycle & Pressure Dynamics",
+          "Hemodynamics & Cardiac Output"
+        ]
+      },
+      {
+        "id": "dcs-5003",
+        "code": "DCS 5003",
+        "title": "Congenital Heart Disease 1",
+        "icon": "GitBranch",
+        "chapters": [
+          "Atrial Septal Defects (ASD)",
+          "Ventricular Septal Defects (VSD)",
+          "Patent Ductus Arteriosus (PDA)",
+          "Coarctation of the Aorta"
+        ]
+      },
+      {
+        "id": "dcs-5004",
+        "code": "DCS 5004",
+        "title": "Physics and Instrumentation 1",
+        "icon": "Zap",
+        "chapters": [
+          "Ultrasound Waves & Attenuation",
+          "Transducers & Piezoelectricity",
+          "Doppler Effect & Spectral Doppler",
+          "Color Doppler Principles & Artifacts"
+        ]
+      },
+      {
+        "id": "dcs-5005",
+        "code": "DCS 5005",
+        "title": "Cardiac Scanning 1",
+        "icon": "Focus",
+        "chapters": [
+          "Parasternal Long & Short Axis Views",
+          "Apical 4, 2, and 3 Chamber Views",
+          "Subcostal & Suprasternal Views",
+          "M-Mode Measurements & Calculations"
+        ]
+      },
+      {
+        "id": "dcs-5006",
+        "code": "DCS 5006",
+        "title": "Professional Practice",
+        "icon": "ShieldCheck",
+        "chapters": [
+          "Medical Ethics & Patient Consent",
+          "Scope of Practice & Sonographer Reporting",
+          "Quality Assurance & Equipment Maintenance",
+          "Ergonomics & Work-Related Injuries"
+        ]
+      },
+      {
+        "id": "ipe-101",
+        "code": "IPE 101",
+        "title": "Interprofessional Education",
+        "icon": "Users",
+        "chapters": [
+          "Multidisciplinary Care Teams",
+          "Clinical Communication & Handoffs",
+          "Patient Safety & Error Prevention"
+        ]
+      }
+    ],
+    "semester_2": [
+      {
+        "id": "dcs-5500",
+        "code": "DCS 5500",
+        "title": "ECG Interpretation",
+        "icon": "LineChart",
+        "chapters": [
+          "Normal ECG Waves & Intervals",
+          "Atrial & Ventricular Arrhythmias",
+          "Ischemia, Injury & Infarction Patterns",
+          "Conduction Blocks & Pacemakers"
+        ]
+      },
+      {
+        "id": "dcs-5501",
+        "code": "DCS 5501",
+        "title": "Valvular Disease",
+        "icon": "Disc",
+        "chapters": [
+          "Aortic Stenosis & Regurgitation",
+          "Mitral Valve Stenosis & Prolapse/Regurgitation",
+          "Tricuspid & Pulmonic Valve Pathology",
+          "Prosthetic Heart Valves"
+        ]
+      },
+      {
+        "id": "dcs-5502",
+        "code": "DCS 5502",
+        "title": "Heart Function and Pathology",
+        "icon": "Activity",
+        "chapters": [
+          "Systolic Dysfunction & Ejection Fraction",
+          "Diastolic Function & Strain Imaging",
+          "Dilated, Hypertrophic & Restrictive Cardiomyopathy",
+          "Pericardial Disease & Tamponade"
+        ]
+      },
+      {
+        "id": "dcs-5503",
+        "code": "DCS 5503",
+        "title": "Congenital Heart Defects 2",
+        "icon": "GitFork",
+        "chapters": [
+          "Tetralogy of Fallot",
+          "Transposition of Great Arteries (TGA)",
+          "Ebstein Anomaly",
+          "Fontan Circulation & Complex Defects"
+        ]
+      },
+      {
+        "id": "dcs-5504",
+        "code": "DCS 5504",
+        "title": "Physics and Instrumentation 2",
+        "icon": "Cpu",
+        "chapters": [
+          "Tissue Doppler Imaging (TDI)",
+          "Strain & Speckle Tracking",
+          "3D Echocardiography & Artifacts",
+          "Safety & Bioeffects (MI & TI)"
+        ]
+      },
+      {
+        "id": "dcs-5505",
+        "code": "DCS 5505",
+        "title": "Cardiac Scanning 2",
+        "icon": "Sliders",
+        "chapters": [
+          "Advanced Doppler Quantification",
+          "Agitated Saline & Contrast Studies",
+          "Stress Echocardiography Protocol",
+          "Transesophageal Echo (TEE) Guidance"
+        ]
+      },
+      {
+        "id": "dcs-5506",
+        "code": "DCS 5506",
+        "title": "Patient Care and Management",
+        "icon": "HeartHandshake",
+        "chapters": [
+          "Patient Assessment & Vital Signs",
+          "Infection Control & Sterile Technique",
+          "Emergency Response & Cardiac Arrest",
+          "Patient Transport & IV Management"
+        ]
+      }
+    ]
+  },
+  "image_urls": {
+    "echocardiogram_machine": "https://images.unsplash.com/photo-1691933880037-ce9d151ab922?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4NjAzNzl8MHwxfHNlYXJjaHwyfHxlY2hvY2FyZGlvZ3JhcGh5JTIwY2FyZGlhYyUyMHVsdHJhc291bmQlMjBtZWRpY2FsJTIwc3R1ZHl8ZW58MHx8fHwxNzkxNzQzMDE3fDA&ixlib=rb-4.1.0&q=85",
+    "ultrasound_probe_scanning": "https://images.unsplash.com/photo-1691933880096-4046bc9e2fa0?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4NjAzNzl8MHwxfHNlYXJjaHwxfHxlY2hvY2FyZGlvZ3JhcGh5JTIwY2FyZGlhYyUyMHVsdHJhc291bmQlMjBtZWRpY2FsJTIwc3R1ZHl8ZW58MHx8fHwxNzkxNzQzMDE3fDA&ixlib=rb-4.1.0&q=85",
+    "cardiac_ultrasound_monitor": "https://images.unsplash.com/photo-1691935152546-3a9e05f4010b?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4NjAzNzl8MHwxfHNlYXJjaHwzfHxlY2hvY2FyZGlvZ3JhcGh5JTIwY2FyZGlhYyUyMHVsdHJhc291bmQlMjBtZWRpY2FsJTIwc3R1ZHl8ZW58MHx8fHwxNzkxNzQzMDE3fDA&ixlib=rb-4.1.0&q=85"
+  },
+  "components_and_design_system": {
+    "subject_card": {
+      "styling": "bg-white border border-slate-200 hover:border-sky-400 hover:shadow-md rounded-2xl p-6 transition-all duration-200 group flex flex-col justify-between cursor-pointer",
+      "badge": "bg-slate-100 text-slate-700 font-mono text-xs px-2.5 py-1 rounded-md font-semibold group-hover:bg-sky-50 group-hover:text-sky-700",
+      "actions": "flex gap-2 mt-4"
+    },
+    "choice_option_button": {
+      "default": "w-full text-left p-4 rounded-xl border border-slate-200 bg-white hover:bg-slate-50 transition-all flex items-start gap-3 text-slate-800 font-medium",
+      "selected": "border-sky-500 bg-sky-50/60 ring-2 ring-sky-200 text-sky-900 font-semibold",
+      "correct": "border-emerald-500 bg-emerald-50 text-emerald-900 font-semibold",
+      "incorrect": "border-rose-500 bg-rose-50 text-rose-900 font-semibold"
+    },
+    "modal_dialog": {
+      "styling": "bg-white rounded-2xl p-6 shadow-2xl border border-slate-200 max-w-lg w-full backdrop:bg-slate-900/40 backdrop:backdrop-blur-sm"
+    }
+  },
+  "state_management_and_local_storage": {
+    "storage_key": "dcs_qbank_user_progress_v1",
+    "structure": {
+      "overallStats": {
+        "questionsAnswered": 0,
+        "correctCount": 0,
+        "accuracyPercentage": 0,
+        "totalStudyTimeSeconds": 0
+      },
+      "subjectProgress": {
+        "dcs-5000": { "answered": 0, "correct": 0, "completedChapters": [] }
+      },
+      "wrongAnswers": [
+        {
+          "questionId": "dcs5000-ch1-q1",
+          "subjectId": "dcs-5000",
+          "chapterId": "ch1",
+          "selectedOption": 1,
+          "correctOption": 2,
+          "timestamp": "2026-07-01T12:00:00Z"
+        }
+      ],
+      "history": []
+    },
+    "import_export": "Provide JSON export and JSON import with validation to let users back up or transfer their progress across browsers without login."
+  },
+  "accessibility_and_testing": {
+    "data_testid_rules": "All interactive elements (buttons, subject cards, option choices, mode toggles, import/export buttons) MUST have kebab-case data-testid attributes (e.g. data-testid='study-mode-btn-dcs-5000', data-testid='option-choice-0', data-testid='export-progress-btn').",
+    "contrast": "Ensure all text on light surfaces meets 4.5:1 WCAG AA minimum contrast ratio."
+  },
+  "instructions_to_main_agent": [
+    "Build a robust frontend app using React, Tailwind CSS, and Lucide React icons.",
+    "Implement mock JSON dataset for each subject & chapter under src/data/qbank/ (e.g., dcs-5000.json, dcs-5501.json, etc.) with clinical questions, multiple-choice options, anatomical/echo diagrams (using SVG or clean medical figures), detailed explanations, and high-yield key takeaways.",
+    "Create the local storage manager with full import/export JSON features, reset stats modal, and wrong-answer bank page where users can re-attempt missed questions.",
+    "Ensure Study Mode displays immediate side-panel explanations after answering, while Exam Mode hides explanations until test completion.",
+    "Ensure explicit data-testid attributes exist on all interactive elements as requested."
+  ],
+  "UNIVERSAL GUIDELINES FOR MAIN AGENT": [
+    "Avoid generic AI templates or centered layouts without clear visual structure.",
+    "Use generous padding (p-6, p-8) and crisp layered card borders.",
+    "DO NOT use raw transparent header backgrounds - use backdrop-blur glassmorphism.",
+    "Add transition effects on specific properties (transition-colors, transition-transform) rather than transition-all where unnecessary.",
+    "Ensure all buttons and inputs are keyboard accessible and have visible focus rings."
+  ]
+}

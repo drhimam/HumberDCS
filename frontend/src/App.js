@@ -10,12 +10,16 @@ import ExamRunner from "@/pages/ExamRunner";
 import ExamResults from "@/pages/ExamResults";
 import WrongAnswers from "@/pages/WrongAnswers";
 import Courses from "@/pages/Courses";
+import Landing from "@/pages/Landing";
+import { AuthPage } from "@/pages/Auth";
 
 function App() {
   return (
     <BrowserRouter>
       <Routes>
-        <Route path="/" element={<Navigate to="/dashboard" replace />} />
+        <Route path="/" element={<Landing />} />
+        <Route path="/signin" element={<AuthPage mode="signin" />} />
+        <Route path="/signup" element={<AuthPage mode="signup" />} />
         <Route element={<AppShell />}>
           <Route path="/dashboard" element={<Dashboard />} />
           <Route path="/courses" element={<Courses />} />

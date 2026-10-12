@@ -156,7 +156,9 @@ The backend should only be started after creating `backend/.env` with valid Mong
 2. **Silent content failures**: chapter fetch/parse errors become empty chapters.
 3. **No schema validation**: malformed question JSON can reach rendering and exam-selection code.
 4. **Browser-only progress**: clearing storage loses data unless the learner exported it; no account sync exists.
-5. **Backend disconnected**: authentication and cloud persistence are planned but not implemented.
+5. **Backend partially connected**: D1-backed registration, email verification,
+   login, sessions, and logout are deployed; forgot-password, rate limiting,
+   admin authorization, and synchronized progress are still planned.
 6. **Question IDs are a migration boundary**: changing IDs invalidates historical attempts.
 7. **Package/toolchain friction**: CRA/CRACO and the dependency tree require legacy peer resolution and currently run on a newer Node version with compatibility warnings.
 8. **Content completeness is uneven**: many catalog entries are scaffolds while DCS5004 has the largest imported bank.

@@ -135,15 +135,16 @@ applied, and the frontend has a production deployment. The Worker remains
 limited to a database-backed health endpoint until the authentication/API
 implementation is ready.
 
-The health-only Worker is deployed at
-`https://dcsqbank-api.rifa-numis.workers.dev/health` and successfully connects
-to production D1. Auth routes remain the next implementation boundary.
+The Worker is deployed at
+`https://dcsqbank-api.rifa-numis.workers.dev` and successfully connects to
+production D1. Registration, email verification, login, session lookup, and
+logout are now deployed; forgot-password, rate limiting, and admin
+authorization remain follow-up work.
 
 The public product entry point is now implemented and deployed: `/` is a
 landing page, `/signin` is the sign-in screen, and `/signup` is the create
 account screen. Protected application routes now redirect unauthenticated
-visitors to `/signin`. The screens are UI-only until the secure Worker auth
-contract and ZeptoMail flows are implemented.
+visitors to `/signin`, and the forms call the deployed Worker auth contract.
 
 ## P3 — Implement authentication, email, payments, and administration
 

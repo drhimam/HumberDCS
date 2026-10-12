@@ -67,22 +67,21 @@ belong to the future Worker environment.
 The current Pages project is `dcsqbank` at
 `https://dcsqbank.pages.dev/`. The production D1 database is
 `dcsqbank-production-db`; see [memory/CLOUDFLARE_DEPLOYMENT.md](memory/CLOUDFLARE_DEPLOYMENT.md)
-for resource details. The Worker/API is intentionally not deployed until its
-authentication entrypoint is implemented.
+for resource details. The Worker/API is deployed with registration, email
+verification, login, session lookup, and logout routes.
 
 The initial Worker boundary is now in [worker/](worker/). It exposes only a
 database-backed health endpoint while authentication, ZeptoMail, PayPal, and
 admin routes are implemented and tested incrementally.
 
-The deployed health-only Worker is
-`https://dcsqbank-api.rifa-numis.workers.dev/health`. Do not send credentials
-or user data to it yet; authentication routes are not exposed.
+The deployed Worker is
+`https://dcsqbank-api.rifa-numis.workers.dev`. Its health endpoint is
+`/health`, and authentication routes are under `/auth/*`.
 
-The public landing page is available at `/`, with frontend shells for `/signin`
-and `/signup`. Dashboard, subjects, study, exam, and wrong-answer routes are
-protected by a frontend session guard and redirect unauthenticated visitors to
-`/signin`. The forms are intentionally not connected to account creation until
-the Worker auth routes, email verification, and rate limiting are ready.
+The public landing page is available at `/`, with sign-in and create-account
+screens at `/signin` and `/signup`. Dashboard, subjects, study, exam, and
+wrong-answer routes are protected by a frontend session guard and redirect
+unauthenticated visitors to `/signin`.
 
 ## QBank maintenance
 

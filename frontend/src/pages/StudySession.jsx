@@ -87,7 +87,7 @@ export default function StudySession() {
               </Link>
               <h1 className="font-heading text-2xl font-bold text-slate-900"><span className="font-mono text-sm text-sky-700">{subject.code}</span> {label}</h1>
             </div>
-            <div className="flex items-center gap-4 text-sm" data-testid="study-score">
+            <div className="flex flex-wrap items-center justify-end gap-2 text-sm sm:gap-4" data-testid="study-score">
               <span className="text-slate-500">Answered <b className="text-slate-900">{done}/{questions.length}</b></span>
               <span className="text-slate-500">Correct <b className="text-teal-700">{correct}</b></span>
               <Button variant="outline" size="sm" className={`rounded-full ${calcOpen ? "border-sky-400 text-sky-700" : ""}`} onClick={() => setCalcOpen((v) => !v)} data-testid="toggle-calculator-btn">
@@ -102,11 +102,11 @@ export default function StudySession() {
             <div className="rounded-2xl border border-slate-200 bg-white p-12 text-center text-slate-500" data-testid="study-empty">No questions here yet.</div>
           ) : (
             <div className="grid gap-6 lg:grid-cols-[220px_minmax(0,1fr)_400px]">
-              <aside className="rounded-2xl border border-slate-200 bg-white p-4 lg:sticky lg:top-24 lg:self-start">
+              <aside className="order-3 rounded-2xl border border-slate-200 bg-white p-4 lg:order-1 lg:sticky lg:top-24 lg:self-start">
                 <p className="mb-3 text-xs font-semibold uppercase tracking-wider text-slate-500">Questions</p>
                 <QuestionNavigator questions={questions} current={idx} onJump={setIdx} statusOf={statusOf} />
               </aside>
-              <section className="rounded-2xl border border-slate-200 bg-white p-6 md:p-8">
+              <section className="order-1 rounded-2xl border border-slate-200 bg-white p-6 md:p-8 lg:order-2">
                 {prev && !answers[q.id] && (
                   <div className="mb-4 inline-flex rounded-full bg-slate-100 px-3 py-1 text-xs text-slate-600" data-testid="previous-attempt-badge">
                     Previously {prev.lastCorrect ? "answered correctly" : "answered wrong"} · {prev.attempts} attempt{prev.attempts > 1 ? "s" : ""}
@@ -123,7 +123,7 @@ export default function StudySession() {
                   </Button>
                 </div>
               </section>
-              <aside className="rounded-2xl border border-teal-200 bg-teal-50/60 p-6 lg:sticky lg:top-24 lg:self-start lg:max-h-[calc(100vh-7rem)] lg:overflow-y-auto" data-testid="explanation-side-panel">
+              <aside className="order-2 rounded-2xl border border-teal-200 bg-teal-50/60 p-6 lg:order-3 lg:sticky lg:top-24 lg:self-start lg:max-h-[calc(100vh-7rem)] lg:overflow-y-auto" data-testid="explanation-side-panel">
                 {sel !== undefined ? (
                   <ExplanationPanel question={q} selected={sel} />
                 ) : (

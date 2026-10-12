@@ -69,8 +69,8 @@ export default function ExamRunner() {
   return (
     <div className="min-h-screen bg-slate-50" data-testid="exam-runner-page">
       <header className="sticky top-0 z-40 bg-slate-900 text-white shadow-md">
-        <div className="mx-auto flex h-16 max-w-7xl items-center justify-between gap-4 px-4 sm:px-6">
-          <div className="min-w-0">
+        <div className="mx-auto flex min-h-16 max-w-7xl flex-wrap items-center justify-between gap-2 px-3 py-2 sm:gap-4 sm:px-6">
+          <div className="min-w-0 flex-1">
             <div className="font-mono text-xs text-sky-400">{exam.subjectCode} · EXAM</div>
             <div className="truncate font-heading font-semibold">{exam.subjectTitle}</div>
           </div>
@@ -88,7 +88,7 @@ export default function ExamRunner() {
         </div>
       </header>
       <main className="mx-auto grid max-w-7xl gap-6 px-4 py-6 sm:px-6 lg:grid-cols-[minmax(0,1fr)_300px]">
-        <section className="rounded-2xl border border-slate-200 bg-white p-6 md:p-8">
+        <section className="order-1 rounded-2xl border border-slate-200 bg-white p-6 md:p-8 lg:order-1">
           <QuestionCard key={q.id} question={q} number={exam.current + 1} total={exam.questions.length} selected={exam.answers[q.id]} reveal={false}
             onSelect={(i) => update({ answers: { ...exam.answers, [q.id]: i } })} />
           <div className="mt-8 flex flex-wrap items-center justify-between gap-3 border-t border-slate-100 pt-5">
@@ -110,7 +110,7 @@ export default function ExamRunner() {
             )}
           </div>
         </section>
-        <aside className="space-y-4 rounded-2xl border border-slate-200 bg-white p-5 lg:sticky lg:top-24 lg:self-start">
+        <aside className="order-3 space-y-4 rounded-2xl border border-slate-200 bg-white p-5 lg:order-2 lg:sticky lg:top-24 lg:self-start">
           <div className="flex justify-between text-sm">
             <span className="text-slate-500">Answered</span>
             <span className="font-semibold" data-testid="exam-answered-count">{answeredCount}/{exam.questions.length}</span>

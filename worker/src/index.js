@@ -57,7 +57,11 @@ async function sendVerificationEmail(env, email, displayName, token) {
   const link = `${env.APP_ORIGIN}/verify-email?token=${encodeURIComponent(token)}`;
   const response = await fetch(env.ZEPTOMAIL_API_URL, {
     method: "POST",
-    headers: { Authorization: `Zoho-enczapikey ${env.ZEPTOMAIL_API_KEY}`, "Content-Type": "application/json" },
+    headers: {
+      Accept: "application/json",
+      Authorization: `Zoho-enczapikey ${env.ZEPTOMAIL_API_KEY}`,
+      "Content-Type": "application/json",
+    },
     body: JSON.stringify({
       from: { address: env.EMAIL_FROM_ADDRESS, name: env.EMAIL_FROM_NAME },
       to: [{ email_address: { address: email, name: displayName } }],
@@ -66,14 +70,16 @@ async function sendVerificationEmail(env, email, displayName, token) {
     }),
   });
   if (!response.ok) {
-    let detail = "";
+    const responseText = await response.text();
+    let detail = responseText.trim();
     try {
-      const provider = await response.json();
-      detail = provider.message || provider.error || provider.code || "";
+      const provider = JSON.parse(responseText);
+      detail = provider.message || provider.error || provider.code || detail;
     } catch {
-      detail = "";
+      // Some provider errors are returned as plain text or an empty response.
     }
-    console.error("ZeptoMail rejected verification email", { status: response.status, detail });
+    const requestId = response.headers.get("x-request-id") || response.headers.get("x-ratelimit-request-id") || "";
+    console.error("ZeptoMail rejected verification email", { status: response.status, detail, requestId });
     throw new Error(`Email service rejected the verification email (${response.status}).${detail ? ` ${detail}` : ""}`);
   }
 }

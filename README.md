@@ -70,6 +70,14 @@ The current Pages project is `dcsqbank` at
 for resource details. The Worker/API is intentionally not deployed until its
 authentication entrypoint is implemented.
 
+The initial Worker boundary is now in [worker/](worker/). It exposes only a
+database-backed health endpoint while authentication, ZeptoMail, PayPal, and
+admin routes are implemented and tested incrementally.
+
+The deployed health-only Worker is
+`https://dcsqbank-api.rifa-numis.workers.dev/health`. Do not send credentials
+or user data to it yet; authentication routes are not exposed.
+
 ## QBank maintenance
 
 Read [memory/QBANK_CONTENT_MAINTENANCE_GUIDE.md](memory/QBANK_CONTENT_MAINTENANCE_GUIDE.md) before adding or editing content. Question IDs are permanent because learner progress is keyed by ID.

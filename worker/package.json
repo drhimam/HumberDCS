@@ -1,0 +1,13 @@
+{
+  "name": "dcsqbank-api",
+  "private": true,
+  "version": "0.1.0",
+  "scripts": {
+    "dev": "wrangler dev --local",
+    "deploy": "wrangler deploy",
+    "dry-run": "wrangler deploy --dry-run"
+  },
+  "devDependencies": {
+    "wrangler": "4.135.0"
+  }
+}

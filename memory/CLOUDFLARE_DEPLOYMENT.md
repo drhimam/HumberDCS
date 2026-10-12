@@ -51,8 +51,13 @@ Production D1 resource:
 - ID: `30566c45-72f3-460c-b7b2-e9f4c5dc3103`
 - Region: ENAM
 
-The initial schema migration has been applied successfully. The Worker is not
-deployed yet because its authentication/API entrypoint has not been built.
+The initial schema migration has been applied successfully. The initial Worker boundary is configured in `worker/` and exposes only a
+database-backed health endpoint. Authentication/API routes remain intentionally
+unimplemented until their security and email requirements are ready.
+
+The deployed Worker is available at
+`https://dcsqbank-api.rifa-numis.workers.dev`. Its health endpoint is
+`/health`; it currently verifies only Worker availability and D1 connectivity.
 
 Never point local development or Pages preview code at production D1. The
 production Worker is the only deployment allowed to use the production D1

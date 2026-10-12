@@ -1,0 +1,12 @@
+name = "dcsqbank-api"
+main = "src/index.js"
+compatibility_date = "2026-10-12"
+workers_dev = true
+
+[vars]
+ALLOWED_ORIGIN = "https://dcsqbank.pages.dev"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "dcsqbank-production-db"
+database_id = "30566c45-72f3-460c-b7b2-e9f4c5dc3103"

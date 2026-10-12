@@ -132,7 +132,12 @@ Use numbered, forward-only SQL migrations. Every migration must be reviewed, tes
 Cloudflare provisioning is complete for this boundary: the `dcsqbank` Pages
 project and `dcsqbank-production-db` D1 database exist, the migration is
 applied, and the frontend has a production deployment. The Worker remains
-deferred until the authentication/API implementation is ready.
+limited to a database-backed health endpoint until the authentication/API
+implementation is ready.
+
+The health-only Worker is deployed at
+`https://dcsqbank-api.rifa-numis.workers.dev/health` and successfully connects
+to production D1. Auth routes remain the next implementation boundary.
 
 ## P3 — Implement authentication, email, payments, and administration
 

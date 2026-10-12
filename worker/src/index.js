@@ -63,7 +63,7 @@ async function sendVerificationEmail(env, email, displayName, token) {
       "Content-Type": "application/json",
     },
     body: JSON.stringify({
-      from: { address: env.EMAIL_FROM_ADDRESS, name: env.EMAIL_FROM_NAME },
+      from: { address: env.EMAIL_FROM_ADDRESS },
       to: [{ email_address: { address: email, name: displayName } }],
       subject: "Verify your DCSQbank account",
       htmlbody: `<p>Hello ${displayName},</p><p>Verify your DCSQbank account:</p><p><a href="${link}">Verify email address</a></p>`,

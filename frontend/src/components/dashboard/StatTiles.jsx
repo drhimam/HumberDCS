@@ -2,13 +2,15 @@ import { Library, CheckCheck, Target, XCircle, Clock, Trophy, BookOpen, Timer } 
 import { formatDuration } from "@/lib/stats";
 
 const Tile = ({ icon: Icon, label, value, sub, tone, testId }) => (
-  <div className="rounded-2xl border border-slate-200 bg-white p-5" data-testid={testId}>
+  <div className="rounded-2xl border border-slate-200/90 bg-white p-5 shadow-xs transition-shadow hover:shadow-sm" data-testid={testId}>
     <div className="flex items-center justify-between">
-      <span className="text-xs font-semibold uppercase tracking-wider text-slate-500">{label}</span>
+      <span className="text-xs font-bold uppercase tracking-wider text-slate-600">{label}</span>
       <Icon className={`h-4 w-4 ${tone}`} />
     </div>
-    <div className="mt-3 font-heading text-3xl font-bold text-slate-900" data-testid={`${testId}-value`}>{value}</div>
-    {sub && <div className="mt-1 text-xs text-slate-500">{sub}</div>}
+    <div className="mt-2.5 font-heading text-3xl font-extrabold text-slate-950 sm:text-4xl" data-testid={`${testId}-value`}>
+      {value}
+    </div>
+    {sub && <div className="mt-1 text-xs font-semibold text-slate-500">{sub}</div>}
   </div>
 );
 

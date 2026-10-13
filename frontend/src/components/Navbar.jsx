@@ -34,10 +34,10 @@ const NavItem = ({ to, icon: Icon, children, testId }) => (
     data-testid={testId}
     className={({ isActive }) =>
       cn(
-        "flex items-center gap-2 rounded-full px-4 py-2 text-sm font-medium transition-colors",
+        "flex items-center gap-2 rounded-full px-4 py-2 text-sm font-semibold transition-colors",
         isActive
-          ? "bg-white/20 text-white shadow-sm ring-1 ring-white/25"
-          : "text-sky-50/80 hover:bg-white/10 hover:text-white",
+          ? "bg-white/25 text-white shadow-sm ring-1 ring-white/35 font-bold"
+          : "text-sky-50/90 hover:bg-white/15 hover:text-white",
       )
     }
   >
@@ -78,12 +78,12 @@ export const Navbar = () => {
         <div className="mx-auto flex min-h-16 max-w-7xl items-center justify-between gap-2 px-3 py-2 sm:gap-4 sm:px-6">
           {/* Brand */}
           <Link to="/dashboard" className="flex min-w-0 items-center gap-3" data-testid="brand-link" onClick={close}>
-            <span className="flex h-10 w-10 items-center justify-center rounded-2xl bg-white text-sky-600 shadow-lg shadow-sky-950/20 ring-4 ring-white/15">
-              <HeartPulse className="h-5 w-5" />
+            <span className="flex h-11 w-11 items-center justify-center rounded-2xl bg-white text-sky-600 shadow-lg shadow-sky-950/20 ring-4 ring-white/20">
+              <HeartPulse className="h-6 w-6" />
             </span>
             <span className="leading-tight">
-              <span className="block font-heading text-lg font-bold tracking-tight text-white">DCSQbank</span>
-              <span className="hidden text-[11px] font-medium uppercase tracking-wider text-sky-100 sm:block">Diagnostic Cardiac Sonography</span>
+              <span className="block font-heading text-xl font-extrabold tracking-tight text-white">DCSQbank</span>
+              <span className="hidden text-xs font-semibold uppercase tracking-wider text-sky-100 sm:block">Diagnostic Cardiac Sonography</span>
             </span>
           </Link>
 

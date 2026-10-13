@@ -7,34 +7,61 @@ import { useProgress, wrongAttempts } from "@/lib/progress";
 import { PageState } from "@/components/AppShell";
 import { ExplanationPanel } from "@/components/ExplanationPanel";
 import { LETTERS } from "@/components/QuestionCard";
+import { getSubjectTheme } from "@/lib/subjectTheme";
+import { cn } from "@/lib/utils";
 import { Accordion, AccordionContent, AccordionItem, AccordionTrigger } from "@/components/ui/accordion";
 import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from "@/components/ui/select";
 import { Button } from "@/components/ui/button";
 
 const WrongItem = ({ a, live, subject, chapter }) => {
   const q = live || { ...a, id: a.qid };
+  const theme = getSubjectTheme(a.subjectId);
   return (
-    <AccordionItem value={a.qid} className="rounded-2xl border border-slate-200 bg-white px-5" data-testid={`wrong-item-${a.qid}`}>
-      <AccordionTrigger className="text-left hover:no-underline">
-        <div className="min-w-0 flex-1 space-y-1">
-          <div className="text-xs text-slate-500">
-            <span className="font-mono font-semibold text-sky-700">{subject?.code || a.subjectId}</span> · {chapter?.title || a.chapterId} · wrong {a.wrong}× of {a.attempts} · {formatDistanceToNow(new Date(a.lastAt), { addSuffix: true })}
+    <AccordionItem value={a.qid} className="rounded-2xl border border-slate-200/90 bg-white px-5 shadow-xs" data-testid={`wrong-item-${a.qid}`}>
+      <AccordionTrigger className="text-left hover:no-underline py-4">
+        <div className="min-w-0 flex-1 space-y-1.5">
+          <div className="flex flex-wrap items-center gap-2 text-xs font-semibold text-slate-500">
+            <span className={cn("font-mono font-bold px-2 py-0.5 rounded border", theme.badgeBg)}>
+              {subject?.code || a.subjectId}
+            </span>
+            <span>· {chapter?.title || a.chapterId}</span>
+            <span className="rounded-full bg-rose-100 px-2 py-0.5 font-bold text-rose-700">
+              wrong {a.wrong}× of {a.attempts}
+            </span>
+            <span>· {formatDistanceToNow(new Date(a.lastAt), { addSuffix: true })}</span>
           </div>
-          <div className="text-sm font-medium text-slate-900 line-clamp-2">{a.stem}</div>
+          <div className="text-base font-bold text-slate-900 line-clamp-2">{a.stem}</div>
         </div>
       </AccordionTrigger>
       <AccordionContent>
         <div className="grid gap-6 pb-4 lg:grid-cols-2">
-          <div className="space-y-3 text-sm">
-            <div className="rounded-xl border border-rose-200 bg-rose-50 p-3 text-rose-900" data-testid="your-answer">
-              <span className="text-xs font-semibold uppercase tracking-wider">Your last answer</span>
-              <div>{LETTERS[a.lastSelected]}. {a.options[a.lastSelected]}</div>
+          <div className="space-y-3.5 text-sm">
+            <div className="rounded-2xl border border-rose-300 bg-rose-50/90 p-4 text-rose-950 shadow-xs" data-testid="your-answer">
+              <span className="text-xs font-bold uppercase tracking-wider text-rose-800">Your last selected answer</span>
+              <div className="mt-1.5 font-bold text-base leading-snug">
+                <span className="inline-block mr-1.5 rounded-md bg-rose-600 px-2 py-0.5 font-mono text-xs font-bold text-white">
+                  {LETTERS[a.lastSelected]}
+                </span>
+                {a.options[a.lastSelected]}
+              </div>
             </div>
-            <ol className="space-y-1 text-slate-600">
-              {a.options.map((o, i) => <li key={i}><b>{LETTERS[i]}.</b> {o}</li>)}
-            </ol>
+            <div className="rounded-2xl border border-slate-200 bg-slate-50/60 p-4">
+              <p className="text-xs font-bold uppercase tracking-wider text-slate-600 mb-2">All choices</p>
+              <ol className="space-y-2 text-slate-800 font-medium">
+                {a.options.map((o, i) => (
+                  <li key={i} className="flex items-start gap-2.5">
+                    <span className="font-mono font-bold text-slate-700 bg-white border border-slate-200 rounded px-1.5 py-0.5 text-xs shrink-0">
+                      {LETTERS[i]}
+                    </span>
+                    <span>{o}</span>
+                  </li>
+                ))}
+              </ol>
+            </div>
           </div>
-          <div className="rounded-xl border border-teal-200 bg-teal-50/60 p-5"><ExplanationPanel question={q} selected={a.lastSelected} /></div>
+          <div className="rounded-2xl border border-teal-200 bg-teal-50/60 p-5 shadow-xs">
+            <ExplanationPanel question={q} selected={a.lastSelected} />
+          </div>
         </div>
       </AccordionContent>
     </AccordionItem>

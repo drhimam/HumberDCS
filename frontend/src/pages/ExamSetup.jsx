@@ -18,10 +18,10 @@ import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from "@
 const TIMES = [["0", "Untimed"], ["30", "30 seconds"], ["45", "45 seconds"], ["60", "1 minute"], ["90", "1.5 minutes"], ["120", "2 minutes"]];
 
 const Toggle = ({ id, label, hint, checked, onChange }) => (
-  <label htmlFor={id} className="flex cursor-pointer items-start justify-between gap-4 rounded-xl border border-slate-200 p-4 hover:bg-slate-50">
+  <label htmlFor={id} className="flex cursor-pointer items-start justify-between gap-4 rounded-xl border border-slate-200/90 bg-white p-4 shadow-xs transition-colors hover:bg-slate-50">
     <span>
-      <span className="block text-sm font-medium text-slate-900">{label}</span>
-      <span className="block text-xs text-slate-500">{hint}</span>
+      <span className="block text-sm font-semibold text-slate-900">{label}</span>
+      <span className="block text-xs font-medium text-slate-500 mt-0.5">{hint}</span>
     </span>
     <Switch id={id} checked={checked} onCheckedChange={onChange} data-testid={`toggle-${id}`} />
   </label>
@@ -29,7 +29,7 @@ const Toggle = ({ id, label, hint, checked, onChange }) => (
 
 const Section = ({ title, children }) => (
   <div className="space-y-3">
-    <h2 className="text-xs font-semibold uppercase tracking-wider text-slate-500">{title}</h2>
+    <h2 className="text-xs font-bold uppercase tracking-wider text-slate-600">{title}</h2>
     {children}
   </div>
 );

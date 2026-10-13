@@ -10,6 +10,8 @@ import { QuestionCard } from "@/components/QuestionCard";
 import { ExplanationPanel } from "@/components/ExplanationPanel";
 import { QuestionNavigator } from "@/components/QuestionNavigator";
 import { Button } from "@/components/ui/button";
+import { getSubjectTheme } from "@/lib/subjectTheme";
+import { cn } from "@/lib/utils";
 
 const useSessionLogger = (subject, label, answers) => {
   const ref = useRef({ startedAt: Date.now(), answers: {} });
@@ -34,6 +36,7 @@ const useSessionLogger = (subject, label, answers) => {
 export default function StudySession() {
   const { sid, cid } = useParams();
   const { subject, isLoading, error } = useSubject(sid);
+  const theme = getSubjectTheme(sid);
   const [questions, setQuestions] = useState(null);
   const [idx, setIdx] = useState(0);
   const [answers, setAnswers] = useState({});
@@ -85,14 +88,23 @@ export default function StudySession() {
         <main className={`${focusMode ? "fixed inset-0 z-50 overflow-y-auto bg-slate-50" : ""} mx-auto max-w-[1440px] px-4 py-6 sm:px-6`} data-testid="study-session-page">
           <div className="mb-6 flex flex-wrap items-center justify-between gap-3">
             <div>
-              <Link to={`/subject/${sid}/study`} className="inline-flex items-center gap-1 text-sm text-slate-500 hover:text-slate-900" data-testid="back-to-chapters">
+              <Link to={`/subject/${sid}/study`} className="inline-flex items-center gap-1.5 text-xs font-bold text-slate-500 hover:text-slate-900 uppercase tracking-wider transition-colors" data-testid="back-to-chapters">
                 <ArrowLeft className="h-4 w-4" /> Chapters
               </Link>
-              <h1 className="font-heading text-2xl font-bold text-slate-900"><span className="font-mono text-sm text-sky-700">{subject.code}</span> {label}</h1>
+              <h1 className="font-heading text-2xl font-extrabold text-slate-900 mt-1 flex flex-wrap items-center gap-2">
+                <span className={cn("font-mono text-xs font-bold px-2.5 py-1 rounded-md border shadow-xs", theme.badgeBg)}>
+                  {subject.code}
+                </span>
+                <span>{label}</span>
+              </h1>
             </div>
-            <div className="flex flex-wrap items-center justify-end gap-2 text-sm sm:gap-4" data-testid="study-score">
-              <span className="text-slate-500">Answered <b className="text-slate-900">{done}/{questions.length}</b></span>
-              <span className="text-slate-500">Correct <b className="text-teal-700">{correct}</b></span>
+            <div className="flex flex-wrap items-center justify-end gap-2 text-sm sm:gap-3" data-testid="study-score">
+              <span className="rounded-xl border border-slate-200 bg-white px-3 py-1.5 text-xs font-semibold text-slate-600 shadow-xs">
+                Answered <b className="text-slate-950 font-extrabold text-sm ml-1">{done}/{questions.length}</b>
+              </span>
+              <span className="rounded-xl border border-teal-200 bg-teal-50 px-3 py-1.5 text-xs font-semibold text-teal-800 shadow-xs">
+                Correct <b className="text-teal-950 font-extrabold text-sm ml-1">{correct}</b>
+              </span>
               <Button variant="outline" size="sm" className={`rounded-full ${calcOpen ? "border-sky-400 text-sky-700" : ""}`} onClick={() => setCalcOpen((v) => !v)} data-testid="toggle-calculator-btn">
                 <CalcIcon className="h-4 w-4" /> Calculator
               </Button>

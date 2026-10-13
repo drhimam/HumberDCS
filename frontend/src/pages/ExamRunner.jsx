@@ -74,10 +74,10 @@ export default function ExamRunner() {
       <header className="sticky top-0 z-40 bg-slate-900 text-white shadow-md">
         <div className="mx-auto flex min-h-16 max-w-7xl flex-wrap items-center justify-between gap-2 px-3 py-2 sm:gap-4 sm:px-6">
           <div className="min-w-0 flex-1">
-            <div className="font-mono text-xs text-sky-400">{exam.subjectCode} · EXAM</div>
-            <div className="truncate font-heading font-semibold">{exam.subjectTitle}</div>
+            <div className="font-mono text-xs font-bold text-sky-400">{exam.subjectCode} · EXAM SIMULATION</div>
+            <div className="truncate font-heading text-base font-bold text-white">{exam.subjectTitle}</div>
           </div>
-          <div className={`flex items-center gap-2 rounded-full border px-4 py-1.5 font-mono text-sm font-semibold ${low ? "border-rose-500 bg-rose-500/10 text-rose-300 animate-pulse" : "border-slate-700 bg-slate-800 text-sky-400"}`} data-testid="exam-timer">
+          <div className={`flex items-center gap-2 rounded-full border px-4 py-1.5 font-mono text-sm font-bold ${low ? "border-rose-500 bg-rose-500/10 text-rose-300 animate-pulse" : "border-slate-700 bg-slate-800 text-sky-400"}`} data-testid="exam-timer">
             <Clock className="h-4 w-4" /> {remaining === null ? "Untimed" : clock(remaining)}
           </div>
           <div className="flex items-center gap-2">

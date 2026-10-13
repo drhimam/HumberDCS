@@ -72,15 +72,15 @@ export default function Dashboard() {
                 </div>
                 <div>
                   <div className="flex items-center gap-2">
-                    <h2 className="text-lg font-bold text-slate-900 sm:text-xl">
+                    <h2 className="text-xl font-extrabold text-slate-900 sm:text-2xl">
                       Welcome back, {user?.displayName || "Sonographer"}!
                     </h2>
-                    <span className="hidden items-center gap-1 rounded-full bg-emerald-50 px-2 py-0.5 text-[11px] font-semibold text-emerald-700 ring-1 ring-emerald-200 sm:inline-flex">
+                    <span className="hidden items-center gap-1 rounded-full bg-emerald-50 px-2.5 py-0.5 text-[11px] font-bold text-emerald-700 ring-1 ring-emerald-200 sm:inline-flex">
                       <ShieldCheck className="h-3 w-3 text-emerald-600" />
                       Verified
                     </span>
                   </div>
-                  <p className="text-xs text-slate-500 mt-0.5">{user?.email}</p>
+                  <p className="text-xs font-medium text-slate-500 mt-0.5">{user?.email}</p>
                 </div>
               </div>
 
@@ -89,7 +89,7 @@ export default function Dashboard() {
                 <Button
                   type="button"
                   onClick={() => setDonateOpen(true)}
-                  className="rounded-xl border border-rose-200 bg-rose-50/80 text-rose-700 hover:bg-rose-100/80 hover:text-rose-800 shadow-none text-xs font-semibold h-9 px-3.5"
+                  className="rounded-xl border border-rose-200 bg-rose-50/80 text-rose-700 hover:bg-rose-100/80 hover:text-rose-800 shadow-none text-xs font-bold h-9 px-3.5"
                 >
                   <Heart className="mr-1.5 h-3.5 w-3.5 fill-rose-500 text-rose-500" />
                   Support & Donate
@@ -99,7 +99,7 @@ export default function Dashboard() {
                   type="button"
                   variant="outline"
                   onClick={() => setProfileOpen(true)}
-                  className="rounded-xl border-slate-200 text-xs font-semibold h-9 px-3.5 text-slate-700 hover:bg-slate-50"
+                  className="rounded-xl border-slate-200 text-xs font-bold h-9 px-3.5 text-slate-700 hover:bg-slate-50"
                 >
                   <User className="mr-1.5 h-3.5 w-3.5 text-sky-600" />
                   Profile Settings
@@ -109,7 +109,7 @@ export default function Dashboard() {
                   type="button"
                   variant="ghost"
                   onClick={handleLogout}
-                  className="rounded-xl text-xs font-semibold h-9 px-3 text-rose-600 hover:bg-rose-50 hover:text-rose-700"
+                  className="rounded-xl text-xs font-bold h-9 px-3 text-rose-600 hover:bg-rose-50 hover:text-rose-700"
                 >
                   <LogOut className="mr-1.5 h-3.5 w-3.5" />
                   Sign Out
@@ -121,11 +121,11 @@ export default function Dashboard() {
           {/* Progress Overview & Data Tools */}
           <div className="flex flex-col gap-4 md:flex-row md:items-end md:justify-between">
             <div>
-              <p className="text-xs font-semibold uppercase tracking-wider text-sky-700">Study Analytics</p>
-              <h1 className="mt-1 font-heading text-3xl font-bold tracking-tight text-slate-900 sm:text-4xl">
+              <p className="text-xs font-bold uppercase tracking-wider text-sky-700">Study Analytics</p>
+              <h1 className="mt-1 font-heading text-3xl font-extrabold tracking-tight text-slate-900 sm:text-4xl">
                 Progress overview
               </h1>
-              <p className="mt-1 text-sm text-slate-500">
+              <p className="mt-1 text-sm font-medium text-slate-600">
                 Track your DCS curriculum milestones, accuracy trends, and review areas.
               </p>
             </div>

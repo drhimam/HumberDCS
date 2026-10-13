@@ -6,6 +6,7 @@ database-backed health endpoint and the initial authentication routes:
 - `GET /health`
 - `GET /api/health`
 - `POST /auth/register`
+- `POST /auth/resend-verification`
 - `GET /auth/verify-email`
 - `POST /auth/login`
 - `GET /auth/me`
@@ -44,8 +45,7 @@ npm run deploy
 Provider credentials must be added later with `wrangler secret put`; never add
 them to this directory, the frontend, or Git.
 
-The configured sender is `DCS QBank <info@qbanks.org>`. The Worker uses the
-regional ZeptoMail API endpoint shown by the account's successful API example,
-`https://cpaas.zohocloud.ca/v1.1/email`, configured as `ZEPTOMAIL_API_URL` in
-`wrangler.toml`. Verify the `qbanks.org` domain and this sender address in
-ZeptoMail before deploying email-dependent routes.
+The configured sender is `DCS QBank <noreply@qbanks.org>`. The Worker uses the
+Canada ZeptoMail API endpoint `https://api.zeptomail.ca/v1.1/email`, configured as
+`ZEPTOMAIL_API_URL` in `wrangler.toml`. Verify the `qbanks.org` domain and this sender
+address in ZeptoMail before deploying email-dependent routes.

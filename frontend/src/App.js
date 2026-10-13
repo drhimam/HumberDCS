@@ -12,6 +12,7 @@ import WrongAnswers from "@/pages/WrongAnswers";
 import Courses from "@/pages/Courses";
 import Landing from "@/pages/Landing";
 import { AuthPage } from "@/pages/Auth";
+import VerifyEmail from "@/pages/VerifyEmail";
 import { RequireAuth } from "@/components/RequireAuth";
 
 function App() {
@@ -21,6 +22,7 @@ function App() {
         <Route path="/" element={<Landing />} />
         <Route path="/signin" element={<AuthPage mode="signin" />} />
         <Route path="/signup" element={<AuthPage mode="signup" />} />
+        <Route path="/verify-email" element={<VerifyEmail />} />
         <Route element={<RequireAuth />}>
           <Route element={<AppShell />}>
             <Route path="/dashboard" element={<Dashboard />} />

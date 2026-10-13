@@ -150,7 +150,14 @@ export function AuthPage({ mode = "signin" }) {
                 </div>
               </label>
               <label className="block text-sm font-semibold text-slate-700">
-                Password
+                <div className="flex items-center justify-between">
+                  <span>Password</span>
+                  {!isSignUp && (
+                    <Link to="/forgot-password" className="text-xs font-medium text-sky-600 hover:text-sky-700">
+                      Forgot password?
+                    </Link>
+                  )}
+                </div>
                 <div className="relative mt-1.5">
                   <LockKeyhole className="absolute left-3 top-3 h-4 w-4 text-slate-400" />
                   <input

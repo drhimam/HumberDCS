@@ -13,6 +13,8 @@ import Courses from "@/pages/Courses";
 import Landing from "@/pages/Landing";
 import { AuthPage } from "@/pages/Auth";
 import VerifyEmail from "@/pages/VerifyEmail";
+import ForgotPassword from "@/pages/ForgotPassword";
+import ResetPassword from "@/pages/ResetPassword";
 import { RequireAuth } from "@/components/RequireAuth";
 
 function App() {
@@ -23,6 +25,8 @@ function App() {
         <Route path="/signin" element={<AuthPage mode="signin" />} />
         <Route path="/signup" element={<AuthPage mode="signup" />} />
         <Route path="/verify-email" element={<VerifyEmail />} />
+        <Route path="/forgot-password" element={<ForgotPassword />} />
+        <Route path="/reset-password" element={<ResetPassword />} />
         <Route element={<RequireAuth />}>
           <Route element={<AppShell />}>
             <Route path="/dashboard" element={<Dashboard />} />

@@ -8,11 +8,14 @@ database-backed health endpoint and the initial authentication routes:
 - `POST /auth/register`
 - `POST /auth/resend-verification`
 - `GET /auth/verify-email`
+- `POST /auth/forgot-password`
+- `POST /auth/reset-password`
 - `POST /auth/login`
 - `GET /auth/me`
+- `POST /auth/profile`
 - `POST /auth/logout`
 
-Forgot-password, rate limiting, and admin authorization still need to be
+Rate limiting and admin authorization still need to be
 implemented with the same security and testing requirements.
 
 Passwords use PBKDF2-HMAC-SHA-256 with 100,000 iterations, the maximum

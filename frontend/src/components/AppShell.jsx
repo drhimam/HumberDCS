@@ -1,10 +1,14 @@
 import { Outlet } from "react-router-dom";
 import { Navbar } from "@/components/Navbar";
+import { Footer } from "@/components/Footer";
 
 export const AppShell = () => (
-  <div className="min-h-screen bg-[radial-gradient(circle_at_10%_0%,rgba(125,211,252,0.24),transparent_30rem),radial-gradient(circle_at_90%_15%,rgba(94,234,212,0.18),transparent_28rem)]">
-    <Navbar />
-    <Outlet />
+  <div className="min-h-screen flex flex-col justify-between bg-[radial-gradient(circle_at_10%_0%,rgba(125,211,252,0.24),transparent_30rem),radial-gradient(circle_at_90%_15%,rgba(94,234,212,0.18),transparent_28rem)]">
+    <div className="flex-1">
+      <Navbar />
+      <Outlet />
+    </div>
+    <Footer />
   </div>
 );
 

@@ -193,6 +193,106 @@ async function sendPasswordResetEmail(env, email, displayName, token) {
   }
 }
 
+async function sendFeedbackEmail(env, { name, email, category, subjectId, message }) {
+  if (!env.ZEPTOMAIL_API_KEY) throw new Error("Email service is not configured.");
+  const apiUrl = env.ZEPTOMAIL_API_URL || "https://api.zeptomail.ca/v1.1/email";
+  const fromAddress = env.EMAIL_FROM_ADDRESS || "noreply@qbanks.org";
+  const fromName = env.EMAIL_FROM_NAME || "DCS QBank";
+  const rawKey = (env.ZEPTOMAIL_API_KEY || "").trim();
+  const cleanKey = rawKey.replace(/^Zoho-enczapikey\s+/i, "");
+
+  const safeName = (name || "Anonymous DCS Learner").trim();
+  const safeEmail = (email || "Not provided").trim();
+  const safeCategory = (category || "General Feedback").trim();
+  const safeSubject = subjectId ? ` (Course: ${subjectId})` : "";
+  const timeStr = new Date().toUTCString();
+
+  const adminHtml = `<!DOCTYPE html><html><body style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; line-height: 1.6; color: #1e293b; background-color: #f8fafc; margin: 0; padding: 24px;">
+<div style="max-width: 600px; margin: 0 auto; background: #ffffff; border-radius: 16px; border: 1px solid #e2e8f0; padding: 32px; box-shadow: 0 4px 6px -1px rgba(0,0,0,0.05);">
+  <div style="margin-bottom: 20px; border-bottom: 2px solid #0284c7; padding-bottom: 12px;">
+    <span style="font-size: 22px; font-weight: 800; color: #0284c7;">DCSQbank</span>
+    <span style="font-size: 14px; font-weight: 600; color: #64748b; margin-left: 8px;">· Learner Feedback Received</span>
+  </div>
+  <table style="width: 100%; border-collapse: collapse; margin-bottom: 20px; font-size: 14px;">
+    <tr><td style="padding: 6px 0; color: #64748b; width: 130px; font-weight: 600;">Category:</td><td style="font-weight: 700; color: #0f172a;">${safeCategory}${safeSubject}</td></tr>
+    <tr><td style="padding: 6px 0; color: #64748b; font-weight: 600;">Submitted By:</td><td style="font-weight: 600; color: #0f172a;">${safeName}</td></tr>
+    <tr><td style="padding: 6px 0; color: #64748b; font-weight: 600;">Contact Email:</td><td style="color: #0284c7;">${safeEmail}</td></tr>
+    <tr><td style="padding: 6px 0; color: #64748b; font-weight: 600;">Timestamp:</td><td style="color: #64748b;">${timeStr}</td></tr>
+  </table>
+  <div style="background: #f1f5f9; border-left: 4px solid #0284c7; border-radius: 8px; padding: 18px; margin: 20px 0; font-size: 14px; line-height: 1.7; color: #0f172a; white-space: pre-wrap;">${message.replace(/</g, "&lt;").replace(/>/g, "&gt;")}</div>
+  <hr style="border: none; border-top: 1px solid #e2e8f0; margin: 24px 0;" />
+  <p style="font-size: 12px; color: #94a3b8; margin: 0;">Automated notification sent to dcsqbank@qbanks.org from DCSQbank feedback service.</p>
+</div>
+</body></html>`;
+
+  const adminBody = {
+    from: { address: fromAddress, name: fromName },
+    to: [{ email_address: { address: "dcsqbank@qbanks.org", name: "DCSQbank Feedback Team" } }],
+    subject: `[DCSQbank Feedback] ${safeCategory}: ${safeName}${safeSubject}`,
+    htmlbody: adminHtml,
+  };
+  if (validEmail(email)) {
+    adminBody.reply_to = [{ address: email.trim().toLowerCase(), name: safeName }];
+  }
+
+  const adminResponse = await fetch(apiUrl, {
+    method: "POST",
+    headers: {
+      Accept: "application/json",
+      Authorization: `Zoho-enczapikey ${cleanKey}`,
+      "Content-Type": "application/json",
+    },
+    body: JSON.stringify(adminBody),
+  });
+
+  if (!adminResponse.ok) {
+    const txt = await adminResponse.text();
+    console.error("ZeptoMail feedback send failed:", adminResponse.status, txt);
+    throw new Error(`Email service rejected feedback delivery (${adminResponse.status})`);
+  }
+
+  // 2. Auto-send confirmation to user if email is valid
+  if (validEmail(email)) {
+    const userReceiptHtml = `<!DOCTYPE html><html><body style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; line-height: 1.6; color: #1e293b; background-color: #f8fafc; margin: 0; padding: 24px;">
+<div style="max-width: 560px; margin: 0 auto; background: #ffffff; border-radius: 16px; border: 1px solid #e2e8f0; padding: 32px; box-shadow: 0 4px 6px -1px rgba(0,0,0,0.05);">
+  <div style="margin-bottom: 20px;">
+    <span style="font-size: 22px; font-weight: 800; color: #0284c7; letter-spacing: -0.5px;">DCSQbank</span>
+  </div>
+  <h2 style="font-size: 18px; font-weight: 700; color: #0f172a; margin-top: 0;">Feedback received — Thank you!</h2>
+  <p style="margin-bottom: 16px;">Hello <strong>${safeName}</strong>,</p>
+  <p style="margin-bottom: 16px;">Thank you for sharing your feedback with DCSQbank. We have received your submission regarding <strong>${safeCategory}</strong>.</p>
+  <p style="margin-bottom: 16px;">Our team regularly reviews learner input to continually refine question quality, clinical rationale, and platform usability for Humber College Diagnostic Cardiac Sonography students.</p>
+  <div style="background: #f8fafc; border: 1px solid #e2e8f0; border-radius: 8px; padding: 14px; margin: 20px 0; font-size: 13px; color: #334155;">
+    <strong style="color: #64748b; font-size: 11px; text-transform: uppercase;">Your Submission:</strong>
+    <p style="margin: 8px 0 0 0; white-space: pre-wrap;">${message.replace(/</g, "&lt;").replace(/>/g, "&gt;")}</p>
+  </div>
+  <p style="font-size: 13px; color: #64748b;">If you need to follow up, you can reply directly to this email or reach us at <a href="mailto:dcsqbank@qbanks.org" style="color: #0284c7;">dcsqbank@qbanks.org</a>.</p>
+  <hr style="border: none; border-top: 1px solid #e2e8f0; margin: 24px 0;" />
+  <p style="font-size: 12px; color: #94a3b8; margin: 0;">Dedicated to Humber College DCS Faculty & Students · Supporting Sonography Canada & ARDMS success.</p>
+</div>
+</body></html>`;
+
+    try {
+      await fetch(apiUrl, {
+        method: "POST",
+        headers: {
+          Accept: "application/json",
+          Authorization: `Zoho-enczapikey ${cleanKey}`,
+          "Content-Type": "application/json",
+        },
+        body: JSON.stringify({
+          from: { address: fromAddress, name: fromName },
+          to: [{ email_address: { address: email.trim().toLowerCase(), name: safeName } }],
+          subject: "Feedback received — Thank you from DCSQbank",
+          htmlbody: userReceiptHtml,
+        }),
+      });
+    } catch (e) {
+      console.warn("Auto-reply confirmation email to learner could not be sent:", e);
+    }
+  }
+}
+
 async function createSession(db, userId) {
   const raw = base64url(bytes(32));
   const timestamp = now();
@@ -418,6 +518,27 @@ export default {
         const match = request.headers.get("Cookie")?.match(/(?:^|;\s*)dcsqbank_session=([^;]+)/);
         if (match) await env.DB.prepare("UPDATE sessions SET revoked_at = ? WHERE session_hash = ?").bind(now(), await digest(match[1])).run();
         return json({ ok: true }, 200, { ...headers, "Set-Cookie": clearCookie });
+      }
+
+      if ((url.pathname === "/api/feedback" || url.pathname === "/feedback") && request.method === "POST") {
+        const input = await body(request);
+        if (typeof input.message !== "string" || input.message.trim().length < 5) {
+          return json({ error: "Please provide a detailed feedback message (at least 5 characters)." }, 400, headers);
+        }
+        if (input.email && !validEmail(input.email)) {
+          return json({ error: "Please provide a valid email address so we can follow up, or leave it blank." }, 400, headers);
+        }
+        await sendFeedbackEmail(env, {
+          name: typeof input.name === "string" ? input.name : "",
+          email: typeof input.email === "string" ? input.email : "",
+          category: typeof input.category === "string" ? input.category : "General Feedback",
+          subjectId: typeof input.subjectId === "string" ? input.subjectId : "",
+          message: input.message.trim(),
+        });
+        return json({
+          ok: true,
+          message: "Thank you! Your feedback has been received and our sonography team has been notified at dcsqbank@qbanks.org.",
+        }, 200, headers);
       }
 
       return json({ error: "Not found" }, 404, headers);

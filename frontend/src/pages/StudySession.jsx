@@ -1,6 +1,6 @@
 import { useCallback, useEffect, useRef, useState } from "react";
 import { Link, useParams } from "react-router-dom";
-import { ArrowLeft, ChevronLeft, ChevronRight, RotateCcw, Eye, Calculator as CalcIcon, Expand, List, Minimize2 } from "lucide-react";
+import { ArrowLeft, ChevronLeft, ChevronRight, RotateCcw, Eye, Calculator as CalcIcon, Expand, List, Minimize2, Type } from "lucide-react";
 import { Calculator } from "@/components/Calculator";
 import { useSubject } from "@/hooks/useQbank";
 import { addSession, getProgress, recordAnswers } from "@/lib/progress";
@@ -86,39 +86,99 @@ export default function StudySession() {
     <PageState loading={isLoading || (subject && !questions)} error={error}>
       {subject && questions && (
         <main className={`${focusMode ? "fixed inset-0 z-50 overflow-y-auto bg-slate-50" : ""} mx-auto max-w-[1440px] px-4 py-6 sm:px-6`} data-testid="study-session-page">
-          <div className="mb-6 flex flex-wrap items-center justify-between gap-3">
+          <div className="mb-6 space-y-3 sm:space-y-0 sm:flex sm:items-center sm:justify-between sm:gap-4">
             <div>
               <Link to={`/subject/${sid}/study`} className="inline-flex items-center gap-1.5 text-xs font-bold text-slate-500 hover:text-slate-900 uppercase tracking-wider transition-colors" data-testid="back-to-chapters">
                 <ArrowLeft className="h-4 w-4" /> Chapters
               </Link>
-              <h1 className="font-heading text-2xl font-extrabold text-slate-900 mt-1 flex flex-wrap items-center gap-2">
+              <h1 className="font-heading text-xl sm:text-2xl font-extrabold text-slate-900 mt-1 flex flex-wrap items-center gap-2">
                 <span className={cn("font-mono text-xs font-bold px-2.5 py-1 rounded-md border shadow-xs", theme.tableBadge)}>
                   {subject.code}
                 </span>
                 <span>{label}</span>
               </h1>
             </div>
-            <div className="flex flex-wrap items-center justify-end gap-2 text-sm sm:gap-3" data-testid="study-score">
-              <span className="rounded-xl border border-slate-200 bg-white px-3 py-1.5 text-xs font-semibold text-slate-600 shadow-xs">
-                Answered <b className="text-slate-950 font-extrabold text-sm ml-1">{done}/{questions.length}</b>
-              </span>
-              <span className="rounded-xl border border-teal-200 bg-teal-50 px-3 py-1.5 text-xs font-semibold text-teal-800 shadow-xs">
-                Correct <b className="text-teal-950 font-extrabold text-sm ml-1">{correct}</b>
-              </span>
-              <Button variant="outline" size="sm" className={`rounded-full ${calcOpen ? "border-sky-400 text-sky-700" : ""}`} onClick={() => setCalcOpen((v) => !v)} data-testid="toggle-calculator-btn">
-                <CalcIcon className="h-4 w-4" /> Calculator
-              </Button>
-              <Button variant="outline" size="sm" aria-label={focusMode ? "Exit focus mode" : "Enter focus mode"} className={`rounded-full ${focusMode ? "border-sky-400 text-sky-700" : ""}`} onClick={() => setFocusMode((v) => !v)} data-testid="toggle-focus-mode-btn">
-                {focusMode ? <Minimize2 className="h-4 w-4" /> : <Expand className="h-4 w-4" />} <span className="hidden sm:inline">{focusMode ? "Exit focus" : "Focus"}</span>
-              </Button>
-              <select value={fontSize} onChange={(e) => setFontSize(e.target.value)} className="h-9 rounded-full border border-slate-200 bg-white px-3 text-xs font-semibold text-slate-700" aria-label="Question font size" data-testid="study-font-size">
-                <option value="normal">Text: normal</option>
-                <option value="large">Text: large</option>
-                <option value="larger">Text: larger</option>
-              </select>
-              <Button variant="outline" size="sm" className="rounded-full" onClick={() => { setAnswers({}); setIdx(0); }} data-testid="restart-study-btn">
-                <RotateCcw className="h-4 w-4" /> Restart
-              </Button>
+            <div className="flex items-center justify-between sm:justify-end gap-2 sm:gap-3" data-testid="study-score">
+              {/* Score Badges */}
+              <div className="flex items-center gap-1.5 sm:gap-2">
+                <span className="rounded-xl border border-slate-200 bg-white px-2.5 py-1.5 text-xs font-semibold text-slate-600 shadow-xs">
+                  <span className="hidden sm:inline">Answered </span><b className="text-slate-950 font-extrabold text-xs sm:text-sm">{done}/{questions.length}</b>
+                </span>
+                <span className="rounded-xl border border-teal-200 bg-teal-50 px-2.5 py-1.5 text-xs font-semibold text-teal-800 shadow-xs">
+                  <span className="hidden sm:inline">Correct </span><b className="text-teal-950 font-extrabold text-xs sm:text-sm">{correct}</b>
+                </span>
+              </div>
+
+              {/* Modern Unified Action Toolbar */}
+              <div className="inline-flex items-center rounded-full border border-slate-200 bg-white p-1 shadow-xs gap-0.5 sm:gap-1">
+                {/* 1. Calculator */}
+                <Button
+                  variant="ghost"
+                  size="sm"
+                  title="Calculator"
+                  aria-label="Calculator"
+                  className={cn(
+                    "h-8 w-8 p-0 sm:h-8 sm:w-auto sm:px-2.5 rounded-full text-slate-600 hover:text-slate-950 hover:bg-slate-100 transition-all gap-1.5",
+                    calcOpen && "bg-sky-50 text-sky-700 border border-sky-300 font-bold"
+                  )}
+                  onClick={() => setCalcOpen((v) => !v)}
+                  data-testid="toggle-calculator-btn"
+                >
+                  <CalcIcon className="h-4 w-4 shrink-0" />
+                  <span className="hidden sm:inline text-xs font-semibold">Calculator</span>
+                </Button>
+
+                {/* 2. Focus */}
+                <Button
+                  variant="ghost"
+                  size="sm"
+                  title={focusMode ? "Exit focus mode" : "Enter focus mode"}
+                  aria-label={focusMode ? "Exit focus mode" : "Enter focus mode"}
+                  className={cn(
+                    "h-8 w-8 p-0 sm:h-8 sm:w-auto sm:px-2.5 rounded-full text-slate-600 hover:text-slate-950 hover:bg-slate-100 transition-all gap-1.5",
+                    focusMode && "bg-sky-50 text-sky-700 border border-sky-300 font-bold"
+                  )}
+                  onClick={() => setFocusMode((v) => !v)}
+                  data-testid="toggle-focus-mode-btn"
+                >
+                  {focusMode ? <Minimize2 className="h-4 w-4 shrink-0" /> : <Expand className="h-4 w-4 shrink-0" />}
+                  <span className="hidden sm:inline text-xs font-semibold">{focusMode ? "Exit focus" : "Focus"}</span>
+                </Button>
+
+                {/* 3. Text Size */}
+                <div
+                  className="relative inline-flex items-center justify-center rounded-full text-slate-600 hover:text-slate-950 hover:bg-slate-100 transition-all h-8 w-8 sm:h-8 sm:w-auto sm:px-2.5 text-xs font-semibold cursor-pointer gap-1.5"
+                  title={`Text size: ${fontSize}`}
+                >
+                  <Type className="h-4 w-4 shrink-0" />
+                  <span className="hidden sm:inline capitalize">Text: {fontSize}</span>
+                  <select
+                    value={fontSize}
+                    onChange={(e) => setFontSize(e.target.value)}
+                    className="absolute inset-0 h-full w-full opacity-0 cursor-pointer text-xs"
+                    aria-label="Question font size"
+                    data-testid="study-font-size"
+                  >
+                    <option value="normal">Text: normal</option>
+                    <option value="large">Text: large</option>
+                    <option value="larger">Text: larger</option>
+                  </select>
+                </div>
+
+                {/* 4. Restart */}
+                <Button
+                  variant="ghost"
+                  size="sm"
+                  title="Restart chapter"
+                  aria-label="Restart chapter"
+                  className="h-8 w-8 p-0 sm:h-8 sm:w-auto sm:px-2.5 rounded-full text-slate-600 hover:text-slate-950 hover:bg-slate-100 transition-all gap-1.5"
+                  onClick={() => { setAnswers({}); setIdx(0); }}
+                  data-testid="restart-study-btn"
+                >
+                  <RotateCcw className="h-4 w-4 shrink-0" />
+                  <span className="hidden sm:inline text-xs font-semibold">Restart</span>
+                </Button>
+              </div>
             </div>
           </div>
           {questions.length === 0 ? (

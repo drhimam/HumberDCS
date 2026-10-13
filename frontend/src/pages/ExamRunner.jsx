@@ -1,7 +1,8 @@
 import { useCallback, useEffect, useRef, useState } from "react";
 import { Navigate, useNavigate } from "react-router-dom";
-import { Clock, Flag, ChevronLeft, ChevronRight, LogOut, CheckSquare, Calculator as CalcIcon, Expand, List, Minimize2 } from "lucide-react";
+import { Clock, Flag, ChevronLeft, ChevronRight, LogOut, CheckSquare, Calculator as CalcIcon, Expand, List, Minimize2, Type } from "lucide-react";
 import { Calculator } from "@/components/Calculator";
+import { cn } from "@/lib/utils";
 import { addSession, recordAnswers } from "@/lib/progress";
 import { clearActiveExam, loadActiveExam, saveActiveExam, saveExamResult } from "@/lib/exam";
 import { clock } from "@/lib/stats";
@@ -71,30 +72,97 @@ export default function ExamRunner() {
 
   return (
     <div className={`${focusMode ? "fixed inset-0 z-50 overflow-y-auto" : ""} min-h-screen bg-slate-50`} data-testid="exam-runner-page">
-      <header className="sticky top-0 z-40 bg-slate-900 text-white shadow-md">
-        <div className="mx-auto flex min-h-16 max-w-7xl flex-wrap items-center justify-between gap-2 px-3 py-2 sm:gap-4 sm:px-6">
-          <div className="min-w-0 flex-1">
-            <div className="font-mono text-xs font-bold text-sky-400">{exam.subjectCode} · EXAM SIMULATION</div>
-            <div className="truncate font-heading text-base font-bold text-white">{exam.subjectTitle}</div>
-          </div>
-          <div className={`flex items-center gap-2 rounded-full border px-4 py-1.5 font-mono text-sm font-bold ${low ? "border-rose-500 bg-rose-500/10 text-rose-300 animate-pulse" : "border-slate-700 bg-slate-800 text-sky-400"}`} data-testid="exam-timer">
-            <Clock className="h-4 w-4" /> {remaining === null ? "Untimed" : clock(remaining)}
-          </div>
-          <div className="flex items-center gap-2">
-            <Button variant="outline" className={`rounded-full border-slate-600 bg-transparent text-white hover:bg-slate-800 hover:text-white ${calcOpen ? "border-sky-400 text-sky-300" : ""}`} onClick={() => setCalcOpen((v) => !v)} data-testid="toggle-calculator-btn">
-              <CalcIcon className="h-4 w-4" /> <span className="hidden sm:inline">Calculator</span>
-            </Button>
-            <Button variant="outline" aria-label={focusMode ? "Exit focus mode" : "Enter focus mode"} className={`rounded-full border-slate-600 bg-transparent text-white hover:bg-slate-800 hover:text-white ${focusMode ? "border-sky-400 text-sky-300" : ""}`} onClick={() => setFocusMode((v) => !v)} data-testid="toggle-focus-mode-btn">
-              {focusMode ? <Minimize2 className="h-4 w-4" /> : <Expand className="h-4 w-4" />} <span className="hidden sm:inline">{focusMode ? "Exit focus" : "Focus"}</span>
-            </Button>
-            <select value={fontSize} onChange={(e) => setFontSize(e.target.value)} className="h-9 max-w-[106px] rounded-full border border-slate-600 bg-slate-800 px-2 text-[11px] font-semibold text-white sm:max-w-none sm:px-3 sm:text-xs" aria-label="Question font size" data-testid="exam-font-size">
-              <option value="normal">Text: normal</option>
-              <option value="large">Text: large</option>
-              <option value="larger">Text: larger</option>
-            </select>
-            <Button variant="outline" className="rounded-full border-slate-600 bg-transparent text-white hover:bg-slate-800 hover:text-white" onClick={() => setConfirm(true)} data-testid="end-exam-btn">
-              <LogOut className="h-4 w-4" /> <span className="hidden sm:inline">End test</span>
-            </Button>
+      <header className="sticky top-0 z-40 border-b border-slate-800/80 bg-slate-900/95 text-white shadow-md backdrop-blur-md">
+        <div className="mx-auto max-w-7xl px-3 py-2 sm:px-6">
+          <div className="flex flex-col gap-2 sm:min-h-16 sm:flex-row sm:items-center sm:justify-between sm:gap-4">
+            {/* Subject Code & Title */}
+            <div className="min-w-0">
+              <div className="font-mono text-[10px] sm:text-xs font-bold text-sky-400 uppercase tracking-wider">{exam.subjectCode} · EXAM SIMULATION</div>
+              <div className="truncate font-heading text-sm sm:text-base font-bold text-white">{exam.subjectTitle}</div>
+            </div>
+
+            {/* Controls: Timer & Modern Action Toolbar */}
+            <div className="flex items-center justify-between sm:justify-end gap-2 sm:gap-3">
+              {/* Timer */}
+              <div className={cn(
+                "flex items-center gap-1.5 sm:gap-2 rounded-full border px-3 py-1 sm:px-3.5 sm:py-1.5 font-mono text-xs sm:text-sm font-bold shadow-xs",
+                low ? "border-rose-500 bg-rose-500/10 text-rose-300 animate-pulse" : "border-slate-700 bg-slate-800 text-sky-400"
+              )} data-testid="exam-timer">
+                <Clock className="h-3.5 w-3.5 sm:h-4 sm:w-4 shrink-0" />
+                <span>{remaining === null ? "Untimed" : clock(remaining)}</span>
+              </div>
+
+              {/* Modern Unified Action Toolbar */}
+              <div className="inline-flex items-center rounded-full border border-slate-700/80 bg-slate-800/90 p-1 shadow-inner gap-0.5 sm:gap-1">
+                {/* 1. Calculator */}
+                <Button
+                  variant="ghost"
+                  size="sm"
+                  title="Calculator"
+                  aria-label="Calculator"
+                  className={cn(
+                    "h-8 w-8 p-0 sm:h-8 sm:w-auto sm:px-2.5 rounded-full text-slate-300 hover:text-white hover:bg-slate-700/70 transition-all gap-1.5",
+                    calcOpen && "bg-sky-500/20 text-sky-300 border border-sky-500/40 font-bold"
+                  )}
+                  onClick={() => setCalcOpen((v) => !v)}
+                  data-testid="toggle-calculator-btn"
+                >
+                  <CalcIcon className="h-4 w-4 shrink-0" />
+                  <span className="hidden sm:inline text-xs font-semibold">Calculator</span>
+                </Button>
+
+                {/* 2. Focus */}
+                <Button
+                  variant="ghost"
+                  size="sm"
+                  title={focusMode ? "Exit focus mode" : "Enter focus mode"}
+                  aria-label={focusMode ? "Exit focus mode" : "Enter focus mode"}
+                  className={cn(
+                    "h-8 w-8 p-0 sm:h-8 sm:w-auto sm:px-2.5 rounded-full text-slate-300 hover:text-white hover:bg-slate-700/70 transition-all gap-1.5",
+                    focusMode && "bg-sky-500/20 text-sky-300 border border-sky-500/40 font-bold"
+                  )}
+                  onClick={() => setFocusMode((v) => !v)}
+                  data-testid="toggle-focus-mode-btn"
+                >
+                  {focusMode ? <Minimize2 className="h-4 w-4 shrink-0" /> : <Expand className="h-4 w-4 shrink-0" />}
+                  <span className="hidden sm:inline text-xs font-semibold">{focusMode ? "Exit focus" : "Focus"}</span>
+                </Button>
+
+                {/* 3. Text Size */}
+                <div
+                  className="relative inline-flex items-center justify-center rounded-full text-slate-300 hover:text-white hover:bg-slate-700/70 transition-all h-8 w-8 sm:h-8 sm:w-auto sm:px-2.5 text-xs font-semibold cursor-pointer gap-1.5"
+                  title={`Text size: ${fontSize}`}
+                >
+                  <Type className="h-4 w-4 shrink-0" />
+                  <span className="hidden sm:inline capitalize">Text: {fontSize}</span>
+                  <select
+                    value={fontSize}
+                    onChange={(e) => setFontSize(e.target.value)}
+                    className="absolute inset-0 h-full w-full opacity-0 cursor-pointer bg-slate-800 text-white text-xs"
+                    aria-label="Question font size"
+                    data-testid="exam-font-size"
+                  >
+                    <option value="normal" className="bg-slate-900 text-white">Text: normal</option>
+                    <option value="large" className="bg-slate-900 text-white">Text: large</option>
+                    <option value="larger" className="bg-slate-900 text-white">Text: larger</option>
+                  </select>
+                </div>
+
+                {/* 4. End Test */}
+                <Button
+                  variant="ghost"
+                  size="sm"
+                  title="End test"
+                  aria-label="End test"
+                  className="h-8 w-8 p-0 sm:h-8 sm:w-auto sm:px-2.5 rounded-full text-rose-300 hover:text-white hover:bg-rose-500/20 transition-all gap-1.5"
+                  onClick={() => setConfirm(true)}
+                  data-testid="end-exam-btn"
+                >
+                  <LogOut className="h-4 w-4 shrink-0" />
+                  <span className="hidden sm:inline text-xs font-semibold">End test</span>
+                </Button>
+              </div>
+            </div>
           </div>
         </div>
       </header>

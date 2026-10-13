@@ -16,40 +16,40 @@ export const SubjectCard = ({ subject, stats, onOpen, index }) => {
       data-testid={`subject-card-${subject.id}`}
       style={{ animationDelay: `${index * 40}ms` }}
       className={cn(
-        "group flex flex-col justify-between rounded-2xl border p-5 text-left transition-all duration-200 hover:-translate-y-1 hover:shadow-md focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-sky-500 animate-in fade-in slide-in-from-bottom-2 fill-mode-both",
+        "group relative flex flex-col justify-between overflow-hidden rounded-2xl border p-5 text-left transition-all duration-200 hover:-translate-y-1 hover:shadow-xl focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-sky-400 animate-in fade-in slide-in-from-bottom-2 fill-mode-both",
         theme.cardBg,
         theme.cardBorder,
       )}
     >
       <div>
         <div className="flex items-start justify-between">
-          <span className={cn("flex h-11 w-11 items-center justify-center rounded-xl shadow-xs transition-colors", theme.iconBg)}>
+          <span className={cn("flex h-11 w-11 items-center justify-center rounded-xl shadow-inner transition-colors", theme.iconBg)}>
             <Icon className="h-5 w-5" />
           </span>
-          <ArrowUpRight className={cn("h-4 w-4 text-slate-400 transition-colors group-hover:translate-x-0.5 group-hover:-translate-y-0.5", theme.accentText)} />
+          <ArrowUpRight className={cn("h-4 w-4 text-slate-400 transition-all duration-200 group-hover:translate-x-0.5 group-hover:-translate-y-0.5 group-hover:text-white", theme.accentText)} />
         </div>
-        <span className={cn("mt-4 inline-block rounded-md border px-2.5 py-0.5 font-mono text-xs font-bold tracking-wide", theme.badgeBg)}>
+        <span className={cn("mt-4 inline-block rounded-md border px-2.5 py-0.5 font-mono text-xs font-bold tracking-wide shadow-xs", theme.badgeBg)}>
           {subject.code}
         </span>
-        <h3 className="mt-2.5 font-heading text-base font-bold leading-snug text-slate-900 line-clamp-2">
+        <h3 className="mt-2.5 font-heading text-base font-bold leading-snug text-white line-clamp-2">
           {subject.title}
         </h3>
-        <p className="mt-1.5 text-xs font-semibold text-slate-600">
+        <p className="mt-1.5 text-xs font-semibold text-slate-300">
           {subject.chapters.length} chapters · {subject.questionCount} questions
         </p>
       </div>
       <div className="mt-5 space-y-2">
         {empty ? (
-          <span className="text-xs font-bold text-amber-700 bg-amber-100/70 px-2.5 py-1 rounded-md inline-block">
+          <span className="text-xs font-bold text-amber-300 bg-amber-500/15 border border-amber-500/30 px-2.5 py-1 rounded-md inline-block">
             Questions coming soon
           </span>
         ) : (
           <>
-            <div className="flex justify-between text-xs font-semibold text-slate-600">
+            <div className="flex justify-between text-xs font-semibold text-slate-300">
               <span>{stats.answered}/{stats.total} completed</span>
-              <span className="font-bold text-slate-900">{stats.accuracy === null ? "—" : `${stats.accuracy}%`}</span>
+              <span className="font-bold text-white">{stats.accuracy === null ? "—" : `${stats.accuracy}%`}</span>
             </div>
-            <Progress value={stats.completion} className={cn("h-2 rounded-full", theme.progressBar)} />
+            <Progress value={stats.completion} className={cn("h-2 rounded-full bg-slate-800/90", theme.progressBar)} />
           </>
         )}
       </div>

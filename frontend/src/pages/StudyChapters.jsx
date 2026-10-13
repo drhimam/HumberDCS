@@ -23,24 +23,24 @@ export const SubjectHeader = ({ subject, mode }) => {
       >
         <ArrowLeft className="h-4 w-4" /> Back to Courses
       </Link>
-      <div className={cn("rounded-3xl border p-6 sm:p-7 bg-gradient-to-br shadow-sm", theme.bannerGradient, theme.bannerBorder)}>
+      <div className={cn("rounded-3xl border p-6 sm:p-7 bg-gradient-to-br shadow-lg text-white", theme.bannerGradient, theme.bannerBorder)}>
         <div className="flex items-start gap-4 sm:gap-5">
-          <span className={cn("flex h-13 w-13 shrink-0 items-center justify-center rounded-2xl shadow-xs", theme.iconBg)}>
+          <span className={cn("flex h-13 w-13 shrink-0 items-center justify-center rounded-2xl shadow-inner", theme.iconBg)}>
             <Icon className="h-7 w-7" />
           </span>
           <div className="min-w-0 flex-1">
             <div className="flex flex-wrap items-center gap-2">
-              <span className={cn("inline-block rounded-md border px-2.5 py-0.5 font-mono text-xs font-bold", theme.badgeBg)}>
+              <span className={cn("inline-block rounded-md border px-2.5 py-0.5 font-mono text-xs font-bold shadow-xs", theme.badgeBg)}>
                 {subject.code}
               </span>
-              <span className="rounded-full bg-white/90 px-2.5 py-0.5 text-xs font-bold text-slate-700 shadow-xs ring-1 ring-slate-200">
+              <span className="rounded-full bg-white/10 px-2.5 py-0.5 text-xs font-bold text-slate-200 shadow-xs ring-1 ring-white/15">
                 {mode}
               </span>
             </div>
-            <h1 className="mt-2 font-heading text-2xl font-extrabold tracking-tight text-slate-900 sm:text-3xl md:text-4xl">
+            <h1 className="mt-2 font-heading text-2xl font-extrabold tracking-tight text-white sm:text-3xl md:text-4xl">
               {subject.title}
             </h1>
-            <p className="mt-1.5 text-xs font-semibold text-slate-600 sm:text-sm">
+            <p className="mt-1.5 text-xs font-semibold text-slate-300 sm:text-sm">
               {subject.chapters?.length || 0} chapters · {subject.questionCount || 0} practice questions
             </p>
           </div>

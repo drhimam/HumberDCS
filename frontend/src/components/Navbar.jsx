@@ -250,7 +250,7 @@ export const Navbar = () => {
       </header>
 
       {/* Global Dialogs */}
-      <ProfileDialog open={profileOpen} onOpenChange={setProfileOpen} />
+      <ProfileDialog open={profileOpen} onOpenChange={setProfileOpen} onOpenDonate={() => setDonateOpen(true)} />
       <DonateDialog open={donateOpen} onOpenChange={setDonateOpen} />
     </>
   );

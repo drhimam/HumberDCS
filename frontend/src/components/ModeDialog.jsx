@@ -37,11 +37,11 @@ export const ModeDialog = ({ subject, onClose }) => {
           <>
             <DialogHeader className="text-left space-y-2">
               <div className="flex items-start gap-3.5">
-                <span className={cn("flex h-12 w-12 shrink-0 items-center justify-center rounded-2xl shadow-xs", theme.iconBg)}>
+                <span className={cn("flex h-12 w-12 shrink-0 items-center justify-center rounded-2xl border", theme.pillTone)}>
                   <Icon className="h-6 w-6" />
                 </span>
                 <div className="min-w-0 flex-1">
-                  <span className={cn("inline-block rounded-md border px-2 py-0.5 font-mono text-xs font-bold", theme.badgeBg)}>
+                  <span className={cn("inline-block rounded-md border px-2 py-0.5 font-mono text-xs font-bold", theme.tableBadge)}>
                     {subject.code}
                   </span>
                   <DialogTitle className="mt-1 font-heading text-lg font-bold text-slate-900 leading-snug sm:text-xl">

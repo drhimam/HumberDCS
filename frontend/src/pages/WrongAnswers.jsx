@@ -21,7 +21,7 @@ const WrongItem = ({ a, live, subject, chapter }) => {
       <AccordionTrigger className="text-left hover:no-underline py-4">
         <div className="min-w-0 flex-1 space-y-1.5">
           <div className="flex flex-wrap items-center gap-2 text-xs font-semibold text-slate-500">
-            <span className={cn("font-mono font-bold px-2 py-0.5 rounded border", theme.badgeBg)}>
+            <span className={cn("font-mono font-bold px-2 py-0.5 rounded border", theme.tableBadge)}>
               {subject?.code || a.subjectId}
             </span>
             <span>· {chapter?.title || a.chapterId}</span>

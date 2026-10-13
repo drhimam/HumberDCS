@@ -23,10 +23,10 @@ export const SubjectCard = ({ subject, stats, onOpen, index }) => {
     >
       <div>
         <div className="flex items-start justify-between">
-          <span className={cn("flex h-11 w-11 items-center justify-center rounded-xl shadow-inner transition-colors", theme.iconBg)}>
+          <span className={cn("flex h-11 w-11 items-center justify-center rounded-xl shadow-md ring-2 ring-white/20 transition-transform group-hover:scale-105", theme.iconBg)}>
             <Icon className="h-5 w-5" />
           </span>
-          <ArrowUpRight className={cn("h-4 w-4 text-slate-400 transition-all duration-200 group-hover:translate-x-0.5 group-hover:-translate-y-0.5 group-hover:text-white", theme.accentText)} />
+          <ArrowUpRight className={cn("h-4 w-4 text-white/70 transition-all duration-200 group-hover:translate-x-0.5 group-hover:-translate-y-0.5 group-hover:text-white", theme.accentText)} />
         </div>
         <span className={cn("mt-4 inline-block rounded-md border px-2.5 py-0.5 font-mono text-xs font-bold tracking-wide shadow-xs", theme.badgeBg)}>
           {subject.code}
@@ -34,22 +34,22 @@ export const SubjectCard = ({ subject, stats, onOpen, index }) => {
         <h3 className="mt-2.5 font-heading text-base font-bold leading-snug text-white line-clamp-2">
           {subject.title}
         </h3>
-        <p className="mt-1.5 text-xs font-semibold text-slate-300">
+        <p className="mt-1.5 text-xs font-semibold text-white/85">
           {subject.chapters.length} chapters · {subject.questionCount} questions
         </p>
       </div>
       <div className="mt-5 space-y-2">
         {empty ? (
-          <span className="text-xs font-bold text-amber-300 bg-amber-500/15 border border-amber-500/30 px-2.5 py-1 rounded-md inline-block">
+          <span className="text-xs font-bold text-amber-200 bg-amber-400/20 border border-amber-300/30 px-2.5 py-1 rounded-md inline-block backdrop-blur-xs">
             Questions coming soon
           </span>
         ) : (
           <>
-            <div className="flex justify-between text-xs font-semibold text-slate-300">
+            <div className="flex justify-between text-xs font-semibold text-white/90">
               <span>{stats.answered}/{stats.total} completed</span>
-              <span className="font-bold text-white">{stats.accuracy === null ? "—" : `${stats.accuracy}%`}</span>
+              <span className="font-extrabold text-white">{stats.accuracy === null ? "—" : `${stats.accuracy}%`}</span>
             </div>
-            <Progress value={stats.completion} className={cn("h-2 rounded-full bg-slate-800/90", theme.progressBar)} />
+            <Progress value={stats.completion} className={cn("h-2 rounded-full bg-black/20 backdrop-blur-xs", theme.progressBar)} />
           </>
         )}
       </div>

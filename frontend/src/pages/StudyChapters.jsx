@@ -33,14 +33,14 @@ export const SubjectHeader = ({ subject, mode }) => {
               <span className={cn("inline-block rounded-md border px-2.5 py-0.5 font-mono text-xs font-bold shadow-xs", theme.badgeBg)}>
                 {subject.code}
               </span>
-              <span className="rounded-full bg-white/10 px-2.5 py-0.5 text-xs font-bold text-slate-200 shadow-xs ring-1 ring-white/15">
+              <span className="rounded-full bg-white/10 px-2.5 py-0.5 text-xs font-bold text-white/90 shadow-xs ring-1 ring-white/20">
                 {mode}
               </span>
             </div>
             <h1 className="mt-2 font-heading text-2xl font-extrabold tracking-tight text-white sm:text-3xl md:text-4xl">
               {subject.title}
             </h1>
-            <p className="mt-1.5 text-xs font-semibold text-slate-300 sm:text-sm">
+            <p className="mt-1.5 text-xs font-semibold text-white/85 sm:text-sm">
               {subject.chapters?.length || 0} chapters · {subject.questionCount || 0} practice questions
             </p>
           </div>
@@ -68,7 +68,7 @@ const ChapterRow = ({ ch, index, stats, onStart, theme }) => {
         <div className="mt-1 text-xs font-semibold text-slate-500">
           {empty ? "Questions coming soon" : `${ch.questions.length} questions · ${stats.answered} answered · ${stats.wrong} wrong`}
         </div>
-        {!empty && <Progress value={stats.completion} className={cn("mt-3 h-2 max-w-sm rounded-full", theme?.progressBar || "[&>div]:bg-teal-500")} />}
+        {!empty && <Progress value={stats.completion} className={cn("mt-3 h-2 max-w-sm rounded-full bg-slate-100", theme?.tableProgressBar || "[&>div]:bg-teal-600")} />}
       </div>
       <div className="text-right">
         <div className="font-heading text-lg font-extrabold text-slate-900">{stats.accuracy === null ? "—" : `${stats.accuracy}%`}</div>

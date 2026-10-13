@@ -92,7 +92,7 @@ export default function StudySession() {
                 <ArrowLeft className="h-4 w-4" /> Chapters
               </Link>
               <h1 className="font-heading text-2xl font-extrabold text-slate-900 mt-1 flex flex-wrap items-center gap-2">
-                <span className={cn("font-mono text-xs font-bold px-2.5 py-1 rounded-md border shadow-xs", theme.badgeBg)}>
+                <span className={cn("font-mono text-xs font-bold px-2.5 py-1 rounded-md border shadow-xs", theme.tableBadge)}>
                   {subject.code}
                 </span>
                 <span>{label}</span>

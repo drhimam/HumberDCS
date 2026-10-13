@@ -34,11 +34,11 @@ export const SubjectBreakdown = ({ stats }) => (
               <TableRow key={s.id} data-testid={`breakdown-row-${s.id}`} className="hover:bg-slate-50/70 border-slate-100">
                 <TableCell>
                   <div className="flex items-center gap-3">
-                    <span className={cn("flex h-8 w-8 shrink-0 items-center justify-center rounded-lg", theme.iconBg)}>
+                    <span className={cn("flex h-8 w-8 shrink-0 items-center justify-center rounded-lg border", theme.pillTone)}>
                       <Icon className="h-4 w-4" />
                     </span>
                     <div className="min-w-0">
-                      <span className={cn("inline-block rounded px-1.5 py-0.5 font-mono text-[11px] font-bold mr-1.5", theme.badgeBg)}>
+                      <span className={cn("inline-block rounded px-1.5 py-0.5 font-mono text-[11px] font-bold mr-1.5 border", theme.tableBadge)}>
                         {s.code}
                       </span>
                       <span className="font-semibold text-slate-900 text-sm">{s.title}</span>
@@ -47,7 +47,7 @@ export const SubjectBreakdown = ({ stats }) => (
                 </TableCell>
                 <TableCell>
                   <div className="flex items-center gap-2">
-                    <Progress value={b.completion} className={cn("h-2 rounded-full", theme.progressBar)} />
+                    <Progress value={b.completion} className={cn("h-2 rounded-full bg-slate-100", theme.tableProgressBar)} />
                     <span className="w-9 text-right text-xs font-bold text-slate-600">{b.completion}%</span>
                   </div>
                 </TableCell>

@@ -1,5 +1,3606 @@
 {
   "chapterId": "ch03",
-  "title": "Quality Assurance",
-  "questions": []
+  "title": "Module 3: Legal Responsibilities – Privacy, Documentation & Consent",
+  "questions": [
+    {
+      "id": "DCS5006-ch03-q001",
+      "stem": "Which legislation governs personal health information in Ontario?",
+      "image": null,
+      "options": [
+        "The Motor Vehicle Act",
+        "The Occupational Health and Safety Act only",
+        "The Canada Labour Code",
+        "PHIPA"
+      ],
+      "answer": 3,
+      "explanation": "The Personal Health Information Protection Act, 2004 governs personal health information in Ontario.",
+      "explanationImage": null,
+      "tags": [
+        "Which Rule Applies? Legal and Professional Frameworks"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch03-q002",
+      "stem": "Which legislation addresses consent to treatment in Ontario?",
+      "image": null,
+      "options": [
+        "The Residential Tenancies Act",
+        "The Municipal Act",
+        "The Environmental Protection Act",
+        "The Health Care Consent Act"
+      ],
+      "answer": 3,
+      "explanation": "Consent to treatment is governed by the Health Care Consent Act.",
+      "explanationImage": null,
+      "tags": [
+        "Which Rule Applies? Legal and Professional Frameworks"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch03-q003",
+      "stem": "Which framework is the correct starting point when the question is \"Who may access or receive this report?\"",
+      "image": null,
+      "options": [
+        "The employer's social committee",
+        "Personal preference",
+        "PHIPA and authorized processes",
+        "The patient's family's wishes alone"
+      ],
+      "answer": 2,
+      "explanation": "Access and disclosure decisions are governed by PHIPA and the custodian's authorized processes.",
+      "explanationImage": null,
+      "tags": [
+        "Which Rule Applies? Legal and Professional Frameworks"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch03-q004",
+      "stem": "Which framework is the correct starting point when a patient asks to stop scanning?",
+      "image": null,
+      "options": [
+        "HCCA and consent standards",
+        "The scheduling policy alone",
+        "The equipment manual",
+        "The billing code"
+      ],
+      "answer": 0,
+      "explanation": "The patient's request to stop is a consent matter governed by the HCCA and consent standards.",
+      "explanationImage": null,
+      "tags": [
+        "Which Rule Applies? Legal and Professional Frameworks"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch03-q005",
+      "stem": "Which legislation is the correct starting point when a child may need protection?",
+      "image": null,
+      "options": [
+        "PHIPA alone",
+        "The MRIT Act alone",
+        "Workplace scheduling policy",
+        "The Child, Youth and Family Services Act"
+      ],
+      "answer": 3,
+      "explanation": "Child protection reporting duties arise under the CYFSA.",
+      "explanationImage": null,
+      "tags": [
+        "Which Rule Applies? Legal and Professional Frameworks"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch03-q006",
+      "stem": "A concern about sexual abuse by a regulated professional triggers reporting duties under which legislation?",
+      "image": null,
+      "options": [
+        "PHIPA alone",
+        "The HCCA alone",
+        "Local hospital policy only",
+        "The Regulated Health Professions Act"
+      ],
+      "answer": 3,
+      "explanation": "Reporting duties for sexual abuse by a regulated professional arise under the RHPA.",
+      "explanationImage": null,
+      "tags": [
+        "Which Rule Applies? Legal and Professional Frameworks"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch03-q007",
+      "stem": "How do the RHPA and the MRIT Act relate to a practice question?",
+      "image": null,
+      "options": [
+        "They govern only hospital construction",
+        "They apply only outside Ontario",
+        "They provide Ontario's professional regulatory framework for this profession",
+        "They are unrelated to professional practice"
+      ],
+      "answer": 2,
+      "explanation": "Together they form the regulatory framework establishing scope, titles, authorized acts, and reporting duties.",
+      "explanationImage": null,
+      "tags": [
+        "Which Rule Applies? Legal and Professional Frameworks"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch03-q008",
+      "stem": "How do CMRITO standards relate to a documentation question?",
+      "image": null,
+      "options": [
+        "They have no connection to documentation",
+        "They apply only to physicians",
+        "They provide the professional expectations for how records are kept",
+        "They replace PHIPA entirely"
+      ],
+      "answer": 2,
+      "explanation": "The regulator's documentation standards set the professional expectations for records.",
+      "explanationImage": null,
+      "tags": [
+        "Which Rule Applies? Legal and Professional Frameworks"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch03-q009",
+      "stem": "A learner must connect a practice question to the relevant law or standard. Which approach is best?",
+      "image": null,
+      "options": [
+        "Identify the subject of the question — information, consent, documentation, protection, or regulation — and match it to the corresponding framework",
+        "Choose the shortest title",
+        "Assume all laws are the same",
+        "Ignore the law and follow habit"
+      ],
+      "answer": 0,
+      "explanation": "Matching the subject matter of the concern to the correct framework is the taught approach.",
+      "explanationImage": null,
+      "tags": [
+        "Which Rule Applies? Legal and Professional Frameworks"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch03-q010",
+      "stem": "Which statement correctly distinguishes PHIPA from the HCCA?",
+      "image": null,
+      "options": [
+        "PHIPA concerns treatment; the HCCA concerns information",
+        "PHIPA concerns information; the HCCA concerns consent to treatment",
+        "They are identical statutes",
+        "Neither applies to sonographers"
+      ],
+      "answer": 1,
+      "explanation": "PHIPA governs personal health information while the HCCA governs consent to treatment.",
+      "explanationImage": null,
+      "tags": [
+        "Which Rule Applies? Legal and Professional Frameworks"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch03-q011",
+      "stem": "Which pairing is CORRECT?",
+      "image": null,
+      "options": [
+        "\"Who may receive the report?\" → workplace seniority rules",
+        "\"The patient asks to stop\" → equipment policy",
+        "\"How do I record what happened?\" → CMRITO documentation standards",
+        "\"A child may need protection\" → PHIPA only"
+      ],
+      "answer": 2,
+      "explanation": "Documentation questions are answered through the regulator's standards.",
+      "explanationImage": null,
+      "tags": [
+        "Which Rule Applies? Legal and Professional Frameworks"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch03-q012",
+      "stem": "What is the role of a standard in answering a legal-responsibility question?",
+      "image": null,
+      "options": [
+        "It replaces all legislation",
+        "It translates legal requirements into professional expectations for practice",
+        "It applies only after a complaint",
+        "It has no legal relevance"
+      ],
+      "answer": 1,
+      "explanation": "Standards operationalize legal duties in everyday professional work.",
+      "explanationImage": null,
+      "tags": [
+        "Which Rule Applies? Legal and Professional Frameworks"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch03-q013",
+      "stem": "A student is unsure which framework applies to a request for patient information from an insurer. What is the best response?",
+      "image": null,
+      "options": [
+        "Share the information because the request is official",
+        "Share whatever the insurer asks for",
+        "Apply PHIPA and the formal release process for third-party requests",
+        "Ignore the request entirely"
+      ],
+      "answer": 2,
+      "explanation": "Third-party requests such as insurers follow PHIPA and the formal release process.",
+      "explanationImage": null,
+      "tags": [
+        "Which Rule Applies? Legal and Professional Frameworks"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch03-q014",
+      "stem": "Which statement about the interplay of laws and standards is TRUE?",
+      "image": null,
+      "options": [
+        "All frameworks can be used interchangeably",
+        "Each framework has a distinct starting point, and identifying the right one guides a defensible response",
+        "Only PHIPA ever applies in an echo lab",
+        "Standards have no role once legislation applies"
+      ],
+      "answer": 1,
+      "explanation": "Selecting the correct starting framework leads to an appropriate, defensible response.",
+      "explanationImage": null,
+      "tags": [
+        "Which Rule Applies? Legal and Professional Frameworks"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch03-q015",
+      "stem": "What is personal health information (PHI)?",
+      "image": null,
+      "options": [
+        "Information that identifies someone and relates to their health or care",
+        "Any information found in a hospital",
+        "Information about a hospital's budget",
+        "Information that identifies someone but has no health connection"
+      ],
+      "answer": 0,
+      "explanation": "PHI is identifying information connected to an individual's health or care.",
+      "explanationImage": null,
+      "tags": [
+        "Personal Health Information, Custodians, Privacy and Confidentiality"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch03-q016",
+      "stem": "What is a health information custodian (HIC)?",
+      "image": null,
+      "options": [
+        "Any employee with a login",
+        "Any patient's family member",
+        "Any member of the public",
+        "A hospital or certain healthcare providers with custodial responsibility for health information"
+      ],
+      "answer": 3,
+      "explanation": "HICs — such as hospitals and certain providers — are legally responsible for personal health information.",
+      "explanationImage": null,
+      "tags": [
+        "Personal Health Information, Custodians, Privacy and Confidentiality"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch03-q017",
+      "stem": "How should staff and students handle personal health information?",
+      "image": null,
+      "options": [
+        "According to personal judgement alone",
+        "Through personal accounts and private groups",
+        "Within the custodian's authorized processes",
+        "Only if the patient is famous"
+      ],
+      "answer": 2,
+      "explanation": "Staff and students act within the custodian's authorized processes for handling information.",
+      "explanationImage": null,
+      "tags": [
+        "Personal Health Information, Custodians, Privacy and Confidentiality"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch03-q018",
+      "stem": "Which statement best defines privacy in this context?",
+      "image": null,
+      "options": [
+        "The patient's rights and interests in how their information is handled",
+        "The professional's duty to protect information",
+        "The employer's data storage policy",
+        "The ability to keep secrets from the care team"
+      ],
+      "answer": 0,
+      "explanation": "Privacy refers to the patient's rights and interests regarding their information.",
+      "explanationImage": null,
+      "tags": [
+        "Personal Health Information, Custodians, Privacy and Confidentiality"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch03-q019",
+      "stem": "Which statement best defines confidentiality?",
+      "image": null,
+      "options": [
+        "The professional duty to protect information and share it only with authority",
+        "The patient's right to demand silence",
+        "The employer's right to publish records",
+        "A courtesy that may be ignored when busy"
+      ],
+      "answer": 0,
+      "explanation": "Confidentiality is the practitioner's duty to safeguard information and disclose only with authority.",
+      "explanationImage": null,
+      "tags": [
+        "Personal Health Information, Custodians, Privacy and Confidentiality"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch03-q020",
+      "stem": "How do privacy and confidentiality relate?",
+      "image": null,
+      "options": [
+        "They are identical terms",
+        "Privacy applies only to paper records",
+        "Privacy is the patient's right in how information is handled; confidentiality is our duty to protect it and share only with authority",
+        "Confidentiality applies only to physicians"
+      ],
+      "answer": 2,
+      "explanation": "The two concepts are complementary — one is the patient's right, the other the practitioner's duty.",
+      "explanationImage": null,
+      "tags": [
+        "Personal Health Information, Custodians, Privacy and Confidentiality"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch03-q021",
+      "stem": "Which action best protects a patient's privacy during a busy day?",
+      "image": null,
+      "options": [
+        "Discussing cases at the nurses' station with doors open",
+        "Moving care conversations away from public areas",
+        "Leaving workstations unlocked for convenience",
+        "Sending information through personal messaging apps"
+      ],
+      "answer": 1,
+      "explanation": "Care conversations should occur away from public areas to protect privacy.",
+      "explanationImage": null,
+      "tags": [
+        "Personal Health Information, Custodians, Privacy and Confidentiality"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch03-q022",
+      "stem": "Which statement about information in an echo appointment is correct?",
+      "image": null,
+      "options": [
+        "Only disclosure needs authority",
+        "Collection never requires authority",
+        "Every step — collection, use, and disclosure — needs an appropriate purpose and legal authority",
+        "Use of information is unrestricted once collected"
+      ],
+      "answer": 2,
+      "explanation": "PHIPA applies to each step of handling information, not just disclosure.",
+      "explanationImage": null,
+      "tags": [
+        "Personal Health Information, Custodians, Privacy and Confidentiality"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch03-q023",
+      "stem": "Obtaining a relevant history from a patient is an example of which PHIPA step?",
+      "image": null,
+      "options": [
+        "Collection",
+        "Disclosure",
+        "Destruction",
+        "Sale"
+      ],
+      "answer": 0,
+      "explanation": "Gathering relevant health information from the patient is collection.",
+      "explanationImage": null,
+      "tags": [
+        "Personal Health Information, Custodians, Privacy and Confidentiality"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch03-q024",
+      "stem": "Reviewing the referral to prepare for the scan is an example of which PHIPA step?",
+      "image": null,
+      "options": [
+        "Use",
+        "Disclosure",
+        "Collection from the patient",
+        "Destruction"
+      ],
+      "answer": 0,
+      "explanation": "Using already-held information for the purpose of preparing care is \"use.\"",
+      "explanationImage": null,
+      "tags": [
+        "Personal Health Information, Custodians, Privacy and Confidentiality"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch03-q025",
+      "stem": "Sending patient information to another authorized recipient is an example of which PHIPA step?",
+      "image": null,
+      "options": [
+        "Collection",
+        "Disclosure",
+        "Use within the care team only",
+        "De-identification"
+      ],
+      "answer": 1,
+      "explanation": "Providing information to another authorized recipient is disclosure.",
+      "explanationImage": null,
+      "tags": [
+        "Personal Health Information, Custodians, Privacy and Confidentiality"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch03-q026",
+      "stem": "Which statement about a student's access to a record system is correct?",
+      "image": null,
+      "options": [
+        "A login means any record may be opened",
+        "Students may open any record for learning",
+        "Authorization is irrelevant for students",
+        "Technical access operates within the custodian's authorized processes and does not itself authorize any particular access"
+      ],
+      "answer": 3,
+      "explanation": "Access must be within authorized processes and supported by an authorized purpose.",
+      "explanationImage": null,
+      "tags": [
+        "Personal Health Information, Custodians, Privacy and Confidentiality"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch03-q027",
+      "stem": "What is the circle of care?",
+      "image": null,
+      "options": [
+        "The healthcare setting's physical layout",
+        "The network of roles that may be involved in providing or helping provide the patient's healthcare",
+        "The patient's family and friends",
+        "Any group with a hospital login"
+      ],
+      "answer": 1,
+      "explanation": "The circle of care describes roles involved in providing or helping provide healthcare to the patient.",
+      "explanationImage": null,
+      "tags": [
+        "Circle of Care and Implied Consent"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch03-q028",
+      "stem": "Under what condition may a custodian rely on assumed implied consent?",
+      "image": null,
+      "options": [
+        "Never under any circumstances",
+        "Only when the patient is unconscious",
+        "When PHIPA's conditions are met",
+        "Only for family members"
+      ],
+      "answer": 2,
+      "explanation": "Assumed implied consent may be relied on when the statutory conditions of PHIPA are satisfied.",
+      "explanationImage": null,
+      "tags": [
+        "Circle of Care and Implied Consent"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch03-q029",
+      "stem": "What must be true of the purpose for relying on implied consent?",
+      "image": null,
+      "options": [
+        "The purpose must be providing or helping provide healthcare",
+        "The purpose must be curiosity",
+        "The purpose may be personal interest",
+        "The purpose may be entertainment"
+      ],
+      "answer": 0,
+      "explanation": "Only a healthcare-provision purpose supports reliance on implied consent in the circle of care.",
+      "explanationImage": null,
+      "tags": [
+        "Circle of Care and Implied Consent"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch03-q030",
+      "stem": "Which roles can be relevant members of a patient's circle of care?",
+      "image": null,
+      "options": [
+        "Clinicians and assigned support staff involved in the patient's care",
+        "Any employee in the building",
+        "Social media followers",
+        "Strangers who ask politely"
+      ],
+      "answer": 0,
+      "explanation": "Relevant roles include clinicians and assigned support staff participating in the patient's care.",
+      "explanationImage": null,
+      "tags": [
+        "Circle of Care and Implied Consent"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch03-q031",
+      "stem": "What must be done when the patient has communicated a known consent restriction?",
+      "image": null,
+      "options": [
+        "It may be ignored for efficiency",
+        "It applies only to family",
+        "The known restriction must be addressed before relying on implied consent",
+        "It is irrelevant to disclosure"
+      ],
+      "answer": 2,
+      "explanation": "Known consent restrictions must be respected and addressed before information is shared.",
+      "explanationImage": null,
+      "tags": [
+        "Circle of Care and Implied Consent"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch03-q032",
+      "stem": "For a cardiac echo appointment, who would generally be involved in the patient's circle of care?",
+      "image": null,
+      "options": [
+        "A nurse who is not involved in the patient's care",
+        "An insurer requesting results without authorization",
+        "A family member waiting with the patient, absent permission",
+        "The cardiologist who ordered and will review the echo"
+      ],
+      "answer": 3,
+      "explanation": "The ordering and reviewing cardiologist is clearly within the patient's circle of care.",
+      "explanationImage": null,
+      "tags": [
+        "Circle of Care and Implied Consent"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch03-q033",
+      "stem": "A sonographer declines to discuss a patient's results with a coworker who is not involved in the patient's care. Which concept does this best illustrate?",
+      "image": null,
+      "options": [
+        "Privacy",
+        "Implied consent",
+        "Circle of care",
+        "Confidentiality"
+      ],
+      "answer": 3,
+      "explanation": "Declining to share with someone outside the care relationship exemplifies the duty of confidentiality.",
+      "explanationImage": null,
+      "tags": [
+        "Circle of Care and Implied Consent"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch03-q034",
+      "stem": "Does implied consent permit sharing information with anyone who asks?",
+      "image": null,
+      "options": [
+        "No — the purpose, role, and conditions must support the disclosure",
+        "Yes, if the person asks politely",
+        "Yes, for all family members",
+        "Yes, whenever the unit is busy"
+      ],
+      "answer": 0,
+      "explanation": "Implied consent is conditional — it requires an appropriate healthcare purpose and an eligible role.",
+      "explanationImage": null,
+      "tags": [
+        "Circle of Care and Implied Consent"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch03-q035",
+      "stem": "A friend of the patient asks for the echo findings at the reception desk. What should staff do?",
+      "image": null,
+      "options": [
+        "Share the results because the friend drove the patient",
+        "Share verbal summaries only",
+        "Share the full report without checking",
+        "Confirm permission or other lawful authority before any disclosure"
+      ],
+      "answer": 3,
+      "explanation": "Friends are not automatically within the circle of care; permission or lawful authority must be confirmed.",
+      "explanationImage": null,
+      "tags": [
+        "Circle of Care and Implied Consent"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch03-q036",
+      "stem": "Which statement about students and the circle of care is correct?",
+      "image": null,
+      "options": [
+        "Students may access anything for educational purposes",
+        "Students are exempt from privacy rules",
+        "Students work within the custodian's authorized processes and their assigned care role",
+        "Students may share cases informally with classmates"
+      ],
+      "answer": 2,
+      "explanation": "Student access is governed by the same authorized processes and care-purpose requirements.",
+      "explanationImage": null,
+      "tags": [
+        "Circle of Care and Implied Consent"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch03-q037",
+      "stem": "A receptionist assigned to the patient's care pathway accesses information needed to arrange follow-up. What matters most in assessing that access?",
+      "image": null,
+      "options": [
+        "Whether the receptionist has a clinical degree",
+        "Whether every employee can open the record",
+        "The role, purpose and authorization for the access",
+        "Whether the patient is well known in the community"
+      ],
+      "answer": 2,
+      "explanation": "The decisive factors are role, purpose, and authorization — not job title alone.",
+      "explanationImage": null,
+      "tags": [
+        "Circle of Care and Implied Consent"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch03-q038",
+      "stem": "What is the correct interpretation of implied consent in an echo setting?",
+      "image": null,
+      "options": [
+        "It may sometimes be inferred from conduct in context, but all requirements for valid consent still apply",
+        "Arrival alone equals full consent to everything",
+        "Silence always equals consent",
+        "Lack of resistance equals consent to share information with anyone"
+      ],
+      "answer": 0,
+      "explanation": "Implied consent is contextual and still subject to the requirements of valid consent.",
+      "explanationImage": null,
+      "tags": [
+        "Circle of Care and Implied Consent"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch03-q039",
+      "stem": "Which statement is TRUE about arrival for an appointment?",
+      "image": null,
+      "options": [
+        "Arrival automatically authorizes every disclosure",
+        "Arrival waives the right to ask questions",
+        "Arrival ends the need for explanation",
+        "Arrival, silence or lack of resistance alone is insufficient to establish consent"
+      ],
+      "answer": 3,
+      "explanation": "Passive presence alone does not constitute informed consent.",
+      "explanationImage": null,
+      "tags": [
+        "Circle of Care and Implied Consent"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch03-q040",
+      "stem": "Before an echo, what does the taught approach require regarding implied consent?",
+      "image": null,
+      "options": [
+        "Begin scanning immediately",
+        "Explain the examination and ask permission to proceed",
+        "Assume consent from the order alone",
+        "Skip explanation if the patient is a repeat client"
+      ],
+      "answer": 1,
+      "explanation": "Even where implied consent may apply, the examination should be explained and permission sought.",
+      "explanationImage": null,
+      "tags": [
+        "Circle of Care and Implied Consent"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch03-q041",
+      "stem": "A colleague says, \"The patient is in the circle of care, so I can share anything.\" What is the best correction?",
+      "image": null,
+      "options": [
+        "The colleague is entirely correct",
+        "Nothing may ever be shared",
+        "All information may be shared with any clinician",
+        "Only the information authorized for that purpose and role may be shared — share only what is needed"
+      ],
+      "answer": 3,
+      "explanation": "Circle-of-care sharing is limited to what is authorized and necessary for the purpose.",
+      "explanationImage": null,
+      "tags": [
+        "Circle of Care and Implied Consent"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch03-q042",
+      "stem": "Which scenario best illustrates appropriate reliance on implied consent?",
+      "image": null,
+      "options": [
+        "An unrelated colleague opens the chart out of curiosity",
+        "A student opens records for entertainment",
+        "The reporting cardiologist opens the echo images to interpret the study",
+        "A visitor browses records while waiting"
+      ],
+      "answer": 2,
+      "explanation": "Interpretation of the study is a healthcare purpose by a relevant role — the classic authorized access.",
+      "explanationImage": null,
+      "tags": [
+        "Circle of Care and Implied Consent"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch03-q043",
+      "stem": "What is the key flaw in reasoning that \"the login permits the access\"?",
+      "image": null,
+      "options": [
+        "Logins are always unreliable",
+        "Logins should never be used",
+        "A login does not answer \"may I look?\" — the authorized purpose must support the access",
+        "Logins authorize curiosity-based access"
+      ],
+      "answer": 2,
+      "explanation": "Technical ability to access must be distinguished from authority to access.",
+      "explanationImage": null,
+      "tags": [
+        "Circle of Care and Implied Consent"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch03-q044",
+      "stem": "Which condition of relying on assumed implied consent is correctly stated?",
+      "image": null,
+      "options": [
+        "Any purpose is acceptable if the person is employed in healthcare",
+        "The purpose must be providing or helping provide healthcare, the role must be relevant, and known consent restrictions must be addressed",
+        "Known consent restrictions may be ignored",
+        "Roles are irrelevant once a login exists"
+      ],
+      "answer": 1,
+      "explanation": "The conditions concern purpose, role, and respect for known restrictions.",
+      "explanationImage": null,
+      "tags": [
+        "Circle of Care and Implied Consent"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch03-q045",
+      "stem": "A caller from a referring physician's office asks for a patient's echo report. What should be verified FIRST?",
+      "image": null,
+      "options": [
+        "Whether the caller is pleasant",
+        "Whether the patient is popular",
+        "Whether the request arrives by email",
+        "The caller's identity, role, and the care purpose of the request"
+      ],
+      "answer": 3,
+      "explanation": "Requests from referring offices require verification of identity, role, and care purpose before any disclosure.",
+      "explanationImage": null,
+      "tags": [
+        "Access Decisions and Requests for Patient Information"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch03-q046",
+      "stem": "A patient's daughter asks for the results of the echo. What is the correct understanding of \"lawful authority\"?",
+      "image": null,
+      "options": [
+        "Lawful authority means a legal basis for sharing — family relationship alone does not automatically give access",
+        "Being someone's daughter automatically provides lawful authority",
+        "Family members may see any record at any time",
+        "Only written consent from a lawyer is required"
+      ],
+      "answer": 0,
+      "explanation": "A family relationship by itself does not establish permission; a legal basis must be identified.",
+      "explanationImage": null,
+      "tags": [
+        "Access Decisions and Requests for Patient Information"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch03-q047",
+      "stem": "How should a sonographer determine whether information may be shared with a capable patient's daughter?",
+      "image": null,
+      "options": [
+        "Share automatically because the daughter drove the patient",
+        "Share automatically because the daughter looks worried",
+        "Never share with family under any circumstances",
+        "Ask the patient directly, for example, \"Are you comfortable with me discussing your examination with your daughter?\""
+      ],
+      "answer": 3,
+      "explanation": "For a capable adult, permission should be sought from the patient directly.",
+      "explanationImage": null,
+      "tags": [
+        "Access Decisions and Requests for Patient Information"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch03-q048",
+      "stem": "What is the best opening line when you are unsure whether a request for information may be fulfilled?",
+      "image": null,
+      "options": [
+        "\"Sure, I'll send everything we have.\"",
+        "\"I'm not allowed to talk to anyone.\"",
+        "\"Let me check my personal messages first.\"",
+        "\"I need to verify your request and confirm what information I'm authorised to share.\""
+      ],
+      "answer": 3,
+      "explanation": "Verifying the request and the scope of authorized sharing is the professional response when permission is unclear.",
+      "explanationImage": null,
+      "tags": [
+        "Access Decisions and Requests for Patient Information"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch03-q049",
+      "stem": "An insurance company requests a patient's echo findings. What is the correct process?",
+      "image": null,
+      "options": [
+        "Email the report immediately",
+        "Provide verbal results to any representative",
+        "Use the formal release process, generally with the patient's express consent",
+        "Share because the insurer paid for the test"
+      ],
+      "answer": 2,
+      "explanation": "Insurer requests follow the formal release process and generally require the patient's express consent.",
+      "explanationImage": null,
+      "tags": [
+        "Access Decisions and Requests for Patient Information"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch03-q050",
+      "stem": "A patient cannot make the decision about sharing their information. What must be verified?",
+      "image": null,
+      "options": [
+        "Who is legally authorized to act as the substitute decision-maker, and the authority and its limits",
+        "Who is the oldest family member",
+        "Who has the loudest voice",
+        "Who paid the bill"
+      ],
+      "answer": 0,
+      "explanation": "The SDM's legal authority — and the limits of that authority — must be confirmed before disclosure.",
+      "explanationImage": null,
+      "tags": [
+        "Access Decisions and Requests for Patient Information"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch03-q051",
+      "stem": "Which statement about sharing information in a care setting is correct?",
+      "image": null,
+      "options": [
+        "Share the entire chart whenever a clinician asks",
+        "Share verbally without documenting",
+        "Share only the information authorized for that purpose, through the approved process, within your role",
+        "Share only if the patient is not present"
+      ],
+      "answer": 2,
+      "explanation": "Disclosure must be limited to what is authorized and necessary for the stated purpose.",
+      "explanationImage": null,
+      "tags": [
+        "Access Decisions and Requests for Patient Information"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch03-q052",
+      "stem": "A curious coworker asks to see a patient's images. What is the most appropriate response?",
+      "image": null,
+      "options": [
+        "Show the images because you work in the same organization",
+        "Show the images if they promise not to tell",
+        "Show the images because they are a friend",
+        "\"I can't share those images for that purpose. If you're interested in learning, we can look at an approved teaching example.\""
+      ],
+      "answer": 3,
+      "explanation": "Working in the same organization does not authorize access; approved teaching examples protect both patient and learner.",
+      "explanationImage": null,
+      "tags": [
+        "Access Decisions and Requests for Patient Information"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch03-q053",
+      "stem": "What is the correct response if you are unsure whether opening a particular record is legitimate?",
+      "image": null,
+      "options": [
+        "Open it quickly and close it afterward",
+        "Ask your supervisor or the designated privacy resource before accessing it",
+        "Open it because you have a login",
+        "Ask a classmate for an opinion and then open it"
+      ],
+      "answer": 1,
+      "explanation": "Saying \"I need to check before I do that\" is the professional response when permission is unclear.",
+      "explanationImage": null,
+      "tags": [
+        "Access Decisions and Requests for Patient Information"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch03-q054",
+      "stem": "A sonographer can technically open a patient's catheterization report but works only in the echo lab. What is the correct understanding?",
+      "image": null,
+      "options": [
+        "Any chart in the system may be opened",
+        "Access is authorized if you are curious",
+        "Access is authorized if you are a student",
+        "Technical access does not authorize access outside your authorized activities"
+      ],
+      "answer": 3,
+      "explanation": "Access must relate to authorized activities; opening unrelated records can breach confidentiality.",
+      "explanationImage": null,
+      "tags": [
+        "Access Decisions and Requests for Patient Information"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch03-q055",
+      "stem": "What should a sonographer do if they want to review a catheterization report for learning purposes?",
+      "image": null,
+      "options": [
+        "Open the report independently because it is educational",
+        "Ask a supervisor to arrange a supervised or authorized review",
+        "Print the report for personal study",
+        "Email a copy to classmates"
+      ],
+      "answer": 1,
+      "explanation": "Educational review should be arranged through authorized, supervised processes.",
+      "explanationImage": null,
+      "tags": [
+        "Access Decisions and Requests for Patient Information"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch03-q056",
+      "stem": "A relative is adamant that they be told the results, but the patient has asked for privacy. What governs the response?",
+      "image": null,
+      "options": [
+        "The relative's seniority in the family",
+        "The patient's privacy and any permission they have given — the relative's insistence does not override it",
+        "Whoever argues loudest",
+        "The relative's transportation contribution"
+      ],
+      "answer": 1,
+      "explanation": "Even when a family member is insistent, the patient's stated wishes and lawful authority govern disclosure.",
+      "explanationImage": null,
+      "tags": [
+        "Access Decisions and Requests for Patient Information"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch03-q057",
+      "stem": "What is the \"minimum necessary\" principle in this context?",
+      "image": null,
+      "options": [
+        "Share as much as possible in case it helps",
+        "Share nothing under any circumstances",
+        "Share the whole record for completeness",
+        "Share only what is needed for the authorized purpose"
+      ],
+      "answer": 3,
+      "explanation": "An examination referral does not justify browsing or sharing unrelated parts of a person's information.",
+      "explanationImage": null,
+      "tags": [
+        "Access Decisions and Requests for Patient Information"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch03-q058",
+      "stem": "Which statement about a substitute decision-maker and information is correct?",
+      "image": null,
+      "options": [
+        "An SDM may receive every detail without verification",
+        "An SDM is the same as any family member",
+        "No verification is required if the SDM appears confident",
+        "Verify the SDM's authority and its limits before sharing; an SDM's authority is not unlimited"
+      ],
+      "answer": 3,
+      "explanation": "The SDM's legal authority and its scope must be confirmed before disclosure.",
+      "explanationImage": null,
+      "tags": [
+        "Access Decisions and Requests for Patient Information"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch03-q059",
+      "stem": "While scanning, the door opens and the patient's chest is partially exposed. What is the best response?",
+      "image": null,
+      "options": [
+        "Ignore the interruption and keep scanning",
+        "Shout at the visitor",
+        "Pause, cover the patient, ask the person to give you a moment, close the door, check comfort, and confirm readiness before continuing",
+        "Finish quickly without covering the patient"
+      ],
+      "answer": 2,
+      "explanation": "Pausing to protect dignity with a calm, clear request preserves the patient's privacy and comfort.",
+      "explanationImage": null,
+      "tags": [
+        "Confidentiality in Everyday Practice"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch03-q060",
+      "stem": "A colleague asks about a patient's findings within earshot of other patients. What should you say?",
+      "image": null,
+      "options": [
+        "Answer loudly so everyone hears",
+        "Refuse ever to discuss the case",
+        "\"Let's discuss that somewhere private\" — and still confirm they are authorized to receive the information",
+        "Write the findings on a whiteboard"
+      ],
+      "answer": 2,
+      "explanation": "Move the conversation to a private location and separately confirm authorization to share.",
+      "explanationImage": null,
+      "tags": [
+        "Confidentiality in Everyday Practice"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch03-q061",
+      "stem": "What should a practitioner do whenever they step away from an active workstation?",
+      "image": null,
+      "options": [
+        "Leave it open for convenience",
+        "Lock the session",
+        "Minimize the window only",
+        "Ask a colleague to watch without locking"
+      ],
+      "answer": 1,
+      "explanation": "Locking the workstation prevents unauthorized viewing while you are away.",
+      "explanationImage": null,
+      "tags": [
+        "Confidentiality in Everyday Practice"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch03-q062",
+      "stem": "How should confidential paper material be disposed of?",
+      "image": null,
+      "options": [
+        "In the regular recycling bin",
+        "In the general trash",
+        "Left on the desk",
+        "Through the approved secure disposal process, such as a designated shredder bin"
+      ],
+      "answer": 3,
+      "explanation": "Confidential material must be disposed of through the designated secure process.",
+      "explanationImage": null,
+      "tags": [
+        "Confidentiality in Everyday Practice"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch03-q063",
+      "stem": "Which habit best protects privacy in a busy department?",
+      "image": null,
+      "options": [
+        "Assuming walls are soundproof",
+        "Speaking about cases wherever there is space",
+        "Leaving records open for the next person",
+        "Noticing who can see, who can hear, and who has access"
+      ],
+      "answer": 3,
+      "explanation": "Actively noticing visibility, audibility, and access builds reliable privacy habits.",
+      "explanationImage": null,
+      "tags": [
+        "Confidentiality in Everyday Practice"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch03-q064",
+      "stem": "A student posts an echo image with the name removed but the caption includes the patient's age, hospital unit, and unusual finding. Why is this still a problem?",
+      "image": null,
+      "options": [
+        "Private groups are always part of the circle of care",
+        "The combination of details may identify the patient, and removing the name does not by itself provide authorization",
+        "Removing a hospital number guarantees anonymity",
+        "Only a full patient name can identify someone"
+      ],
+      "answer": 1,
+      "explanation": "Identifying details about patient, timing, or location can fit together, and de-identification is not authorization.",
+      "explanationImage": null,
+      "tags": [
+        "Confidentiality in Everyday Practice"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch03-q065",
+      "stem": "Which two questions should guide any decision to post or share a clinical image?",
+      "image": null,
+      "options": [
+        "\"Is it interesting?\" and \"Will it get likes?\"",
+        "\"Is the file small?\" and \"Is the caption short?\"",
+        "\"Did I remove the date?\" and \"Is it in black and white?\"",
+        "\"Could someone recognise this patient?\" and \"Am I authorised to use this information in this way?\""
+      ],
+      "answer": 3,
+      "explanation": "Recognizability and authorization are the two required checks before any use of clinical information.",
+      "explanationImage": null,
+      "tags": [
+        "Confidentiality in Everyday Practice"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch03-q066",
+      "stem": "What should a student do if they realize they have already posted patient information without authorization?",
+      "image": null,
+      "options": [
+        "Promptly tell their supervisor and follow the site's privacy breach process",
+        "Delete the post and say nothing",
+        "Wait to see whether anyone notices",
+        "Edit the caption and keep the post"
+      ],
+      "answer": 0,
+      "explanation": "Prompt self-report allows containment; hiding the event prolongs the breach.",
+      "explanationImage": null,
+      "tags": [
+        "Confidentiality in Everyday Practice"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch03-q067",
+      "stem": "A student wants to use a real clinical case for a class presentation. What is the correct approach?",
+      "image": null,
+      "options": [
+        "Take a photo during the scan and edit later",
+        "Confirm that the proposed use is authorized, follow the site's and school's approval process, and apply required de-identification and safeguards",
+        "Ask the patient verbally only, with no record",
+        "Use the case because it is for education"
+      ],
+      "answer": 1,
+      "explanation": "Educational use requires authorization, the proper approval process, and de-identification safeguards.",
+      "explanationImage": null,
+      "tags": [
+        "Confidentiality in Everyday Practice"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch03-q068",
+      "stem": "Which statement about de-identification is correct?",
+      "image": null,
+      "options": [
+        "Removing the name always guarantees anonymity",
+        "It requires more than deleting a name; approved processes and safeguards are needed",
+        "Captions never contribute to identification",
+        "Private groups make de-identification unnecessary"
+      ],
+      "answer": 1,
+      "explanation": "Names are only one kind of identifying detail; approved de-identification must be applied.",
+      "explanationImage": null,
+      "tags": [
+        "Confidentiality in Everyday Practice"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch03-q069",
+      "stem": "Which statement about sharing a case in a private online group is correct?",
+      "image": null,
+      "options": [
+        "Private groups are always authorized",
+        "Private groups are part of the circle of care",
+        "A private group still creates disclosure risks — screenshots and forwards cannot be controlled",
+        "Private groups eliminate the need for consent"
+      ],
+      "answer": 2,
+      "explanation": "Information posted privately can still be captured and redistributed.",
+      "explanationImage": null,
+      "tags": [
+        "Confidentiality in Everyday Practice"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch03-q070",
+      "stem": "What is the core lesson of the reported case in which a nurse accessed thousands of patient records?",
+      "image": null,
+      "options": [
+        "Curiosity does not become care because the user is a healthcare worker — an authorized purpose must support the access",
+        "Access is acceptable if no information is removed from the system",
+        "Only sharing constitutes a breach",
+        "Healthcare workers may access any record"
+      ],
+      "answer": 0,
+      "explanation": "The central question is what authorized purpose supported the access — professional status does not supply one.",
+      "explanationImage": null,
+      "tags": [
+        "Confidentiality in Everyday Practice"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch03-q071",
+      "stem": "A record can be misused without being shared. What does this mean?",
+      "image": null,
+      "options": [
+        "Only disclosure matters under privacy law",
+        "Viewing records is never a breach",
+        "Privacy rules apply only to emails",
+        "Unauthorized viewing or use alone can breach privacy obligations"
+      ],
+      "answer": 3,
+      "explanation": "Privacy obligations attach to collection, use, and disclosure — not just sharing.",
+      "explanationImage": null,
+      "tags": [
+        "Confidentiality in Everyday Practice"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch03-q072",
+      "stem": "Which statement about clinical images used for teaching is correct?",
+      "image": null,
+      "options": [
+        "Teaching use is automatically permitted",
+        "Only the student's own judgement is needed",
+        "Confirm authorization, follow the approval process, apply de-identification and security safeguards, and use approved teaching images when permission is uncertain",
+        "Photographs may be taken first and approved afterward"
+      ],
+      "answer": 2,
+      "explanation": "Authorization and safeguards must be established before images are copied or shared.",
+      "explanationImage": null,
+      "tags": [
+        "Confidentiality in Everyday Practice"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch03-q073",
+      "stem": "Which statement about a patient's information in everyday conversation is TRUE?",
+      "image": null,
+      "options": [
+        "Patient stories are acceptable if anonymous",
+        "A patient should never have to wonder whether something they shared during an echo will appear in someone's group chat",
+        "Conversations in break rooms are exempt",
+        "Names are the only protected detail"
+      ],
+      "answer": 1,
+      "explanation": "The duty of confidentiality extends to casual conversation, documentation, and electronic systems.",
+      "explanationImage": null,
+      "tags": [
+        "Confidentiality in Everyday Practice"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch03-q074",
+      "stem": "Which practice best maintains confidentiality during an examination?",
+      "image": null,
+      "options": [
+        "Limiting unnecessary exposure and interruptions and moving care conversations away from public areas",
+        "Leaving the door open for airflow",
+        "Discussing other patients during the scan",
+        "Allowing visitors to observe without permission"
+      ],
+      "answer": 0,
+      "explanation": "Controlling exposure, interruptions, and the location of conversations protects confidentiality.",
+      "explanationImage": null,
+      "tags": [
+        "Confidentiality in Everyday Practice"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch03-q075",
+      "stem": "Which statement about confidentiality is correct?",
+      "image": null,
+      "options": [
+        "It applies only to written records",
+        "It applies only to physicians",
+        "It applies only outside the workplace",
+        "It applies whether information is spoken, written, displayed on a screen, or stored as images"
+      ],
+      "answer": 3,
+      "explanation": "The duty of confidentiality covers all forms in which patient information exists.",
+      "explanationImage": null,
+      "tags": [
+        "Confidentiality in Everyday Practice"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch03-q076",
+      "stem": "Why is privacy protection needed before information is ever sent anywhere?",
+      "image": null,
+      "options": [
+        "Only sending information counts as a privacy event",
+        "Collection is never regulated",
+        "Privacy begins at discharge",
+        "Privacy obligations begin when information is collected, not only when a report is sent"
+      ],
+      "answer": 3,
+      "explanation": "Collection and use are themselves governed steps, not just disclosure.",
+      "explanationImage": null,
+      "tags": [
+        "Confidentiality in Everyday Practice"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch03-q077",
+      "stem": "You realize you sent patient information by fax to the wrong number. What is the FIRST response?",
+      "image": null,
+      "options": [
+        "Stop further unauthorized access or disclosure and follow the organization's immediate containment steps",
+        "Keep sending it until it goes through",
+        "Say nothing and hope the recipient ignores it",
+        "Alter the record to show nothing was sent"
+      ],
+      "answer": 0,
+      "explanation": "Further disclosure must stop and the organization's containment steps must be followed immediately.",
+      "explanationImage": null,
+      "tags": [
+        "Responding to a Suspected Privacy Breach"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch03-q078",
+      "stem": "After containment, what should be reported?",
+      "image": null,
+      "options": [
+        "Report only if the patient complains",
+        "Report promptly through the privacy and supervisory process, describing the facts accurately",
+        "Report to social media for transparency",
+        "Wait a week to see the outcome"
+      ],
+      "answer": 1,
+      "explanation": "Prompt reporting through designated privacy channels, with accurate facts, is required.",
+      "explanationImage": null,
+      "tags": [
+        "Responding to a Suspected Privacy Breach"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch03-q079",
+      "stem": "Which information belongs in a breach report?",
+      "image": null,
+      "options": [
+        "Speculation about who is to blame",
+        "What happened, which information was involved, when it occurred, and what has been done so far",
+        "A guess about whether harm will occur",
+        "Nothing — verbal reports are sufficient"
+      ],
+      "answer": 1,
+      "explanation": "The report should contain the facts: event, information involved, timing, and actions taken.",
+      "explanationImage": null,
+      "tags": [
+        "Responding to a Suspected Privacy Breach"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch03-q080",
+      "stem": "Which action must be avoided after a suspected breach?",
+      "image": null,
+      "options": [
+        "Quietly hiding the event or altering records to make it look as though it never occurred",
+        "Following containment steps",
+        "Reporting promptly",
+        "Cooperating with the privacy contact"
+      ],
+      "answer": 0,
+      "explanation": "Concealment or alteration of records compounds the breach and can constitute misconduct.",
+      "explanationImage": null,
+      "tags": [
+        "Responding to a Suspected Privacy Breach"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch03-q081",
+      "stem": "Who assesses a privacy breach and handles required notifications?",
+      "image": null,
+      "options": [
+        "The individual staff member alone",
+        "The custodian or organization, through its designated privacy process",
+        "The patient's family",
+        "Social media platforms"
+      ],
+      "answer": 1,
+      "explanation": "The individual's role is to report and cooperate; the custodian assesses and notifies as required.",
+      "explanationImage": null,
+      "tags": [
+        "Responding to a Suspected Privacy Breach"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch03-q082",
+      "stem": "What is the practitioner's role after reporting a breach?",
+      "image": null,
+      "options": [
+        "Cooperate and follow instructions for containment and documentation rather than independently deciding the information was harmless",
+        "Decide personally that the information was harmless and stop the process",
+        "Destroy related records",
+        "Wait for a lawsuit"
+      ],
+      "answer": 0,
+      "explanation": "The practitioner reports and cooperates; the assessment of risk and notifications follow the organization's process.",
+      "explanationImage": null,
+      "tags": [
+        "Responding to a Suspected Privacy Breach"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch03-q083",
+      "stem": "Why should you not continue troubleshooting a disclosure error alone?",
+      "image": null,
+      "options": [
+        "Continuing to send or forward information while working it out alone can extend the unauthorized disclosure",
+        "Mistakes require no response",
+        "Isolation improves accuracy",
+        "Only the patient may report it"
+      ],
+      "answer": 0,
+      "explanation": "Unauthorized transmission should stop immediately rather than continue during troubleshooting.",
+      "explanationImage": null,
+      "tags": [
+        "Responding to a Suspected Privacy Breach"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch03-q084",
+      "stem": "A colleague suggests simply deleting the evidence of an accidental disclosure. Why is this wrong?",
+      "image": null,
+      "options": [
+        "Deletion is inefficient",
+        "Concealing or altering records to hide an event is prohibited and can amount to professional misconduct",
+        "Storage space is limited",
+        "Records must be kept for marketing purposes"
+      ],
+      "answer": 1,
+      "explanation": "Records must never be altered or concealed to make an event appear not to have occurred.",
+      "explanationImage": null,
+      "tags": [
+        "Responding to a Suspected Privacy Breach"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch03-q085",
+      "stem": "Which statement best describes the primary everyday purpose of the clinical record?",
+      "image": null,
+      "options": [
+        "Building a case against the practitioner",
+        "Marketing the department",
+        "Satisfying curiosity",
+        "Supporting safe, continuous patient care and communication among the care team"
+      ],
+      "answer": 3,
+      "explanation": "The record's everyday purpose is safe, continuous care — though it may later be reviewed in a complaint or legal proceeding.",
+      "explanationImage": null,
+      "tags": [
+        "Documentation as a Legal Record"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch03-q086",
+      "stem": "Which qualities must clinical record entries possess?",
+      "image": null,
+      "options": [
+        "Accurate, complete, timely and attributable",
+        "Verbose, subjective, delayed and anonymous",
+        "Informal, partial, backdated and unsigned",
+        "Opinionated, negative, vague and optional"
+      ],
+      "answer": 0,
+      "explanation": "Entries must be accurate, complete, timely, and attributable to be a reliable record.",
+      "explanationImage": null,
+      "tags": [
+        "Documentation as a Legal Record"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch03-q087",
+      "stem": "Which set of items belongs in the clinical record?",
+      "image": null,
+      "options": [
+        "Personal opinions about the patient's attitude",
+        "The examination and what was completed, relevant observations and attributed patient reports, limitations and their reasons, actions, patient response and follow-up communication",
+        "Only normal findings",
+        "Only the sonographer's initials"
+      ],
+      "answer": 1,
+      "explanation": "These are the categories of information that describe the care that actually occurred.",
+      "explanationImage": null,
+      "tags": [
+        "Documentation as a Legal Record"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch03-q088",
+      "stem": "A sonographer could not obtain several required images. What should the record say?",
+      "image": null,
+      "options": [
+        "Nothing, because the gap is obvious",
+        "That the examination was complete",
+        "Which views could not be obtained, the reason, and who was notified",
+        "That the patient refused everything"
+      ],
+      "answer": 2,
+      "explanation": "Specific limitations, reasons, and communication must be documented; an omitted part must never be suggested as normal.",
+      "explanationImage": null,
+      "tags": [
+        "Documentation as a Legal Record"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch03-q089",
+      "stem": "Which entry correctly separates a patient report from an observation?",
+      "image": null,
+      "options": [
+        "\"The patient is dizzy and uncooperative.\"",
+        "\"Dizzy for no reason.\"",
+        "\"Probably dehydrated.\"",
+        "\"Patient reports dizziness when sitting up.\""
+      ],
+      "answer": 3,
+      "explanation": "Attribution to the patient's report distinguishes it from the practitioner's own observations.",
+      "explanationImage": null,
+      "tags": [
+        "Documentation as a Legal Record"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch03-q090",
+      "stem": "Why is the entry \"Patient was anxious and difficult to scan\" inadequate?",
+      "image": null,
+      "options": [
+        "It is too long",
+        "It labels the person instead of describing what the patient reported and what was done",
+        "It contains medical terms",
+        "It identifies the patient"
+      ],
+      "answer": 1,
+      "explanation": "Labels communicate the writer's frustration rather than facts the next clinician can use.",
+      "explanationImage": null,
+      "tags": [
+        "Documentation as a Legal Record"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch03-q091",
+      "stem": "A patient with COPD cannot hold their breath for imaging. Which documentation is most appropriate?",
+      "image": null,
+      "options": [
+        "\"Patient refused to cooperate.\"",
+        "\"Patient did not understand.\"",
+        "\"Poor study due to patient attitude.\"",
+        "\"Patient unable to comply with respiration.\""
+      ],
+      "answer": 3,
+      "explanation": "Describing what was observed — without inventing a reason — is specific and factual.",
+      "explanationImage": null,
+      "tags": [
+        "Documentation as a Legal Record"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch03-q092",
+      "stem": "What should you do if you do not know why a patient could not complete a maneuver?",
+      "image": null,
+      "options": [
+        "Assume a reason and document it as fact",
+        "Write \"patient refused\" as a default",
+        "Leave the record blank",
+        "Describe what you observed and what the patient said; do not invent a reason"
+      ],
+      "answer": 3,
+      "explanation": "You can be concise and still be specific — never invent an explanation.",
+      "explanationImage": null,
+      "tags": [
+        "Documentation as a Legal Record"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch03-q093",
+      "stem": "Robin reports shoulder pain in a position, scanning pauses, Robin agrees to continue differently, and some images cannot be obtained. Which entry best reflects what happened?",
+      "image": null,
+      "options": [
+        "\"Patient difficult. Study incomplete.\"",
+        "\"Study completed as planned.\"",
+        "\"Patient reported shoulder pain in the initial position. Scanning was paused and patient assisted to sit upright. Patient agreed to continue in a different position. Some planned images could not be obtained.\"",
+        "\"Position changed for no clear reason.\""
+      ],
+      "answer": 2,
+      "explanation": "The entry records the report, the action, the patient's agreement, and the actual limitation.",
+      "explanationImage": null,
+      "tags": [
+        "Documentation as a Legal Record"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch03-q094",
+      "stem": "Why should specific limited views be named in a real record?",
+      "image": null,
+      "options": [
+        "To make the record longer",
+        "Because naming views is legally prohibited",
+        "So the record can be deleted later",
+        "So the interpreting physician knows exactly what can and cannot be concluded"
+      ],
+      "answer": 3,
+      "explanation": "Specificity lets the interpreting physician judge what conclusions the study supports.",
+      "explanationImage": null,
+      "tags": [
+        "Documentation as a Legal Record"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch03-q095",
+      "stem": "A sonographer is tempted to add \"cardiologist notified\" to a note because it would look good. What is the correct standard?",
+      "image": null,
+      "options": [
+        "Add it if it will likely happen",
+        "Add it if a colleague agrees",
+        "Add it to impress the reader",
+        "Only document what is true — the entry must match what actually happened"
+      ],
+      "answer": 3,
+      "explanation": "Documentation must reflect reality — never claim an action that did not occur.",
+      "explanationImage": null,
+      "tags": [
+        "Documentation as a Legal Record"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch03-q096",
+      "stem": "How should an error discovered after an entry was saved be corrected?",
+      "image": null,
+      "options": [
+        "Silently replace the entry so the original disappears",
+        "Use the approved correction or addendum process so the change remains attributable and traceable",
+        "Overwrite without an audit trail",
+        "Delete the entire record"
+      ],
+      "answer": 1,
+      "explanation": "Corrections must preserve the original and be traceable to the person and time of the change.",
+      "explanationImage": null,
+      "tags": [
+        "Documentation as a Legal Record"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch03-q097",
+      "stem": "A late entry is made two days after an event. What must it distinguish?",
+      "image": null,
+      "options": [
+        "The writer's opinion from the patient's",
+        "The time of the event from the time of the entry",
+        "The day of the week from the shift",
+        "Nothing — late entries are prohibited entirely"
+      ],
+      "answer": 1,
+      "explanation": "An approved late entry must clearly distinguish when the event occurred from when it was documented.",
+      "explanationImage": null,
+      "tags": [
+        "Documentation as a Legal Record"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch03-q098",
+      "stem": "What is the professional consequence risk of falsifying information in a record?",
+      "image": null,
+      "options": [
+        "Falsifying information may amount to professional misconduct",
+        "No consequence exists without a lawsuit",
+        "It is acceptable if it protects the department",
+        "It is acceptable if no harm resulted"
+      ],
+      "answer": 0,
+      "explanation": "Falsification is a professional conduct issue independent of whether any lawsuit follows.",
+      "explanationImage": null,
+      "tags": [
+        "Documentation as a Legal Record"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch03-q099",
+      "stem": "Who should a record entry be attributable to?",
+      "image": null,
+      "options": [
+        "The department as a whole",
+        "The interpreting physician only",
+        "The person who made the entry, identified per the system, usually by initials",
+        "Nobody — anonymous entries are preferred"
+      ],
+      "answer": 2,
+      "explanation": "Attribution identifies who wrote the entry, which is essential for traceability.",
+      "explanationImage": null,
+      "tags": [
+        "Documentation as a Legal Record"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch03-q100",
+      "stem": "Before finalizing a study, which checks should be completed?",
+      "image": null,
+      "options": [
+        "Only the patient's room number",
+        "Only the machine settings",
+        "Identifiers, values, and whether the completion status matches the study",
+        "No checks are needed"
+      ],
+      "answer": 2,
+      "explanation": "Final checks confirm the right patient, correct values, and accurate completion status.",
+      "explanationImage": null,
+      "tags": [
+        "Documentation as a Legal Record"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch03-q101",
+      "stem": "Why should an entry be written right after the echo?",
+      "image": null,
+      "options": [
+        "To keep the sonographer busy",
+        "Timely documentation preserves accurate detail and makes the record available for immediate clinical decisions",
+        "Because records may only be written during the scan",
+        "To delay communication"
+      ],
+      "answer": 1,
+      "explanation": "Details fade quickly; timely documentation preserves accuracy and supports immediate decisions.",
+      "explanationImage": null,
+      "tags": [
+        "Documentation as a Legal Record"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch03-q102",
+      "stem": "Who is the intended audience of a clinical record?",
+      "image": null,
+      "options": [
+        "Only the sonographer",
+        "Anyone who may legitimately read it later — another clinician, the patient, an investigator, or even a court",
+        "Only the department manager",
+        "Only the interpreter"
+      ],
+      "answer": 1,
+      "explanation": "Entries should be written so a reader months later can understand what happened without being able to ask questions.",
+      "explanationImage": null,
+      "tags": [
+        "Documentation as a Legal Record"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch03-q103",
+      "stem": "Which statement about a clinical record and legal proceedings is correct?",
+      "image": null,
+      "options": [
+        "The record exists only for lawsuits",
+        "A good note guarantees a particular legal outcome",
+        "The record may become evidence of what was observed, explained, and done, while its everyday purpose remains safe, continuous care",
+        "Records have no evidentiary value"
+      ],
+      "answer": 2,
+      "explanation": "The record can serve as evidence, but it is primarily the tool of everyday care.",
+      "explanationImage": null,
+      "tags": [
+        "Documentation as a Legal Record"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch03-q104",
+      "stem": "Which statement about documentation and incident reporting is correct?",
+      "image": null,
+      "options": [
+        "Correcting the record replaces any safety report",
+        "Safety reports replace clinical documentation",
+        "Correcting the clinical record does not automatically complete a separate safety reporting obligation",
+        "Neither is required if no harm occurred"
+      ],
+      "answer": 2,
+      "explanation": "Each process has a distinct purpose, and completing one does not discharge the other.",
+      "explanationImage": null,
+      "tags": [
+        "Documentation as a Legal Record"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch03-q105",
+      "stem": "Which legislation provides the framework for consent to treatment in an echo appointment?",
+      "image": null,
+      "options": [
+        "PHIPA",
+        "The Health Care Consent Act",
+        "The Child, Youth and Family Services Act",
+        "The Municipal Freedom of Information Act"
+      ],
+      "answer": 1,
+      "explanation": "Consent to treatment — including imaging procedures — is governed by the HCCA.",
+      "explanationImage": null,
+      "tags": [
+        "Consent to Treatment: Fundamentals"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch03-q106",
+      "stem": "Which TWO things must happen before an echo begins?",
+      "image": null,
+      "options": [
+        "Obtain payment and schedule the next appointment",
+        "Explain the examination, and check that the patient understands and agrees to proceed",
+        "Complete the report and file the images",
+        "Verify insurance and collect a deposit"
+      ],
+      "answer": 1,
+      "explanation": "Explanation plus verification of understanding and agreement are the two required pre-examination steps.",
+      "explanationImage": null,
+      "tags": [
+        "Consent to Treatment: Fundamentals"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch03-q107",
+      "stem": "Which of the following is NOT a requirement for valid consent?",
+      "image": null,
+      "options": [
+        "It is confirmed by a family member's signature in every case",
+        "It relates to the proposed procedure",
+        "It is informed",
+        "It is voluntary"
+      ],
+      "answer": 0,
+      "explanation": "The four requirements are that consent relates to the procedure, is informed, is voluntary, and is not obtained through misrepresentation or fraud.",
+      "explanationImage": null,
+      "tags": [
+        "Consent to Treatment: Fundamentals"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch03-q108",
+      "stem": "What does it mean that consent must \"relate to the proposed procedure\"?",
+      "image": null,
+      "options": [
+        "Any consent covers every future procedure",
+        "Saying yes to an echo does not automatically mean saying yes to another procedure, such as adding contrast",
+        "Only verbal consent relates to the procedure",
+        "Consent may never be extended"
+      ],
+      "answer": 1,
+      "explanation": "Agreement is procedure-specific; additional procedures require their own agreement.",
+      "explanationImage": null,
+      "tags": [
+        "Consent to Treatment: Fundamentals"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch03-q109",
+      "stem": "Which requirement is most clearly missing when a patient agrees after hearing, \"It'll just take a minute. Don't worry about it,\" with no explanation of the echo?",
+      "image": null,
+      "options": [
+        "Informed consent",
+        "Voluntary consent",
+        "Written consent",
+        "Substitute consent"
+      ],
+      "answer": 0,
+      "explanation": "Without information about what the examination involves, the consent is not informed.",
+      "explanationImage": null,
+      "tags": [
+        "Consent to Treatment: Fundamentals"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch03-q110",
+      "stem": "Which information is needed for a decision to be informed?",
+      "image": null,
+      "options": [
+        "Only the name of the procedure",
+        "Only the cost",
+        "Only the appointment time",
+        "What the procedure involves and its expected benefit, material risks and side effects, reasonable alternatives, and the likely consequences of declining"
+      ],
+      "answer": 3,
+      "explanation": "These categories allow the patient to weigh benefits, risks, alternatives, and consequences.",
+      "explanationImage": null,
+      "tags": [
+        "Consent to Treatment: Fundamentals"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch03-q111",
+      "stem": "Which question must a patient be able to answer to give informed consent?",
+      "image": null,
+      "options": [
+        "What is the sonographer's schedule?",
+        "Which machine brand will be used?",
+        "What is the department's wait time?",
+        "What will happen and how could it help me?"
+      ],
+      "answer": 3,
+      "explanation": "The four required questions concern what will happen and its benefit, discomforts or risks, alternatives, and the consequences of waiting or declining.",
+      "explanationImage": null,
+      "tags": [
+        "Consent to Treatment: Fundamentals"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch03-q112",
+      "stem": "What could happen if I say nothing, wait, or say no?\" is one of the four informed-consent questions. What must the answer avoid?",
+      "image": null,
+      "options": [
+        "Honesty",
+        "Detail",
+        "Pressure — the consequences of declining should be explained without feeling pressured",
+        "Reference to alternatives"
+      ],
+      "answer": 2,
+      "explanation": "Consequences must be presented factually without coercing the patient's decision.",
+      "explanationImage": null,
+      "tags": [
+        "Consent to Treatment: Fundamentals"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch03-q113",
+      "stem": "Which statement about consent forms is correct?",
+      "image": null,
+      "options": [
+        "A signature automatically establishes informed consent",
+        "Forms replace explanation entirely",
+        "A signature alone does not prove that the requirements for valid consent have been met",
+        "Forms eliminate the need to check understanding"
+      ],
+      "answer": 2,
+      "explanation": "A form records a decision but cannot replace the information and voluntary choice required for validity.",
+      "explanationImage": null,
+      "tags": [
+        "Consent to Treatment: Fundamentals"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch03-q114",
+      "stem": "What is wrong with telling a patient, \"You have to do this because the doctor ordered it\"?",
+      "image": null,
+      "options": [
+        "It is technically inaccurate",
+        "It undermines voluntariness — agreement obtained through pressure does not demonstrate respect for the patient's choice",
+        "Nothing — it is an acceptable explanation",
+        "It replaces the need for information"
+      ],
+      "answer": 1,
+      "explanation": "Pressure from authority compromises the voluntary nature of consent.",
+      "explanationImage": null,
+      "tags": [
+        "Consent to Treatment: Fundamentals"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch03-q115",
+      "stem": "When must consent be maintained?",
+      "image": null,
+      "options": [
+        "Only at the start",
+        "Only at the end",
+        "Throughout the entire procedure — it is an ongoing process",
+        "Only if the patient asks questions"
+      ],
+      "answer": 2,
+      "explanation": "Consent continues through the examination; the patient must remain willing to continue.",
+      "explanationImage": null,
+      "tags": [
+        "Consent to Treatment: Fundamentals"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch03-q116",
+      "stem": "Why is checking understanding important after providing information?",
+      "image": null,
+      "options": [
+        "It is a test of the patient's intelligence",
+        "It is optional in routine examinations",
+        "Giving someone information is only useful if they can make sense of it",
+        "It replaces written documentation"
+      ],
+      "answer": 2,
+      "explanation": "Checking understanding — without making the patient feel tested — confirms the consent is informed.",
+      "explanationImage": null,
+      "tags": [
+        "Consent to Treatment: Fundamentals"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch03-q117",
+      "stem": "Which technique best checks understanding in plain language?",
+      "image": null,
+      "options": [
+        "\"I just want to make sure I explained that clearly. Do you have any questions?\"",
+        "\"Do you understand?\"",
+        "\"Sign here, please.\"",
+        "\"Any questions? No? Good.\""
+      ],
+      "answer": 0,
+      "explanation": "The phrasing checks the clarity of the explanation rather than putting the patient on the spot.",
+      "explanationImage": null,
+      "tags": [
+        "Consent to Treatment: Fundamentals"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch03-q118",
+      "stem": "Which explanation uses appropriate plain language?",
+      "image": null,
+      "options": [
+        "\"Assume the left lateral decubitus position\"",
+        "\"We will now optimize the acoustic window\"",
+        "\"I'll help you lie on your left side\"",
+        "\"Prepare for apical four-chamber acquisition\""
+      ],
+      "answer": 2,
+      "explanation": "Everyday words one step at a time support understanding far better than technical jargon.",
+      "explanationImage": null,
+      "tags": [
+        "Consent to Treatment: Fundamentals"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch03-q119",
+      "stem": "What must happen regarding the student's role in the examination?",
+      "image": null,
+      "options": [
+        "The student may scan without introduction",
+        "The role only needs to be documented afterward",
+        "The patient must be told the student's role and give agreement for their involvement",
+        "The patient never needs to know"
+      ],
+      "answer": 2,
+      "explanation": "The patient should always understand who is doing what.",
+      "explanationImage": null,
+      "tags": [
+        "Consent to Treatment: Fundamentals"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch03-q120",
+      "stem": "Which statement about consent to the examination versus consent to share information is correct?",
+      "image": null,
+      "options": [
+        "They are the same consent",
+        "Only PHIPA applies to the procedure",
+        "Only the HCCA applies to information sharing",
+        "The HCCA concerns the procedure; PHIPA concerns access to and sharing of information"
+      ],
+      "answer": 3,
+      "explanation": "Saying yes to an echo does not mean saying yes to sharing results with everyone.",
+      "explanationImage": null,
+      "tags": [
+        "Consent to Treatment: Fundamentals"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch03-q121",
+      "stem": "When facing a question about consent, what is the first step?",
+      "image": null,
+      "options": [
+        "Assume it concerns the examination",
+        "Identify what the consent concerns — the examination or the information",
+        "Assume it concerns the information",
+        "Refuse to answer"
+      ],
+      "answer": 1,
+      "explanation": "Distinguishing treatment consent from information consent directs you to the right framework.",
+      "explanationImage": null,
+      "tags": [
+        "Consent to Treatment: Fundamentals"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch03-q122",
+      "stem": "Who has primary responsibility for informed consent and capacity for a proposed treatment?",
+      "image": null,
+      "options": [
+        "The sonographer performing the ordered examination alone",
+        "The practitioner proposing the treatment",
+        "The patient's family",
+        "The scheduling clerk"
+      ],
+      "answer": 1,
+      "explanation": "The proposing practitioner holds primary responsibility, while the sonographer still explains and maintains agreement.",
+      "explanationImage": null,
+      "tags": [
+        "Consent to Treatment: Fundamentals"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch03-q123",
+      "stem": "What are the two components of capacity for a decision?",
+      "image": null,
+      "options": [
+        "Understand the relevant information, and appreciate the reasonably foreseeable consequences of the choice",
+        "Be an adult, and have a signed form",
+        "Be alert, and agree with the physician",
+        "Have insurance, and be registered"
+      ],
+      "answer": 0,
+      "explanation": "Capacity requires both understanding the relevant information and appreciating how the consequences apply to one's own situation.",
+      "explanationImage": null,
+      "tags": [
+        "Capacity and Substitute Decision-Making"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch03-q124",
+      "stem": "Why is appreciating consequences important for capacity?",
+      "image": null,
+      "options": [
+        "It only concerns remembering appointment times",
+        "It guarantees agreement with the recommendation",
+        "It is unrelated to the decision",
+        "It includes recognizing what could happen if the person says no"
+      ],
+      "answer": 3,
+      "explanation": "A person must recognize how possible consequences — including declining — apply to their own situation.",
+      "explanationImage": null,
+      "tags": [
+        "Capacity and Substitute Decision-Making"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch03-q125",
+      "stem": "Which statement about capacity is correct?",
+      "image": null,
+      "options": [
+        "Capacity is permanent once granted",
+        "Capacity depends only on chronological age",
+        "Capacity depends only on diagnosis",
+        "Capacity is specific to the decision and to the time"
+      ],
+      "answer": 3,
+      "explanation": "A person may be able to decide about one procedure but not another, and ability can change over time.",
+      "explanationImage": null,
+      "tags": [
+        "Capacity and Substitute Decision-Making"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch03-q126",
+      "stem": "What is the starting presumption about a patient's capacity?",
+      "image": null,
+      "options": [
+        "Assume capacity unless there are reasonable grounds for concern",
+        "Assume incapacity until proven otherwise",
+        "Assume incapacity for anyone over 65",
+        "Assume incapacity whenever a diagnosis exists"
+      ],
+      "answer": 0,
+      "explanation": "The presumption of capacity is the starting point; age or diagnosis alone does not settle the question.",
+      "explanationImage": null,
+      "tags": [
+        "Capacity and Substitute Decision-Making"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch03-q127",
+      "stem": "A 17-year-old understands the proposed echo and its consequences. What is the correct understanding?",
+      "image": null,
+      "options": [
+        "A parent must always consent for a minor",
+        "Only a judge may decide",
+        "Age 17 has no relevance in Ontario",
+        "Being under 18 does not automatically mean a parent must decide"
+      ],
+      "answer": 3,
+      "explanation": "If the young person understands and appreciates the decision, they may be able to consent.",
+      "explanationImage": null,
+      "tags": [
+        "Capacity and Substitute Decision-Making"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch03-q128",
+      "stem": "A patient has a diagnosis of dementia. What is the correct approach?",
+      "image": null,
+      "options": [
+        "The diagnosis alone does not decide whether the person can make this particular decision today — assess the decision-specific understanding and appreciation",
+        "Treat the diagnosis as proof of incapacity",
+        "Automatically ask a relative to decide",
+        "Use chronological age as the deciding factor"
+      ],
+      "answer": 0,
+      "explanation": "Capacity must be assessed for the specific decision at the specific time.",
+      "explanationImage": null,
+      "tags": [
+        "Capacity and Substitute Decision-Making"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch03-q129",
+      "stem": "A patient cannot understand the explanation given in English. What should happen BEFORE any conclusion about capacity?",
+      "image": null,
+      "options": [
+        "Conclude they lack capacity",
+        "Ask a family member to decide without support",
+        "Cancel the examination permanently",
+        "Arrange an appropriate interpreter or communication support"
+      ],
+      "answer": 3,
+      "explanation": "Language difficulty does not by itself show inability to decide; communication barriers must be addressed first.",
+      "explanationImage": null,
+      "tags": [
+        "Capacity and Substitute Decision-Making"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch03-q130",
+      "stem": "A patient understands all the relevant information but still declines the recommended examination. What does this mean?",
+      "image": null,
+      "options": [
+        "The patient must lack capacity",
+        "Refusing a recommendation does not automatically mean the patient lacks capacity",
+        "The refusal must be ignored",
+        "A substitute decision-maker must be used immediately"
+      ],
+      "answer": 1,
+      "explanation": "A capable person is entitled to make a choice that differs from the recommendation.",
+      "explanationImage": null,
+      "tags": [
+        "Capacity and Substitute Decision-Making"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch03-q131",
+      "stem": "Who determines capacity for a proposed treatment?",
+      "image": null,
+      "options": [
+        "The sonographer performing the examination alone",
+        "The practitioner proposing the treatment",
+        "The patient's family",
+        "The registration clerk"
+      ],
+      "answer": 1,
+      "explanation": "The practitioner proposing the treatment determines capacity for that treatment.",
+      "explanationImage": null,
+      "tags": [
+        "Capacity and Substitute Decision-Making"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch03-q132",
+      "stem": "If a student is concerned about a patient's understanding, what should they do?",
+      "image": null,
+      "options": [
+        "Pause and tell the supervisor exactly what they have noticed",
+        "Decide independently that the patient lacks capacity",
+        "Proceed without mentioning it",
+        "Ask the patient to leave"
+      ],
+      "answer": 0,
+      "explanation": "Students pause and report their specific observations to the supervisor rather than deciding alone.",
+      "explanationImage": null,
+      "tags": [
+        "Capacity and Substitute Decision-Making"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch03-q133",
+      "stem": "What is a substitute decision-maker (SDM)?",
+      "image": null,
+      "options": [
+        "Any relative who volunteers",
+        "The sonographer's supervisor",
+        "The patient's friend",
+        "A person legally authorized to make decisions for a patient who cannot make the particular decision"
+      ],
+      "answer": 3,
+      "explanation": "The SDM must be legally authorized for that decision, and the authority's limits must be confirmed.",
+      "explanationImage": null,
+      "tags": [
+        "Capacity and Substitute Decision-Making"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch03-q134",
+      "stem": "A patient can decide about one aspect of care but not another. What does this illustrate?",
+      "image": null,
+      "options": [
+        "Capacity is irrelevant",
+        "Capacity is decision-specific",
+        "Capacity is permanent",
+        "Capacity depends on insurance"
+      ],
+      "answer": 1,
+      "explanation": "The ability to decide varies with the particular decision being made.",
+      "explanationImage": null,
+      "tags": [
+        "Capacity and Substitute Decision-Making"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch03-q135",
+      "stem": "Which statement about capacity and time is TRUE?",
+      "image": null,
+      "options": [
+        "A capacity assessment from years ago always applies",
+        "Capacity never changes once established",
+        "Time of assessment is irrelevant",
+        "A person's ability can change over time, so capacity must be assessed when the decision is made"
+      ],
+      "answer": 3,
+      "explanation": "Because capacity can fluctuate, it must be evaluated at the time of the specific decision.",
+      "explanationImage": null,
+      "tags": [
+        "Capacity and Substitute Decision-Making"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch03-q136",
+      "stem": "What should a sonographer do while remaining within their role when capacity is in question?",
+      "image": null,
+      "options": [
+        "Make the capacity determination independently",
+        "Ignore concerns to avoid delay",
+        "Check and maintain consent, and bring unresolved concerns to the supervising or responsible practitioner",
+        "Ask the family to overrule the patient"
+      ],
+      "answer": 2,
+      "explanation": "The sonographer maintains consent vigilance while the proposing practitioner determines capacity.",
+      "explanationImage": null,
+      "tags": [
+        "Capacity and Substitute Decision-Making"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch03-q137",
+      "stem": "What is express consent?",
+      "image": null,
+      "options": [
+        "The person directly communicates that they agree, verbally or in writing",
+        "Arrival at the clinic",
+        "Silence during the explanation",
+        "Lying on the examination bed"
+      ],
+      "answer": 0,
+      "explanation": "Express consent is a direct statement of agreement, which may be verbal or written.",
+      "explanationImage": null,
+      "tags": [
+        "Express Consent, Implied Consent, and Consent to Share"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch03-q138",
+      "stem": "Which example best illustrates express consent?",
+      "image": null,
+      "options": [
+        "A patient arrives at the hospital",
+        "A patient does not object while staff talk nearby",
+        "After an explanation, a patient says, \"Yes, you may begin.\"",
+        "A patient remains silent in the waiting room"
+      ],
+      "answer": 2,
+      "explanation": "Express consent is a direct, clearly communicated agreement — verbal or written — after the patient has been informed.",
+      "explanationImage": null,
+      "tags": [
+        "Express Consent, Implied Consent, and Consent to Share"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch03-q139",
+      "stem": "Which statement about verbal and written express consent is correct?",
+      "image": null,
+      "options": [
+        "Only written consent is ever valid",
+        "Only verbal consent is ever valid",
+        "Neither requires information or voluntariness",
+        "Both are valid provided the patient understands and chooses freely"
+      ],
+      "answer": 3,
+      "explanation": "Both forms are valid when the underlying requirements of valid consent are met.",
+      "explanationImage": null,
+      "tags": [
+        "Express Consent, Implied Consent, and Consent to Share"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch03-q140",
+      "stem": "What determines whether written consent must be obtained?",
+      "image": null,
+      "options": [
+        "The patient's preference alone",
+        "The procedure and workplace policy, including documentation requirements",
+        "The sonographer's comfort",
+        "The time of day"
+      ],
+      "answer": 1,
+      "explanation": "Procedure-specific requirements and workplace policy determine the form and documentation of consent.",
+      "explanationImage": null,
+      "tags": [
+        "Express Consent, Implied Consent, and Consent to Share"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch03-q141",
+      "stem": "What is implied consent?",
+      "image": null,
+      "options": [
+        "Silence in every situation",
+        "Arrival for any appointment",
+        "Absence of verbal objection",
+        "A person's actions show agreement when the situation makes their meaning clear"
+      ],
+      "answer": 3,
+      "explanation": "Implied consent depends on conduct that clearly indicates agreement in context.",
+      "explanationImage": null,
+      "tags": [
+        "Express Consent, Implied Consent, and Consent to Share"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch03-q142",
+      "stem": "After an explanation, a patient willingly turns onto their left side to begin the echo. What does this illustrate?",
+      "image": null,
+      "options": [
+        "Express written consent",
+        "Implied consent — conduct that clearly indicates agreement in context",
+        "Fraud",
+        "Emergency consent"
+      ],
+      "answer": 1,
+      "explanation": "Willingly positioning for the examination is conduct that clearly signals agreement after explanation.",
+      "explanationImage": null,
+      "tags": [
+        "Express Consent, Implied Consent, and Consent to Share"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch03-q143",
+      "stem": "Which statement about implied consent is correct?",
+      "image": null,
+      "options": [
+        "Implied consent removes the need for explanation",
+        "Implied consent applies to any disclosure",
+        "All requirements for valid consent still apply to implied consent",
+        "Implied consent never requires context"
+      ],
+      "answer": 2,
+      "explanation": "Implied consent must still be informed, voluntary, and related to the procedure.",
+      "explanationImage": null,
+      "tags": [
+        "Express Consent, Implied Consent, and Consent to Share"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch03-q144",
+      "stem": "Which statement is TRUE about silence?",
+      "image": null,
+      "options": [
+        "Silence alone does not give permission to scan",
+        "Silence equals full consent",
+        "Silence waives the right to stop later",
+        "Silence establishes consent to share information"
+      ],
+      "answer": 0,
+      "explanation": "Silence, arrival, or lying on the bed without resistance does not establish agreement.",
+      "explanationImage": null,
+      "tags": [
+        "Express Consent, Implied Consent, and Consent to Share"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch03-q145",
+      "stem": "What habit best secures agreement before scanning begins?",
+      "image": null,
+      "options": [
+        "Begin silently and document later",
+        "Assume agreement from the order",
+        "Assume agreement from the appointment",
+        "Explain, answer questions, and ask, \"May I begin?\""
+      ],
+      "answer": 3,
+      "explanation": "An explicit, plain-language request for permission makes agreement clear and documented.",
+      "explanationImage": null,
+      "tags": [
+        "Express Consent, Implied Consent, and Consent to Share"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch03-q146",
+      "stem": "The patient hesitates and pulls away slightly. What should the sonographer do?",
+      "image": null,
+      "options": [
+        "Pause and check — \"Are you comfortable with me continuing?\"",
+        "Continue because they agreed earlier",
+        "Continue because the order exists",
+        "Finish the current view first"
+      ],
+      "answer": 0,
+      "explanation": "When agreement seems unclear, the practitioner must ask rather than assume.",
+      "explanationImage": null,
+      "tags": [
+        "Express Consent, Implied Consent, and Consent to Share"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch03-q147",
+      "stem": "Which framework applies to consent to share patient information with a third party?",
+      "image": null,
+      "options": [
+        "The HCCA alone",
+        "PHIPA and the authorized processes for disclosure",
+        "The scheduling policy",
+        "The equipment manual"
+      ],
+      "answer": 1,
+      "explanation": "Consent to share information is governed by PHIPA, distinct from consent to treatment.",
+      "explanationImage": null,
+      "tags": [
+        "Express Consent, Implied Consent, and Consent to Share"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch03-q148",
+      "stem": "Which statement correctly contrasts consent to care and consent to share?",
+      "image": null,
+      "options": [
+        "The two questions are identical",
+        "Only the second question matters",
+        "\"Do you agree to the proposed echocardiogram?\" concerns the procedure; \"What authority allows this information to be accessed or shared?\" concerns the information",
+        "Only the first question matters"
+      ],
+      "answer": 2,
+      "explanation": "The first is a treatment-consent question under the HCCA; the second is an information question under PHIPA.",
+      "explanationImage": null,
+      "tags": [
+        "Express Consent, Implied Consent, and Consent to Share"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch03-q149",
+      "stem": "During an echo, a patient says they are uncomfortable and asks you to stop. What is the best immediate response?",
+      "image": null,
+      "options": [
+        "Continue because they agreed at the beginning",
+        "Stop scanning and attend to their comfort and safety",
+        "Finish the current view before stopping",
+        "Document their concern and continue"
+      ],
+      "answer": 1,
+      "explanation": "Consent is ongoing — an immediate request to stop must be honoured right away.",
+      "explanationImage": null,
+      "tags": [
+        "Refusal, Withdrawal, Pausing and Emergency Exceptions"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch03-q150",
+      "stem": "Which statement captures the rule about stopping?",
+      "image": null,
+      "options": [
+        "Required images override the patient's request",
+        "Required images do not give permission to continue after the patient asks us to stop",
+        "The order overrides the patient's request",
+        "Stopping requires a physician's order"
+      ],
+      "answer": 1,
+      "explanation": "Completing required images never justifies continuing after a request to stop.",
+      "explanationImage": null,
+      "tags": [
+        "Refusal, Withdrawal, Pausing and Emergency Exceptions"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch03-q151",
+      "stem": "What is the best first statement to a patient who says, \"Please stop\"?",
+      "image": null,
+      "options": [
+        "\"Of course we can stop. Tell me what's uncomfortable. Let me get my team lead.\"",
+        "\"We only need a few more images.\"",
+        "\"You signed up for this.\"",
+        "\"The doctor wants it finished.\""
+      ],
+      "answer": 0,
+      "explanation": "The response stops scanning, acknowledges the request, and involves the supervisor without pressure.",
+      "explanationImage": null,
+      "tags": [
+        "Refusal, Withdrawal, Pausing and Emergency Exceptions"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch03-q152",
+      "stem": "After stopping, which question best clarifies the patient's wishes without pressure?",
+      "image": null,
+      "options": [
+        "\"Why are you making this difficult?\"",
+        "\"Do you want to finish quickly?\"",
+        "\"Would you like a break, a different position, or just to stop the echo altogether?\"",
+        "\"Should I tell the doctor you refused?\""
+      ],
+      "answer": 2,
+      "explanation": "Offering clear options lets the patient choose without having to justify their decision first.",
+      "explanationImage": null,
+      "tags": [
+        "Refusal, Withdrawal, Pausing and Emergency Exceptions"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch03-q153",
+      "stem": "Does the patient need to explain WHY they want to stop before you stop?",
+      "image": null,
+      "options": [
+        "No — you stop first, then clarify their wishes",
+        "Yes — an explanation is required before stopping",
+        "Yes — only a physician may approve stopping",
+        "Yes — documentation must precede stopping"
+      ],
+      "answer": 0,
+      "explanation": "The request itself governs; explanation comes afterward.",
+      "explanationImage": null,
+      "tags": [
+        "Refusal, Withdrawal, Pausing and Emergency Exceptions"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch03-q154",
+      "stem": "Which action must be avoided after a patient asks to stop?",
+      "image": null,
+      "options": [
+        "Checking the patient's comfort",
+        "Involving the supervisor",
+        "Documenting what happened",
+        "Continuing to scan while asking questions, or trying to obtain \"one more image\""
+      ],
+      "answer": 3,
+      "explanation": "Scanning must stop immediately — no images should be obtained while the request is being addressed.",
+      "explanationImage": null,
+      "tags": [
+        "Refusal, Withdrawal, Pausing and Emergency Exceptions"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch03-q155",
+      "stem": "The patient now appears calm and agrees to a break. What is required before scanning resumes?",
+      "image": null,
+      "options": [
+        "The patient understands the plan and freely re-establishes consent",
+        "A calmer appearance alone",
+        "The supervisor's approval alone",
+        "The completion of the schedule"
+      ],
+      "answer": 0,
+      "explanation": "Looking more comfortable does not automatically mean the patient wants to continue.",
+      "explanationImage": null,
+      "tags": [
+        "Refusal, Withdrawal, Pausing and Emergency Exceptions"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch03-q156",
+      "stem": "What must be documented when scanning is stopped by the patient?",
+      "image": null,
+      "options": [
+        "Only that the study was incomplete",
+        "Why scanning stopped, what was done, whether the patient agreed to restart, whether the study was completed, limitations, and communication",
+        "Only the patient's name",
+        "Nothing until the next visit"
+      ],
+      "answer": 1,
+      "explanation": "A complete record covers the stop, the response, any restart, completion status, limitations, and communication.",
+      "explanationImage": null,
+      "tags": [
+        "Refusal, Withdrawal, Pausing and Emergency Exceptions"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch03-q157",
+      "stem": "A capable patient decides not to complete the remaining images. What should the sonographer do?",
+      "image": null,
+      "options": [
+        "Respect the decision, document and communicate for appropriate follow-up",
+        "Resume once the patient appears calmer",
+        "Ask a relative to overrule the patient",
+        "Finish because an order remains in place"
+      ],
+      "answer": 0,
+      "explanation": "The capable patient's decision must be respected, with documentation, communication, and appropriate follow-up.",
+      "explanationImage": null,
+      "tags": [
+        "Refusal, Withdrawal, Pausing and Emergency Exceptions"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch03-q158",
+      "stem": "Which response to a patient declining an examination is best?",
+      "image": null,
+      "options": [
+        "\"You have no choice — it's ordered.\"",
+        "\"Fine, but your doctor will be angry.\"",
+        "\"Would you like to tell me what concerns you about the echo?\" — listen, answer within your role, and involve the appropriate clinician if needed",
+        "Argue until the patient agrees"
+      ],
+      "answer": 2,
+      "explanation": "Exploring the concern calmly, answering within role, and involving the clinician respects the patient without pressure.",
+      "explanationImage": null,
+      "tags": [
+        "Refusal, Withdrawal, Pausing and Emergency Exceptions"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch03-q159",
+      "stem": "A patient continues to decline after discussion. What is required?",
+      "image": null,
+      "options": [
+        "Continue persuading until they agree",
+        "Perform the examination because an order exists",
+        "Respect the decision, avoid argument or pressure, inform the supervisor, and document the decision and discussion",
+        "Tell the patient to leave"
+      ],
+      "answer": 2,
+      "explanation": "The refusal is respected and documented, with the supervisor informed.",
+      "explanationImage": null,
+      "tags": [
+        "Refusal, Withdrawal, Pausing and Emergency Exceptions"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch03-q160",
+      "stem": "Which documentation wording is appropriately factual about a refusal?",
+      "image": null,
+      "options": [
+        "\"Patient declined the examination,\" with the relevant discussion and communication recorded",
+        "\"Patient was uncooperative.\"",
+        "\"Patient refused for no reason.\"",
+        "\"Study not done.\""
+      ],
+      "answer": 0,
+      "explanation": "Factual wording records the decision and discussion without judgment.",
+      "explanationImage": null,
+      "tags": [
+        "Refusal, Withdrawal, Pausing and Emergency Exceptions"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch03-q161",
+      "stem": "An echo is ordered as a stat examination. What does the urgency establish?",
+      "image": null,
+      "options": [
+        "Nothing about permission by itself — calling an echo urgent or stat does not automatically authorize performing it",
+        "Automatic consent to everything",
+        "That consent may be skipped entirely",
+        "That the sonographer may override a refusal"
+      ],
+      "answer": 0,
+      "explanation": "Urgency does not replace consent; the emergency conditions must actually apply.",
+      "explanationImage": null,
+      "tags": [
+        "Refusal, Withdrawal, Pausing and Emergency Exceptions"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch03-q162",
+      "stem": "Which statement about emergency exceptions is correct?",
+      "image": null,
+      "options": [
+        "Any urgent order creates an emergency exception",
+        "Being behind schedule creates an emergency exception",
+        "A busy department creates an emergency exception",
+        "The HCCA provides specific emergency exceptions, and urgency alone does not establish that an exception applies"
+      ],
+      "answer": 3,
+      "explanation": "The exceptions have specific conditions; schedule pressure or a stat order does not satisfy them.",
+      "explanationImage": null,
+      "tags": [
+        "Refusal, Withdrawal, Pausing and Emergency Exceptions"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch03-q163",
+      "stem": "Who checks whether the emergency consent rules apply?",
+      "image": null,
+      "options": [
+        "The sonographer alone",
+        "The patient's family",
+        "The responsible clinician, including checking any known earlier refusal",
+        "The scheduling clerk"
+      ],
+      "answer": 2,
+      "explanation": "The responsible clinician verifies whether the emergency rules apply, including any prior refusal.",
+      "explanationImage": null,
+      "tags": [
+        "Refusal, Withdrawal, Pausing and Emergency Exceptions"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch03-q164",
+      "stem": "A capable patient is able to make and communicate their decision during an emergency. What must be respected?",
+      "image": null,
+      "options": [
+        "The order alone",
+        "The schedule",
+        "The family's preference over the patient's",
+        "Their refusal — a capable patient's refusal still matters"
+      ],
+      "answer": 3,
+      "explanation": "If a capable patient can decide and communicate, their refusal must be respected even in an urgent setting.",
+      "explanationImage": null,
+      "tags": [
+        "Refusal, Withdrawal, Pausing and Emergency Exceptions"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch03-q165",
+      "stem": "Jordan arrives with a partner and asks, \"Please talk to me privately about my health.\" What should happen first?",
+      "image": null,
+      "options": [
+        "Include the partner automatically because they drove Jordan",
+        "Speak with Jordan privately and, if the partner is to be involved, ask Jordan directly whether that is acceptable",
+        "Refuse to speak with either of them",
+        "Tell the partner everything for efficiency"
+      ],
+      "answer": 1,
+      "explanation": "Jordan's privacy request is respected, and permission for the partner's involvement is sought from Jordan.",
+      "explanationImage": null,
+      "tags": [
+        "Jordan's Appointment: An Integrated Case"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch03-q166",
+      "stem": "Later, the partner asks, \"What did the scan show?\" What could you say without sharing results?",
+      "image": null,
+      "options": [
+        "The full findings, because the partner is family",
+        "\"Everything is normal.\"",
+        "\"I understand your concern. I need to check what Jordan would like shared, and the clinical team will explain results through the usual process.\"",
+        "Nothing at all, rudely"
+      ],
+      "answer": 2,
+      "explanation": "The response acknowledges concern, checks authority, and points to the proper results process.",
+      "explanationImage": null,
+      "tags": [
+        "Jordan's Appointment: An Integrated Case"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch03-q167",
+      "stem": "Which statement about family and information is correct?",
+      "image": null,
+      "options": [
+        "Being someone's partner or family member does not automatically establish permission to receive information",
+        "Family members always have full access",
+        "Family access depends only on their persistence",
+        "Family access depends on their relationship length"
+      ],
+      "answer": 0,
+      "explanation": "A family relationship alone does not constitute lawful authority to receive information.",
+      "explanationImage": null,
+      "tags": [
+        "Jordan's Appointment: An Integrated Case"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch03-q168",
+      "stem": "During scanning, Jordan says, \"Please stop. This is uncomfortable.\" What is the correct response?",
+      "image": null,
+      "options": [
+        "Explain why the remaining images are needed before stopping",
+        "Stop scanning promptly and safely, acknowledge the request, and involve the supervising sonographer",
+        "Reduce pressure and continue",
+        "Pause briefly and resume once Jordan appears calmer"
+      ],
+      "answer": 1,
+      "explanation": "The student stops, acknowledges, and involves the supervisor; the request governs what happens next.",
+      "explanationImage": null,
+      "tags": [
+        "Jordan's Appointment: An Integrated Case"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch03-q169",
+      "stem": "After a discussion with the supervisor, Jordan decides to end the examination. What is required?",
+      "image": null,
+      "options": [
+        "Continue scanning because the order remains",
+        "Ask the partner to overrule Jordan",
+        "Record the study as complete",
+        "Respect the decision and arrange appropriate follow-up"
+      ],
+      "answer": 3,
+      "explanation": "Jordan's decision ends the examination, and follow-up must be arranged.",
+      "explanationImage": null,
+      "tags": [
+        "Jordan's Appointment: An Integrated Case"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch03-q170",
+      "stem": "In the hallway, the partner asks for the results. What is the most defensible response?",
+      "image": null,
+      "options": [
+        "Acknowledge the partner's concern and check Jordan's permission or other lawful authority before sharing anything",
+        "Share the results because they are in the hallway",
+        "Share only the normal parts",
+        "Shout the results so others can hear"
+      ],
+      "answer": 0,
+      "explanation": "Concern is acknowledged while authority to disclose is verified first.",
+      "explanationImage": null,
+      "tags": [
+        "Jordan's Appointment: An Integrated Case"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch03-q171",
+      "stem": "What should Jordan's record contain after the examination ends early?",
+      "image": null,
+      "options": [
+        "Jordan's request to stop, the response, the incomplete study, and the actual communication",
+        "Only \"Study completed.\"",
+        "Only Jordan's name",
+        "The partner's account of events"
+      ],
+      "answer": 0,
+      "explanation": "The record must accurately describe the request, response, what remained incomplete, and communication.",
+      "explanationImage": null,
+      "tags": [
+        "Jordan's Appointment: An Integrated Case"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch03-q172",
+      "stem": "A record states only \"Study completed\" when the patient's request to stop was not honoured. What would a reviewer need?",
+      "image": null,
+      "options": [
+        "Nothing more",
+        "The patient's request, the response, what was completed and not completed, who was informed, and follow-up",
+        "The sonographer's opinion of the patient",
+        "The partner's signature"
+      ],
+      "answer": 1,
+      "explanation": "A reviewer needs the facts of the request, response, completion status, and communication.",
+      "explanationImage": null,
+      "tags": [
+        "Jordan's Appointment: An Integrated Case"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch03-q173",
+      "stem": "The partner pressures Jordan before the examination: \"Just agree. We're holding everyone up.\" Which consent requirement is at risk?",
+      "image": null,
+      "options": [
+        "Voluntariness — agreement obtained through pressure does not demonstrate respect for choice",
+        "Informed consent only",
+        "Written consent only",
+        "Implied consent only"
+      ],
+      "answer": 0,
+      "explanation": "Coercion by a companion compromises the voluntary nature of consent.",
+      "explanationImage": null,
+      "tags": [
+        "Jordan's Appointment: An Integrated Case"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch03-q174",
+      "stem": "Once the partner steps out, what is an appropriate next statement?",
+      "image": null,
+      "options": [
+        "\"We can pause and talk. What concerns you about having the echo today?\"",
+        "\"Your partner is right — we are busy.\"",
+        "\"You must decide now.\"",
+        "\"I cannot discuss this with you.\""
+      ],
+      "answer": 0,
+      "explanation": "The statement opens a private, pressure-free conversation about the patient's concerns.",
+      "explanationImage": null,
+      "tags": [
+        "Jordan's Appointment: An Integrated Case"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch03-q175",
+      "stem": "Jordan asks whether the echo can wait. What is the most appropriate response?",
+      "image": null,
+      "options": [
+        "\"Delaying is completely safe.\"",
+        "\"Waiting will definitely make things worse.\"",
+        "\"I'll ask the clinician responsible for your care to explain what waiting can mean for you\" — without promising that delay is safe",
+        "\"You have no option but today.\""
+      ],
+      "answer": 2,
+      "explanation": "The sonographer connects the patient to the clinician who can explain consequences, without making unsupported promises.",
+      "explanationImage": null,
+      "tags": [
+        "Jordan's Appointment: An Integrated Case"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch03-q176",
+      "stem": "A colleague says the examination must proceed because \"every department is busy.\" What is the correct understanding?",
+      "image": null,
+      "options": [
+        "Busyness creates an emergency exception",
+        "Busyness allows skipping consent",
+        "Schedule pressure never substitutes for consent or justifies coercion",
+        "Busyness permits overriding a refusal"
+      ],
+      "answer": 2,
+      "explanation": "Being behind schedule does not create an emergency exception or excuse pressure.",
+      "explanationImage": null,
+      "tags": [
+        "Jordan's Appointment: An Integrated Case"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch03-q177",
+      "stem": "Which framework applies when the partner asks who may receive the report?",
+      "image": null,
+      "options": [
+        "The HCCA alone",
+        "Equipment policy",
+        "The scheduling system",
+        "PHIPA and authorized processes"
+      ],
+      "answer": 3,
+      "explanation": "Disclosure decisions are governed by PHIPA and authorized processes.",
+      "explanationImage": null,
+      "tags": [
+        "Jordan's Appointment: An Integrated Case"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch03-q178",
+      "stem": "Which framework applies when Jordan asks to stop the examination?",
+      "image": null,
+      "options": [
+        "PHIPA alone",
+        "The billing code",
+        "The HCCA and consent standards",
+        "Workplace seniority"
+      ],
+      "answer": 2,
+      "explanation": "The right to stop is a consent-to-treatment matter under the HCCA.",
+      "explanationImage": null,
+      "tags": [
+        "Jordan's Appointment: An Integrated Case"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch03-q179",
+      "stem": "Which framework applies when documenting what actually happened?",
+      "image": null,
+      "options": [
+        "CMRITO documentation standards",
+        "PHIPA alone",
+        "The CYFSA",
+        "The RHPA reporting provisions"
+      ],
+      "answer": 0,
+      "explanation": "Documentation expectations come from the regulator's standards.",
+      "explanationImage": null,
+      "tags": [
+        "Jordan's Appointment: An Integrated Case"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch03-q180",
+      "stem": "Which statement about applying these frameworks is correct?",
+      "image": null,
+      "options": [
+        "Only one law can ever apply",
+        "More than one set of rules can apply at the same time",
+        "Laws never overlap",
+        "Standards replace all legislation"
+      ],
+      "answer": 1,
+      "explanation": "A single situation — such as Jordan's — can engage PHIPA, the HCCA, and documentation standards simultaneously.",
+      "explanationImage": null,
+      "tags": [
+        "Jordan's Appointment: An Integrated Case"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch03-q181",
+      "stem": "Which set best matches the four closing duties taught for this case?",
+      "image": null,
+      "options": [
+        "Protect privacy, respect choices, record the facts, speak up",
+        "Move fast, avoid questions, document little, stay silent",
+        "Share widely, pressure gently, record rarely, remain quiet",
+        "Diagnose, prescribe, discharge, forget"
+      ],
+      "answer": 0,
+      "explanation": "The four duties — protect information, listen to the patient, write honestly, and ask for help — summarize the case.",
+      "explanationImage": null,
+      "tags": [
+        "Jordan's Appointment: An Integrated Case"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch03-q182",
+      "stem": "An unrelated coworker asks to see Jordan's images \"just to learn.\" What is the best response?",
+      "image": null,
+      "options": [
+        "Share because they work in the same department",
+        "Share if they whisper",
+        "\"I can't share Jordan's images for that purpose. If you're interested in learning, we can look at an approved teaching example.\"",
+        "Share the images but not the report"
+      ],
+      "answer": 2,
+      "explanation": "Working in the same organization does not authorize access; approved teaching materials serve learning properly.",
+      "explanationImage": null,
+      "tags": [
+        "Jordan's Appointment: An Integrated Case"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch03-q183",
+      "stem": "Which combination represents a fully defensible response to Jordan's case?",
+      "image": null,
+      "options": [
+        "Finish the study, tell the partner everything, and document only the findings",
+        "Stop the study, tell the partner nothing rudely, and document nothing",
+        "Let the partner decide what to record",
+        "Respect the decision to end the examination and arrange follow-up; acknowledge the partner's concern and check authority before sharing; record the request, response, incomplete study, and actual communication"
+      ],
+      "answer": 3,
+      "explanation": "The defensible response covers the examination, the partner, and the record.",
+      "explanationImage": null,
+      "tags": [
+        "Jordan's Appointment: An Integrated Case"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch03-q184",
+      "stem": "What is the underlying principle connecting privacy, consent, and documentation in Jordan's case?",
+      "image": null,
+      "options": [
+        "The patient trusts the practitioner to protect their information, respect their choices, record what happened, and speak up when needed",
+        "Efficiency should govern all three",
+        "The partner's wishes govern all three",
+        "The order overrides all three"
+      ],
+      "answer": 0,
+      "explanation": "Patient trust is the unifying principle across privacy, consent, and documentation duties.",
+      "explanationImage": null,
+      "tags": [
+        "Jordan's Appointment: An Integrated Case"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch03-q185",
+      "stem": "Review: Which organization sets and enforces professional practice standards for diagnostic medical sonographers registered in Ontario?",
+      "image": null,
+      "options": [
+        "Sonography Canada",
+        "OAMRS",
+        "The sonographer's employer",
+        "The CMRITO"
+      ],
+      "answer": 3,
+      "explanation": "The CMRITO sets and enforces standards for its registrants; an employer's local rules do not make it the provincial regulator.",
+      "explanationImage": null,
+      "tags": [
+        "Review, Integration and Applied Judgement"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch03-q186",
+      "stem": "Review: Before an echocardiogram, the supervising sonographer notices the wrong patient's record selected on the machine, and the mismatch is corrected before scanning starts. What makes this a near miss?",
+      "image": null,
+      "options": [
+        "The patient did not experience any discernible harm",
+        "The mistake was discovered by a team member",
+        "The mistake was intercepted before it reached the patient",
+        "The mistake was noticed before the report was completed"
+      ],
+      "answer": 2,
+      "explanation": "Interception before reaching the patient is the defining detail of a near miss.",
+      "explanationImage": null,
+      "tags": [
+        "Review, Integration and Applied Judgement"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch03-q187",
+      "stem": "Review: Which statement best describes the different purposes of a clinical record and an organizational incident report?",
+      "image": null,
+      "options": [
+        "An incident report replaces clinical documentation whenever a safety incident occurs",
+        "The clinical record supports patient care; the incident report supports safety reporting and review",
+        "A clinical record replaces an incident report if it contains all the facts",
+        "Both serve the same purpose, so the professional chooses which to complete"
+      ],
+      "answer": 1,
+      "explanation": "Each serves a distinct purpose, and both processes must be followed as required.",
+      "explanationImage": null,
+      "tags": [
+        "Review, Integration and Applied Judgement"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch03-q188",
+      "stem": "Review: During a supervised echocardiogram, a capable adult patient says, \"Please stop. This is uncomfortable,\" with several images remaining. As the student performing the scan, what is the most appropriate response?",
+      "image": null,
+      "options": [
+        "Reduce the probe pressure and continue obtaining the remaining images",
+        "Explain why the remaining images are needed before stopping",
+        "Stop scanning, acknowledge the request, and involve the supervising sonographer",
+        "Pause briefly, then resume once the patient appears calmer"
+      ],
+      "answer": 2,
+      "explanation": "Required images do not give permission to continue after the patient asks to stop.",
+      "explanationImage": null,
+      "tags": [
+        "Review, Integration and Applied Judgement"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch03-q189",
+      "stem": "Review: You notice that a measurement on a saved image differs from the value entered on the worksheet, and you are unsure which is correct. What should you do next?",
+      "image": null,
+      "options": [
+        "Promptly describe the discrepancy to your supervisor and ask to review it together",
+        "Change the worksheet to match the saved image before mentioning the discrepancy",
+        "Wait until you can determine which value is correct before raising the concern",
+        "Leave both values unchanged and assume the interpreting cardiologist will resolve it"
+      ],
+      "answer": 0,
+      "explanation": "A specific concern can be raised while you are still uncertain.",
+      "explanationImage": null,
+      "tags": [
+        "Review, Integration and Applied Judgement"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch03-q190",
+      "stem": "Which wording best raises a measurement discrepancy?",
+      "image": null,
+      "options": [
+        "\"You entered the wrong number.\"",
+        "\"The value on this saved image is different from the worksheet. Can we review it together?\"",
+        "\"Someone messed up this study.\"",
+        "Nothing — assume it will resolve itself"
+      ],
+      "answer": 1,
+      "explanation": "The wording identifies the evidence, makes a clear request, and does not accuse.",
+      "explanationImage": null,
+      "tags": [
+        "Review, Integration and Applied Judgement"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch03-q191",
+      "stem": "Which learning goal is demonstrated when you determine that a curious coworker's access to a record is NOT authorized?",
+      "image": null,
+      "options": [
+        "Deciding whether access to patient information is authorized",
+        "Choosing the fastest examination protocol",
+        "Increasing departmental throughput",
+        "Avoiding all documentation"
+      ],
+      "answer": 0,
+      "explanation": "Distinguishing technical access from authorized access is a core learning goal of this module.",
+      "explanationImage": null,
+      "tags": [
+        "Review, Integration and Applied Judgement"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch03-q192",
+      "stem": "Which action demonstrates the learning goal \"describe an examination accurately in the clinical record\"?",
+      "image": null,
+      "options": [
+        "Recording only normal findings",
+        "Recording opinions about the patient",
+        "Recording what was completed, limitations and their reasons, and communication that actually occurred",
+        "Recording nothing when the study is limited"
+      ],
+      "answer": 2,
+      "explanation": "Accurate description covers completion, limitations with reasons, and actual communication.",
+      "explanationImage": null,
+      "tags": [
+        "Review, Integration and Applied Judgement"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch03-q193",
+      "stem": "Which action demonstrates the learning goal \"connect a practice question to the relevant law or standard\"?",
+      "image": null,
+      "options": [
+        "Choosing the shortest title",
+        "Assuming all questions concern PHIPA",
+        "Identifying whether the question concerns information, consent, documentation, protection, or regulation, and matching it to PHIPA, HCCA, CYFSA, RHPA, or CMRITO standards",
+        "Ignoring the legal dimension"
+      ],
+      "answer": 2,
+      "explanation": "Matching subject matter to the correct framework is the taught method for connecting practice to law.",
+      "explanationImage": null,
+      "tags": [
+        "Review, Integration and Applied Judgement"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch03-q194",
+      "stem": "Which combination BEST reflects the closing message of this module?",
+      "image": null,
+      "options": [
+        "Move quickly, avoid questions, document briefly, and remain silent",
+        "Protect information, listen to the patient, write honestly, and ask for help",
+        "Share freely, pressure gently, record rarely, and stay quiet",
+        "Diagnose independently, prescribe treatment, and discharge patients"
+      ],
+      "answer": 1,
+      "explanation": "The four closing habits summarize the module's privacy, consent, documentation, and escalation duties.",
+      "explanationImage": null,
+      "tags": [
+        "Review, Integration and Applied Judgement"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch03-q195",
+      "stem": "A student is unsure whether a legal duty to report applies and considers waiting for guidance before acting. What is the correct understanding?",
+      "image": null,
+      "options": [
+        "If there is a legal duty to report, seeking advice must not delay the required reporting",
+        "Reporting always waits for legal advice",
+        "Reporting is optional when uncertain",
+        "Only supervisors report"
+      ],
+      "answer": 0,
+      "explanation": "Guidance may be sought, but a required report must not be delayed while waiting for advice.",
+      "explanationImage": null,
+      "tags": [
+        "Review, Integration and Applied Judgement"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch03-q196",
+      "stem": "A patient reports a new symptom during the history. Which response integrates consent, safety and communication?",
+      "image": null,
+      "options": [
+        "Ignore the symptom because it is not on the order",
+        "Assess the patient's stability, pause if appropriate, involve the supervisor or responsible clinician, and document the symptom, response, and communication",
+        "Continue and mention it only if asked",
+        "Tell the patient it is irrelevant"
+      ],
+      "answer": 1,
+      "explanation": "Integrated professional practice combines assessment, pausing, escalation, and documentation.",
+      "explanationImage": null,
+      "tags": [
+        "Review, Integration and Applied Judgement"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch03-q197",
+      "stem": "Which statement about being a student in this setting is correct?",
+      "image": null,
+      "options": [
+        "Identify as a fully qualified practitioner for efficiency",
+        "Introduce yourself as a student, work with your supervisor, and never claim credentials or abilities you do not have",
+        "Hide your student status from patients",
+        "Perform procedures beyond training when asked"
+      ],
+      "answer": 1,
+      "explanation": "Honest identification and supervised practice protect patients and support learning.",
+      "explanationImage": null,
+      "tags": [
+        "Review, Integration and Applied Judgement"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch03-q198",
+      "stem": "A patient hesitates after stopping and asks, \"Will you be angry if I don't finish?\" Which response is most appropriate?",
+      "image": null,
+      "options": [
+        "\"I'm not angry, we can stop, and I'll help you understand the options.\"",
+        "\"We really need to finish.\"",
+        "\"The department will be upset with me.\"",
+        "\"It's up to your family.\""
+      ],
+      "answer": 0,
+      "explanation": "The response is honest, removes pressure, and supports the patient's understanding of options.",
+      "explanationImage": null,
+      "tags": [
+        "Review, Integration and Applied Judgement"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch03-q199",
+      "stem": "Which set of statements is TRUE?\n\n- (1) Privacy concerns the patient's rights in how information is handled. (2) Confidentiality is our duty to protect information and share only with authority. (3) Consent to the examination and consent to share information are different questions.",
+      "image": null,
+      "options": [
+        "Only (1)",
+        "Only (2)",
+        "None of them",
+        "(1), (2) and (3)"
+      ],
+      "answer": 3,
+      "explanation": "All three statements correctly summarize the module's key distinctions.",
+      "explanationImage": null,
+      "tags": [
+        "Review, Integration and Applied Judgement"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch03-q200",
+      "stem": "Which combination of actions BEST represents legal responsibility in the echo lab as presented in this module?",
+      "image": null,
+      "options": [
+        "Rely on logins, obtain a signature once, continue despite refusal, document only normal findings, and avoid reporting",
+        "Assume family has access, skip explanation for routine studies, complete every study regardless of refusal, and conceal errors",
+        "Check whether access to information is authorized, explain the examination and maintain consent, stop when the patient asks, record what actually happened, report when a duty applies, and ask for help when uncertain",
+        "Prioritize schedule pressure over consent, document opinions rather than facts, and escalate only when asked"
+      ],
+      "answer": 2,
+      "explanation": "Each element reflects a core duty taught in this module — authorized access, maintained consent, respect for refusal, honest records, required reporting, and seeking help.",
+      "explanationImage": null,
+      "tags": [
+        "Review, Integration and Applied Judgement"
+      ],
+      "reference": ""
+    }
+  ]
 }

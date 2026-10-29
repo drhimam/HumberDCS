@@ -4,13 +4,18 @@ compatibility_date = "2026-10-12"
 workers_dev = true
 
 [vars]
-ALLOWED_ORIGIN = "https://dcsqbank.pages.dev"
-APP_ORIGIN = "https://dcsqbank.pages.dev"
+ALLOWED_ORIGIN = "https://dcs.qbanks.org"
+APP_ORIGIN = "https://dcs.qbanks.org"
 EMAIL_FROM_NAME = "DCS QBank"
 EMAIL_FROM_ADDRESS = "noreply@qbanks.org"
 ZEPTOMAIL_API_URL = "https://api.zeptomail.ca/v1.1/email"
+PAYPAL_ENVIRONMENT = "live"
+PAYPAL_CURRENCY = "CAD"
+PAYPAL_CLIENT_ID = "BAAMa88c5rdwE5eRWAZLHJUrIvf-deV3jznXmIqmwPKvGM7ouR5OqoSzQarU2FbZoDIhHEwNpPQhWqsUaw"
+
 
 [[d1_databases]]
 binding = "DB"
 database_name = "dcsqbank-production-db"
 database_id = "30566c45-72f3-460c-b7b2-e9f4c5dc3103"
+migrations_dir = "../database/migrations"

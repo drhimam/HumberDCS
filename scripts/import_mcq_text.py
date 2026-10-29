@@ -9,6 +9,8 @@ import sys
 from pathlib import Path
 
 ROOT = Path("/app/frontend/public/qbank")
+if not ROOT.exists():
+    ROOT = Path(__file__).resolve().parent.parent / "frontend" / "public" / "qbank"
 
 
 def parse(text):

@@ -168,13 +168,14 @@ visitors to `/signin`, and the forms call the deployed Worker auth contract.
 - Never display passwords, raw auth tokens, or full payment secrets in the panel.
 
 ### 12. Integrate PayPal safely
-
 - Create donations through a Worker endpoint and verify all completed payments server-side.
 - Validate PayPal webhook signatures and make webhook processing idempotent.
 - Store only the minimum payment/customer data needed for reconciliation and receipts.
 - Mark donation status from verified PayPal events, not from client redirect parameters.
 - Trigger a ZeptoMail thank-you email only after verified completion, with duplicate-send protection.
 - Document sandbox and production credentials separately and test refund/cancel/failure paths.
+
+**Status:** Fully implemented in `worker/src/index.js` and `frontend/src/components/DonateDialog.jsx`. Includes server-side order creation (`/api/donations/create-order`), capture verification (`/api/donations/capture-order`), idempotent webhook handling (`/api/donations/webhook`), community statistics, thank-you email receipts via ZeptoMail, and the official interactive PayPal JavaScript SDK buttons UI with fallback handling.
 
 ## P4 — Operate the content pipeline at scale
 

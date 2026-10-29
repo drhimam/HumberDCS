@@ -6,23 +6,28 @@
   "chapters": [
     {
       "id": "ch01",
-      "title": "Ethics & Consent",
+      "title": "Module 1: The Profession and Sonographer's Role",
       "file": "ch01.json"
     },
     {
       "id": "ch02",
-      "title": "Scope of Practice",
+      "title": "Module 2: Professional Accountability, Regulation & Standards",
       "file": "ch02.json"
     },
     {
       "id": "ch03",
-      "title": "Quality Assurance",
+      "title": "Module 3: Legal Responsibilities – Privacy, Documentation & Consent",
       "file": "ch03.json"
     },
     {
       "id": "ch04",
-      "title": "Ergonomics & Injury Prevention",
+      "title": "Module 4: Boundaries, Adverse Events & Ethical Decision-Making",
       "file": "ch04.json"
+    },
+    {
+      "id": "ch05",
+      "title": "Module 5: Healthcare Team, Escalation & Conflict Resolution",
+      "file": "ch05.json"
     }
   ]
 }

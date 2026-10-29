@@ -40,9 +40,11 @@ const userShape = (user) => ({ id: user.id, email: user.email, displayName: user
 
 const allowedOrigin = (request, env) => {
   const origin = request.headers.get("Origin");
-  if (!origin) return env.ALLOWED_ORIGIN || "*";
+  if (!origin) return env.ALLOWED_ORIGIN || "https://dcs.qbanks.org";
   const validOrigins = [
     env.ALLOWED_ORIGIN,
+    "https://dcs.qbanks.org",
+    "https://dcsqbank.pages.dev",
     "http://localhost:3000",
     "http://127.0.0.1:3000",
     "http://localhost:5173",
@@ -67,7 +69,7 @@ const validEmail = (email) => typeof email === "string" && /^[^\s@]+@[^\s@]+\.[^
 
 async function sendVerificationEmail(env, email, displayName, token) {
   if (!env.ZEPTOMAIL_API_KEY) throw new Error("Email service is not configured.");
-  const appOrigin = env.APP_ORIGIN || "https://dcsqbank.pages.dev";
+  const appOrigin = env.APP_ORIGIN || "https://dcs.qbanks.org";
   const link = `${appOrigin}/verify-email?token=${encodeURIComponent(token)}`;
   const apiUrl = env.ZEPTOMAIL_API_URL || "https://api.zeptomail.ca/v1.1/email";
   const fromAddress = env.EMAIL_FROM_ADDRESS || "noreply@qbanks.org";
@@ -145,7 +147,7 @@ async function sendVerificationEmail(env, email, displayName, token) {
 
 async function sendPasswordResetEmail(env, email, displayName, token) {
   if (!env.ZEPTOMAIL_API_KEY) throw new Error("Email service is not configured.");
-  const appOrigin = env.APP_ORIGIN || "https://dcsqbank.pages.dev";
+  const appOrigin = env.APP_ORIGIN || "https://dcs.qbanks.org";
   const link = `${appOrigin}/reset-password?token=${encodeURIComponent(token)}`;
   const apiUrl = env.ZEPTOMAIL_API_URL || "https://api.zeptomail.ca/v1.1/email";
   const fromAddress = env.EMAIL_FROM_ADDRESS || "noreply@qbanks.org";
@@ -299,6 +301,224 @@ async function createSession(db, userId) {
   await db.prepare("INSERT INTO sessions (id, user_id, session_hash, expires_at, created_at, last_seen_at) VALUES (?, ?, ?, ?, ?, ?)")
     .bind(id(), userId, await digest(raw), new Date(Date.now() + SESSION_DAYS * 86400000).toISOString(), timestamp, timestamp).run();
   return raw;
+}
+
+function getPayPalBaseUrl(env) {
+  const envType = (env.PAYPAL_ENVIRONMENT || "live").toLowerCase().trim();
+  return envType === "sandbox"
+    ? "https://api-m.sandbox.paypal.com"
+    : "https://api-m.paypal.com";
+}
+
+async function getPayPalAccessToken(env) {
+  const clientId = (env.PAYPAL_CLIENT_ID || "").trim();
+  const clientSecret = (env.PAYPAL_CLIENT_SECRET || "").trim();
+  if (!clientId || !clientSecret) {
+    throw new Error("PayPal is not fully configured. Both PAYPAL_CLIENT_ID and PAYPAL_CLIENT_SECRET are required in Cloudflare environment.");
+  }
+  const baseUrl = getPayPalBaseUrl(env);
+  const basicAuth = btoa(`${clientId}:${clientSecret}`);
+  const response = await fetch(`${baseUrl}/v1/oauth2/token`, {
+    method: "POST",
+    headers: {
+      Authorization: `Basic ${basicAuth}`,
+      "Content-Type": "application/x-www-form-urlencoded",
+      Accept: "application/json",
+    },
+    body: "grant_type=client_credentials",
+  });
+  if (!response.ok) {
+    const errText = await response.text();
+    console.error("PayPal OAuth failed:", response.status, errText);
+    let errMsg = `PayPal authentication failed (${response.status}).`;
+    try {
+      const parsed = JSON.parse(errText);
+      if (parsed.error_description) errMsg += ` ${parsed.error_description}`;
+    } catch {}
+    throw new Error(errMsg);
+  }
+  const data = await response.json();
+  return data.access_token;
+}
+
+async function createPayPalOrder(env, { amount, currency = "CAD", referenceId, donorEmail, donorName }) {
+  const token = await getPayPalAccessToken(env);
+  const baseUrl = getPayPalBaseUrl(env);
+  const amountStr = Number(amount).toFixed(2);
+
+  const payload = {
+    intent: "CAPTURE",
+    purchase_units: [
+      {
+        reference_id: referenceId,
+        description: "DCSQbank Community Supporter Donation",
+        amount: {
+          currency_code: currency,
+          value: amountStr,
+        },
+      },
+    ],
+    application_context: {
+      brand_name: "DCS QBank",
+      shipping_preference: "NO_SHIPPING",
+      user_action: "PAY_NOW",
+    },
+  };
+
+  if (donorEmail && validEmail(donorEmail)) {
+    payload.payer = {
+      email_address: donorEmail.trim().toLowerCase(),
+    };
+    if (donorName && typeof donorName === "string" && donorName.trim()) {
+      payload.payer.name = {
+        given_name: donorName.trim(),
+      };
+    }
+  }
+
+  const response = await fetch(`${baseUrl}/v2/checkout/orders`, {
+    method: "POST",
+    headers: {
+      Authorization: `Bearer ${token}`,
+      "Content-Type": "application/json",
+      Prefer: "return=representation",
+    },
+    body: JSON.stringify(payload),
+  });
+
+  if (!response.ok) {
+    const errText = await response.text();
+    console.error("PayPal Create Order failed:", response.status, errText);
+    let errorDetail = errText;
+    try {
+      const parsed = JSON.parse(errText);
+      if (parsed.details?.[0]?.description) errorDetail = parsed.details[0].description;
+      else if (parsed.message) errorDetail = parsed.message;
+    } catch {}
+    throw new Error(`Failed to create PayPal order: ${errorDetail}`);
+  }
+
+  return await response.json();
+}
+
+async function capturePayPalOrder(env, orderId) {
+  const token = await getPayPalAccessToken(env);
+  const baseUrl = getPayPalBaseUrl(env);
+
+  const response = await fetch(`${baseUrl}/v2/checkout/orders/${encodeURIComponent(orderId)}/capture`, {
+    method: "POST",
+    headers: {
+      Authorization: `Bearer ${token}`,
+      "Content-Type": "application/json",
+      Prefer: "return=representation",
+    },
+    body: "{}",
+  });
+
+  if (!response.ok) {
+    const errText = await response.text();
+    console.error("PayPal Capture Order failed:", response.status, errText);
+    let errorDetail = errText;
+    try {
+      const parsed = JSON.parse(errText);
+      if (parsed.details?.[0]?.description) errorDetail = parsed.details[0].description;
+      else if (parsed.message) errorDetail = parsed.message;
+    } catch {}
+    throw new Error(`Failed to capture PayPal order: ${errorDetail}`);
+  }
+
+  return await response.json();
+}
+
+async function sendDonationThankYouEmail(env, { email, name, amountMinor, currency, orderId, captureId }) {
+  if (!env.ZEPTOMAIL_API_KEY || !validEmail(email)) return false;
+  const apiUrl = env.ZEPTOMAIL_API_URL || "https://api.zeptomail.ca/v1.1/email";
+  const fromAddress = env.EMAIL_FROM_ADDRESS || "noreply@qbanks.org";
+  const fromName = env.EMAIL_FROM_NAME || "DCS QBank";
+  const rawKey = (env.ZEPTOMAIL_API_KEY || "").trim();
+  const cleanKey = rawKey.replace(/^Zoho-enczapikey\s+/i, "");
+
+  const safeName = (name || "Generous Supporter").trim();
+  const safeAmount = (amountMinor / 100).toFixed(2);
+  const safeCurrency = currency || "CAD";
+  const txnRef = captureId || orderId || "N/A";
+  const dateStr = new Date().toLocaleDateString("en-CA", {
+    year: "numeric",
+    month: "long",
+    day: "numeric",
+    timeZone: "UTC",
+  });
+
+  const thankYouHtml = `<!DOCTYPE html><html><body style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; line-height: 1.6; color: #1e293b; background-color: #f8fafc; margin: 0; padding: 24px;">
+<div style="max-width: 580px; margin: 0 auto; background: #ffffff; border-radius: 16px; border: 1px solid #e2e8f0; padding: 32px; box-shadow: 0 4px 6px -1px rgba(0,0,0,0.05);">
+  <div style="margin-bottom: 24px; border-bottom: 2px solid #0284c7; padding-bottom: 16px;">
+    <span style="font-size: 24px; font-weight: 800; color: #0284c7; letter-spacing: -0.5px;">DCSQbank</span>
+    <span style="font-size: 13px; font-weight: 600; color: #10b981; float: right; background: #ecfdf5; border: 1px solid #a7f3d0; padding: 4px 10px; border-radius: 9999px;">✓ Official Receipt</span>
+  </div>
+  <h2 style="font-size: 20px; font-weight: 700; color: #0f172a; margin-top: 0; margin-bottom: 12px;">Thank You for Your Generous Support! ❤️</h2>
+  <p style="margin-bottom: 16px;">Dear <strong>${safeName}</strong>,</p>
+  <p style="margin-bottom: 20px;">On behalf of the Humber College Diagnostic Cardiac Sonography student community and future cardiac sonographers across Canada, we extend our heartfelt gratitude for your contribution of <strong>$${safeAmount} ${safeCurrency}</strong>.</p>
+  <p style="margin-bottom: 24px;">Your generosity directly funds high-availability Cloudflare D1 database hosting, student verification emails, and ongoing question bank curation to keep DCSQbank <strong>100% free and ad-free</strong> for every learner.</p>
+  
+  <div style="background: #f8fafc; border: 1px solid #e2e8f0; border-radius: 12px; padding: 20px; margin: 24px 0;">
+    <h3 style="font-size: 13px; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px; color: #64748b; margin-top: 0; margin-bottom: 14px;">Contribution Receipt Details</h3>
+    <table style="width: 100%; border-collapse: collapse; font-size: 14px;">
+      <tr><td style="padding: 6px 0; color: #64748b;">Amount:</td><td style="text-align: right; font-weight: 800; color: #0284c7; font-size: 16px;">$${safeAmount} ${safeCurrency}</td></tr>
+      <tr><td style="padding: 6px 0; color: #64748b;">Transaction Reference:</td><td style="text-align: right; font-family: monospace; font-size: 13px; color: #334155;">${txnRef}</td></tr>
+      <tr><td style="padding: 6px 0; color: #64748b;">Date:</td><td style="text-align: right; color: #334155;">${dateStr} (UTC)</td></tr>
+      <tr><td style="padding: 6px 0; color: #64748b;">Payment Status:</td><td style="text-align: right; font-weight: 600; color: #10b981;">Completed</td></tr>
+    </table>
+  </div>
+
+  <p style="font-size: 14px; color: #475569; margin-bottom: 24px;">Every diagnostic case scenario and Sonography Canada & ARDMS review chapter on DCSQbank is built with care. Your support keeps this vital resource accessible to everyone.</p>
+
+  <hr style="border: none; border-top: 1px solid #e2e8f0; margin: 24px 0;" />
+  <p style="font-size: 12px; color: #94a3b8; margin: 0;">DCSQbank · Dedicated to Humber College Diagnostic Cardiac Sonography learners · <a href="mailto:dcsqbank@qbanks.org" style="color: #0284c7; text-decoration: none;">dcsqbank@qbanks.org</a></p>
+</div>
+</body></html>`;
+
+  try {
+    const res = await fetch(apiUrl, {
+      method: "POST",
+      headers: {
+        Accept: "application/json",
+        Authorization: `Zoho-enczapikey ${cleanKey}`,
+        "Content-Type": "application/json",
+      },
+      body: JSON.stringify({
+        from: { address: fromAddress, name: fromName },
+        to: [{ email_address: { address: email.trim().toLowerCase(), name: safeName } }],
+        subject: `Thank you for supporting DCSQbank! ($${safeAmount} ${safeCurrency})`,
+        htmlbody: thankYouHtml,
+      }),
+    });
+    if (!res.ok) {
+      console.warn("Failed to send thank-you email to donor:", res.status, await res.text());
+      return false;
+    }
+  } catch (err) {
+    console.warn("Error sending thank-you email:", err);
+    return false;
+  }
+
+  try {
+    await fetch(apiUrl, {
+      method: "POST",
+      headers: {
+        Accept: "application/json",
+        Authorization: `Zoho-enczapikey ${cleanKey}`,
+        "Content-Type": "application/json",
+      },
+      body: JSON.stringify({
+        from: { address: fromAddress, name: fromName },
+        to: [{ email_address: { address: "dcsqbank@qbanks.org", name: "DCSQbank Team" } }],
+        subject: `[DCSQbank Donation] New donation: $${safeAmount} ${safeCurrency} from ${safeName}`,
+        htmlbody: `<p>A new donation of <strong>$${safeAmount} ${safeCurrency}</strong> was completed by <strong>${safeName}</strong> (${email}). Transaction reference: ${txnRef}.</p>`,
+      }),
+    });
+  } catch {}
+
+  return true;
 }
 
 async function currentUser(request, env) {
@@ -538,6 +758,226 @@ export default {
         return json({
           ok: true,
           message: "Thank you! Your feedback has been received and our sonography team has been notified at dcsqbank@qbanks.org.",
+        }, 200, headers);
+      }
+
+      // --- PayPal Donation Endpoints ---
+
+      // 1. Get PayPal Configuration
+      if ((url.pathname === "/api/donations/config" || url.pathname === "/donations/config") && request.method === "GET") {
+        const isConfigured = Boolean(env.PAYPAL_CLIENT_ID && env.PAYPAL_CLIENT_SECRET);
+        return json({
+          configured: isConfigured,
+          clientId: env.PAYPAL_CLIENT_ID || "",
+          currency: env.PAYPAL_CURRENCY || "CAD",
+          environment: (env.PAYPAL_ENVIRONMENT || "live").toLowerCase(),
+        }, 200, headers);
+      }
+
+      // 2. Create PayPal Donation Order
+      if ((url.pathname === "/api/donations/create-order" || url.pathname === "/donations/create-order") && request.method === "POST") {
+        if (!env.PAYPAL_CLIENT_ID || !env.PAYPAL_CLIENT_SECRET) {
+          return json({
+            error: "PayPal donation service is not yet configured. Please set PAYPAL_CLIENT_ID and PAYPAL_CLIENT_SECRET in Cloudflare environment.",
+          }, 503, headers);
+        }
+
+        const input = await body(request);
+        const amount = Number(input.amount);
+        if (!amount || isNaN(amount) || amount < 1 || amount > 10000) {
+          return json({ error: "Please enter a valid donation amount between $1 and $10,000 CAD." }, 400, headers);
+        }
+
+        const currency = (input.currency || env.PAYPAL_CURRENCY || "CAD").toUpperCase();
+        const donorEmail = validEmail(input.donorEmail) ? input.donorEmail.trim().toLowerCase() : null;
+        const donorName = typeof input.donorName === "string" ? input.donorName.trim() : null;
+
+        const user = await currentUser(request, env);
+        const effectiveUserId = user ? user.id : null;
+        const effectiveEmail = donorEmail || (user ? user.email : null);
+        const effectiveName = donorName || (user ? user.display_name : null);
+
+        const donationId = id();
+        const timestamp = now();
+
+        const paypalOrder = await createPayPalOrder(env, {
+          amount,
+          currency,
+          referenceId: donationId,
+          donorEmail: effectiveEmail,
+          donorName: effectiveName,
+        });
+
+        const amountMinor = Math.round(amount * 100);
+        await env.DB.prepare(
+          "INSERT INTO donations (id, user_id, paypal_order_id, amount_minor, currency, status, donor_email, created_at, updated_at) VALUES (?, ?, ?, ?, ?, 'created', ?, ?, ?)"
+        ).bind(donationId, effectiveUserId, paypalOrder.id, amountMinor, currency, effectiveEmail, timestamp, timestamp).run();
+
+        return json({
+          ok: true,
+          orderId: paypalOrder.id,
+          donationId,
+          amount,
+          currency,
+        }, 201, headers);
+      }
+
+      // 3. Capture PayPal Donation Order
+      if ((url.pathname === "/api/donations/capture-order" || url.pathname === "/donations/capture-order") && request.method === "POST") {
+        if (!env.PAYPAL_CLIENT_ID || !env.PAYPAL_CLIENT_SECRET) {
+          return json({ error: "PayPal is not configured on this server." }, 503, headers);
+        }
+
+        const input = await body(request);
+        const orderId = typeof input.orderId === "string" ? input.orderId.trim() : "";
+        if (!orderId) {
+          return json({ error: "PayPal order ID is required to capture payment." }, 400, headers);
+        }
+
+        const captureResult = await capturePayPalOrder(env, orderId);
+        const captureUnit = captureResult.purchase_units?.[0];
+        const capturePayment = captureUnit?.payments?.captures?.[0];
+        const captureId = capturePayment?.id || null;
+        const captureValue = capturePayment?.amount?.value ? Number(capturePayment.amount.value) : null;
+        const captureCurrency = capturePayment?.amount?.currency_code || "CAD";
+        const payerEmail = captureResult.payer?.email_address || null;
+        const payerName = [captureResult.payer?.name?.given_name, captureResult.payer?.name?.surname].filter(Boolean).join(" ") || null;
+        const timestamp = now();
+
+        // Query existing donation by order ID
+        const existing = await env.DB.prepare("SELECT * FROM donations WHERE paypal_order_id = ?").bind(orderId).first();
+        const donationId = existing ? existing.id : id();
+        const amountMinor = captureValue ? Math.round(captureValue * 100) : (existing ? existing.amount_minor : 0);
+        const effectiveEmail = payerEmail || (existing ? existing.donor_email : null);
+        const alreadyThanked = Boolean(existing?.thank_you_sent_at);
+
+        if (existing) {
+          await env.DB.prepare(
+            "UPDATE donations SET paypal_capture_id = ?, status = 'completed', donor_email = COALESCE(?, donor_email), updated_at = ? WHERE id = ?"
+          ).bind(captureId, effectiveEmail, timestamp, existing.id).run();
+        } else {
+          const user = await currentUser(request, env);
+          await env.DB.prepare(
+            "INSERT INTO donations (id, user_id, paypal_order_id, paypal_capture_id, amount_minor, currency, status, donor_email, created_at, updated_at) VALUES (?, ?, ?, ?, ?, 'completed', ?, ?, ?)"
+          ).bind(donationId, user ? user.id : null, orderId, captureId, amountMinor, captureCurrency, effectiveEmail, timestamp, timestamp).run();
+        }
+
+        // Record immutable audit log
+        try {
+          await env.DB.prepare(
+            "INSERT INTO audit_logs (id, actor_user_id, action, target_type, target_id, metadata_json, created_at) VALUES (?, ?, 'donation_completed', 'donation', ?, ?, ?)"
+          ).bind(id(), existing?.user_id || null, donationId, JSON.stringify({ orderId, captureId, amountMinor, captureCurrency, payerEmail }), timestamp).run();
+        } catch (auditErr) {
+          console.warn("Audit log creation skipped:", auditErr);
+        }
+
+        // Send verified thank-you email (idempotent, single send)
+        let thankYouSent = alreadyThanked;
+        if (!alreadyThanked && effectiveEmail) {
+          try {
+            const sent = await sendDonationThankYouEmail(env, {
+              email: effectiveEmail,
+              name: payerName,
+              amountMinor,
+              currency: captureCurrency,
+              orderId,
+              captureId,
+            });
+            if (sent) {
+              await env.DB.prepare("UPDATE donations SET thank_you_sent_at = ? WHERE id = ?").bind(timestamp, donationId).run();
+              thankYouSent = true;
+            }
+          } catch (emailErr) {
+            console.warn("Thank you email dispatch error:", emailErr);
+          }
+        }
+
+        return json({
+          ok: true,
+          status: "completed",
+          orderId,
+          captureId,
+          amount: (amountMinor / 100).toFixed(2),
+          currency: captureCurrency,
+          donorEmail: effectiveEmail,
+          donorName: payerName,
+          thankYouSent,
+        }, 200, headers);
+      }
+
+      // 4. PayPal Webhook Handler (idempotent reconciliation)
+      if ((url.pathname === "/api/donations/webhook" || url.pathname === "/donations/webhook") && request.method === "POST") {
+        const event = await body(request);
+        const eventId = event.id;
+        const eventType = event.event_type;
+        if (!eventId || !eventType) {
+          return json({ error: "Invalid webhook payload." }, 400, headers);
+        }
+
+        // Idempotency check with paypal_webhook_events
+        const existingEvent = await env.DB.prepare("SELECT event_id FROM paypal_webhook_events WHERE event_id = ?").bind(eventId).first();
+        if (existingEvent) {
+          return json({ ok: true, ignored: true, message: "Webhook event already processed." }, 200, headers);
+        }
+
+        const payloadHash = await digest(JSON.stringify(event));
+        const timestamp = now();
+        await env.DB.prepare(
+          "INSERT INTO paypal_webhook_events (event_id, event_type, payload_hash, processed_at, created_at) VALUES (?, ?, ?, ?, ?)"
+        ).bind(eventId, eventType, payloadHash, timestamp, timestamp).run();
+
+        if (eventType === "PAYMENT.CAPTURE.COMPLETED") {
+          const capture = event.resource;
+          const captureId = capture?.id;
+          const orderId = capture?.supplementary_data?.related_ids?.order_id;
+          if (captureId || orderId) {
+            await env.DB.prepare(
+              "UPDATE donations SET status = 'completed', paypal_capture_id = COALESCE(?, paypal_capture_id), updated_at = ? WHERE paypal_order_id = ? OR paypal_capture_id = ?"
+            ).bind(captureId, timestamp, orderId || "", captureId || "").run();
+          }
+        } else if (eventType === "PAYMENT.CAPTURE.REFUNDED" || eventType === "PAYMENT.CAPTURE.REVERSED") {
+          const capture = event.resource;
+          const captureId = capture?.id;
+          if (captureId) {
+            await env.DB.prepare("UPDATE donations SET status = 'refunded', updated_at = ? WHERE paypal_capture_id = ?").bind(timestamp, captureId).run();
+          }
+        }
+
+        return json({ ok: true, processed: true }, 200, headers);
+      }
+
+      // 5. Donation Stats (Public community total)
+      if ((url.pathname === "/api/donations/stats" || url.pathname === "/donations/stats") && request.method === "GET") {
+        const stats = await env.DB.prepare(
+          "SELECT COUNT(*) AS total_donations, COALESCE(SUM(amount_minor), 0) AS total_minor FROM donations WHERE status = 'completed'"
+        ).first();
+        const count = stats ? Number(stats.total_donations) : 0;
+        const totalMinor = stats ? Number(stats.total_minor) : 0;
+        return json({
+          ok: true,
+          totalDonations: count,
+          totalAmountCad: (totalMinor / 100).toFixed(2),
+        }, 200, headers);
+      }
+
+      // 6. User Donation History (Authenticated)
+      if ((url.pathname === "/api/donations/my-donations" || url.pathname === "/donations/my-donations") && request.method === "GET") {
+        const user = await currentUser(request, env);
+        if (!user) return json({ error: "Not authenticated." }, 401, headers);
+        const rows = await env.DB.prepare(
+          "SELECT id, paypal_order_id, paypal_capture_id, amount_minor, currency, status, created_at FROM donations WHERE user_id = ? ORDER BY created_at DESC LIMIT 20"
+        ).bind(user.id).all();
+        return json({
+          ok: true,
+          donations: (rows.results || []).map((d) => ({
+            id: d.id,
+            orderId: d.paypal_order_id,
+            captureId: d.paypal_capture_id,
+            amount: (d.amount_minor / 100).toFixed(2),
+            currency: d.currency,
+            status: d.status,
+            createdAt: d.created_at,
+          })),
         }, 200, headers);
       }
 

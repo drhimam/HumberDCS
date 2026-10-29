@@ -64,8 +64,8 @@ and `build` as the output directory. Configure Node 20. Do not add auth,
 ZeptoMail, PayPal, or D1 credentials to frontend environment variables; those
 belong to the future Worker environment.
 
-The current Pages project is `dcsqbank` at
-`https://dcsqbank.pages.dev/`. The production D1 database is
+The current Pages project is `dcsqbank` with custom domain
+`https://dcs.qbanks.org/` (and fallback `https://dcsqbank.pages.dev/`). The production D1 database is
 `dcsqbank-production-db`; see [memory/CLOUDFLARE_DEPLOYMENT.md](memory/CLOUDFLARE_DEPLOYMENT.md)
 for resource details. The Worker/API is deployed with registration, email
 verification, login, session lookup, and logout routes.
@@ -99,6 +99,7 @@ The current backend is a template and requires `backend/.env` values such as `MO
 
 ## Documentation
 
+- [Content Authoring & Deployment Guide](CONTENT_AUTHORING_AND_DEPLOYMENT_GUIDE.md)
 - [Project memory](memory/PROJECT_MEMORY.md)
 - [Next steps](memory/NEXT_STEPS.md)
 - [QBank content maintenance guide](memory/QBANK_CONTENT_MAINTENANCE_GUIDE.md)

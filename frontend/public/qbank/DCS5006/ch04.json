@@ -1,5 +1,3606 @@
 {
   "chapterId": "ch04",
-  "title": "Ergonomics & Injury Prevention",
-  "questions": []
+  "title": "Module 4: Boundaries, Adverse Events & Ethical Decision-Making",
+  "questions": [
+    {
+      "id": "DCS5006-ch04-q001",
+      "stem": "A sonographer declines to discuss a patient's results with a coworker who is not involved in the patient's care. Which concept does this best illustrate?",
+      "image": null,
+      "options": [
+        "Privacy",
+        "Implied consent",
+        "Circle of care",
+        "Confidentiality"
+      ],
+      "answer": 3,
+      "explanation": "Confidentiality is the professional duty to protect information and share it only with authority; working in the same organization does not by itself give someone a reason to access information.",
+      "explanationImage": null,
+      "tags": [
+        "Review: Applying Privacy, Documentation and Consent"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch04-q002",
+      "stem": "For a cardiac echo appointment, who would generally be involved in the patient's circle of care?",
+      "image": null,
+      "options": [
+        "A nurse who is not involved in the patient's care",
+        "An insurer requesting results without authorization",
+        "A relative waiting in the hallway, absent permission",
+        "The cardiologist who ordered and will review the echo"
+      ],
+      "answer": 3,
+      "explanation": "The cardiologist who ordered and will review the echo has a clear care purpose; being nearby does not make someone part of this patient's care.",
+      "explanationImage": null,
+      "tags": [
+        "Review: Applying Privacy, Documentation and Consent"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch04-q003",
+      "stem": "Which documentation entry is most objective?",
+      "image": null,
+      "options": [
+        "\"Patient was anxious and uncooperative.\"",
+        "\"Patient had a bad attitude.\"",
+        "\"Patient reported feeling anxious, required two additional breaks to complete the study.\"",
+        "\"Difficult study.\""
+      ],
+      "answer": 2,
+      "explanation": "The entry records the patient's own report and the objective facts rather than labeling the person.",
+      "explanationImage": null,
+      "tags": [
+        "Review: Applying Privacy, Documentation and Consent"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch04-q004",
+      "stem": "A sonographer says to a patient, \"It'll just take a minute. Don't worry about it,\" without explaining what the echo involves. Which requirement of consent is most clearly missing?",
+      "image": null,
+      "options": [
+        "Informed consent",
+        "Voluntary consent",
+        "Written consent",
+        "Substitute consent"
+      ],
+      "answer": 0,
+      "explanation": "Without an explanation of what the examination involves, the consent is not informed — and an echo can take anywhere from thirty minutes to an hour.",
+      "explanationImage": null,
+      "tags": [
+        "Review: Applying Privacy, Documentation and Consent"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch04-q005",
+      "stem": "A patient says they are uncomfortable and asks to stop during an echo. What is the most appropriate response?",
+      "image": null,
+      "options": [
+        "Finish the current view before stopping",
+        "Explain why the remaining images are needed, then continue",
+        "Document the concern and continue",
+        "Stop scanning and attend to the patient's comfort and safety"
+      ],
+      "answer": 3,
+      "explanation": "Consent is ongoing — scanning stops immediately and comfort and safety are addressed.",
+      "explanationImage": null,
+      "tags": [
+        "Review: Applying Privacy, Documentation and Consent"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch04-q006",
+      "stem": "Which statement about consent forms is TRUE?",
+      "image": null,
+      "options": [
+        "A signature automatically establishes informed consent",
+        "A form replaces the need for explanation",
+        "A form prevents the patient from withdrawing consent",
+        "A signature alone does not show that every requirement for valid consent has been met"
+      ],
+      "answer": 3,
+      "explanation": "A form can record a decision, but it cannot replace the information and voluntary choice needed for that decision to be valid.",
+      "explanationImage": null,
+      "tags": [
+        "Review: Applying Privacy, Documentation and Consent"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch04-q007",
+      "stem": "A patient withdraws consent partway through an examination. What does this mean for the rest of the study?",
+      "image": null,
+      "options": [
+        "The patient's agreement at the start stands and the study must be completed",
+        "Only a physician may accept the withdrawal",
+        "Consent must be re-established for anything further — the patient can withdraw at any time",
+        "Withdrawal applies only to written consent"
+      ],
+      "answer": 2,
+      "explanation": "Consent continues throughout the examination, and a capable patient may refuse or withdraw at any time.",
+      "explanationImage": null,
+      "tags": [
+        "Review: Applying Privacy, Documentation and Consent"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch04-q008",
+      "stem": "Which action best reflects the duty of confidentiality in everyday practice?",
+      "image": null,
+      "options": [
+        "Discussing the case wherever there is space",
+        "Leaving a workstation unlocked for convenience",
+        "Moving a care conversation away from the public area before discussing findings",
+        "Sharing a case in a private group chat"
+      ],
+      "answer": 2,
+      "explanation": "Confidentiality applies whether information is spoken, written, displayed, or stored — so conversation location matters.",
+      "explanationImage": null,
+      "tags": [
+        "Review: Applying Privacy, Documentation and Consent"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch04-q009",
+      "stem": "A student removed the patient's name from an echo image before posting it, but the caption describes the patient's age, unit, and unusual finding. Why is this still a problem?",
+      "image": null,
+      "options": [
+        "Removing a name cannot make information anonymous when other details may identify the patient — and authorization is still required",
+        "Private groups are exempt from privacy rules",
+        "Only names are identifying",
+        "Educational use is automatically permitted"
+      ],
+      "answer": 0,
+      "explanation": "A combination of details may identify someone even after the name is removed, and de-identification is not authorization.",
+      "explanationImage": null,
+      "tags": [
+        "Review: Applying Privacy, Documentation and Consent"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch04-q010",
+      "stem": "Which documentation entry best distinguishes a patient report from an observation?",
+      "image": null,
+      "options": [
+        "\"The patient is dizzy and uncooperative.\"",
+        "\"Patient reports dizziness when sitting up.\"",
+        "\"Dizzy for no reason.\"",
+        "\"Probably dehydrated.\""
+      ],
+      "answer": 1,
+      "explanation": "Attribution to the patient's own report separates it from the practitioner's direct observations.",
+      "explanationImage": null,
+      "tags": [
+        "Review: Applying Privacy, Documentation and Consent"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch04-q011",
+      "stem": "What must happen if you realize you accessed a record without an authorized purpose?",
+      "image": null,
+      "options": [
+        "Delete the evidence and move on",
+        "Say nothing because no information was removed",
+        "Report it promptly through the organization's process — do not hide the event or alter records",
+        "Wait to see whether anyone notices"
+      ],
+      "answer": 2,
+      "explanation": "Unauthorized access must be reported; concealment or alteration of records compounds the problem.",
+      "explanationImage": null,
+      "tags": [
+        "Review: Applying Privacy, Documentation and Consent"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch04-q012",
+      "stem": "Which combination best represents what \"we bring from Part 1\" into ethical practice?",
+      "image": null,
+      "options": [
+        "Move quickly, document little, obtain a signature, and ignore refusals",
+        "Protect information, record facts, explain and respect consent, and remember that consent can be withdrawn",
+        "Share widely for teamwork, record opinions, and pressure gently",
+        "Diagnose independently and prescribe treatment"
+      ],
+      "answer": 1,
+      "explanation": "Confidentiality, honest documentation, valid consent, and the patient's ongoing right to withdraw anchor the rest of the module.",
+      "explanationImage": null,
+      "tags": [
+        "Review: Applying Privacy, Documentation and Consent"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch04-q013",
+      "stem": "What is the CMRITO's stated position on sexual abuse of patients?",
+      "image": null,
+      "options": [
+        "Case-by-case tolerance",
+        "Tolerance with an apology",
+        "Zero tolerance",
+        "No position exists"
+      ],
+      "answer": 2,
+      "explanation": "The CMRITO has zero tolerance for sexual abuse of patients.",
+      "explanationImage": null,
+      "tags": [
+        "Professional Boundaries and Sexual Abuse: Definitions and Practice"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch04-q014",
+      "stem": "Which statement best describes the legal definition of sexual abuse of a patient?",
+      "image": null,
+      "options": [
+        "It covers only physical relations",
+        "It covers sexual physical relations, sexual touching, and sexual behaviour or remarks directed toward a patient, with an exception for what is clinically appropriate to the service",
+        "It covers only physical contact",
+        "It covers only conduct outside the workplace"
+      ],
+      "answer": 1,
+      "explanation": "The definition includes relations, touching, and behaviour or remarks, except where the conduct is clinically appropriate to the service being provided.",
+      "explanationImage": null,
+      "tags": [
+        "Professional Boundaries and Sexual Abuse: Definitions and Practice"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch04-q015",
+      "stem": "Why does the definition of sexual abuse include remarks?",
+      "image": null,
+      "options": [
+        "One sexual remark can change how safe a patient feels in the room, even without physical contact",
+        "Remarks are easier to prove than actions",
+        "Only remarks matter legally",
+        "Remarks are covered only outside clinical settings"
+      ],
+      "answer": 0,
+      "explanation": "Words can cross a professional boundary even when no physical contact occurs.",
+      "explanationImage": null,
+      "tags": [
+        "Professional Boundaries and Sexual Abuse: Definitions and Practice"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch04-q016",
+      "stem": "What is the \"clinical exception\" to the definition of sexual abuse?",
+      "image": null,
+      "options": [
+        "Any touch a sonographer considers necessary is excluded",
+        "All clinical conduct is excluded",
+        "Only touch with consent is excluded",
+        "Touching, behaviour, or remarks that are clinically appropriate to the service are excluded"
+      ],
+      "answer": 3,
+      "explanation": "The exception applies only to conduct that is clinically appropriate to the service provided.",
+      "explanationImage": null,
+      "tags": [
+        "Professional Boundaries and Sexual Abuse: Definitions and Practice"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch04-q017",
+      "stem": "A sonographer touches a patient's chest during an echo without explaining why. Which statement is correct?",
+      "image": null,
+      "options": [
+        "Any touch during an echo is automatically appropriate",
+        "Explanation is unnecessary for routine contact",
+        "Necessary clinical contact still requires clear purpose, explanation, consent, and respectful technique",
+        "Consent is unnecessary for clinical contact"
+      ],
+      "answer": 2,
+      "explanation": "Calling something clinical does not automatically make it appropriate — purpose, explanation, consent, and technique all still apply.",
+      "explanationImage": null,
+      "tags": [
+        "Professional Boundaries and Sexual Abuse: Definitions and Practice"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch04-q018",
+      "stem": "Which example is clinically appropriate contact in a cardiac echo?",
+      "image": null,
+      "options": [
+        "A sonographer explains where the probe needs to go and why, and obtains agreement before placing it",
+        "Placing the probe anywhere without explanation",
+        "Contact the sonographer personally enjoys",
+        "Contact that the patient has not been told about"
+      ],
+      "answer": 0,
+      "explanation": "Explaining the required contact and its purpose, then obtaining agreement, keeps necessary touch within professional boundaries.",
+      "explanationImage": null,
+      "tags": [
+        "Professional Boundaries and Sexual Abuse: Definitions and Practice"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch04-q019",
+      "stem": "A patient becomes quiet and pulls their gown closed when the sonographer makes a sexual joke, and the sonographer replies, \"Relax, I'm only joking.\" What is the most professional response from a student observing this?",
+      "image": null,
+      "options": [
+        "Do not laugh along or treat the comment as harmless; support the patient, check whether they want to pause, and promptly involve the clinical supervisor through the appropriate process",
+        "Laugh to keep the atmosphere light",
+        "Say nothing because it was only a joke",
+        "Confront the sonographer loudly in front of the patient"
+      ],
+      "answer": 0,
+      "explanation": "A sexual remark is not harmless; the patient's safety and the proper reporting process come first, with facts recorded — not speculation.",
+      "explanationImage": null,
+      "tags": [
+        "Professional Boundaries and Sexual Abuse: Definitions and Practice"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch04-q020",
+      "stem": "Which statement about a sexual joke during an examination is correct?",
+      "image": null,
+      "options": [
+        "Jokes reduce anxiety and are always acceptable",
+        "Jokes are acceptable if the patient laughs",
+        "A sexual joke is not a clinical explanation — explaining where the probe needs to go and why serves the examination",
+        "Jokes are acceptable if no one else hears"
+      ],
+      "answer": 2,
+      "explanation": "Clinical communication serves the examination; sexual remarks do not, regardless of the patient's outward reaction.",
+      "explanationImage": null,
+      "tags": [
+        "Professional Boundaries and Sexual Abuse: Definitions and Practice"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch04-q021",
+      "stem": "During an echo, a touch occurs that the patient does not understand. What is the best response?",
+      "image": null,
+      "options": [
+        "Continue quickly to reduce awkwardness",
+        "Pause, ensure the patient is appropriately covered, clarify the purpose of the proposed contact, confirm permission, and seek the supervisor's guidance",
+        "Label the touch as appropriate because it was clinical",
+        "Ignore the patient's confusion"
+      ],
+      "answer": 1,
+      "explanation": "Pausing to explain, cover, confirm permission, and seek guidance both respects the patient and clarifies the conduct.",
+      "explanationImage": null,
+      "tags": [
+        "Professional Boundaries and Sexual Abuse: Definitions and Practice"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch04-q022",
+      "stem": "What is a useful sentence when a step of the examination needs to be clarified mid-scan?",
+      "image": null,
+      "options": [
+        "\"Hold still, this is normal.\"",
+        "\"Don't worry about it.\"",
+        "\"Let's pause so we can explain that step and check that you are comfortable.\"",
+        "\"You'll understand later.\""
+      ],
+      "answer": 2,
+      "explanation": "The sentence pauses the procedure, explains, and checks comfort — the three elements of a safe clarification.",
+      "explanationImage": null,
+      "tags": [
+        "Professional Boundaries and Sexual Abuse: Definitions and Practice"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch04-q023",
+      "stem": "Which statement about the patient's experience is TRUE?",
+      "image": null,
+      "options": [
+        "A patient can have a technically good echo and still leave feeling unsafe",
+        "Technical quality guarantees the patient felt safe",
+        "Patient feelings are irrelevant to the examination",
+        "Safety feelings only matter if a complaint follows"
+      ],
+      "answer": 0,
+      "explanation": "Professional conduct shapes how safe a patient feels, independently of image quality.",
+      "explanationImage": null,
+      "tags": [
+        "Professional Boundaries and Sexual Abuse: Definitions and Practice"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch04-q024",
+      "stem": "What is the guiding principle stated for professional attention during an examination?",
+      "image": null,
+      "options": [
+        "The patient should never have to wonder whether our attention is clinical or sexual",
+        "Patients should be told our personal opinions",
+        "Attention is a private matter for staff",
+        "Attention only matters during consent"
+      ],
+      "answer": 0,
+      "explanation": "The clinical purpose of attention must always be clear to the patient.",
+      "explanationImage": null,
+      "tags": [
+        "Professional Boundaries and Sexual Abuse: Definitions and Practice"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch04-q025",
+      "stem": "Which approach to explaining required exposure is most appropriate?",
+      "image": null,
+      "options": [
+        "Promise that nothing will be uncomfortable",
+        "Explain the required exposure and positioning honestly, use appropriate draping, and check comfort throughout",
+        "Avoid all explanation to save time",
+        "Promise that the examination will take only a minute"
+      ],
+      "answer": 1,
+      "explanation": "Honest explanation, draping, and ongoing comfort checks preserve dignity; an echo can take thirty minutes to an hour, so promises of speed and comfort must be avoided.",
+      "explanationImage": null,
+      "tags": [
+        "Professional Boundaries and Sexual Abuse: Definitions and Practice"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch04-q026",
+      "stem": "Which statement about a quiet patient is correct?",
+      "image": null,
+      "options": [
+        "Silence proves full understanding",
+        "Quiet patients never need explanation",
+        "Quiet patients should be scanned faster",
+        "A quiet patient may still have questions — check in if they look uncertain"
+      ],
+      "answer": 3,
+      "explanation": "Quietness does not establish understanding or comfort; checking in protects both.",
+      "explanationImage": null,
+      "tags": [
+        "Professional Boundaries and Sexual Abuse: Definitions and Practice"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch04-q027",
+      "stem": "What should be followed regarding chaperones and support?",
+      "image": null,
+      "options": [
+        "The sonographer's personal preference only",
+        "The site's chaperone and support processes",
+        "The patient's family's preference only",
+        "No process — chaperones are never relevant"
+      ],
+      "answer": 1,
+      "explanation": "Chaperone and support arrangements follow the site's established processes.",
+      "explanationImage": null,
+      "tags": [
+        "Professional Boundaries and Sexual Abuse: Definitions and Practice"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch04-q028",
+      "stem": "Which statement about boundaries is correct?",
+      "image": null,
+      "options": [
+        "Boundaries are unnecessary rules",
+        "Boundaries only apply to physicians",
+        "Boundaries protect both the patient and the practitioner and are part of safe care",
+        "Boundaries may be ignored when the patient is friendly"
+      ],
+      "answer": 2,
+      "explanation": "Clear professional boundaries are a component of safe, trusting care.",
+      "explanationImage": null,
+      "tags": [
+        "Professional Boundaries and Sexual Abuse: Definitions and Practice"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch04-q029",
+      "stem": "A sonographer uses excessive personal detail about their own life to comfort a patient. Which principle is at risk?",
+      "image": null,
+      "options": [
+        "Empathy has boundaries — excessive personal disclosure can blur the professional relationship",
+        "Justice",
+        "Nonmaleficence only",
+        "Nothing — personal disclosure always helps"
+      ],
+      "answer": 0,
+      "explanation": "Empathy notices emotion and responds without dismissing it, but it does not require excessive personal details or becoming the patient's counsellor.",
+      "explanationImage": null,
+      "tags": [
+        "Professional Boundaries and Sexual Abuse: Definitions and Practice"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch04-q030",
+      "stem": "Which conduct would VIOLATE a professional boundary?",
+      "image": null,
+      "options": [
+        "Making a sexually suggestive remark to a patient during positioning",
+        "Explaining the examination in plain language",
+        "Obtaining permission before contact",
+        "Offering a break during a long examination"
+      ],
+      "answer": 0,
+      "explanation": "Sexically suggestive behaviour or remarks directed toward a patient fall within the legal definition of sexual abuse.",
+      "explanationImage": null,
+      "tags": [
+        "Professional Boundaries and Sexual Abuse: Definitions and Practice"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch04-q031",
+      "stem": "Why must students introduce themselves honestly as students?",
+      "image": null,
+      "options": [
+        "Titles have no importance in consent",
+        "Only physicians need to be identified",
+        "Patients must understand who is doing what, and students must not claim credentials or abilities they do not have",
+        "Identification is required only for physicians"
+      ],
+      "answer": 2,
+      "explanation": "Honest identification — \"I'm a student working with your sonographer\" — supports valid consent and professional integrity.",
+      "explanationImage": null,
+      "tags": [
+        "Professional Boundaries and Sexual Abuse: Definitions and Practice"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch04-q032",
+      "stem": "Which student introduction script is most appropriate?",
+      "image": null,
+      "options": [
+        "\"I'm the cardiologist in training.\"",
+        "\"Don't worry, I know what I'm doing.\"",
+        "\"This will only take a minute.\"",
+        "\"I'm a student working with your sonographer. We use a probe and gel on your chest to take pictures of your heart. We may ask you to change position. We'll keep you covered as much as possible. Please tell us if you need to pause or want us to stop.\""
+      ],
+      "answer": 3,
+      "explanation": "The script honestly identifies the student, explains the procedure in plain language, addresses draping, and invites the patient to control the pace.",
+      "explanationImage": null,
+      "tags": [
+        "Professional Boundaries and Sexual Abuse: Definitions and Practice"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch04-q033",
+      "stem": "Which statement about a patient's control during the examination is TRUE?",
+      "image": null,
+      "options": [
+        "The patient may only stop if a physician agrees",
+        "The patient's control begins only after the study is complete",
+        "The patient's control ends once the probe is placed",
+        "The patient may pause or stop at any time, and this should be stated when the examination begins"
+      ],
+      "answer": 3,
+      "explanation": "Telling patients at the outset that they may pause or stop supports their autonomy throughout the examination.",
+      "explanationImage": null,
+      "tags": [
+        "Professional Boundaries and Sexual Abuse: Definitions and Practice"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch04-q034",
+      "stem": "Which statement captures the relationship between clinical purpose and professional conduct?",
+      "image": null,
+      "options": [
+        "Every action during the examination should be explainable by its clinical purpose",
+        "Clinical purpose is irrelevant to conduct",
+        "Conduct only matters when a complaint is made",
+        "Only the outcome matters, not the conduct"
+      ],
+      "answer": 0,
+      "explanation": "If an action cannot be justified by its clinical purpose, it cannot be defended as professional conduct.",
+      "explanationImage": null,
+      "tags": [
+        "Professional Boundaries and Sexual Abuse: Definitions and Practice"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch04-q035",
+      "stem": "What is a reprimand?",
+      "image": null,
+      "options": [
+        "A period of suspension",
+        "Removal of registration",
+        "A financial payment",
+        "A formal statement of disapproval"
+      ],
+      "answer": 3,
+      "explanation": "A reprimand is a formal statement of professional disapproval recorded by the regulator.",
+      "explanationImage": null,
+      "tags": [
+        "Findings, Consequences and the College's Process"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch04-q036",
+      "stem": "What does a suspension mean for a registrant?",
+      "image": null,
+      "options": [
+        "The registrant practises with extra supervision only",
+        "The registrant's registration is permanently removed",
+        "The registrant cannot practise for a period of time",
+        "The registrant must pay a fine and continue practising"
+      ],
+      "answer": 2,
+      "explanation": "A suspension prohibits practice for the specified period.",
+      "explanationImage": null,
+      "tags": [
+        "Findings, Consequences and the College's Process"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch04-q037",
+      "stem": "What does revocation of registration mean?",
+      "image": null,
+      "options": [
+        "The registrant is placed on probation",
+        "The registrant receives additional education",
+        "The registration is taken away",
+        "The registrant is reprimanded publicly"
+      ],
+      "answer": 2,
+      "explanation": "Revocation removes the certificate of registration.",
+      "explanationImage": null,
+      "tags": [
+        "Findings, Consequences and the College's Process"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch04-q038",
+      "stem": "Which statement about published discipline findings is correct?",
+      "image": null,
+      "options": [
+        "Discipline findings are published",
+        "Discipline findings are always kept private",
+        "Only findings involving physicians are published",
+        "Publication requires the patient's consent"
+      ],
+      "answer": 0,
+      "explanation": "Disciplinary findings are published as part of the regulator's public-protection function.",
+      "explanationImage": null,
+      "tags": [
+        "Findings, Consequences and the College's Process"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch04-q039",
+      "stem": "Which statement about penalties for sexual abuse findings is correct?",
+      "image": null,
+      "options": [
+        "Penalties are always discretionary",
+        "Penalties never apply to sexual abuse",
+        "Penalties are decided by the employer only",
+        "Some sexual abuse findings carry mandatory penalties"
+      ],
+      "answer": 3,
+      "explanation": "Certain sexual abuse findings carry mandatory penalties under the legislation.",
+      "explanationImage": null,
+      "tags": [
+        "Findings, Consequences and the College's Process"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch04-q040",
+      "stem": "After a professional conduct finding, which additional processes may follow?",
+      "image": null,
+      "options": [
+        "No other process can ever follow",
+        "Separate employment or criminal processes may follow — one process does not automatically tell us the result of another",
+        "Only the criminal process may follow",
+        "Only the employment process may follow"
+      ],
+      "answer": 1,
+      "explanation": "Regulatory, employment, and criminal processes are distinct; the outcome of one does not determine the others.",
+      "explanationImage": null,
+      "tags": [
+        "Findings, Consequences and the College's Process"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch04-q041",
+      "stem": "What is the difference between an allegation and a finding?",
+      "image": null,
+      "options": [
+        "They are identical",
+        "A finding is weaker than an allegation",
+        "An allegation is proven, a finding is not",
+        "An allegation is someone's account; a finding is a decision made after review"
+      ],
+      "answer": 3,
+      "explanation": "An allegation has not been established; a finding results from formal review.",
+      "explanationImage": null,
+      "tags": [
+        "Findings, Consequences and the College's Process"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch04-q042",
+      "stem": "Which statement about a charge and a finding of guilt is correct?",
+      "image": null,
+      "options": [
+        "A charge automatically proves guilt",
+        "A finding of guilt precedes a charge",
+        "A charge is not a finding of guilt",
+        "Charges and findings are the same stage"
+      ],
+      "answer": 2,
+      "explanation": "Being charged is an allegation proceeding through a process, not an established outcome.",
+      "explanationImage": null,
+      "tags": [
+        "Findings, Consequences and the College's Process"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch04-q043",
+      "stem": "Which sequence correctly describes the stages of the College's process?",
+      "image": null,
+      "options": [
+        "Finding → complaint → referral",
+        "Referral → finding → complaint",
+        "Complaint → referral → finding, each a distinct stage",
+        "The three terms are interchangeable"
+      ],
+      "answer": 2,
+      "explanation": "A complaint, a referral, and a finding are different stages and should not be used interchangeably.",
+      "explanationImage": null,
+      "tags": [
+        "Findings, Consequences and the College's Process"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch04-q044",
+      "stem": "At a discipline hearing, which statement is correct?",
+      "image": null,
+      "options": [
+        "The patient is always the plaintiff",
+        "The College and the registrant are the parties; a complainant may be a witness; the panel considers the evidence before making findings",
+        "The employer decides the outcome",
+        "No evidence is considered"
+      ],
+      "answer": 1,
+      "explanation": "The hearing structure has defined parties and an evidence-based decision by the panel.",
+      "explanationImage": null,
+      "tags": [
+        "Findings, Consequences and the College's Process"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch04-q045",
+      "stem": "What is the College's overriding role?",
+      "image": null,
+      "options": [
+        "To protect registrants from complaints",
+        "To increase departmental efficiency",
+        "To represent patients in court",
+        "To protect the public"
+      ],
+      "answer": 3,
+      "explanation": "The regulator's decisions serve public protection.",
+      "explanationImage": null,
+      "tags": [
+        "Findings, Consequences and the College's Process"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch04-q046",
+      "stem": "Which statement about the College's decision-making is correct?",
+      "image": null,
+      "options": [
+        "The College reviews evidence, decides whether a concern should proceed, and makes decisions when a finding is established — it does not decide an outcome merely because a complaint was made",
+        "Every complaint automatically results in a finding",
+        "Findings are made without evidence review",
+        "The College decides outcomes based on public opinion"
+      ],
+      "answer": 0,
+      "explanation": "The existence of a complaint does not itself establish anything; evidence and process determine the outcome.",
+      "explanationImage": null,
+      "tags": [
+        "Findings, Consequences and the College's Process"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch04-q047",
+      "stem": "What does \"reasonable grounds to believe\" mean in the reporting duty?",
+      "image": null,
+      "options": [
+        "Absolute certainty is required",
+        "A vague feeling is sufficient",
+        "A criminal conviction is required",
+        "A reasonable person with the same information would conclude that the abuse likely occurred"
+      ],
+      "answer": 3,
+      "explanation": "Reasonable grounds is a professional judgement based on the information available — not certainty.",
+      "explanationImage": null,
+      "tags": [
+        "Reporting Suspected Sexual Abuse under the RHPA"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch04-q048",
+      "stem": "Which statement about the reporting judgement is correct?",
+      "image": null,
+      "options": [
+        "It requires proof beyond a reasonable doubt",
+        "It requires a written legal opinion",
+        "It is not required until a complaint is filed",
+        "It is a professional judgement based on facts and observations, not certainty"
+      ],
+      "answer": 3,
+      "explanation": "The duty is triggered by reasonable professional judgement, not by certainty or proof.",
+      "explanationImage": null,
+      "tags": [
+        "Reporting Suspected Sexual Abuse under the RHPA"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch04-q049",
+      "stem": "Who has the legal duty to report suspected sexual abuse by a regulated professional?",
+      "image": null,
+      "options": [
+        "Only hospital managers",
+        "Only patients",
+        "A registrant who obtains reasonable grounds during professional practice",
+        "Only police officers"
+      ],
+      "answer": 2,
+      "explanation": "The reporting duty applies to registrants based on grounds obtained during professional practice.",
+      "explanationImage": null,
+      "tags": [
+        "Reporting Suspected Sexual Abuse under the RHPA"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch04-q050",
+      "stem": "To whom must suspected sexual abuse by a regulated professional be reported?",
+      "image": null,
+      "options": [
+        "The alleged professional's College",
+        "The local police service only",
+        "The employer's social committee",
+        "The patient's family"
+      ],
+      "answer": 0,
+      "explanation": "The report goes to the regulator of the alleged professional.",
+      "explanationImage": null,
+      "tags": [
+        "Reporting Suspected Sexual Abuse under the RHPA"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch04-q051",
+      "stem": "What is the usual deadline for reporting suspected sexual abuse?",
+      "image": null,
+      "options": [
+        "30 hours",
+        "30 weeks",
+        "30 days",
+        "There is no deadline"
+      ],
+      "answer": 2,
+      "explanation": "The usual deadline for the registrant's report is 30 days.",
+      "explanationImage": null,
+      "tags": [
+        "Reporting Suspected Sexual Abuse under the RHPA"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch04-q052",
+      "stem": "When must the report be made immediately instead of within 30 days?",
+      "image": null,
+      "options": [
+        "When the report is convenient to make",
+        "When a lawyer approves the report",
+        "Only on weekdays",
+        "When there are reasonable grounds to believe the professional will continue abusing that patient or others, or that there is an urgent need for intervention"
+      ],
+      "answer": 3,
+      "explanation": "Continuing risk or urgent need for intervention requires immediate reporting.",
+      "explanationImage": null,
+      "tags": [
+        "Reporting Suspected Sexual Abuse under the RHPA"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch04-q053",
+      "stem": "What is required before the patient's NAME may be included in a sexual-abuse report?",
+      "image": null,
+      "options": [
+        "Verbal permission from a relative",
+        "The patient's written consent",
+        "The alleged professional's agreement",
+        "Nothing — names may always be included"
+      ],
+      "answer": 1,
+      "explanation": "Without the patient's written consent, the report is made without the patient's name.",
+      "explanationImage": null,
+      "tags": [
+        "Reporting Suspected Sexual Abuse under the RHPA"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch04-q054",
+      "stem": "Which statement is correct about reporting without the patient's name?",
+      "image": null,
+      "options": [
+        "Without a name, no report may be made",
+        "The duty ends if the name cannot be shared",
+        "Only named reports are valid",
+        "Not sharing the patient's name is different from making no report — a report is still required"
+      ],
+      "answer": 3,
+      "explanation": "The duty is to report; the patient's name is included only with written consent.",
+      "explanationImage": null,
+      "tags": [
+        "Reporting Suspected Sexual Abuse under the RHPA"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch04-q055",
+      "stem": "A patient asks the sonographer to promise not to tell anyone about the abuse they describe. What is the correct response?",
+      "image": null,
+      "options": [
+        "Promise secrecy to gain the patient's trust",
+        "Explain that you cannot promise absolute secrecy, because there is a legal duty to use the applicable reporting process",
+        "Break the promise immediately without explanation",
+        "Ignore the disclosure"
+      ],
+      "answer": 1,
+      "explanation": "You must use the applicable reporting process rather than promise absolute secrecy.",
+      "explanationImage": null,
+      "tags": [
+        "Reporting Suspected Sexual Abuse under the RHPA"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch04-q056",
+      "stem": "Must a criminal conviction occur before the reporting duty applies?",
+      "image": null,
+      "options": [
+        "Yes — only convicted professionals are reportable",
+        "No — do not wait for a criminal conviction",
+        "Yes — reporting requires charges to be laid",
+        "Yes — reporting requires a court date"
+      ],
+      "answer": 1,
+      "explanation": "The duty arises on reasonable grounds; waiting for a conviction is not required.",
+      "explanationImage": null,
+      "tags": [
+        "Reporting Suspected Sexual Abuse under the RHPA"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch04-q057",
+      "stem": "What is the consequence of failing to make a legally required report?",
+      "image": null,
+      "options": [
+        "No consequence exists",
+        "Only an informal warning applies",
+        "Penalties apply only to patients",
+        "It can itself lead to penalties — reporting is part of professional responsibility, not an optional courtesy"
+      ],
+      "answer": 3,
+      "explanation": "Failure to report a required matter carries its own professional and legal consequences.",
+      "explanationImage": null,
+      "tags": [
+        "Reporting Suspected Sexual Abuse under the RHPA"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch04-q058",
+      "stem": "A student obtains reasonable grounds to believe a regulated professional has sexually abused a patient. What should the student do?",
+      "image": null,
+      "options": [
+        "Make the registrant's report personally under the RHPA",
+        "Do nothing until graduation",
+        "Post about it in a study group",
+        "Promptly involve the clinical supervisor and obtain guidance — this differs from a registrant's personal legal duty"
+      ],
+      "answer": 3,
+      "explanation": "The student's immediate step is supervisor involvement; the statutory duty applies to registrants.",
+      "explanationImage": null,
+      "tags": [
+        "Reporting Suspected Sexual Abuse under the RHPA"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch04-q059",
+      "stem": "Which statement about gathering grounds is correct?",
+      "image": null,
+      "options": [
+        "Record only conclusions",
+        "Investigate the colleague personally",
+        "Describe the facts and observations — do not draw legal conclusions",
+        "Gather opinions from other staff"
+      ],
+      "answer": 2,
+      "explanation": "Facts and observations support the report; conclusions and personal investigations do not.",
+      "explanationImage": null,
+      "tags": [
+        "Reporting Suspected Sexual Abuse under the RHPA"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch04-q060",
+      "stem": "What should a sonographer do if a colleague is the subject of the concern?",
+      "image": null,
+      "options": [
+        "Conduct a private investigation first",
+        "Gossip with coworkers to gather information",
+        "Do not personally investigate; report through the applicable process and record facts and observations",
+        "Wait for the colleague to confess"
+      ],
+      "answer": 2,
+      "explanation": "Investigation is not the reporter's role; the proper process handles the concern.",
+      "explanationImage": null,
+      "tags": [
+        "Reporting Suspected Sexual Abuse under the RHPA"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch04-q061",
+      "stem": "A learner says, \"I will tell a supervisor quietly and consider the matter handled.\" What is the best correction?",
+      "image": null,
+      "options": [
+        "The learner is entirely correct",
+        "Telling a supervisor does not replace the personal duty where a legal duty applies — the applicable reporting process must be used",
+        "Supervisors handle everything automatically",
+        "Reporting is optional when a supervisor is told"
+      ],
+      "answer": 1,
+      "explanation": "Supervisory notification does not discharge a personal legal reporting duty.",
+      "explanationImage": null,
+      "tags": [
+        "Reporting Suspected Sexual Abuse under the RHPA"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch04-q062",
+      "stem": "Which statement about gossip is correct?",
+      "image": null,
+      "options": [
+        "Gossip spreads awareness appropriately",
+        "Gossip substitutes for a formal report",
+        "Gossip protects the patient",
+        "Gossiping with coworkers does none of the protective things that reporting does"
+      ],
+      "answer": 3,
+      "explanation": "Only the formal process protects the patient and triggers review.",
+      "explanationImage": null,
+      "tags": [
+        "Reporting Suspected Sexual Abuse under the RHPA"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch04-q063",
+      "stem": "When more than one set of reporting rules may apply to one concern, what is correct?",
+      "image": null,
+      "options": [
+        "Choose only one rule and ignore the rest",
+        "Wait until only one rule remains",
+        "Ask the patient which rule to use",
+        "Use the applicable reporting process for each duty — and seeking advice must not delay required reporting"
+      ],
+      "answer": 3,
+      "explanation": "Multiple duties can coexist; each applicable process must be used without delaying a required report.",
+      "explanationImage": null,
+      "tags": [
+        "Reporting Suspected Sexual Abuse under the RHPA"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch04-q064",
+      "stem": "Which set best summarizes the sexual-abuse reporting duty?",
+      "image": null,
+      "options": [
+        "Anyone, any feeling, to the police, within one year",
+        "Registrant, reasonable grounds during practice, to the College, usually within 30 days — immediately if continuing risk or urgent intervention is indicated",
+        "Patients only, to the employer, within one week",
+        "Students only, to the school, within one semester"
+      ],
+      "answer": 1,
+      "explanation": "The duty's who, threshold, recipient, and timelines match the first option.",
+      "explanationImage": null,
+      "tags": [
+        "Reporting Suspected Sexual Abuse under the RHPA"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch04-q065",
+      "stem": "What threshold triggers the child protection reporting duty?",
+      "image": null,
+      "options": [
+        "Certainty that abuse occurred",
+        "A physician's written order",
+        "The child's request for a report",
+        "Reasonable grounds to suspect that a child under 16 needs protection"
+      ],
+      "answer": 3,
+      "explanation": "The duty is triggered by reasonable grounds to suspect — you do not have to prove abuse before calling.",
+      "explanationImage": null,
+      "tags": [
+        "Child Protection under the CYFSA"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch04-q066",
+      "stem": "To whom must a child protection report be made?",
+      "image": null,
+      "options": [
+        "A Children's Aid Society",
+        "The child's teacher",
+        "The patient's College",
+        "The employer's manager only"
+      ],
+      "answer": 0,
+      "explanation": "Reports of suspected child protection needs go to a Children's Aid Society.",
+      "explanationImage": null,
+      "tags": [
+        "Child Protection under the CYFSA"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch04-q067",
+      "stem": "How quickly must a child protection report be made?",
+      "image": null,
+      "options": [
+        "Within 30 days",
+        "Directly and immediately",
+        "At the end of the shift",
+        "After a supervisor approves"
+      ],
+      "answer": 1,
+      "explanation": "Child protection reports are made directly and without delay.",
+      "explanationImage": null,
+      "tags": [
+        "Child Protection under the CYFSA"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch04-q068",
+      "stem": "A child discloses abuse during an echo. What should you say first?",
+      "image": null,
+      "options": [
+        "\"Are you sure that happened?\"",
+        "\"Thank you for telling me. I need to get help to keep you safe.\"",
+        "\"I won't tell anyone.\"",
+        "\"Let's find out together who is responsible.\""
+      ],
+      "answer": 1,
+      "explanation": "The response thanks the child, avoids leading questions, and signals that help will be sought.",
+      "explanationImage": null,
+      "tags": [
+        "Child Protection under the CYFSA"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch04-q069",
+      "stem": "When gathering information from a disclosing child, what must be avoided?",
+      "image": null,
+      "options": [
+        "Listening calmly",
+        "Recording the child's own words",
+        "Suggesting answers or conducting your own investigation",
+        "Involving qualified help"
+      ],
+      "answer": 2,
+      "explanation": "Interviews are conducted by qualified investigators; your role is to listen, record, and report.",
+      "explanationImage": null,
+      "tags": [
+        "Child Protection under the CYFSA"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch04-q070",
+      "stem": "How should a child's disclosure be documented?",
+      "image": null,
+      "options": [
+        "Record the child's words accurately and describe relevant observations",
+        "Record your interpretation of events",
+        "Record only your conclusions",
+        "Do not record anything"
+      ],
+      "answer": 0,
+      "explanation": "The child's own words and objective observations are what the record should contain.",
+      "explanationImage": null,
+      "tags": [
+        "Child Protection under the CYFSA"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch04-q071",
+      "stem": "What is the child protection duty for a 16- or 17-year-old?",
+      "image": null,
+      "options": [
+        "No report should ever be made",
+        "Reporting is optional in all cases",
+        "The rule applies identically to all ages",
+        "The mandatory reporting rule does not apply in the same way, but a report should still be made"
+      ],
+      "answer": 3,
+      "explanation": "For 16- and 17-year-olds the same mandatory rule does not apply, though making a report is still advised.",
+      "explanationImage": null,
+      "tags": [
+        "Child Protection under the CYFSA"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch04-q072",
+      "stem": "Who does the child protection duty apply to?",
+      "image": null,
+      "options": [
+        "Only regulated professionals",
+        "Only people on shift",
+        "Everyone — it is a personal duty that also applies outside of work",
+        "Only hospital staff"
+      ],
+      "answer": 2,
+      "explanation": "The duty is personal; you do not have to be on shift to have a responsibility to report.",
+      "explanationImage": null,
+      "tags": [
+        "Child Protection under the CYFSA"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch04-q073",
+      "stem": "What protection exists for a person who makes a child protection report?",
+      "image": null,
+      "options": [
+        "No protection exists",
+        "The law protects the reporter unless they acted maliciously or without reasonable grounds",
+        "Protection applies only to physicians",
+        "Protection requires a lawyer's approval"
+      ],
+      "answer": 1,
+      "explanation": "Reporting in good faith with reasonable grounds is legally protected.",
+      "explanationImage": null,
+      "tags": [
+        "Child Protection under the CYFSA"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch04-q074",
+      "stem": "Which statement about a child protection duty and a supervisor is correct?",
+      "image": null,
+      "options": [
+        "Involving your supervisor is appropriate, but it does not hand over your personal duty",
+        "Telling a supervisor fully replaces the duty",
+        "Only supervisors may report",
+        "Reporting waits for the supervisor's decision"
+      ],
+      "answer": 0,
+      "explanation": "Supervisor involvement supports you, but the personal duty to report remains.",
+      "explanationImage": null,
+      "tags": [
+        "Child Protection under the CYFSA"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch04-q075",
+      "stem": "How does the child protection duty differ from the sexual-abuse reporting duty under the RHPA?",
+      "image": null,
+      "options": [
+        "They are identical duties",
+        "The RHPA duty applies to everyone; child protection applies only to registrants",
+        "Neither duty has defined recipients",
+        "Child protection applies to everyone and reports go to a Children's Aid Society; the RHPA duty applies to registrants and reports go to the alleged professional's College"
+      ],
+      "answer": 3,
+      "explanation": "The two duties differ in who must report, the threshold, and the recipient agency.",
+      "explanationImage": null,
+      "tags": [
+        "Child Protection under the CYFSA"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch04-q076",
+      "stem": "You are unsure whether a situation meets the child protection threshold. What should you do?",
+      "image": null,
+      "options": [
+        "Do nothing until you are certain",
+        "Wait for a colleague's opinion only",
+        "Assume the family will handle it",
+        "Contact a Children's Aid Society for guidance — do not let uncertainty delay a required report"
+      ],
+      "answer": 3,
+      "explanation": "Guidance can be sought, but uncertainty is not a reason to delay reporting when grounds exist.",
+      "explanationImage": null,
+      "tags": [
+        "Child Protection under the CYFSA"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch04-q077",
+      "stem": "Which statement about proving abuse is correct?",
+      "image": null,
+      "options": [
+        "You do not have to prove abuse before calling — reasonable grounds to suspect is the threshold",
+        "Proof beyond a reasonable doubt is required",
+        "A court decision is required first",
+        "A physician's certification is required first"
+      ],
+      "answer": 0,
+      "explanation": "The reporting threshold is suspicion on reasonable grounds, not proof.",
+      "explanationImage": null,
+      "tags": [
+        "Child Protection under the CYFSA"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch04-q078",
+      "stem": "New information comes to light after an initial child protection report. What may be required?",
+      "image": null,
+      "options": [
+        "Nothing further",
+        "Another report",
+        "Retraction of the first report",
+        "A written apology"
+      ],
+      "answer": 1,
+      "explanation": "New information may require an additional report to the Children's Aid Society.",
+      "explanationImage": null,
+      "tags": [
+        "Child Protection under the CYFSA"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch04-q079",
+      "stem": "What is an adverse event?",
+      "image": null,
+      "options": [
+        "Any event in a hospital",
+        "An event that results in harm connected with care",
+        "An event intercepted before reaching the patient",
+        "An event involving only paperwork"
+      ],
+      "answer": 1,
+      "explanation": "An adverse event is one that results in harm connected with the care provided.",
+      "explanationImage": null,
+      "tags": [
+        "Adverse Events, Negligence and Misconduct"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch04-q080",
+      "stem": "What is a near miss?",
+      "image": null,
+      "options": [
+        "An event that could have caused harm but did not",
+        "An event that caused minor harm",
+        "An event that was never noticed",
+        "An event requiring no review"
+      ],
+      "answer": 0,
+      "explanation": "A near miss could have caused harm but was intercepted or otherwise did not.",
+      "explanationImage": null,
+      "tags": [
+        "Adverse Events, Negligence and Misconduct"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch04-q081",
+      "stem": "Which statement about reviewing events is correct?",
+      "image": null,
+      "options": [
+        "Only adverse events are reviewed",
+        "Both adverse events and near misses may require review under workplace processes",
+        "Only events with lawsuits are reviewed",
+        "Near misses never require review"
+      ],
+      "answer": 1,
+      "explanation": "Both categories reveal safety information and may require organizational review.",
+      "explanationImage": null,
+      "tags": [
+        "Adverse Events, Negligence and Misconduct"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch04-q082",
+      "stem": "What is the FIRST priority after an adverse event?",
+      "image": null,
+      "options": [
+        "Focus on the patient and their immediate needs",
+        "Complete the paperwork",
+        "Identify who is to blame",
+        "Notify the media"
+      ],
+      "answer": 0,
+      "explanation": "Patient focus and immediate safety come first; documentation and reporting follow.",
+      "explanationImage": null,
+      "tags": [
+        "Adverse Events, Negligence and Misconduct"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch04-q083",
+      "stem": "Which set best matches the steps after an adverse event?",
+      "image": null,
+      "options": [
+        "Focus on the patient, notify the appropriate people, document honestly, and follow the organization's disclosure process",
+        "Blame, conceal, delay, deny",
+        "Ignore, resume, forget, repeat",
+        "Wait, wonder, worry, withhold"
+      ],
+      "answer": 0,
+      "explanation": "These are the taught response steps for adverse events.",
+      "explanationImage": null,
+      "tags": [
+        "Adverse Events, Negligence and Misconduct"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch04-q084",
+      "stem": "What must be avoided immediately after an event when facts are not yet known?",
+      "image": null,
+      "options": [
+        "Notifying the supervisor",
+        "Inventing a cause or making promises before the facts are known",
+        "Documenting the observation",
+        "Providing patient care"
+      ],
+      "answer": 1,
+      "explanation": "Speculation and unsupported promises undermine the disclosure process.",
+      "explanationImage": null,
+      "tags": [
+        "Adverse Events, Negligence and Misconduct"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch04-q085",
+      "stem": "A student is involved in an event. What should they do promptly?",
+      "image": null,
+      "options": [
+        "Manage the disclosure alone",
+        "Wait to see the outcome",
+        "Post about it for support",
+        "Contact their supervisor promptly"
+      ],
+      "answer": 3,
+      "explanation": "Students promptly involve their supervisor rather than managing serious situations alone.",
+      "explanationImage": null,
+      "tags": [
+        "Adverse Events, Negligence and Misconduct"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch04-q086",
+      "stem": "Why is a near miss still reported?",
+      "image": null,
+      "options": [
+        "A patient avoiding injury does not erase a safety concern",
+        "Reporting near misses is optional",
+        "Near misses are only statistical events",
+        "Reporting near misses creates blame"
+      ],
+      "answer": 0,
+      "explanation": "Near misses reveal problems that could harm someone in the future.",
+      "explanationImage": null,
+      "tags": [
+        "Adverse Events, Negligence and Misconduct"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch04-q087",
+      "stem": "Which element is NOT one of the four elements of negligence?",
+      "image": null,
+      "options": [
+        "A duty of care existed",
+        "The practitioner's personal opinion about the outcome",
+        "Care fell below the required standard",
+        "Harm occurred"
+      ],
+      "answer": 1,
+      "explanation": "The four elements are duty of care, care below the required standard, harm, and causation.",
+      "explanationImage": null,
+      "tags": [
+        "Adverse Events, Negligence and Misconduct"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch04-q088",
+      "stem": "What is the fourth element of negligence, after duty, standard, and harm?",
+      "image": null,
+      "options": [
+        "The patient complained",
+        "A lawyer was retained",
+        "The breach caused the harm",
+        "The event was published"
+      ],
+      "answer": 2,
+      "explanation": "Negligence requires a causal link between the breach and the harm.",
+      "explanationImage": null,
+      "tags": [
+        "Adverse Events, Negligence and Misconduct"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch04-q089",
+      "stem": "What standard of care does negligence law use?",
+      "image": null,
+      "options": [
+        "Perfection in every case",
+        "The practitioner's personal best",
+        "Zero mistakes ever",
+        "Reasonable professional care, not perfection"
+      ],
+      "answer": 3,
+      "explanation": "The expected standard is reasonable professional care — not perfection.",
+      "explanationImage": null,
+      "tags": [
+        "Adverse Events, Negligence and Misconduct"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch04-q090",
+      "stem": "Who evaluates the evidence in a negligence claim?",
+      "image": null,
+      "options": [
+        "The employer alone",
+        "A court",
+        "The patient alone",
+        "The sonographer's classmates"
+      ],
+      "answer": 1,
+      "explanation": "Negligence is a legal question evaluated by a court on the evidence.",
+      "explanationImage": null,
+      "tags": [
+        "Adverse Events, Negligence and Misconduct"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch04-q091",
+      "stem": "Which statement about a poor outcome and negligence is correct?",
+      "image": null,
+      "options": [
+        "A bad outcome always proves negligence",
+        "A bad outcome never involves negligence",
+        "Outcomes are irrelevant to negligence",
+        "A bad outcome alone does not answer the negligence question"
+      ],
+      "answer": 3,
+      "explanation": "Outcomes alone do not establish duty, standard breach, or causation.",
+      "explanationImage": null,
+      "tags": [
+        "Adverse Events, Negligence and Misconduct"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch04-q092",
+      "stem": "What is professional misconduct?",
+      "image": null,
+      "options": [
+        "A legal finding made only by courts",
+        "An event that requires patient harm",
+        "A synonym for negligence",
+        "A professional conduct question — a professional rule can be broken even when no lawsuit follows"
+      ],
+      "answer": 3,
+      "explanation": "Misconduct concerns professional rules and is distinct from the civil question of negligence.",
+      "explanationImage": null,
+      "tags": [
+        "Adverse Events, Negligence and Misconduct"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch04-q093",
+      "stem": "Which example best illustrates professional misconduct rather than negligence?",
+      "image": null,
+      "options": [
+        "Making a reasonable clinical judgement that later proves imperfect",
+        "Asking a supervisor for help when uncertain",
+        "Deliberately changing a record to hide what happened",
+        "Reporting an error promptly"
+      ],
+      "answer": 2,
+      "explanation": "Concealing an event through record alteration breaks a professional rule regardless of whether any lawsuit follows.",
+      "explanationImage": null,
+      "tags": [
+        "Adverse Events, Negligence and Misconduct"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch04-q094",
+      "stem": "Which statement about waiting for a lawsuit is correct?",
+      "image": null,
+      "options": [
+        "Only lawsuits trigger professional duties",
+        "Duties begin when a lawyer is involved",
+        "Nothing matters until a court decides",
+        "Professional responsibility does not wait for a patient to sue — you act on what you know now"
+      ],
+      "answer": 3,
+      "explanation": "Professional duties — including correction and reporting — exist independently of litigation.",
+      "explanationImage": null,
+      "tags": [
+        "Adverse Events, Negligence and Misconduct"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch04-q095",
+      "stem": "On review, you discover an incorrect measurement was entered. What is the correct moment to act?",
+      "image": null,
+      "options": [
+        "Wait until someone else finds it",
+        "Quietly override the value without a trace",
+        "Delete the study",
+        "Discovering an error is the moment to speak up — honest correction follows the organization's process"
+      ],
+      "answer": 3,
+      "explanation": "Timely, honest correction protects the record and the team's trust.",
+      "explanationImage": null,
+      "tags": [
+        "Adverse Events, Negligence and Misconduct"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch04-q096",
+      "stem": "Why is quietly overriding information harmful?",
+      "image": null,
+      "options": [
+        "It is inefficient",
+        "It undermines the record and team trust",
+        "It uses too much system storage",
+        "It is prohibited only in hospitals"
+      ],
+      "answer": 1,
+      "explanation": "Untraceable overrides destroy the record's reliability and the team's confidence in it.",
+      "explanationImage": null,
+      "tags": [
+        "Adverse Events, Negligence and Misconduct"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch04-q097",
+      "stem": "Which statement about documentation and safety is correct?",
+      "image": null,
+      "options": [
+        "Good documentation excuses any unsafe practice",
+        "Good documentation cannot make an unsafe action safe after the fact",
+        "Documentation is the main safety measure",
+        "Documentation replaces corrective action"
+      ],
+      "answer": 1,
+      "explanation": "Records describe what happened; they cannot convert unsafe practice into safe care.",
+      "explanationImage": null,
+      "tags": [
+        "Adverse Events, Negligence and Misconduct"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch04-q098",
+      "stem": "A patient becomes dizzy moving off the echo bed and you prevent a fall. What should the record contain?",
+      "image": null,
+      "options": [
+        "That the patient reported dizziness while moving off the bed, the assistance provided, and who you contacted",
+        "A blood pressure reading you did not take",
+        "A diagnosis of hypotension",
+        "Nothing, since no injury occurred"
+      ],
+      "answer": 0,
+      "explanation": "Record what was reported and observed, the actions taken, and the contacts made — nothing invented.",
+      "explanationImage": null,
+      "tags": [
+        "Adverse Events, Negligence and Misconduct"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch04-q099",
+      "stem": "A colleague says a fall was \"just something that happens\" while another says the practitioner \"is definitely negligent.\" What is the correct approach?",
+      "image": null,
+      "options": [
+        "Agree with the first colleague",
+        "Agree with the second colleague",
+        "Help the patient, obtain assistance, document, report as required, and let the appropriate review examine the facts — separating care from legal conclusions",
+        "Avoid documenting until fault is decided"
+      ],
+      "answer": 2,
+      "explanation": "Care and documentation come first; the legal conclusion belongs to the appropriate review.",
+      "explanationImage": null,
+      "tags": [
+        "Adverse Events, Negligence and Misconduct"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch04-q100",
+      "stem": "An echo appeared normal, but two days later the patient had new symptoms. Which statement is correct?",
+      "image": null,
+      "options": [
+        "Nothing matters once the study is reported",
+        "Only litigation answers what happened",
+        "A clear record can help the team understand the facts, but it cannot make an unsafe practice acceptable — accountability means acting on what is known now",
+        "The interpreting physician alone is accountable"
+      ],
+      "answer": 2,
+      "explanation": "Records support review, but accountability requires action on current knowledge rather than waiting for clarity.",
+      "explanationImage": null,
+      "tags": [
+        "Adverse Events, Negligence and Misconduct"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch04-q101",
+      "stem": "A result was never communicated to anyone who could act. Whose responsibility is that?",
+      "image": null,
+      "options": [
+        "No one's — the order was correct",
+        "Communication of a result that requires action is a shared professional responsibility through the approved process — it does not vanish because an order was correct",
+        "Only the scheduling clerk's",
+        "Only the patient's"
+      ],
+      "answer": 1,
+      "explanation": "Correct ordering does not excuse failures in communicating results that need action.",
+      "explanationImage": null,
+      "tags": [
+        "Adverse Events, Negligence and Misconduct"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch04-q102",
+      "stem": "Which set best matches the four contributions expected after an event?",
+      "image": null,
+      "options": [
+        "Blame, denial, delay, concealment",
+        "Immediate care, review of what happened, response to the patient, and contribution to preventing recurrence",
+        "Silence, gossip, avoidance, forgetting",
+        "Lawsuit, insurance, media, resignation"
+      ],
+      "answer": 1,
+      "explanation": "These four contributions form the professional response to an adverse event.",
+      "explanationImage": null,
+      "tags": [
+        "Adverse Events, Negligence and Misconduct"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch04-q103",
+      "stem": "A patient asks what happened during an event. What is the correct approach?",
+      "image": null,
+      "options": [
+        "Promise that nothing went wrong",
+        "Refuse to speak with the patient at all",
+        "Participate honestly in the disclosure process through the organization's process, without guessing about causes or blame",
+        "Blame a colleague"
+      ],
+      "answer": 2,
+      "explanation": "Disclosure follows the organization's process with honesty and without speculation.",
+      "explanationImage": null,
+      "tags": [
+        "Adverse Events, Negligence and Misconduct"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch04-q104",
+      "stem": "Which statement about the clinical record and the safety report after an event is correct?",
+      "image": null,
+      "options": [
+        "The safety report replaces the clinical record",
+        "The clinical record replaces the safety report",
+        "Both are required and serve different purposes — one does not replace the other",
+        "Neither is required if no harm occurred"
+      ],
+      "answer": 2,
+      "explanation": "Clinical documentation and organizational safety reporting are complementary obligations.",
+      "explanationImage": null,
+      "tags": [
+        "Adverse Events, Negligence and Misconduct"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch04-q105",
+      "stem": "What is the safest response to an error you discover in your own work?",
+      "image": null,
+      "options": [
+        "Correct it quietly and hope no one notices",
+        "Report it promptly through the correct process and participate honestly in the review",
+        "Wait to see whether it caused harm",
+        "Delete the evidence"
+      ],
+      "answer": 1,
+      "explanation": "Prompt honest reporting is the professionally and legally safest course.",
+      "explanationImage": null,
+      "tags": [
+        "Adverse Events, Negligence and Misconduct"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch04-q106",
+      "stem": "Which combination BEST reflects the module's approach to adverse events, negligence and misconduct?",
+      "image": null,
+      "options": [
+        "Wait for certainty, hide errors, blame others, and respond only to lawsuits",
+        "Care for the patient, notify, document honestly, report and participate in review — remembering that a bad outcome alone proves nothing and that professional rules apply even without a lawsuit",
+        "Conclude negligence immediately whenever harm occurs",
+        "Assume misconduct only when a court decides"
+      ],
+      "answer": 1,
+      "explanation": "The module teaches patient-focused response, honest process participation, and the distinction between outcomes, negligence, and professional rules.",
+      "explanationImage": null,
+      "tags": [
+        "Adverse Events, Negligence and Misconduct"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch04-q107",
+      "stem": "What does professional liability insurance address?",
+      "image": null,
+      "options": [
+        "Claims arising from professional practice, supporting the ability to compensate a patient when a covered claim requires it",
+        "Personal vehicle accidents",
+        "Equipment warranties only",
+        "Lost wages from missed shifts"
+      ],
+      "answer": 0,
+      "explanation": "Professional liability insurance responds to claims arising from professional practice.",
+      "explanationImage": null,
+      "tags": [
+        "Professional Liability Insurance"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch04-q108",
+      "stem": "What may a professional liability policy pay?",
+      "image": null,
+      "options": [
+        "Only marketing costs",
+        "The cost of defending a covered claim and the amount payable under a covered claim",
+        "Only equipment replacement",
+        "Only continuing education"
+      ],
+      "answer": 1,
+      "explanation": "Coverage may include legal defence costs and the amount payable on a covered claim.",
+      "explanationImage": null,
+      "tags": [
+        "Professional Liability Insurance"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch04-q109",
+      "stem": "Who must hold professional liability coverage?",
+      "image": null,
+      "options": [
+        "Practising CMRITO registrants, with coverage meeting the College's requirements",
+        "Only physicians",
+        "Only sonographers in private clinics",
+        "Only students on placement"
+      ],
+      "answer": 0,
+      "explanation": "The CMRITO requires practising registrants to hold coverage that meets its requirements.",
+      "explanationImage": null,
+      "tags": [
+        "Professional Liability Insurance"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch04-q110",
+      "stem": "A colleague says, \"My policy covers everything.\" What is the most accurate correction?",
+      "image": null,
+      "options": [
+        "The colleague is correct",
+        "Only hospital work is ever covered",
+        "Coverage depends on seniority",
+        "The key word is covered — policies have terms, limits, and exclusions, so not every legal expense, allegation, or workplace is automatically covered"
+      ],
+      "answer": 3,
+      "explanation": "Coverage must be checked against the specific work, workplace, and claim type.",
+      "explanationImage": null,
+      "tags": [
+        "Professional Liability Insurance"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch04-q111",
+      "stem": "A sonographer works weekdays at a hospital and takes shifts at an echo clinic. What is the correct understanding?",
+      "image": null,
+      "options": [
+        "The hospital policy automatically covers both",
+        "No coverage is needed for the second workplace",
+        "Registration alone covers all workplaces",
+        "Coverage from one workplace may not cover a second workplace — verify the actual policy"
+      ],
+      "answer": 3,
+      "explanation": "Multi-workplace practice requires explicit verification of coverage for each role and location.",
+      "explanationImage": null,
+      "tags": [
+        "Professional Liability Insurance"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch04-q112",
+      "stem": "What should a practitioner do regarding insurance BEFORE a claim occurs?",
+      "image": null,
+      "options": [
+        "Wait until a claim occurs to read the policy",
+        "Assume the employer's policy is sufficient",
+        "Read the coverage, confirm the role, activities, and workplaces are included, understand claim reporting, keep the confirmation, and review whenever work changes",
+        "Purchase insurance only after retirement"
+      ],
+      "answer": 2,
+      "explanation": "Insurance is something you confirm before a claim happens, and re-confirm whenever your work changes.",
+      "explanationImage": null,
+      "tags": [
+        "Professional Liability Insurance"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch04-q113",
+      "stem": "How should a practitioner verify their coverage?",
+      "image": null,
+      "options": [
+        "By asking a colleague what they do",
+        "By assuming the brochure is accurate",
+        "With the employer or insurer, comparing the policy against the CMRITO's requirements, and keeping the confirmation",
+        "By checking only the price"
+      ],
+      "answer": 2,
+      "explanation": "Verification includes checking the actual policy against regulator requirements and keeping written confirmation.",
+      "explanationImage": null,
+      "tags": [
+        "Professional Liability Insurance"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch04-q114",
+      "stem": "What must happen promptly if a claim arises?",
+      "image": null,
+      "options": [
+        "Wait for the claimant to notify the insurer",
+        "Follow the notification process in the policy promptly",
+        "Ignore the notification requirement",
+        "Notify only if the claim becomes public"
+      ],
+      "answer": 1,
+      "explanation": "Prompt notification is a condition of the coverage and supports an effective response.",
+      "explanationImage": null,
+      "tags": [
+        "Professional Liability Insurance"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch04-q115",
+      "stem": "Which statement about insurance and practice is correct?",
+      "image": null,
+      "options": [
+        "Insurance authorizes any procedure",
+        "Insurance replaces competence",
+        "Insurance does not create clinical skill and does not replace authority, training, competence, or workplace arrangements",
+        "Insurance removes the duty to report errors"
+      ],
+      "answer": 2,
+      "explanation": "Having insurance does not create a new clinical skill or any permission to practise.",
+      "explanationImage": null,
+      "tags": [
+        "Professional Liability Insurance"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch04-q116",
+      "stem": "Which pair of questions correctly frames coverage and practice?",
+      "image": null,
+      "options": [
+        "\"Is it busy?\" and \"Is it quick?\"",
+        "\"Did I sign the form?\" and \"Did I park correctly?\"",
+        "\"Am I authorised and competent to perform the task?\" and \"Do I have the required coverage for my practice?\"",
+        "\"Is it documented?\" and \"Is it popular?\""
+      ],
+      "answer": 2,
+      "explanation": "Authority, competence, and coverage are separate questions that must each be answered.",
+      "explanationImage": null,
+      "tags": [
+        "Professional Liability Insurance"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch04-q117",
+      "stem": "When do students typically arrange their own professional liability coverage?",
+      "image": null,
+      "options": [
+        "At registration, when they begin practising as registrants",
+        "On the first day of class",
+        "After their first claim",
+        "Never"
+      ],
+      "answer": 0,
+      "explanation": "Students do not choose a product during the course — coverage is arranged at registration.",
+      "explanationImage": null,
+      "tags": [
+        "Professional Liability Insurance"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch04-q118",
+      "stem": "A sonographer says, \"Insurance was purchased years ago and never reviewed.\" What is the problem?",
+      "image": null,
+      "options": [
+        "Nothing — old policies are always valid",
+        "Only price matters",
+        "Coverage should be reviewed whenever the work changes — terms, limits, workplaces, and activities may no longer match",
+        "Only age matters"
+      ],
+      "answer": 2,
+      "explanation": "Stale coverage can leave gaps; periodic review against current practice is required.",
+      "explanationImage": null,
+      "tags": [
+        "Professional Liability Insurance"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch04-q119",
+      "stem": "What is the correct question when an event occurs and coverage is uncertain?",
+      "image": null,
+      "options": [
+        "Whether the event was serious",
+        "Whether anyone else was present",
+        "Whether the policy covers this work and this claim — not whether an event occurred",
+        "Whether the patient complains"
+      ],
+      "answer": 2,
+      "explanation": "The existence of an event does not determine coverage; the policy's terms do.",
+      "explanationImage": null,
+      "tags": [
+        "Professional Liability Insurance"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch04-q120",
+      "stem": "Which statement about insurance and safe practice is TRUE?",
+      "image": null,
+      "options": [
+        "Insurance makes safe practice unnecessary",
+        "Insurance authorizes work beyond competence",
+        "Insurance removes the responsibility to report errors",
+        "Insurance does not replace safe practice"
+      ],
+      "answer": 3,
+      "explanation": "Coverage is a financial safety net — it neither replaces safe practice nor removes the duty to report.",
+      "explanationImage": null,
+      "tags": [
+        "Professional Liability Insurance"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch04-q121",
+      "stem": "What is an ethical issue in professional practice?",
+      "image": null,
+      "options": [
+        "Any difficult technical manoeuvre",
+        "A choice involving more than one professional obligation, competing values, or uncertainty about the right action",
+        "Any disagreement about scheduling",
+        "Any equipment failure"
+      ],
+      "answer": 1,
+      "explanation": "Ethical issues arise where obligations, values, or the right course of action compete or remain uncertain.",
+      "explanationImage": null,
+      "tags": [
+        "Ethical Decision-Making"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch04-q122",
+      "stem": "What is the FIRST step of the ethical decision-making process?",
+      "image": null,
+      "options": [
+        "Choose the fastest option",
+        "Explain the problem in plain language",
+        "Document a conclusion immediately",
+        "Ask the patient to decide alone"
+      ],
+      "answer": 1,
+      "explanation": "Plain-language framing makes the real problem clear before analysis begins.",
+      "explanationImage": null,
+      "tags": [
+        "Ethical Decision-Making"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch04-q123",
+      "stem": "What is the SECOND step?",
+      "image": null,
+      "options": [
+        "Separate the facts from assumptions",
+        "Announce the decision",
+        "Avoid further questions",
+        "Transfer responsibility"
+      ],
+      "answer": 0,
+      "explanation": "Facts must be distinguished from assumptions before any option is compared.",
+      "explanationImage": null,
+      "tags": [
+        "Ethical Decision-Making"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch04-q124",
+      "stem": "What is the THIRD step?",
+      "image": null,
+      "options": [
+        "Ignore affected parties",
+        "Decide without input",
+        "End the discussion",
+        "Consider who is affected"
+      ],
+      "answer": 3,
+      "explanation": "Identifying everyone affected — patient, team, and others — shapes the analysis.",
+      "explanationImage": null,
+      "tags": [
+        "Ethical Decision-Making"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch04-q125",
+      "stem": "What is the FOURTH step?",
+      "image": null,
+      "options": [
+        "Select a favourite principle",
+        "Ignore the law",
+        "Ignore workplace policy",
+        "Identify the relevant principles and requirements"
+      ],
+      "answer": 3,
+      "explanation": "The relevant ethical principles, law, and workplace process must be identified.",
+      "explanationImage": null,
+      "tags": [
+        "Ethical Decision-Making"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch04-q126",
+      "stem": "What is the FIFTH step?",
+      "image": null,
+      "options": [
+        "Compare reasonable options and seek guidance if needed",
+        "Choose immediately without comparison",
+        "Refuse guidance",
+        "Act without considering options"
+      ],
+      "answer": 0,
+      "explanation": "Reasonable options are compared, and guidance is sought when needed.",
+      "explanationImage": null,
+      "tags": [
+        "Ethical Decision-Making"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch04-q127",
+      "stem": "What is the SIXTH and final step?",
+      "image": null,
+      "options": [
+        "Forget the matter once resolved",
+        "Keep the decision private",
+        "Delay documentation indefinitely",
+        "Document the decision and communication as required"
+      ],
+      "answer": 3,
+      "explanation": "Documentation of the decision and communication completes the process.",
+      "explanationImage": null,
+      "tags": [
+        "Ethical Decision-Making"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch04-q128",
+      "stem": "Which sequence correctly matches all six steps?",
+      "image": null,
+      "options": [
+        "Explain the problem → separate facts from assumptions → consider who is affected → identify principles and requirements → compare options and seek guidance → document",
+        "Document → act → assume → forget → avoid → deny",
+        "Assume → guess → act → hide → delay → forget",
+        "Choose → act → explain → assume → conceal → ignore"
+      ],
+      "answer": 0,
+      "explanation": "The full taught sequence is facts-framing, fact separation, affected parties, principles and requirements, options and guidance, documentation.",
+      "explanationImage": null,
+      "tags": [
+        "Ethical Decision-Making"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch04-q129",
+      "stem": "What is the correct status of this six-step framework?",
+      "image": null,
+      "options": [
+        "It is a legislated six-step rule",
+        "It replaces professional judgement entirely",
+        "It applies only in court",
+        "It is a teaching framework for reasoning, not a quoted six-step rule from the CMRITO"
+      ],
+      "answer": 3,
+      "explanation": "The framework supports reasoning; it is not a regulator-issued rule to be quoted.",
+      "explanationImage": null,
+      "tags": [
+        "Ethical Decision-Making"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch04-q130",
+      "stem": "Why must facts be separated from assumptions?",
+      "image": null,
+      "options": [
+        "Assumptions are always correct",
+        "Assumptions can distort the problem; the facts determine what actions are defensible",
+        "Facts are less important than impressions",
+        "Separation delays care"
+      ],
+      "answer": 1,
+      "explanation": "Decisions grounded in facts rather than assumptions are more accurate and defensible.",
+      "explanationImage": null,
+      "tags": [
+        "Ethical Decision-Making"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch04-q131",
+      "stem": "Which principle set is checked in step four?",
+      "image": null,
+      "options": [
+        "Speed, efficiency, convenience, and profit",
+        "Respect for choice, honesty, fairness, and avoiding harm — along with the law and workplace process",
+        "Popularity, seniority, and tradition",
+        "Comfort, habit, and preference"
+      ],
+      "answer": 1,
+      "explanation": "These principles, together with law and policy, form the requirements check.",
+      "explanationImage": null,
+      "tags": [
+        "Ethical Decision-Making"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch04-q132",
+      "stem": "When is seeking guidance the appropriate action?",
+      "image": null,
+      "options": [
+        "When the right action is uncertain — guidance is a legitimate step in the process",
+        "Only after an adverse outcome",
+        "Never — guidance shows weakness",
+        "Only when a patient insists"
+      ],
+      "answer": 0,
+      "explanation": "Uncertainty about the appropriate action makes guidance the correct next step.",
+      "explanationImage": null,
+      "tags": [
+        "Ethical Decision-Making"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch04-q133",
+      "stem": "Which statement about a technically correct action is TRUE?",
+      "image": null,
+      "options": [
+        "Technical correctness eliminates all risk",
+        "Communication is unnecessary for technical actions",
+        "The patient's perspective is irrelevant",
+        "It can still create risk if it was not communicated, recorded, or considered with the patient's perspective"
+      ],
+      "answer": 3,
+      "explanation": "How an action is communicated, recorded, and considered matters as much as the action itself.",
+      "explanationImage": null,
+      "tags": [
+        "Ethical Decision-Making"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch04-q134",
+      "stem": "What recurring thinking pattern supports ethical practice?",
+      "image": null,
+      "options": [
+        "What is fastest? What is easiest? Who will notice?",
+        "What do I know? What needs protecting? Who can help me take the correct next step?",
+        "Who is senior? Who is popular? Who agrees?",
+        "What did we always do before?"
+      ],
+      "answer": 1,
+      "explanation": "The pattern centers facts, protected interests, and appropriate help.",
+      "explanationImage": null,
+      "tags": [
+        "Ethical Decision-Making"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch04-q135",
+      "stem": "What is the purpose of learning an ethical reasoning process as a student?",
+      "image": null,
+      "options": [
+        "You must handle every ethical situation alone after graduation",
+        "The process replaces the need for supervision",
+        "The process applies only to managers",
+        "You are learning a way to think, not being asked to manage a difficult situation alone"
+      ],
+      "answer": 3,
+      "explanation": "The course teaches structured thinking and the appropriate use of support, not solo management of difficult situations.",
+      "explanationImage": null,
+      "tags": [
+        "Ethical Decision-Making"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch04-q136",
+      "stem": "Which statement best captures how ethical decision-making supports practice?",
+      "image": null,
+      "options": [
+        "It removes uncertainty from every decision",
+        "It replaces law and policy",
+        "It makes reasoning transparent, connects the action to principles and requirements, and produces defensible documentation",
+        "It applies only after incidents"
+      ],
+      "answer": 2,
+      "explanation": "Structured ethical reasoning makes decisions explainable, principled, and well documented.",
+      "explanationImage": null,
+      "tags": [
+        "Ethical Decision-Making"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch04-q137",
+      "stem": "A patient asks, \"Is my heart okay?\" before the report has been reviewed. What is the most appropriate response?",
+      "image": null,
+      "options": [
+        "\"I understand that you're worried. The cardiologist needs to review the study. Let me explain how you will receive the results.\"",
+        "\"Everything looks fine.\"",
+        "\"I can't tell you anything.\"",
+        "\"Look at the screen and decide for yourself.\""
+      ],
+      "answer": 0,
+      "explanation": "The response acknowledges the worry, explains the review process, and avoids unsupported promises or dismissiveness.",
+      "explanationImage": null,
+      "tags": [
+        "Applied Scenarios: Patient Trust and Communication"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch04-q138",
+      "stem": "What is wrong with answering \"Everything is fine\" to a worried patient?",
+      "image": null,
+      "options": [
+        "It is too brief",
+        "Nothing — it is kind",
+        "It promises a result before review, gives information the sonographer may not be authorized to provide, and may simply be wrong",
+        "It uses informal language"
+      ],
+      "answer": 2,
+      "explanation": "False reassurance may feel kind in the moment, but it can damage trust, exceed the role, and be incorrect.",
+      "explanationImage": null,
+      "tags": [
+        "Applied Scenarios: Patient Trust and Communication"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch04-q139",
+      "stem": "What is the problem with the response \"The doctor will tell you later\"?",
+      "image": null,
+      "options": [
+        "It is factually wrong",
+        "It shares unauthorized information",
+        "It makes a promise",
+        "It is technically true but dismissive — it fails to acknowledge the concern or explain the process"
+      ],
+      "answer": 3,
+      "explanation": "Honesty without acknowledgement and explanation leaves the patient dismissed.",
+      "explanationImage": null,
+      "tags": [
+        "Applied Scenarios: Patient Trust and Communication"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch04-q140",
+      "stem": "Which three elements are required when a patient asks whether anything serious was found?",
+      "image": null,
+      "options": [
+        "Diagnose, prescribe, and discharge",
+        "Acknowledge the concern, explain the review process, and ensure the patient's concern reaches the appropriate clinician",
+        "Promise, reassure, and hurry",
+        "Ignore, exit, and document nothing"
+      ],
+      "answer": 1,
+      "explanation": "Acknowledgement, process explanation, and follow-through on the concern are the three required parts.",
+      "explanationImage": null,
+      "tags": [
+        "Applied Scenarios: Patient Trust and Communication"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch04-q141",
+      "stem": "During an examination you notice a finding that seems urgent. What should happen?",
+      "image": null,
+      "options": [
+        "Wait for the routine report to be issued",
+        "Say nothing until the patient asks",
+        "Post the finding in a staff chat",
+        "Use the urgent finding communication process — waiting for the routine report is not a reason to delay an urgent concern"
+      ],
+      "answer": 3,
+      "explanation": "Urgent findings move through the urgent communication process without waiting for routine reporting.",
+      "explanationImage": null,
+      "tags": [
+        "Applied Scenarios: Patient Trust and Communication"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch04-q142",
+      "stem": "A patient says, \"Just tell me it looks fine. I am not going to ask anyone else.\" What is the correct response?",
+      "image": null,
+      "options": [
+        "Give reassurance because the patient insists",
+        "Explain that a diagnostic conclusion before physician review is outside the sonographer's role, and help the patient understand how results are delivered",
+        "Give a preliminary diagnosis",
+        "Agree to keep it a secret from the care team"
+      ],
+      "answer": 1,
+      "explanation": "Patient insistence does not authorize diagnostic disclosure outside the approved process.",
+      "explanationImage": null,
+      "tags": [
+        "Applied Scenarios: Patient Trust and Communication"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch04-q143",
+      "stem": "What may a sonographer appropriately tell a patient about their examination?",
+      "image": null,
+      "options": [
+        "A diagnostic conclusion regardless of authorization",
+        "Nothing at all, even about process",
+        "Whether the examination was completed or limited, and what needs to happen next",
+        "The interpretation before the physician reviews it"
+      ],
+      "answer": 2,
+      "explanation": "Process information — completion status and next steps — is appropriate; diagnostic conclusions are not, unless authorized.",
+      "explanationImage": null,
+      "tags": [
+        "Applied Scenarios: Patient Trust and Communication"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch04-q144",
+      "stem": "A patient complains that their previous record was incomplete. What should you do FIRST?",
+      "image": null,
+      "options": [
+        "Review the documentation calmly before responding",
+        "Defend the previous sonographer immediately",
+        "Dismiss the complaint",
+        "Alter the record"
+      ],
+      "answer": 0,
+      "explanation": "Checking the actual record precedes any response — defensiveness without facts is inappropriate.",
+      "explanationImage": null,
+      "tags": [
+        "Applied Scenarios: Patient Trust and Communication"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch04-q145",
+      "stem": "After reviewing an incomplete record, what is the correct course?",
+      "image": null,
+      "options": [
+        "Hide the gap from everyone",
+        "Blame a colleague publicly",
+        "Rewrite the record secretly",
+        "Raise the concern through the proper process and respond calmly to the patient"
+      ],
+      "answer": 3,
+      "explanation": "Concerns go through the proper process, and the patient receives a calm, honest response.",
+      "explanationImage": null,
+      "tags": [
+        "Applied Scenarios: Patient Trust and Communication"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch04-q146",
+      "stem": "A patient hesitates after stopping and asks, \"Will you be angry if I don't finish?\" What is the best response?",
+      "image": null,
+      "options": [
+        "\"I'm not angry, we can stop, and I'll help you understand the options.\"",
+        "\"We really should finish.\"",
+        "\"The department will be upset.\"",
+        "\"It's up to your family.\""
+      ],
+      "answer": 0,
+      "explanation": "The response removes pressure, is honest, and supports the patient's understanding of options.",
+      "explanationImage": null,
+      "tags": [
+        "Applied Scenarios: Patient Trust and Communication"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch04-q147",
+      "stem": "After a patient stops an examination, which set of actions is most complete?",
+      "image": null,
+      "options": [
+        "Finish the current view, then discuss",
+        "Stop scanning, attend to comfort and safety, clarify concerns without pressure, involve the supervisor, and document what occurred",
+        "Pressure the patient, then document",
+        "Say nothing and reschedule silently"
+      ],
+      "answer": 1,
+      "explanation": "The complete response covers stopping, comfort, clarification, supervision, and documentation.",
+      "explanationImage": null,
+      "tags": [
+        "Applied Scenarios: Patient Trust and Communication"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch04-q148",
+      "stem": "A patient asks which medication will be started after their examination. What is the correct response?",
+      "image": null,
+      "options": [
+        "Guess based on what you think the diagnosis is",
+        "Read the chart and prescribe verbally",
+        "Acknowledge the question and connect the patient to an authorized prescriber or care-team member who can answer it",
+        "Dismiss the question"
+      ],
+      "answer": 2,
+      "explanation": "Treatment decisions belong to authorized prescribers; the sonographer connects the patient to the right person.",
+      "explanationImage": null,
+      "tags": [
+        "Applied Scenarios: Patient Trust and Communication"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch04-q149",
+      "stem": "A patient asks when exactly they will receive their results. What is the correct approach?",
+      "image": null,
+      "options": [
+        "Promise a specific hour",
+        "Explain the usual results process without promising a specific time you cannot control",
+        "Promise the results will be normal",
+        "Refuse to discuss the process"
+      ],
+      "answer": 1,
+      "explanation": "Process explanation is appropriate; specific promises about timing you do not control are not.",
+      "explanationImage": null,
+      "tags": [
+        "Applied Scenarios: Patient Trust and Communication"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch04-q150",
+      "stem": "Which pair of responses should both be avoided when a patient presses for results?",
+      "image": null,
+      "options": [
+        "Explaining the review process, and acknowledging the concern",
+        "False reassurance, and the abrupt \"I can't tell you anything\"",
+        "Directing the patient to the care team, and documenting the discussion",
+        "Checking understanding, and offering a break"
+      ],
+      "answer": 1,
+      "explanation": "Both unsupported reassurance and abrupt refusal fail the patient — redirect helpfully instead.",
+      "explanationImage": null,
+      "tags": [
+        "Applied Scenarios: Patient Trust and Communication"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch04-q151",
+      "stem": "You identify an urgent concern about an inpatient during the echo. Who else should know?",
+      "image": null,
+      "options": [
+        "The patient's nurse, in addition to the appropriate clinician, through approved communication",
+        "Only the patient's family",
+        "No one until the report is filed",
+        "Only the reception desk"
+      ],
+      "answer": 0,
+      "explanation": "Inpatient concerns are communicated to the nurse and the responsible clinician promptly.",
+      "explanationImage": null,
+      "tags": [
+        "Applied Scenarios: Patient Trust and Communication"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch04-q152",
+      "stem": "A patient says, \"I'm scared something is wrong.\" Which response best reflects empathy?",
+      "image": null,
+      "options": [
+        "\"There's nothing to worry about.\"",
+        "\"Don't be silly.\"",
+        "\"I can see that you're worried. I will explain what I'm doing throughout, and I'll make sure the appropriate physician receives the study and that any concerns are passed on.\"",
+        "\"That's not my department.\""
+      ],
+      "answer": 2,
+      "explanation": "The response notices the emotion, promises clear communication, and ensures concerns reach the physician.",
+      "explanationImage": null,
+      "tags": [
+        "Applied Scenarios: Patient Trust and Communication"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch04-q153",
+      "stem": "Which statement about false reassurance is correct?",
+      "image": null,
+      "options": [
+        "It may feel kind in the moment, but it can damage trust, may give information we are not authorized to provide, and can be wrong",
+        "It is always appropriate for anxious patients",
+        "It is authorized when the scan looks normal",
+        "It reduces complaints"
+      ],
+      "answer": 0,
+      "explanation": "False reassurance carries real risks to trust, role boundaries, and accuracy.",
+      "explanationImage": null,
+      "tags": [
+        "Applied Scenarios: Patient Trust and Communication"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch04-q154",
+      "stem": "A family member in the hallway asks whether the examination found anything. What must you confirm first?",
+      "image": null,
+      "options": [
+        "Whether the family member looks worried",
+        "Whether the family member drove the patient",
+        "Whether the hallway is private",
+        "Whether the patient has given permission or other lawful authority exists for that disclosure"
+      ],
+      "answer": 3,
+      "explanation": "Privacy of location matters too, but the decisive check is authority to disclose.",
+      "explanationImage": null,
+      "tags": [
+        "Applied Scenarios: Patient Trust and Communication"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch04-q155",
+      "stem": "A patient asks you to keep their results secret from their family. What is the correct approach?",
+      "image": null,
+      "options": [
+        "Respect the patient's choice about who receives their information, within the limits of the authorized process",
+        "Promise absolute secrecy in every circumstance",
+        "Tell the family anyway because they are present",
+        "Ignore the request"
+      ],
+      "answer": 0,
+      "explanation": "The capable patient controls who receives their information, subject to legal processes and duties.",
+      "explanationImage": null,
+      "tags": [
+        "Applied Scenarios: Patient Trust and Communication"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch04-q156",
+      "stem": "What should be documented when a patient ends an examination early?",
+      "image": null,
+      "options": [
+        "Only \"study incomplete\"",
+        "The stop, the patient's expressed concern, what was completed, who was contacted, and the follow-up arrangement",
+        "Only the sonographer's opinion",
+        "Nothing until the patient complains"
+      ],
+      "answer": 1,
+      "explanation": "A complete record supports continuity of care and any later review.",
+      "explanationImage": null,
+      "tags": [
+        "Applied Scenarios: Patient Trust and Communication"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch04-q157",
+      "stem": "A patient asks whether a limited examination means they have disease. What is the correct answer?",
+      "image": null,
+      "options": [
+        "An imaging limitation describes what could be obtained — it does not by itself diagnose a heart problem",
+        "Yes — limitations always mean disease",
+        "No — limitations always mean the heart is normal",
+        "Only the sonographer can diagnose from limited images"
+      ],
+      "answer": 0,
+      "explanation": "Limitations concern image acquisition, not diagnosis.",
+      "explanationImage": null,
+      "tags": [
+        "Applied Scenarios: Patient Trust and Communication"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch04-q158",
+      "stem": "A patient asks, \"Are you a real doctor?\" What is the most honest answer?",
+      "image": null,
+      "options": [
+        "\"Yes, I am.\"",
+        "\"Close enough.\"",
+        "\"I'm a cardiac sonographer — I perform the echocardiogram, and the physician reviews the study and makes the diagnostic interpretation.\"",
+        "\"Why do you ask?\""
+      ],
+      "answer": 2,
+      "explanation": "Honest identification of role and credentials is a professional obligation.",
+      "explanationImage": null,
+      "tags": [
+        "Applied Scenarios: Patient Trust and Communication"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch04-q159",
+      "stem": "A patient declines recommended follow-up imaging. What is the correct response?",
+      "image": null,
+      "options": [
+        "Pressure the patient until they agree",
+        "Tell the patient not to return",
+        "Respect the decision, explain the importance of follow-up within your role, involve the appropriate clinician, and document the discussion",
+        "Document nothing"
+      ],
+      "answer": 2,
+      "explanation": "The decision is respected while information, escalation, and documentation are completed.",
+      "explanationImage": null,
+      "tags": [
+        "Applied Scenarios: Patient Trust and Communication"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch04-q160",
+      "stem": "Which statement about communicating during a long examination is TRUE?",
+      "image": null,
+      "options": [
+        "Honest explanations of what will happen — without promising it will be quick or painless — support the patient's trust",
+        "Promises of speed and comfort are appropriate",
+        "Silence is best during long examinations",
+        "Patients never need updates"
+      ],
+      "answer": 0,
+      "explanation": "An echo can take thirty minutes to an hour, so honest expectations are better than promises that may not be kept.",
+      "explanationImage": null,
+      "tags": [
+        "Applied Scenarios: Patient Trust and Communication"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch04-q161",
+      "stem": "A patient becomes anxious as the examination continues longer than expected. Which response best combines honesty and support?",
+      "image": null,
+      "options": [
+        "Acknowledge the anxiety, explain what remains and why it matters, and check the patient's comfort",
+        "Continue silently to finish faster",
+        "Promise it will be over in a minute",
+        "Stop communicating entirely"
+      ],
+      "answer": 0,
+      "explanation": "Acknowledgement, explanation, and comfort checks keep an anxious patient engaged and informed.",
+      "explanationImage": null,
+      "tags": [
+        "Applied Scenarios: Patient Trust and Communication"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch04-q162",
+      "stem": "What should you do when a patient's concern suggests something urgent?",
+      "image": null,
+      "options": [
+        "Wait for the next clinic visit",
+        "Mention it only if the patient asks again",
+        "Handle it yourself alone",
+        "Ensure the concern reaches the appropriate clinician through the approved process without delay"
+      ],
+      "answer": 3,
+      "explanation": "Urgent concerns must reach clinicians who can act, through approved channels.",
+      "explanationImage": null,
+      "tags": [
+        "Applied Scenarios: Patient Trust and Communication"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch04-q163",
+      "stem": "Which statement about the sonographer's communication role is correct?",
+      "image": null,
+      "options": [
+        "Provide diagnoses whenever the patient seems ready",
+        "Refuse all communication about results",
+        "Communicate process and observations truthfully, acknowledge concerns, and route diagnostic questions through the authorized process",
+        "Promise outcomes to reduce anxiety"
+      ],
+      "answer": 2,
+      "explanation": "Truthful process communication, acknowledgement, and authorized routing define the role.",
+      "explanationImage": null,
+      "tags": [
+        "Applied Scenarios: Patient Trust and Communication"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch04-q164",
+      "stem": "Which combination BEST represents a trustworthy response to a worried patient?",
+      "image": null,
+      "options": [
+        "Reassure, promise, hurry, and forget",
+        "Diagnose, prescribe, discharge, and charge",
+        "Ignore, exit, and avoid documentation",
+        "Acknowledge the concern, explain the results process honestly, ensure the concern reaches the clinician, and document the discussion"
+      ],
+      "answer": 3,
+      "explanation": "Trustworthy communication combines acknowledgement, honest process explanation, follow-through, and documentation.",
+      "explanationImage": null,
+      "tags": [
+        "Applied Scenarios: Patient Trust and Communication"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch04-q165",
+      "stem": "Another department is discussing a published regulatory finding, and details are confusing. What is your most appropriate role?",
+      "image": null,
+      "options": [
+        "Add rumours to clarify",
+        "Stick to the published facts, avoid speculation, protect privacy, and redirect the discussion appropriately",
+        "Discuss the patient's private details",
+        "Announce a conclusion about guilt"
+      ],
+      "answer": 1,
+      "explanation": "Professional discussion stays within published facts and protects privacy.",
+      "explanationImage": null,
+      "tags": [
+        "Published Decisions and Professional Discussion"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch04-q166",
+      "stem": "Which statement about published decisions is correct?",
+      "image": null,
+      "options": [
+        "Publication makes patient details public property",
+        "Published cases may be discussed without limits",
+        "A published decision is not an invitation to discuss a patient's private information",
+        "Privacy ends once a finding is published"
+      ],
+      "answer": 2,
+      "explanation": "The published decision does not remove the duty of confidentiality regarding patient information.",
+      "explanationImage": null,
+      "tags": [
+        "Published Decisions and Professional Discussion"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch04-q167",
+      "stem": "What is the College's overriding rule?",
+      "image": null,
+      "options": [
+        "To protect the public",
+        "To protect registrants from complaints",
+        "To maximize departmental efficiency",
+        "To settle disputes informally only"
+      ],
+      "answer": 0,
+      "explanation": "Public protection is the regulator's central purpose.",
+      "explanationImage": null,
+      "tags": [
+        "Published Decisions and Professional Discussion"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch04-q168",
+      "stem": "What does the College do before a concern proceeds?",
+      "image": null,
+      "options": [
+        "Proceeds automatically with every concern",
+        "Reviews the evidence and decides whether the concern should proceed",
+        "Ignores evidence entirely",
+        "Defers every decision to the employer"
+      ],
+      "answer": 1,
+      "explanation": "Evidence review determines whether a concern proceeds to a hearing.",
+      "explanationImage": null,
+      "tags": [
+        "Published Decisions and Professional Discussion"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch04-q169",
+      "stem": "Which statement about complaints and outcomes is correct?",
+      "image": null,
+      "options": [
+        "Every complaint produces an outcome against the registrant",
+        "Outcomes are decided by public opinion",
+        "Complaints are findings",
+        "The College does not decide an outcome because a complaint was made"
+      ],
+      "answer": 3,
+      "explanation": "Outcomes follow evidence and process — the existence of a complaint decides nothing.",
+      "explanationImage": null,
+      "tags": [
+        "Published Decisions and Professional Discussion"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch04-q170",
+      "stem": "In a discussion of a published case, what distinction must be maintained?",
+      "image": null,
+      "options": [
+        "Between an allegation or charge and an established finding",
+        "Between weekday and weekend conduct",
+        "Between seniority levels",
+        "Between departments"
+      ],
+      "answer": 0,
+      "explanation": "Allegations and charges are unproven; findings are established through review.",
+      "explanationImage": null,
+      "tags": [
+        "Published Decisions and Professional Discussion"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch04-q171",
+      "stem": "Which statement about other processes following a finding is correct?",
+      "image": null,
+      "options": [
+        "Employment or criminal processes may also occur, and one process does not determine another's result",
+        "Only one process can ever apply",
+        "The regulatory outcome determines the criminal outcome",
+        "Employment consequences never follow"
+      ],
+      "answer": 0,
+      "explanation": "Regulatory, employment, and criminal processes run independently.",
+      "explanationImage": null,
+      "tags": [
+        "Published Decisions and Professional Discussion"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch04-q172",
+      "stem": "A published finding involved a technologist accessing patient health information without consent or proper authorization. What is the professional lesson?",
+      "image": null,
+      "options": [
+        "Access is acceptable if no information is shared",
+        "A password gives you access to a system, but it does not give you permission to read every chart",
+        "Authorization only matters for disclosure",
+        "Curiosity about someone you know is sufficient"
+      ],
+      "answer": 1,
+      "explanation": "Technical access never substitutes for an authorized purpose — curiosity about someone you know is not enough.",
+      "explanationImage": null,
+      "tags": [
+        "Published Decisions and Professional Discussion"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch04-q173",
+      "stem": "What outcomes were included in that published finding?",
+      "image": null,
+      "options": [
+        "A reprimand, required education, and payment of the College's costs",
+        "Automatic permanent revocation",
+        "No consequences",
+        "A verbal apology only"
+      ],
+      "answer": 0,
+      "explanation": "The published decision included a reprimand, required education, and payment of College costs.",
+      "explanationImage": null,
+      "tags": [
+        "Published Decisions and Professional Discussion"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch04-q174",
+      "stem": "Which topics are appropriate in a professional discussion of a published case?",
+      "image": null,
+      "options": [
+        "Patient safety, confidentiality, and the distinction between allegation and finding",
+        "The patient's identity and private details",
+        "Rumours about the registrant's character",
+        "Speculation about penalties"
+      ],
+      "answer": 0,
+      "explanation": "Safety, confidentiality, and accurate terminology are the appropriate discussion boundaries.",
+      "explanationImage": null,
+      "tags": [
+        "Published Decisions and Professional Discussion"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch04-q175",
+      "stem": "What continues after a finding is published?",
+      "image": null,
+      "options": [
+        "Nothing — responsibility ends with publication",
+        "Only curiosity",
+        "Professional responsibility — including confidentiality and respectful discussion",
+        "Only the appeal process"
+      ],
+      "answer": 2,
+      "explanation": "Publication does not end the professional duties of those discussing the case.",
+      "explanationImage": null,
+      "tags": [
+        "Published Decisions and Professional Discussion"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch04-q176",
+      "stem": "A colleague mischaracterizes a published finding as a proven criminal conviction. What is the best correction?",
+      "image": null,
+      "options": [
+        "Agree to avoid conflict",
+        "Add your own speculation",
+        "Clarify that a regulatory finding is a professional conduct decision, distinct from any criminal outcome",
+        "Leave the error unchallenged"
+      ],
+      "answer": 2,
+      "explanation": "Accurate terminology protects both the registrant's fairness and the profession's standards.",
+      "explanationImage": null,
+      "tags": [
+        "Published Decisions and Professional Discussion"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch04-q177",
+      "stem": "Why should students focus on the professional responsibility in a published case rather than memorizing names and dates?",
+      "image": null,
+      "options": [
+        "Names and dates are legally protected",
+        "Published cases are never examined",
+        "Responsibilities do not apply to students",
+        "The responsibility — such as authorized access to records — is what guides future practice"
+      ],
+      "answer": 3,
+      "explanation": "The transferable lesson is the duty the case illustrates, not its identifying details.",
+      "explanationImage": null,
+      "tags": [
+        "Published Decisions and Professional Discussion"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch04-q178",
+      "stem": "Which statement BEST captures the professional approach to published findings?",
+      "image": null,
+      "options": [
+        "Gossip about the details and speculate on guilt",
+        "Treat publication as permission to share patient information",
+        "Learn the responsibility the case illustrates, discuss it accurately and respectfully, and protect patient privacy throughout",
+        "Ignore published decisions entirely"
+      ],
+      "answer": 2,
+      "explanation": "Published cases are learning tools, discussed within the bounds of accuracy, respect, and confidentiality.",
+      "explanationImage": null,
+      "tags": [
+        "Published Decisions and Professional Discussion"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch04-q179",
+      "stem": "Which set BEST matches the four main themes of this module?",
+      "image": null,
+      "options": [
+        "Professional boundaries and sexual abuse, reporting duties, adverse events and negligence/misconduct, and professional liability insurance and ethical decision-making",
+        "Scheduling, billing, equipment, and marketing",
+        "Physics, instrumentation, anatomy, and physiology",
+        "Speed, volume, profit, and growth"
+      ],
+      "answer": 0,
+      "explanation": "These four themes structure the module's content on ethics in practice.",
+      "explanationImage": null,
+      "tags": [
+        "Integration and Capstone"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch04-q180",
+      "stem": "A sonographer explains where the probe must be placed and why, obtains agreement, and uses respectful technique. Which themes are satisfied together?",
+      "image": null,
+      "options": [
+        "Speed and efficiency only",
+        "Boundaries, consent, and patient dignity",
+        "Documentation and billing only",
+        "Equipment and image quality only"
+      ],
+      "answer": 1,
+      "explanation": "Explanation, agreement, and respectful technique simultaneously serve boundaries, consent, and dignity.",
+      "explanationImage": null,
+      "tags": [
+        "Integration and Capstone"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch04-q181",
+      "stem": "You observe conduct that may cross a professional boundary. Which response integrates the module's teaching?",
+      "image": null,
+      "options": [
+        "Support the patient, record facts and observations, involve the supervisor promptly through the appropriate process, and do not investigate or speculate",
+        "Investigate privately and confront the colleague",
+        "Gossip with coworkers first",
+        "Do nothing unless the patient complains"
+      ],
+      "answer": 0,
+      "explanation": "Patient support, factual recording, supervisory involvement, and non-speculation form the complete response.",
+      "explanationImage": null,
+      "tags": [
+        "Integration and Capstone"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch04-q182",
+      "stem": "Which statement correctly distinguishes the two reporting duties?",
+      "image": null,
+      "options": [
+        "The two duties are identical",
+        "The CYFSA duty applies only to registrants",
+        "The RHPA duty concerns suspected sexual abuse by a regulated professional and reports go to the College; the CYFSA duty concerns children who may need protection and reports go to a Children's Aid Society",
+        "The RHPA duty reports to Children's Aid"
+      ],
+      "answer": 2,
+      "explanation": "The duties differ in subject, reporter, threshold, and recipient.",
+      "explanationImage": null,
+      "tags": [
+        "Integration and Capstone"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch04-q183",
+      "stem": "A patient reports dizziness and nearly falls while leaving. Which combination of actions is most complete?",
+      "image": null,
+      "options": [
+        "Help the patient and record nothing",
+        "Record a diagnosis you did not confirm",
+        "Hurry the patient out before the next appointment",
+        "Attend to the patient, record the report and assistance provided, notify the appropriate person, and complete the safety report if required"
+      ],
+      "answer": 3,
+      "explanation": "Care, factual documentation, notification, and safety reporting together address the event.",
+      "explanationImage": null,
+      "tags": [
+        "Integration and Capstone"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch04-q184",
+      "stem": "You work in two settings and are unsure whether your insurance applies everywhere. What is the correct course?",
+      "image": null,
+      "options": [
+        "Verify the actual policy with your employer or insurer for each role and location, compare it with the College's requirements, and keep the confirmation",
+        "Assume the broader policy covers everything",
+        "Ignore the question until a claim occurs",
+        "Ask colleagues what they assume"
+      ],
+      "answer": 0,
+      "explanation": "Coverage for each role and location must be verified and documented in advance.",
+      "explanationImage": null,
+      "tags": [
+        "Integration and Capstone"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch04-q185",
+      "stem": "Which statement correctly contrasts negligence and misconduct?",
+      "image": null,
+      "options": [
+        "They are identical concepts",
+        "Misconduct requires patient harm",
+        "Negligence is decided by the employer alone",
+        "Negligence is a legal question requiring duty, standard breach, harm, and causation; misconduct is a professional-conduct question that can exist without any lawsuit"
+      ],
+      "answer": 3,
+      "explanation": "The two questions use different frameworks and decision-makers.",
+      "explanationImage": null,
+      "tags": [
+        "Integration and Capstone"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch04-q186",
+      "stem": "A patient is injured during transfer. Which reasoning is most defensible?",
+      "image": null,
+      "options": [
+        "Conclude immediately that negligence occurred",
+        "Conclude that nothing can be done",
+        "Care for the patient first, document and report honestly, and allow the appropriate review to examine whether duty, standard, harm, and causation are established",
+        "Decide the legal outcome yourself"
+      ],
+      "answer": 2,
+      "explanation": "Care and honest process come first; legal conclusions require evidence and proper review.",
+      "explanationImage": null,
+      "tags": [
+        "Integration and Capstone"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch04-q187",
+      "stem": "Which action BEST applies the ethical decision-making process to a boundary concern?",
+      "image": null,
+      "options": [
+        "Choose the fastest option and document later",
+        "Explain the problem plainly, separate facts from assumptions, consider who is affected, identify the principles and requirements, compare options and seek guidance, then document",
+        "Ignore the problem to preserve harmony",
+        "Decide alone without guidance"
+      ],
+      "answer": 1,
+      "explanation": "The six-step process provides the structure for resolving the concern defensibly.",
+      "explanationImage": null,
+      "tags": [
+        "Integration and Capstone"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch04-q188",
+      "stem": "What is the correct status of the six-step ethical framework when answering an exam or practice question?",
+      "image": null,
+      "options": [
+        "A legislated procedure with legal penalties for deviation",
+        "A hospital policy in every department",
+        "A teaching framework that supports reasoning — not a quoted rule issued by the CMRITO",
+        "A court-mandated test"
+      ],
+      "answer": 2,
+      "explanation": "The framework is a reasoning aid, and questions testing this distinction are common.",
+      "explanationImage": null,
+      "tags": [
+        "Integration and Capstone"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch04-q189",
+      "stem": "A patient refuses to continue after a difficult experience. Which combination respects their autonomy and professionalism?",
+      "image": null,
+      "options": [
+        "Stop, acknowledge without defensiveness, offer options without pressure, involve the supervisor, and document the decision and discussion",
+        "Argue, finish, document, and discharge",
+        "Pressure, reassure falsely, and record nothing",
+        "Blame, hurry, and leave"
+      ],
+      "answer": 0,
+      "explanation": "The complete response protects autonomy through stopping, honest acknowledgement, options, supervision, and documentation.",
+      "explanationImage": null,
+      "tags": [
+        "Integration and Capstone"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch04-q190",
+      "stem": "Which statement about an allegation circulating among staff is correct?",
+      "image": null,
+      "options": [
+        "An allegation is proof of misconduct",
+        "An allegation is someone's account and has not been established — describe it as such and protect everyone's privacy",
+        "An allegation justifies public discussion",
+        "An allegation ends a career automatically"
+      ],
+      "answer": 1,
+      "explanation": "Accurate language about allegations protects fairness, privacy, and professional standards.",
+      "explanationImage": null,
+      "tags": [
+        "Integration and Capstone"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch04-q191",
+      "stem": "A student is asked by a patient, \"Did you find anything?\" What is the best response given the student's role?",
+      "image": null,
+      "options": [
+        "Explain the student's supervised role and that the physician reviews the study and the care team explains results — and ensure the question is passed to the appropriate person",
+        "Offer an interpretation to be helpful",
+        "Hide the student status",
+        "Ignore the patient's question"
+      ],
+      "answer": 0,
+      "explanation": "Honest role identification plus follow-through on the question protects the patient.",
+      "explanationImage": null,
+      "tags": [
+        "Integration and Capstone"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch04-q192",
+      "stem": "Which situation provides \"reasonable grounds\" for reporting suspected sexual abuse?",
+      "image": null,
+      "options": [
+        "A vague unease about a colleague",
+        "A rumour heard in the break room",
+        "Specific facts and observations that would lead a reasonable person to conclude the abuse likely occurred",
+        "Dislike of a colleague"
+      ],
+      "answer": 2,
+      "explanation": "Reasonable grounds rest on specific facts and observations, not rumours or unease.",
+      "explanationImage": null,
+      "tags": [
+        "Integration and Capstone"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch04-q193",
+      "stem": "After participating in a disclosure discussion, what must you avoid?",
+      "image": null,
+      "options": [
+        "Recording what was said",
+        "Following the organization's process",
+        "Guessing about causes or assigning blame before facts are established",
+        "Supporting the patient"
+      ],
+      "answer": 2,
+      "explanation": "Disclosure requires honesty about known facts without speculation about cause or blame.",
+      "explanationImage": null,
+      "tags": [
+        "Integration and Capstone"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch04-q194",
+      "stem": "A patient consents to a report about their abuse but asks that their name not appear. What must be understood?",
+      "image": null,
+      "options": [
+        "No report may be made without a name",
+        "The report is still made, without the name — withholding the name is different from making no report",
+        "The duty ends if the name is withheld",
+        "The name may be included anyway"
+      ],
+      "answer": 1,
+      "explanation": "The duty is discharged by reporting; the name is included only with written consent.",
+      "explanationImage": null,
+      "tags": [
+        "Integration and Capstone"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch04-q195",
+      "stem": "A 12-year-old says, \"I'm scared to go home. My caregiver hits me.\" What is the correct integrated response?",
+      "image": null,
+      "options": [
+        "Thank the child, avoid leading questions, record the words accurately, report directly and immediately to a Children's Aid Society, involve the supervisor, and follow safety instructions",
+        "Investigate the caregiver first",
+        "Promise to keep it secret",
+        "Wait for proof before acting"
+      ],
+      "answer": 0,
+      "explanation": "The integrated response covers the child's words, the report, supervisory involvement, and safety.",
+      "explanationImage": null,
+      "tags": [
+        "Integration and Capstone"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch04-q196",
+      "stem": "Which statement about insurance and a difficult procedure is correct?",
+      "image": null,
+      "options": [
+        "Insurance authorizes any procedure",
+        "Having insurance does not authorize a procedure you are not trained and authorized to perform",
+        "Insurance replaces supervision",
+        "Insurance removes reporting duties"
+      ],
+      "answer": 1,
+      "explanation": "Coverage addresses claims — never permission, competence, or supervision.",
+      "explanationImage": null,
+      "tags": [
+        "Integration and Capstone"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch04-q197",
+      "stem": "Which pair of questions should a practitioner ask before performing a task?",
+      "image": null,
+      "options": [
+        "\"Is it quick?\" and \"Is it convenient?\"",
+        "\"Am I authorised and competent to perform the task?\" and \"Do I have the required coverage for my practice?\"",
+        "\"Did I sign in?\" and \"Did I park well?\"",
+        "\"Is it documented later?\" and \"Is it popular?\""
+      ],
+      "answer": 1,
+      "explanation": "Authority, competence, and coverage are separate requirements that must each be satisfied.",
+      "explanationImage": null,
+      "tags": [
+        "Integration and Capstone"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch04-q198",
+      "stem": "A sonographer realizes they gave a patient premature reassurance. What is the most professional response?",
+      "image": null,
+      "options": [
+        "Correct the misunderstanding honestly, ensure the patient understands the actual results process, and document the correction",
+        "Say nothing and hope the patient forgets",
+        "Repeat the reassurance",
+        "Avoid the patient thereafter"
+      ],
+      "answer": 0,
+      "explanation": "Honest correction and process clarification restore accurate understanding and trust.",
+      "explanationImage": null,
+      "tags": [
+        "Integration and Capstone"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch04-q199",
+      "stem": "Which action is NEVER acceptable after an event?",
+      "image": null,
+      "options": [
+        "Reporting the event promptly",
+        "Documenting the facts honestly",
+        "Participating in the review",
+        "Altering or concealing records to make the event appear not to have occurred"
+      ],
+      "answer": 3,
+      "explanation": "Concealment and falsification may amount to professional misconduct and compound the original event.",
+      "explanationImage": null,
+      "tags": [
+        "Integration and Capstone"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch04-q200",
+      "stem": "Which combination BEST represents ethical practice as presented in this module?",
+      "image": null,
+      "options": [
+        "Work quickly, avoid reporting, conceal errors, assume coverage, and decide alone",
+        "Break boundaries when patients consent, ignore reporting duties, blame others, and never document",
+        "Maintain clear boundaries with explained clinical purpose, report when duties apply, respond to events with care and honesty, verify insurance before claims, and reason through decisions using principles, requirements, guidance, and documentation",
+        "Focus only on image quality and leave ethics to managers"
+      ],
+      "answer": 2,
+      "explanation": "Each element reflects a core expectation of the module — boundaries, reporting, event response, verified coverage, and structured ethical reasoning.",
+      "explanationImage": null,
+      "tags": [
+        "Integration and Capstone"
+      ],
+      "reference": ""
+    }
+  ]
 }

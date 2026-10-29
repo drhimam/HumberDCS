@@ -1,5 +1,3606 @@
 {
   "chapterId": "ch01",
-  "title": "Ethics & Consent",
-  "questions": []
+  "title": "Module 1: The Profession and Sonographer's Role",
+  "questions": [
+    {
+      "id": "DCS5006-ch01-q001",
+      "stem": "Which statement best describes the profession of diagnostic medical sonography?",
+      "image": null,
+      "options": [
+        "The use of ionizing radiation to produce cross-sectional images of the body",
+        "The use of magnetic fields and radiofrequency pulses to evaluate tissue",
+        "The use of high-frequency sound waves to produce images and information used to assess patients",
+        "The administration of radiopharmaceuticals to evaluate organ function"
+      ],
+      "answer": 2,
+      "explanation": "Sonography uses high-frequency sound waves to generate images and patient data. The other options describe radiography, magnetic resonance imaging, and nuclear medicine.",
+      "explanationImage": null,
+      "tags": [
+        "The Profession and the Sonographer's Role"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch01-q002",
+      "stem": "Which component is part of the Ontario scope of practice for a diagnostic medical sonographer?",
+      "image": null,
+      "options": [
+        "Assessing the patient before, during, and after the examination",
+        "Diagnosing disease from the images obtained",
+        "Prescribing the imaging examination based on the sonographer's findings",
+        "Independently initiating examinations without any order"
+      ],
+      "answer": 0,
+      "explanation": "The Ontario scope includes using sound waves for diagnostic ultrasound, evaluating the images and resulting patient data, and assessing the patient before, during, and after the exam. Diagnosis and ordering remain the responsibility of the ordering clinician.",
+      "explanationImage": null,
+      "tags": [
+        "The Profession and the Sonographer's Role"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch01-q003",
+      "stem": "A student observing in an ultrasound department is asked by a patient, \"Are you a doctor?\" What is the most appropriate response?",
+      "image": null,
+      "options": [
+        "\"I am a student sonographer working under supervision.\"",
+        "\"Yes, I am a doctor in training.\"",
+        "\"I am part of the medical team, so yes.\"",
+        "\"I cannot answer that question.\""
+      ],
+      "answer": 0,
+      "explanation": "Students must identify themselves as students and describe their role accurately. Misrepresenting one's status to a patient is dishonest and undermines informed consent.",
+      "explanationImage": null,
+      "tags": [
+        "The Profession and the Sonographer's Role"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch01-q004",
+      "stem": "What is the primary purpose of regulating the sonography profession in Ontario?",
+      "image": null,
+      "options": [
+        "To limit the number of practitioners in the workforce",
+        "To increase the income of registered sonographers",
+        "To allow sonographers to diagnose disease independently",
+        "To protect the public by ensuring competent, ethical practice"
+      ],
+      "answer": 3,
+      "explanation": "Regulation exists to serve and protect the public interest by ensuring that practitioners meet defined standards of competence and conduct.",
+      "explanationImage": null,
+      "tags": [
+        "The Profession and the Sonographer's Role"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch01-q005",
+      "stem": "Which activity falls within the sonographer's role in the professional practice of ultrasound?",
+      "image": null,
+      "options": [
+        "Selecting and performing the appropriate imaging protocol for the ordered examination",
+        "Communicating relevant image findings through a technical impression",
+        "Confirming the patient's readiness and safety for the examination",
+        "All of the above"
+      ],
+      "answer": 3,
+      "explanation": "Professional practice includes protocol selection, patient assessment and safety, and clear communication of objective image findings to the ordering clinician.",
+      "explanationImage": null,
+      "tags": [
+        "The Profession and the Sonographer's Role"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch01-q006",
+      "stem": "Which of the following best defines \"professional practice\" for a sonographer?",
+      "image": null,
+      "options": [
+        "Producing images as quickly as possible to increase department throughput",
+        "Providing safe, competent, patient-centred care within one's authorized scope",
+        "Following every instruction from a physician without question",
+        "Performing only the examinations listed on the daily schedule"
+      ],
+      "answer": 1,
+      "explanation": "Professional practice means delivering safe, competent, ethical care within one's scope while exercising independent professional judgement.",
+      "explanationImage": null,
+      "tags": [
+        "The Profession and the Sonographer's Role"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch01-q007",
+      "stem": "Which of the following best distinguishes a \"profession\" from a \"job\"?",
+      "image": null,
+      "options": [
+        "A profession always pays more than a job",
+        "A profession requires no continuing education",
+        "A profession requires specialized education, a code of ethics, standards of practice, and accountability to a regulator",
+        "A profession has no regulatory oversight"
+      ],
+      "answer": 2,
+      "explanation": "Professions are defined by specialized knowledge, self-regulation through a formal regulator, enforced standards, and accountability to the public.",
+      "explanationImage": null,
+      "tags": [
+        "The Profession and the Sonographer's Role"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch01-q008",
+      "stem": "A sonographer obtains images that appear to show an abnormality. What is the sonographer's most appropriate action?",
+      "image": null,
+      "options": [
+        "Record a definitive medical diagnosis in the report",
+        "Withhold the finding so as not to alarm the patient",
+        "Document objective findings and communicate them through the technical impression and appropriate escalation",
+        "Delete the images and repeat the examination until the finding disappears"
+      ],
+      "answer": 2,
+      "explanation": "Sonographers document and communicate objective findings through a technical impression; diagnosis remains with the physician. Findings of concern must also be escalated.",
+      "explanationImage": null,
+      "tags": [
+        "The Profession and the Sonographer's Role"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch01-q009",
+      "stem": "Ethical practice in sonography begins primarily with:",
+      "image": null,
+      "options": [
+        "Protecting the employer's reputation",
+        "Placing patient welfare and the public interest first",
+        "Avoiding all contact with patients",
+        "Completing as many examinations as possible each day"
+      ],
+      "answer": 1,
+      "explanation": "The foundation of ethical practice is the primacy of patient welfare and the public interest over personal or institutional interests.",
+      "explanationImage": null,
+      "tags": [
+        "The Profession and the Sonographer's Role"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch01-q010",
+      "stem": "Who is ultimately responsible for a registrant's professional conduct?",
+      "image": null,
+      "options": [
+        "The hospital's human resources department",
+        "The ordering physician",
+        "The individual registrant",
+        "The patient"
+      ],
+      "answer": 2,
+      "explanation": "Each registrant is personally accountable for their own professional behaviour and decisions, regardless of workplace pressures.",
+      "explanationImage": null,
+      "tags": [
+        "The Profession and the Sonographer's Role"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch01-q011",
+      "stem": "In Ontario, a diagnostic medical sonographer applies sound waves for diagnostic ultrasound. What is the legal basis for performing this activity?",
+      "image": null,
+      "options": [
+        "It is permitted under an exemption in the Regulated Health Professions Act, 1991",
+        "It is one of the 14 controlled acts under the Regulated Health Professions Act, 1991",
+        "It is an authorized act listed under the Medical Radiation Technologists Act, 2017",
+        "It requires a separate licence from Health Canada"
+      ],
+      "answer": 0,
+      "explanation": "Applying sound waves for diagnostic ultrasound is permitted through an exemption in the Regulated Health Professions Act, 1991 rather than as a controlled act.",
+      "explanationImage": null,
+      "tags": [
+        "The Profession and the Sonographer's Role"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch01-q012",
+      "stem": "Which of the following best defines \"scope of practice\"?",
+      "image": null,
+      "options": [
+        "The range of activities a registrant is legally permitted to perform",
+        "The number of examinations a sonographer performs per shift",
+        "The personal preferences of the individual sonographer",
+        "The list of equipment available in a department"
+      ],
+      "answer": 0,
+      "explanation": "Scope of practice is defined by legislation, regulatory standards, and professional standards — not by personal preference or workload.",
+      "explanationImage": null,
+      "tags": [
+        "The Profession and the Sonographer's Role"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch01-q013",
+      "stem": "Which statement about the sonographer's assessment role is correct?",
+      "image": null,
+      "options": [
+        "The assessment is limited to checking the patient's date of birth",
+        "The assessment replaces the physician's clinical evaluation",
+        "The assessment focuses on exam readiness, safety, and the patient's response during the examination",
+        "The assessment is unnecessary if the order is written"
+      ],
+      "answer": 2,
+      "explanation": "Sonographers assess the patient before, during, and after the exam to confirm readiness, safety, and tolerance of the procedure.",
+      "explanationImage": null,
+      "tags": [
+        "The Profession and the Sonographer's Role"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch01-q014",
+      "stem": "A regulated health professional is accountable to all of the following EXCEPT:",
+      "image": null,
+      "options": [
+        "The public, through the regulator",
+        "The employer, through workplace policies",
+        "The patient's family, who may direct the examination",
+        "The profession, through standards of practice"
+      ],
+      "answer": 2,
+      "explanation": "Accountability runs to the public, the regulator, the employer, and the profession. Patients' families do not direct professional practice.",
+      "explanationImage": null,
+      "tags": [
+        "The Profession and the Sonographer's Role"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch01-q015",
+      "stem": "Which statement correctly describes the relationship between scope of practice and individual competence?",
+      "image": null,
+      "options": [
+        "Scope of practice and competence mean the same thing",
+        "Competence is set by legislation; scope is set by the individual",
+        "If a task is within scope, every registrant is automatically competent to perform it",
+        "Scope is what you are legally allowed to do; competence is what you are actually trained and able to do"
+      ],
+      "answer": 3,
+      "explanation": "Scope defines the legal and professional boundaries of practice, while competence reflects the individual's actual knowledge, skills, and judgement.",
+      "explanationImage": null,
+      "tags": [
+        "Scope of Practice Versus Individual Competence"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch01-q016",
+      "stem": "A task may be within a sonographer's scope of practice, but the sonographer has never been trained to perform it. What should happen?",
+      "image": null,
+      "options": [
+        "The sonographer should attempt it and learn from any mistakes",
+        "The sonographer should ask a colleague to supervise informally without documentation",
+        "The sonographer should not perform it until appropriately trained and assessed as competent",
+        "The sonographer should perform it because the order authorizes it"
+      ],
+      "answer": 2,
+      "explanation": "Being within scope does not establish individual competence. The sonographer must obtain the required training and competency assessment first.",
+      "explanationImage": null,
+      "tags": [
+        "Scope of Practice Versus Individual Competence"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch01-q017",
+      "stem": "Before performing any procedure, which three questions should a sonographer ask?",
+      "image": null,
+      "options": [
+        "Is it covered by insurance? Is it time-consuming? Is it documented?",
+        "Is the patient comfortable? Is the room warm? Is the machine calibrated?",
+        "Is the physician available? Is the report due? Is the shift ending?",
+        "Is it legally within my scope? Am I trained and competent? Is it permitted by the order, standards, and policy?"
+      ],
+      "answer": 3,
+      "explanation": "The three pre-procedure questions address legality, personal competence, and authorization. All three must be satisfied before proceeding.",
+      "explanationImage": null,
+      "tags": [
+        "Scope of Practice Versus Individual Competence"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch01-q018",
+      "stem": "A sonographer answers \"no\" or is uncertain about any of the three pre-procedure questions. What is the correct course of action?",
+      "image": null,
+      "options": [
+        "Proceed slowly and monitor the patient",
+        "Pause and seek guidance from a supervisor or the appropriate authority",
+        "Continue because the order was signed by a physician",
+        "Ask the patient to decide whether to continue"
+      ],
+      "answer": 1,
+      "explanation": "Any \"no\" or uncertainty means the procedure should be paused while the sonographer seeks guidance before proceeding.",
+      "explanationImage": null,
+      "tags": [
+        "Scope of Practice Versus Individual Competence"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch01-q019",
+      "stem": "Which of the following best explains why scope of practice and competence are not interchangeable?",
+      "image": null,
+      "options": [
+        "Scope can expand whenever a sonographer gains confidence",
+        "Competence is defined by the employer only",
+        "Scope is externally defined, while competence is individually demonstrated",
+        "Scope applies only to physicians"
+      ],
+      "answer": 2,
+      "explanation": "Scope is set by legislation, regulators, employers, and professional standards; competence is the individual's demonstrated ability to perform safely.",
+      "explanationImage": null,
+      "tags": [
+        "Scope of Practice Versus Individual Competence"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch01-q020",
+      "stem": "A sonographer realizes during an examination that the patient's clinical presentation is outside what the sonographer is trained to manage. What should the sonographer do?",
+      "image": null,
+      "options": [
+        "Continue the examination to avoid delaying the patient",
+        "Finish the examination quickly and say nothing",
+        "Ask the patient to reschedule",
+        "Pause the examination, assess the patient's stability, and escalate to the appropriate clinician"
+      ],
+      "answer": 3,
+      "explanation": "When uncertainty or a new concern arises, the sonographer should pause, ensure the patient is stable, and escalate appropriately.",
+      "explanationImage": null,
+      "tags": [
+        "Scope of Practice Versus Individual Competence"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch01-q021",
+      "stem": "Which source has the greatest authority in defining a sonographer's scope of practice?",
+      "image": null,
+      "options": [
+        "A personal promise made to a colleague",
+        "An informal departmental habit",
+        "The preferences of the most senior sonographer",
+        "Legislation and the standards of the regulator"
+      ],
+      "answer": 3,
+      "explanation": "Scope is established primarily by legislation and regulator standards; workplace habits and personal promises cannot expand it.",
+      "explanationImage": null,
+      "tags": [
+        "Scope of Practice Versus Individual Competence"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch01-q022",
+      "stem": "A sonographer is asked to perform a new imaging technique that is not included in departmental policy and for which the sonographer has no training. What is the most professional response?",
+      "image": null,
+      "options": [
+        "Accept because refusing would inconvenience the department",
+        "Perform the technique under the direction of a patient's family member",
+        "Refuse the request and explain that training and policy authorization are required first",
+        "Perform the technique and document nothing"
+      ],
+      "answer": 2,
+      "explanation": "Professionalism requires declining to act beyond competence and seeking proper training and policy authorization.",
+      "explanationImage": null,
+      "tags": [
+        "Scope of Practice Versus Individual Competence"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch01-q023",
+      "stem": "Which statement about competence is TRUE?",
+      "image": null,
+      "options": [
+        "Competence is fixed at graduation and never changes",
+        "Competence can be developed and maintained through education, training, and experience",
+        "Competence is irrelevant once a registrant is in good standing",
+        "Competence is determined solely by years of service"
+      ],
+      "answer": 1,
+      "explanation": "Competence must be actively developed and maintained through continuing education, supervised practice, and ongoing assessment.",
+      "explanationImage": null,
+      "tags": [
+        "Scope of Practice Versus Individual Competence"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch01-q024",
+      "stem": "Which scenario best illustrates practicing WITHIN one's scope and competence?",
+      "image": null,
+      "options": [
+        "A sonographer performs a complex study after one day of informal observation",
+        "A sonographer performs a study for which they are trained, it is ordered, and it is permitted by policy",
+        "A sonographer performs an untrained procedure because the department is short-staffed",
+        "A sonographer performs an examination without verifying the order"
+      ],
+      "answer": 1,
+      "explanation": "Practicing within scope and competence requires that the activity be legal, individually mastered, and authorized.",
+      "explanationImage": null,
+      "tags": [
+        "Scope of Practice Versus Individual Competence"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch01-q025",
+      "stem": "Which of the following is NOT one of the three pre-procedure questions?",
+      "image": null,
+      "options": [
+        "Is it legally within my scope?",
+        "Am I trained and competent to perform it?",
+        "Is it permitted by the order, standards, and policy?",
+        "Will performing it increase my hourly productivity?"
+      ],
+      "answer": 3,
+      "explanation": "Productivity has no place in the safety check. The three questions address legality, competence, and authorization.",
+      "explanationImage": null,
+      "tags": [
+        "Scope of Practice Versus Individual Competence"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch01-q026",
+      "stem": "A physician asks a sonographer to perform a procedure the sonographer has never done, stating, \"I am the doctor, so you can do it.\" What is the correct response?",
+      "image": null,
+      "options": [
+        "Explain that the sonographer must confirm scope, competence, and authorization before performing it",
+        "Comply immediately because the physician has authority",
+        "Perform it but tell no one",
+        "Ask the patient for permission instead"
+      ],
+      "answer": 0,
+      "explanation": "A physician's instruction does not override the sonographer's own obligations regarding scope, competence, and policy.",
+      "explanationImage": null,
+      "tags": [
+        "Scope of Practice Versus Individual Competence"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch01-q027",
+      "stem": "What is the BEST description of the relationship between the three pre-procedure questions?",
+      "image": null,
+      "options": [
+        "They are optional courtesies",
+        "Only the first question matters",
+        "They apply only to invasive procedures",
+        "All three must be answered \"yes\" before proceeding; any \"no\" or uncertainty requires a pause"
+      ],
+      "answer": 3,
+      "explanation": "The three questions function as an all-or-nothing safety check; uncertainty in any one of them means the sonographer must stop and seek guidance.",
+      "explanationImage": null,
+      "tags": [
+        "Scope of Practice Versus Individual Competence"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch01-q028",
+      "stem": "A highly experienced sonographer is asked to perform an examination that is outside the department's approved protocol list. What should the experience level of the sonographer change?",
+      "image": null,
+      "options": [
+        "Everything — experience alone expands the legal scope",
+        "The sonographer may proceed without any documentation",
+        "The sonographer may create a new protocol alone",
+        "Nothing — the protocol list still governs, and authorization is required"
+      ],
+      "answer": 3,
+      "explanation": "Experience does not expand legal scope or replace policy authorization; the sonographer must obtain proper approval and training.",
+      "explanationImage": null,
+      "tags": [
+        "Scope of Practice Versus Individual Competence"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch01-q029",
+      "stem": "Which statement correctly compares scope and competence?",
+      "image": null,
+      "options": [
+        "Scope sets the outer boundary; competence determines what the individual may safely do within it",
+        "Competence can never exceed scope",
+        "Scope and competence are both determined by the patient",
+        "Competence is irrelevant once a task is within scope"
+      ],
+      "answer": 0,
+      "explanation": "Scope is the legal ceiling, while competence is the individual's demonstrated ability to work safely beneath that ceiling.",
+      "explanationImage": null,
+      "tags": [
+        "Scope of Practice Versus Individual Competence"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch01-q030",
+      "stem": "A student is asked to perform an examination independently on a clinical placement. What is the appropriate response?",
+      "image": null,
+      "options": [
+        "Perform it because the student has completed classroom training",
+        "Perform it and document it under the supervising sonographer's name",
+        "Perform it if the patient agrees",
+        "Decline and perform only under appropriate supervision, as students practise under supervision"
+      ],
+      "answer": 3,
+      "explanation": "Students must identify as students and practise under supervision; they do not hold independent scope of practice.",
+      "explanationImage": null,
+      "tags": [
+        "Scope of Practice Versus Individual Competence"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch01-q031",
+      "stem": "Which of the following is an element of individual competence?",
+      "image": null,
+      "options": [
+        "Seniority alone",
+        "The number of shifts worked",
+        "Personal familiarity with the department chair",
+        "Knowledge, technical skill, critical thinking, and professional judgement"
+      ],
+      "answer": 3,
+      "explanation": "Competence encompasses knowledge, skills, abilities, and judgement — not time served or personal connections.",
+      "explanationImage": null,
+      "tags": [
+        "Scope of Practice Versus Individual Competence"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch01-q032",
+      "stem": "A new examination protocol is introduced by the department, but the sonographers have not yet been trained on it. What is the appropriate action before the protocol is used clinically?",
+      "image": null,
+      "options": [
+        "Complete the required training and competency assessment before using it",
+        "Use it immediately because it is department policy",
+        "Use it on patients who consent to being \"test cases\" without documentation",
+        "Delegate it entirely to students"
+      ],
+      "answer": 0,
+      "explanation": "New protocols require training and validation of competence before clinical use; policy alone does not confer competence.",
+      "explanationImage": null,
+      "tags": [
+        "Scope of Practice Versus Individual Competence"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch01-q033",
+      "stem": "Which statement best defines a \"regulated profession\"?",
+      "image": null,
+      "options": [
+        "A profession in which practitioners set their own rules without oversight",
+        "A profession in which the government sets all wages",
+        "A profession in which practitioners must be registered with a legally established regulator to practise",
+        "A profession that requires no education or examination"
+      ],
+      "answer": 2,
+      "explanation": "Regulated professions operate under provincial legislation that establishes a regulator with authority over registration, standards, and discipline.",
+      "explanationImage": null,
+      "tags": [
+        "The Regulated Professional and Accountability"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch01-q034",
+      "stem": "In Ontario, the title \"Diagnostic Medical Sonographer\" is protected. What does this mean?",
+      "image": null,
+      "options": [
+        "Anyone may use the title after working one year",
+        "The title may be used by all hospital employees",
+        "Only individuals registered with the regulator may use the title",
+        "The title is protected only on business cards"
+      ],
+      "answer": 2,
+      "explanation": "Title protection means it is an offence to use the title unless registered with the appropriate regulator — in Ontario, the CMRITO.",
+      "explanationImage": null,
+      "tags": [
+        "The Regulated Professional and Accountability"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch01-q035",
+      "stem": "Which group does a regulated health professional primarily serve through regulation?",
+      "image": null,
+      "options": [
+        "The public",
+        "The employer's marketing department",
+        "The professional association's membership committee",
+        "Equipment manufacturers"
+      ],
+      "answer": 0,
+      "explanation": "Regulation exists to serve and protect the public interest, not the interests of practitioners or industry.",
+      "explanationImage": null,
+      "tags": [
+        "The Regulated Professional and Accountability"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch01-q036",
+      "stem": "What does \"self-regulation\" mean in the context of regulated health professions?",
+      "image": null,
+      "options": [
+        "Practitioners regulate themselves individually with no oversight",
+        "The profession is regulated by a statutory college governed by legislation, with public representation, rather than by the government directly",
+        "Each hospital creates its own laws",
+        "Patients vote on standards of practice"
+      ],
+      "answer": 1,
+      "explanation": "Self-regulation means the profession is accountable to a legislated regulator that sets and enforces standards on behalf of the public.",
+      "explanationImage": null,
+      "tags": [
+        "The Regulated Professional and Accountability"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch01-q037",
+      "stem": "Which body has the authority to remove a sonographer's registration in Ontario for professional misconduct?",
+      "image": null,
+      "options": [
+        "Sonography Canada",
+        "The CMRITO, through its complaints and discipline process",
+        "The hospital's ultrasound department",
+        "The ordering physician"
+      ],
+      "answer": 1,
+      "explanation": "The CMRITO is the regulator with statutory authority over registration, standards, complaints, and discipline for medical radiation technologists, including sonographers.",
+      "explanationImage": null,
+      "tags": [
+        "The Regulated Professional and Accountability"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch01-q038",
+      "stem": "Which of the following is an example of professional accountability in daily practice?",
+      "image": null,
+      "options": [
+        "Blaming a colleague when an error is discovered",
+        "Hiding an error so no one finds out",
+        "Documenting accurately, communicating findings, and accepting responsibility for one's work",
+        "Following orders without verifying them"
+      ],
+      "answer": 2,
+      "explanation": "Accountability means being answerable for one's actions through accurate documentation, appropriate communication, and ownership of outcomes.",
+      "explanationImage": null,
+      "tags": [
+        "The Regulated Professional and Accountability"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch01-q039",
+      "stem": "A sonographer follows a physician's instruction that the sonographer knows is outside their scope. Who shares responsibility for the outcome?",
+      "image": null,
+      "options": [
+        "Only the physician",
+        "The sonographer, because each registrant is responsible for their own practice",
+        "Only the hospital administrator",
+        "No one, because it was a physician's order"
+      ],
+      "answer": 1,
+      "explanation": "Registrants must exercise independent professional judgement; following an instruction does not transfer away one's own accountability.",
+      "explanationImage": null,
+      "tags": [
+        "The Regulated Professional and Accountability"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch01-q040",
+      "stem": "Which of the following is NOT typically a responsibility of a regulatory college?",
+      "image": null,
+      "options": [
+        "Advocating for higher member salaries",
+        "Registering qualified practitioners",
+        "Setting and enforcing standards of practice",
+        "Investigating complaints and conducting discipline"
+      ],
+      "answer": 0,
+      "explanation": "Regulators protect the public through registration, standards, and complaints processes; they do not act as advocacy or salary-lobbying bodies.",
+      "explanationImage": null,
+      "tags": [
+        "The Regulated Professional and Accountability"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch01-q041",
+      "stem": "A sonographer discovers that a report they signed contains an incorrect finding. What is the most accountable action?",
+      "image": null,
+      "options": [
+        "Ignore it because the report has already been filed",
+        "Notify the appropriate clinician and document the correction promptly",
+        "Wait to see whether anyone notices",
+        "Ask a colleague to quietly alter the report without a trace"
+      ],
+      "answer": 1,
+      "explanation": "Accountability requires prompt disclosure and transparent correction of errors through proper documentation channels.",
+      "explanationImage": null,
+      "tags": [
+        "The Regulated Professional and Accountability"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch01-q042",
+      "stem": "To whom is a registered sonographer accountable in the workplace?",
+      "image": null,
+      "options": [
+        "Only to the patient",
+        "To the public, the regulator, the employer, and the profession",
+        "Only to the employer",
+        "Only to the equipment manufacturer"
+      ],
+      "answer": 1,
+      "explanation": "Professional accountability is multidimensional and extends to the public, the regulator, the employer, and the profession.",
+      "explanationImage": null,
+      "tags": [
+        "The Regulated Professional and Accountability"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch01-q043",
+      "stem": "Which action best demonstrates accountability to the public?",
+      "image": null,
+      "options": [
+        "Prioritizing personal convenience over patient safety",
+        "Performing procedures to impress colleagues",
+        "Practising only within competence and seeking help when uncertain",
+        "Avoiding documentation to save time"
+      ],
+      "answer": 2,
+      "explanation": "Accountability to the public is demonstrated by safe practice, honest self-assessment, and timely escalation of uncertainty.",
+      "explanationImage": null,
+      "tags": [
+        "The Regulated Professional and Accountability"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch01-q044",
+      "stem": "What is the consequence of practicing while not registered with the regulator in Ontario?",
+      "image": null,
+      "options": [
+        "No consequence, as long as the work is accurate",
+        "A warning from the professional association only",
+        "A reduction in departmental privileges only",
+        "It is illegal and may result in charges under the legislation protecting the title and scope"
+      ],
+      "answer": 3,
+      "explanation": "Practising or using the protected title without registration contravenes provincial legislation and carries legal consequences.",
+      "explanationImage": null,
+      "tags": [
+        "The Regulated Professional and Accountability"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch01-q045",
+      "stem": "What is the PRIMARY purpose of preparing a patient for an ultrasound examination?",
+      "image": null,
+      "options": [
+        "To make the examination take longer",
+        "To ensure patient safety, diagnostic image quality, and a valid examination",
+        "To reduce the sonographer's workload",
+        "To obtain the patient's signature on a form"
+      ],
+      "answer": 1,
+      "explanation": "Preparation supports safety, optimizes image quality, and ensures the examination can answer the clinical question.",
+      "explanationImage": null,
+      "tags": [
+        "Patient Preparation, Readiness, and Consent"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch01-q046",
+      "stem": "Which of the following is a standard patient identification practice before beginning an examination?",
+      "image": null,
+      "options": [
+        "Guessing based on the patient's appearance",
+        "Confirming at least two patient identifiers, such as name and date of birth",
+        "Using the room number as the only identifier",
+        "Asking the patient to identify themselves from memory only"
+      ],
+      "answer": 1,
+      "explanation": "Two-identifier verification is a fundamental patient safety practice that prevents wrong-patient errors.",
+      "explanationImage": null,
+      "tags": [
+        "Patient Preparation, Readiness, and Consent"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch01-q047",
+      "stem": "Which element is required for valid informed consent?",
+      "image": null,
+      "options": [
+        "Only the patient's signature",
+        "A promise that the results will be normal",
+        "Consent from the sonographer's supervisor",
+        "Information about the procedure, its risks, benefits, alternatives, and the patient's voluntary agreement"
+      ],
+      "answer": 3,
+      "explanation": "Informed consent requires disclosure of the nature, risks, benefits, and alternatives of the procedure plus the patient's voluntary, informed agreement.",
+      "explanationImage": null,
+      "tags": [
+        "Patient Preparation, Readiness, and Consent"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch01-q048",
+      "stem": "Who is normally responsible for obtaining informed consent for an imaging examination?",
+      "image": null,
+      "options": [
+        "The patient's family member",
+        "The equipment manufacturer",
+        "The clinician who ordered the examination, with the sonographer verifying the patient's understanding and willingness",
+        "The hospital's cashier"
+      ],
+      "answer": 2,
+      "explanation": "Consent is typically obtained by the ordering clinician; the sonographer confirms understanding and willingness before proceeding.",
+      "explanationImage": null,
+      "tags": [
+        "Patient Preparation, Readiness, and Consent"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch01-q049",
+      "stem": "Which patient is LEAST likely to be capable of giving informed consent?",
+      "image": null,
+      "options": [
+        "An alert adult who asks questions about the procedure",
+        "An adult who understands and appreciates the information provided",
+        "An adult who asks to have a support person present",
+        "An adult who cannot understand or appreciate the information being provided"
+      ],
+      "answer": 3,
+      "explanation": "Capacity requires the ability to understand and appreciate the relevant information; a patient lacking these abilities cannot consent independently.",
+      "explanationImage": null,
+      "tags": [
+        "Patient Preparation, Readiness, and Consent"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch01-q050",
+      "stem": "An unconscious patient with a life-threatening condition arrives in the emergency department. What principle applies?",
+      "image": null,
+      "options": [
+        "Consent may be implied in an emergency when obtaining it would delay urgent care",
+        "Consent must be obtained from the cashier first",
+        "The examination must be cancelled",
+        "The patient's employer must be contacted first"
+      ],
+      "answer": 0,
+      "explanation": "Implied consent applies in emergencies where seeking explicit consent would cause harmful delay.",
+      "explanationImage": null,
+      "tags": [
+        "Patient Preparation, Readiness, and Consent"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch01-q051",
+      "stem": "Why is fasting often required before a complete abdominal ultrasound?",
+      "image": null,
+      "options": [
+        "To make the patient lose weight",
+        "To reduce bowel gas and gallbladder contraction, improving image quality",
+        "To reduce the sonographer's workload",
+        "Fasting is never required for ultrasound"
+      ],
+      "answer": 1,
+      "explanation": "Fasting limits bowel gas and gallbladder contraction, which improves visualization of the abdominal structures.",
+      "explanationImage": null,
+      "tags": [
+        "Patient Preparation, Readiness, and Consent"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch01-q052",
+      "stem": "Before performing an examination, which of the following should be confirmed to ensure patient readiness?",
+      "image": null,
+      "options": [
+        "That the patient has no questions at all",
+        "That the patient has signed a waiver releasing all providers",
+        "That the required preparation (such as fasting or bladder filling) has been completed",
+        "That the patient's family has left the building"
+      ],
+      "answer": 2,
+      "explanation": "Confirming completion of required preparation prevents unnecessary delays and repeat appointments.",
+      "explanationImage": null,
+      "tags": [
+        "Patient Preparation, Readiness, and Consent"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch01-q053",
+      "stem": "Why is a patient typically asked to remove jewelry and metallic objects before an ultrasound examination?",
+      "image": null,
+      "options": [
+        "Metal objects can create artifacts that degrade image quality",
+        "Metal is dangerous to ultrasound equipment",
+        "The hospital sells jewelry",
+        "It is a legal requirement for all imaging"
+      ],
+      "answer": 0,
+      "explanation": "Metallic objects can produce artifacts that obscure or degrade the images; removal improves diagnostic quality.",
+      "explanationImage": null,
+      "tags": [
+        "Patient Preparation, Readiness, and Consent"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch01-q054",
+      "stem": "A patient expresses embarrassment about disrobing for the examination. What is the most appropriate response?",
+      "image": null,
+      "options": [
+        "Tell the patient the examination cannot proceed",
+        "Offer privacy, explain the need for the area to be exposed, and use appropriate draping",
+        "Expose the patient quickly to save time",
+        "Ask another patient for their opinion"
+      ],
+      "answer": 1,
+      "explanation": "Maintaining dignity through privacy, explanation, and draping supports consent and patient-centred care.",
+      "explanationImage": null,
+      "tags": [
+        "Patient Preparation, Readiness, and Consent"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch01-q055",
+      "stem": "What is a benefit of explaining the examination procedure to the patient before starting?",
+      "image": null,
+      "options": [
+        "It guarantees a normal result",
+        "It shortens the required preparation time to zero",
+        "It replaces the need for consent",
+        "It reduces anxiety and improves patient cooperation, which improves image quality"
+      ],
+      "answer": 3,
+      "explanation": "Explanation reduces anxiety, builds trust, and improves cooperation, leading to better-quality examinations.",
+      "explanationImage": null,
+      "tags": [
+        "Patient Preparation, Readiness, and Consent"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch01-q056",
+      "stem": "An adult patient lacks decision-making capacity for a non-urgent examination. Who should consent on the patient's behalf?",
+      "image": null,
+      "options": [
+        "The first person who arrives at the department",
+        "The legally recognized substitute decision-maker",
+        "Any coworker of the patient",
+        "The sonographer, to avoid delay"
+      ],
+      "answer": 1,
+      "explanation": "When a patient lacks capacity, consent must come from the legally authorized substitute decision-maker.",
+      "explanationImage": null,
+      "tags": [
+        "Patient Preparation, Readiness, and Consent"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch01-q057",
+      "stem": "Which statement about a patient's right to consent is TRUE?",
+      "image": null,
+      "options": [
+        "Once consent is given, it can never be withdrawn",
+        "Consent can only be given verbally in writing",
+        "Consent is implied for every future examination",
+        "A patient may refuse or withdraw consent at any time"
+      ],
+      "answer": 3,
+      "explanation": "Consent is a voluntary, ongoing process; patients retain the right to refuse or withdraw at any point.",
+      "explanationImage": null,
+      "tags": [
+        "Patient Preparation, Readiness, and Consent"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch01-q058",
+      "stem": "A patient agrees to the examination but refuses a portion of it. What should the sonographer do?",
+      "image": null,
+      "options": [
+        "Complete the entire examination anyway",
+        "Respect the refusal, document it, and communicate it to the ordering clinician",
+        "Pressure the patient until they agree",
+        "Record that the full examination was completed"
+      ],
+      "answer": 1,
+      "explanation": "Patient autonomy must be respected; partial completion and refusal must be documented and communicated so the clinician can decide next steps.",
+      "explanationImage": null,
+      "tags": [
+        "Patient Preparation, Readiness, and Consent"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch01-q059",
+      "stem": "Before administering agitated saline or a ultrasound-enhancing agent in an echocardiogram, which safety check is essential?",
+      "image": null,
+      "options": [
+        "Confirming the patient's favourite colour",
+        "Confirming the room temperature",
+        "Confirming the patient's employment status",
+        "Confirming the patient's allergy history and relevant contraindications"
+      ],
+      "answer": 3,
+      "explanation": "Allergy and contraindication checks are essential before introducing any substance into the patient's circulation.",
+      "explanationImage": null,
+      "tags": [
+        "Patient Preparation, Readiness, and Consent"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch01-q060",
+      "stem": "Which of the following is an important safety consideration during patient positioning?",
+      "image": null,
+      "options": [
+        "Positioning the patient as quickly as possible regardless of comfort",
+        "Never assisting the patient onto the examination table",
+        "Positioning only in one fixed way for every patient",
+        "Ensuring the position is tolerable and safe for the patient, especially if the patient is frail or has limited mobility"
+      ],
+      "answer": 3,
+      "explanation": "Safe positioning protects fragile or mobility-limited patients from falls and injury while allowing the examination to proceed.",
+      "explanationImage": null,
+      "tags": [
+        "Patient Preparation, Readiness, and Consent"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch01-q061",
+      "stem": "Which statement about documenting consent is correct?",
+      "image": null,
+      "options": [
+        "Consent never needs to be documented",
+        "Only verbal consent is acceptable in all cases",
+        "Relevant consent information and any refusal should be documented in the patient's record",
+        "Consent documentation is the patient's responsibility alone"
+      ],
+      "answer": 2,
+      "explanation": "Documenting consent discussions and refusals protects the patient and provides an accurate legal record.",
+      "explanationImage": null,
+      "tags": [
+        "Patient Preparation, Readiness, and Consent"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch01-q062",
+      "stem": "A patient arrives for an examination without completing the required fasting preparation. What is the most appropriate action?",
+      "image": null,
+      "options": [
+        "Perform the examination and hope for adequate images",
+        "Blame the patient publicly",
+        "Perform only the portion of the examination that is unaffected without informing anyone",
+        "Reschedule or delay the examination and clearly communicate the reason to the patient and ordering clinician"
+      ],
+      "answer": 3,
+      "explanation": "Inadequate preparation can invalidate the examination; it should be rescheduled or appropriately managed with clear communication.",
+      "explanationImage": null,
+      "tags": [
+        "Patient Preparation, Readiness, and Consent"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch01-q063",
+      "stem": "What is the PRIMARY reason for verifying the examination order before proceeding?",
+      "image": null,
+      "options": [
+        "To confirm the right patient, the right examination, and a valid clinical indication",
+        "To confirm the sonographer's shift schedule",
+        "To confirm the equipment manufacturer",
+        "To confirm the patient's insurance coverage"
+      ],
+      "answer": 0,
+      "explanation": "Order verification is a patient safety step that confirms identity, the requested examination, and the clinical reason for it.",
+      "explanationImage": null,
+      "tags": [
+        "Verifying the Order and Indication"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch01-q064",
+      "stem": "Which of the following is an acceptable form of order for an ultrasound examination?",
+      "image": null,
+      "options": [
+        "Written order only",
+        "Verbal order, provided it is properly received, confirmed, and documented",
+        "Electronic order only",
+        "No order is ever required"
+      ],
+      "answer": 1,
+      "explanation": "Orders may be written, electronic, or verbal; verbal orders must be confirmed and documented according to policy.",
+      "explanationImage": null,
+      "tags": [
+        "Verifying the Order and Indication"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch01-q065",
+      "stem": "What is the requirement for medical directives that authorize specified health professionals to perform controlled acts?",
+      "image": null,
+      "options": [
+        "They may be oral only",
+        "They may be created verbally by any employee",
+        "They do not need to identify the patients to which they apply",
+        "They must be in writing or in an electronic format and apply to defined groups of patients"
+      ],
+      "answer": 3,
+      "explanation": "Medical directives must be written or electronic, specify the controlled acts, and define the patient group and authorized professionals.",
+      "explanationImage": null,
+      "tags": [
+        "Verifying the Order and Indication"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch01-q066",
+      "stem": "Why is the clinical indication on an order important to the sonographer?",
+      "image": null,
+      "options": [
+        "It guides protocol selection, image optimization, and the relevance of the findings",
+        "It tells the sonographer how to set the machine's screen brightness",
+        "It is only needed for billing purposes",
+        "It has no clinical relevance to image acquisition"
+      ],
+      "answer": 0,
+      "explanation": "The indication provides clinical context that directs protocol choice, optimization, and the focus of the evaluation.",
+      "explanationImage": null,
+      "tags": [
+        "Verifying the Order and Indication"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch01-q067",
+      "stem": "No order can be located for a patient who is booked for an examination. What should the sonographer do?",
+      "image": null,
+      "options": [
+        "Perform the examination because the patient is already booked",
+        "Contact the ordering clinician to obtain or confirm a valid order before performing the examination",
+        "Create an order on behalf of the physician",
+        "Perform the examination and document the order later from memory"
+      ],
+      "answer": 1,
+      "explanation": "An examination should not proceed without a valid order; the sonographer must obtain proper authorization first.",
+      "explanationImage": null,
+      "tags": [
+        "Verifying the Order and Indication"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch01-q068",
+      "stem": "The order states only \"abdominal pain\" with no further detail. What is the most appropriate action?",
+      "image": null,
+      "options": [
+        "Choose any protocol at random",
+        "Clarify the indication with the ordering clinician to select the most appropriate protocol",
+        "Skip the examination",
+        "Record a detailed indication that the sonographer invented"
+      ],
+      "answer": 1,
+      "explanation": "Vague indications should be clarified so the correct protocol is used and the clinical question can be answered.",
+      "explanationImage": null,
+      "tags": [
+        "Verifying the Order and Indication"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch01-q069",
+      "stem": "The order indicates right upper quadrant pain, but the patient reports left lower quadrant pain. What is the best action?",
+      "image": null,
+      "options": [
+        "Pause and clarify the discrepancy with the ordering clinician before proceeding",
+        "Ignore the discrepancy and follow the order exactly",
+        "Image only the area the patient describes without informing anyone",
+        "Image everything without documenting the discrepancy"
+      ],
+      "answer": 0,
+      "explanation": "Discrepancies between the order and the presentation must be resolved to avoid wrong-site or wrong-examination errors.",
+      "explanationImage": null,
+      "tags": [
+        "Verifying the Order and Indication"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch01-q070",
+      "stem": "During a study, the sonographer identifies what appears to be a mobile vegetation on a heart valve. What is the most appropriate immediate action?",
+      "image": null,
+      "options": [
+        "Call the cardiologist immediately and escalate the finding",
+        "Note it in the report and say nothing until the next day",
+        "Delete the images to avoid causing alarm",
+        "Wait for the physician to call the department"
+      ],
+      "answer": 0,
+      "explanation": "A potential valve vegetation is an urgent finding that requires immediate communication to the appropriate clinician.",
+      "explanationImage": null,
+      "tags": [
+        "Verifying the Order and Indication"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch01-q071",
+      "stem": "A patient begins reporting chest pain during an ultrasound examination. What is the FIRST appropriate step?",
+      "image": null,
+      "options": [
+        "Continue the examination to finish quickly",
+        "Assess the patient's stability and pause the examination if symptoms are active",
+        "Tell the patient to wait until the examination is finished",
+        "Ask the patient to walk to the emergency department alone"
+      ],
+      "answer": 1,
+      "explanation": "New symptoms require an immediate stability assessment; if the patient is actively symptomatic, the examination should be paused and escalation initiated.",
+      "explanationImage": null,
+      "tags": [
+        "Verifying the Order and Indication"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch01-q072",
+      "stem": "An asymptomatic patient unexpectedly reports new symptoms during the examination. What should the sonographer do?",
+      "image": null,
+      "options": [
+        "Pause, assess stability, escalate appropriately, and never continue while assuming someone else knows",
+        "Continue without comment because the patient is stable at baseline",
+        "Finish the examination and document nothing",
+        "Ask the patient to keep it a secret"
+      ],
+      "answer": 0,
+      "explanation": "New symptoms require pausing, assessing, escalating, and documenting — never proceeding on the assumption that others are already aware.",
+      "explanationImage": null,
+      "tags": [
+        "Verifying the Order and Indication"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch01-q073",
+      "stem": "Which statement reflects the correct approach to communicating new or unexpected findings?",
+      "image": null,
+      "options": [
+        "Assume someone else in the department already knows",
+        "Mention it only if the patient asks",
+        "Always communicate the finding directly to the responsible clinician and document it",
+        "Delay communication until the end of the week"
+      ],
+      "answer": 2,
+      "explanation": "Findings must be actively and directly communicated — assumptions that others know are a common source of missed critical results.",
+      "explanationImage": null,
+      "tags": [
+        "Verifying the Order and Indication"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch01-q074",
+      "stem": "A sonographer is asked to perform an examination for which a verbal order was received. What additional requirement applies?",
+      "image": null,
+      "options": [
+        "No documentation is needed for verbal orders",
+        "The verbal order must be confirmed/read back and documented according to policy",
+        "The verbal order may be from anyone in the department",
+        "A verbal order is automatically invalid and must be ignored"
+      ],
+      "answer": 1,
+      "explanation": "Verbal orders require confirmation (such as read-back) and documentation to prevent miscommunication.",
+      "explanationImage": null,
+      "tags": [
+        "Verifying the Order and Indication"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch01-q075",
+      "stem": "Which of the following best helps prevent wrong-patient and wrong-exam errors?",
+      "image": null,
+      "options": [
+        "Working as fast as possible",
+        "Verifying two identifiers and the order before starting",
+        "Relying on the patient's memory alone",
+        "Skipping documentation when busy"
+      ],
+      "answer": 1,
+      "explanation": "Two-identifier verification combined with order verification is the standard defence against wrong-patient and wrong-exam errors.",
+      "explanationImage": null,
+      "tags": [
+        "Verifying the Order and Indication"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch01-q076",
+      "stem": "How does the indication relate to the technical impression?",
+      "image": null,
+      "options": [
+        "It has no relationship",
+        "It replaces the need for image findings",
+        "It allows the sonographer to state a definitive diagnosis",
+        "It provides the clinical context in which the objective image findings are communicated"
+      ],
+      "answer": 3,
+      "explanation": "The indication frames the objective findings in the technical impression without turning them into a medical diagnosis.",
+      "explanationImage": null,
+      "tags": [
+        "Verifying the Order and Indication"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch01-q077",
+      "stem": "A physician phones a verbal order for an urgent examination. What should the sonographer do first?",
+      "image": null,
+      "options": [
+        "Write down nothing and rely on memory",
+        "Ask the patient to repeat the order",
+        "Confirm the patient's identity, the examination details, and the indication, then read the order back for verification",
+        "Begin the examination before confirming any details"
+      ],
+      "answer": 2,
+      "explanation": "Verbal orders require identity verification and read-back confirmation before the examination proceeds.",
+      "explanationImage": null,
+      "tags": [
+        "Verifying the Order and Indication"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch01-q078",
+      "stem": "A sonographer discovers that the booked examination does not match the clinical question in the chart. What is the correct action?",
+      "image": null,
+      "options": [
+        "Perform the booked examination anyway",
+        "Perform both examinations to be safe without authorization",
+        "Pause, verify, and clarify with the ordering clinician before performing the examination",
+        "Perform the examination the sonographer prefers"
+      ],
+      "answer": 2,
+      "explanation": "Mismatches must be resolved before proceeding to ensure the correct examination answers the correct clinical question.",
+      "explanationImage": null,
+      "tags": [
+        "Verifying the Order and Indication"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch01-q079",
+      "stem": "What is the PRIMARY purpose of taking a focused history before an ultrasound examination?",
+      "image": null,
+      "options": [
+        "To gather targeted information relevant to the ordered examination, patient safety, and identification of red flags",
+        "To replace the physician's complete medical history",
+        "To determine the patient's insurance coverage",
+        "To decide whether the patient should be admitted"
+      ],
+      "answer": 0,
+      "explanation": "A focused history is targeted and exam-specific; it supports safety and context but does not replace the clinician's full history.",
+      "explanationImage": null,
+      "tags": [
+        "The Focused History"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch01-q080",
+      "stem": "Which statement best distinguishes a focused history from a complete history?",
+      "image": null,
+      "options": [
+        "A focused history is comprehensive and covers the entire medical record",
+        "A focused history is only asked of outpatients",
+        "A focused history is targeted to the indication and relevant risk factors",
+        "A focused history requires written consent"
+      ],
+      "answer": 2,
+      "explanation": "Focused history-taking gathers only the information pertinent to the ordered study and the patient's immediate safety.",
+      "explanationImage": null,
+      "tags": [
+        "The Focused History"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch01-q081",
+      "stem": "A patient reports sudden onset of severe headache, weakness on one side, and difficulty speaking during history-taking. What is the most appropriate response?",
+      "image": null,
+      "options": [
+        "Complete the scheduled examination first",
+        "Recognize a potential stroke emergency, pause, and escalate immediately",
+        "Ask the patient to rest and reschedule next week",
+        "Document the symptoms but continue as normal"
+      ],
+      "answer": 1,
+      "explanation": "These are stroke red flags requiring immediate recognition, pausing of routine activity, and urgent escalation.",
+      "explanationImage": null,
+      "tags": [
+        "The Focused History"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch01-q082",
+      "stem": "Which historical information is most relevant when performing a carotid ultrasound?",
+      "image": null,
+      "options": [
+        "History of transient ischemic attacks, stroke symptoms, and cardiovascular risk factors",
+        "The patient's favourite meal",
+        "The patient's height in childhood",
+        "The name of the patient's dentist"
+      ],
+      "answer": 0,
+      "explanation": "TIA/stroke history and cardiovascular risk factors provide essential context for evaluating the carotid arteries.",
+      "explanationImage": null,
+      "tags": [
+        "The Focused History"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch01-q083",
+      "stem": "A patient is referred for a lower extremity venous duplex and reports calf pain, swelling, and recent long travel. Which concern is most relevant?",
+      "image": null,
+      "options": [
+        "The patient's travel preferences",
+        "The patient's grocery list",
+        "The patient's shoe size",
+        "Possible deep vein thrombosis requiring appropriate attention"
+      ],
+      "answer": 3,
+      "explanation": "Pain, swelling, and recent immobility are classic risk indicators for DVT and shape the examination approach.",
+      "explanationImage": null,
+      "tags": [
+        "The Focused History"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch01-q084",
+      "stem": "Why is it important to ask about recent surgery or interventions during the focused history?",
+      "image": null,
+      "options": [
+        "It has no relevance to the examination",
+        "Recent procedures may alter anatomy, limit the protocol, or indicate new complications",
+        "It allows the sonographer to bill differently",
+        "It determines the room lighting"
+      ],
+      "answer": 1,
+      "explanation": "Recent interventions can change anatomy or signal complications and therefore influence protocol and safety.",
+      "explanationImage": null,
+      "tags": [
+        "The Focused History"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch01-q085",
+      "stem": "Why should anticoagulant medication use be identified during the focused history?",
+      "image": null,
+      "options": [
+        "It determines the ultrasound frequency setting",
+        "It is irrelevant to ultrasound",
+        "It affects bleeding risk, particularly if any procedure is contemplated",
+        "It determines the patient's appointment length"
+      ],
+      "answer": 2,
+      "explanation": "Anticoagulation status is a key safety factor, especially when procedures involving needle insertion may be considered.",
+      "explanationImage": null,
+      "tags": [
+        "The Focused History"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch01-q086",
+      "stem": "When is allergy history particularly important during history-taking for an ultrasound-related procedure?",
+      "image": null,
+      "options": [
+        "Before any examination involving contrast or ultrasound-enhancing agents",
+        "Only for examinations performed on Fridays",
+        "Only when the patient requests it",
+        "Never — allergies do not matter in ultrasound"
+      ],
+      "answer": 0,
+      "explanation": "Allergy history is critical before introducing substances such as ultrasound-enhancing agents or agitated saline.",
+      "explanationImage": null,
+      "tags": [
+        "The Focused History"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch01-q087",
+      "stem": "How does a well-conducted focused history improve the examination?",
+      "image": null,
+      "options": [
+        "It provides clinical context that improves image interpretation and helps identify patients who need escalation",
+        "It shortens every examination to under five minutes",
+        "It eliminates the need for images",
+        "It replaces the need for an order"
+      ],
+      "answer": 0,
+      "explanation": "Relevant history sharpens interpretation and alerts the sonographer to red flags requiring escalation.",
+      "explanationImage": null,
+      "tags": [
+        "The Focused History"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch01-q088",
+      "stem": "During focused history-taking, the patient reports a symptom that was not on the order. What is the best action?",
+      "image": null,
+      "options": [
+        "Ignore it because it is outside the order",
+        "Assess its relevance and stability, and escalate to the appropriate clinician if it may affect safety or the examination",
+        "Tell the patient it is not important",
+        "Document it but never communicate it"
+      ],
+      "answer": 1,
+      "explanation": "Unexpected symptoms must be assessed and communicated when they affect patient safety or the clinical question.",
+      "explanationImage": null,
+      "tags": [
+        "The Focused History"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch01-q089",
+      "stem": "Which group of qualities best describes acceptable clinical documentation?",
+      "image": null,
+      "options": [
+        "Verbose, creative, brief, and informal",
+        "Verbal, hidden, delayed, and subjective",
+        "Long, handwritten, private, and optional",
+        "Accurate, complete, legible, and timely"
+      ],
+      "answer": 3,
+      "explanation": "Documentation must be accurate, complete, legible, and timely to support safe, continuous care.",
+      "explanationImage": null,
+      "tags": [
+        "Documentation and the Technical Impression"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch01-q090",
+      "stem": "The phrase \"if you did not capture it, it did not happen\" most directly emphasizes which principle?",
+      "image": null,
+      "options": [
+        "The importance of capturing and documenting the relevant images and findings",
+        "The importance of taking breaks during examinations",
+        "The need to perform more examinations",
+        "The need to purchase better equipment"
+      ],
+      "answer": 0,
+      "explanation": "Without captured images and documentation, there is no objective record of the examination or its findings.",
+      "explanationImage": null,
+      "tags": [
+        "Documentation and the Technical Impression"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch01-q091",
+      "stem": "What is a technical impression?",
+      "image": null,
+      "options": [
+        "A definitive medical diagnosis made by the sonographer",
+        "A concise, objective statement of the image findings and their relevance within the sonographer's scope",
+        "An opinion about the patient's personality",
+        "A copy of the physician's consultation note"
+      ],
+      "answer": 1,
+      "explanation": "The technical impression communicates objective image findings without overstepping into medical diagnosis.",
+      "explanationImage": null,
+      "tags": [
+        "Documentation and the Technical Impression"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch01-q092",
+      "stem": "Who is responsible for making the final medical diagnosis?",
+      "image": null,
+      "options": [
+        "The sonographer",
+        "The patient",
+        "The physician or other authorized clinician",
+        "The equipment manufacturer"
+      ],
+      "answer": 2,
+      "explanation": "Diagnosis is a medical act reserved for physicians and other legally authorized clinicians.",
+      "explanationImage": null,
+      "tags": [
+        "Documentation and the Technical Impression"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch01-q093",
+      "stem": "Which statement about the technical impression is TRUE?",
+      "image": null,
+      "options": [
+        "It should include the sonographer's personal theory about the cause of the patient's illness",
+        "It should replace the radiologist's report",
+        "It should include speculative diagnoses phrased as certainties",
+        "It should be objective, based on the images and data obtained"
+      ],
+      "answer": 3,
+      "explanation": "Technical impressions must remain objective and confined to what the images and data show.",
+      "explanationImage": null,
+      "tags": [
+        "Documentation and the Technical Impression"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch01-q094",
+      "stem": "Which of the following is a documentation error that should be avoided?",
+      "image": null,
+      "options": [
+        "Recording objective observations",
+        "Documenting a refusal of examination",
+        "Back-dating an entry to make it appear earlier",
+        "Noting the protocol used"
+      ],
+      "answer": 2,
+      "explanation": "Falsifying or back-dating entries is dishonest, unprofessional, and potentially a reportable act of misconduct.",
+      "explanationImage": null,
+      "tags": [
+        "Documentation and the Technical Impression"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch01-q095",
+      "stem": "A sonographer finishes a busy shift and plans to complete documentation \"sometime next week.\" Which documentation principle is violated?",
+      "image": null,
+      "options": [
+        "Legibility",
+        "Objectivity",
+        "Completeness of images",
+        "Timeliness"
+      ],
+      "answer": 3,
+      "explanation": "Timely documentation ensures the record is available for immediate clinical decisions and continuity of care.",
+      "explanationImage": null,
+      "tags": [
+        "Documentation and the Technical Impression"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch01-q096",
+      "stem": "What is a key risk of incomplete documentation?",
+      "image": null,
+      "options": [
+        "It may compromise patient care continuity and expose the registrant to professional and legal liability",
+        "It always improves efficiency",
+        "It has no effect on patient outcomes",
+        "It reduces the need for communication"
+      ],
+      "answer": 0,
+      "explanation": "Incomplete records hinder continuity of care and can be used as evidence of negligence or misconduct.",
+      "explanationImage": null,
+      "tags": [
+        "Documentation and the Technical Impression"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch01-q097",
+      "stem": "How should a documentation error discovered after filing be corrected?",
+      "image": null,
+      "options": [
+        "Erase the original entry completely",
+        "Make a transparent, dated correction or addendum without obscuring the original entry",
+        "Delete the record from the system",
+        "Ignore it and hope no one notices"
+      ],
+      "answer": 1,
+      "explanation": "Corrections must be transparent and traceable; altering or destroying the original record is unacceptable.",
+      "explanationImage": null,
+      "tags": [
+        "Documentation and the Technical Impression"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch01-q098",
+      "stem": "What should be documented when a patient refuses part or all of an examination?",
+      "image": null,
+      "options": [
+        "The refusal, the reason if provided, patient education given, and communication to the ordering clinician",
+        "Nothing, since refusals are unimportant",
+        "That the full examination was completed",
+        "Only the sonographer's personal opinion of the patient"
+      ],
+      "answer": 0,
+      "explanation": "Documenting refusals protects patient autonomy and ensures the clinician knows the examination was incomplete.",
+      "explanationImage": null,
+      "tags": [
+        "Documentation and the Technical Impression"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch01-q099",
+      "stem": "Which information should be included in the examination record?",
+      "image": null,
+      "options": [
+        "Protocol used, images obtained, objective findings, comparisons, and any relevant patient response",
+        "Only the sonographer's name",
+        "The patient's unrelated social history only",
+        "Personal comments about the patient's behaviour"
+      ],
+      "answer": 0,
+      "explanation": "A complete record captures what was done, what was found, and how the patient tolerated the examination.",
+      "explanationImage": null,
+      "tags": [
+        "Documentation and the Technical Impression"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch01-q100",
+      "stem": "Why is legibility important in documentation?",
+      "image": null,
+      "options": [
+        "It only matters for handwritten records of the past",
+        "Illegible entries can be misread, leading to clinical errors and compromised patient care",
+        "It has no clinical significance",
+        "It is a matter of personal style only"
+      ],
+      "answer": 1,
+      "explanation": "Unclear documentation risks misinterpretation and downstream clinical errors.",
+      "explanationImage": null,
+      "tags": [
+        "Documentation and the Technical Impression"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch01-q101",
+      "stem": "A sonographer realizes that key images from a completed examination were not saved. What is the best action?",
+      "image": null,
+      "options": [
+        "Say nothing and hope the radiologist does not notice",
+        "Attempt to re-acquire the images if the patient is still available, and document the omission transparently",
+        "Fabricate a description of the missing images",
+        "Delete the entire study"
+      ],
+      "answer": 1,
+      "explanation": "Missing images should be re-acquired when possible and the gap documented honestly.",
+      "explanationImage": null,
+      "tags": [
+        "Documentation and the Technical Impression"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch01-q102",
+      "stem": "Which wording is most appropriate for a technical impression?",
+      "image": null,
+      "options": [
+        "\"No abnormality is identified within the limits of this examination; findings are correlated with the clinical indication.\"",
+        "\"The patient definitely has liver cancer.\"",
+        "\"The examination was normal because the sonographer felt confident.\"",
+        "\"I think something is wrong but I will not say what.\""
+      ],
+      "answer": 0,
+      "explanation": "Effective technical impressions are objective, limited to the examination, and avoid definitive diagnostic claims.",
+      "explanationImage": null,
+      "tags": [
+        "Documentation and the Technical Impression"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch01-q103",
+      "stem": "What should be documented if a patient becomes unwell during an examination?",
+      "image": null,
+      "options": [
+        "Nothing if the patient recovers",
+        "The patient's symptoms, actions taken, escalation performed, and the patient's outcome",
+        "Only that the examination was completed",
+        "A brief personal note for the sonographer's own memory"
+      ],
+      "answer": 1,
+      "explanation": "Adverse events during examinations require full documentation of symptoms, interventions, and communication.",
+      "explanationImage": null,
+      "tags": [
+        "Documentation and the Technical Impression"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch01-q104",
+      "stem": "Why does documentation matter for continuity of care?",
+      "image": null,
+      "options": [
+        "It allows other members of the care team to understand what was done and what was found",
+        "It is only needed for archival storage",
+        "It replaces verbal communication entirely",
+        "It has no bearing on follow-up care"
+      ],
+      "answer": 0,
+      "explanation": "Clear records let subsequent clinicians see the examination's context, findings, and patient response.",
+      "explanationImage": null,
+      "tags": [
+        "Documentation and the Technical Impression"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch01-q105",
+      "stem": "How can documentation be used during a complaint or legal proceeding?",
+      "image": null,
+      "options": [
+        "As an optional attachment with no evidentiary value",
+        "As a personal diary for the sonographer",
+        "It is never considered",
+        "As objective evidence of what was assessed, found, and communicated"
+      ],
+      "answer": 3,
+      "explanation": "Contemporaneous documentation is often the primary objective evidence of the standard of care provided.",
+      "explanationImage": null,
+      "tags": [
+        "Documentation and the Technical Impression"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch01-q106",
+      "stem": "Who may legitimately access a patient's examination documentation?",
+      "image": null,
+      "options": [
+        "Anyone who asks casually",
+        "The sonographer's friends and family",
+        "Members of the circle of care involved in the patient's treatment and others with a legitimate need and authority",
+        "Social media followers"
+      ],
+      "answer": 2,
+      "explanation": "Access is limited to those involved in the patient's care or others authorized by law or consent.",
+      "explanationImage": null,
+      "tags": [
+        "Documentation and the Technical Impression"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch01-q107",
+      "stem": "A sonographer notices that the written report does not match the saved images. What should they do?",
+      "image": null,
+      "options": [
+        "Ignore the discrepancy",
+        "Alter the images to match the report",
+        "Report the discrepancy and ensure the record is corrected transparently",
+        "Delete both"
+      ],
+      "answer": 2,
+      "explanation": "Discrepancies between report and images must be identified and corrected through proper channels to protect the patient.",
+      "explanationImage": null,
+      "tags": [
+        "Documentation and the Technical Impression"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch01-q108",
+      "stem": "Whose documentation responsibility is the sonographer's own examination record?",
+      "image": null,
+      "options": [
+        "The sonographer's, for the work they performed",
+        "The ordering physician's alone",
+        "The patient's family",
+        "The equipment technician's"
+      ],
+      "answer": 0,
+      "explanation": "Each professional documents the work they personally performed and assessed.",
+      "explanationImage": null,
+      "tags": [
+        "Documentation and the Technical Impression"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch01-q109",
+      "stem": "Why is comparison with prior examinations important to document?",
+      "image": null,
+      "options": [
+        "It is only useful for research",
+        "It provides context about interval change that is essential to interpreting current findings",
+        "It eliminates the need for current images",
+        "It has no interpretive value"
+      ],
+      "answer": 1,
+      "explanation": "Documenting comparison to prior studies allows the care team to judge stability or progression.",
+      "explanationImage": null,
+      "tags": [
+        "Documentation and the Technical Impression"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch01-q110",
+      "stem": "When a sonographer escalates a critical finding, what documentation is required?",
+      "image": null,
+      "options": [
+        "Nothing if the physician already knows",
+        "The finding, the person contacted, the time of communication, and the response or instructions received",
+        "Only the sonographer's first name",
+        "A summary at the end of the month"
+      ],
+      "answer": 1,
+      "explanation": "Escalation documentation creates an accountable record that communication occurred and what was directed.",
+      "explanationImage": null,
+      "tags": [
+        "Documentation and the Technical Impression"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch01-q111",
+      "stem": "A sonographer identifies a mobile mass on a heart valve during a study. Which escalation action is most appropriate?",
+      "image": null,
+      "options": [
+        "Contact the cardiologist immediately, as an urgent finding requires immediate communication",
+        "Document it and wait for the next scheduled clinic visit",
+        "Mention it casually to a colleague at the end of the shift",
+        "Assume the ordering physician already saw it"
+      ],
+      "answer": 0,
+      "explanation": "Urgent or unexpected findings such as a possible valve vegetation require immediate, direct communication with the responsible physician.",
+      "explanationImage": null,
+      "tags": [
+        "Communication, Escalation, and Confidentiality"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch01-q112",
+      "stem": "During an echocardiogram, the calculated ejection fraction is 22% in a patient who looks unwell. What is the most appropriate escalation?",
+      "image": null,
+      "options": [
+        "Record the value and take a break",
+        "Tell the patient to drive themselves home",
+        "Assume the machine is wrong and repeat indefinitely without telling anyone",
+        "Escalate immediately to the nurse or responsible clinician to ensure the patient is assessed"
+      ],
+      "answer": 3,
+      "explanation": "A markedly reduced ejection fraction in an unwell patient warrants prompt communication so the patient can be assessed and managed.",
+      "explanationImage": null,
+      "tags": [
+        "Communication, Escalation, and Confidentiality"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch01-q113",
+      "stem": "A patient becomes symptomatic during an examination. What is the correct sequence of actions?",
+      "image": null,
+      "options": [
+        "Finish the exam, then remember to mention it later in the week",
+        "Immediately discharge the patient without assessment",
+        "Continue the exam and record nothing",
+        "Assess stability first, pause if symptoms are active, escalate, and document"
+      ],
+      "answer": 3,
+      "explanation": "The correct sequence is assess → pause → escalate → document, prioritizing patient stability.",
+      "explanationImage": null,
+      "tags": [
+        "Communication, Escalation, and Confidentiality"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch01-q114",
+      "stem": "What is meant by the \"escalation ladder\"?",
+      "image": null,
+      "options": [
+        "A physical ladder used in the department",
+        "A list of equipment maintenance schedules",
+        "A defined chain of communication from immediate supervisor upward when concerns are not resolved",
+        "A ranking of staff by salary"
+      ],
+      "answer": 2,
+      "explanation": "The escalation ladder provides a clear pathway for raising concerns through progressively higher authority when needed.",
+      "explanationImage": null,
+      "tags": [
+        "Communication, Escalation, and Confidentiality"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch01-q115",
+      "stem": "Which statement best reflects safe communication practice?",
+      "image": null,
+      "options": [
+        "If I told one person, everyone probably knows",
+        "Never assume someone else knows — communicate directly and confirm receipt",
+        "Verbal communication is never necessary",
+        "Written communication is only for lawyers"
+      ],
+      "answer": 1,
+      "explanation": "Direct, confirmed communication prevents critical information from being lost through assumptions.",
+      "explanationImage": null,
+      "tags": [
+        "Communication, Escalation, and Confidentiality"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch01-q116",
+      "stem": "Which best defines confidentiality?",
+      "image": null,
+      "options": [
+        "Sharing patient information freely for curiosity",
+        "Protecting patient information from unauthorized disclosure",
+        "Telling only close friends about patients",
+        "Keeping all information forever regardless of law"
+      ],
+      "answer": 1,
+      "explanation": "Confidentiality requires safeguarding patient information and disclosing it only when authorized by law, consent, or care needs.",
+      "explanationImage": null,
+      "tags": [
+        "Communication, Escalation, and Confidentiality"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch01-q117",
+      "stem": "What is the \"circle of care\"?",
+      "image": null,
+      "options": [
+        "The group of providers involved in a patient's treatment who may share information needed to provide care",
+        "A physical circle drawn around the patient's bed",
+        "The patient's extended family network",
+        "A social media group for staff"
+      ],
+      "answer": 0,
+      "explanation": "The circle of care encompasses those contributing to a patient's treatment, within which information may be shared for care purposes.",
+      "explanationImage": null,
+      "tags": [
+        "Communication, Escalation, and Confidentiality"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch01-q118",
+      "stem": "A patient's spouse asks the sonographer for the results of the examination. What is the most appropriate response?",
+      "image": null,
+      "options": [
+        "Provide the results because the spouse is family",
+        "Refuse to speak to the spouse under any circumstance, even in an emergency",
+        "Post the results where the spouse can read them",
+        "Explain that results are communicated through the ordering clinician and check whether the patient has consented to disclosure"
+      ],
+      "answer": 3,
+      "explanation": "Family members are not automatically authorized to receive information; consent or a recognized exception must apply.",
+      "explanationImage": null,
+      "tags": [
+        "Communication, Escalation, and Confidentiality"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch01-q119",
+      "stem": "During a handover, which practice best supports patient safety?",
+      "image": null,
+      "options": [
+        "Whispering so only some staff hear",
+        "Leaving notes only in personal lockers",
+        "Closed-loop communication: state the information clearly, have it repeated back, and confirm understanding",
+        "Relying on memory instead of records"
+      ],
+      "answer": 2,
+      "explanation": "Closed-loop communication confirms that the message was received and understood accurately.",
+      "explanationImage": null,
+      "tags": [
+        "Communication, Escalation, and Confidentiality"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch01-q120",
+      "stem": "A patient becomes visibly anxious during the examination. Which communication approach is best?",
+      "image": null,
+      "options": [
+        "Ignore the anxiety and continue silently",
+        "Tell the patient to stop overreacting",
+        "Leave the room abruptly",
+        "Acknowledge the concern, explain each step, and offer reassurance and breaks as needed"
+      ],
+      "answer": 3,
+      "explanation": "Empathetic communication with clear explanation reduces anxiety and improves cooperation and outcomes.",
+      "explanationImage": null,
+      "tags": [
+        "Communication, Escalation, and Confidentiality"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch01-q121",
+      "stem": "You escalate an urgent finding to a supervisor but receive no response. What should you do?",
+      "image": null,
+      "options": [
+        "Give up and go home",
+        "Post the finding on social media",
+        "Continue up the escalation ladder to the next level of authority and document each attempt",
+        "Assume the patient will be fine"
+      ],
+      "answer": 2,
+      "explanation": "Unresolved escalation must continue up the chain, with every attempt documented.",
+      "explanationImage": null,
+      "tags": [
+        "Communication, Escalation, and Confidentiality"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch01-q122",
+      "stem": "Which is the most professional way to communicate a critical result to a physician?",
+      "image": null,
+      "options": [
+        "Send an unconfirmed text message and hope it is read",
+        "Wait for the physician to check the system eventually",
+        "Contact the physician directly through an approved channel, confirm receipt, and document the communication",
+        "Tell the patient to relay the message"
+      ],
+      "answer": 2,
+      "explanation": "Critical results require direct, confirmed communication through approved channels with full documentation.",
+      "explanationImage": null,
+      "tags": [
+        "Communication, Escalation, and Confidentiality"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch01-q123",
+      "stem": "A patient discloses personal information unrelated to the examination. What is the appropriate approach?",
+      "image": null,
+      "options": [
+        "Repeat it to all staff during break",
+        "Listen professionally, share only what is relevant to care within the circle of care, and maintain confidentiality otherwise",
+        "Post it on social media",
+        "Use it as entertainment at a family gathering"
+      ],
+      "answer": 1,
+      "explanation": "Information must be limited to what is necessary for care; unrelated personal information remains confidential.",
+      "explanationImage": null,
+      "tags": [
+        "Communication, Escalation, and Confidentiality"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch01-q124",
+      "stem": "Which action is a breach of patient confidentiality?",
+      "image": null,
+      "options": [
+        "Discussing a case in a private, authorized clinical handover",
+        "Documenting findings in the official record",
+        "Communicating a critical result to the treating physician",
+        "Identifying a patient in a public area or on social media"
+      ],
+      "answer": 3,
+      "explanation": "Disclosing identifiable patient information in public or on social media is a serious confidentiality breach.",
+      "explanationImage": null,
+      "tags": [
+        "Communication, Escalation, and Confidentiality"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch01-q125",
+      "stem": "What is Sonography Canada?",
+      "image": null,
+      "options": [
+        "The provincial regulator that licenses sonographers in Ontario",
+        "A hospital ultrasound department",
+        "A federal government licensing agency",
+        "The national professional association and credentialing body for sonographers in Canada"
+      ],
+      "answer": 3,
+      "explanation": "Sonography Canada is the national professional association and credentialing body; it is not a provincial regulator.",
+      "explanationImage": null,
+      "tags": [
+        "Sonography Canada and the Regulatory Landscape"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch01-q126",
+      "stem": "Which organization is the regulator of diagnostic medical sonographers in Ontario?",
+      "image": null,
+      "options": [
+        "The CMRITO",
+        "Sonography Canada",
+        "The Canadian Medical Association",
+        "The Ontario Hospital Association"
+      ],
+      "answer": 0,
+      "explanation": "The College of Medical Radiation and Imaging Technologists of Ontario (CMRITO) is the Ontario regulator.",
+      "explanationImage": null,
+      "tags": [
+        "Sonography Canada and the Regulatory Landscape"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch01-q127",
+      "stem": "What does the CRCS credential represent?",
+      "image": null,
+      "options": [
+        "A credential awarded by Sonography Canada to individuals who meet its certification requirements",
+        "A provincial licence to practise in any province",
+        "A hospital-specific orientation certificate",
+        "A certificate of insurance coverage"
+      ],
+      "answer": 0,
+      "explanation": "CRCS (Canadian Registered Cardiac Sonographer, and related Sonography Canada credentials) is granted by Sonography Canada through its credentialing process.",
+      "explanationImage": null,
+      "tags": [
+        "Sonography Canada and the Regulatory Landscape"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch01-q128",
+      "stem": "Which body develops competency profiles for sonography in Canada?",
+      "image": null,
+      "options": [
+        "The CMRITO alone",
+        "Individual hospitals",
+        "Sonography Canada",
+        "Equipment manufacturers"
+      ],
+      "answer": 2,
+      "explanation": "Sonography Canada develops competency profiles that describe the knowledge and skills expected of sonographers.",
+      "explanationImage": null,
+      "tags": [
+        "Sonography Canada and the Regulatory Landscape"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch01-q129",
+      "stem": "Which statement correctly compares Sonography Canada and the CMRITO?",
+      "image": null,
+      "options": [
+        "They are the same organization under two names",
+        "The CMRITO is an advocacy group and Sonography Canada sets legislation",
+        "Sonography Canada is a professional association and credentialing body; the CMRITO is the regulator that protects the public",
+        "Sonography Canada has the power to remove a registrant's licence in Ontario"
+      ],
+      "answer": 2,
+      "explanation": "The two bodies have distinct roles — association/credentialing versus legal regulation and public protection.",
+      "explanationImage": null,
+      "tags": [
+        "Sonography Canada and the Regulatory Landscape"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch01-q130",
+      "stem": "Which role belongs to Sonography Canada but NOT to the CMRITO?",
+      "image": null,
+      "options": [
+        "Advocating for the sonography profession and developing national competency profiles",
+        "Registering practitioners in Ontario",
+        "Investigating public complaints about registrants",
+        "Setting enforceable standards for Ontario registrants"
+      ],
+      "answer": 0,
+      "explanation": "Advocacy and national competency development are association functions; registration, complaints, and enforceable standards are regulator functions.",
+      "explanationImage": null,
+      "tags": [
+        "Sonography Canada and the Regulatory Landscape"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch01-q131",
+      "stem": "Which statement about membership and registration is TRUE?",
+      "image": null,
+      "options": [
+        "Membership in Sonography Canada is legally required to practise in Ontario",
+        "Registration with the CMRITO is legally required to practise as a DMS in Ontario, while association membership is voluntary",
+        "Both are optional in Ontario",
+        "Neither is relevant to practice"
+      ],
+      "answer": 1,
+      "explanation": "Registration with the regulator is mandatory; professional association membership is a separate, voluntary matter.",
+      "explanationImage": null,
+      "tags": [
+        "Sonography Canada and the Regulatory Landscape"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch01-q132",
+      "stem": "A sonographer in Ontario has a question about a change to the national competency profile. Which body is the most appropriate to consult?",
+      "image": null,
+      "options": [
+        "The Canada Revenue Agency",
+        "The municipal government",
+        "Sonography Canada",
+        "The hospital's finance department"
+      ],
+      "answer": 2,
+      "explanation": "Competency profiles are developed and maintained by Sonography Canada.",
+      "explanationImage": null,
+      "tags": [
+        "Sonography Canada and the Regulatory Landscape"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch01-q133",
+      "stem": "What is the primary purpose of Sonography Canada's competency profiles?",
+      "image": null,
+      "options": [
+        "To set hourly wages",
+        "To determine patient billing codes only",
+        "To define the knowledge, skills, and abilities expected of sonographers for safe, consistent practice",
+        "To replace provincial legislation"
+      ],
+      "answer": 2,
+      "explanation": "Competency profiles define expected capabilities and support consistent education, certification, and practice standards.",
+      "explanationImage": null,
+      "tags": [
+        "Sonography Canada and the Regulatory Landscape"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch01-q134",
+      "stem": "Which statement about the CRCS and the title DMS is correct?",
+      "image": null,
+      "options": [
+        "DMS is the protected title registered through the CMRITO; CRCS is a credential granted by Sonography Canada",
+        "They are identical and interchangeable",
+        "CRCS is a licence to practise medicine",
+        "DMS is granted by Sonography Canada only"
+      ],
+      "answer": 0,
+      "explanation": "The protected professional title and the association credential come from two different bodies with different purposes.",
+      "explanationImage": null,
+      "tags": [
+        "Sonography Canada and the Regulatory Landscape"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch01-q135",
+      "stem": "A practitioner claims that because they hold a Sonography Canada credential, they are automatically registered in Ontario. What is the correct understanding?",
+      "image": null,
+      "options": [
+        "The claim is correct — the credential replaces registration",
+        "Registration is unnecessary if the person has experience",
+        "Only hospital employment is required",
+        "The claim is incorrect — the CMRITO credential and registration are separate requirements for legal practice in Ontario"
+      ],
+      "answer": 3,
+      "explanation": "Association certification does not confer legal authorization to practise; registration with the Ontario regulator is a distinct requirement.",
+      "explanationImage": null,
+      "tags": [
+        "Sonography Canada and the Regulatory Landscape"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch01-q136",
+      "stem": "Which question best reflects the purpose of a Code of Conduct?",
+      "image": null,
+      "options": [
+        "How should I behave?",
+        "How should I decide what is right?",
+        "What equipment should I purchase?",
+        "How many patients should I see per hour?"
+      ],
+      "answer": 0,
+      "explanation": "A Code of Conduct governs observable behaviour — the visible standards of how a registrant is expected to act.",
+      "explanationImage": null,
+      "tags": [
+        "Code of Conduct Versus Code of Ethics"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch01-q137",
+      "stem": "Which question best reflects the purpose of a Code of Ethics?",
+      "image": null,
+      "options": [
+        "How should I decide what is right?",
+        "What colour should the uniform be?",
+        "What is my shift schedule?",
+        "How fast should I type?"
+      ],
+      "answer": 0,
+      "explanation": "A Code of Ethics guides the underlying decision-making process — how to determine the right course of action.",
+      "explanationImage": null,
+      "tags": [
+        "Code of Conduct Versus Code of Ethics"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch01-q138",
+      "stem": "How do the Code of Ethics and Code of Conduct relate to each other?",
+      "image": null,
+      "options": [
+        "They are unrelated and never overlap",
+        "Conduct guides the decision; ethics is irrelevant",
+        "Ethics guides the decision; conduct makes that decision visible through behaviour",
+        "They contradict each other by design"
+      ],
+      "answer": 2,
+      "explanation": "Ethical reasoning shapes the decision, and professional conduct expresses it in observable, accountable behaviour.",
+      "explanationImage": null,
+      "tags": [
+        "Code of Conduct Versus Code of Ethics"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch01-q139",
+      "stem": "A sonographer repeatedly arrives late and wears non-compliant attire. Which category does this best fit?",
+      "image": null,
+      "options": [
+        "A Code of Ethics violation only",
+        "A legislative violation under the MRIT Act",
+        "A billing error",
+        "A Code of Conduct issue involving observable workplace behaviour"
+      ],
+      "answer": 3,
+      "explanation": "Punctuality and dress are observable behaviours governed by workplace conduct standards.",
+      "explanationImage": null,
+      "tags": [
+        "Code of Conduct Versus Code of Ethics"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch01-q140",
+      "stem": "A sonographer must decide whether to share sensitive patient information with a third party not involved in care. Which framework is most relevant?",
+      "image": null,
+      "options": [
+        "The department's coffee schedule",
+        "The equipment warranty",
+        "The Code of Ethics, which guides the decision about what is right",
+        "The hospital's parking policy"
+      ],
+      "answer": 2,
+      "explanation": "Decisions about competing duties and appropriate disclosure are ethical reasoning questions.",
+      "explanationImage": null,
+      "tags": [
+        "Code of Conduct Versus Code of Ethics"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch01-q141",
+      "stem": "A sonographer is gossiping about a patient in the cafeteria where others can overhear. This is best described as:",
+      "image": null,
+      "options": [
+        "A breach of the Code of Conduct regarding confidentiality and professional behaviour",
+        "An ethical dilemma requiring deep philosophical analysis",
+        "Acceptable because no names were used",
+        "A billing issue"
+      ],
+      "answer": 0,
+      "explanation": "Discussing patient information in public settings is an observable conduct breach regardless of whether names are mentioned.",
+      "explanationImage": null,
+      "tags": [
+        "Code of Conduct Versus Code of Ethics"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch01-q142",
+      "stem": "Which scenario is MOST clearly an ethics (decision-making) issue rather than a conduct issue?",
+      "image": null,
+      "options": [
+        "Wearing an inappropriate badge",
+        "Weighing whether to disclose information to a family member when the patient has not consented and no exception clearly applies",
+        "Arriving late to a shift",
+        "Failing to wear identification"
+      ],
+      "answer": 1,
+      "explanation": "This requires weighing competing obligations and determining the right action — a hallmark of ethical decision-making.",
+      "explanationImage": null,
+      "tags": [
+        "Code of Conduct Versus Code of Ethics"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch01-q143",
+      "stem": "Which of the following is an example of a conduct issue?",
+      "image": null,
+      "options": [
+        "Deciding between two equally valid ethical principles",
+        "Resolving a conflict between autonomy and beneficence",
+        "Determining whether disclosure serves the patient's best interests",
+        "Leaving the examination room without identifying oneself to the patient"
+      ],
+      "answer": 3,
+      "explanation": "Self-identification is an observable behaviour expected under professional conduct standards.",
+      "explanationImage": null,
+      "tags": [
+        "Code of Conduct Versus Code of Ethics"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch01-q144",
+      "stem": "Which ethical principle supports a patient's right to refuse an examination?",
+      "image": null,
+      "options": [
+        "Autonomy",
+        "Justice",
+        "Efficiency",
+        "Productivity"
+      ],
+      "answer": 0,
+      "explanation": "Autonomy recognizes the patient's right to make informed decisions about their own care, including refusal.",
+      "explanationImage": null,
+      "tags": [
+        "Code of Conduct Versus Code of Ethics"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch01-q145",
+      "stem": "Which ethical principle is reflected in the duty to \"do no harm\"?",
+      "image": null,
+      "options": [
+        "Fidelity",
+        "Non-maleficence",
+        "Confidentiality only",
+        "Convenience"
+      ],
+      "answer": 1,
+      "explanation": "Non-maleficence is the obligation to avoid causing harm to patients.",
+      "explanationImage": null,
+      "tags": [
+        "Code of Conduct Versus Code of Ethics"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch01-q146",
+      "stem": "A sonographer is tempted to exaggerate an image finding to make the report look more impressive. Which value is compromised?",
+      "image": null,
+      "options": [
+        "Efficiency",
+        "Honesty and integrity",
+        "Speed",
+        "Equipment maintenance"
+      ],
+      "answer": 1,
+      "explanation": "Inflating findings violates honesty and integrity, which are foundational to trustworthy documentation.",
+      "explanationImage": null,
+      "tags": [
+        "Code of Conduct Versus Code of Ethics"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch01-q147",
+      "stem": "Which statement about the relationship between ethics and the law is TRUE?",
+      "image": null,
+      "options": [
+        "Ethical behaviour is always identical to legal behaviour in every situation",
+        "Ethics is irrelevant once legality is confirmed",
+        "Something can be legal yet still be unethical, so registrants must consider both",
+        "Law and ethics never interact in healthcare"
+      ],
+      "answer": 2,
+      "explanation": "Legal minimums and ethical ideals do not always coincide; registrants must apply both frameworks.",
+      "explanationImage": null,
+      "tags": [
+        "Code of Conduct Versus Code of Ethics"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch01-q148",
+      "stem": "A sonographer faces a situation where workplace expectations conflict with patient welfare. What should guide the response?",
+      "image": null,
+      "options": [
+        "The patient's financial status",
+        "Personal convenience",
+        "Ethical principles centred on patient welfare, expressed through professional conduct and escalation",
+        "The opinion of the most senior person only"
+      ],
+      "answer": 2,
+      "explanation": "Ethical decision-making prioritizes patient welfare, and professional conduct requires acting on that decision through appropriate channels.",
+      "explanationImage": null,
+      "tags": [
+        "Code of Conduct Versus Code of Ethics"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch01-q149",
+      "stem": "What does the acronym CMRITO stand for?",
+      "image": null,
+      "options": [
+        "Canadian Medical Radiation and Imaging Technologists of Ontario",
+        "College of Medical Radiation and Imaging Technologists of Ontario",
+        "Council of Medical Radiology and Internal Therapy Ontario",
+        "Committee on Medical Research, Imaging, and Treatment Outcomes"
+      ],
+      "answer": 1,
+      "explanation": "CMRITO is the College of Medical Radiation and Imaging Technologists of Ontario, the provincial regulator.",
+      "explanationImage": null,
+      "tags": [
+        "Regulation and the Role of the CMRITO"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch01-q150",
+      "stem": "What is the CMRITO's primary mandate?",
+      "image": null,
+      "options": [
+        "To advocate for higher wages for its members",
+        "To sell ultrasound equipment",
+        "To protect the public by regulating the practice of its registrants",
+        "To represent the profession in labour negotiations"
+      ],
+      "answer": 2,
+      "explanation": "The CMRITO is a public-interest regulator; it exists to protect the public, not to advocate for practitioners.",
+      "explanationImage": null,
+      "tags": [
+        "Regulation and the Role of the CMRITO"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch01-q151",
+      "stem": "Which of the following is a core responsibility of the CMRITO?",
+      "image": null,
+      "options": [
+        "Registering qualified practitioners and maintaining a public register",
+        "Negotiating salaries on behalf of sonographers",
+        "Manufacturing imaging equipment",
+        "Setting federal tax policy"
+      ],
+      "answer": 0,
+      "explanation": "Registration, along with standards, quality assurance, complaints, and discipline, forms the core regulatory function.",
+      "explanationImage": null,
+      "tags": [
+        "Regulation and the Role of the CMRITO"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch01-q152",
+      "stem": "A sonographer believes the CMRITO exists to fight for better pay and working conditions. What is the correct understanding?",
+      "image": null,
+      "options": [
+        "The belief is incorrect — the CMRITO regulates and protects the public; advocacy for practitioners is a role of professional associations such as Sonography Canada",
+        "The belief is correct — that is the CMRITO's main purpose",
+        "The CMRITO does neither of these things",
+        "The CMRITO exists primarily to represent employers"
+      ],
+      "answer": 0,
+      "explanation": "Confusing the regulator with the professional association is a common error; their mandates are fundamentally different.",
+      "explanationImage": null,
+      "tags": [
+        "Regulation and the Role of the CMRITO"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch01-q153",
+      "stem": "Which of the following groups is NOT registered by the CMRITO?",
+      "image": null,
+      "options": [
+        "Diagnostic medical sonographers",
+        "Family physicians",
+        "Radiological technologists",
+        "Nuclear medicine technologists"
+      ],
+      "answer": 1,
+      "explanation": "The CMRITO regulates medical radiation technologists, including sonographers; physicians are regulated by a different college.",
+      "explanationImage": null,
+      "tags": [
+        "Regulation and the Role of the CMRITO"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch01-q154",
+      "stem": "What is the significance of being \"in good standing\" with the regulator?",
+      "image": null,
+      "options": [
+        "It means the registrant never needs continuing education",
+        "It guarantees a salary increase",
+        "It means the registrant may practise legally and meets the regulator's requirements",
+        "It exempts the registrant from all complaints"
+      ],
+      "answer": 2,
+      "explanation": "Good standing indicates that registration requirements are met and the registrant may legally practise.",
+      "explanationImage": null,
+      "tags": [
+        "Regulation and the Role of the CMRITO"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch01-q155",
+      "stem": "A member of the public files a complaint about a sonographer's conduct. Who is responsible for investigating it?",
+      "image": null,
+      "options": [
+        "Sonography Canada",
+        "The ultrasound equipment vendor",
+        "The CMRITO, through its complaints process",
+        "The patient's employer"
+      ],
+      "answer": 2,
+      "explanation": "Public complaints about registrants are handled by the regulator's complaints and discipline processes.",
+      "explanationImage": null,
+      "tags": [
+        "Regulation and the Role of the CMRITO"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch01-q156",
+      "stem": "Which body sets the Standards of Practice that Ontario sonographers must follow?",
+      "image": null,
+      "options": [
+        "The local hospital's social committee",
+        "The patients themselves",
+        "Equipment manufacturers",
+        "The CMRITO"
+      ],
+      "answer": 3,
+      "explanation": "Enforceable professional standards are established by the regulator.",
+      "explanationImage": null,
+      "tags": [
+        "Regulation and the Role of the CMRITO"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch01-q157",
+      "stem": "Which statement about the CMRITO's role is INCORRECT?",
+      "image": null,
+      "options": [
+        "It maintains registration and quality assurance programs",
+        "It investigates complaints and may discipline registrants",
+        "It protects the public",
+        "It acts as a labour union advocating for member wages"
+      ],
+      "answer": 3,
+      "explanation": "The CMRITO is a regulator, not a union or advocacy organization — that description fits a professional association.",
+      "explanationImage": null,
+      "tags": [
+        "Regulation and the Role of the CMRITO"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch01-q158",
+      "stem": "How does a regulator differ from a professional association?",
+      "image": null,
+      "options": [
+        "A regulator has statutory authority to register, set enforceable standards, and discipline; an association provides advocacy, education, and credentials voluntarily",
+        "They are identical in every way",
+        "An association has the power to revoke a licence; a regulator does not",
+        "A regulator is a social club"
+      ],
+      "answer": 0,
+      "explanation": "The key distinction is statutory regulatory power versus voluntary membership and advocacy.",
+      "explanationImage": null,
+      "tags": [
+        "Regulation and the Role of the CMRITO"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch01-q159",
+      "stem": "An unregistered individual is using the title \"Diagnostic Medical Sonographer\" in Ontario. Which body would take action?",
+      "image": null,
+      "options": [
+        "Sonography Canada",
+        "The CMRITO, which protects the title under legislation",
+        "The local newspaper",
+        "The patient"
+      ],
+      "answer": 1,
+      "explanation": "Title protection is enforced by the regulator under the governing legislation.",
+      "explanationImage": null,
+      "tags": [
+        "Regulation and the Role of the CMRITO"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch01-q160",
+      "stem": "Why are continuing education and quality assurance programs required by regulators?",
+      "image": null,
+      "options": [
+        "To increase the number of meetings attended",
+        "To generate revenue only",
+        "To ensure registrants maintain competence throughout their careers",
+        "To replace workplace supervision entirely"
+      ],
+      "answer": 2,
+      "explanation": "Ongoing competence must be maintained; regulation requires continued learning and quality assurance.",
+      "explanationImage": null,
+      "tags": [
+        "Regulation and the Role of the CMRITO"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch01-q161",
+      "stem": "A sonographer suspects a colleague is practising unsafely. What is the most appropriate first step?",
+      "image": null,
+      "options": [
+        "Address it through appropriate workplace and regulatory channels, following professional standards",
+        "Post about it on social media",
+        "Ignore it to avoid conflict",
+        "Spread rumours to warn others informally"
+      ],
+      "answer": 0,
+      "explanation": "Concerns about safety must be raised through proper channels; public or informal disclosure is unprofessional.",
+      "explanationImage": null,
+      "tags": [
+        "Regulation and the Role of the CMRITO"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch01-q162",
+      "stem": "What is the role of the regulator in maintaining a public register?",
+      "image": null,
+      "options": [
+        "To publish members' personal financial information",
+        "To advertise services",
+        "To allow the public to verify who is legally registered to practise",
+        "To list hospital vacancies"
+      ],
+      "answer": 2,
+      "explanation": "A public register lets patients and employers confirm that a practitioner is registered and in good standing.",
+      "explanationImage": null,
+      "tags": [
+        "Regulation and the Role of the CMRITO"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch01-q163",
+      "stem": "Which action by a registrant is most consistent with regulatory obligations?",
+      "image": null,
+      "options": [
+        "Concealing errors to protect the department's image",
+        "Reporting conduct that places the public at risk through established mechanisms",
+        "Working while impaired and hoping no one notices",
+        "Practising while registration has lapsed"
+      ],
+      "answer": 1,
+      "explanation": "Registrants have an obligation to act on conduct that risks public safety through the proper reporting pathways.",
+      "explanationImage": null,
+      "tags": [
+        "Regulation and the Role of the CMRITO"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch01-q164",
+      "stem": "What is the primary role of the Regulated Health Professions Act, 1991 (RHPA)?",
+      "image": null,
+      "options": [
+        "It provides the overall framework for regulated health professions in Ontario, including controlled acts and exemptions",
+        "It sets income tax rates for healthcare workers",
+        "It governs the construction of hospitals",
+        "It licenses medical schools"
+      ],
+      "answer": 0,
+      "explanation": "The RHPA is the umbrella legislation establishing how health professions are regulated, which acts are controlled, and which exemptions apply.",
+      "explanationImage": null,
+      "tags": [
+        "Legislation and Scope"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch01-q165",
+      "stem": "Which legislation specifically addresses the scope of practice, authorized acts, and title protection for medical radiation technologists in Ontario?",
+      "image": null,
+      "options": [
+        "The Regulated Health Professions Act, 1991 alone",
+        "The Nuclear Safety and Control Act",
+        "The Health Protection and Promotion Act",
+        "The Medical Radiation Technologists Act, 2017"
+      ],
+      "answer": 3,
+      "explanation": "The MRIT Act, 2017 sets out the scope, authorized acts, and protected title for medical radiation technologists, including sonographers.",
+      "explanationImage": null,
+      "tags": [
+        "Legislation and Scope"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch01-q166",
+      "stem": "Which of the following is one of the five authorized acts that CMRITO registrants are authorized to perform?",
+      "image": null,
+      "options": [
+        "Performing surgery under general anaesthesia",
+        "Performing a procedure on tissue below the dermis",
+        "Prescribing controlled substances",
+        "Performing open-heart surgery"
+      ],
+      "answer": 1,
+      "explanation": "The five authorized acts include procedures on tissue below the dermis, among others listed in the legislation.",
+      "explanationImage": null,
+      "tags": [
+        "Legislation and Scope"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch01-q167",
+      "stem": "Which of the following is NOT one of the five authorized acts for CMRITO registrants?",
+      "image": null,
+      "options": [
+        "The injection or inhalation of substances",
+        "Tracheal suctioning of a tracheostomy",
+        "Applying energy prescribed by a physician",
+        "The application of sound waves for diagnostic ultrasound"
+      ],
+      "answer": 3,
+      "explanation": "Applying sound waves for diagnostic ultrasound is permitted under an RHPA exemption, not as one of the five authorized acts.",
+      "explanationImage": null,
+      "tags": [
+        "Legislation and Scope"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch01-q168",
+      "stem": "In an echocardiography laboratory, a sonographer instills agitated saline or an ultrasound-enhancing agent. Which category does this fall under?",
+      "image": null,
+      "options": [
+        "The injection of substances",
+        "Tracheal suctioning",
+        "X-ray production",
+        "Nuclear medicine imaging"
+      ],
+      "answer": 0,
+      "explanation": "Introducing agitated saline or an enhancing agent into the circulation constitutes injection of a substance.",
+      "explanationImage": null,
+      "tags": [
+        "Legislation and Scope"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch01-q169",
+      "stem": "A sonographer starts an intravenous line. Which authorized act does this involve?",
+      "image": null,
+      "options": [
+        "The inhalation of substances",
+        "Tracheal suctioning",
+        "A procedure on tissue below the dermis",
+        "The application of prescribed energy"
+      ],
+      "answer": 2,
+      "explanation": "Inserting an IV involves penetrating tissue below the skin surface — a procedure on tissue below the dermis.",
+      "explanationImage": null,
+      "tags": [
+        "Legislation and Scope"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch01-q170",
+      "stem": "Which legislation governs x-ray imaging and the X-Ray Safety Code?",
+      "image": null,
+      "options": [
+        "The Nuclear Safety and Control Act",
+        "The Medical Radiation Technologists Act, 2017 alone",
+        "The Environmental Protection Act",
+        "The Radiation Emitting Devices Act and associated x-ray safety provisions under the RHPA framework"
+      ],
+      "answer": 3,
+      "explanation": "X-ray safety is governed by federal radiation-emitting device legislation and provincial x-ray safety provisions — not by the sonography scope.",
+      "explanationImage": null,
+      "tags": [
+        "Legislation and Scope"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch01-q171",
+      "stem": "Under which legislation do nuclear medicine and radiation therapy fall?",
+      "image": null,
+      "options": [
+        "The Regulated Health Professions Act exemption for ultrasound",
+        "The Nuclear Safety and Control Act, as applied to those specific professions",
+        "The Residential Tenancies Act",
+        "The Motor Vehicle Act"
+      ],
+      "answer": 1,
+      "explanation": "Nuclear medicine and radiation therapy activities are addressed under nuclear safety legislation, distinct from ultrasound practice.",
+      "explanationImage": null,
+      "tags": [
+        "Legislation and Scope"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch01-q172",
+      "stem": "What is a \"controlled act\"?",
+      "image": null,
+      "options": [
+        "Any activity performed in a hospital",
+        "Any task that a sonographer finds difficult",
+        "A task that requires no training",
+        "An activity listed in legislation that may only be performed by authorized members of specified professions"
+      ],
+      "answer": 3,
+      "explanation": "Controlled acts are restricted by law to specific authorized professionals to protect the public.",
+      "explanationImage": null,
+      "tags": [
+        "Legislation and Scope"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch01-q173",
+      "stem": "Why can an Ontario sonographer perform diagnostic ultrasound even though ultrasound application is not listed among the five authorized acts?",
+      "image": null,
+      "options": [
+        "Because the RHPA specifically exempts applying sound waves for diagnostic ultrasound",
+        "Because anyone may perform ultrasound without restriction",
+        "Because hospitals can override legislation",
+        "Because the sonographer's employer grants the authority alone"
+      ],
+      "answer": 0,
+      "explanation": "The exemption in the RHPA permits the application of sound waves for diagnostic ultrasound by those within the profession's scope.",
+      "explanationImage": null,
+      "tags": [
+        "Legislation and Scope"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch01-q174",
+      "stem": "A sonographer performs tracheal suctioning of a tracheostomy. How is this activity classified?",
+      "image": null,
+      "options": [
+        "As an unrestricted activity anyone may perform",
+        "As an activity reserved exclusively for dentists",
+        "As one of the five authorized acts available to CMRITO registrants",
+        "As an x-ray procedure"
+      ],
+      "answer": 2,
+      "explanation": "Tracheal suctioning of a tracheostomy is explicitly included among the five authorized acts.",
+      "explanationImage": null,
+      "tags": [
+        "Legislation and Scope"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch01-q175",
+      "stem": "Which pairing of legislation and subject is CORRECT?",
+      "image": null,
+      "options": [
+        "Nuclear Safety and Control Act — diagnostic ultrasound scope in Ontario",
+        "RHPA, 1991 — hospital parking regulations",
+        "NSC Act — regulating sonographers' professional conduct",
+        "MRIT Act, 2017 — scope, authorized acts, and title protection for medical radiation technologists"
+      ],
+      "answer": 3,
+      "explanation": "The MRIT Act, 2017 correctly governs scope, authorized acts, and title protection for this group.",
+      "explanationImage": null,
+      "tags": [
+        "Legislation and Scope"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch01-q176",
+      "stem": "A sonographer is consistently late for shifts, causing colleagues to cover their patients. Which professional behaviour is being violated?",
+      "image": null,
+      "options": [
+        "Image optimization",
+        "Informed consent",
+        "Scope of practice",
+        "Reliability and responsibility to the team"
+      ],
+      "answer": 3,
+      "explanation": "Reliability is a core professional behaviour; chronic lateness burdens colleagues and disrupts patient care.",
+      "explanationImage": null,
+      "tags": [
+        "Professionalism in Practice"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch01-q177",
+      "stem": "Which action best reflects professionalism in appearance and identification?",
+      "image": null,
+      "options": [
+        "Wearing the required identification and adhering to the dress code",
+        "Wearing whatever is most comfortable regardless of policy",
+        "Removing identification to avoid patient questions",
+        "Dressing to attract attention"
+      ],
+      "answer": 0,
+      "explanation": "Proper identification and dress support trust, safety, and recognition within the care team.",
+      "explanationImage": null,
+      "tags": [
+        "Professionalism in Practice"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch01-q178",
+      "stem": "Why is hand hygiene essential between patients?",
+      "image": null,
+      "options": [
+        "It is only a suggestion, not a standard",
+        "It prevents healthcare-associated infection transmission",
+        "It saves time",
+        "It improves image quality"
+      ],
+      "answer": 1,
+      "explanation": "Hand hygiene is a foundational infection prevention practice that protects patients and staff.",
+      "explanationImage": null,
+      "tags": [
+        "Professionalism in Practice"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch01-q179",
+      "stem": "A sonographer must examine a sensitive area. Which approach best reflects professionalism?",
+      "image": null,
+      "options": [
+        "Explain the need, obtain ongoing consent, and use draping to preserve dignity",
+        "Expose as much as possible for speed",
+        "Skip the area entirely without telling anyone",
+        "Allow bystanders to observe for teaching without consent"
+      ],
+      "answer": 0,
+      "explanation": "Explanation, ongoing consent, and draping preserve patient dignity while allowing necessary imaging.",
+      "explanationImage": null,
+      "tags": [
+        "Professionalism in Practice"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch01-q180",
+      "stem": "A patient requests that a same-gender sonographer perform the examination if possible. What is the most professional response?",
+      "image": null,
+      "options": [
+        "Dismiss the request as unreasonable",
+        "Refuse the examination entirely",
+        "Ignore the request",
+        "Respect the request where feasible, accommodate it when possible, and document the arrangement"
+      ],
+      "answer": 3,
+      "explanation": "Respecting patient preferences regarding modesty and culture, when feasible, reflects patient-centred professionalism.",
+      "explanationImage": null,
+      "tags": [
+        "Professionalism in Practice"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch01-q181",
+      "stem": "A patient becomes hostile and insulting during an examination. What is the best response?",
+      "image": null,
+      "options": [
+        "Respond with equal hostility",
+        "Walk out and abandon the patient",
+        "Post about the patient online",
+        "Remain calm, de-escalate, continue to provide safe care, and involve a supervisor if needed"
+      ],
+      "answer": 3,
+      "explanation": "Maintaining composure, de-escalating, and escalating appropriately protects both the patient and the professional.",
+      "explanationImage": null,
+      "tags": [
+        "Professionalism in Practice"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch01-q182",
+      "stem": "Two colleagues are in a heated argument in the ultrasound department with patients nearby. What should a professionalism-focused employee do?",
+      "image": null,
+      "options": [
+        "Record the argument for entertainment",
+        "Address or report the disruption so patient care and dignity are protected",
+        "Ignore it completely regardless of patient impact",
+        "Take sides loudly"
+      ],
+      "answer": 1,
+      "explanation": "Unprofessional conflict in a clinical area must be managed to protect patients and the care environment.",
+      "explanationImage": null,
+      "tags": [
+        "Professionalism in Practice"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch01-q183",
+      "stem": "Which of the following is an unacceptable use of social media by a sonographer?",
+      "image": null,
+      "options": [
+        "Sharing general health education content approved by the workplace",
+        "Attending a professional webinar announced online",
+        "Networking with colleagues",
+        "Posting identifiable patient information or images"
+      ],
+      "answer": 3,
+      "explanation": "Posting identifiable patient information is a serious confidentiality breach and professional misconduct.",
+      "explanationImage": null,
+      "tags": [
+        "Professionalism in Practice"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch01-q184",
+      "stem": "A sonographer is extremely fatigued after several night shifts and is about to start a complex study. What is the most professional action?",
+      "image": null,
+      "options": [
+        "Push through without telling anyone",
+        "Disclose the fatigue concern to a supervisor so patient safety can be protected",
+        "Speed up the examination regardless of accuracy",
+        "Ask the patient to reschedule without explanation"
+      ],
+      "answer": 1,
+      "explanation": "Fatigue impairs performance; disclosing it and seeking mitigation is a patient-safety obligation.",
+      "explanationImage": null,
+      "tags": [
+        "Professionalism in Practice"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch01-q185",
+      "stem": "A sonographer notices a medication error being prepared for a patient by another staff member. What is the appropriate action?",
+      "image": null,
+      "options": [
+        "Say nothing to avoid conflict",
+        "Wait to see whether harm occurs",
+        "Intervene or report the unsafe practice immediately to protect the patient",
+        "Post a complaint on social media"
+      ],
+      "answer": 2,
+      "explanation": "Patient safety takes precedence; unsafe practices must be raised immediately through appropriate channels.",
+      "explanationImage": null,
+      "tags": [
+        "Professionalism in Practice"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch01-q186",
+      "stem": "Why is continuing professional development a professional responsibility?",
+      "image": null,
+      "options": [
+        "It maintains and enhances competence throughout a career",
+        "It is required only for new graduates",
+        "It is optional and unrelated to practice",
+        "It replaces workplace orientation"
+      ],
+      "answer": 0,
+      "explanation": "Knowledge and technology evolve; ongoing development keeps competence current.",
+      "explanationImage": null,
+      "tags": [
+        "Professionalism in Practice"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch01-q187",
+      "stem": "Which behaviour best demonstrates interprofessional respect?",
+      "image": null,
+      "options": [
+        "Dismissing input from nurses and other team members",
+        "Communicating courteously and collaborating with all members of the care team",
+        "Working in complete isolation from the team",
+        "Publicly criticizing colleagues to patients"
+      ],
+      "answer": 1,
+      "explanation": "Respectful, collaborative communication with all professions supports safe and effective care.",
+      "explanationImage": null,
+      "tags": [
+        "Professionalism in Practice"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch01-q188",
+      "stem": "A patient is nervous and asks repeated questions about the examination. Which response best reflects patient-centred care?",
+      "image": null,
+      "options": [
+        "Answer respectfully, provide clear explanations, and check the patient's understanding",
+        "Tell the patient to stop asking and lie still",
+        "Complete the examination as fast as possible without responding",
+        "Ask the patient's family to answer instead"
+      ],
+      "answer": 0,
+      "explanation": "Patient-centred care involves attentive communication, clear explanation, and confirmation of understanding.",
+      "explanationImage": null,
+      "tags": [
+        "Professionalism in Practice"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch01-q189",
+      "stem": "A sonographer realizes they omitted a required image series from a completed study. What is the most professional response?",
+      "image": null,
+      "options": [
+        "Hide the omission and hope it is not noticed",
+        "Blame the patient for moving",
+        "Acknowledge the error, correct it (including re-acquiring images if possible), and document transparently",
+        "Delete the study entirely"
+      ],
+      "answer": 2,
+      "explanation": "Honesty about errors, prompt correction, and transparent documentation are hallmarks of professional integrity.",
+      "explanationImage": null,
+      "tags": [
+        "Professionalism in Practice"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch01-q190",
+      "stem": "A patient tries to share personal gifts or excessive favour with the sonographer. What is the appropriate professional response?",
+      "image": null,
+      "options": [
+        "Accept anything offered without question",
+        "Post about the gift on social media",
+        "Maintain professional boundaries, decline appropriately, and keep the relationship professional",
+        "Use the gift to influence examination quality"
+      ],
+      "answer": 2,
+      "explanation": "Maintaining appropriate boundaries protects both the patient and the professional relationship.",
+      "explanationImage": null,
+      "tags": [
+        "Professionalism in Practice"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch01-q191",
+      "stem": "A sonographer is running behind schedule but notices that the required images for the current study are incomplete. What should take priority?",
+      "image": null,
+      "options": [
+        "Completing the required images properly and communicating the delay",
+        "Cutting corners to save time",
+        "Skipping documentation entirely",
+        "Leaving the study unfinished without telling anyone"
+      ],
+      "answer": 0,
+      "explanation": "Examination completeness and honest communication take priority over schedule pressure.",
+      "explanationImage": null,
+      "tags": [
+        "Professionalism in Practice"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch01-q192",
+      "stem": "A physician asks a sonographer to change a technical impression to something the images do not support. What is the correct response?",
+      "image": null,
+      "options": [
+        "Comply without question because the physician is senior",
+        "Decline to alter objective findings and escalate the concern through appropriate channels",
+        "Alter the report quietly and say nothing",
+        "Delete the original images"
+      ],
+      "answer": 1,
+      "explanation": "Objectivity and honesty in documentation cannot be compromised; the sonographer must escalate rather than falsify findings.",
+      "explanationImage": null,
+      "tags": [
+        "Professionalism in Practice"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch01-q193",
+      "stem": "A staff member is being harassed by a colleague. What is the appropriate professional response?",
+      "image": null,
+      "options": [
+        "Ignore it indefinitely",
+        "Retaliate privately",
+        "Discuss it with patients",
+        "Report it through the workplace's established channels and support a respectful environment"
+      ],
+      "answer": 3,
+      "explanation": "Harassment must be reported through formal channels to protect staff and maintain a professional workplace.",
+      "explanationImage": null,
+      "tags": [
+        "Professionalism in Practice"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch01-q194",
+      "stem": "The department introduces a new ultrasound system. What should a sonographer do before using it on patients?",
+      "image": null,
+      "options": [
+        "Use it immediately without training",
+        "Ask patients to figure it out",
+        "Complete the required training and demonstrate competence first",
+        "Avoid the system permanently"
+      ],
+      "answer": 2,
+      "explanation": "New technology requires orientation, training, and competency validation before clinical use.",
+      "explanationImage": null,
+      "tags": [
+        "Professionalism in Practice"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch01-q195",
+      "stem": "What is evidence-based practice in sonography?",
+      "image": null,
+      "options": [
+        "Integrating current best evidence, clinical expertise, and patient values in practice decisions",
+        "Using the newest equipment regardless of outcomes",
+        "Following only personal tradition",
+        "Doing whatever is fastest"
+      ],
+      "answer": 0,
+      "explanation": "Evidence-based practice combines the best available evidence with professional judgement and patient preferences.",
+      "explanationImage": null,
+      "tags": [
+        "Professionalism in Practice"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch01-q196",
+      "stem": "What is the value of reflective practice for a sonographer?",
+      "image": null,
+      "options": [
+        "It has no value once one is experienced",
+        "It replaces supervision",
+        "It encourages self-assessment, identification of learning needs, and continuous improvement",
+        "It is only required for students"
+      ],
+      "answer": 2,
+      "explanation": "Reflection drives ongoing professional growth by identifying strengths and areas needing development.",
+      "explanationImage": null,
+      "tags": [
+        "Professionalism in Practice"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch01-q197",
+      "stem": "A patient cannot afford a follow-up examination they clearly need. What is the sonographer's most appropriate role?",
+      "image": null,
+      "options": [
+        "Ignore the issue entirely",
+        "Promise the examination for free personally",
+        "Tell the patient it is not the sonographer's concern",
+        "Advocate within the care team and connect the patient with appropriate resources or social work"
+      ],
+      "answer": 3,
+      "explanation": "Advocacy within the team and connection to resources supports equitable, patient-centred care.",
+      "explanationImage": null,
+      "tags": [
+        "Professionalism in Practice"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch01-q198",
+      "stem": "A patient collapses in the department during an examination. Which sequence best reflects professional emergency behaviour?",
+      "image": null,
+      "options": [
+        "Continue the examination to complete the images first",
+        "Leave the room to avoid responsibility",
+        "Wait for the patient to recover on their own",
+        "Stop the examination, call for emergency assistance, provide appropriate support, and document the event"
+      ],
+      "answer": 3,
+      "explanation": "Patient safety comes first: stop, call for help, assist within competence, and document the event fully.",
+      "explanationImage": null,
+      "tags": [
+        "Professionalism in Practice"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch01-q199",
+      "stem": "A sonographer is experiencing personal stress that begins affecting concentration at work. What is the most professional course of action?",
+      "image": null,
+      "options": [
+        "Ignore it and pretend everything is fine",
+        "Take it out on patients",
+        "Seek appropriate support and inform a supervisor so patient safety is not compromised",
+        "Resign immediately without notice"
+      ],
+      "answer": 2,
+      "explanation": "Recognizing impairment to practice and seeking support protects both the practitioner and patients.",
+      "explanationImage": null,
+      "tags": [
+        "Professionalism in Practice"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch01-q200",
+      "stem": "Which combination of actions BEST represents overall professional practice in the Week 1 context?",
+      "image": null,
+      "options": [
+        "Completing as many examinations as possible with minimal documentation",
+        "Following orders without question and never communicating with the care team",
+        "Prioritizing personal convenience over patient preparation",
+        "Verifying the order, assessing the patient, working within scope and competence, documenting objectively, and escalating concerns promptly"
+      ],
+      "answer": 3,
+      "explanation": "Professional practice integrates order verification, patient assessment, scope and competence, accurate documentation, and timely communication and escalation.",
+      "explanationImage": null,
+      "tags": [
+        "Professionalism in Practice"
+      ],
+      "reference": ""
+    }
+  ]
 }

@@ -3,6 +3,8 @@ import json
 from pathlib import Path
 
 ROOT = Path("/app/frontend/public/qbank")
+if not ROOT.exists():
+    ROOT = Path(__file__).resolve().parent.parent / "frontend" / "public" / "qbank"
 
 SEMESTERS = [
     ("sem1", "Semester 1", [

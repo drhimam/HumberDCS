@@ -1,0 +1,3606 @@
+{
+  "chapterId": "ch05",
+  "title": "Module 5: Healthcare Team, Escalation & Conflict Resolution",
+  "questions": [
+    {
+      "id": "DCS5006-ch05-q001",
+      "stem": "What is professionalism in this context?",
+      "image": null,
+      "options": [
+        "Looking professional and being polite only",
+        "Wearing a name tag and arriving on time",
+        "Agreeing with colleagues at all times",
+        "What patients and colleagues can consistently expect from us — reflected in the decisions we make when no one is standing beside us"
+      ],
+      "answer": 3,
+      "explanation": "Professionalism appears in consistent expectations and everyday decisions, not just appearance or manners.",
+      "explanationImage": null,
+      "tags": [
+        "Professionalism and Accountability"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch05-q002",
+      "stem": "What is accountability?",
+      "image": null,
+      "options": [
+        "Never making a mistake",
+        "Blaming others when things go wrong",
+        "Avoiding responsibility as a student",
+        "Being answerable for the work we accept and for what we do with the information available to us"
+      ],
+      "answer": 3,
+      "explanation": "Accountability means owning the work and the information — it does not mean a competent professional never makes a mistake.",
+      "explanationImage": null,
+      "tags": [
+        "Professionalism and Accountability"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch05-q003",
+      "stem": "Which statement about mistakes and accountability is correct?",
+      "image": null,
+      "options": [
+        "Mistakes disqualify a professional permanently",
+        "Mistakes should be hidden to protect the team",
+        "We all make mistakes — accountability means being able to own them and act on them",
+        "Mistakes are only the employer's concern"
+      ],
+      "answer": 2,
+      "explanation": "Owning mistakes honestly is the essence of accountability.",
+      "explanationImage": null,
+      "tags": [
+        "Professionalism and Accountability"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch05-q004",
+      "stem": "Which statement about confidence is correct?",
+      "image": null,
+      "options": [
+        "Confidence alone is not enough — education, demonstrated competence, workplace policy, and authority under which you act must also be considered",
+        "Confidence establishes competence",
+        "Confidence replaces supervision",
+        "Confidence guarantees safe practice"
+      ],
+      "answer": 0,
+      "explanation": "Confidence must be supported by education, demonstrated competence, policy, and authority.",
+      "explanationImage": null,
+      "tags": [
+        "Professionalism and Accountability"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch05-q005",
+      "stem": "Which statement about learning in this profession is TRUE?",
+      "image": null,
+      "options": [
+        "Learning ends at graduation",
+        "Learning is only needed after a complaint",
+        "Experience removes the need for learning",
+        "Graduation is the beginning of continued competence, not the end of learning"
+      ],
+      "answer": 3,
+      "explanation": "Equipment, evidence, and scope all change, so learning continues throughout a career.",
+      "explanationImage": null,
+      "tags": [
+        "Professionalism and Accountability"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch05-q006",
+      "stem": "Which set best matches what a cardiac sonographer is accountable for?",
+      "image": null,
+      "options": [
+        "Only image acquisition",
+        "Only the schedule",
+        "Only the final diagnosis",
+        "Assigned duties, image acquisition and measurements, following policies and protocols while using judgement, recognizing personal limitations, and reporting concerns appropriately"
+      ],
+      "answer": 3,
+      "explanation": "These five areas define the sonographer's accountability in the cardiac setting.",
+      "explanationImage": null,
+      "tags": [
+        "Professionalism and Accountability"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch05-q007",
+      "stem": "A protocol calls for several remaining views, but the patient is becoming unstable. What does the protocol rule require?",
+      "image": null,
+      "options": [
+        "Finish the protocol before checking on the patient",
+        "The protocol always overrides patient condition",
+        "A protocol guides a routine echo, but it does not require ignoring a patient who is becoming unstable simply because images remain",
+        "Stop and do nothing"
+      ],
+      "answer": 2,
+      "explanation": "Patient condition governs — continuing an unstable patient through a protocol is unsafe practice.",
+      "explanationImage": null,
+      "tags": [
+        "Professionalism and Accountability"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch05-q008",
+      "stem": "Which statement about protocol and judgement is correct?",
+      "image": null,
+      "options": [
+        "Ignore protocols entirely",
+        "Apply protocols rigidly regardless of condition",
+        "Follow protocols while using professional judgement for the patient's actual condition",
+        "Let patients decide on protocols"
+      ],
+      "answer": 2,
+      "explanation": "Accountability includes following protocols and using judgement together.",
+      "explanationImage": null,
+      "tags": [
+        "Professionalism and Accountability"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch05-q009",
+      "stem": "A sonographer recognizes a limitation in their own skills during a study. What does accountability require?",
+      "image": null,
+      "options": [
+        "Recognize the limitation and report concerns appropriately, seeking help through the approved pathway",
+        "Continue regardless and hope for the best",
+        "Hide the limitation from the team",
+        "Blame the equipment"
+      ],
+      "answer": 0,
+      "explanation": "Recognizing personal limitations and reporting concerns are explicit accountability duties.",
+      "explanationImage": null,
+      "tags": [
+        "Professionalism and Accountability"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch05-q010",
+      "stem": "What does \"a safe sonographer does not try to become every member of the healthcare team\" mean?",
+      "image": null,
+      "options": [
+        "Sonographers should avoid teamwork",
+        "Safe care comes from understanding your own role, recognizing when another person's expertise is needed, and ensuring information reaches the right person",
+        "Other professions are unnecessary",
+        "Sonographers should learn every other role completely"
+      ],
+      "answer": 1,
+      "explanation": "Role clarity — not role expansion — is what makes care safe.",
+      "explanationImage": null,
+      "tags": [
+        "Professionalism and Accountability"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch05-q011",
+      "stem": "Which statement about safe care is TRUE?",
+      "image": null,
+      "options": [
+        "Safe care requires answering every question alone",
+        "Safe care requires perfect knowledge",
+        "Safe care does not depend on knowing everything",
+        "Safe care is the physician's responsibility alone"
+      ],
+      "answer": 2,
+      "explanation": "Recognizing what you do not know and connecting to the right person is safe practice.",
+      "explanationImage": null,
+      "tags": [
+        "Professionalism and Accountability"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch05-q012",
+      "stem": "What does the sonographer's role include when entering the examination room?",
+      "image": null,
+      "options": [
+        "Deciding the diagnosis before scanning",
+        "Acquiring and optimizing echo information, recognizing and reporting limitations, and communicating concerns through the approved pathway",
+        "Treating the patient independently",
+        "Avoiding all communication"
+      ],
+      "answer": 1,
+      "explanation": "The role is acquisition, optimization, limitation reporting, and communication — not independent diagnosis or treatment.",
+      "explanationImage": null,
+      "tags": [
+        "Professionalism and Accountability"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch05-q013",
+      "stem": "The sonographer should NOT enter the room having:",
+      "image": null,
+      "options": [
+        "Confirmed the patient's identity",
+        "Reviewed the order",
+        "Already decided what is wrong with the patient",
+        "Prepared the equipment"
+      ],
+      "answer": 2,
+      "explanation": "Entering with a pre-made diagnosis biases the examination and exceeds the role.",
+      "explanationImage": null,
+      "tags": [
+        "Professionalism and Accountability"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch05-q014",
+      "stem": "Which statement about respect in the workplace is correct?",
+      "image": null,
+      "options": [
+        "Respect only applies to patients",
+        "Respect includes how we speak to patients, how we speak about them when they are absent, and how we treat colleagues during stressful moments",
+        "Respect ends during emergencies",
+        "Respect applies only to physicians"
+      ],
+      "answer": 1,
+      "explanation": "Respectful conduct extends to absent patients and colleagues under pressure.",
+      "explanationImage": null,
+      "tags": [
+        "Professionalism and Accountability"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch05-q015",
+      "stem": "How is successful communication defined?",
+      "image": null,
+      "options": [
+        "When the sender and receiver understand the message in the same way",
+        "When the sender speaks loudly",
+        "When the message is sent quickly",
+        "When the sender talks the most"
+      ],
+      "answer": 0,
+      "explanation": "The practical test is whether the other person received the message we intended.",
+      "explanationImage": null,
+      "tags": [
+        "Communication Fundamentals and the Closed Loop"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch05-q016",
+      "stem": "What is the closed loop of communication?",
+      "image": null,
+      "options": [
+        "Send → forget → repeat",
+        "Write → file → ignore",
+        "Speak → leave → hope",
+        "Send → receive → confirm, with the receiver reporting back when the call is completed or if they cannot reach someone"
+      ],
+      "answer": 3,
+      "explanation": "Confirmation and report-back close the loop; the task is verified as accepted and acted upon.",
+      "explanationImage": null,
+      "tags": [
+        "Communication Fundamentals and the Closed Loop"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch05-q017",
+      "stem": "Which statement about silence is correct?",
+      "image": null,
+      "options": [
+        "Silence confirms the message",
+        "Silence means agreement",
+        "Silence does not prove that an action happened",
+        "Silence is the best confirmation"
+      ],
+      "answer": 2,
+      "explanation": "Without confirmation, you cannot know whether the action occurred.",
+      "explanationImage": null,
+      "tags": [
+        "Communication Fundamentals and the Closed Loop"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch05-q018",
+      "stem": "You ask a colleague to call cardiology about an urgent concern. What best completes the communication loop?",
+      "image": null,
+      "options": [
+        "The colleague confirms the action and reports back",
+        "The colleague nods",
+        "You assume it was done",
+        "You mention it once and leave"
+      ],
+      "answer": 0,
+      "explanation": "Closed-loop communication confirms the task was accepted and the message reached the intended person.",
+      "explanationImage": null,
+      "tags": [
+        "Communication Fundamentals and the Closed Loop"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch05-q019",
+      "stem": "Which statement about professional communication is correct?",
+      "image": null,
+      "options": [
+        "Professional communication is what you say, how you say it, what you document, what you confirm, and what you escalate",
+        "Professional communication is speaking politely only",
+        "Professional communication excludes documentation",
+        "Professional communication applies only to patients"
+      ],
+      "answer": 0,
+      "explanation": "The definition encompasses speech, manner, documentation, confirmation, and escalation.",
+      "explanationImage": null,
+      "tags": [
+        "Communication Fundamentals and the Closed Loop"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch05-q020",
+      "stem": "Which statement about sending and receiving information is TRUE?",
+      "image": null,
+      "options": [
+        "Only sending is a responsibility",
+        "Only receiving is a responsibility",
+        "Both sending and receiving are responsibilities — checking the message was understood belongs to the process",
+        "Neither is a responsibility"
+      ],
+      "answer": 2,
+      "explanation": "Professional communication includes sending, receiving, checking understanding, and responding appropriately.",
+      "explanationImage": null,
+      "tags": [
+        "Communication Fundamentals and the Closed Loop"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch05-q021",
+      "stem": "Which channel is safe for communicating an urgent patient concern?",
+      "image": null,
+      "options": [
+        "A personal text message",
+        "The approved communication pathway for the organization",
+        "A hallway conversation without confirmation",
+        "A note left where no one confirms receipt"
+      ],
+      "answer": 1,
+      "explanation": "Hallway conversations, personal texts, and unconfirmed notes are not safe communication.",
+      "explanationImage": null,
+      "tags": [
+        "Communication Fundamentals and the Closed Loop"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch05-q022",
+      "stem": "Which statement about busy departments and communication is correct?",
+      "image": null,
+      "options": [
+        "Interruptions excuse unconfirmed messages",
+        "Busy departments do not need closed loops",
+        "Interruptions and misunderstandings are common, so confirmation is essential",
+        "Colleagues always remember tasks"
+      ],
+      "answer": 2,
+      "explanation": "In busy settings, people get interrupted, misunderstand, or assume someone else is handling it — hence confirmation.",
+      "explanationImage": null,
+      "tags": [
+        "Communication Fundamentals and the Closed Loop"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch05-q023",
+      "stem": "What should a sonographer do after requesting an action from a colleague?",
+      "image": null,
+      "options": [
+        "Confirm the colleague accepted the task and follow up on the report-back",
+        "Assume it will be done",
+        "Repeat the request without confirming",
+        "Leave the area immediately"
+      ],
+      "answer": 0,
+      "explanation": "Acceptance and report-back are what close the loop.",
+      "explanationImage": null,
+      "tags": [
+        "Communication Fundamentals and the Closed Loop"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch05-q024",
+      "stem": "Which example best demonstrates closed-loop communication?",
+      "image": null,
+      "options": [
+        "\"Please call Cardiology now and tell them Jordan is more short of breath\" → \"I'm calling Cardiology now\" → the colleague reports back that the call was made",
+        "A note is left on the desk",
+        "The concern is mentioned in the hallway",
+        "The request is sent by personal text"
+      ],
+      "answer": 0,
+      "explanation": "The exchange shows send, receive-confirmation, and report-back — a complete loop.",
+      "explanationImage": null,
+      "tags": [
+        "Communication Fundamentals and the Closed Loop"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch05-q025",
+      "stem": "Which statement about communication and patient safety is TRUE?",
+      "image": null,
+      "options": [
+        "Communication is optional when busy",
+        "Communication is part of safe care, not an optional courtesy",
+        "Communication matters only for diagnoses",
+        "Communication is administrative work"
+      ],
+      "answer": 1,
+      "explanation": "Information reaching the right person in time is a component of care itself.",
+      "explanationImage": null,
+      "tags": [
+        "Communication Fundamentals and the Closed Loop"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch05-q026",
+      "stem": "What is the danger of assuming \"someone else is handling it\"?",
+      "image": null,
+      "options": [
+        "Nothing — tasks complete themselves",
+        "Only documentation suffers",
+        "Only the schedule is affected",
+        "The task may fall through entirely, leaving the patient without needed action"
+      ],
+      "answer": 3,
+      "explanation": "Assumption is a common cause of uncompleted tasks and missed care.",
+      "explanationImage": null,
+      "tags": [
+        "Communication Fundamentals and the Closed Loop"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch05-q027",
+      "stem": "Which statement about urgent or stat communication is correct?",
+      "image": null,
+      "options": [
+        "Urgency reduces the need for confirmation",
+        "The closed loop matters most when the concern is urgent or stat",
+        "Stat requests may go unconfirmed",
+        "Urgent messages can wait for the routine report"
+      ],
+      "answer": 1,
+      "explanation": "The higher the stakes, the more important confirmation becomes.",
+      "explanationImage": null,
+      "tags": [
+        "Communication Fundamentals and the Closed Loop"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch05-q028",
+      "stem": "A colleague confirms they will call the cardiologist but never reports back. What should you do?",
+      "image": null,
+      "options": [
+        "Assume it is done because they said they would",
+        "Nothing further",
+        "Follow up to confirm the action was completed, continuing through the approved pathway as needed",
+        "Blame the colleague if it fails"
+      ],
+      "answer": 2,
+      "explanation": "Verbal acceptance without report-back leaves the loop open; follow-up closes it.",
+      "explanationImage": null,
+      "tags": [
+        "Communication Fundamentals and the Closed Loop"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch05-q029",
+      "stem": "Which pair of actions best represents the full communication responsibility?",
+      "image": null,
+      "options": [
+        "Send the message clearly, and confirm it was received and acted upon",
+        "Speak loudly, and repeat yourself",
+        "Document later, and hope",
+        "Assume, and avoid follow-up"
+      ],
+      "answer": 0,
+      "explanation": "Clear sending plus confirmation of receipt and action completes the responsibility.",
+      "explanationImage": null,
+      "tags": [
+        "Communication Fundamentals and the Closed Loop"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch05-q030",
+      "stem": "Which statement summarizes the relationship between communication and imaging?",
+      "image": null,
+      "options": [
+        "Technical skill creates the images; communication makes the images useful",
+        "Images speak for themselves",
+        "Communication is secondary to image quality",
+        "Communication replaces imaging"
+      ],
+      "answer": 0,
+      "explanation": "The right observation must reach the right person with clarity and urgency to matter.",
+      "explanationImage": null,
+      "tags": [
+        "Communication Fundamentals and the Closed Loop"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch05-q031",
+      "stem": "Which statement best describes the sonographer's communication in practice?",
+      "image": null,
+      "options": [
+        "Speak only when spoken to",
+        "Use technical terms to sound expert",
+        "Identify yourself and the patient, explain what is happening, speak in plain language, check understanding, document accurately, communicate concerns promptly, and escalate when the condition changes",
+        "Document only at the end of the day"
+      ],
+      "answer": 2,
+      "explanation": "These actions together make up everyday professional communication in the examination room.",
+      "explanationImage": null,
+      "tags": [
+        "Professional Communication Skills with Patients"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch05-q032",
+      "stem": "Which introduction is most appropriate?",
+      "image": null,
+      "options": [
+        "\"Lie down and take your shirt off.\"",
+        "\"We need to hurry.\"",
+        "\"I think I see something.\"",
+        "\"Hi, Jordan. My name is Jillian. I'm the echo tech today completing your echocardiogram.\""
+      ],
+      "answer": 3,
+      "explanation": "The introduction names the practitioner, identifies the patient, and states the purpose.",
+      "explanationImage": null,
+      "tags": [
+        "Professional Communication Skills with Patients"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch05-q033",
+      "stem": "What is teach-back?",
+      "image": null,
+      "options": [
+        "Testing the patient's memory",
+        "Repeating the same sentence louder",
+        "Asking \"Do you understand?\"",
+        "Asking the patient to explain back, in their own words, what they understand will happen — a check on the explanation, not a test of the patient"
+      ],
+      "answer": 3,
+      "explanation": "Teach-back verifies that the explanation was clear, without implying the patient is being examined.",
+      "explanationImage": null,
+      "tags": [
+        "Professional Communication Skills with Patients"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch05-q034",
+      "stem": "Which phrasing best demonstrates teach-back?",
+      "image": null,
+      "options": [
+        "\"Just so I know I explained it clearly, can you tell me how we are going to position you?\"",
+        "\"Do you understand?\"",
+        "\"Any questions? No? Good.\"",
+        "\"You know what an echo is, right?\""
+      ],
+      "answer": 0,
+      "explanation": "The phrasing puts the check on the explanation rather than on the patient.",
+      "explanationImage": null,
+      "tags": [
+        "Professional Communication Skills with Patients"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch05-q035",
+      "stem": "Which elements make up non-verbal communication?",
+      "image": null,
+      "options": [
+        "Words only",
+        "Clothing and footwear only",
+        "Documentation style",
+        "Eye contact, facial expression, posture, tone of voice, and professional presence"
+      ],
+      "answer": 3,
+      "explanation": "Non-verbal signals shape how messages are received.",
+      "explanationImage": null,
+      "tags": [
+        "Professional Communication Skills with Patients"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch05-q036",
+      "stem": "A sonographer says \"take your time\" while looking at the clock and tapping a foot. What is the problem?",
+      "image": null,
+      "options": [
+        "Nothing — the words are correct",
+        "Only the words matter",
+        "The actions contradict the words — the patient receives the opposite message",
+        "The patient will not notice"
+      ],
+      "answer": 2,
+      "explanation": "Actions can contradict words; consistency between verbal and non-verbal messages matters.",
+      "explanationImage": null,
+      "tags": [
+        "Professional Communication Skills with Patients"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch05-q037",
+      "stem": "What does limited eye contact by a patient or practitioner automatically mean?",
+      "image": null,
+      "options": [
+        "Dishonesty",
+        "Disengagement",
+        "Nothing automatic — limited eye contact does not automatically mean dishonesty or disengagement",
+        "Language difficulty"
+      ],
+      "answer": 2,
+      "explanation": "Cultural norms, anxiety, and many other factors influence eye contact; no single meaning should be assumed.",
+      "explanationImage": null,
+      "tags": [
+        "Professional Communication Skills with Patients"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch05-q038",
+      "stem": "What should happen before touching or repositioning a patient?",
+      "image": null,
+      "options": [
+        "Explain what you are doing and why",
+        "Move quickly and quietly",
+        "Ask another patient first",
+        "Nothing"
+      ],
+      "answer": 0,
+      "explanation": "Explaining before touching respects the patient and supports ongoing consent.",
+      "explanationImage": null,
+      "tags": [
+        "Professional Communication Skills with Patients"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch05-q039",
+      "stem": "Which statement about jargon is correct?",
+      "image": null,
+      "options": [
+        "Technical terms demonstrate expertise",
+        "Jargon saves time",
+        "Patients should learn the terminology",
+        "Avoid unexplained jargon; use everyday words one step at a time"
+      ],
+      "answer": 3,
+      "explanation": "Plain language supports understanding; jargon without explanation creates barriers.",
+      "explanationImage": null,
+      "tags": [
+        "Professional Communication Skills with Patients"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch05-q040",
+      "stem": "Which statement should be avoided when speaking with a patient?",
+      "image": null,
+      "options": [
+        "An explanation of what will happen next",
+        "A promise you cannot keep — such as a guaranteed result or a guaranteed timeframe",
+        "An honest description of the examination",
+        "An invitation to ask questions"
+      ],
+      "answer": 1,
+      "explanation": "Promises that cannot be supported damage trust and may be untrue.",
+      "explanationImage": null,
+      "tags": [
+        "Professional Communication Skills with Patients"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch05-q041",
+      "stem": "Which comment about another staff member should never be made to a patient?",
+      "image": null,
+      "options": [
+        "The name of the interpreting physician",
+        "The name of the nurse involved",
+        "The role of the care team",
+        "Any negative or critical comment about colleagues"
+      ],
+      "answer": 3,
+      "explanation": "Speaking poorly about colleagues undermines confidence in the care team.",
+      "explanationImage": null,
+      "tags": [
+        "Professional Communication Skills with Patients"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch05-q042",
+      "stem": "How should exposure and positioning be handled for female patients?",
+      "image": null,
+      "options": [
+        "Minimize all explanation",
+        "Skip draping for speed",
+        "Explain the required exposure and positioning, use appropriate draping, and check comfort throughout the scan",
+        "Assume comfort"
+      ],
+      "answer": 2,
+      "explanation": "Explanation, draping, and ongoing comfort checks protect dignity during a sensitive examination.",
+      "explanationImage": null,
+      "tags": [
+        "Professional Communication Skills with Patients"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch05-q043",
+      "stem": "Why should comfort be checked throughout the examination rather than only at the start?",
+      "image": null,
+      "options": [
+        "It fills time",
+        "It is only required for anxious patients",
+        "Comfort and willingness can change during the examination, and consent is ongoing",
+        "It replaces documentation"
+      ],
+      "answer": 2,
+      "explanation": "A single initial check cannot capture a changing situation — ongoing checks respect autonomy.",
+      "explanationImage": null,
+      "tags": [
+        "Professional Communication Skills with Patients"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch05-q044",
+      "stem": "Which statement about documentation as communication is correct?",
+      "image": null,
+      "options": [
+        "Documentation is purely administrative",
+        "Documentation is a form of communication — accurate entries tell the next clinician what happened",
+        "Documentation matters only in legal proceedings",
+        "Documentation replaces conversation"
+      ],
+      "answer": 1,
+      "explanation": "The clinical record communicates facts to everyone who relies on them afterward.",
+      "explanationImage": null,
+      "tags": [
+        "Professional Communication Skills with Patients"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch05-q045",
+      "stem": "Which list correctly matches common communication barriers?",
+      "image": null,
+      "options": [
+        "Height, weight, age, and colour",
+        "Scheduling, billing, parking, and meals",
+        "Equipment brand, software version, and settings",
+        "Language, hearing, health literacy, anxiety, pain, cultural or personal comfort, and background noise"
+      ],
+      "answer": 3,
+      "explanation": "These are the barriers taught as common obstacles to understanding in the examination room.",
+      "explanationImage": null,
+      "tags": [
+        "Communication Barriers, Language, Culture and Hearing"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch05-q046",
+      "stem": "What does a communication barrier usually mean?",
+      "image": null,
+      "options": [
+        "It usually means our usual approach is not working — not that the patient is difficult",
+        "The patient is being uncooperative",
+        "The patient should be transferred",
+        "Nothing can be done"
+      ],
+      "answer": 0,
+      "explanation": "A barrier is a signal to adapt the approach, not a judgement about the patient.",
+      "explanationImage": null,
+      "tags": [
+        "Communication Barriers, Language, Culture and Hearing"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch05-q047",
+      "stem": "Which set best matches the taught barrier solutions?",
+      "image": null,
+      "options": [
+        "Repeating loudly, rushing, guessing, and ignoring",
+        "Written orders only, silence, avoidance, and hurry",
+        "Family translation, jargon, pressure, and repetition",
+        "Plain language, slowing down, a qualified interpreter, and teach-back"
+      ],
+      "answer": 3,
+      "explanation": "These four strategies adapt the communication to the barrier.",
+      "explanationImage": null,
+      "tags": [
+        "Communication Barriers, Language, Culture and Hearing"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch05-q048",
+      "stem": "A patient does not understand English. What does repeating the same sentence more loudly accomplish?",
+      "image": null,
+      "options": [
+        "It solves the problem",
+        "It proves the patient is difficult",
+        "It replaces an interpreter",
+        "Nothing useful — repeating the same sentence more loudly will not solve a language difference"
+      ],
+      "answer": 3,
+      "explanation": "Volume does not bridge a language gap; a qualified interpreter does.",
+      "explanationImage": null,
+      "tags": [
+        "Communication Barriers, Language, Culture and Hearing"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch05-q049",
+      "stem": "When is a qualified interpreter the appropriate solution?",
+      "image": null,
+      "options": [
+        "Only when the patient requests one in writing",
+        "Never — family members are always used",
+        "When a language difference exists and a qualified interpreter is available and appropriate",
+        "Only after three failed attempts"
+      ],
+      "answer": 2,
+      "explanation": "Interpreter use is a standard response to language barriers and a common interview topic.",
+      "explanationImage": null,
+      "tags": [
+        "Communication Barriers, Language, Culture and Hearing"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch05-q050",
+      "stem": "When using an interpreter, whom should you speak to?",
+      "image": null,
+      "options": [
+        "The patient, not the interpreter — using short clear sentences and pausing",
+        "The interpreter exclusively",
+        "The patient's family instead",
+        "The interpreter's supervisor"
+      ],
+      "answer": 0,
+      "explanation": "Speaking to the patient maintains the therapeutic relationship and reduces filtering.",
+      "explanationImage": null,
+      "tags": [
+        "Communication Barriers, Language, Culture and Hearing"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch05-q051",
+      "stem": "Why are family members not always appropriate as interpreters?",
+      "image": null,
+      "options": [
+        "They are never helpful",
+        "They lack emotions",
+        "They may filter information, misunderstand terminology, or create privacy concerns",
+        "They are always unavailable"
+      ],
+      "answer": 2,
+      "explanation": "Filtering, misunderstanding, and privacy risks make qualified interpreters preferable.",
+      "explanationImage": null,
+      "tags": [
+        "Communication Barriers, Language, Culture and Hearing"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch05-q052",
+      "stem": "Which language habits best support interpreter-assisted communication?",
+      "image": null,
+      "options": [
+        "Long complex sentences with medical terms",
+        "Rapid continuous speech",
+        "Whispered asides to the interpreter",
+        "Short clear sentences, pauses, and avoiding slang, unexplained abbreviations, and long technical explanations"
+      ],
+      "answer": 3,
+      "explanation": "Chunked, plain speech is interpretable; dense jargon is not.",
+      "explanationImage": null,
+      "tags": [
+        "Communication Barriers, Language, Culture and Hearing"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch05-q053",
+      "stem": "A long technical explanation is making an anxious patient more anxious. What should you do?",
+      "image": null,
+      "options": [
+        "Add more detail",
+        "Shorten and simplify the explanation — a long technical explanation can make anxiety worse",
+        "Speak faster to finish",
+        "Stop communicating"
+      ],
+      "answer": 1,
+      "explanation": "Concise plain-language explanation reduces anxiety better than technical density.",
+      "explanationImage": null,
+      "tags": [
+        "Communication Barriers, Language, Culture and Hearing"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch05-q054",
+      "stem": "When working with a patient who is hard of hearing, what is the FIRST step?",
+      "image": null,
+      "options": [
+        "Shout immediately",
+        "Write notes without asking",
+        "Bring in the family automatically",
+        "Ask what support works best for them — one approach does not suit every patient"
+      ],
+      "answer": 3,
+      "explanation": "Individual needs differ; asking identifies the most effective support.",
+      "explanationImage": null,
+      "tags": [
+        "Communication Barriers, Language, Culture and Hearing"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch05-q055",
+      "stem": "Which set best matches hearing-supportive communication?",
+      "image": null,
+      "options": [
+        "Shout, turn away, and speak over background noise",
+        "Gain attention before speaking, face the person directly with your mouth visible, reduce background noise, and speak clearly at a natural pace",
+        "Whisper, leave the room, and speak quickly",
+        "Repeat everything twice louder"
+      ],
+      "answer": 1,
+      "explanation": "These techniques maximize the patient's ability to hear and lip-read.",
+      "explanationImage": null,
+      "tags": [
+        "Communication Barriers, Language, Culture and Hearing"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch05-q056",
+      "stem": "Why should you not shout at a patient who is hard of hearing?",
+      "image": null,
+      "options": [
+        "Shouting is always forbidden by policy only",
+        "Shouting distorts speech and may feel disrespectful — it reduces rather than improves understanding",
+        "Shouting never affects hearing",
+        "Shouting is a language barrier"
+      ],
+      "answer": 1,
+      "explanation": "Distortion from shouting makes lip-reading and comprehension harder.",
+      "explanationImage": null,
+      "tags": [
+        "Communication Barriers, Language, Culture and Hearing"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch05-q057",
+      "stem": "Which supports may help a patient with hearing loss?",
+      "image": null,
+      "options": [
+        "louder music",
+        "Longer silence",
+        "Avoiding communication",
+        "Hearing devices, written instructions, captioning, and interpreters"
+      ],
+      "answer": 3,
+      "explanation": "Multiple modalities — devices, writing, captioning, interpreters — can bridge hearing barriers.",
+      "explanationImage": null,
+      "tags": [
+        "Communication Barriers, Language, Culture and Hearing"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch05-q058",
+      "stem": "What is cultural safety in communication?",
+      "image": null,
+      "options": [
+        "Memorizing rules about every culture",
+        "Assuming all patients share your background",
+        "Avoiding all patients from other cultures",
+        "It begins when we recognize our own way of communicating is not automatically universal"
+      ],
+      "answer": 3,
+      "explanation": "Cultural safety starts with self-awareness; memorizing cultural rules can create stereotypes, so respectful questions are preferred.",
+      "explanationImage": null,
+      "tags": [
+        "Communication Barriers, Language, Culture and Hearing"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch05-q059",
+      "stem": "What does people-centred care mean?",
+      "image": null,
+      "options": [
+        "Scanning technique is the only priority",
+        "Patients decide their own diagnoses",
+        "We are scanning a person, not simply acquiring pictures of the heart",
+        "Every request must be promised"
+      ],
+      "answer": 2,
+      "explanation": "People-centred care attends to the person behind the images — though it does not mean promising every request.",
+      "explanationImage": null,
+      "tags": [
+        "Empathy, People-Centred Care and Responses to Avoid"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch05-q060",
+      "stem": "What is empathy in this context?",
+      "image": null,
+      "options": [
+        "Solving every problem the patient raises",
+        "Sharing your own similar stories",
+        "Noticing the emotion and responding without dismissing it — it does not require fixing every feeling",
+        "Agreeing with everything the patient says"
+      ],
+      "answer": 2,
+      "explanation": "Empathy acknowledges emotion and responds appropriately, without taking on roles outside the scope.",
+      "explanationImage": null,
+      "tags": [
+        "Empathy, People-Centred Care and Responses to Avoid"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch05-q061",
+      "stem": "Which statement about empathy's boundaries is correct?",
+      "image": null,
+      "options": [
+        "Empathy requires full self-disclosure",
+        "Avoid excessive personal details, do not become the patient's counsellor, and make no decisions outside your role",
+        "Empathy means replacing the physician",
+        "Empathy requires becoming the patient's friend"
+      ],
+      "answer": 1,
+      "explanation": "Empathy is bounded by the professional role.",
+      "explanationImage": null,
+      "tags": [
+        "Empathy, People-Centred Care and Responses to Avoid"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch05-q062",
+      "stem": "A patient says, \"I'm scared something's wrong.\" Which response best reflects empathy?",
+      "image": null,
+      "options": [
+        "\"There's nothing to worry about.\"",
+        "\"I know exactly how you feel.\"",
+        "\"Just try to relax.\"",
+        "\"I can see that you're worried. I will explain what I'm doing throughout, and I'll make sure the appropriate physician receives the study and if there are any concerns.\""
+      ],
+      "answer": 3,
+      "explanation": "The response notices the emotion, promises clear communication, and ensures the physician receives the study.",
+      "explanationImage": null,
+      "tags": [
+        "Empathy, People-Centred Care and Responses to Avoid"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch05-q063",
+      "stem": "A patient arrives upset about a previous experience. What is an appropriate response before beginning?",
+      "image": null,
+      "options": [
+        "\"That wasn't our department's fault.\"",
+        "\"Try to forget about it.\"",
+        "\"It probably was not that bad.\"",
+        "\"That sounds difficult. Before we begin, is there anything that would help you feel more comfortable during the echo?\""
+      ],
+      "answer": 3,
+      "explanation": "The response acknowledges the experience and asks a respectful, practical question.",
+      "explanationImage": null,
+      "tags": [
+        "Empathy, People-Centred Care and Responses to Avoid"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch05-q064",
+      "stem": "What is the problem with saying \"I know exactly how you feel\"?",
+      "image": null,
+      "options": [
+        "It is too short",
+        "It assumes an experience you cannot fully know — it dismisses rather than acknowledges the patient's individual feeling",
+        "It uses technical language",
+        "Nothing — it is always appropriate"
+      ],
+      "answer": 1,
+      "explanation": "Presuming to share the patient's exact feeling can invalidate their individual experience.",
+      "explanationImage": null,
+      "tags": [
+        "Empathy, People-Centred Care and Responses to Avoid"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch05-q065",
+      "stem": "What is the problem with saying \"At least it is not...\" to a patient?",
+      "image": null,
+      "options": [
+        "It is factually incorrect",
+        "It is too honest",
+        "It breaks confidentiality",
+        "It minimizes the patient's concern rather than acknowledging it"
+      ],
+      "answer": 3,
+      "explanation": "Comparisons that minimize a concern dismiss the emotion instead of responding to it.",
+      "explanationImage": null,
+      "tags": [
+        "Empathy, People-Centred Care and Responses to Avoid"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch05-q066",
+      "stem": "What is the problem with \"There's nothing to worry about\"?",
+      "image": null,
+      "options": [
+        "We do not actually know that, and it gives unauthorized reassurance that may be wrong",
+        "It is too brief",
+        "It is unprofessional language",
+        "It is a privacy breach"
+      ],
+      "answer": 0,
+      "explanation": "False reassurance can damage trust, exceed the role, and be incorrect.",
+      "explanationImage": null,
+      "tags": [
+        "Empathy, People-Centred Care and Responses to Avoid"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch05-q067",
+      "stem": "What is the problem with \"Just try to relax\"?",
+      "image": null,
+      "options": [
+        "It is too casual",
+        "It is dismissive and gives an instruction without addressing the cause of the anxiety",
+        "It is technically wrong",
+        "Nothing — it is helpful"
+      ],
+      "answer": 1,
+      "explanation": "The instruction dismisses the emotion instead of exploring and responding to it.",
+      "explanationImage": null,
+      "tags": [
+        "Empathy, People-Centred Care and Responses to Avoid"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch05-q068",
+      "stem": "Which statement about false reassurance is correct?",
+      "image": null,
+      "options": [
+        "It is appropriate for anxious patients",
+        "It may feel kind in the moment, but it can damage trust, may give information we are not authorized to provide, and it can also be wrong",
+        "It reduces the need for physician review",
+        "It is authorized when the scan looks normal"
+      ],
+      "answer": 1,
+      "explanation": "These three risks make false reassurance inappropriate despite good intentions.",
+      "explanationImage": null,
+      "tags": [
+        "Empathy, People-Centred Care and Responses to Avoid"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch05-q069",
+      "stem": "A patient asks, \"Did you find anything serious?\" Which three elements are required in the response?",
+      "image": null,
+      "options": [
+        "Diagnose, prescribe, and schedule",
+        "Promise, reassure, and hurry",
+        "Acknowledge the concern, explain the review process, and ensure the patient knows the concern will reach the appropriate clinician",
+        "Ignore, exit, and document"
+      ],
+      "answer": 2,
+      "explanation": "These three elements answer the question honestly within the professional role.",
+      "explanationImage": null,
+      "tags": [
+        "Empathy, People-Centred Care and Responses to Avoid"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch05-q070",
+      "stem": "A patient's concern is raised during an inpatient echo. Who else should be informed?",
+      "image": null,
+      "options": [
+        "The patient's nurse",
+        "Only the family",
+        "No one until the report is complete",
+        "Only the reception desk"
+      ],
+      "answer": 0,
+      "explanation": "For inpatients, the nurse should also know about the concern.",
+      "explanationImage": null,
+      "tags": [
+        "Empathy, People-Centred Care and Responses to Avoid"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch05-q071",
+      "stem": "Why is the response \"I can't tell you anything\" inadequate?",
+      "image": null,
+      "options": [
+        "It is factually false",
+        "It breaches confidentiality",
+        "It is too long",
+        "It is abrupt and unhelpful — the concern should be redirected helpfully to the proper process and person"
+      ],
+      "answer": 3,
+      "explanation": "Honest role limits should be paired with a helpful redirect, not a refusal.",
+      "explanationImage": null,
+      "tags": [
+        "Empathy, People-Centred Care and Responses to Avoid"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch05-q072",
+      "stem": "A patient is labelled \"uncooperative\" in conversation. What might that label be missing?",
+      "image": null,
+      "options": [
+        "Nothing — the label is usually complete",
+        "Only their heart rate",
+        "Fear, pain, a communication need, or a previous harmful experience — such as being pushed hard and bruised by a previous technician",
+        "Only the time of day"
+      ],
+      "answer": 2,
+      "explanation": "Behaviour often reflects unmet needs; asking why is more informative than labeling.",
+      "explanationImage": null,
+      "tags": [
+        "Empathy, People-Centred Care and Responses to Avoid"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch05-q073",
+      "stem": "A frustrated patient swears during the examination. What is the most professional response?",
+      "image": null,
+      "options": [
+        "Swear back",
+        "Recognize that frustration often reflects fear, pain, or previous experience; do not match the emotion or become defensive; set respectful limits if behaviour becomes unsafe",
+        "Abandon the examination without explanation",
+        "Ignore the behaviour completely"
+      ],
+      "answer": 1,
+      "explanation": "Understanding the likely cause, staying calm, and setting respectful limits keeps the encounter safe.",
+      "explanationImage": null,
+      "tags": [
+        "Empathy, People-Centred Care and Responses to Avoid"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch05-q074",
+      "stem": "Which statement about people-centred communication is TRUE?",
+      "image": null,
+      "options": [
+        "It respects the person's emotions, choices, and dignity while staying within the professional role",
+        "It requires agreeing with every request",
+        "It replaces clinical protocol entirely",
+        "It applies only to anxious patients"
+      ],
+      "answer": 0,
+      "explanation": "People-centred communication balances respect for the person with professional boundaries.",
+      "explanationImage": null,
+      "tags": [
+        "Empathy, People-Centred Care and Responses to Avoid"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch05-q075",
+      "stem": "Which set best matches the information the team needs from the sonographer?",
+      "image": null,
+      "options": [
+        "The patient's entire medical history and social details",
+        "Personal opinions about the patient",
+        "Only the final measurements",
+        "Patient history affecting the echo, study quality and limitations, objective observations requiring review, and any change in the patient's condition"
+      ],
+      "answer": 3,
+      "explanation": "These four categories are what the team actually needs to act on.",
+      "explanationImage": null,
+      "tags": [
+        "Communication Beyond the Encounter: Relevant, Objective, Timely, Verified"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch05-q076",
+      "stem": "Why is \"more information\" not always better?",
+      "image": null,
+      "options": [
+        "More information is never useful",
+        "Information overload is a legal violation",
+        "Teams dislike detail",
+        "Unrelated detail hides the important point"
+      ],
+      "answer": 3,
+      "explanation": "Relevant information communicates clearly; extraneous detail obscures the key point.",
+      "explanationImage": null,
+      "tags": [
+        "Communication Beyond the Encounter: Relevant, Objective, Timely, Verified"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch05-q077",
+      "stem": "What does accuracy in team communication require?",
+      "image": null,
+      "options": [
+        "Distinguishing the patient's report, your direct observation, and the conclusion that belongs to the interpreting physician",
+        "Stating everything as a fact",
+        "Giving your own diagnosis",
+        "Reporting only measurements"
+      ],
+      "answer": 0,
+      "explanation": "These three sources must be clearly separated so the receiver can weigh them correctly.",
+      "explanationImage": null,
+      "tags": [
+        "Communication Beyond the Encounter: Relevant, Objective, Timely, Verified"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch05-q078",
+      "stem": "What does timeliness mean for clinical communication?",
+      "image": null,
+      "options": [
+        "Communicating only at shift change",
+        "Communicating urgent information while it can still affect care, not documenting it at the end of the day",
+        "Waiting for the report to be finalized",
+        "Sending everything weekly"
+      ],
+      "answer": 1,
+      "explanation": "Details fade and care windows close — urgent information must move immediately.",
+      "explanationImage": null,
+      "tags": [
+        "Communication Beyond the Encounter: Relevant, Objective, Timely, Verified"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch05-q079",
+      "stem": "Which of the following is NOT a safe communication channel for a clinical concern?",
+      "image": null,
+      "options": [
+        "An approved electronic handoff system",
+        "A personal text message",
+        "A direct phone call with confirmation",
+        "An approved escalation pathway"
+      ],
+      "answer": 1,
+      "explanation": "Personal texts, hallway conversations, and unconfirmed notes are not safe channels.",
+      "explanationImage": null,
+      "tags": [
+        "Communication Beyond the Encounter: Relevant, Objective, Timely, Verified"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch05-q080",
+      "stem": "Which set correctly lists the forms of professional communication?",
+      "image": null,
+      "options": [
+        "Documentation, handoff, consultation, and escalation",
+        "Texting, emailing, calling, and guessing",
+        "Speaking, whispering, shouting, and silence",
+        "Notes, memos, posters, and signs"
+      ],
+      "answer": 0,
+      "explanation": "These four forms carry clinical information through the system.",
+      "explanationImage": null,
+      "tags": [
+        "Communication Beyond the Encounter: Relevant, Objective, Timely, Verified"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch05-q081",
+      "stem": "What is the documentation test for communication?",
+      "image": null,
+      "options": [
+        "\"Is this the shortest possible note?\"",
+        "\"Could another qualified person understand what happened, what I observed, and what action I took?\"",
+        "\"Would this impress a court more than a colleague?\"",
+        "\"Does this avoid mentioning limitations?\""
+      ],
+      "answer": 1,
+      "explanation": "If another qualified person cannot reconstruct the event, the record may not support continuity of care.",
+      "explanationImage": null,
+      "tags": [
+        "Communication Beyond the Encounter: Relevant, Objective, Timely, Verified"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch05-q082",
+      "stem": "Which handoff statement is most useful?",
+      "image": null,
+      "options": [
+        "\"Jordan became more short of breath while lying flat, and I stopped the echo to sit him upright.\"",
+        "\"Jordan was uncomfortable.\"",
+        "\"Jordan was difficult.\"",
+        "\"Study limited.\""
+      ],
+      "answer": 0,
+      "explanation": "The specific statement gives the receiver something clear enough to act on.",
+      "explanationImage": null,
+      "tags": [
+        "Communication Beyond the Encounter: Relevant, Objective, Timely, Verified"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch05-q083",
+      "stem": "What does an effective escalation require?",
+      "image": null,
+      "options": [
+        "Reaching someone who can act and confirming the message was received and understood",
+        "Leaving a voicemail",
+        "Adding a note to the chart only",
+        "Mentioning it in the hallway"
+      ],
+      "answer": 0,
+      "explanation": "Escalation is complete only when an actionable person has received and confirmed the message.",
+      "explanationImage": null,
+      "tags": [
+        "Communication Beyond the Encounter: Relevant, Objective, Timely, Verified"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch05-q084",
+      "stem": "What should a consultation communication identify?",
+      "image": null,
+      "options": [
+        "Only the patient's name",
+        "Who is being asked to review the concern, why it is being raised, what has already been attempted, and what requires attention",
+        "Only the sonographer's name",
+        "Only the time"
+      ],
+      "answer": 1,
+      "explanation": "These elements let the consultant act efficiently on the concern.",
+      "explanationImage": null,
+      "tags": [
+        "Communication Beyond the Encounter: Relevant, Objective, Timely, Verified"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch05-q085",
+      "stem": "A patient with a technical limitation will be transferred to CT after the echo. Why does the limitation matter?",
+      "image": null,
+      "options": [
+        "It does not matter outside the echo lab",
+        "Only the sonographer needs to know",
+        "It should be erased before transfer",
+        "The limitation needs to follow the study so the next person — such as the CT technologist — knows what was and was not obtained"
+      ],
+      "answer": 3,
+      "explanation": "Limitations must travel with the study so subsequent testing is informed.",
+      "explanationImage": null,
+      "tags": [
+        "Communication Beyond the Encounter: Relevant, Objective, Timely, Verified"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch05-q086",
+      "stem": "Which combination BEST matches the four qualities of information passed beyond the encounter?",
+      "image": null,
+      "options": [
+        "Relevant — history and limitations; Objective — reports, observations, and physician conclusions distinguished; Timely — while it can still affect care; Verified — confirmed received and understood",
+        "Verbose, subjective, delayed, and unconfirmed",
+        "Verbal only, opinionated, postponed, and assumed",
+        "Casual, personal, weekly, and forgotten"
+      ],
+      "answer": 0,
+      "explanation": "These four qualities — relevant, objective, timely, verified — define useful team information.",
+      "explanationImage": null,
+      "tags": [
+        "Communication Beyond the Encounter: Relevant, Objective, Timely, Verified"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch05-q087",
+      "stem": "Which sequence correctly matches the cardiac care pathway?",
+      "image": null,
+      "options": [
+        "Echocardiogram → symptoms → laboratory testing → discharge → nothing",
+        "Symptom and urgent assessment → ECG and laboratory testing → echocardiogram → treatment planning or further investigation → monitoring and follow-up",
+        "Monitoring → treatment → ECG → symptoms → imaging",
+        "Imaging only; the other steps are unnecessary"
+      ],
+      "answer": 1,
+      "explanation": "The pathway moves from assessment through testing, imaging, planning, and follow-up.",
+      "explanationImage": null,
+      "tags": [
+        "The Cardiac Care Pathway and Team Roles"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch05-q088",
+      "stem": "What does each step of the pathway depend on?",
+      "image": null,
+      "options": [
+        "The speed of the equipment",
+        "The sonographer's memory alone",
+        "Information reaching the right person at the right time",
+        "The patient's patience"
+      ],
+      "answer": 2,
+      "explanation": "Each step remains incomplete unless the next person receives the right information in time.",
+      "explanationImage": null,
+      "tags": [
+        "The Cardiac Care Pathway and Team Roles"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch05-q089",
+      "stem": "Which is a common point where information is lost in the pathway?",
+      "image": null,
+      "options": [
+        "The echocardiogram is performed",
+        "The nurse documents vital signs",
+        "The patient is transported safely",
+        "The order does not include the real clinical question"
+      ],
+      "answer": 3,
+      "explanation": "An order lacking the clinical question leaves the examination less focused and useful.",
+      "explanationImage": null,
+      "tags": [
+        "The Cardiac Care Pathway and Team Roles"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch05-q090",
+      "stem": "A patient's symptoms change during transport to the echo lab, but nobody tells the team. Where has communication failed?",
+      "image": null,
+      "options": [
+        "Nowhere — transport is not a communication point",
+        "At the transport step — the change in condition must be communicated to the receiving team",
+        "Only at the reporting step",
+        "Only at the scheduling step"
+      ],
+      "answer": 1,
+      "explanation": "Transport is a handoff point where changing conditions must travel with the patient.",
+      "explanationImage": null,
+      "tags": [
+        "The Cardiac Care Pathway and Team Roles"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch05-q091",
+      "stem": "An urgent observation is documented in the record but never escalated. What is the result?",
+      "image": null,
+      "options": [
+        "Nothing — documentation is sufficient",
+        "The report will automatically alert someone",
+        "The patient will inform the team",
+        "The observation may never reach someone who can act in time — documentation alone is not escalation"
+      ],
+      "answer": 3,
+      "explanation": "Recording an urgent observation without escalating it can delay care.",
+      "explanationImage": null,
+      "tags": [
+        "The Cardiac Care Pathway and Team Roles"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch05-q092",
+      "stem": "What should a sonographer do BEFORE scanning?",
+      "image": null,
+      "options": [
+        "Decide the diagnosis",
+        "Skip the order review when busy",
+        "Begin imaging immediately",
+        "Verify the request and gather the relevant history"
+      ],
+      "answer": 3,
+      "explanation": "Pre-scan verification of the request and history sets up a focused, safe examination.",
+      "explanationImage": null,
+      "tags": [
+        "The Cardiac Care Pathway and Team Roles"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch05-q093",
+      "stem": "What is the sonographer's communication responsibility DURING the examination?",
+      "image": null,
+      "options": [
+        "Remain silent until finished",
+        "Avoid all patient interaction",
+        "Monitor the patient's tolerance and condition",
+        "Complete the study regardless of condition"
+      ],
+      "answer": 2,
+      "explanation": "Monitoring tolerance and condition during scanning allows timely adaptation and escalation.",
+      "explanationImage": null,
+      "tags": [
+        "The Cardiac Care Pathway and Team Roles"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch05-q094",
+      "stem": "What are the sonographer's responsibilities AFTER the examination?",
+      "image": null,
+      "options": [
+        "Leave immediately after the last image",
+        "Delete suboptimal images",
+        "Wait for someone else to notice concerns",
+        "Save and label the study, document limitations, and communicate concerns through the approved pathway"
+      ],
+      "answer": 3,
+      "explanation": "Post-study tasks ensure the images are usable and concerns are transmitted.",
+      "explanationImage": null,
+      "tags": [
+        "The Cardiac Care Pathway and Team Roles"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch05-q095",
+      "stem": "What is the cardiologist's role on the team?",
+      "image": null,
+      "options": [
+        "Performing the echocardiogram",
+        "Transporting the patient",
+        "Cleaning the equipment",
+        "Integrating clinical and diagnostic information and directing medical management"
+      ],
+      "answer": 3,
+      "explanation": "The cardiologist integrates information and directs medical management.",
+      "explanationImage": null,
+      "tags": [
+        "The Cardiac Care Pathway and Team Roles"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch05-q096",
+      "stem": "What is the registered nurse's role in the cardiac team?",
+      "image": null,
+      "options": [
+        "Interpreting the echocardiogram",
+        "Ongoing assessment, medication administration, and coordination and communication between tests",
+        "Operating the ultrasound system",
+        "Performing cardiac surgery"
+      ],
+      "answer": 1,
+      "explanation": "The nurse's ongoing assessment often detects changes between diagnostic encounters.",
+      "explanationImage": null,
+      "tags": [
+        "The Cardiac Care Pathway and Team Roles"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch05-q097",
+      "stem": "What is the respiratory therapist's role?",
+      "image": null,
+      "options": [
+        "Cardiac surgical intervention",
+        "Breathing, oxygenation, and ventilation concerns",
+        "Stress test supervision only",
+        "Nutrition planning"
+      ],
+      "answer": 1,
+      "explanation": "Respiratory therapists address breathing, oxygenation, and ventilation.",
+      "explanationImage": null,
+      "tags": [
+        "The Cardiac Care Pathway and Team Roles"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch05-q098",
+      "stem": "What does a cardiac diagnostic technologist (CBT) do?",
+      "image": null,
+      "options": [
+        "ECG, ambulatory monitoring, and stress testing",
+        "Echocardiography interpretation",
+        "Cardiac surgery",
+        "Physiotherapy"
+      ],
+      "answer": 0,
+      "explanation": "CBT technologists perform ECG, ambulatory monitoring, and stress testing.",
+      "explanationImage": null,
+      "tags": [
+        "The Cardiac Care Pathway and Team Roles"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch05-q099",
+      "stem": "What is the cardiac sonographer's distinctive contribution?",
+      "image": null,
+      "options": [
+        "Diagnosing cardiac disease independently",
+        "Prescribing cardiac medication",
+        "Acquiring and optimizing echo information about cardiac structure and function, with measurements, technical observations, and communication of concerns",
+        "Performing cardiac surgery"
+      ],
+      "answer": 2,
+      "explanation": "The sonographer's contribution is imaging, measurement, observation, and communication — not diagnosis or treatment.",
+      "explanationImage": null,
+      "tags": [
+        "The Cardiac Care Pathway and Team Roles"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch05-q100",
+      "stem": "Which of the following is an allied health role in cardiac care?",
+      "image": null,
+      "options": [
+        "Only cardiologists and surgeons",
+        "Only sonographers and nurses",
+        "Pharmacist, physiotherapist, interpreter, dietitian, and discharge planner",
+        "Only administrative staff"
+      ],
+      "answer": 2,
+      "explanation": "These allied health roles contribute medications, mobility, communication, nutrition, and discharge planning.",
+      "explanationImage": null,
+      "tags": [
+        "The Cardiac Care Pathway and Team Roles"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch05-q101",
+      "stem": "Which is a support role that affects echo workflow?",
+      "image": null,
+      "options": [
+        "Only the interpreting physician",
+        "Porters and transport, who communicate mobility and oxygen needs and changes",
+        "Only the sonographer",
+        "Only the pharmacist"
+      ],
+      "answer": 1,
+      "explanation": "Transport staff communicate mobility and oxygen needs — information that matters directly to the examination.",
+      "explanationImage": null,
+      "tags": [
+        "The Cardiac Care Pathway and Team Roles"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch05-q102",
+      "stem": "What is the risk when an urgent study does not transfer to PACS?",
+      "image": null,
+      "options": [
+        "No risk — the images remain on the machine",
+        "It is a technical problem that can become a clinical delay — the images must reach the interpreting team",
+        "Only an information-technology inconvenience",
+        "Only a scheduling problem"
+      ],
+      "answer": 1,
+      "explanation": "Images that never reach PACS cannot be interpreted in time to affect care.",
+      "explanationImage": null,
+      "tags": [
+        "The Cardiac Care Pathway and Team Roles"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch05-q103",
+      "stem": "What is the purpose of listing the cardiac team roles?",
+      "image": null,
+      "options": [
+        "To rank the professions by importance",
+        "To reduce the number of team members",
+        "To clarify who holds the knowledge and authority for each need — not to create a ranking",
+        "To justify overtime"
+      ],
+      "answer": 2,
+      "explanation": "The role list clarifies knowledge and authority; it is explicitly not a ranking.",
+      "explanationImage": null,
+      "tags": [
+        "The Cardiac Care Pathway and Team Roles"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch05-q104",
+      "stem": "Which question best captures the spirit of the team-role framework?",
+      "image": null,
+      "options": [
+        "Whose job is more important?",
+        "Who can I blame if this fails?",
+        "Who has the right knowledge and authority for this need, and how do I connect them with the patient?",
+        "Who should I avoid contacting?"
+      ],
+      "answer": 2,
+      "explanation": "Connecting the need to the right person — not ranking roles — is the framework's purpose.",
+      "explanationImage": null,
+      "tags": [
+        "The Cardiac Care Pathway and Team Roles"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch05-q105",
+      "stem": "Which two assumptions does role clarity protect against?",
+      "image": null,
+      "options": [
+        "\"The patient is difficult\" and \"The order is wrong\"",
+        "\"Someone else may have done it\" and \"I thought I was allowed to do it\"",
+        "\"The equipment failed\" and \"The schedule changed\"",
+        "\"The report is late\" and \"The file is lost\""
+      ],
+      "answer": 1,
+      "explanation": "Clear roles prevent both dropped tasks and unauthorized actions.",
+      "explanationImage": null,
+      "tags": [
+        "Role Clarity and First Contact"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch05-q106",
+      "stem": "When responsibilities vary between workplaces, what is the correct approach?",
+      "image": null,
+      "options": [
+        "Assume your previous workplace's rules apply",
+        "When you are uncertain, clarify before acting on it",
+        "Do whatever seems reasonable",
+        "Wait for a mistake to clarify roles"
+      ],
+      "answer": 1,
+      "explanation": "Variation between workplaces makes clarification the safe response to uncertainty.",
+      "explanationImage": null,
+      "tags": [
+        "Role Clarity and First Contact"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch05-q107",
+      "stem": "A patient becomes acutely more short of breath during the scan. What is the correct first response?",
+      "image": null,
+      "options": [
+        "Obtain immediate clinical help through the approved escalation pathway — stay with the patient and assess within your role",
+        "Send an email to the cardiologist",
+        "Finish the routine protocol first",
+        "Wait for the final report to flag it"
+      ],
+      "answer": 0,
+      "explanation": "Immediate clinical help through the approved pathway is required — not email, protocol completion, or waiting.",
+      "explanationImage": null,
+      "tags": [
+        "Role Clarity and First Contact"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch05-q108",
+      "stem": "A study will not transfer to PACS. What should the sonographer do?",
+      "image": null,
+      "options": [
+        "Ignore the failure — the images remain on the machine",
+        "Contact imaging informatics or PACS support per the local process, protect the study, verify patient information, and communicate any clinical urgency",
+        "Email the images personally",
+        "Wait for the next shift"
+      ],
+      "answer": 1,
+      "explanation": "A technical failure does not remove the need for the images to reach the interpreting team.",
+      "explanationImage": null,
+      "tags": [
+        "Role Clarity and First Contact"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch05-q109",
+      "stem": "A patient asks which medication will be started after their echo. What is the correct response?",
+      "image": null,
+      "options": [
+        "Acknowledge the question and connect the patient to an authorized prescriber or care-team member, such as the physician or pharmacist",
+        "Guess based on what you think the diagnosis is",
+        "Read the chart and prescribe verbally",
+        "Dismiss the question"
+      ],
+      "answer": 0,
+      "explanation": "Treatment information belongs to authorized prescribers or care-team members; the sonographer connects the patient.",
+      "explanationImage": null,
+      "tags": [
+        "Role Clarity and First Contact"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch05-q110",
+      "stem": "An ultrasound probe is damaged and peeling. What should the sonographer do?",
+      "image": null,
+      "options": [
+        "Continue because the schedule is busy",
+        "Use it only on routine patients",
+        "Fix it personally",
+        "Stop using the equipment, protect the patient, and follow the biomedical or workplace reporting process"
+      ],
+      "answer": 3,
+      "explanation": "Continued use can harm the patient and degrade images; the equipment must be reported and removed from use.",
+      "explanationImage": null,
+      "tags": [
+        "Role Clarity and First Contact"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch05-q111",
+      "stem": "Why should unsafe equipment never be continued with \"because we are busy\"?",
+      "image": null,
+      "options": [
+        "Only because policy prohibits it",
+        "Only because of cost",
+        "Only because of inconvenience",
+        "It can harm the patient, and the images themselves will not be good"
+      ],
+      "answer": 3,
+      "explanation": "Patient safety and image quality both suffer from unsafe equipment.",
+      "explanationImage": null,
+      "tags": [
+        "Role Clarity and First Contact"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch05-q112",
+      "stem": "Which statement about role clarity is TRUE?",
+      "image": null,
+      "options": [
+        "Role clarity prevents teamwork",
+        "Role clarity is only for managers",
+        "A task that everyone assumes belongs to someone else is not collaboration",
+        "Role clarity replaces supervision"
+      ],
+      "answer": 2,
+      "explanation": "Assumed diffusion of responsibility causes tasks to be dropped; clarity assigns action.",
+      "explanationImage": null,
+      "tags": [
+        "Role Clarity and First Contact"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch05-q113",
+      "stem": "What does \"the right first contact\" depend on?",
+      "image": null,
+      "options": [
+        "Who is closest physically",
+        "Who is most senior",
+        "The need — who has the knowledge and authority for it",
+        "Who is most available"
+      ],
+      "answer": 2,
+      "explanation": "Matching the need to the person with knowledge and authority gets help fastest.",
+      "explanationImage": null,
+      "tags": [
+        "Role Clarity and First Contact"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch05-q114",
+      "stem": "Which combination BEST represents effective role clarity in practice?",
+      "image": null,
+      "options": [
+        "Perform every role yourself, assume others will act, and avoid questions",
+        "Know your own role, recognize when another expertise is needed, clarify uncertain responsibilities, and connect the patient to the person with the right knowledge and authority",
+        "Rank roles, assign blame, and avoid escalation",
+        "Wait for others to define your role for you"
+      ],
+      "answer": 1,
+      "explanation": "Role clarity combines self-knowledge, recognition of others' expertise, clarification, and connection.",
+      "explanationImage": null,
+      "tags": [
+        "Role Clarity and First Contact"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch05-q115",
+      "stem": "Which set best matches the cardiac sonographer's scope in practice?",
+      "image": null,
+      "options": [
+        "Diagnosing, prescribing, and discharging",
+        "Scheduling, billing, and transporting",
+        "Selecting views, adjusting settings, adapting the echo to the clinical question and the patient's condition, obtaining and verifying measurements, and documenting and communicating",
+        "Interpreting and reporting independently"
+      ],
+      "answer": 2,
+      "explanation": "The scope is imaging, measurement, observation, documentation, and communication.",
+      "explanationImage": null,
+      "tags": [
+        "Scope of the Cardiac Sonographer and Professional Boundaries"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch05-q116",
+      "stem": "An automated measurement appears on the screen. What is the sonographer's responsibility?",
+      "image": null,
+      "options": [
+        "Accept all automated values without review",
+        "Delete automated values routinely",
+        "Obtain and verify the measurement — do not simply accept an automated value because it appears on the screen",
+        "Refer every value to a patient"
+      ],
+      "answer": 2,
+      "explanation": "Image quality, tracing, and consistency must be checked before a measurement is accepted.",
+      "explanationImage": null,
+      "tags": [
+        "Scope of the Cardiac Sonographer and Professional Boundaries"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch05-q117",
+      "stem": "Which set correctly lists recognized echo limitations?",
+      "image": null,
+      "options": [
+        "Poor acoustic windows, arrhythmia, patient movement, and inability to tolerate positioning",
+        "Scheduling delays and parking problems",
+        "Payment and insurance issues",
+        "Only equipment age"
+      ],
+      "answer": 0,
+      "explanation": "These are the technical and patient-related limitations the sonographer must recognize and report.",
+      "explanationImage": null,
+      "tags": [
+        "Scope of the Cardiac Sonographer and Professional Boundaries"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch05-q118",
+      "stem": "Why must limitations be recognized and reported?",
+      "image": null,
+      "options": [
+        "To make the record longer",
+        "Because reporting is optional",
+        "So the interpreting physician knows what can and cannot be concluded from the study",
+        "To reduce the sonographer's workload"
+      ],
+      "answer": 2,
+      "explanation": "Recognized and reported limitations let the physician judge the study's conclusions appropriately.",
+      "explanationImage": null,
+      "tags": [
+        "Scope of the Cardiac Sonographer and Professional Boundaries"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch05-q119",
+      "stem": "Which statement about performing procedures is correct?",
+      "image": null,
+      "options": [
+        "Anything in the profession's scope may be performed by anyone",
+        "An order alone authorizes any procedure",
+        "A procedure may fall within the profession but still require additional education, demonstrated competence, supervision, and organizational approval",
+        "Confidence authorizes new procedures"
+      ],
+      "answer": 2,
+      "explanation": "Profession-wide scope does not remove individual requirements of education, competence, supervision, and approval.",
+      "explanationImage": null,
+      "tags": [
+        "Scope of the Cardiac Sonographer and Professional Boundaries"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch05-q120",
+      "stem": "What does \"confidence alone never creates permission\" mean?",
+      "image": null,
+      "options": [
+        "Confidence is unprofessional",
+        "Confidence should be avoided",
+        "Confidence replaces supervision",
+        "Feeling ready does not establish education, competence, authorization, or policy approval"
+      ],
+      "answer": 3,
+      "explanation": "Permission comes from demonstrated competence and authorization, not from self-assurance.",
+      "explanationImage": null,
+      "tags": [
+        "Scope of the Cardiac Sonographer and Professional Boundaries"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch05-q121",
+      "stem": "A student has watched a procedure once. What does this establish?",
+      "image": null,
+      "options": [
+        "Full competence",
+        "Watching a procedure once does not automatically prepare the student to perform it",
+        "Independent authorization",
+        "Exemption from supervision"
+      ],
+      "answer": 1,
+      "explanation": "Observation is not equivalent to training, demonstrated competence, or authorization.",
+      "explanationImage": null,
+      "tags": [
+        "Scope of the Cardiac Sonographer and Professional Boundaries"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch05-q122",
+      "stem": "What is the difference between scope and boundaries?",
+      "image": null,
+      "options": [
+        "They are identical concepts",
+        "Scope tells us what we contribute; boundaries tell us when another person or process is required",
+        "Boundaries refer only to equipment",
+        "Scope refers only to scheduling"
+      ],
+      "answer": 1,
+      "explanation": "Scope defines contribution; boundaries mark where another role or process must take over.",
+      "explanationImage": null,
+      "tags": [
+        "Scope of the Cardiac Sonographer and Professional Boundaries"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch05-q123",
+      "stem": "What do professional boundaries represent?",
+      "image": null,
+      "options": [
+        "A safe way to help — not a failure to help",
+        "An obstacle to patient care",
+        "A sign of weak confidence",
+        "A way to avoid work"
+      ],
+      "answer": 0,
+      "explanation": "Boundaries keep care safe by ensuring the right person or process handles each need.",
+      "explanationImage": null,
+      "tags": [
+        "Scope of the Cardiac Sonographer and Professional Boundaries"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch05-q124",
+      "stem": "Which statement about diagnosis and treatment is correct?",
+      "image": null,
+      "options": [
+        "Sonographers may diagnose when confident",
+        "Sonographers may prescribe when experienced",
+        "Sonographers may share results with family at will",
+        "Sonographers do not independently diagnose or prescribe treatment, and do not disclose diagnostic results outside the authorized process"
+      ],
+      "answer": 3,
+      "explanation": "Diagnosis, prescribing, and result disclosure follow defined roles and authorized processes.",
+      "explanationImage": null,
+      "tags": [
+        "Scope of the Cardiac Sonographer and Professional Boundaries"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch05-q125",
+      "stem": "What is the best redirect when a patient asks for a diagnostic conclusion?",
+      "image": null,
+      "options": [
+        "\"Everything is fine.\"",
+        "\"I think it looks normal.\"",
+        "\"Look at the screen.\"",
+        "\"The interpreting physician reviews the complete study, and the results will be discussed through the usual care process.\""
+      ],
+      "answer": 3,
+      "explanation": "The redirect is honest about the role and points to the proper process.",
+      "explanationImage": null,
+      "tags": [
+        "Scope of the Cardiac Sonographer and Professional Boundaries"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch05-q126",
+      "stem": "Why should a sonographer ask for help early when uncertain?",
+      "image": null,
+      "options": [
+        "The earlier we ask, the more options the team has — waiting until the echo is over may make missing images or reassessment harder",
+        "Asking early delays the study",
+        "Asking early is discouraged",
+        "Uncertainty never warrants help"
+      ],
+      "answer": 0,
+      "explanation": "Early questions preserve options such as obtaining missing images or reassessing the patient.",
+      "explanationImage": null,
+      "tags": [
+        "Scope of the Cardiac Sonographer and Professional Boundaries"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch05-q127",
+      "stem": "Which statement about speaking up is TRUE?",
+      "image": null,
+      "options": [
+        "Only complete diagnoses should be raised",
+        "Concerns should wait for certainty",
+        "Speaking up is the physician's job",
+        "The sonographer does not need to independently solve the diagnostic uncertainty before speaking up"
+      ],
+      "answer": 3,
+      "explanation": "Enough objective information to recognize the need for timely review is sufficient to raise a concern.",
+      "explanationImage": null,
+      "tags": [
+        "Scope of the Cardiac Sonographer and Professional Boundaries"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch05-q128",
+      "stem": "What does asking for a second set of images review demonstrate?",
+      "image": null,
+      "options": [
+        "Judgement, not weakness",
+        "Incompetence",
+        "Lack of training",
+        "Avoidance of work"
+      ],
+      "answer": 0,
+      "explanation": "Requesting review of images is a professional judgement that protects the patient.",
+      "explanationImage": null,
+      "tags": [
+        "Scope of the Cardiac Sonographer and Professional Boundaries"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch05-q129",
+      "stem": "During an echo-guided procedure, what is the sonographer's authority?",
+      "image": null,
+      "options": [
+        "Full authority over the procedure",
+        "Authority equal to the physician's",
+        "No role at all",
+        "Holding the probe does not give the sonographer authority over the entire procedure — the responsible physician directs it"
+      ],
+      "answer": 3,
+      "explanation": "The sonographer's role in procedures is defined and limited; the physician holds responsibility.",
+      "explanationImage": null,
+      "tags": [
+        "Scope of the Cardiac Sonographer and Professional Boundaries"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch05-q130",
+      "stem": "Which statement BEST captures safe participation in an echo-guided procedure?",
+      "image": null,
+      "options": [
+        "Improvisation before, assumptions during, and silence after",
+        "Role clarity before the procedure, objective communication during it, and complete documentation after",
+        "Authority over the procedure throughout",
+        "Documentation only if something goes wrong"
+      ],
+      "answer": 1,
+      "explanation": "Clarity, objective communication, and complete documentation define safe participation.",
+      "explanationImage": null,
+      "tags": [
+        "Scope of the Cardiac Sonographer and Professional Boundaries"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch05-q131",
+      "stem": "What is interprofessional collaboration?",
+      "image": null,
+      "options": [
+        "Working alone in a shared building",
+        "Working with other professionals toward a shared patient care goal — more than several people completing tasks in the same building",
+        "Competing with other professions",
+        "Avoiding other professionals"
+      ],
+      "answer": 1,
+      "explanation": "Collaboration is goal-directed joint work, not mere co-location.",
+      "explanationImage": null,
+      "tags": [
+        "Interprofessional Collaboration"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch05-q132",
+      "stem": "Which statement about respect among the team is correct?",
+      "image": null,
+      "options": [
+        "Respect includes how we treat colleagues during stressful moments, such as a code blue",
+        "Respect ends under pressure",
+        "Respect applies only to patients",
+        "Respect applies only to physicians"
+      ],
+      "answer": 0,
+      "explanation": "Stressful moments are precisely where respectful conduct matters most.",
+      "explanationImage": null,
+      "tags": [
+        "Interprofessional Collaboration"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch05-q133",
+      "stem": "Why should a sonographer not try to become every member of the healthcare team?",
+      "image": null,
+      "options": [
+        "Teamwork is discouraged",
+        "Other professions are unnecessary",
+        "Roles should be hidden",
+        "Safe care comes from knowing your role, recognizing when another expertise is needed, and ensuring information reaches the right person"
+      ],
+      "answer": 3,
+      "explanation": "Role clarity — not role expansion — protects the patient.",
+      "explanationImage": null,
+      "tags": [
+        "Interprofessional Collaboration"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch05-q134",
+      "stem": "What is the nurse's particular value in recognizing patient change?",
+      "image": null,
+      "options": [
+        "Nurses only administer medication",
+        "The nurse's ongoing assessment over time often detects changes between diagnostic encounters",
+        "Nurses do not observe changes",
+        "Nurses only schedule tests"
+      ],
+      "answer": 1,
+      "explanation": "Continuous presence over time makes the nurse's observations of change especially valuable.",
+      "explanationImage": null,
+      "tags": [
+        "Interprofessional Collaboration"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch05-q135",
+      "stem": "What does the team depend on from the sonographer?",
+      "image": null,
+      "options": [
+        "Independent diagnoses",
+        "Personal opinions",
+        "Delayed reports",
+        "Observations that are clear, accurate, and timely"
+      ],
+      "answer": 3,
+      "explanation": "Clear, accurate, timely observations are the sonographer's core team contribution.",
+      "explanationImage": null,
+      "tags": [
+        "Interprofessional Collaboration"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch05-q136",
+      "stem": "A colleague gives you critical feedback about your communication. What does accountability require?",
+      "image": null,
+      "options": [
+        "Dismiss it immediately",
+        "Retaliate",
+        "Consider the feedback and adjust",
+        "Ignore it permanently"
+      ],
+      "answer": 2,
+      "explanation": "Accountability includes receiving feedback and changing practice where warranted.",
+      "explanationImage": null,
+      "tags": [
+        "Interprofessional Collaboration"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch05-q137",
+      "stem": "Feedback you receive is vague. What is the best response?",
+      "image": null,
+      "options": [
+        "Ask for a specific example so the issue can be understood and addressed",
+        "Guess what was meant",
+        "Become defensive",
+        "Report the colleague"
+      ],
+      "answer": 0,
+      "explanation": "A specific example makes feedback actionable.",
+      "explanationImage": null,
+      "tags": [
+        "Interprofessional Collaboration"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch05-q138",
+      "stem": "Which statement about respect and safety is TRUE?",
+      "image": null,
+      "options": [
+        "Respect always requires silence",
+        "Safety concerns should be softened into hints",
+        "Respect does not mean silence when safety is at risk",
+        "Respect forbids escalation"
+      ],
+      "answer": 2,
+      "explanation": "A safety concern must be stated clearly and escalated, respectfully but firmly.",
+      "explanationImage": null,
+      "tags": [
+        "Interprofessional Collaboration"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch05-q139",
+      "stem": "During a disagreement about priorities, what shared goal should be named?",
+      "image": null,
+      "options": [
+        "Finishing the schedule",
+        "Avoiding conflict at all costs",
+        "Protecting individual reputations",
+        "The patient's safe assessment and care"
+      ],
+      "answer": 3,
+      "explanation": "Naming the shared patient-safety goal reframes the disagreement productively.",
+      "explanationImage": null,
+      "tags": [
+        "Interprofessional Collaboration"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch05-q140",
+      "stem": "Which statement best captures effective interprofessional collaboration?",
+      "image": null,
+      "options": [
+        "Every professional performs every role",
+        "Each professional contributes their knowledge and authority, communicates clearly, and connects the patient to the next person with the right expertise",
+        "Each professional works independently",
+        "Hierarchy decides everything"
+      ],
+      "answer": 1,
+      "explanation": "Complementary roles, clear communication, and appropriate connection define collaboration.",
+      "explanationImage": null,
+      "tags": [
+        "Interprofessional Collaboration"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch05-q141",
+      "stem": "What is the FIRST step when an urgent observation is recognized?",
+      "image": null,
+      "options": [
+        "Complete the worksheet",
+        "Wait for the report",
+        "Mention it at shift change",
+        "Recognize the observation, change, or symptom for what it is"
+      ],
+      "answer": 3,
+      "explanation": "Recognition begins the escalation process; the observation must be identified as significant.",
+      "explanationImage": null,
+      "tags": [
+        "Urgent Findings and Escalation"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch05-q142",
+      "stem": "What is the second escalation step?",
+      "image": null,
+      "options": [
+        "Call the media",
+        "Assess immediate safety and patient stability within your role — look at the patient, not only the image",
+        "Finish the protocol",
+        "Wait for the family"
+      ],
+      "answer": 1,
+      "explanation": "Assessment of the patient's immediate safety determines the urgency of the response.",
+      "explanationImage": null,
+      "tags": [
+        "Urgent Findings and Escalation"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch05-q143",
+      "stem": "Which pathway is appropriate for escalation?",
+      "image": null,
+      "options": [
+        "Personal social media",
+        "The parking office",
+        "The approved escalation pathway — such as the cardiologist, the patient's nurse, team lead, most responsible physician, or emergency response",
+        "Any hallway conversation"
+      ],
+      "answer": 2,
+      "explanation": "Escalation moves through designated, approved pathways.",
+      "explanationImage": null,
+      "tags": [
+        "Urgent Findings and Escalation"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch05-q144",
+      "stem": "How should an urgent concern be communicated?",
+      "image": null,
+      "options": [
+        "Clearly and without delay, stating what changed, what was observed, and why review is needed",
+        "Vaguely, such as \"can someone come look at this when they have time?\"",
+        "Only in writing at the end of the day",
+        "Through a casual remark"
+      ],
+      "answer": 0,
+      "explanation": "Vague requests do not convey urgency; specific statements enable timely review.",
+      "explanationImage": null,
+      "tags": [
+        "Urgent Findings and Escalation"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch05-q145",
+      "stem": "What must follow the escalation message?",
+      "image": null,
+      "options": [
+        "Nothing further",
+        "A break",
+        "A shift change",
+        "Confirmation that the message was received and understood — and continuation to the next approved level if there is no response"
+      ],
+      "answer": 3,
+      "explanation": "Without confirmation, the escalation may have failed; the pathway continues until someone responds.",
+      "explanationImage": null,
+      "tags": [
+        "Urgent Findings and Escalation"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch05-q146",
+      "stem": "Why is leaving a voicemail inadequate for an urgent concern?",
+      "image": null,
+      "options": [
+        "Leaving a voicemail is not confirmation that an urgent concern reached someone",
+        "Voicemails are prohibited by technology",
+        "Voicemails are too short",
+        "Voicemails cost money"
+      ],
+      "answer": 0,
+      "explanation": "Urgent concerns require confirmation of receipt, which a voicemail cannot provide.",
+      "explanationImage": null,
+      "tags": [
+        "Urgent Findings and Escalation"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch05-q147",
+      "stem": "What should be documented after an escalation?",
+      "image": null,
+      "options": [
+        "Only that the study was completed",
+        "The observation, the person contacted, the timing, and the next step — without unsupported conclusions",
+        "Only your opinion of the cause",
+        "Nothing until a complaint arises"
+      ],
+      "answer": 1,
+      "explanation": "Documentation of escalation captures facts — observation, contact, timing, next step.",
+      "explanationImage": null,
+      "tags": [
+        "Urgent Findings and Escalation"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch05-q148",
+      "stem": "Which statement about urgent observations is TRUE?",
+      "image": null,
+      "options": [
+        "An urgent observation is valuable once documented",
+        "An urgent observation matters only if the patient asks",
+        "An urgent observation has no value if it stays on our machine",
+        "An urgent observation belongs only to the sonographer"
+      ],
+      "answer": 2,
+      "explanation": "Observations create value only when they reach someone who can act on them.",
+      "explanationImage": null,
+      "tags": [
+        "Urgent Findings and Escalation"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch05-q149",
+      "stem": "What is required before raising a concern?",
+      "image": null,
+      "options": [
+        "A complete diagnosis",
+        "Enough objective information to recognize that the patient or study requires timely review — not a perfect diagnosis",
+        "A written legal opinion",
+        "The physician's agreement"
+      ],
+      "answer": 1,
+      "explanation": "You don't need a perfect diagnosis before raising a concern.",
+      "explanationImage": null,
+      "tags": [
+        "Urgent Findings and Escalation"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch05-q150",
+      "stem": "What is escalation, properly understood?",
+      "image": null,
+      "options": [
+        "A punishment for making errors",
+        "How the system prevents one missed message from becoming a patient safety failure — not punishment",
+        "A sign of incompetence",
+        "An optional courtesy"
+      ],
+      "answer": 1,
+      "explanation": "Escalation is a safety mechanism, not a disciplinary one.",
+      "explanationImage": null,
+      "tags": [
+        "Urgent Findings and Escalation"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch05-q151",
+      "stem": "What does \"stop treating the echo as routine when the patient is no longer routine\" mean?",
+      "image": null,
+      "options": [
+        "When the patient's condition changes, the examination's routine plan yields to assessment and escalation",
+        "Routine echoes should be avoided",
+        "Patients never routine",
+        "Protocols should never be followed"
+      ],
+      "answer": 0,
+      "explanation": "A changing patient demands a change in the examination's priorities and communication.",
+      "explanationImage": null,
+      "tags": [
+        "Urgent Findings and Escalation"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch05-q152",
+      "stem": "The patient appears unstable. What takes priority?",
+      "image": null,
+      "options": [
+        "Completing the worksheet",
+        "Waiting for a physician's callback",
+        "The local emergency process — we do not move slowly through every box while the patient worsens",
+        "Finishing all routine views"
+      ],
+      "answer": 2,
+      "explanation": "Immediate emergency action takes precedence over sequential checklist completion.",
+      "explanationImage": null,
+      "tags": [
+        "Urgent Findings and Escalation"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch05-q153",
+      "stem": "Jordan becomes more short of breath with a new large pericardial effusion, and the first cardiology contact does not answer. What is the correct action?",
+      "image": null,
+      "options": [
+        "Stay with Jordan, obtain help, and continue through the approved escalation pathway",
+        "Finish the routine protocol first",
+        "Wait for the final report before acting",
+        "Leave a voicemail and return to scanning"
+      ],
+      "answer": 0,
+      "explanation": "Staying with the patient and continuing escalation protects the patient while awaiting response.",
+      "explanationImage": null,
+      "tags": [
+        "Urgent Findings and Escalation"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch05-q154",
+      "stem": "Which sequence of escalation actions is complete?",
+      "image": null,
+      "options": [
+        "Document → forget → assume → delay → deny → ignore",
+        "Guess → call → leave → hope → wait → blame",
+        "Scan → report → discharge → repeat",
+        "Recognize → assess immediate safety → follow the approved pathway → communicate objectively without delay → confirm receipt → document"
+      ],
+      "answer": 3,
+      "explanation": "The full escalation sequence includes recognition, assessment, pathway, communication, confirmation, and documentation.",
+      "explanationImage": null,
+      "tags": [
+        "Urgent Findings and Escalation"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch05-q155",
+      "stem": "Why must documentation after escalation avoid unsupported conclusions?",
+      "image": null,
+      "options": [
+        "Documentation should show what happened, not simply defend the sonographer afterward",
+        "Conclusions are always prohibited by law",
+        "Documentation should be vague",
+        "Documentation is only for lawyers"
+      ],
+      "answer": 0,
+      "explanation": "Fact-centred documentation serves patients and review; self-serving conclusions do not.",
+      "explanationImage": null,
+      "tags": [
+        "Urgent Findings and Escalation"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch05-q156",
+      "stem": "Which statement BEST captures the purpose of escalation in patient care?",
+      "image": null,
+      "options": [
+        "Escalation is administrative paperwork",
+        "When the patient's condition changes, communication becomes part of the treatment",
+        "Escalation is only for physicians",
+        "Escalation waits for certainty"
+      ],
+      "answer": 1,
+      "explanation": "Timely communication is itself a component of treatment when conditions change.",
+      "explanationImage": null,
+      "tags": [
+        "Urgent Findings and Escalation"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch05-q157",
+      "stem": "What does SBAR stand for?",
+      "image": null,
+      "options": [
+        "Situation, Background, Assessment, Recommendation/request",
+        "Speed, Briefness, Accuracy, Reporting",
+        "Schedule, Budget, Action, Review",
+        "Safety, Balance, Analysis, Routine"
+      ],
+      "answer": 0,
+      "explanation": "SBAR structures an urgent message so the receiver understands immediately.",
+      "explanationImage": null,
+      "tags": [
+        "SBAR and Structured Communication"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch05-q158",
+      "stem": "What belongs in the Situation component?",
+      "image": null,
+      "options": [
+        "The patient's entire medical history",
+        "Your opinion about the cause",
+        "What is happening now — identifying yourself, the patient, and the immediate concern",
+        "The departmental schedule"
+      ],
+      "answer": 2,
+      "explanation": "The situation orients the receiver to who and what the message concerns right now.",
+      "explanationImage": null,
+      "tags": [
+        "SBAR and Structured Communication"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch05-q159",
+      "stem": "What belongs in the Background component?",
+      "image": null,
+      "options": [
+        "Every detail in the chart",
+        "Personal opinions about the patient",
+        "Relevant context only — the information that matters for this decision right now, not the entire history",
+        "Unrelated past admissions"
+      ],
+      "answer": 2,
+      "explanation": "Background is limited to what bears on the current decision.",
+      "explanationImage": null,
+      "tags": [
+        "SBAR and Structured Communication"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch05-q160",
+      "stem": "What belongs in the Assessment component?",
+      "image": null,
+      "options": [
+        "The objective observations you contribute — symptom change, vital signs if available, and the concerning imaging observation",
+        "An independent diagnosis stated as certainty",
+        "Speculation about the cause",
+        "A request to ignore the patient"
+      ],
+      "answer": 0,
+      "explanation": "Assessment carries objective observations while staying within the sonographer's role.",
+      "explanationImage": null,
+      "tags": [
+        "SBAR and Structured Communication"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch05-q161",
+      "stem": "Why should the Assessment avoid presenting an independent diagnosis as certainty?",
+      "image": null,
+      "options": [
+        "The sonographer contributes observations; the interpreting physician integrates them into a diagnosis",
+        "Diagnoses are never useful",
+        "Observations are always unreliable",
+        "The receiver dislikes detail"
+      ],
+      "answer": 0,
+      "explanation": "Staying within role keeps the message accurate and credible.",
+      "explanationImage": null,
+      "tags": [
+        "SBAR and Structured Communication"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch05-q162",
+      "stem": "What belongs in the Recommendation/request component?",
+      "image": null,
+      "options": [
+        "A vague hope that someone checks",
+        "An apology for the interruption",
+        "A summary of the entire admission",
+        "What action or review is needed"
+      ],
+      "answer": 3,
+      "explanation": "A specific request tells the receiver exactly what to do.",
+      "explanationImage": null,
+      "tags": [
+        "SBAR and Structured Communication"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch05-q163",
+      "stem": "Which closing phrase undermines an SBAR message?",
+      "image": null,
+      "options": [
+        "\"I need an urgent clinical review in the echo lab now.\"",
+        "\"Please call me back immediately.\"",
+        "\"I just wanted to let you know\" — it leaves the receiver to guess what you actually need",
+        "\"The blood pressure is dropping.\""
+      ],
+      "answer": 2,
+      "explanation": "A vague closing erases the request the message was built to deliver.",
+      "explanationImage": null,
+      "tags": [
+        "SBAR and Structured Communication"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch05-q164",
+      "stem": "Which statement about the model SBAR message is correct?",
+      "image": null,
+      "options": [
+        "The diagnosis is required in the Assessment",
+        "Background should include the entire history",
+        "The request is optional",
+        "\"I observed a new large pericardial effusion\" is an objective observation; \"Jordan definitely has cardiac tamponade\" would be an unsupported diagnosis"
+      ],
+      "answer": 3,
+      "explanation": "A large effusion can have different haemodynamic effects, so the observation — not a diagnosis — is reported.",
+      "explanationImage": null,
+      "tags": [
+        "SBAR and Structured Communication"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch05-q165",
+      "stem": "Which part of the model message \"I need an urgent clinical review in the echo lab now\" represents?",
+      "image": null,
+      "options": [
+        "Situation",
+        "Recommendation/request",
+        "Background",
+        "Assessment"
+      ],
+      "answer": 1,
+      "explanation": "The explicit statement of needed action is the R component.",
+      "explanationImage": null,
+      "tags": [
+        "SBAR and Structured Communication"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch05-q166",
+      "stem": "Can SBAR be used for routine communication?",
+      "image": null,
+      "options": [
+        "No — SBAR is only for emergencies",
+        "Only physicians may use SBAR",
+        "Yes — SBAR also works for a routine handoff, though wording and urgency change",
+        "Only written messages may use SBAR"
+      ],
+      "answer": 2,
+      "explanation": "The structure adapts to routine handoffs with appropriate wording and urgency.",
+      "explanationImage": null,
+      "tags": [
+        "SBAR and Structured Communication"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch05-q167",
+      "stem": "Which SBAR assessment statement is best?",
+      "image": null,
+      "options": [
+        "\"Jordan is becoming more short of breath, the blood pressure is now lower than on arrival, and I observed a new large pericardial effusion.\"",
+        "\"Jordan has cardiac tamponade.\"",
+        "\"Jordan is fine.\"",
+        "\"Jordan seems anxious.\""
+      ],
+      "answer": 0,
+      "explanation": "The statement presents objective observations without converting them into a diagnosis.",
+      "explanationImage": null,
+      "tags": [
+        "SBAR and Structured Communication"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch05-q168",
+      "stem": "Which element is missing from a message that states only \"Jordan is becoming more short of breath\"?",
+      "image": null,
+      "options": [
+        "Nothing — the message is complete",
+        "Background, Assessment, and the explicit Recommendation/request",
+        "Only the Situation",
+        "Only the Background"
+      ],
+      "answer": 1,
+      "explanation": "The symptom statement is the Situation only; a complete SBAR adds context, observations, and a clear request.",
+      "explanationImage": null,
+      "tags": [
+        "SBAR and Structured Communication"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch05-q169",
+      "stem": "Which sequence correctly matches the cardiac patient's diagnostic journey?",
+      "image": null,
+      "options": [
+        "Imaging → referral → discharge → nothing",
+        "Monitoring → imaging → assessment → referral",
+        "Treatment → testing → referral → imaging",
+        "Referral and initial assessment → diagnostic testing and imaging → treatment planning or intervention → ongoing monitoring and follow-up"
+      ],
+      "answer": 3,
+      "explanation": "The journey moves from referral through testing, planning, and follow-up.",
+      "explanationImage": null,
+      "tags": [
+        "Echo Within Cardiac Patient Management and Other Tests"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch05-q170",
+      "stem": "Why does the quality of the referral matter?",
+      "image": null,
+      "options": [
+        "The quality of the referral affects how well the examination is prepared and focused",
+        "It affects only billing",
+        "It is irrelevant to imaging",
+        "It only affects scheduling"
+      ],
+      "answer": 0,
+      "explanation": "A referral containing the real clinical question produces a more useful examination.",
+      "explanationImage": null,
+      "tags": [
+        "Echo Within Cardiac Patient Management and Other Tests"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch05-q171",
+      "stem": "Why should you always check whether a patient has had a previous echo?",
+      "image": null,
+      "options": [
+        "The team looks for change over time, so previous studies provide the comparison that makes the current study meaningful",
+        "Previous studies are irrelevant",
+        "Only the newest machine matters",
+        "Previous studies increase billing"
+      ],
+      "answer": 0,
+      "explanation": "Serial comparison — such as a previously mild effusion now large — is central to cardiac decision-making.",
+      "explanationImage": null,
+      "tags": [
+        "Echo Within Cardiac Patient Management and Other Tests"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch05-q172",
+      "stem": "Why do reproducible images and accurate measurements matter?",
+      "image": null,
+      "options": [
+        "Only for academic interest",
+        "Because change over time is judged by comparing reproducible measurements across studies",
+        "Because machines require testing",
+        "Because measurements are decorative"
+      ],
+      "answer": 1,
+      "explanation": "If measurements are not reproducible, apparent change may be measurement variation rather than disease.",
+      "explanationImage": null,
+      "tags": [
+        "Echo Within Cardiac Patient Management and Other Tests"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch05-q173",
+      "stem": "Which structures and functions does echocardiography evaluate?",
+      "image": null,
+      "options": [
+        "Chamber size, ventricular function, valves, the pericardium, and haemodynamics",
+        "Coronary anatomy only",
+        "Electrical rhythm detail only",
+        "Tissue chemistry only"
+      ],
+      "answer": 0,
+      "explanation": "These are the echo-evaluated structures and functions taught in the module.",
+      "explanationImage": null,
+      "tags": [
+        "Echo Within Cardiac Patient Management and Other Tests"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch05-q174",
+      "stem": "How does the interpreting physician use the echocardiogram?",
+      "image": null,
+      "options": [
+        "By combining it with history, physical examination, ECG, laboratory results, and other investigations to support diagnosis and treatment planning",
+        "By reading the images in isolation",
+        "By relying on the sonographer's diagnosis",
+        "By ignoring other data"
+      ],
+      "answer": 0,
+      "explanation": "Echo findings gain meaning within the complete clinical picture.",
+      "explanationImage": null,
+      "tags": [
+        "Echo Within Cardiac Patient Management and Other Tests"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch05-q175",
+      "stem": "How does echocardiography support ongoing care?",
+      "image": null,
+      "options": [
+        "Only by providing a single baseline",
+        "By replacing all follow-up",
+        "By monitoring disease progression through serial studies and assessing response to treatment — improved, stable, or worsened",
+        "Only by confirming a single diagnosis"
+      ],
+      "answer": 2,
+      "explanation": "Serial studies track progression and treatment response over time.",
+      "explanationImage": null,
+      "tags": [
+        "Echo Within Cardiac Patient Management and Other Tests"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch05-q176",
+      "stem": "Which set correctly lists echocardiography's limitations?",
+      "image": null,
+      "options": [
+        "No limitations exist",
+        "Only cost is a limitation",
+        "Coronary anatomy, fine rhythm detail, tissue characterization, and exercise response may require other tests",
+        "Only scheduling is a limitation"
+      ],
+      "answer": 2,
+      "explanation": "Knowing what echo cannot answer directs appropriate additional testing.",
+      "explanationImage": null,
+      "tags": [
+        "Echo Within Cardiac Patient Management and Other Tests"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch05-q177",
+      "stem": "What does \"guides clinical decision making\" mean about the echocardiogram?",
+      "image": null,
+      "options": [
+        "The image dictates treatment independently",
+        "The sonographer makes the decision",
+        "The machine decides automatically",
+        "It informs decisions — the image does not make the decision"
+      ],
+      "answer": 3,
+      "explanation": "Echo evidence informs — but does not independently determine — clinical decisions.",
+      "explanationImage": null,
+      "tags": [
+        "Echo Within Cardiac Patient Management and Other Tests"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch05-q178",
+      "stem": "Which test matches the question \"What is the rhythm over a longer period?\"",
+      "image": null,
+      "options": [
+        "A resting ECG",
+        "An echocardiogram",
+        "A Holter or ambulatory monitor",
+        "A cardiac MRI"
+      ],
+      "answer": 2,
+      "explanation": "Ambulatory monitoring records rhythm over an extended period, catching intermittent problems.",
+      "explanationImage": null,
+      "tags": [
+        "Echo Within Cardiac Patient Management and Other Tests"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch05-q179",
+      "stem": "Where does most workplace conflict begin?",
+      "image": null,
+      "options": [
+        "With a problem in the work, not necessarily a problem with the people",
+        "With personality defects",
+        "With the employer's policies only",
+        "With patients' behaviour"
+      ],
+      "answer": 0,
+      "explanation": "Framing conflict as a work problem directs attention to fixable causes.",
+      "explanationImage": null,
+      "tags": [
+        "Workplace Conflict: Causes and Resolution"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch05-q180",
+      "stem": "How should miscommunication as a conflict cause be addressed?",
+      "image": null,
+      "options": [
+        "By speaking louder",
+        "By checking understanding and confirming messages — unclear, incomplete, or unconfirmed information causes conflict",
+        "By avoiding the topic",
+        "By assuming agreement"
+      ],
+      "answer": 1,
+      "explanation": "Confirming messages prevents the misunderstandings that fuel conflict.",
+      "explanationImage": null,
+      "tags": [
+        "Workplace Conflict: Causes and Resolution"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch05-q181",
+      "stem": "Which is an example of unclear role expectations causing conflict?",
+      "image": null,
+      "options": [
+        "Disagreement over who obtains vital signs, arranges transport, prepares contrast, contacts the physician, or monitors the patient after the echo",
+        "A disagreement about image quality standards",
+        "A difference in transducer choice",
+        "A scheduling software glitch"
+      ],
+      "answer": 0,
+      "explanation": "These role questions are common sources of departmental conflict.",
+      "explanationImage": null,
+      "tags": [
+        "Workplace Conflict: Causes and Resolution"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch05-q182",
+      "stem": "A competing-priorities conflict involves which situation?",
+      "image": null,
+      "options": [
+        "Two patients prefer different transducers",
+        "A colleague takes a holiday",
+        "The emergency department wants an urgent study while an unstable inpatient is being scanned and a full outpatient schedule is waiting",
+        "A machine is being serviced"
+      ],
+      "answer": 2,
+      "explanation": "Simultaneous competing demands are a classic cause of workplace conflict.",
+      "explanationImage": null,
+      "tags": [
+        "Workplace Conflict: Causes and Resolution"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch05-q183",
+      "stem": "Two colleagues have different communication styles. What is the correct understanding?",
+      "image": null,
+      "options": [
+        "One style is always wrong",
+        "The quieter person is unprofessional",
+        "Conflict is inevitable",
+        "Different styles do not automatically mean that either person is unprofessional"
+      ],
+      "answer": 3,
+      "explanation": "Style differences alone do not indicate unprofessional conduct.",
+      "explanationImage": null,
+      "tags": [
+        "Workplace Conflict: Causes and Resolution"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch05-q184",
+      "stem": "Staffing shortages and equipment unavailability cause conflict in what way?",
+      "image": null,
+      "options": [
+        "People may begin blaming one another for a problem created by the system",
+        "They never cause conflict",
+        "They only affect billing",
+        "They improve teamwork automatically"
+      ],
+      "answer": 0,
+      "explanation": "System-created resource problems are often misattributed to individuals.",
+      "explanationImage": null,
+      "tags": [
+        "Workplace Conflict: Causes and Resolution"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch05-q185",
+      "stem": "What is the first resolution step when conflict arises?",
+      "image": null,
+      "options": [
+        "Defend yourself immediately",
+        "Escalate to management at once",
+        "End the relationship",
+        "Listen actively first — for example, \"What I'm hearing is that you're worried about the delay. Is that correct?\""
+      ],
+      "answer": 3,
+      "explanation": "Active listening confirms the real concern before solutions are discussed.",
+      "explanationImage": null,
+      "tags": [
+        "Workplace Conflict: Causes and Resolution"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch05-q186",
+      "stem": "Where should a difficult conversation with a colleague take place?",
+      "image": null,
+      "options": [
+        "In the patient's room",
+        "In a public hallway",
+        "Away from patients and other staff",
+        "On social media"
+      ],
+      "answer": 2,
+      "explanation": "Privacy protects patients, colleagues, and the conversation itself.",
+      "explanationImage": null,
+      "tags": [
+        "Workplace Conflict: Causes and Resolution"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch05-q187",
+      "stem": "What is the purpose of asking, \"Can you explain what you're expecting from me?\"",
+      "image": null,
+      "options": [
+        "To criticize the colleague",
+        "To clarify misunderstandings early before they escalate",
+        "To end the conversation",
+        "To transfer blame"
+      ],
+      "answer": 1,
+      "explanation": "Early clarification of expectations resolves many conflicts before they grow.",
+      "explanationImage": null,
+      "tags": [
+        "Workplace Conflict: Causes and Resolution"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch05-q188",
+      "stem": "What does returning to the shared goal sound like?",
+      "image": null,
+      "options": [
+        "\"This is your fault.\"",
+        "\"I am always right.\"",
+        "\"We both want Jordan assessed safely. Let us decide what needs to happen first.\"",
+        "\"Let us never speak again.\""
+      ],
+      "answer": 2,
+      "explanation": "Naming the shared goal reframes the discussion around the patient.",
+      "explanationImage": null,
+      "tags": [
+        "Workplace Conflict: Causes and Resolution"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch05-q189",
+      "stem": "What does working toward a clear solution involve?",
+      "image": null,
+      "options": [
+        "Explaining what you can do, identifying what you need, and confirming the next action",
+        "Demanding an apology",
+        "Avoiding any commitment",
+        "Making the other person decide everything"
+      ],
+      "answer": 0,
+      "explanation": "Concrete contributions, needs, and next actions produce resolution.",
+      "explanationImage": null,
+      "tags": [
+        "Workplace Conflict: Causes and Resolution"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch05-q190",
+      "stem": "When should a conflict be escalated?",
+      "image": null,
+      "options": [
+        "At the first sign of disagreement",
+        "When the patient remains at risk, the concern is outside your authority, the behaviour is serious, or the problem continues despite reasonable attempts",
+        "Never",
+        "Only after a lawsuit"
+      ],
+      "answer": 1,
+      "explanation": "These four circumstances justify escalation beyond the immediate conversation.",
+      "explanationImage": null,
+      "tags": [
+        "Workplace Conflict: Causes and Resolution"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch05-q191",
+      "stem": "A nurse says, \"Echo keeps delaying my patient.\" What is the best response?",
+      "image": null,
+      "options": [
+        "\"I understand that you are concerned about the delay. I'm currently scanning an unstable patient. Your patient is next, but if their condition has changed, tell me now so we can reassess their priority together.\"",
+        "\"Not my problem.\"",
+        "\"Everyone is delayed today.\"",
+        "\"Talk to my manager.\""
+      ],
+      "answer": 0,
+      "explanation": "The response acknowledges the concern, explains the situation, and invites reassessment if the condition has changed.",
+      "explanationImage": null,
+      "tags": [
+        "Workplace Conflict: Causes and Resolution"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch05-q192",
+      "stem": "Which statement best separates the issue from the person?",
+      "image": null,
+      "options": [
+        "\"You are unreliable,\" rather than describing the event",
+        "Both statements are equivalent",
+        "\"The urgent message was not confirmed,\" rather than \"You are unreliable.\"",
+        "Neither statement should be used"
+      ],
+      "answer": 2,
+      "explanation": "Describing the process problem addresses the issue without attacking identity.",
+      "explanationImage": null,
+      "tags": [
+        "Workplace Conflict: Causes and Resolution"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch05-q193",
+      "stem": "In the SBI feedback model, what belongs in the Behaviour component?",
+      "image": null,
+      "options": [
+        "Your interpretation of the person's character",
+        "Assumptions about intent",
+        "Only what you observed — such as \"the urgent message was sent, but the receipt was not confirmed\"",
+        "Gossip from others"
+      ],
+      "answer": 2,
+      "explanation": "Behaviour is limited to observable facts, which keeps feedback specific and fair.",
+      "explanationImage": null,
+      "tags": [
+        "Workplace Conflict: Causes and Resolution"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch05-q194",
+      "stem": "Which statement BEST captures the professional approach to conflict?",
+      "image": null,
+      "options": [
+        "Agreement is always required",
+        "Conflict resolution does not require everyone to agree — it requires respectful communication, a clear next step, and escalation when the concern remains unresolved",
+        "Escalation is always wrong",
+        "Respect means staying silent"
+      ],
+      "answer": 1,
+      "explanation": "Respectful communication plus a clear next step plus escalation when needed defines professional conflict resolution.",
+      "explanationImage": null,
+      "tags": [
+        "Workplace Conflict: Causes and Resolution"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch05-q195",
+      "stem": "Jordan becomes more short of breath and the blood pressure drops during the echo. What does this moment illustrate?",
+      "image": null,
+      "options": [
+        "The image is only the beginning — when the patient's condition changes, communication becomes part of the treatment",
+        "The study should be finished silently",
+        "Only the physician needs to notice",
+        "The report can wait until morning"
+      ],
+      "answer": 0,
+      "explanation": "A changing patient transforms communication into an urgent component of care.",
+      "explanationImage": null,
+      "tags": [
+        "Jordan's Turning Point, Practice Questions and Capstone"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch05-q196",
+      "stem": "A patient asks during the examination, \"Did you find anything serious?\" What is the most appropriate response?",
+      "image": null,
+      "options": [
+        "Show the images and let the patient interpret them",
+        "Explain the review process and connect the patient with the appropriate clinician — without giving your own interpretation or false reassurance",
+        "Say \"everything is fine\"",
+        "Say \"I can't tell you anything\" and turn away"
+      ],
+      "answer": 1,
+      "explanation": "Explaining the review process and connecting the patient to the clinician answers honestly within role.",
+      "explanationImage": null,
+      "tags": [
+        "Jordan's Turning Point, Practice Questions and Capstone"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch05-q197",
+      "stem": "A colleague dismisses a safety concern you raise. What is the correct response?",
+      "image": null,
+      "options": [
+        "Drop the concern to keep the peace",
+        "Restate it clearly and continue through the approved escalation pathway",
+        "Gossip about the colleague instead",
+        "Wait for the patient to deteriorate"
+      ],
+      "answer": 1,
+      "explanation": "Respectful persistence through the approved pathway ensures the concern is heard.",
+      "explanationImage": null,
+      "tags": [
+        "Jordan's Turning Point, Practice Questions and Capstone"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch05-q198",
+      "stem": "What was the sonographer's job in Jordan's case?",
+      "image": null,
+      "options": [
+        "Not to solve everything alone — to acquire the information, recognize the change, protect the patient, and bring the appropriate people into the decision",
+        "To diagnose the condition independently",
+        "To perform the intervention personally",
+        "To wait for instructions without acting"
+      ],
+      "answer": 0,
+      "explanation": "Acquisition, recognition, protection, and connection — not solo resolution — define the sonographer's role.",
+      "explanationImage": null,
+      "tags": [
+        "Jordan's Turning Point, Practice Questions and Capstone"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch05-q199",
+      "stem": "Which statement BEST captures what makes a safe professional?",
+      "image": null,
+      "options": [
+        "Technical skill alone defines safety",
+        "Independence defines safety",
+        "Silence defines professionalism",
+        "A strong sonographer produces good images; a safe professional also knows when to communicate, when to ask for help, and how to remain part of a team until the concern has an appropriate next step"
+      ],
+      "answer": 3,
+      "explanation": "Image quality plus communication, help-seeking, and team participation define safe practice.",
+      "explanationImage": null,
+      "tags": [
+        "Jordan's Turning Point, Practice Questions and Capstone"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch05-q200",
+      "stem": "Which combination BEST represents the sonographer within the healthcare team as presented in this module?",
+      "image": null,
+      "options": [
+        "Work alone, communicate only at shift change, ignore barriers, diagnose independently, avoid escalation, and let conflict resolve itself",
+        "Follow protocols rigidly, share everything with everyone, escalate without confirmation, and rank team roles",
+        "Practise with professionalism and accountability, communicate clearly and confirm the loop, adapt to barriers with empathy, share relevant and objective information through approved channels, know your scope and boundaries, escalate urgent observations without delay, use SBAR, and resolve conflict respectfully around the shared patient goal",
+        "Focus exclusively on image quality and leave communication to physicians"
+      ],
+      "answer": 2,
+      "explanation": "Each element reflects a core expectation of the module — teamwork built on clear communication, defined role, timely escalation, and respectful collaboration.",
+      "explanationImage": null,
+      "tags": [
+        "Jordan's Turning Point, Practice Questions and Capstone"
+      ],
+      "reference": ""
+    }
+  ]
+}

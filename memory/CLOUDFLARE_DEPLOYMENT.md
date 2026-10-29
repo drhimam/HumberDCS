@@ -17,9 +17,8 @@ Create one Pages project connected to the GitHub repository:
 | Build output directory | `build` |
 | Node version | `20` |
 
-The project is created as `dcsqbank` and is available at
-`https://dcsqbank.pages.dev/`. The first production deployment is available at
-`https://8b43b54c.dcsqbank.pages.dev/`.
+The project is created as `dcsqbank` and is available at custom domain
+`https://dcs.qbanks.org/` (and fallback `https://dcsqbank.pages.dev/`).
 
 Every pull request should use a Pages preview deployment. Only a reviewed
 change merged into `main` should become production.

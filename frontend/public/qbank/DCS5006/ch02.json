@@ -1,5 +1,3606 @@
 {
   "chapterId": "ch02",
-  "title": "Scope of Practice",
-  "questions": []
+  "title": "Module 2: Professional Accountability, Regulation & Standards",
+  "questions": [
+    {
+      "id": "DCS5006-ch02-q001",
+      "stem": "Which statement best describes the sonographer's role in acquiring and evaluating images?",
+      "image": null,
+      "options": [
+        "Acquire images only and leave all evaluation to the equipment",
+        "Acquire images and make the final medical diagnosis",
+        "Acquire and evaluate images, take measurements, and document observations objectively",
+        "Acquire images without documenting anything if the study is normal"
+      ],
+      "answer": 2,
+      "explanation": "The sonographer's role includes acquiring and evaluating images, taking measurements, documenting observations, and communicating findings through the approved process.",
+      "explanationImage": null,
+      "tags": [
+        "The Sonographer's Role: Scope, Competence and Authorization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch02-q002",
+      "stem": "Which pairing of terms is correct?",
+      "image": null,
+      "options": [
+        "Scope = your current knowledge and skills; Competence = the profession's legal activities",
+        "Scope = your personal preferences; Competence = your years of service",
+        "Scope = hospital policy only; Competence = physician approval only",
+        "Scope = activities within the profession's practice; Competence = your current knowledge, skills and judgement"
+      ],
+      "answer": 3,
+      "explanation": "Scope describes what the profession is legally permitted to do; competence describes what the individual practitioner is currently able to do.",
+      "explanationImage": null,
+      "tags": [
+        "The Sonographer's Role: Scope, Competence and Authorization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch02-q003",
+      "stem": "In the scope–competence–authorization framework, what does the \"authorization\" question ask?",
+      "image": null,
+      "options": [
+        "Is this within the profession's legal activities?",
+        "Do I have the knowledge, skills and judgement?",
+        "Are the required permissions and conditions in place?",
+        "Is the equipment available today?"
+      ],
+      "answer": 2,
+      "explanation": "Authorization concerns whether the required permissions and conditions — such as a valid order and policy approval — are in place.",
+      "explanationImage": null,
+      "tags": [
+        "The Sonographer's Role: Scope, Competence and Authorization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch02-q004",
+      "stem": "Which statement is TRUE?",
+      "image": null,
+      "options": [
+        "An order alone does not establish competence",
+        "An order alone establishes that the sonographer is competent",
+        "An order from a physician removes the need to check authorization",
+        "An order replaces departmental policy"
+      ],
+      "answer": 0,
+      "explanation": "An order provides authorization for the examination but never establishes the practitioner's personal competence.",
+      "explanationImage": null,
+      "tags": [
+        "The Sonographer's Role: Scope, Competence and Authorization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch02-q005",
+      "stem": "A trainee is asked in a teaching lab to perform a task they have not learned. What is the safest response?",
+      "image": null,
+      "options": [
+        "Try it because it belongs to the profession's scope",
+        "Try it because someone asked them to",
+        "Try it, then record that they were unsure",
+        "Explain their limit and ask the instructor for guidance"
+      ],
+      "answer": 3,
+      "explanation": "Recognizing a competence limit and seeking instructor guidance is the safe, professional response.",
+      "explanationImage": null,
+      "tags": [
+        "The Sonographer's Role: Scope, Competence and Authorization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch02-q006",
+      "stem": "Before an examination, a sonographer should confirm all of the following EXCEPT:",
+      "image": null,
+      "options": [
+        "The correct patient",
+        "The examination and the appropriate authorized order",
+        "That missing or conflicting information has been clarified",
+        "That the patient's family has approved the study"
+      ],
+      "answer": 3,
+      "explanation": "Pre-examination checks cover patient identity, examination, order, and clarification of conflicts — family approval is not part of this check.",
+      "explanationImage": null,
+      "tags": [
+        "The Sonographer's Role: Scope, Competence and Authorization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch02-q007",
+      "stem": "Which of the following is a legitimate reason to pause before performing a task?",
+      "image": null,
+      "options": [
+        "The task is within the profession's scope but the sonographer has not been trained in it",
+        "The task has already been authorized by an order",
+        "The department is busy",
+        "A colleague has performed the task before"
+      ],
+      "answer": 0,
+      "explanation": "Scope, competence, and authorization must all be satisfied; training gaps require a pause and guidance.",
+      "explanationImage": null,
+      "tags": [
+        "The Sonographer's Role: Scope, Competence and Authorization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch02-q008",
+      "stem": "What should be documented when part of an examination cannot be completed?",
+      "image": null,
+      "options": [
+        "Nothing, because the missing images are obvious",
+        "That the examination was complete",
+        "What was obtained, what was limited, and why",
+        "Nothing until another examination takes place"
+      ],
+      "answer": 2,
+      "explanation": "Limitations and their reasons must be recorded so the record reflects what actually happened.",
+      "explanationImage": null,
+      "tags": [
+        "The Sonographer's Role: Scope, Competence and Authorization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch02-q009",
+      "stem": "Which action best reflects working within competence?",
+      "image": null,
+      "options": [
+        "Performing only tasks for which training and competence have been demonstrated",
+        "Attempting an unfamiliar examination to save the schedule",
+        "Performing anything the profession is legally allowed to do",
+        "Performing a task because a patient requested it"
+      ],
+      "answer": 0,
+      "explanation": "The legal scope sets the outer boundary; personal competence determines what may safely be performed.",
+      "explanationImage": null,
+      "tags": [
+        "The Sonographer's Role: Scope, Competence and Authorization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch02-q010",
+      "stem": "A sonographer communicates findings through:",
+      "image": null,
+      "options": [
+        "Casual conversation in the hallway",
+        "Social media posts",
+        "The approved reporting and communication process",
+        "Verbal comments only, never documentation"
+      ],
+      "answer": 2,
+      "explanation": "Findings must be communicated through the approved process so they reach the responsible clinician reliably.",
+      "explanationImage": null,
+      "tags": [
+        "The Sonographer's Role: Scope, Competence and Authorization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch02-q011",
+      "stem": "Which sequence correctly matches the three-way check before a task?",
+      "image": null,
+      "options": [
+        "Authorization → Popularity → Convenience",
+        "Competence → Speed → Billing",
+        "Scope → Preference → Schedule",
+        "Scope → Competence → Authorization"
+      ],
+      "answer": 3,
+      "explanation": "The three checks are whether the activity is within the profession's legal scope, whether the practitioner is competent, and whether authorization is in place.",
+      "explanationImage": null,
+      "tags": [
+        "The Sonographer's Role: Scope, Competence and Authorization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch02-q012",
+      "stem": "A student is asked to scan a patient independently because the department is short-staffed. What is the most appropriate response?",
+      "image": null,
+      "options": [
+        "Scan independently because the request came from a supervisor",
+        "Explain that students practise under supervision and arrange qualified supervision",
+        "Scan and document under the supervisor's name",
+        "Scan if the patient agrees"
+      ],
+      "answer": 1,
+      "explanation": "Students practise under supervision; staffing pressure does not change that requirement.",
+      "explanationImage": null,
+      "tags": [
+        "The Sonographer's Role: Scope, Competence and Authorization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch02-q013",
+      "stem": "Which document or source defines the profession's legal activities?",
+      "image": null,
+      "options": [
+        "The sonographer's personal comfort level",
+        "The busiest department's expectations",
+        "The equipment's capability list",
+        "The profession's scope of practice as established by legislation and standards"
+      ],
+      "answer": 3,
+      "explanation": "Scope is defined externally by legislation and professional standards, not by personal comfort or equipment capability.",
+      "explanationImage": null,
+      "tags": [
+        "The Sonographer's Role: Scope, Competence and Authorization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch02-q014",
+      "stem": "A sonographer is uncertain whether an activity is within scope, competence, and authorization. What should happen?",
+      "image": null,
+      "options": [
+        "Proceed quickly to avoid delay",
+        "Pause and ask the appropriate person for guidance",
+        "Ask the patient to decide",
+        "Proceed as long as no one objects"
+      ],
+      "answer": 1,
+      "explanation": "Uncertainty at any point in the three-way check requires a pause and guidance from the appropriate person.",
+      "explanationImage": null,
+      "tags": [
+        "The Sonographer's Role: Scope, Competence and Authorization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch02-q015",
+      "stem": "Which statement correctly describes the Regulated Health Professions Act, 1991?",
+      "image": null,
+      "options": [
+        "It provides the framework for regulated health professions in Ontario",
+        "It sets the scope of practice for medical radiation technologists only",
+        "It replaced every other health profession statute in Ontario",
+        "It applies only to physicians"
+      ],
+      "answer": 0,
+      "explanation": "The RHPA is the umbrella framework for regulated health professions in Ontario.",
+      "explanationImage": null,
+      "tags": [
+        "Ontario's Regulatory Framework"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch02-q016",
+      "stem": "What does the Medical Radiation Technologists Act, 2017 address?",
+      "image": null,
+      "options": [
+        "National certification examination design",
+        "Hospital funding formulas",
+        "Scope, protected titles and authorized acts for this profession",
+        "Only the education of physicians"
+      ],
+      "answer": 2,
+      "explanation": "The MRIT Act sets out this profession's scope, protected titles, and authorized acts.",
+      "explanationImage": null,
+      "tags": [
+        "Ontario's Regulatory Framework"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch02-q017",
+      "stem": "What is the role of regulations under Ontario's health legislation?",
+      "image": null,
+      "options": [
+        "They are optional guidelines with no legal force",
+        "They replace the need for professional standards",
+        "They provide detailed requirements under the Acts",
+        "They apply only outside hospitals"
+      ],
+      "answer": 2,
+      "explanation": "Regulations supply the detailed requirements that operate under the broad framework of the Acts.",
+      "explanationImage": null,
+      "tags": [
+        "Ontario's Regulatory Framework"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch02-q018",
+      "stem": "Where do CMRITO standards fit in Ontario's regulatory framework?",
+      "image": null,
+      "options": [
+        "They are expectations for professional practice set by the regulator",
+        "They are federal statutes with criminal penalties",
+        "They are suggestions that registrants may ignore",
+        "They replace legislation entirely"
+      ],
+      "answer": 0,
+      "explanation": "CMRITO standards are enforceable expectations for professional practice established by the regulator.",
+      "explanationImage": null,
+      "tags": [
+        "Ontario's Regulatory Framework"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch02-q019",
+      "stem": "Which statement best shows how the framework layers work together?",
+      "image": null,
+      "options": [
+        "The RHPA provides the framework, the MRIT Act addresses this profession, regulations add detail, and CMRITO standards guide practice",
+        "Only the MRIT Act applies to sonographers",
+        "The RHPA applies only outside Ontario",
+        "CMRITO standards override legislation in every case"
+      ],
+      "answer": 0,
+      "explanation": "Each layer has a distinct role — framework, profession-specific statute, regulatory detail, and professional expectations.",
+      "explanationImage": null,
+      "tags": [
+        "Ontario's Regulatory Framework"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch02-q020",
+      "stem": "A classmate says, \"There are five controlled acts in Ontario because CMRITO lists five.\" What is the best correction?",
+      "image": null,
+      "options": [
+        "The number of controlled acts is set by each employer",
+        "Every healthcare worker is authorized for all controlled acts",
+        "The number changes with each hospital policy",
+        "The RHPA framework lists 14 controlled acts and this profession is authorized for five under the MRIT Act"
+      ],
+      "answer": 3,
+      "explanation": "The RHPA framework contains 14 controlled acts; CMRITO registrants are authorized for five of them.",
+      "explanationImage": null,
+      "tags": [
+        "Ontario's Regulatory Framework"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch02-q021",
+      "stem": "Which statement about the relationship between legislation and professional standards is correct?",
+      "image": null,
+      "options": [
+        "Standards can be lower than legislation",
+        "Professional standards build on and apply the requirements of legislation in everyday practice",
+        "Standards and legislation are unrelated",
+        "Standards only apply to students"
+      ],
+      "answer": 1,
+      "explanation": "Standards translate legal requirements into practical expectations for daily professional practice.",
+      "explanationImage": null,
+      "tags": [
+        "Ontario's Regulatory Framework"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch02-q022",
+      "stem": "A sonographer believes that because an activity is \"not prohibited by law,\" it may be performed without training. What is the correct understanding?",
+      "image": null,
+      "options": [
+        "Correct — legality is the only requirement",
+        "Correct if the department is busy",
+        "Correct if a patient consents",
+        "Incorrect — legality, competence, and authorization must all be satisfied"
+      ],
+      "answer": 3,
+      "explanation": "Legal permissibility is necessary but not sufficient; competence and authorization are also required.",
+      "explanationImage": null,
+      "tags": [
+        "Ontario's Regulatory Framework"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch02-q023",
+      "stem": "Which body has statutory authority to set requirements for medical radiation technologists in Ontario?",
+      "image": null,
+      "options": [
+        "The provincial legislature through legislation, administered by the CMRITO",
+        "Sonography Canada",
+        "The employer's human resources department",
+        "A national certification body"
+      ],
+      "answer": 0,
+      "explanation": "Statutory authority flows from Ontario legislation and is exercised by the regulator.",
+      "explanationImage": null,
+      "tags": [
+        "Ontario's Regulatory Framework"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch02-q024",
+      "stem": "Which of the following is an example of a regulation operating under the Acts?",
+      "image": null,
+      "options": [
+        "A personal opinion of a senior sonographer",
+        "An informal departmental tradition",
+        "A manufacturer's marketing claim",
+        "A detailed procedural requirement that implements a broader statutory duty"
+      ],
+      "answer": 3,
+      "explanation": "Regulations provide the specific requirements that give effect to the general framework in the Acts.",
+      "explanationImage": null,
+      "tags": [
+        "Ontario's Regulatory Framework"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch02-q025",
+      "stem": "Why is it important for a practitioner to know both the RHPA and the MRIT Act?",
+      "image": null,
+      "options": [
+        "Knowing one makes the other unnecessary",
+        "The RHPA provides the common framework and the MRIT Act addresses this profession",
+        "The MRIT Act applies only to radiologists",
+        "The RHPA applies only to nurses"
+      ],
+      "answer": 1,
+      "explanation": "The framework statute and the profession-specific statute must be understood together.",
+      "explanationImage": null,
+      "tags": [
+        "Ontario's Regulatory Framework"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch02-q026",
+      "stem": "When a department writes a local procedure, what must it respect?",
+      "image": null,
+      "options": [
+        "The personal preferences of senior staff only",
+        "The schedule of the busiest clinician",
+        "Nothing, because local procedures are independent",
+        "The minimum requirements of legislation and professional standards"
+      ],
+      "answer": 3,
+      "explanation": "Local procedures must meet or exceed the minimum expectations set by legislation and professional standards.",
+      "explanationImage": null,
+      "tags": [
+        "Ontario's Regulatory Framework"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch02-q027",
+      "stem": "What is the CMRITO's mandate?",
+      "image": null,
+      "options": [
+        "To serve and protect the public",
+        "To increase sonographers' earnings",
+        "To advocate for shorter work hours",
+        "To sell professional development courses"
+      ],
+      "answer": 0,
+      "explanation": "The CMRITO exists to serve and protect the public by regulating its registrants.",
+      "explanationImage": null,
+      "tags": [
+        "Registration, Continuing Competence and Quality Assurance"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch02-q028",
+      "stem": "Which combination best describes entry to registration with the CMRITO?",
+      "image": null,
+      "options": [
+        "Paying an annual fee only",
+        "Membership in a professional association only",
+        "An approved education program, an approved examination, and other registration requirements",
+        "Employment at a hospital only"
+      ],
+      "answer": 2,
+      "explanation": "Registration requires approved education, an approved examination, and additional registration requirements.",
+      "explanationImage": null,
+      "tags": [
+        "Registration, Continuing Competence and Quality Assurance"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch02-q029",
+      "stem": "Which statement about registration is TRUE?",
+      "image": null,
+      "options": [
+        "Registration must remain current through renewal requirements",
+        "Registration is granted once and never needs attention again",
+        "Renewal is the employer's responsibility",
+        "Previous registration is sufficient indefinitely"
+      ],
+      "answer": 0,
+      "explanation": "Registrants must keep registration current by meeting renewal requirements, including required activities.",
+      "explanationImage": null,
+      "tags": [
+        "Registration, Continuing Competence and Quality Assurance"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch02-q030",
+      "stem": "Which activities are required of CMRITO registrants to maintain registration?",
+      "image": null,
+      "options": [
+        "Required jurisprudence and quality assurance activities",
+        "Voluntary social events only",
+        "Attendance at one lecture per lifetime",
+        "Nothing beyond paying the fee"
+      ],
+      "answer": 0,
+      "explanation": "Registrants must complete required jurisprudence and quality assurance activities as conditions of registration.",
+      "explanationImage": null,
+      "tags": [
+        "Registration, Continuing Competence and Quality Assurance"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch02-q031",
+      "stem": "A practitioner misses required renewal and quality assurance deadlines because the department is busy. Which response best demonstrates accountability?",
+      "image": null,
+      "options": [
+        "Assume the employer will complete them",
+        "Address the outstanding requirements promptly through the College's process",
+        "Wait until a patient complains",
+        "Continue indefinitely because previous registration is sufficient"
+      ],
+      "answer": 1,
+      "explanation": "Meeting registration requirements is a personal, non-delegable responsibility of the registrant.",
+      "explanationImage": null,
+      "tags": [
+        "Registration, Continuing Competence and Quality Assurance"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch02-q032",
+      "stem": "What is the correct first step in the continuing-competence cycle when a sonographer notices, \"I am unfamiliar with this machine feature\"?",
+      "image": null,
+      "options": [
+        "Ignore the gap and continue as before",
+        "Attempt the feature on patients without guidance",
+        "Ask the patient to decide whether to proceed",
+        "Plan learning with an appropriate instructor or supervisor"
+      ],
+      "answer": 3,
+      "explanation": "Continuing competence begins with recognizing a gap and arranging appropriate supervised learning.",
+      "explanationImage": null,
+      "tags": [
+        "Registration, Continuing Competence and Quality Assurance"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch02-q033",
+      "stem": "After planning learning for a new machine feature, what is the next step?",
+      "image": null,
+      "options": [
+        "Declare full competence immediately",
+        "Teach the feature to patients",
+        "Practice with feedback and demonstrate the skill",
+        "Avoid using the feature permanently"
+      ],
+      "answer": 2,
+      "explanation": "Competence is demonstrated through practice with feedback and visible demonstration of the skill.",
+      "explanationImage": null,
+      "tags": [
+        "Registration, Continuing Competence and Quality Assurance"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch02-q034",
+      "stem": "What is the role of reflection in the continuing-competence process?",
+      "image": null,
+      "options": [
+        "To consider what improved and what still needs work",
+        "To avoid documenting anything",
+        "To replace supervised practice",
+        "To confirm that learning is never needed again"
+      ],
+      "answer": 0,
+      "explanation": "Reflection identifies remaining gaps and directs further learning.",
+      "explanationImage": null,
+      "tags": [
+        "Registration, Continuing Competence and Quality Assurance"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch02-q035",
+      "stem": "Which of the following is a professional responsibility of a registrant?",
+      "image": null,
+      "options": [
+        "Maintaining confidentiality",
+        "Reporting concerns appropriately",
+        "Practising safely and competently",
+        "All of the above"
+      ],
+      "answer": 3,
+      "explanation": "Registrants must practise safely and competently, follow standards, apply ethical principles, maintain registration, report concerns, and maintain confidentiality.",
+      "explanationImage": null,
+      "tags": [
+        "Registration, Continuing Competence and Quality Assurance"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch02-q036",
+      "stem": "A registrant realizes their required quality assurance activity has lapsed. What is the most appropriate action?",
+      "image": null,
+      "options": [
+        "Hide the lapse from everyone",
+        "Assume the College will not notice",
+        "Continue practising without addressing it",
+        "Report the lapse promptly and complete the requirements through the College's process"
+      ],
+      "answer": 3,
+      "explanation": "Lapses must be addressed openly and promptly through the regulator's process.",
+      "explanationImage": null,
+      "tags": [
+        "Registration, Continuing Competence and Quality Assurance"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch02-q037",
+      "stem": "Which statement about continuing competence is correct?",
+      "image": null,
+      "options": [
+        "It applies only during the first year of practice",
+        "It is only required after a complaint",
+        "Competence must be maintained as practice develops throughout a career",
+        "It is guaranteed by registration alone"
+      ],
+      "answer": 2,
+      "explanation": "Continuing competence is an ongoing obligation as knowledge, technology, and practice evolve.",
+      "explanationImage": null,
+      "tags": [
+        "Registration, Continuing Competence and Quality Assurance"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch02-q038",
+      "stem": "A published discipline case involved failure to comply with quality assurance and committee requirements. Which outcome was NOT part of that case?",
+      "image": null,
+      "options": [
+        "Public reprimand",
+        "Suspension",
+        "Required education",
+        "Automatic permanent ban from the profession with no possibility of return"
+      ],
+      "answer": 3,
+      "explanation": "The case involved suspension, public reprimand, required education, and costs — not an automatic permanent ban.",
+      "explanationImage": null,
+      "tags": [
+        "Registration, Continuing Competence and Quality Assurance"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch02-q039",
+      "stem": "Which action best demonstrates \"protecting registration requirements\"?",
+      "image": null,
+      "options": [
+        "Letting requirements lapse during busy periods",
+        "Tracking renewal deadlines and completing required activities on time",
+        "Relying on colleagues to remind you indefinitely",
+        "Assuming the employer tracks everything"
+      ],
+      "answer": 1,
+      "explanation": "Registrants are responsible for monitoring and meeting their own registration obligations.",
+      "explanationImage": null,
+      "tags": [
+        "Registration, Continuing Competence and Quality Assurance"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch02-q040",
+      "stem": "A new sonographer asks what \"quality assurance activity\" means for their registration. Which response is most accurate?",
+      "image": null,
+      "options": [
+        "It is an optional professional development elective",
+        "It is a workplace performance review only",
+        "It applies only to managers",
+        "It is a required activity through which registrants maintain and improve the quality of their practice"
+      ],
+      "answer": 3,
+      "explanation": "Quality assurance activities are regulator-required activities that support ongoing practice quality.",
+      "explanationImage": null,
+      "tags": [
+        "Registration, Continuing Competence and Quality Assurance"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch02-q041",
+      "stem": "Which statement about jurisdiction is correct?",
+      "image": null,
+      "options": [
+        "CMRITO regulates practice across all Canadian provinces",
+        "CMRITO regulates practice in Ontario",
+        "Sonography Canada regulates practice in Ontario",
+        "Employers regulate practice in Ontario"
+      ],
+      "answer": 1,
+      "explanation": "The CMRITO is Ontario's regulator; national bodies do not regulate provincial practice.",
+      "explanationImage": null,
+      "tags": [
+        "Registration, Continuing Competence and Quality Assurance"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch02-q042",
+      "stem": "A practitioner is asked to complete a jurisprudence activity. What does it address?",
+      "image": null,
+      "options": [
+        "The laws, regulations, and standards that govern practice in Ontario",
+        "Ultrasound physics only",
+        "Marketing of a clinic",
+        "Equipment repair procedures"
+      ],
+      "answer": 0,
+      "explanation": "Jurisprudence activities ensure registrants understand the legal and ethical framework governing their practice.",
+      "explanationImage": null,
+      "tags": [
+        "Registration, Continuing Competence and Quality Assurance"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch02-q043",
+      "stem": "Which organization provides certification, competencies, professional guidance and member support to sonographers?",
+      "image": null,
+      "options": [
+        "The CMRITO",
+        "The employer's human resources department",
+        "Sonography Canada",
+        "A hospital's finance department"
+      ],
+      "answer": 2,
+      "explanation": "Sonography Canada's role includes certification, competency development, professional guidance, and member support.",
+      "explanationImage": null,
+      "tags": [
+        "Organizations and Their Roles"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch02-q044",
+      "stem": "A student calls Sonography Canada to ask whether a practitioner is currently registered to practise in Ontario. Where should the student check instead?",
+      "image": null,
+      "options": [
+        "The employer's staff directory only",
+        "The practitioner's social media profile",
+        "The CMRITO public register",
+        "An equipment manufacturer's training list"
+      ],
+      "answer": 2,
+      "explanation": "Ontario registration status is verified through the CMRITO public register, not through the national association.",
+      "explanationImage": null,
+      "tags": [
+        "Organizations and Their Roles"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch02-q045",
+      "stem": "A clinic manager says that professional association membership is all a graduate needs to practise in Ontario. Which clarification is most appropriate?",
+      "image": null,
+      "options": [
+        "Association membership automatically grants provincial registration",
+        "Association membership does not replace the applicable provincial registration requirements",
+        "National association membership and provincial registration are the same process",
+        "A clinic manager can waive registration requirements"
+      ],
+      "answer": 1,
+      "explanation": "Voluntary association membership is separate from the legally required provincial registration.",
+      "explanationImage": null,
+      "tags": [
+        "Organizations and Their Roles"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch02-q046",
+      "stem": "What does the CRCS credential represent?",
+      "image": null,
+      "options": [
+        "A provincial licence to practise issued by the CMRITO",
+        "A hospital orientation certificate",
+        "A professional liability insurance policy",
+        "A certification credential granted by Sonography Canada"
+      ],
+      "answer": 3,
+      "explanation": "CRCS is a Sonography Canada certification credential, distinct from provincial registration.",
+      "explanationImage": null,
+      "tags": [
+        "Organizations and Their Roles"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch02-q047",
+      "stem": "Which body is a credentialing body that grants the RDCS credential?",
+      "image": null,
+      "options": [
+        "ARDMS",
+        "OAMRS",
+        "The employer",
+        "The Ontario government"
+      ],
+      "answer": 0,
+      "explanation": "ARDMS is a credentialing body that grants credentials such as RDCS.",
+      "explanationImage": null,
+      "tags": [
+        "Organizations and Their Roles"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch02-q048",
+      "stem": "Which organization is described as a professional association providing education, advocacy and member services?",
+      "image": null,
+      "options": [
+        "The CMRITO",
+        "A hospital department",
+        "A biomedical engineering firm",
+        "OAMRS"
+      ],
+      "answer": 3,
+      "explanation": "OAMRS is a professional association focused on education, advocacy, and member services.",
+      "explanationImage": null,
+      "tags": [
+        "Organizations and Their Roles"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch02-q049",
+      "stem": "Which row of the organizations table is correctly matched?",
+      "image": null,
+      "options": [
+        "CMRITO → certification and support",
+        "Sonography Canada → Ontario regulation",
+        "Employer → employment and policies, local procedures",
+        "ARDMS → Ontario registration"
+      ],
+      "answer": 2,
+      "explanation": "Employers set employment terms and local procedures; Ontario registration belongs to the CMRITO.",
+      "explanationImage": null,
+      "tags": [
+        "Organizations and Their Roles"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch02-q050",
+      "stem": "What is the difference between an association and a regulator in this field?",
+      "image": null,
+      "options": [
+        "They are identical organizations using different names",
+        "An association has the power to revoke a registration",
+        "A regulator has statutory authority to register and discipline; an association provides education, certification, and advocacy",
+        "A regulator only sells memberships"
+      ],
+      "answer": 2,
+      "explanation": "Statutory regulatory power distinguishes a college from a professional association.",
+      "explanationImage": null,
+      "tags": [
+        "Organizations and Their Roles"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch02-q051",
+      "stem": "A sonographer wants advocacy and member services. Which organization best matches that need?",
+      "image": null,
+      "options": [
+        "OAMRS or Sonography Canada as a professional association",
+        "The CMRITO, as its primary mandate",
+        "The employer's payroll department",
+        "A court"
+      ],
+      "answer": 0,
+      "explanation": "Advocacy and member services are association functions, not the regulator's public-protection mandate.",
+      "explanationImage": null,
+      "tags": [
+        "Organizations and Their Roles"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch02-q052",
+      "stem": "Which organization can suspend or revoke a CMRITO certificate of registration?",
+      "image": null,
+      "options": [
+        "Sonography Canada",
+        "The employer",
+        "The CMRITO",
+        "The professional association"
+      ],
+      "answer": 2,
+      "explanation": "Only the regulator holds statutory authority over a certificate of registration.",
+      "explanationImage": null,
+      "tags": [
+        "Organizations and Their Roles"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch02-q053",
+      "stem": "An applicant has passed the certification examination but has not completed registration. What does passing the examination establish?",
+      "image": null,
+      "options": [
+        "The applicant no longer needs quality assurance activities",
+        "The applicant is competent in all cardiac procedures",
+        "The applicant may automatically use every protected title",
+        "One relevant credentialing or registration step has been completed"
+      ],
+      "answer": 3,
+      "explanation": "Passing an examination completes one step; registration requirements and demonstrated competence remain separate.",
+      "explanationImage": null,
+      "tags": [
+        "Organizations and Their Roles"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch02-q054",
+      "stem": "Which body develops national competency profiles for sonographers?",
+      "image": null,
+      "options": [
+        "The employer",
+        "Sonography Canada",
+        "OAMRS alone",
+        "The CMRITO's discipline committee"
+      ],
+      "answer": 1,
+      "explanation": "Competency profiles are developed by Sonography Canada as part of its certification and guidance role.",
+      "explanationImage": null,
+      "tags": [
+        "Organizations and Their Roles"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch02-q055",
+      "stem": "A sonographer asks which organization sets the local policies of their department. What is the correct answer?",
+      "image": null,
+      "options": [
+        "The CMRITO",
+        "Sonography Canada",
+        "ARDMS",
+        "The employer, within the limits of legislation and standards"
+      ],
+      "answer": 3,
+      "explanation": "Employers create local policies and procedures, but these must remain within legislation and professional standards.",
+      "explanationImage": null,
+      "tags": [
+        "Organizations and Their Roles"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch02-q056",
+      "stem": "Which statement correctly assigns the DMS title to a body?",
+      "image": null,
+      "options": [
+        "Sonography Canada issues the DMS title as a provincial licence",
+        "The CMRITO administers registration associated with the protected DMS title in Ontario",
+        "ARDMS administers Ontario title protection",
+        "The employer issues the DMS title"
+      ],
+      "answer": 1,
+      "explanation": "In Ontario, the protected DMS title is connected to registration with the CMRITO.",
+      "explanationImage": null,
+      "tags": [
+        "Organizations and Their Roles"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch02-q057",
+      "stem": "What do Standards of Practice describe?",
+      "image": null,
+      "options": [
+        "The maximum salary for a registrant",
+        "The minimum expectations for professional practice",
+        "Optional ideals that registrants may ignore",
+        "Only the techniques used in a single department"
+      ],
+      "answer": 1,
+      "explanation": "Standards establish the minimum expectations against which professional practice is judged.",
+      "explanationImage": null,
+      "tags": [
+        "Standards of Practice"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch02-q058",
+      "stem": "Which is NOT one of the eight Standards of Practice sections?",
+      "image": null,
+      "options": [
+        "Personal financial planning",
+        "Legislation, standards and ethics",
+        "Safe practice",
+        "Continuing competence"
+      ],
+      "answer": 0,
+      "explanation": "The eight sections cover legislation/standards/ethics, equipment and materials, procedures, safe practice, relationships with patients, professional relationships, records and reporting, and continuing competence.",
+      "explanationImage": null,
+      "tags": [
+        "Standards of Practice"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch02-q059",
+      "stem": "A student asks for guidance on maintaining skills when new equipment is introduced. Which Standards section is most directly relevant?",
+      "image": null,
+      "options": [
+        "Relationships with patients only",
+        "Professional relationships only",
+        "Continuing competence",
+        "Records and reporting only"
+      ],
+      "answer": 2,
+      "explanation": "Ongoing learning and skill maintenance fall under the continuing competence section.",
+      "explanationImage": null,
+      "tags": [
+        "Standards of Practice"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch02-q060",
+      "stem": "A sonographer prepares equipment and explains the examination to the patient before scanning. Which stage of practice does this illustrate?",
+      "image": null,
+      "options": [
+        "After the examination",
+        "Before the examination",
+        "Only the reporting stage",
+        "Only the scheduling stage"
+      ],
+      "answer": 1,
+      "explanation": "Checking the patient and request, preparing equipment, and explaining the examination occur before scanning.",
+      "explanationImage": null,
+      "tags": [
+        "Standards of Practice"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch02-q061",
+      "stem": "During an examination, which actions align with the Standards?",
+      "image": null,
+      "options": [
+        "Scan silently without checking on the patient",
+        "Stop documenting once scanning begins",
+        "Monitor comfort, assess image quality, and ask for help when needed",
+        "Ignore discomfort to finish faster"
+      ],
+      "answer": 2,
+      "explanation": "During the examination, standards expect patient monitoring, image quality assessment, and asking for help.",
+      "explanationImage": null,
+      "tags": [
+        "Standards of Practice"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch02-q062",
+      "stem": "Which action belongs to the \"after the examination\" stage of professional work?",
+      "image": null,
+      "options": [
+        "Choose the patient's diagnosis",
+        "Skip documentation because the study is routine",
+        "Record limits, communicate concerns, and arrange follow-up",
+        "Leave before the patient is ready to transfer"
+      ],
+      "answer": 2,
+      "explanation": "Post-examination responsibilities include recording limitations, communicating concerns, and arranging follow-up.",
+      "explanationImage": null,
+      "tags": [
+        "Standards of Practice"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch02-q063",
+      "stem": "Which statement about how standards apply to a single action is correct?",
+      "image": null,
+      "options": [
+        "Only one standard can ever apply to an action",
+        "Standards apply only after an incident",
+        "Standards do not apply to students",
+        "Several standards can apply to the same action"
+      ],
+      "answer": 3,
+      "explanation": "A single action — such as explaining an examination — can engage multiple standards simultaneously.",
+      "explanationImage": null,
+      "tags": [
+        "Standards of Practice"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch02-q064",
+      "stem": "Why do Standards of Practice matter when a department writes local procedures?",
+      "image": null,
+      "options": [
+        "They are optional suggestions when staffing is limited",
+        "They describe only the most advanced level of practice",
+        "They replace all workplace policies",
+        "They establish minimum professional expectations that local procedures must respect"
+      ],
+      "answer": 3,
+      "explanation": "Local procedures must meet or exceed the minimum expectations in the standards.",
+      "explanationImage": null,
+      "tags": [
+        "Standards of Practice"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch02-q065",
+      "stem": "Which standard section would be most relevant when a sonographer chooses a transducer and checks equipment before a study?",
+      "image": null,
+      "options": [
+        "Continuing competence only",
+        "Equipment and materials",
+        "Legislation only",
+        "Professional relationships only"
+      ],
+      "answer": 1,
+      "explanation": "Selecting and preparing equipment falls under the equipment and materials section.",
+      "explanationImage": null,
+      "tags": [
+        "Standards of Practice"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch02-q066",
+      "stem": "Which standard section is most directly engaged when a sonographer documents the examination?",
+      "image": null,
+      "options": [
+        "Safe practice only",
+        "Equipment and materials only",
+        "Legislation only",
+        "Records and reporting"
+      ],
+      "answer": 3,
+      "explanation": "Documentation responsibilities are governed by the records and reporting section.",
+      "explanationImage": null,
+      "tags": [
+        "Standards of Practice"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch02-q067",
+      "stem": "Which standard section is most directly engaged when a sonographer explains an examination and responds to a request to stop?",
+      "image": null,
+      "options": [
+        "Relationships with patients",
+        "Continuing competence only",
+        "Equipment and materials only",
+        "Records and reporting only"
+      ],
+      "answer": 0,
+      "explanation": "Explaining, obtaining agreement, and responding to the patient's choices fall under relationships with patients.",
+      "explanationImage": null,
+      "tags": [
+        "Standards of Practice"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch02-q068",
+      "stem": "What is one purpose of Standards of Practice?",
+      "image": null,
+      "options": [
+        "To set hourly wages",
+        "To provide a basis for professional accountability",
+        "To determine parking assignments",
+        "To replace informed consent"
+      ],
+      "answer": 1,
+      "explanation": "Standards provide the reference point against which professional accountability is assessed.",
+      "explanationImage": null,
+      "tags": [
+        "Standards of Practice"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch02-q069",
+      "stem": "Standards also support:",
+      "image": null,
+      "options": [
+        "Favouritism among patients",
+        "Consistent records and communication",
+        "Working beyond competence",
+        "Avoiding documentation"
+      ],
+      "answer": 1,
+      "explanation": "Consistent standards produce consistent documentation and communication across practitioners.",
+      "explanationImage": null,
+      "tags": [
+        "Standards of Practice"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch02-q070",
+      "stem": "A sonographer faces a situation not covered in detail by a local policy. What should guide the response?",
+      "image": null,
+      "options": [
+        "Whatever is fastest",
+        "The patient's guess",
+        "Nothing — policy gaps mean no expectations exist",
+        "The applicable Standards of Practice and professional judgement"
+      ],
+      "answer": 3,
+      "explanation": "Standards fill gaps and provide minimum expectations whenever local policy is silent.",
+      "explanationImage": null,
+      "tags": [
+        "Standards of Practice"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch02-q071",
+      "stem": "Which example best demonstrates applying standards \"during\" an examination?",
+      "image": null,
+      "options": [
+        "Asking for help when a concern arises",
+        "Filing the report next week",
+        "Booking the next appointment",
+        "Restocking the supply room"
+      ],
+      "answer": 0,
+      "explanation": "Asking for help during scanning reflects the expectation to seek assistance when concerns arise.",
+      "explanationImage": null,
+      "tags": [
+        "Standards of Practice"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch02-q072",
+      "stem": "Which pairing of standard stage and example is CORRECT?",
+      "image": null,
+      "options": [
+        "Before → record limits",
+        "After → prepare equipment",
+        "Before → arrange follow-up",
+        "During → monitor comfort"
+      ],
+      "answer": 3,
+      "explanation": "Monitoring patient comfort occurs during the examination; preparing equipment is \"before\" and recording limits/arranging follow-up are \"after.\"",
+      "explanationImage": null,
+      "tags": [
+        "Standards of Practice"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch02-q073",
+      "stem": "A learner claims that standards only apply when something goes wrong. What is the best correction?",
+      "image": null,
+      "options": [
+        "The learner is correct",
+        "Standards apply only to students",
+        "Standards guide everyday practice at every stage and provide the basis for accountability",
+        "Standards apply only to physicians"
+      ],
+      "answer": 2,
+      "explanation": "Standards are everyday practice expectations; incidents are only one context in which they are applied.",
+      "explanationImage": null,
+      "tags": [
+        "Standards of Practice"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch02-q074",
+      "stem": "Which of the following best demonstrates safe practice under the standards?",
+      "image": null,
+      "options": [
+        "Performing unfamiliar tasks to impress colleagues",
+        "Working within competence and asking for help when uncertain",
+        "Skipping identity checks when busy",
+        "Documenting only positive findings"
+      ],
+      "answer": 1,
+      "explanation": "Safe practice requires staying within competence and seeking assistance when uncertain.",
+      "explanationImage": null,
+      "tags": [
+        "Standards of Practice"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch02-q075",
+      "stem": "What is the FIRST step when something goes wrong?",
+      "image": null,
+      "options": [
+        "Attend to immediate safety and get appropriate help",
+        "Complete an incident report before helping the patient",
+        "Call the media",
+        "Wait to see whether symptoms develop"
+      ],
+      "answer": 0,
+      "explanation": "Immediate patient safety and obtaining appropriate help come first in any incident response.",
+      "explanationImage": null,
+      "tags": [
+        "When Something Goes Wrong: Incident Response and Classification"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch02-q076",
+      "stem": "Which sequence best matches the response steps when something goes wrong?",
+      "image": null,
+      "options": [
+        "Notify the media → complete an incident report → blame a colleague → resume work",
+        "Record the facts → ignore the patient → avoid reporting → say nothing",
+        "Report → blame → conceal → forget",
+        "Attend to safety → notify the responsible clinician or supervisor → follow reporting and escalation procedures → record facts, actions and communication → participate honestly in the disclosure process"
+      ],
+      "answer": 3,
+      "explanation": "The taught sequence is safety and help first, then prompt notification, reporting and escalation, accurate recording, and honest participation in disclosure.",
+      "explanationImage": null,
+      "tags": [
+        "When Something Goes Wrong: Incident Response and Classification"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch02-q077",
+      "stem": "An incident caused harm to the patient. How is it classified?",
+      "image": null,
+      "options": [
+        "A near miss",
+        "A no-harm incident",
+        "A documentation error only",
+        "A harmful incident"
+      ],
+      "answer": 3,
+      "explanation": "An incident that caused harm to the patient is a harmful incident.",
+      "explanationImage": null,
+      "tags": [
+        "When Something Goes Wrong: Incident Response and Classification"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch02-q078",
+      "stem": "An event reached the patient but no discernible harm resulted. What is this classified as?",
+      "image": null,
+      "options": [
+        "A no-harm incident",
+        "A harmful incident",
+        "A near miss",
+        "Not reportable"
+      ],
+      "answer": 0,
+      "explanation": "Reaching the patient without discernible harm defines a no-harm incident.",
+      "explanationImage": null,
+      "tags": [
+        "When Something Goes Wrong: Incident Response and Classification"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch02-q079",
+      "stem": "What makes an event a near miss rather than a no-harm incident?",
+      "image": null,
+      "options": [
+        "The patient did not experience any discernible harm",
+        "The mistake was intercepted before it reached the patient",
+        "The mistake was discovered by a member of the healthcare team",
+        "The mistake was noticed before the report was completed"
+      ],
+      "answer": 1,
+      "explanation": "The distinguishing feature of a near miss is interception before reaching the patient.",
+      "explanationImage": null,
+      "tags": [
+        "When Something Goes Wrong: Incident Response and Classification"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch02-q080",
+      "stem": "What does an event demonstrate even when no one is harmed?",
+      "image": null,
+      "options": [
+        "Nothing — no-harm events are meaningless",
+        "It can reveal a safety problem even when no one is harmed",
+        "Only that the department is unlucky",
+        "Only that documentation is unnecessary"
+      ],
+      "answer": 1,
+      "explanation": "Incidents and near misses reveal system problems worth addressing regardless of harm.",
+      "explanationImage": null,
+      "tags": [
+        "When Something Goes Wrong: Incident Response and Classification"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch02-q081",
+      "stem": "Two patients have similar names and the wrong record was selected on the echo machine. The identity check catches the mismatch before scanning. What needs to happen before continuing?",
+      "image": null,
+      "options": [
+        "Correct the selection, verify identity properly, and document the near miss through the appropriate process",
+        "Nothing, because no scanning occurred",
+        "Continue with the wrong record and fix it later",
+        "Delete the record selection history"
+      ],
+      "answer": 0,
+      "explanation": "Even intercepted errors require correction, proper verification, and reporting so the safety problem is captured.",
+      "explanationImage": null,
+      "tags": [
+        "When Something Goes Wrong: Incident Response and Classification"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch02-q082",
+      "stem": "Which statement best describes the different purposes of a clinical record and an organizational incident report?",
+      "image": null,
+      "options": [
+        "An incident report replaces clinical documentation whenever a safety incident occurs",
+        "The clinical record supports patient care; the incident report supports safety reporting and review",
+        "A clinical record replaces an incident report if it contains all the relevant facts",
+        "Both records serve the same purpose, so the professional chooses which to complete"
+      ],
+      "answer": 1,
+      "explanation": "Each record serves a distinct purpose, and both processes must be completed when applicable.",
+      "explanationImage": null,
+      "tags": [
+        "When Something Goes Wrong: Incident Response and Classification"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch02-q083",
+      "stem": "A safety event requires an incident report. Which statement about the clinical record is most accurate?",
+      "image": null,
+      "options": [
+        "Only harmful events require a clinical record",
+        "The incident report automatically replaces clinical documentation",
+        "Relevant clinical facts and care still need to be recorded in the clinical record",
+        "The clinical record should contain personal blame"
+      ],
+      "answer": 2,
+      "explanation": "Clinical documentation of facts and care continues independently of the organizational safety report.",
+      "explanationImage": null,
+      "tags": [
+        "When Something Goes Wrong: Incident Response and Classification"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch02-q084",
+      "stem": "An identification error reaches a patient but causes no discernible harm. Which category best fits?",
+      "image": null,
+      "options": [
+        "A no-harm incident",
+        "Confirmed negligence",
+        "A near miss intercepted before reaching the patient",
+        "A harmful incident"
+      ],
+      "answer": 0,
+      "explanation": "Reaching the patient without discernible harm makes this a no-harm incident.",
+      "explanationImage": null,
+      "tags": [
+        "When Something Goes Wrong: Incident Response and Classification"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch02-q085",
+      "stem": "Who should be notified promptly when something goes wrong during an examination?",
+      "image": null,
+      "options": [
+        "The responsible clinician or supervisor",
+        "Only the patient's family",
+        "No one if the patient feels fine",
+        "Only the equipment manufacturer"
+      ],
+      "answer": 0,
+      "explanation": "Prompt notification to the responsible clinician or supervisor is the second taught response step.",
+      "explanationImage": null,
+      "tags": [
+        "When Something Goes Wrong: Incident Response and Classification"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch02-q086",
+      "stem": "What should be recorded after an incident?",
+      "image": null,
+      "options": [
+        "Opinions about who was to blame",
+        "Only the patient's complaints",
+        "Facts, actions taken, and relevant communication",
+        "Nothing until a lawsuit begins"
+      ],
+      "answer": 2,
+      "explanation": "Records should capture objective facts, actions, and communication.",
+      "explanationImage": null,
+      "tags": [
+        "When Something Goes Wrong: Incident Response and Classification"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch02-q087",
+      "stem": "What does \"participate honestly in the disclosure process\" require?",
+      "image": null,
+      "options": [
+        "Openly and truthfully describing what happened within the required process",
+        "Concealing information to protect the department",
+        "Blaming a colleague",
+        "Avoiding all discussion of the event"
+      ],
+      "answer": 0,
+      "explanation": "Honest participation in disclosure supports transparency, learning, and patient trust.",
+      "explanationImage": null,
+      "tags": [
+        "When Something Goes Wrong: Incident Response and Classification"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch02-q088",
+      "stem": "Which step in the incident-response sequence follows recording facts?",
+      "image": null,
+      "options": [
+        "Delete the incident report",
+        "Participate honestly in the disclosure process",
+        "Take a break and forget the event",
+        "Wait for the patient to complain"
+      ],
+      "answer": 1,
+      "explanation": "After facts, actions, and communication are recorded, the practitioner participates honestly in disclosure.",
+      "explanationImage": null,
+      "tags": [
+        "When Something Goes Wrong: Incident Response and Classification"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch02-q089",
+      "stem": "A student witnesses a near miss that no one else noticed. What is the most professional action?",
+      "image": null,
+      "options": [
+        "Stay silent because no harm occurred",
+        "Post about it in a private group",
+        "Report the event through the appropriate process so the underlying problem can be addressed",
+        "Wait to see whether it happens again"
+      ],
+      "answer": 2,
+      "explanation": "Near misses still reveal safety problems and should be reported through the proper process.",
+      "explanationImage": null,
+      "tags": [
+        "When Something Goes Wrong: Incident Response and Classification"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch02-q090",
+      "stem": "Which statement about incident reporting is correct?",
+      "image": null,
+      "options": [
+        "Reporting is only required when a patient is injured",
+        "Reporting is a sign of personal failure",
+        "Reporting replaces clinical documentation",
+        "Reporting supports organizational safety review and learning"
+      ],
+      "answer": 3,
+      "explanation": "Safety reporting exists to support organizational review and prevention, regardless of harm.",
+      "explanationImage": null,
+      "tags": [
+        "When Something Goes Wrong: Incident Response and Classification"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch02-q091",
+      "stem": "A patient becomes dizzy while moving off the examination bed, is helped to remain safe, and does not fall. What should still happen?",
+      "image": null,
+      "options": [
+        "Nothing, because the patient did not fall",
+        "The event should be communicated and recorded appropriately",
+        "Only a social media mention",
+        "Nothing until the next shift"
+      ],
+      "answer": 1,
+      "explanation": "Even an event without injury should be communicated and documented because it reveals risk.",
+      "explanationImage": null,
+      "tags": [
+        "When Something Goes Wrong: Incident Response and Classification"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch02-q092",
+      "stem": "Which response step comes immediately after attending to immediate safety?",
+      "image": null,
+      "options": [
+        "Wait for the next scheduled meeting",
+        "Assume someone else reported it",
+        "Destroy the relevant records",
+        "Notify the responsible clinician or supervisor promptly"
+      ],
+      "answer": 3,
+      "explanation": "After safety and help, prompt notification of the responsible clinician or supervisor follows.",
+      "explanationImage": null,
+      "tags": [
+        "When Something Goes Wrong: Incident Response and Classification"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch02-q093",
+      "stem": "An incident report is completed. What happens to the clinical record?",
+      "image": null,
+      "options": [
+        "It should be deleted to avoid duplication",
+        "It is replaced automatically",
+        "It remains required for the care facts relevant to the patient",
+        "It is only needed if the patient asks"
+      ],
+      "answer": 2,
+      "explanation": "Completing an incident report does not remove the duty to document the clinical facts.",
+      "explanationImage": null,
+      "tags": [
+        "When Something Goes Wrong: Incident Response and Classification"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch02-q094",
+      "stem": "Which statement about harm, no harm, and near miss is correct?",
+      "image": null,
+      "options": [
+        "A near miss reached the patient without harm",
+        "A no-harm incident was caught before reaching the patient",
+        "A harmful incident caused harm; a no-harm incident reached the patient without discernible harm; a near miss was caught before reaching the patient",
+        "The three terms are interchangeable"
+      ],
+      "answer": 2,
+      "explanation": "The three categories are distinguished by whether the event reached the patient and whether harm resulted.",
+      "explanationImage": null,
+      "tags": [
+        "When Something Goes Wrong: Incident Response and Classification"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch02-q095",
+      "stem": "In a professional context, what does \"liability\" mean?",
+      "image": null,
+      "options": [
+        "The cost of ultrasound equipment",
+        "The number of patients scanned per day",
+        "A list of workplace complaints",
+        "Responsibility for actions and omissions"
+      ],
+      "answer": 3,
+      "explanation": "Liability is responsibility for what a practitioner does (actions) and fails to do (omissions).",
+      "explanationImage": null,
+      "tags": [
+        "Professional Liability: Actions, Omissions and Insurance"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch02-q096",
+      "stem": "Which example best illustrates a professional \"action\" creating liability risk?",
+      "image": null,
+      "options": [
+        "Noticing an error and reporting it",
+        "Asking a supervisor for help",
+        "Documenting a limitation accurately",
+        "Entering an echo measurement incorrectly"
+      ],
+      "answer": 3,
+      "explanation": "An incorrect measurement entry is an action — something done that may cause harm or error.",
+      "explanationImage": null,
+      "tags": [
+        "Professional Liability: Actions, Omissions and Insurance"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch02-q097",
+      "stem": "Which example best illustrates a professional \"omission\"?",
+      "image": null,
+      "options": [
+        "Entering the correct measurement",
+        "Noticing the error but failing to report it",
+        "Reporting the error promptly",
+        "Documenting what happened"
+      ],
+      "answer": 1,
+      "explanation": "An omission is a failure to act — here, noticing an error and not reporting it.",
+      "explanationImage": null,
+      "tags": [
+        "Professional Liability: Actions, Omissions and Insurance"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch02-q098",
+      "stem": "A sonographer notices an incorrect measurement was entered. What is the best response that reduces liability risk?",
+      "image": null,
+      "options": [
+        "Overwrite the entry so no one can see it",
+        "Notify the appropriate person and follow the correction process",
+        "Say nothing and hope it is not noticed",
+        "Ask a colleague to conceal it"
+      ],
+      "answer": 1,
+      "explanation": "Prompt notification and use of the traceable correction process reduce risk and demonstrate accountability.",
+      "explanationImage": null,
+      "tags": [
+        "Professional Liability: Actions, Omissions and Insurance"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch02-q099",
+      "stem": "Which combination of practices best reduces professional liability risk?",
+      "image": null,
+      "options": [
+        "Working faster and documenting less",
+        "Avoiding all contact with patients",
+        "Relying on colleagues to double-check everything",
+        "Competent practice, clear communication, accurate records, and prompt reporting of concerns"
+      ],
+      "answer": 3,
+      "explanation": "Risk reduction rests on competence, communication, accurate records, and timely reporting.",
+      "explanationImage": null,
+      "tags": [
+        "Professional Liability: Actions, Omissions and Insurance"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch02-q100",
+      "stem": "What does \"insurance coverage must apply to the work you actually do\" mean?",
+      "image": null,
+      "options": [
+        "Any insurance policy is automatically sufficient",
+        "Only hospital work needs coverage",
+        "Coverage should be confirmed for the activities and settings in which you practise",
+        "Insurance is optional for registrants"
+      ],
+      "answer": 2,
+      "explanation": "Coverage must be checked against the actual activities and locations of practice.",
+      "explanationImage": null,
+      "tags": [
+        "Professional Liability: Actions, Omissions and Insurance"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch02-q101",
+      "stem": "A sonographer works at a hospital and a second clinic. What is the most appropriate step regarding insurance?",
+      "image": null,
+      "options": [
+        "Assume the hospital policy covers both settings",
+        "Confirm whether the available policy covers both roles and locations, including activities, limits and exclusions",
+        "Ignore the issue because claims are rare",
+        "Assume registration itself provides coverage"
+      ],
+      "answer": 1,
+      "explanation": "Multi-site practice requires explicit confirmation that coverage extends to each role and location.",
+      "explanationImage": null,
+      "tags": [
+        "Professional Liability: Actions, Omissions and Insurance"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch02-q102",
+      "stem": "Which statement about liability and competence is correct?",
+      "image": null,
+      "options": [
+        "Insurance gives permission to attempt procedures you are not trained to perform",
+        "Insurance does not give permission to practise beyond competence",
+        "Competence is irrelevant if you are insured",
+        "Insurance replaces the need for standards"
+      ],
+      "answer": 1,
+      "explanation": "Insurance responds to claims; it never authorizes practice beyond one's competence.",
+      "explanationImage": null,
+      "tags": [
+        "Professional Liability: Actions, Omissions and Insurance"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch02-q103",
+      "stem": "A sonographer says, \"I have insurance, so it is okay to try a procedure I have not been trained to perform.\" What is wrong with this reasoning?",
+      "image": null,
+      "options": [
+        "Nothing — insurance covers everything",
+        "Insurance only covers equipment damage",
+        "Insurance does not authorize practice beyond competence or scope",
+        "Insurance is only for physicians"
+      ],
+      "answer": 2,
+      "explanation": "Coverage addresses financial responsibility; it does not expand scope or establish competence.",
+      "explanationImage": null,
+      "tags": [
+        "Professional Liability: Actions, Omissions and Insurance"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch02-q104",
+      "stem": "Which action is most likely to REDUCE professional liability exposure?",
+      "image": null,
+      "options": [
+        "Delaying documentation until the end of the month",
+        "Avoiding escalation to keep peace",
+        "Keeping accurate records and reporting concerns promptly",
+        "Performing unfamiliar tasks without supervision"
+      ],
+      "answer": 2,
+      "explanation": "Accurate records and prompt reporting are core risk-reduction practices.",
+      "explanationImage": null,
+      "tags": [
+        "Professional Liability: Actions, Omissions and Insurance"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch02-q105",
+      "stem": "Who is responsible for confirming that insurance coverage is compliant and current?",
+      "image": null,
+      "options": [
+        "Only the employer",
+        "The practitioner, wherever they practise",
+        "Only the regulator",
+        "The patient"
+      ],
+      "answer": 1,
+      "explanation": "Registrants must confirm compliant coverage wherever they practise.",
+      "explanationImage": null,
+      "tags": [
+        "Professional Liability: Actions, Omissions and Insurance"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch02-q106",
+      "stem": "Which situation most clearly raises a liability concern?",
+      "image": null,
+      "options": [
+        "A sonographer notices an error and reports it through the correct process",
+        "A sonographer notices an error but deliberately fails to report it",
+        "A sonographer documents a limitation",
+        "A sonographer asks for help when uncertain"
+      ],
+      "answer": 1,
+      "explanation": "Failing to act on a known error is an omission that creates responsibility and risk.",
+      "explanationImage": null,
+      "tags": [
+        "Professional Liability: Actions, Omissions and Insurance"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch02-q107",
+      "stem": "Which pairing of terms is correct?",
+      "image": null,
+      "options": [
+        "Action → something the practitioner did; Omission → something the practitioner failed to do",
+        "Action → a policy; Omission → a schedule",
+        "Action → an equipment fault; Omission → a patient preference",
+        "Action → a diagnosis; Omission → a consent form"
+      ],
+      "answer": 0,
+      "explanation": "Liability distinguishes what was done from what should have been done but was not.",
+      "explanationImage": null,
+      "tags": [
+        "Professional Liability: Actions, Omissions and Insurance"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch02-q108",
+      "stem": "Which statement about professional liability insurance is TRUE?",
+      "image": null,
+      "options": [
+        "It is optional for experienced practitioners",
+        "It is required for all practising CMRITO registrants",
+        "It applies only outside hospitals",
+        "It replaces registration"
+      ],
+      "answer": 1,
+      "explanation": "Compliant professional liability insurance is a requirement for practising registrants.",
+      "explanationImage": null,
+      "tags": [
+        "Professional Liability: Actions, Omissions and Insurance"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch02-q109",
+      "stem": "Which set best matches the ethical principles introduced in this lecture?",
+      "image": null,
+      "options": [
+        "Work fast, document little, speak loudly, rest often",
+        "Charge fairly, advertise widely, expand quickly, delegate always",
+        "Avoid harm, promote benefit, respect choice, act fairly, be honest",
+        "Obey, remain silent, avoid patients, delay reporting"
+      ],
+      "answer": 2,
+      "explanation": "The principles taught are nonmaleficence, beneficence, autonomy, justice, and veracity/integrity.",
+      "explanationImage": null,
+      "tags": [
+        "Ethical Principles in Practice"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch02-q110",
+      "stem": "Which principle corresponds to \"avoid harm\"?",
+      "image": null,
+      "options": [
+        "Beneficence",
+        "Justice",
+        "Autonomy",
+        "Nonmaleficence"
+      ],
+      "answer": 3,
+      "explanation": "Nonmaleficence is the duty to avoid preventable harm.",
+      "explanationImage": null,
+      "tags": [
+        "Ethical Principles in Practice"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch02-q111",
+      "stem": "Which action most directly reflects nonmaleficence?",
+      "image": null,
+      "options": [
+        "Attempting an unfamiliar examination to save time",
+        "Continuing despite patient discomfort to finish quickly",
+        "Withholding a concern to avoid embarrassment",
+        "Working within your competence and seeking help when uncertain"
+      ],
+      "answer": 3,
+      "explanation": "Practising within competence and seeking help are explicitly listed ways to avoid preventable harm.",
+      "explanationImage": null,
+      "tags": [
+        "Ethical Principles in Practice"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch02-q112",
+      "stem": "A sonographer notices a limitation in their own skills that could affect patient care. What does nonmaleficence require?",
+      "image": null,
+      "options": [
+        "Conceal the limitation",
+        "Attempt the task anyway without support",
+        "Recognize the limitation and seek help",
+        "Transfer the risk silently to a colleague"
+      ],
+      "answer": 2,
+      "explanation": "Recognizing limitations and seeking help, plus communicating concerns, are core nonmaleficence duties.",
+      "explanationImage": null,
+      "tags": [
+        "Ethical Principles in Practice"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch02-q113",
+      "stem": "A sonographer recognizes that performing an unfamiliar examination without help could risk harm. Which ethical concern is most directly raised?",
+      "image": null,
+      "options": [
+        "Promoting equal appointment lengths",
+        "Respecting a colleague's personal preferences",
+        "Avoiding preventable harm",
+        "Protecting the department's publicity"
+      ],
+      "answer": 2,
+      "explanation": "The direct ethical issue is the risk of preventable harm to the patient.",
+      "explanationImage": null,
+      "tags": [
+        "Ethical Principles in Practice"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch02-q114",
+      "stem": "Which principle corresponds to \"promote benefit\"?",
+      "image": null,
+      "options": [
+        "Justice",
+        "Beneficence",
+        "Autonomy",
+        "Veracity"
+      ],
+      "answer": 1,
+      "explanation": "Beneficence is the duty to act in the patient's best interests and promote benefit.",
+      "explanationImage": null,
+      "tags": [
+        "Ethical Principles in Practice"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch02-q115",
+      "stem": "Which action reflects beneficence?",
+      "image": null,
+      "options": [
+        "Scanning without explanation",
+        "Finishing regardless of the patient's condition",
+        "Considering the expected benefit of the examination and supporting the patient's comfort and understanding",
+        "Ignoring concerns that could affect appropriate care"
+      ],
+      "answer": 2,
+      "explanation": "Beneficence involves acting in the patient's best interests, supporting comfort and understanding, and clarifying relevant concerns.",
+      "explanationImage": null,
+      "tags": [
+        "Ethical Principles in Practice"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch02-q116",
+      "stem": "A patient is anxious about a follow-up echocardiogram for known valve disease. Which action best reflects beneficence?",
+      "image": null,
+      "options": [
+        "Ignore the anxiety and scan in silence",
+        "Promise that the results will be unchanged",
+        "Clarify concerns that could affect appropriate care and support the patient's understanding",
+        "Refuse to discuss the referral"
+      ],
+      "answer": 2,
+      "explanation": "Clarifying concerns that could affect care and supporting understanding both serve the patient's best interests.",
+      "explanationImage": null,
+      "tags": [
+        "Ethical Principles in Practice"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch02-q117",
+      "stem": "Which principle corresponds to \"respect choice\"?",
+      "image": null,
+      "options": [
+        "Autonomy",
+        "Nonmaleficence",
+        "Justice",
+        "Integrity"
+      ],
+      "answer": 0,
+      "explanation": "Autonomy is respecting the patient's informed choices.",
+      "explanationImage": null,
+      "tags": [
+        "Ethical Principles in Practice"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch02-q118",
+      "stem": "Which practice best reflects autonomy?",
+      "image": null,
+      "options": [
+        "Deciding for the patient because it is faster",
+        "Proceeding despite a request to stop",
+        "Explaining the examination in language the person understands, checking understanding, and allowing questions",
+        "Using medical jargon to sound authoritative"
+      ],
+      "answer": 2,
+      "explanation": "Autonomy is supported by clear explanation, checking understanding, allowing questions, and respecting refusals.",
+      "explanationImage": null,
+      "tags": [
+        "Ethical Principles in Practice"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch02-q119",
+      "stem": "A patient says, \"Please stop,\" during an examination. What does autonomy require?",
+      "image": null,
+      "options": [
+        "Continuing because the patient agreed at the start",
+        "Finishing the current view regardless",
+        "Responding appropriately to the request, including stopping and involving the supervisor",
+        "Documenting and continuing"
+      ],
+      "answer": 2,
+      "explanation": "Autonomy requires responding appropriately when a patient declines or asks to stop.",
+      "explanationImage": null,
+      "tags": [
+        "Ethical Principles in Practice"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch02-q120",
+      "stem": "A patient declines an examination after a clear explanation. What is the most appropriate response?",
+      "image": null,
+      "options": [
+        "Respect the decision, arrange appropriate follow-up, and document the discussion",
+        "Pressure the patient to reconsider",
+        "Perform the examination anyway because an order exists",
+        "Ignore the refusal"
+      ],
+      "answer": 0,
+      "explanation": "Respecting an informed refusal, arranging follow-up, and documenting are all part of respecting autonomy.",
+      "explanationImage": null,
+      "tags": [
+        "Ethical Principles in Practice"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch02-q121",
+      "stem": "Which principle corresponds to \"act fairly\"?",
+      "image": null,
+      "options": [
+        "Autonomy",
+        "Justice",
+        "Veracity",
+        "Beneficence"
+      ],
+      "answer": 1,
+      "explanation": "Justice concerns fair care and fair access.",
+      "explanationImage": null,
+      "tags": [
+        "Ethical Principles in Practice"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch02-q122",
+      "stem": "Two patients are waiting for one available appointment and one is friendlier than the other. What should guide the decision?",
+      "image": null,
+      "options": [
+        "Whichever patient is easier to scan",
+        "Clinical urgency and access needs rather than personality or favouritism",
+        "Who has waited the shortest time regardless of need",
+        "Whichever patient the sonographer prefers"
+      ],
+      "answer": 1,
+      "explanation": "Justice requires decisions based on clinical need and barriers to access, not favouritism.",
+      "explanationImage": null,
+      "tags": [
+        "Ethical Principles in Practice"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch02-q123",
+      "stem": "A patient needs extra communication support to understand the procedure while another patient does not. Which approach best reflects justice?",
+      "image": null,
+      "options": [
+        "Provide the support each patient needs for fair access to care",
+        "Exclude the patient who needs more time",
+        "Prioritize the patient who is easiest to scan",
+        "Give both patients exactly the same explanation regardless of understanding"
+      ],
+      "answer": 0,
+      "explanation": "Fair care may require different support for different patients to achieve equal access.",
+      "explanationImage": null,
+      "tags": [
+        "Ethical Principles in Practice"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch02-q124",
+      "stem": "Which action would VIOLATE justice?",
+      "image": null,
+      "options": [
+        "Allocating appointments by clinical need",
+        "Providing accommodations to remove access barriers",
+        "Considering each patient's individual needs",
+        "Showing favouritism to a patient who is personally pleasant"
+      ],
+      "answer": 3,
+      "explanation": "Favouritism and discrimination are explicitly contrary to justice.",
+      "explanationImage": null,
+      "tags": [
+        "Ethical Principles in Practice"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch02-q125",
+      "stem": "Which principle corresponds to \"be honest\"?",
+      "image": null,
+      "options": [
+        "Justice only",
+        "Nonmaleficence only",
+        "Autonomy only",
+        "Veracity and integrity"
+      ],
+      "answer": 3,
+      "explanation": "Veracity means communicating truthfully; integrity means acting consistently with professional responsibilities.",
+      "explanationImage": null,
+      "tags": [
+        "Ethical Principles in Practice"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch02-q126",
+      "stem": "A patient asks whether their scan is definitely normal before physician review. Which response best reflects veracity?",
+      "image": null,
+      "options": [
+        "Explain honestly that the study still needs review and describe the results process",
+        "Say it is normal to reduce anxiety",
+        "Give a diagnosis if the patient promises not to repeat it",
+        "Suggest that no news always means good news"
+      ],
+      "answer": 0,
+      "explanation": "Veracity requires honest communication without unsupported reassurance or promises.",
+      "explanationImage": null,
+      "tags": [
+        "Ethical Principles in Practice"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch02-q127",
+      "stem": "Which statement best defines integrity in professional practice?",
+      "image": null,
+      "options": [
+        "Always agreeing with colleagues",
+        "Never asking for help",
+        "Completing the maximum number of examinations",
+        "Acting consistently with professional responsibilities and being honest about abilities and limitations"
+      ],
+      "answer": 3,
+      "explanation": "Integrity is consistency between professional duties and actual behaviour, with honesty about capabilities.",
+      "explanationImage": null,
+      "tags": [
+        "Ethical Principles in Practice"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch02-q128",
+      "stem": "Which behaviour demonstrates honesty about one's abilities?",
+      "image": null,
+      "options": [
+        "Declining a task outside demonstrated competence and arranging qualified assistance",
+        "Claiming expertise to avoid supervision",
+        "Attempting a procedure and hiding the result",
+        "Letting a patient assume you are a physician"
+      ],
+      "answer": 0,
+      "explanation": "Being honest about abilities means acknowledging limits and arranging appropriate help.",
+      "explanationImage": null,
+      "tags": [
+        "Ethical Principles in Practice"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch02-q129",
+      "stem": "A sonographer is tempted to promise a patient a result that has not been reviewed. Which principle is at risk?",
+      "image": null,
+      "options": [
+        "Justice",
+        "Nonmaleficence only",
+        "Efficiency",
+        "Veracity — avoiding promises or reassurance that cannot be supported"
+      ],
+      "answer": 3,
+      "explanation": "Veracity requires avoiding promises or reassurance that cannot be supported.",
+      "explanationImage": null,
+      "tags": [
+        "Ethical Principles in Practice"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch02-q130",
+      "stem": "Two principles appear to conflict in a case. What should the learner do FIRST?",
+      "image": null,
+      "options": [
+        "Choose whichever action finishes the examination fastest",
+        "Clearly identify the concern and establish the relevant facts",
+        "Document a preferred solution before considering the facts",
+        "Wait for an adverse event before seeking guidance"
+      ],
+      "answer": 1,
+      "explanation": "Ethical reasoning begins with clarifying the facts and the immediate concern.",
+      "explanationImage": null,
+      "tags": [
+        "Ethical Principles in Practice"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch02-q131",
+      "stem": "A sonographer withholds a concern because they are worried about admitting they missed something. Which principle is being compromised?",
+      "image": null,
+      "options": [
+        "Justice",
+        "Nonmaleficence, through failure to communicate concerns that may affect care",
+        "Autonomy",
+        "None — silence protects everyone"
+      ],
+      "answer": 1,
+      "explanation": "Nonmaleficence includes communicating concerns that may affect care, even when doing so is uncomfortable.",
+      "explanationImage": null,
+      "tags": [
+        "Ethical Principles in Practice"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch02-q132",
+      "stem": "Which combination of duties is associated with nonmaleficence in this lecture?",
+      "image": null,
+      "options": [
+        "Avoid preventable harm, work within competence, recognize limitations and seek help, communicate concerns that may affect care",
+        "Prioritize speed, avoid documentation, ignore limitations",
+        "Diagnose independently, prescribe treatment, dismiss concerns",
+        "Rely on patients to notice errors"
+      ],
+      "answer": 0,
+      "explanation": "Those four duties are the specific nonmaleficence expectations taught for practice.",
+      "explanationImage": null,
+      "tags": [
+        "Ethical Principles in Practice"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch02-q133",
+      "stem": "A patient asks for reassurance that their heart is fine before the study is reviewed. Which response best combines honesty and support?",
+      "image": null,
+      "options": [
+        "\"Everything looks fine. Try not to worry.\"",
+        "\"I cannot help you with that question.\"",
+        "\"Look at the screen and decide for yourself.\"",
+        "\"I understand you are worried. The cardiologist will review the study, and your care team will explain the results.\""
+      ],
+      "answer": 3,
+      "explanation": "The response acknowledges the worry, avoids unsupported reassurance, and directs the patient to the proper review process.",
+      "explanationImage": null,
+      "tags": [
+        "Ethical Principles in Practice"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch02-q134",
+      "stem": "Which statement correctly relates ethical principles to professional standards?",
+      "image": null,
+      "options": [
+        "Standards and ethics never overlap",
+        "Professional standards set expectations; ethical principles help reason about choices — both guide everyday care",
+        "Ethics applies only outside clinical practice",
+        "Standards remove the need for ethical judgement"
+      ],
+      "answer": 1,
+      "explanation": "Standards provide expectations while ethical principles support the reasoning behind decisions; both guide practice.",
+      "explanationImage": null,
+      "tags": [
+        "Ethical Principles in Practice"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch02-q135",
+      "stem": "What is the FIRST step in the taught reasoning process for a professional decision?",
+      "image": null,
+      "options": [
+        "Choose the fastest possible action",
+        "Document a preferred solution before considering the facts",
+        "Wait for someone else to raise the concern",
+        "Clarify the facts and the immediate concern"
+      ],
+      "answer": 3,
+      "explanation": "Reasoning begins by clarifying the facts and identifying the immediate concern.",
+      "explanationImage": null,
+      "tags": [
+        "A Process for Ethical and Professional Decisions"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch02-q136",
+      "stem": "What is the SECOND step in the reasoning process?",
+      "image": null,
+      "options": [
+        "Announce the decision publicly",
+        "Avoid documentation",
+        "Transfer the patient immediately",
+        "Consider who could be affected and which principles apply"
+      ],
+      "answer": 3,
+      "explanation": "After clarifying facts, the practitioner considers affected parties and applicable ethical principles.",
+      "explanationImage": null,
+      "tags": [
+        "A Process for Ethical and Professional Decisions"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch02-q137",
+      "stem": "What is the THIRD step in the reasoning process?",
+      "image": null,
+      "options": [
+        "Check relevant requirements and seek appropriate guidance",
+        "Act without consulting anyone",
+        "Assume no rules apply",
+        "Delay indefinitely"
+      ],
+      "answer": 0,
+      "explanation": "The third step is checking requirements and seeking appropriate guidance before acting.",
+      "explanationImage": null,
+      "tags": [
+        "A Process for Ethical and Professional Decisions"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch02-q138",
+      "stem": "What is the FINAL step in the reasoning process?",
+      "image": null,
+      "options": [
+        "Guess and hope for the best",
+        "Conceal the decision",
+        "Choose a safe action, explain why, and document as required",
+        "Ask the patient to choose without information"
+      ],
+      "answer": 2,
+      "explanation": "The final step is selecting a safe action, explaining the reasoning, and documenting as required.",
+      "explanationImage": null,
+      "tags": [
+        "A Process for Ethical and Professional Decisions"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch02-q139",
+      "stem": "Which order best matches the full reasoning process?",
+      "image": null,
+      "options": [
+        "Document → act → clarify facts → seek guidance",
+        "Guess → act → conceal → forget",
+        "Seek guidance → ignore facts → act → avoid documentation",
+        "Clarify facts → consider who is affected and which principles apply → check requirements and seek guidance → choose a safe action, explain and document"
+      ],
+      "answer": 3,
+      "explanation": "The four-step sequence is facts, principles and affected parties, requirements and guidance, then action with explanation and documentation.",
+      "explanationImage": null,
+      "tags": [
+        "A Process for Ethical and Professional Decisions"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch02-q140",
+      "stem": "A learner faces an ethical concern and does not know where to begin. What does the process recommend?",
+      "image": null,
+      "options": [
+        "Choose a favourite answer immediately",
+        "Name the concern and gather the relevant facts",
+        "Ask the patient to solve it alone",
+        "Do nothing until harm occurs"
+      ],
+      "answer": 1,
+      "explanation": "Naming the concern and gathering facts is the starting point of structured ethical decision-making.",
+      "explanationImage": null,
+      "tags": [
+        "A Process for Ethical and Professional Decisions"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch02-q141",
+      "stem": "In the reasoning process, why does checking requirements come before choosing an action?",
+      "image": null,
+      "options": [
+        "Because documentation is unnecessary",
+        "Because actions should be chosen randomly",
+        "Because guidance always delays care",
+        "Because actions must align with relevant laws, standards, and policies"
+      ],
+      "answer": 3,
+      "explanation": "Requirements anchor the decision in applicable law, standards, and policy before action is taken.",
+      "explanationImage": null,
+      "tags": [
+        "A Process for Ethical and Professional Decisions"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch02-q142",
+      "stem": "Why does the reasoning process end with documentation?",
+      "image": null,
+      "options": [
+        "Because documentation makes decisions unnecessary",
+        "Because the decision and its rationale should be recorded as required",
+        "Because records replace communication",
+        "Because documentation is optional in difficult cases"
+      ],
+      "answer": 1,
+      "explanation": "Documenting the action and the reason supports accountability and continuity of care.",
+      "explanationImage": null,
+      "tags": [
+        "A Process for Ethical and Professional Decisions"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch02-q143",
+      "stem": "Which step addresses fairness and honesty explicitly?",
+      "image": null,
+      "options": [
+        "Skipping the guidance step",
+        "Choosing the fastest action",
+        "Considering who could be affected and which principles apply",
+        "Avoiding documentation"
+      ],
+      "answer": 2,
+      "explanation": "Considering affected parties and applicable principles directly engages fairness and honesty.",
+      "explanationImage": null,
+      "tags": [
+        "A Process for Ethical and Professional Decisions"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch02-q144",
+      "stem": "A sonographer is uncertain whether a concern warrants escalation. What does the process support?",
+      "image": null,
+      "options": [
+        "Clarifying the facts, checking requirements, and seeking appropriate guidance",
+        "Waiting until the patient complains",
+        "Ignoring the concern to avoid conflict",
+        "Posting the concern publicly"
+      ],
+      "answer": 0,
+      "explanation": "Structured reasoning supports raising a concern while still uncertain, through clarification, requirement-checking, and guidance.",
+      "explanationImage": null,
+      "tags": [
+        "A Process for Ethical and Professional Decisions"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch02-q145",
+      "stem": "Which statement about the reasoning process is correct?",
+      "image": null,
+      "options": [
+        "It removes the need for professional judgement",
+        "It applies only to medical diagnoses",
+        "It applies only after an adverse event",
+        "It helps explain why an action was chosen and what was documented"
+      ],
+      "answer": 3,
+      "explanation": "The process makes the decision transparent, justified, and documented.",
+      "explanationImage": null,
+      "tags": [
+        "A Process for Ethical and Professional Decisions"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch02-q146",
+      "stem": "An ethical dilemma involves two reasonable options. What does the process require after gathering facts?",
+      "image": null,
+      "options": [
+        "Identify who is affected, check principles and requirements, then compare the reasonable options before acting",
+        "Pick the option that upsets fewest people regardless of principles",
+        "Avoid deciding at all",
+        "Let the patient take all responsibility"
+      ],
+      "answer": 0,
+      "explanation": "Comparing reasonable options in light of affected parties, principles, and requirements leads to a defensible action.",
+      "explanationImage": null,
+      "tags": [
+        "A Process for Ethical and Professional Decisions"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch02-q147",
+      "stem": "A patient reports pain and asks to change position. Some required images have not been obtained, and the department is behind schedule. What is a safe next step?",
+      "image": null,
+      "options": [
+        "Pause, change or stop the position as needed, involve the supervising sonographer, and document what was and was not obtained",
+        "Complete the study in the painful position to save time",
+        "Finish quickly and record the study as complete",
+        "Blame the patient for moving"
+      ],
+      "answer": 0,
+      "explanation": "Patient safety and honest documentation take priority over schedule pressure.",
+      "explanationImage": null,
+      "tags": [
+        "Applied Scenarios"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch02-q148",
+      "stem": "Which documentation entry about a limited study is most useful?",
+      "image": null,
+      "options": [
+        "\"Patient difficult. Poor study.\"",
+        "\"Study incomplete.\"",
+        "\"Patient reports left shoulder pain in the left-side position. Position changed. Some planned images could not be obtained. Supervising sonographer notified.\"",
+        "\"Examination unsatisfactory for reasons beyond control.\""
+      ],
+      "answer": 2,
+      "explanation": "A useful entry names the limitation, the response, and the person notified.",
+      "explanationImage": null,
+      "tags": [
+        "Applied Scenarios"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch02-q149",
+      "stem": "Why is \"Patient difficult. Poor study.\" unacceptable documentation?",
+      "image": null,
+      "options": [
+        "It is too short",
+        "It is a subjective judgment rather than a factual description of what happened",
+        "It contains technical terms",
+        "It names the patient"
+      ],
+      "answer": 1,
+      "explanation": "Records should describe objective facts — reports, actions, and outcomes — rather than labels.",
+      "explanationImage": null,
+      "tags": [
+        "Applied Scenarios"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch02-q150",
+      "stem": "A referral reads, \"Echo follow-up of a known aortic valve disease.\" The patient says their last echo was elsewhere and no prior report is attached. What information would most help the examination?",
+      "image": null,
+      "options": [
+        "The patient's favourite activities",
+        "Which valve problem is being followed, when and where the previous echo was performed, and relevant prior images or reports",
+        "The name of the patient's family doctor only",
+        "Nothing — prior information is never relevant"
+      ],
+      "answer": 1,
+      "explanation": "Prior study details give essential context for comparison and interpretation of the follow-up study.",
+      "explanationImage": null,
+      "tags": [
+        "Applied Scenarios"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch02-q151",
+      "stem": "How should the sonographer obtain the prior echo information?",
+      "image": null,
+      "options": [
+        "Through the approved process for requesting relevant prior information and by involving the supervisor",
+        "By asking the patient to obtain records informally without documentation",
+        "By skipping comparisons entirely",
+        "By copying records from another hospital without authorization"
+      ],
+      "answer": 0,
+      "explanation": "Prior information must be requested through approved processes with appropriate involvement of the supervisor.",
+      "explanationImage": null,
+      "tags": [
+        "Applied Scenarios"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch02-q152",
+      "stem": "After class, a friend asks for a quick heart ultrasound, saying, \"I give you permission.\" There is no authorized clinical request or supervised learning session. What should the sonographer say?",
+      "image": null,
+      "options": [
+        "Scan quickly because permission was given",
+        "Scan and give informal results",
+        "Permission alone is not enough — an authorized request and appropriate supervision are required, so they must decline",
+        "Ask the friend's employer for approval"
+      ],
+      "answer": 2,
+      "explanation": "Patient permission does not create authorization or competence; scanning in this setting is inappropriate.",
+      "explanationImage": null,
+      "tags": [
+        "Applied Scenarios"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch02-q153",
+      "stem": "Which principle is most directly at issue in the \"friend asks for a scan\" scenario?",
+      "image": null,
+      "options": [
+        "Autonomy and authorization — permission alone does not make an examination appropriate",
+        "Justice only",
+        "Equipment maintenance",
+        "Scheduling fairness"
+      ],
+      "answer": 0,
+      "explanation": "Consent from a friend does not supply the order, scope, or supervised context required for a legitimate examination.",
+      "explanationImage": null,
+      "tags": [
+        "Applied Scenarios"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch02-q154",
+      "stem": "During an echo, a patient says, \"Please stop. The pressure is uncomfortable and I feel anxious.\" What should be done and said FIRST?",
+      "image": null,
+      "options": [
+        "Explain why more images are needed before stopping",
+        "Finish the current view before responding",
+        "Resume once the patient appears calmer",
+        "Stop promptly, acknowledge the request, and check the patient's comfort"
+      ],
+      "answer": 3,
+      "explanation": "The first response is to stop, acknowledge, and check comfort — the patient's request governs what happens next.",
+      "explanationImage": null,
+      "tags": [
+        "Applied Scenarios"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch02-q155",
+      "stem": "After stopping, the patient appears calmer. What determines whether scanning may resume?",
+      "image": null,
+      "options": [
+        "Valid consent re-established through clarification of what the patient wants and agreement to any adjustment",
+        "A calmer appearance alone",
+        "Whether the sonographer is ready to continue",
+        "Whether the schedule is behind"
+      ],
+      "answer": 0,
+      "explanation": "A calmer appearance does not establish renewed permission; consent must be actively re-established.",
+      "explanationImage": null,
+      "tags": [
+        "Applied Scenarios"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch02-q156",
+      "stem": "The patient asks, \"Some images were limited. Does that mean my heart is weak?\" Which response is most appropriate?",
+      "image": null,
+      "options": [
+        "\"Yes, that almost certainly means your heart is weak.\"",
+        "Explain that an imaging limitation alone does not diagnose a heart problem, and that the care team will review the study",
+        "\"No, your heart is perfectly normal.\"",
+        "Show the images and ask the patient to interpret them"
+      ],
+      "answer": 1,
+      "explanation": "A limitation says nothing definitive about cardiac function; honest explanation and proper review are required.",
+      "explanationImage": null,
+      "tags": [
+        "Applied Scenarios"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch02-q157",
+      "stem": "Which reasoning step matches the limited-images question best?",
+      "image": null,
+      "options": [
+        "Facts: limited images and a worried patient; principles: be honest and avoid guessing; guidance: follow the approved review process; action: explain the limit and seek support",
+        "Facts: the schedule is behind; action: say everything is normal",
+        "Action: diagnose from the limited images",
+        "Guidance: ask the patient to wait indefinitely with no explanation"
+      ],
+      "answer": 0,
+      "explanation": "The case illustrates applying the four-step reasoning process to a real patient concern.",
+      "explanationImage": null,
+      "tags": [
+        "Applied Scenarios"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch02-q158",
+      "stem": "A sonographer notices a concern while reviewing echo images but hesitates because they worry about admitting they missed something. What is the most appropriate action?",
+      "image": null,
+      "options": [
+        "Say nothing to protect their reputation",
+        "Wait until the next routine meeting",
+        "Ask the team lead for help promptly so the concern can be reviewed and additional images obtained if needed",
+        "Hope the interpreting cardiologist notices"
+      ],
+      "answer": 2,
+      "explanation": "Promptly seeking a second review protects the patient and demonstrates professional courage.",
+      "explanationImage": null,
+      "tags": [
+        "Applied Scenarios"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch02-q159",
+      "stem": "What helps a practitioner act promptly when they notice a concern?",
+      "image": null,
+      "options": [
+        "Waiting until certainty is complete",
+        "Avoiding discussion of possible errors",
+        "Assuming someone else will act",
+        "A supportive team culture and the habit of raising concerns early"
+      ],
+      "answer": 3,
+      "explanation": "Early, supported escalation is what allows concerns to be addressed in time.",
+      "explanationImage": null,
+      "tags": [
+        "Applied Scenarios"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch02-q160",
+      "stem": "A student has access to a clinical record system and wants to open a neighbour's record out of curiosity. What is the correct conclusion?",
+      "image": null,
+      "options": [
+        "Technical access does not answer whether the access is authorized — an authorized purpose is required, so the student must not open it",
+        "Technical access is sufficient reason to open the record",
+        "The record may be opened if no one finds out",
+        "The record may be opened because the student works in healthcare"
+      ],
+      "answer": 0,
+      "explanation": "Curiosity is not an authorized purpose; access requires a role-based, care-related purpose.",
+      "explanationImage": null,
+      "tags": [
+        "Applied Scenarios"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch02-q161",
+      "stem": "Which principle is most directly engaged by the curiosity-access scenario?",
+      "image": null,
+      "options": [
+        "Confidentiality and integrity — acting consistently with professional responsibilities",
+        "Efficiency",
+        "Scheduling fairness",
+        "Equipment care"
+      ],
+      "answer": 0,
+      "explanation": "Unauthorized access breaches confidentiality and is inconsistent with professional integrity.",
+      "explanationImage": null,
+      "tags": [
+        "Applied Scenarios"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch02-q162",
+      "stem": "A patient asks, \"Does my heart look okay?\" during the examination. Which response is most appropriate?",
+      "image": null,
+      "options": [
+        "\"I think it looks normal.\"",
+        "\"Do not worry. Everything is fine.\"",
+        "Ignore the question and continue",
+        "\"The physician will review the study. Your care team will explain the results.\""
+      ],
+      "answer": 3,
+      "explanation": "The response acknowledges the process honestly without giving a diagnosis or unsupported reassurance.",
+      "explanationImage": null,
+      "tags": [
+        "Applied Scenarios"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch02-q163",
+      "stem": "Which response to a worried patient best reflects veracity?",
+      "image": null,
+      "options": [
+        "\"It's probably nothing.\"",
+        "\"Everything will be okay.\"",
+        "\"I can't promise a result before the review. Let's make sure you know how and when you'll hear from the care team.\"",
+        "\"Don't worry about it.\""
+      ],
+      "answer": 2,
+      "explanation": "Honest communication avoids promises that cannot be supported while still being supportive.",
+      "explanationImage": null,
+      "tags": [
+        "Applied Scenarios"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch02-q164",
+      "stem": "Which statement about a limited examination is TRUE?",
+      "image": null,
+      "options": [
+        "A limited study always means the patient has disease",
+        "A limited study should never be documented",
+        "A limited study must be repeated without consent",
+        "An imaging limitation alone does not diagnose a heart problem"
+      ],
+      "answer": 3,
+      "explanation": "Limitations describe image acquisition, not diagnosis.",
+      "explanationImage": null,
+      "tags": [
+        "Applied Scenarios"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch02-q165",
+      "stem": "A sonographer identifies a concern on images but is unsure whether it is significant. Which action best reflects communicating an echo concern?",
+      "image": null,
+      "options": [
+        "Keep it private to avoid embarrassment",
+        "Describe what was noticed, ask the supervising sonographer or interpreting cardiologist for review, follow up if urgent or unresolved, and record the communication and agreed next step",
+        "Tell the patient directly that something is wrong",
+        "Wait for the next scheduled clinic visit without communicating"
+      ],
+      "answer": 1,
+      "explanation": "The taught process is describe → request review → follow up → document.",
+      "explanationImage": null,
+      "tags": [
+        "Applied Scenarios"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch02-q166",
+      "stem": "After raising a concern, what should be recorded?",
+      "image": null,
+      "options": [
+        "Only the sonographer's personal feelings",
+        "Nothing until the final report",
+        "The relevant communication and the agreed next step",
+        "Only the patient's name"
+      ],
+      "answer": 2,
+      "explanation": "Recording the communication and agreed next step creates an accountable trail.",
+      "explanationImage": null,
+      "tags": [
+        "Applied Scenarios"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch02-q167",
+      "stem": "Two patients are waiting for the last appointment of the day, and one is openly frustrated. What information should guide the decision about who is seen?",
+      "image": null,
+      "options": [
+        "Clinical urgency, access needs, and fairness — not friendliness or demeanour",
+        "Whichever patient is more pleasant",
+        "Whichever patient complains loudest",
+        "Whichever patient the sonographer knows personally"
+      ],
+      "answer": 0,
+      "explanation": "Justice requires allocation by clinical need and barriers to access, not personality.",
+      "explanationImage": null,
+      "tags": [
+        "Applied Scenarios"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch02-q168",
+      "stem": "A patient asks the sonographer to reassure them that everything is fine before the study has been reviewed. What is the most honest and supportive response?",
+      "image": null,
+      "options": [
+        "\"Everything looks fine. Try not to worry.\"",
+        "\"I can't promise a result before the review, but I'll make sure you know how and when you'll hear from the care team.\"",
+        "\"Ask me again tomorrow.\"",
+        "\"Look at the screen — you can tell.\""
+      ],
+      "answer": 1,
+      "explanation": "The response avoids unsupported reassurance while providing useful, honest guidance.",
+      "explanationImage": null,
+      "tags": [
+        "Applied Scenarios"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch02-q169",
+      "stem": "A patient becomes upset because the examination is taking longer than expected. Which response best reflects beneficence?",
+      "image": null,
+      "options": [
+        "Continue without explanation to finish quickly",
+        "Acknowledge the concern, explain the need for the additional images, and support the patient's comfort",
+        "Stop all communication for the remainder of the study",
+        "Tell the patient to complain to management"
+      ],
+      "answer": 1,
+      "explanation": "Beneficence includes supporting comfort and understanding while pursuing the examination's expected benefit.",
+      "explanationImage": null,
+      "tags": [
+        "Applied Scenarios"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch02-q170",
+      "stem": "A sonographer is asked to complete a study but the patient cannot tolerate the required position. What should the record name?",
+      "image": null,
+      "options": [
+        "The limited views and the person notified",
+        "Only the patient's mood",
+        "Nothing",
+        "Only the machine settings"
+      ],
+      "answer": 0,
+      "explanation": "In a real record, the specific limited views and the person notified should be identified.",
+      "explanationImage": null,
+      "tags": [
+        "Applied Scenarios"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch02-q171",
+      "stem": "Which of the following is a reason to seek a second review of images?",
+      "image": null,
+      "options": [
+        "To confirm a concern promptly rather than delay while uncertainty continues",
+        "To delay the report indefinitely",
+        "To avoid documenting anything",
+        "To shift responsibility permanently"
+      ],
+      "answer": 0,
+      "explanation": "Early second review resolves uncertainty quickly and protects the patient.",
+      "explanationImage": null,
+      "tags": [
+        "Applied Scenarios"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch02-q172",
+      "stem": "A sonographer notices that they have entered a measurement incorrectly. What is the correct course of action?",
+      "image": null,
+      "options": [
+        "Erase the entry so no record of the error remains",
+        "Notify the appropriate person, follow the correction process, and keep the correction traceable",
+        "Ignore it because the value is small",
+        "Ask someone else to alter it under their name"
+      ],
+      "answer": 1,
+      "explanation": "Corrections must be transparent and traceable through the approved process.",
+      "explanationImage": null,
+      "tags": [
+        "Applied Scenarios"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch02-q173",
+      "stem": "What does the sonographer's responsibility look like \"with the patient\"?",
+      "image": null,
+      "options": [
+        "Explain, listen, and respect the patient's choices",
+        "Speak only to the supervising sonographer",
+        "Avoid answering any questions",
+        "Rush through without explanation"
+      ],
+      "answer": 0,
+      "explanation": "With the patient, responsibilities include explaining, listening, and respecting choices.",
+      "explanationImage": null,
+      "tags": [
+        "Applied Scenarios"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch02-q174",
+      "stem": "What does the sonographer's responsibility look like \"after the exam\"?",
+      "image": null,
+      "options": [
+        "Record limitations and communicate concerns",
+        "Delete the images to save storage",
+        "Avoid all documentation",
+        "Leave without communicating anything"
+      ],
+      "answer": 0,
+      "explanation": "After the exam, records must capture limitations and concerns must be communicated.",
+      "explanationImage": null,
+      "tags": [
+        "Applied Scenarios"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch02-q175",
+      "stem": "A patient refuses to continue an examination partway through. What should happen next?",
+      "image": null,
+      "options": [
+        "Continue because an order remains in place",
+        "Pressure the patient to finish",
+        "Respect the decision, arrange appropriate follow-up, and document the discussion and communication",
+        "Record the study as fully complete"
+      ],
+      "answer": 2,
+      "explanation": "The patient's decision must be respected, with follow-up arranged and the discussion documented.",
+      "explanationImage": null,
+      "tags": [
+        "Applied Scenarios"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch02-q176",
+      "stem": "Which response to a patient who declines an examination is most professional?",
+      "image": null,
+      "options": [
+        "\"You have no choice — the doctor ordered it.\"",
+        "\"Fine, but don't come back.\"",
+        "\"I understand your decision. Let me explain what happens next so your care team can follow up appropriately.\"",
+        "Silent disapproval"
+      ],
+      "answer": 2,
+      "explanation": "A professional response respects the decision and clearly explains the next steps without coercion.",
+      "explanationImage": null,
+      "tags": [
+        "Applied Scenarios"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch02-q177",
+      "stem": "Which statement best describes how findings should be communicated to a patient?",
+      "image": null,
+      "options": [
+        "By giving the patient a definitive diagnosis",
+        "Within the practitioner's professional role, through the approved process and with direction to the appropriate clinician for diagnostic questions",
+        "By showing the images and letting the patient interpret them",
+        "By refusing to speak with the patient at all"
+      ],
+      "answer": 1,
+      "explanation": "Sonographers explain what they did and the process, while diagnostic questions go to the appropriate clinician.",
+      "explanationImage": null,
+      "tags": [
+        "Patient Communication and Documentation Quality"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch02-q178",
+      "stem": "Which statement is an example of false reassurance?",
+      "image": null,
+      "options": [
+        "\"The physician will review the study.\"",
+        "\"Your care team will explain the results.\"",
+        "\"Everything is fine.\"",
+        "\"Let's make sure you know how you'll hear from the care team.\""
+      ],
+      "answer": 2,
+      "explanation": "\"Everything is fine\" is a promise that cannot be supported before review — a classic false reassurance.",
+      "explanationImage": null,
+      "tags": [
+        "Patient Communication and Documentation Quality"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch02-q179",
+      "stem": "Which communication is most likely to be honest AND supportive?",
+      "image": null,
+      "options": [
+        "\"I can see you're concerned. The physician will review the study, and I'll make sure the right person knows your concern.\"",
+        "\"There's probably nothing wrong.\"",
+        "\"I know exactly how you feel.\"",
+        "\"Don't worry about it.\""
+      ],
+      "answer": 0,
+      "explanation": "The response validates the concern, avoids unsupported claims, and commits to proper communication.",
+      "explanationImage": null,
+      "tags": [
+        "Patient Communication and Documentation Quality"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch02-q180",
+      "stem": "Which documentation entry best separates a patient report from an observation?",
+      "image": null,
+      "options": [
+        "\"Patient would not cooperate for no reason.\"",
+        "\"Patient reports dizziness. Scanning paused and nurse notified.\"",
+        "\"Difficult patient, examination unsuccessful.\"",
+        "\"Patient was dramatic and probably wanted attention.\""
+      ],
+      "answer": 1,
+      "explanation": "The entry attributes the symptom to the patient's report and records the objective action taken.",
+      "explanationImage": null,
+      "tags": [
+        "Patient Communication and Documentation Quality"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch02-q181",
+      "stem": "What makes a clinical record entry \"attributable\"?",
+      "image": null,
+      "options": [
+        "It is written in colour",
+        "It is as short as possible",
+        "It identifies who made the entry and when",
+        "It avoids mentioning actions"
+      ],
+      "answer": 2,
+      "explanation": "Attribution — identifying the author and timing — is required for a traceable legal record.",
+      "explanationImage": null,
+      "tags": [
+        "Patient Communication and Documentation Quality"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch02-q182",
+      "stem": "Which set best matches the required qualities of a documentation entry?",
+      "image": null,
+      "options": [
+        "Vague, delayed, anonymous and optional",
+        "Opinionated, negative, lengthy and informal",
+        "Accurate, complete, timely and attributable",
+        "Subjective, backdated, partial and unsigned"
+      ],
+      "answer": 2,
+      "explanation": "Documentation must be accurate, complete, timely, and attributable.",
+      "explanationImage": null,
+      "tags": [
+        "Patient Communication and Documentation Quality"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch02-q183",
+      "stem": "A sonographer documents, \"Patient was anxious and difficult to scan.\" What is the main problem with this entry?",
+      "image": null,
+      "options": [
+        "It is too detailed",
+        "It includes technical terminology",
+        "It names the patient",
+        "It is a subjective judgment rather than an account of what the patient reported and what was done"
+      ],
+      "answer": 3,
+      "explanation": "Objective entries describe reports, actions, and responses instead of labeling the patient.",
+      "explanationImage": null,
+      "tags": [
+        "Patient Communication and Documentation Quality"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch02-q184",
+      "stem": "Which entry is the most objective and useful?",
+      "image": null,
+      "options": [
+        "\"Patient reported feeling anxious; required two additional breaks to complete the study.\"",
+        "\"Patient was anxious and difficult.\"",
+        "\"Patient was uncooperative.\"",
+        "\"Patient had a bad attitude.\""
+      ],
+      "answer": 0,
+      "explanation": "It records the patient's report and the objective facts of what was needed to complete the study.",
+      "explanationImage": null,
+      "tags": [
+        "Patient Communication and Documentation Quality"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch02-q185",
+      "stem": "Which question should guide the final test of a written clinical communication?",
+      "image": null,
+      "options": [
+        "Is it the shortest entry possible?",
+        "Does it avoid mentioning limitations?",
+        "Would it impress a court more than a colleague?",
+        "Could another qualified person understand what happened, what was observed, and what action was taken?"
+      ],
+      "answer": 3,
+      "explanation": "A clinical communication should let another qualified practitioner reconstruct the event and response.",
+      "explanationImage": null,
+      "tags": [
+        "Patient Communication and Documentation Quality"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch02-q186",
+      "stem": "A patient asks whether they can get the results directly from the sonographer. What is the most appropriate response?",
+      "image": null,
+      "options": [
+        "Provide a definitive diagnosis immediately",
+        "Refuse to communicate in any way",
+        "Explain what was done and the reporting process, and direct diagnostic questions to the appropriate clinician",
+        "Hand over the interpreting physician's personal contact details"
+      ],
+      "answer": 2,
+      "explanation": "The sonographer explains process and role limits while directing diagnostic questions appropriately.",
+      "explanationImage": null,
+      "tags": [
+        "Patient Communication and Documentation Quality"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch02-q187",
+      "stem": "When a patient's concern involves the reporting process, what should the sonographer do?",
+      "image": null,
+      "options": [
+        "Make promises about the outcome",
+        "Explain what was done and how the reporting process works, acknowledge the concern, and answer within the professional role",
+        "Avoid the patient entirely",
+        "Guess at the final diagnosis to be helpful"
+      ],
+      "answer": 1,
+      "explanation": "Acknowledging the concern, explaining process, and staying within role are the taught expectations.",
+      "explanationImage": null,
+      "tags": [
+        "Patient Communication and Documentation Quality"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch02-q188",
+      "stem": "Which action best supports continuity of care after a limited examination?",
+      "image": null,
+      "options": [
+        "Recording only that the study was completed",
+        "Waiting for the patient to raise the issue",
+        "Documenting what was obtained, what was limited and why, and communicating concerns",
+        "Leaving the record blank until the next study"
+      ],
+      "answer": 2,
+      "explanation": "Complete documentation of limitations plus communication allows the care team to act appropriately.",
+      "explanationImage": null,
+      "tags": [
+        "Patient Communication and Documentation Quality"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch02-q189",
+      "stem": "What should a sonographer do when an urgent concern is identified?",
+      "image": null,
+      "options": [
+        "Escalate urgent concerns through the approved process without delay",
+        "Wait until the end of the shift",
+        "Mention it only if asked",
+        "Post it in a staff chat without using approved channels"
+      ],
+      "answer": 0,
+      "explanation": "Urgent concerns must move through approved escalation channels promptly.",
+      "explanationImage": null,
+      "tags": [
+        "Patient Communication and Documentation Quality"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch02-q190",
+      "stem": "Which statement about patient communication is most accurate?",
+      "image": null,
+      "options": [
+        "Patients need no explanation if the examination is routine",
+        "The patient should be able to trust the practitioner to explain what is happening, respect their choice, protect their information, and speak up when something needs attention",
+        "Reassurance should always be given before review",
+        "Communication is the responsibility of administrative staff only"
+      ],
+      "answer": 1,
+      "explanation": "Trust rests on explanation, respect for choice, protection of information, and speaking up.",
+      "explanationImage": null,
+      "tags": [
+        "Patient Communication and Documentation Quality"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch02-q191",
+      "stem": "What was the underlying conduct in the published CMRITO discipline case discussed in this lecture?",
+      "image": null,
+      "options": [
+        "A documentation style preference",
+        "A scheduling disagreement",
+        "An equipment purchasing decision",
+        "Failure to comply with quality assurance and committee requirements"
+      ],
+      "answer": 3,
+      "explanation": "The case involved failure to comply with QA and committee requirements.",
+      "explanationImage": null,
+      "tags": [
+        "The Published Discipline Case and Responsibilities in the Echo Room"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch02-q192",
+      "stem": "What penalties were included in the published discipline case?",
+      "image": null,
+      "options": [
+        "A verbal warning only",
+        "Immediate permanent revocation with no further process",
+        "Two five-month suspension orders running concurrently, public reprimand, required education, and $16,761.64 in costs",
+        "No consequences"
+      ],
+      "answer": 2,
+      "explanation": "The outcomes were concurrent five-month suspensions, public reprimand, required education, and $16,761.64 in costs.",
+      "explanationImage": null,
+      "tags": [
+        "The Published Discipline Case and Responsibilities in the Echo Room"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch02-q193",
+      "stem": "What does the statement \"suspension could continue until requirements were completed\" imply?",
+      "image": null,
+      "options": [
+        "The suspension ended automatically on a fixed date regardless",
+        "Requirements were waived after suspension",
+        "The suspension duration was tied to fulfilling the outstanding QA and committee requirements",
+        "The registrant did not need to complete the requirements"
+      ],
+      "answer": 2,
+      "explanation": "Completion of outstanding requirements was a condition tied to the suspension.",
+      "explanationImage": null,
+      "tags": [
+        "The Published Discipline Case and Responsibilities in the Echo Room"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch02-q194",
+      "stem": "What is the significance of a public reprimand?",
+      "image": null,
+      "options": [
+        "It is an informal chat with a colleague",
+        "It is a formal, published expression of professional disapproval",
+        "It has no professional consequences",
+        "It replaces all other outcomes"
+      ],
+      "answer": 1,
+      "explanation": "A public reprimand is a formal published sanction expressing disapproval of the conduct.",
+      "explanationImage": null,
+      "tags": [
+        "The Published Discipline Case and Responsibilities in the Echo Room"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch02-q195",
+      "stem": "Before a task in the echo room, what should the practitioner check?",
+      "image": null,
+      "options": [
+        "What they are trained and authorized to do",
+        "Only how long the task will take",
+        "Only whether the patient is waiting",
+        "Nothing — tasks are always permitted"
+      ],
+      "answer": 0,
+      "explanation": "The pre-task check concerns training and authorization.",
+      "explanationImage": null,
+      "tags": [
+        "The Published Discipline Case and Responsibilities in the Echo Room"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch02-q196",
+      "stem": "When unsure during an examination, what does the practitioner's responsibility require?",
+      "image": null,
+      "options": [
+        "Continue and hope for a good outcome",
+        "Pause and ask the appropriate person for help",
+        "Ask the patient to take responsibility",
+        "Hide the uncertainty"
+      ],
+      "answer": 1,
+      "explanation": "When unsure, the correct action is to pause and ask the appropriate person.",
+      "explanationImage": null,
+      "tags": [
+        "The Published Discipline Case and Responsibilities in the Echo Room"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch02-q197",
+      "stem": "Which set correctly lists the echo-room responsibilities taught in this lecture?",
+      "image": null,
+      "options": [
+        "Before: skip checks; With the patient: remain silent; When unsure: guess; After: delete records",
+        "Before: check training and authorization; With the patient: explain, listen, respect choices; When unsure: pause and ask; After: record limitations and communicate concerns",
+        "Before: diagnose; With the patient: prescribe; When unsure: ignore; After: leave",
+        "Before: schedule only; With the patient: nothing; When unsure: nothing; After: nothing"
+      ],
+      "answer": 1,
+      "explanation": "The four responsibilities before, with, when unsure, and after are the taught echo-room framework.",
+      "explanationImage": null,
+      "tags": [
+        "The Published Discipline Case and Responsibilities in the Echo Room"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch02-q198",
+      "stem": "Which combination best reflects a registrant's professional responsibilities?",
+      "image": null,
+      "options": [
+        "Practise safely and competently, follow the standards, apply ethical principles, maintain registration, report concerns, and maintain confidentiality",
+        "Work quickly, avoid documentation, ignore standards",
+        "Diagnose independently and prescribe treatment",
+        "Prioritize workload above patient welfare"
+      ],
+      "answer": 0,
+      "explanation": "These are the six professional responsibilities listed in the lecture.",
+      "explanationImage": null,
+      "tags": [
+        "The Published Discipline Case and Responsibilities in the Echo Room"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch02-q199",
+      "stem": "Which source would a student consult for the expectations that apply to professional conduct in Ontario?",
+      "image": null,
+      "options": [
+        "A social media discussion thread",
+        "An equipment catalogue",
+        "A colleague's personal opinion",
+        "CMRITO Standards of Practice and Code of Ethics"
+      ],
+      "answer": 3,
+      "explanation": "The regulator's Standards of Practice and Code of Ethics define professional conduct expectations.",
+      "explanationImage": null,
+      "tags": [
+        "The Published Discipline Case and Responsibilities in the Echo Room"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5006-ch02-q200",
+      "stem": "Which combination of actions BEST represents professional accountability as presented in this module?",
+      "image": null,
+      "options": [
+        "Work beyond competence to keep the schedule, avoid documentation, and ignore registration requirements",
+        "Follow orders without checking scope or competence and never escalate concerns",
+        "Check what you are trained and authorized to do, explain and respect the patient's choices, pause and ask when unsure, record limitations, communicate concerns, and complete registration and quality assurance requirements",
+        "Prioritize personal convenience over patient safety and record quality"
+      ],
+      "answer": 2,
+      "explanation": "Accountability integrates pre-task checks, patient respect, seeking help, documentation, communication, and meeting registration obligations.",
+      "explanationImage": null,
+      "tags": [
+        "The Published Discipline Case and Responsibilities in the Echo Room"
+      ],
+      "reference": ""
+    }
+  ]
 }

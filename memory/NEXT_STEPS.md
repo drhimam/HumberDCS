@@ -136,7 +136,7 @@ limited to a database-backed health endpoint until the authentication/API
 implementation is ready.
 
 The Worker is deployed at
-`https://dcsqbank-api.rifa-numis.workers.dev` and successfully connects to
+`https://dcs-api.qbanks.org` (and routed under `https://dcs.qbanks.org`) and successfully connects to
 production D1. Registration, email verification, login, session lookup, and
 logout are now deployed; forgot-password, rate limiting, and admin
 authorization remain follow-up work.

@@ -55,7 +55,7 @@ database-backed health endpoint plus the first authentication routes:
 registration, email verification, login, session lookup, and logout.
 
 The deployed Worker is available at
-`https://dcsqbank-api.rifa-numis.workers.dev`. Its health endpoint is
+`https://dcs-api.qbanks.org` (and routed under `https://dcs.qbanks.org`). Its health endpoint is
 `/health`; `/auth/*` contains the deployed authentication routes.
 
 Never point local development or Pages preview code at production D1. The

@@ -44,6 +44,7 @@ const allowedOrigin = (request, env) => {
   const validOrigins = [
     env.ALLOWED_ORIGIN,
     "https://dcs.qbanks.org",
+    "https://dcs-api.qbanks.org",
     "https://dcsqbank.pages.dev",
     "http://localhost:3000",
     "http://127.0.0.1:3000",

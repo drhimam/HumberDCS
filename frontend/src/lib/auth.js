@@ -1,9 +1,9 @@
 import { useEffect, useState } from "react";
-
-const API_URL = process.env.REACT_APP_API_URL || "https://dcsqbank-api.rifa-numis.workers.dev";
+import { getApiBaseUrl } from "./apiConfig";
 
 export const authRequest = async (path, options = {}) => {
-  const response = await fetch(`${API_URL}${path}`, {
+  const baseUrl = getApiBaseUrl();
+  const response = await fetch(`${baseUrl}${path}`, {
     ...options,
     credentials: "include",
     headers: { "content-type": "application/json", ...(options.headers || {}) },

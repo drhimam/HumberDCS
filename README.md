@@ -74,9 +74,7 @@ The initial Worker boundary is now in [worker/](worker/). It exposes only a
 database-backed health endpoint while authentication, ZeptoMail, PayPal, and
 admin routes are implemented and tested incrementally.
 
-The deployed Worker is
-`https://dcsqbank-api.rifa-numis.workers.dev`. Its health endpoint is
-`/health`, and authentication routes are under `/auth/*`.
+The deployed Worker is available via custom domain at `https://dcs-api.qbanks.org` and routed directly under `https://dcs.qbanks.org` (`/auth/*`, `/api/*`, `/donations/*`, `/feedback`). Its health endpoints are `/health` and `/api/health`.
 
 The public landing page is available at `/`, with sign-in and create-account
 screens at `/signin` and `/signup`. Dashboard, subjects, study, exam, and

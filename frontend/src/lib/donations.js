@@ -1,4 +1,4 @@
-const API_URL = process.env.REACT_APP_API_URL || "https://dcsqbank-api.rifa-numis.workers.dev";
+import { getApiBaseUrl } from "./apiConfig";
 
 /**
  * Fetch PayPal configuration from Cloudflare Worker backend.
@@ -6,7 +6,8 @@ const API_URL = process.env.REACT_APP_API_URL || "https://dcsqbank-api.rifa-numi
  */
 export async function getDonationConfig() {
   try {
-    const res = await fetch(`${API_URL}/api/donations/config`);
+    const baseUrl = getApiBaseUrl();
+    const res = await fetch(`${baseUrl}/api/donations/config`);
     if (!res.ok) throw new Error(`HTTP error ${res.status}`);
     const data = await res.json();
     return {
@@ -31,7 +32,8 @@ export async function getDonationConfig() {
  * Create a PayPal donation order via Worker backend.
  */
 export async function createDonationOrder({ amount, currency = "CAD", donorEmail, donorName }) {
-  const res = await fetch(`${API_URL}/api/donations/create-order`, {
+  const baseUrl = getApiBaseUrl();
+  const res = await fetch(`${baseUrl}/api/donations/create-order`, {
     method: "POST",
     headers: { "Content-Type": "application/json" },
     credentials: "include",
@@ -49,7 +51,8 @@ export async function createDonationOrder({ amount, currency = "CAD", donorEmail
  * Capture an approved PayPal donation order via Worker backend.
  */
 export async function captureDonationOrder({ orderId }) {
-  const res = await fetch(`${API_URL}/api/donations/capture-order`, {
+  const baseUrl = getApiBaseUrl();
+  const res = await fetch(`${baseUrl}/api/donations/capture-order`, {
     method: "POST",
     headers: { "Content-Type": "application/json" },
     credentials: "include",
@@ -68,7 +71,8 @@ export async function captureDonationOrder({ orderId }) {
  */
 export async function getDonationStats() {
   try {
-    const res = await fetch(`${API_URL}/api/donations/stats`);
+    const baseUrl = getApiBaseUrl();
+    const res = await fetch(`${baseUrl}/api/donations/stats`);
     if (!res.ok) return null;
     return await res.json();
   } catch {
@@ -81,7 +85,8 @@ export async function getDonationStats() {
  */
 export async function getMyDonations() {
   try {
-    const res = await fetch(`${API_URL}/api/donations/my-donations`, {
+    const baseUrl = getApiBaseUrl();
+    const res = await fetch(`${baseUrl}/api/donations/my-donations`, {
       credentials: "include",
     });
     if (!res.ok) return [];

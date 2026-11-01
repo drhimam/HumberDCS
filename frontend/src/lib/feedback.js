@@ -1,7 +1,8 @@
-const API_URL = process.env.REACT_APP_API_URL || "https://dcsqbank-api.rifa-numis.workers.dev";
+import { getApiBaseUrl } from "./apiConfig";
 
 export async function submitFeedback(payload) {
-  const response = await fetch(`${API_URL}/api/feedback`, {
+  const baseUrl = getApiBaseUrl();
+  const response = await fetch(`${baseUrl}/api/feedback`, {
     method: "POST",
     headers: {
       "Content-Type": "application/json",

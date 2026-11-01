@@ -3,6 +3,13 @@ main = "src/index.js"
 compatibility_date = "2026-10-12"
 workers_dev = true
 
+routes = [
+  { pattern = "dcs.qbanks.org/auth/*", zone_name = "qbanks.org" },
+  { pattern = "dcs.qbanks.org/api/*", zone_name = "qbanks.org" },
+  { pattern = "dcs.qbanks.org/donations/*", zone_name = "qbanks.org" },
+  { pattern = "dcs.qbanks.org/feedback", zone_name = "qbanks.org" }
+]
+
 [vars]
 ALLOWED_ORIGIN = "https://dcs.qbanks.org"
 APP_ORIGIN = "https://dcs.qbanks.org"
@@ -12,7 +19,6 @@ ZEPTOMAIL_API_URL = "https://api.zeptomail.ca/v1.1/email"
 PAYPAL_ENVIRONMENT = "live"
 PAYPAL_CURRENCY = "CAD"
 PAYPAL_CLIENT_ID = "BAAMa88c5rdwE5eRWAZLHJUrIvf-deV3jznXmIqmwPKvGM7ouR5OqoSzQarU2FbZoDIhHEwNpPQhWqsUaw"
-
 
 [[d1_databases]]
 binding = "DB"

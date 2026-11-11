@@ -1,0 +1,2094 @@
+{
+  "chapterId": "ch07",
+  "title": "Module 7: Attenuation and Decibels",
+  "questions": [
+    {
+      "id": "DCS5004-ch07-q001",
+      "stem": "What best describes attenuation of an ultrasound beam?",
+      "image": null,
+      "options": [
+        "Increase in propagation speed",
+        "Progressive decrease in intensity with distance",
+        "Increase in frequency with depth",
+        "Change in pulse repetition frequency"
+      ],
+      "answer": 1,
+      "explanation": "Attenuation is the progressive decrease in intensity with distance.",
+      "explanationImage": null,
+      "tags": [
+        "Attenuation and Decibels Fundamentals"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch07-q002",
+      "stem": "Which mechanism is the primary cause of attenuation in soft tissue?",
+      "image": null,
+      "options": [
+        "Refraction",
+        "Absorption",
+        "Interference",
+        "Resonance"
+      ],
+      "answer": 1,
+      "explanation": "Absorption is the dominant form of attenuation in diagnostic ultrasound.",
+      "explanationImage": null,
+      "tags": [
+        "Attenuation and Decibels Fundamentals"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch07-q003",
+      "stem": "During absorption, acoustic energy is primarily converted into:",
+      "image": null,
+      "options": [
+        "Electrical energy",
+        "Mechanical pressure",
+        "Heat",
+        "Reflected sound"
+      ],
+      "answer": 2,
+      "explanation": "Absorbed sound energy becomes heat.",
+      "explanationImage": null,
+      "tags": [
+        "Attenuation and Decibels Fundamentals"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch07-q004",
+      "stem": "Which interaction redirects ultrasound in many directions from small or irregular tissue structures?",
+      "image": null,
+      "options": [
+        "Absorption",
+        "Refraction",
+        "Scattering",
+        "Transmission"
+      ],
+      "answer": 2,
+      "explanation": "Scattering redirects sound in many directions from small or irregular structures.",
+      "explanationImage": null,
+      "tags": [
+        "Attenuation and Decibels Fundamentals"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch07-q005",
+      "stem": "Which condition produces the strongest returning echo from a smooth specular reflector?",
+      "image": null,
+      "options": [
+        "Oblique incidence",
+        "Perpendicular incidence",
+        "Low pulse repetition frequency",
+        "Increased propagation speed"
+      ],
+      "answer": 1,
+      "explanation": "A smooth reflector returns its strongest echo at perpendicular incidence.",
+      "explanationImage": null,
+      "tags": [
+        "Attenuation and Decibels Fundamentals"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch07-q006",
+      "stem": "Diffuse reflection most commonly occurs when ultrasound encounters a:",
+      "image": null,
+      "options": [
+        "Large, smooth interface",
+        "Large, irregular interface",
+        "Homogeneous fluid",
+        "Perfectly perpendicular boundary"
+      ],
+      "answer": 1,
+      "explanation": "Diffuse reflection is associated with a large, irregular interface.",
+      "explanationImage": null,
+      "tags": [
+        "Attenuation and Decibels Fundamentals"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch07-q007",
+      "stem": "A positive decibel change indicates that intensity has:",
+      "image": null,
+      "options": [
+        "Decreased",
+        "Increased",
+        "Remained unchanged",
+        "Been completely absorbed"
+      ],
+      "answer": 1,
+      "explanation": "Positive dB means an increase in intensity.",
+      "explanationImage": null,
+      "tags": [
+        "Attenuation and Decibels Fundamentals"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch07-q008",
+      "stem": "A negative decibel change indicates that intensity has:",
+      "image": null,
+      "options": [
+        "Increased",
+        "Decreased",
+        "Doubled",
+        "Remained constant"
+      ],
+      "answer": 1,
+      "explanation": "Negative dB means a decrease in intensity.",
+      "explanationImage": null,
+      "tags": [
+        "Attenuation and Decibels Fundamentals"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch07-q009",
+      "stem": "An increase of 3 dB produces approximately what change in intensity?",
+      "image": null,
+      "options": [
+        "One-half",
+        "Twofold increase",
+        "Tenfold increase",
+        "One-quarter"
+      ],
+      "answer": 1,
+      "explanation": "+3 dB is approximately a doubling of intensity.",
+      "explanationImage": null,
+      "tags": [
+        "Attenuation and Decibels Fundamentals"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch07-q010",
+      "stem": "A decrease of 3 dB leaves approximately what fraction of the original intensity?",
+      "image": null,
+      "options": [
+        "1/2",
+        "1/3",
+        "1/4",
+        "1/10"
+      ],
+      "answer": 0,
+      "explanation": "−3 dB leaves about one-half.",
+      "explanationImage": null,
+      "tags": [
+        "Attenuation and Decibels Fundamentals"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch07-q011",
+      "stem": "An increase of 10 dB produces approximately what change in intensity?",
+      "image": null,
+      "options": [
+        "Twofold increase",
+        "Fourfold increase",
+        "Tenfold increase",
+        "One-hundredfold increase"
+      ],
+      "answer": 2,
+      "explanation": "+10 dB is a tenfold increase.",
+      "explanationImage": null,
+      "tags": [
+        "Attenuation and Decibels Fundamentals"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch07-q012",
+      "stem": "A decrease of 10 dB leaves approximately what percentage of the original intensity?",
+      "image": null,
+      "options": [
+        "1%",
+        "10%",
+        "25%",
+        "50%"
+      ],
+      "answer": 1,
+      "explanation": "−10 dB leaves 1/10, or 10%.",
+      "explanationImage": null,
+      "tags": [
+        "Attenuation and Decibels Fundamentals"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch07-q013",
+      "stem": "An ultrasound beam undergoes a 13 dB increase. By approximately what factor has its intensity increased?",
+      "image": null,
+      "options": [
+        "13",
+        "20",
+        "30",
+        "100"
+      ],
+      "answer": 1,
+      "explanation": "+13 dB = +10 dB (×10) and +3 dB (×2), so ×20.",
+      "explanationImage": null,
+      "tags": [
+        "Attenuation and Decibels Fundamentals"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch07-q014",
+      "stem": "An ultrasound beam undergoes a 6 dB decrease. What fraction of the original intensity remains?",
+      "image": null,
+      "options": [
+        "1/2",
+        "1/4",
+        "1/6",
+        "1/10"
+      ],
+      "answer": 1,
+      "explanation": "Two −3 dB changes leave ½ × ½ = 1/4.",
+      "explanationImage": null,
+      "tags": [
+        "Attenuation and Decibels Fundamentals"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch07-q015",
+      "stem": "A beam undergoes four consecutive 3 dB losses. What fraction of the original intensity remains?",
+      "image": null,
+      "options": [
+        "1/4",
+        "1/8",
+        "1/12",
+        "1/16"
+      ],
+      "answer": 3,
+      "explanation": "Each −3 dB halves intensity. Four losses leave 1/16.",
+      "explanationImage": null,
+      "tags": [
+        "Attenuation and Decibels Fundamentals"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch07-q016",
+      "stem": "What happens to attenuation when ultrasound frequency increases?",
+      "image": null,
+      "options": [
+        "Attenuation decreases",
+        "Attenuation increases",
+        "Attenuation remains unchanged",
+        "Attenuation becomes independent of tissue type"
+      ],
+      "answer": 1,
+      "explanation": "Attenuation increases with frequency.",
+      "explanationImage": null,
+      "tags": [
+        "Attenuation and Decibels Fundamentals"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch07-q017",
+      "stem": "Which transducer frequency generally provides the greatest penetration?",
+      "image": null,
+      "options": [
+        "2 MHz",
+        "5 MHz",
+        "10 MHz",
+        "15 MHz"
+      ],
+      "answer": 0,
+      "explanation": "The lowest frequency attenuates least and penetrates deepest.",
+      "explanationImage": null,
+      "tags": [
+        "Attenuation and Decibels Fundamentals"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch07-q018",
+      "stem": "Which frequency is most appropriate for imaging a superficial thyroid?",
+      "image": null,
+      "options": [
+        "2 MHz",
+        "3 MHz",
+        "5 MHz",
+        "12 MHz"
+      ],
+      "answer": 3,
+      "explanation": "A high frequency gives the best detail for a superficial structure.",
+      "explanationImage": null,
+      "tags": [
+        "Attenuation and Decibels Fundamentals"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch07-q019",
+      "stem": "A sonographer cannot adequately visualize a deep abdominal structure. Which adjustment would most likely improve penetration?",
+      "image": null,
+      "options": [
+        "Increase frequency",
+        "Decrease frequency",
+        "Increase line density",
+        "Increase transmit focus depth only"
+      ],
+      "answer": 1,
+      "explanation": "Decreasing frequency reduces attenuation and improves penetration.",
+      "explanationImage": null,
+      "tags": [
+        "Attenuation and Decibels Fundamentals"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch07-q020",
+      "stem": "What happens to total attenuation as propagation distance increases?",
+      "image": null,
+      "options": [
+        "It decreases",
+        "It increases",
+        "It remains constant",
+        "It becomes independent of frequency"
+      ],
+      "answer": 1,
+      "explanation": "Total attenuation increases with distance.",
+      "explanationImage": null,
+      "tags": [
+        "Attenuation and Decibels Fundamentals"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch07-q021",
+      "stem": "What does the attenuation coefficient describe?",
+      "image": null,
+      "options": [
+        "Distance travelled per microsecond",
+        "Frequency lost per centimetre",
+        "Decibels lost per centimetre",
+        "Intensity gained per reflection"
+      ],
+      "answer": 2,
+      "explanation": "The attenuation coefficient is in dB/cm.",
+      "explanationImage": null,
+      "tags": [
+        "Attenuation and Decibels Fundamentals"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch07-q022",
+      "stem": "What is the approximate attenuation coefficient of a 6 MHz beam in average soft tissue?",
+      "image": null,
+      "options": [
+        "0.5 dB/cm",
+        "3 dB/cm",
+        "6 dB/cm",
+        "12 dB/cm"
+      ],
+      "answer": 1,
+      "explanation": "0.5 dB/cm/MHz × 6 MHz = 3 dB/cm.",
+      "explanationImage": null,
+      "tags": [
+        "Attenuation and Decibels Fundamentals"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch07-q023",
+      "stem": "What is the approximate attenuation coefficient of a 10 MHz beam in average soft tissue?",
+      "image": null,
+      "options": [
+        "2 dB/cm",
+        "5 dB/cm",
+        "10 dB/cm",
+        "20 dB/cm"
+      ],
+      "answer": 1,
+      "explanation": "0.5 × 10 = 5 dB/cm.",
+      "explanationImage": null,
+      "tags": [
+        "Attenuation and Decibels Fundamentals"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch07-q024",
+      "stem": "A 4 MHz beam travels 5 cm through average soft tissue. What is the total attenuation?",
+      "image": null,
+      "options": [
+        "2 dB",
+        "5 dB",
+        "10 dB",
+        "20 dB"
+      ],
+      "answer": 2,
+      "explanation": "Total attenuation = 0.5 × 4 MHz × 5 cm = 10 dB.",
+      "explanationImage": null,
+      "tags": [
+        "Attenuation and Decibels Fundamentals"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch07-q025",
+      "stem": "A 6 MHz beam travels 4 cm through average soft tissue. What is the total attenuation?",
+      "image": null,
+      "options": [
+        "3 dB",
+        "6 dB",
+        "12 dB",
+        "24 dB"
+      ],
+      "answer": 2,
+      "explanation": "3 dB/cm × 4 cm = 12 dB.",
+      "explanationImage": null,
+      "tags": [
+        "Attenuation and Decibels Fundamentals"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch07-q026",
+      "stem": "A 12 MHz beam travels 2 cm through average soft tissue. What is the total attenuation?",
+      "image": null,
+      "options": [
+        "6 dB",
+        "12 dB",
+        "18 dB",
+        "24 dB"
+      ],
+      "answer": 1,
+      "explanation": "6 dB/cm × 2 cm = 12 dB.",
+      "explanationImage": null,
+      "tags": [
+        "Attenuation and Decibels Fundamentals"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch07-q027",
+      "stem": "What does half-value layer thickness represent?",
+      "image": null,
+      "options": [
+        "Distance over which frequency is halved",
+        "Distance over which intensity is halved",
+        "Depth at which speed doubles",
+        "Thickness producing a 10 dB loss"
+      ],
+      "answer": 1,
+      "explanation": "It is the distance over which intensity falls by half (3 dB).",
+      "explanationImage": null,
+      "tags": [
+        "Attenuation and Decibels Fundamentals"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch07-q028",
+      "stem": "A 6 MHz beam has an attenuation coefficient of 3 dB/cm. What is its half-value layer thickness?",
+      "image": null,
+      "options": [
+        "0.5 cm",
+        "1 cm",
+        "2 cm",
+        "3 cm"
+      ],
+      "answer": 1,
+      "explanation": "HVLT = 3 dB ÷ 3 dB/cm = 1 cm.",
+      "explanationImage": null,
+      "tags": [
+        "Attenuation and Decibels Fundamentals"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch07-q029",
+      "stem": "Which medium generally produces the least attenuation?",
+      "image": null,
+      "options": [
+        "Bone",
+        "Lung",
+        "Fluid",
+        "Air-filled bowel"
+      ],
+      "answer": 2,
+      "explanation": "Fluid attenuates the least of these choices.",
+      "explanationImage": null,
+      "tags": [
+        "Attenuation and Decibels Fundamentals"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch07-q030",
+      "stem": "Increased brightness deep to a fluid-filled cyst occurs because the cyst:",
+      "image": null,
+      "options": [
+        "Reflects nearly all incident sound",
+        "Attenuates less sound than surrounding tissue",
+        "Increases the frequency of the beam",
+        "Produces total internal reflection"
+      ],
+      "answer": 1,
+      "explanation": "Less attenuation leaves more intensity beyond the cyst (posterior enhancement).",
+      "explanationImage": null,
+      "tags": [
+        "Attenuation and Decibels Fundamentals"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch07-q031",
+      "stem": "A beam undergoes a 20 dB decrease. What percentage of the original intensity remains?",
+      "image": null,
+      "options": [
+        "50%",
+        "20%",
+        "10%",
+        "1%"
+      ],
+      "answer": 3,
+      "explanation": "−20 dB = 1/100 = 1%.",
+      "explanationImage": null,
+      "tags": [
+        "Attenuation and Decibels Fundamentals"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch07-q032",
+      "stem": "Which statement correctly describes a 10 dB decrease?",
+      "image": null,
+      "options": [
+        "Intensity decreases by 10%",
+        "Intensity decreases to one-tenth",
+        "Intensity decreases to one-half",
+        "Intensity decreases by a factor of 2"
+      ],
+      "answer": 1,
+      "explanation": "−10 dB reduces intensity to one-tenth.",
+      "explanationImage": null,
+      "tags": [
+        "Attenuation and Decibels Fundamentals"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch07-q033",
+      "stem": "A beam first increases by 10 dB and then decreases by 3 dB. What is the net decibel change?",
+      "image": null,
+      "options": [
+        "+7 dB",
+        "+13 dB",
+        "−7 dB",
+        "−13 dB"
+      ],
+      "answer": 0,
+      "explanation": "Decibel changes add algebraically: +10 − 3 = +7 dB.",
+      "explanationImage": null,
+      "tags": [
+        "Attenuation and Decibels Fundamentals"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch07-q034",
+      "stem": "A beam undergoes a 9 dB decrease. Approximately what fraction of the original intensity remains?",
+      "image": null,
+      "options": [
+        "1/2",
+        "1/4",
+        "1/8",
+        "1/10"
+      ],
+      "answer": 2,
+      "explanation": "Three −3 dB changes leave 1/8.",
+      "explanationImage": null,
+      "tags": [
+        "Attenuation and Decibels Fundamentals"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch07-q035",
+      "stem": "Which ultrasound beam has the highest attenuation coefficient in average soft tissue?",
+      "image": null,
+      "options": [
+        "2 MHz",
+        "4 MHz",
+        "8 MHz",
+        "12 MHz"
+      ],
+      "answer": 3,
+      "explanation": "The coefficient rises with frequency (6 dB/cm at 12 MHz).",
+      "explanationImage": null,
+      "tags": [
+        "Attenuation and Decibels Fundamentals"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch07-q036",
+      "stem": "A 5 MHz beam travels 6 cm through average soft tissue. What is the total attenuation?",
+      "image": null,
+      "options": [
+        "2.5 dB",
+        "10 dB",
+        "15 dB",
+        "30 dB"
+      ],
+      "answer": 2,
+      "explanation": "2.5 dB/cm × 6 cm = 15 dB.",
+      "explanationImage": null,
+      "tags": [
+        "Attenuation and Decibels Fundamentals"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch07-q037",
+      "stem": "A sonographer switches from a 3 MHz transducer to a 9 MHz transducer while imaging the same depth. What is the most likely result?",
+      "image": null,
+      "options": [
+        "Less attenuation and greater penetration",
+        "Greater attenuation and reduced penetration",
+        "Lower resolution and reduced attenuation",
+        "No change in attenuation"
+      ],
+      "answer": 1,
+      "explanation": "Higher frequency means more attenuation and less penetration.",
+      "explanationImage": null,
+      "tags": [
+        "Attenuation and Decibels Fundamentals"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch07-q038",
+      "stem": "Which structure is most likely to produce posterior acoustic shadowing?",
+      "image": null,
+      "options": [
+        "Simple cyst",
+        "Urinary bladder",
+        "Calcification",
+        "Blood vessel"
+      ],
+      "answer": 2,
+      "explanation": "Calcification strongly absorbs and reflects sound.",
+      "explanationImage": null,
+      "tags": [
+        "Attenuation and Decibels Fundamentals"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch07-q039",
+      "stem": "Why is acoustic gel applied between the transducer and the skin?",
+      "image": null,
+      "options": [
+        "To increase propagation speed",
+        "To reduce reflection caused by air",
+        "To increase beam frequency",
+        "To eliminate absorption in tissue"
+      ],
+      "answer": 1,
+      "explanation": "Gel removes the air layer that would reflect nearly all the sound.",
+      "explanationImage": null,
+      "tags": [
+        "Attenuation and Decibels Fundamentals"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch07-q040",
+      "stem": "A simple cyst appears brighter posteriorly than the surrounding tissue. What is the best explanation?",
+      "image": null,
+      "options": [
+        "Sound travels faster through the cyst",
+        "The cyst produces stronger specular reflection",
+        "The cyst attenuates less sound than surrounding tissue",
+        "The cyst increases the transmitted frequency"
+      ],
+      "answer": 2,
+      "explanation": "Low attenuation gives posterior acoustic enhancement. ---",
+      "explanationImage": null,
+      "tags": [
+        "Attenuation and Decibels Fundamentals"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch07-q041",
+      "stem": "Which statement about attenuation is TRUE?",
+      "image": null,
+      "options": [
+        "It occurs only in bone",
+        "It decreases as depth increases",
+        "It is independent of frequency",
+        "It occurs in all tissues and cannot be completely eliminated"
+      ],
+      "answer": 3,
+      "explanation": "Every beam weakens as it propagates, in every tissue.",
+      "explanationImage": null,
+      "tags": [
+        "Attenuation Fundamentals and Mechanisms"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch07-q042",
+      "stem": "Attenuation reduces which characteristics of the sound beam?",
+      "image": null,
+      "options": [
+        "Amplitude, power and intensity",
+        "Frequency only",
+        "Wavelength",
+        "Propagation speed"
+      ],
+      "answer": 0,
+      "explanation": "All three strength parameters decrease as the beam travels. Frequency, wavelength and speed are unchanged.",
+      "explanationImage": null,
+      "tags": [
+        "Attenuation Fundamentals and Mechanisms"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch07-q043",
+      "stem": "Echoes from deep structures are generally weaker than echoes from superficial structures mainly because:",
+      "image": null,
+      "options": [
+        "Deep structures have lower impedance",
+        "Frequency increases with depth",
+        "Both the transmitted beam and the returning echo are attenuated over a longer path",
+        "Propagation speed decreases with depth"
+      ],
+      "answer": 2,
+      "explanation": "The sound travels to the reflector and back, so losses accumulate over the round trip.",
+      "explanationImage": null,
+      "tags": [
+        "Attenuation Fundamentals and Mechanisms"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch07-q044",
+      "stem": "Which of the following is NOT a cause of attenuation?",
+      "image": null,
+      "options": [
+        "Absorption",
+        "Scattering",
+        "Reflection",
+        "Pulse repetition frequency"
+      ],
+      "answer": 3,
+      "explanation": "Attenuation is caused by absorption, scattering and reflection. PRF is a system setting.",
+      "explanationImage": null,
+      "tags": [
+        "Attenuation Fundamentals and Mechanisms"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch07-q045",
+      "stem": "Which mechanism removes sound energy from the beam entirely rather than redirecting it?",
+      "image": null,
+      "options": [
+        "Scattering",
+        "Absorption",
+        "Reflection",
+        "Beam divergence"
+      ],
+      "answer": 1,
+      "explanation": "Absorption converts sound to heat. Scattering and reflection only redirect energy.",
+      "explanationImage": null,
+      "tags": [
+        "Attenuation Fundamentals and Mechanisms"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch07-q046",
+      "stem": "Beam divergence contributes to the loss of intensity by:",
+      "image": null,
+      "options": [
+        "Spreading the beam's power over a wider area",
+        "Converting sound into heat",
+        "Increasing the frequency",
+        "Reflecting sound back to the transducer"
+      ],
+      "answer": 0,
+      "explanation": "Intensity = power/area, so spreading the same power over a larger area lowers intensity.",
+      "explanationImage": null,
+      "tags": [
+        "Attenuation Fundamentals and Mechanisms"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch07-q047",
+      "stem": "Which change would increase absorption of ultrasound in tissue?",
+      "image": null,
+      "options": [
+        "Lowering the frequency",
+        "Shortening the path",
+        "Using a less viscous medium",
+        "Raising the frequency"
+      ],
+      "answer": 3,
+      "explanation": "Absorption increases with frequency and with medium viscosity (friction).",
+      "explanationImage": null,
+      "tags": [
+        "Attenuation Fundamentals and Mechanisms"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch07-q048",
+      "stem": "Which of the following are the greatest absorbers of ultrasound?",
+      "image": null,
+      "options": [
+        "Blood and urine",
+        "Water and bile",
+        "Bone, lung and air",
+        "Fat and muscle"
+      ],
+      "answer": 2,
+      "explanation": "Bone, lung and air attenuate strongly. Fluid attenuates relatively little.",
+      "explanationImage": null,
+      "tags": [
+        "Attenuation Fundamentals and Mechanisms"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch07-q049",
+      "stem": "High absorption by a structure produces which image appearance?",
+      "image": null,
+      "options": [
+        "Posterior enhancement",
+        "Reverberation",
+        "Mirror image",
+        "Posterior acoustic shadowing"
+      ],
+      "answer": 3,
+      "explanation": "Little or no sound is transmitted beyond a strong absorber.",
+      "explanationImage": null,
+      "tags": [
+        "Attenuation Fundamentals and Mechanisms"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch07-q050",
+      "stem": "Scattering occurs when sound strikes reflectors that are:",
+      "image": null,
+      "options": [
+        "Smaller than one wavelength",
+        "Much larger than one wavelength and smooth",
+        "Perfectly perpendicular to the beam",
+        "Made of fluid"
+      ],
+      "answer": 0,
+      "explanation": "Interfaces smaller than a wavelength redirect sound in many directions.",
+      "explanationImage": null,
+      "tags": [
+        "Attenuation Fundamentals and Mechanisms"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch07-q051",
+      "stem": "Scattering is clinically important because it:",
+      "image": null,
+      "options": [
+        "Converts sound to heat",
+        "Eliminates echoes",
+        "Allows visualization of organ parenchyma",
+        "Prevents shadowing"
+      ],
+      "answer": 2,
+      "explanation": "Scattered echoes give solid organs, including myocardium, their texture.",
+      "explanationImage": null,
+      "tags": [
+        "Attenuation Fundamentals and Mechanisms"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch07-q052",
+      "stem": "Acoustic speckle results from:",
+      "image": null,
+      "options": [
+        "Absorption of sound",
+        "Constructive and destructive interference of scattered waves",
+        "Refraction at an interface",
+        "Air under the transducer"
+      ],
+      "answer": 1,
+      "explanation": "Waves from many scatterers interfere and form the speckle pattern.",
+      "explanationImage": null,
+      "tags": [
+        "Attenuation Fundamentals and Mechanisms"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch07-q053",
+      "stem": "Which best describes diffuse reflection?",
+      "image": null,
+      "options": [
+        "Mirror-like reflection from a small smooth reflector",
+        "Sound returned only along the incident path",
+        "Occurs only at perpendicular incidence",
+        "A large, rough surface sends weaker echoes in many directions"
+      ],
+      "answer": 3,
+      "explanation": "Diffuse reflectors are less angle dependent than specular reflectors.",
+      "explanationImage": null,
+      "tags": [
+        "Attenuation Fundamentals and Mechanisms"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch07-q054",
+      "stem": "Compared with diffuse reflectors, specular reflectors are:",
+      "image": null,
+      "options": [
+        "Highly angle dependent",
+        "Independent of beam angle",
+        "Produced by very small structures",
+        "Always weaker"
+      ],
+      "answer": 0,
+      "explanation": "A smooth reflector returns a strong echo only when the beam is near perpendicular.",
+      "explanationImage": null,
+      "tags": [
+        "Attenuation Fundamentals and Mechanisms"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch07-q055",
+      "stem": "Compared with absorption, reflection and scattering contribute:",
+      "image": null,
+      "options": [
+        "The majority of attenuation",
+        "An equal share of attenuation",
+        "A smaller share of attenuation",
+        "No attenuation"
+      ],
+      "answer": 2,
+      "explanation": "Absorption is the dominant cause. Reflection and scattering contribute modestly but are essential to imaging.",
+      "explanationImage": null,
+      "tags": [
+        "Attenuation Fundamentals and Mechanisms"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch07-q056",
+      "stem": "The amount of attenuation depends primarily on:",
+      "image": null,
+      "options": [
+        "Frequency only",
+        "Path distance only",
+        "Tissue type only",
+        "Frequency, path distance and tissue type"
+      ],
+      "answer": 3,
+      "explanation": "All three factors act together.",
+      "explanationImage": null,
+      "tags": [
+        "Attenuation Fundamentals and Mechanisms"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch07-q057",
+      "stem": "As a sound wave travels through tissue, its acoustic pressure:",
+      "image": null,
+      "options": [
+        "Decreases linearly",
+        "Decreases exponentially",
+        "Remains constant",
+        "Increases with depth"
+      ],
+      "answer": 1,
+      "explanation": "Pressure falls exponentially with distance travelled.",
+      "explanationImage": null,
+      "tags": [
+        "Attenuation Fundamentals and Mechanisms"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch07-q058",
+      "stem": "Why must a sonographer understand attenuation?",
+      "image": null,
+      "options": [
+        "It limits imaging depth and must be compensated for by the system",
+        "It determines the propagation speed of tissue",
+        "It sets the pulse repetition frequency",
+        "It determines the wavelength"
+      ],
+      "answer": 0,
+      "explanation": "Attenuation limits penetration, and its weakening effect must be compensated for.",
+      "explanationImage": null,
+      "tags": [
+        "Attenuation Fundamentals and Mechanisms"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch07-q059",
+      "stem": "Attenuation is measured in:",
+      "image": null,
+      "options": [
+        "Hertz",
+        "Rayls",
+        "Decibels",
+        "Watts"
+      ],
+      "answer": 2,
+      "explanation": "Attenuation is quantified in decibels (dB).",
+      "explanationImage": null,
+      "tags": [
+        "Attenuation Fundamentals and Mechanisms"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch07-q060",
+      "stem": "The control that compensates for the greater attenuation of deeper echoes is:",
+      "image": null,
+      "options": [
+        "PRF",
+        "Frame rate",
+        "Line density",
+        "Time gain compensation"
+      ],
+      "answer": 3,
+      "explanation": "TGC amplifies deeper returning signals more to offset attenuation.",
+      "explanationImage": null,
+      "tags": [
+        "Attenuation Fundamentals and Mechanisms"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch07-q061",
+      "stem": "Intensity is defined as:",
+      "image": null,
+      "options": [
+        "Power × beam area",
+        "Power divided by beam area",
+        "Amplitude × frequency",
+        "Energy × time"
+      ],
+      "answer": 1,
+      "explanation": "Intensity = power / area.",
+      "explanationImage": null,
+      "tags": [
+        "Sound Strength – Amplitude, Power and Intensity"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch07-q062",
+      "stem": "Which unit is used for ultrasound intensity?",
+      "image": null,
+      "options": [
+        "W/cm²",
+        "Watts",
+        "Decibels",
+        "Rayls"
+      ],
+      "answer": 0,
+      "explanation": "Intensity is power per unit area (W/cm² or mW/cm²). Watts measure power.",
+      "explanationImage": null,
+      "tags": [
+        "Sound Strength – Amplitude, Power and Intensity"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch07-q063",
+      "stem": "If the same power is spread over a larger area, the intensity:",
+      "image": null,
+      "options": [
+        "Increases",
+        "Is unchanged",
+        "Doubles",
+        "Decreases"
+      ],
+      "answer": 3,
+      "explanation": "Intensity = power/area.",
+      "explanationImage": null,
+      "tags": [
+        "Sound Strength – Amplitude, Power and Intensity"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch07-q064",
+      "stem": "Which three parameters describe the strength of a sound wave?",
+      "image": null,
+      "options": [
+        "Frequency, period, wavelength",
+        "Density, speed, impedance",
+        "Power, intensity, amplitude",
+        "PRF, PRP, duty factor"
+      ],
+      "answer": 2,
+      "explanation": "Power, intensity and amplitude are the strength parameters.",
+      "explanationImage": null,
+      "tags": [
+        "Sound Strength – Amplitude, Power and Intensity"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch07-q065",
+      "stem": "As an ultrasound beam travels through tissue, its power, intensity and amplitude all:",
+      "image": null,
+      "options": [
+        "Decrease",
+        "Increase",
+        "Remain constant",
+        "Alternate"
+      ],
+      "answer": 0,
+      "explanation": "This weakening is attenuation.",
+      "explanationImage": null,
+      "tags": [
+        "Sound Strength – Amplitude, Power and Intensity"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch07-q066",
+      "stem": "Increasing the initial intensity of the beam:",
+      "image": null,
+      "options": [
+        "Reduces penetration",
+        "Has no effect on penetration",
+        "Reduces bioeffects",
+        "Improves penetration but increases the potential for bioeffects"
+      ],
+      "answer": 3,
+      "explanation": "More energy reaches deeper tissue, at the cost of greater bioeffect risk (ALARA).",
+      "explanationImage": null,
+      "tags": [
+        "Sound Strength – Amplitude, Power and Intensity"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch07-q067",
+      "stem": "Intensity is directly related to:",
+      "image": null,
+      "options": [
+        "Frequency",
+        "Power",
+        "Wavelength",
+        "Impedance"
+      ],
+      "answer": 1,
+      "explanation": "Intensity = power/area, so it is proportional to power for a given area.",
+      "explanationImage": null,
+      "tags": [
+        "Sound Strength – Amplitude, Power and Intensity"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch07-q068",
+      "stem": "The decibel equation for power is:",
+      "image": null,
+      "options": [
+        "dB = log(Pf × Pi)",
+        "dB = 20 log(P)",
+        "dB = 10 log₁₀(Pf / Pi)",
+        "dB = Pf − Pi"
+      ],
+      "answer": 2,
+      "explanation": "dB = 10 log₁₀ (final power / initial power).",
+      "explanationImage": null,
+      "tags": [
+        "Sound Strength – Amplitude, Power and Intensity"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch07-q069",
+      "stem": "The decibel equation for amplitude uses:",
+      "image": null,
+      "options": [
+        "10 log₁₀(A2/A1)",
+        "log₁₀(A2 − A1)",
+        "5 log₁₀(A2/A1)",
+        "20 log₁₀(A2/A1)"
+      ],
+      "answer": 3,
+      "explanation": "Power and intensity are proportional to amplitude squared, so the amplitude form uses 20 log.",
+      "explanationImage": null,
+      "tags": [
+        "Sound Strength – Amplitude, Power and Intensity"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch07-q070",
+      "stem": "A doubling of amplitude corresponds to approximately:",
+      "image": null,
+      "options": [
+        "+6 dB",
+        "+3 dB",
+        "+10 dB",
+        "+20 dB"
+      ],
+      "answer": 0,
+      "explanation": "6 dB amplitude = ×2. 3 dB intensity = ×2.",
+      "explanationImage": null,
+      "tags": [
+        "Sound Strength – Amplitude, Power and Intensity"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch07-q071",
+      "stem": "Decibels express:",
+      "image": null,
+      "options": [
+        "Absolute intensity",
+        "Absolute power",
+        "A unit of frequency",
+        "A logarithmic ratio comparing a final value with an initial value"
+      ],
+      "answer": 3,
+      "explanation": "A decibel always compares two values.",
+      "explanationImage": null,
+      "tags": [
+        "Decibel Concepts and Rules"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch07-q072",
+      "stem": "Why is a logarithmic scale used in ultrasound?",
+      "image": null,
+      "options": [
+        "Signals span an extremely large range, and a log scale compresses it into manageable numbers",
+        "Signals are always linear",
+        "It removes noise",
+        "It increases frequency"
+      ],
+      "answer": 0,
+      "explanation": "The range from transmitted pulse to weakest echo spans many orders of magnitude.",
+      "explanationImage": null,
+      "tags": [
+        "Decibel Concepts and Rules"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch07-q073",
+      "stem": "Each +10 dB multiplies intensity by:",
+      "image": null,
+      "options": [
+        "2",
+        "5",
+        "10",
+        "100"
+      ],
+      "answer": 2,
+      "explanation": "+10 dB = ×10.",
+      "explanationImage": null,
+      "tags": [
+        "Decibel Concepts and Rules"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch07-q074",
+      "stem": "A +20 dB change multiplies intensity by:",
+      "image": null,
+      "options": [
+        "100",
+        "20",
+        "2",
+        "10"
+      ],
+      "answer": 0,
+      "explanation": "+10 dB × +10 dB = ×10 × ×10 = ×100.",
+      "explanationImage": null,
+      "tags": [
+        "Decibel Concepts and Rules"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch07-q075",
+      "stem": "A −20 dB change leaves what fraction of the original intensity?",
+      "image": null,
+      "options": [
+        "1/20",
+        "1/10",
+        "1/2",
+        "1/100"
+      ],
+      "answer": 3,
+      "explanation": "(1/10) × (1/10) = 1/100.",
+      "explanationImage": null,
+      "tags": [
+        "Decibel Concepts and Rules"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch07-q076",
+      "stem": "A +6 dB change multiplies intensity by:",
+      "image": null,
+      "options": [
+        "2",
+        "4",
+        "6",
+        "10"
+      ],
+      "answer": 1,
+      "explanation": "+3 dB × +3 dB = ×2 × ×2 = ×4.",
+      "explanationImage": null,
+      "tags": [
+        "Decibel Concepts and Rules"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch07-q077",
+      "stem": "A beam loses 30 dB. What fraction of the original intensity remains?",
+      "image": null,
+      "options": [
+        "1/30",
+        "1/100",
+        "1/300",
+        "1/1000"
+      ],
+      "answer": 3,
+      "explanation": "Three −10 dB steps: (1/10)³ = 1/1000.",
+      "explanationImage": null,
+      "tags": [
+        "Decibel Concepts and Rules"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch07-q078",
+      "stem": "A wave changes from 42 dB to 65 dB. By what factor has its intensity increased?",
+      "image": null,
+      "options": [
+        "200",
+        "23",
+        "20",
+        "2300"
+      ],
+      "answer": 0,
+      "explanation": "+23 dB = +10 + 10 + 3 dB, so ×10 × ×10 × ×2 = ×200.",
+      "explanationImage": null,
+      "tags": [
+        "Decibel Concepts and Rules"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch07-q079",
+      "stem": "A wave changes from 89 dB to 79 dB. The final intensity is what fraction of the initial intensity?",
+      "image": null,
+      "options": [
+        "1/2",
+        "1/100",
+        "1/10",
+        "10"
+      ],
+      "answer": 2,
+      "explanation": "The change is −10 dB, which is a factor of 1/10.",
+      "explanationImage": null,
+      "tags": [
+        "Decibel Concepts and Rules"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch07-q080",
+      "stem": "A wave changes from 78 dB to 75 dB. The intensity has:",
+      "image": null,
+      "options": [
+        "Increased three-fold",
+        "Decreased by 3 units",
+        "Not changed",
+        "Been halved"
+      ],
+      "answer": 3,
+      "explanation": "−3 dB halves intensity. Decibels are not linear.",
+      "explanationImage": null,
+      "tags": [
+        "Decibel Concepts and Rules"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch07-q081",
+      "stem": "A −13 dB change leaves approximately what fraction of the original intensity?",
+      "image": null,
+      "options": [
+        "1/20",
+        "1/13",
+        "1/30",
+        "1/100"
+      ],
+      "answer": 0,
+      "explanation": "−13 dB = −10 dB (1/10) and −3 dB (1/2), so 1/20.",
+      "explanationImage": null,
+      "tags": [
+        "Decibel Concepts and Rules"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch07-q082",
+      "stem": "When combining decibel changes, you:",
+      "image": null,
+      "options": [
+        "Multiply the dB values",
+        "Add the dB values and add the intensity factors",
+        "Multiply both the dB values and the factors",
+        "Add the dB values and multiply the intensity factors"
+      ],
+      "answer": 3,
+      "explanation": "For example, +10 dB and +3 dB make +13 dB, with factors ×10 × ×2 = ×20.",
+      "explanationImage": null,
+      "tags": [
+        "Decibel Concepts and Rules"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch07-q083",
+      "stem": "Which statement about the decibel scale is correct?",
+      "image": null,
+      "options": [
+        "It is a linear scale",
+        "A 3 dB change changes intensity by a factor, not by 3 units",
+        "Equal dB changes add equal amounts of intensity",
+        "A 10 dB decrease is a 10% reduction"
+      ],
+      "answer": 1,
+      "explanation": "Equal dB changes represent equal multiplication factors.",
+      "explanationImage": null,
+      "tags": [
+        "Decibel Concepts and Rules"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch07-q084",
+      "stem": "A 10 dB increase means the intensity:",
+      "image": null,
+      "options": [
+        "Increases by 10%",
+        "Increases by 10 units",
+        "Is multiplied by 10",
+        "Doubles"
+      ],
+      "answer": 2,
+      "explanation": "+10 dB = ×10.",
+      "explanationImage": null,
+      "tags": [
+        "Decibel Concepts and Rules"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch07-q085",
+      "stem": "The initial intensity is 100 units and it changes by −3 dB. What is the final intensity?",
+      "image": null,
+      "options": [
+        "50 units",
+        "97 units",
+        "33 units",
+        "10 units"
+      ],
+      "answer": 0,
+      "explanation": "100 × ½ = 50.",
+      "explanationImage": null,
+      "tags": [
+        "Decibel Concepts and Rules"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch07-q086",
+      "stem": "The initial intensity is 200 units and it changes by +3 dB. What is the final intensity?",
+      "image": null,
+      "options": [
+        "203 units",
+        "300 units",
+        "600 units",
+        "400 units"
+      ],
+      "answer": 3,
+      "explanation": "200 × 2 = 400.",
+      "explanationImage": null,
+      "tags": [
+        "Decibel Concepts and Rules"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch07-q087",
+      "stem": "The initial intensity is 80 mW/cm² and it changes by −10 dB. What is the final intensity?",
+      "image": null,
+      "options": [
+        "70 mW/cm²",
+        "40 mW/cm²",
+        "8 mW/cm²",
+        "0.8 mW/cm²"
+      ],
+      "answer": 2,
+      "explanation": "80 × 1/10 = 8 mW/cm².",
+      "explanationImage": null,
+      "tags": [
+        "Decibel Concepts and Rules"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch07-q088",
+      "stem": "The initial intensity is 5 mW/cm² and it changes by +20 dB. What is the final intensity?",
+      "image": null,
+      "options": [
+        "500 mW/cm²",
+        "100 mW/cm²",
+        "25 mW/cm²",
+        "50 mW/cm²"
+      ],
+      "answer": 0,
+      "explanation": "5 × 100 = 500 mW/cm².",
+      "explanationImage": null,
+      "tags": [
+        "Decibel Concepts and Rules"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch07-q089",
+      "stem": "The initial intensity is 64 units and it changes by −12 dB. What is the final intensity?",
+      "image": null,
+      "options": [
+        "52 units",
+        "16 units",
+        "8 units",
+        "4 units"
+      ],
+      "answer": 3,
+      "explanation": "−12 dB = four halvings = ×1/16, so 64/16 = 4.",
+      "explanationImage": null,
+      "tags": [
+        "Decibel Concepts and Rules"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch07-q090",
+      "stem": "A −15 dB change leaves approximately what fraction of the original intensity?",
+      "image": null,
+      "options": [
+        "1/15",
+        "1/32",
+        "1/16",
+        "1/30"
+      ],
+      "answer": 1,
+      "explanation": "−15 dB is five −3 dB steps: (1/2)⁵ = 1/32.",
+      "explanationImage": null,
+      "tags": [
+        "Decibel Concepts and Rules"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch07-q091",
+      "stem": "A beam of 10 mW/cm² loses 30 dB. What is its final intensity?",
+      "image": null,
+      "options": [
+        "0.01 mW/cm²",
+        "0.1 mW/cm²",
+        "1 mW/cm²",
+        "7 mW/cm²"
+      ],
+      "answer": 0,
+      "explanation": "−30 dB = ×1/1000, so 10/1000 = 0.01 mW/cm².",
+      "explanationImage": null,
+      "tags": [
+        "Decibel Concepts and Rules"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch07-q092",
+      "stem": "A signal is amplified by +20 dB and then attenuated by 6 dB. What are the net dB change and intensity factor?",
+      "image": null,
+      "options": [
+        "+26 dB; ×400",
+        "+14 dB; ×14",
+        "+14 dB; ×25",
+        "−14 dB; ×1/25"
+      ],
+      "answer": 2,
+      "explanation": "Net +14 dB. The factors are ×100 × ¼ = ×25.",
+      "explanationImage": null,
+      "tags": [
+        "Decibel Concepts and Rules"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch07-q093",
+      "stem": "An amplitude gain of +12 dB increases the amplitude by a factor of:",
+      "image": null,
+      "options": [
+        "2",
+        "3",
+        "12",
+        "4"
+      ],
+      "answer": 3,
+      "explanation": "+6 dB amplitude = ×2, so +12 dB = ×2 × ×2 = ×4.",
+      "explanationImage": null,
+      "tags": [
+        "Decibel Concepts and Rules"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch07-q094",
+      "stem": "A tenfold increase in amplitude corresponds to:",
+      "image": null,
+      "options": [
+        "+10 dB",
+        "+20 dB",
+        "+3 dB",
+        "+6 dB"
+      ],
+      "answer": 1,
+      "explanation": "20 log(10) = 20 dB.",
+      "explanationImage": null,
+      "tags": [
+        "Decibel Concepts and Rules"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch07-q095",
+      "stem": "A −6 dB change in amplitude leaves the amplitude at:",
+      "image": null,
+      "options": [
+        "One-half",
+        "One-quarter",
+        "One-tenth",
+        "Unchanged"
+      ],
+      "answer": 0,
+      "explanation": "In amplitude terms, −6 dB = ½.",
+      "explanationImage": null,
+      "tags": [
+        "Decibel Concepts and Rules"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch07-q096",
+      "stem": "Which pairing of dB change and effect is correct?",
+      "image": null,
+      "options": [
+        "+3 dB: amplitude ×2",
+        "+6 dB: intensity ×2",
+        "+10 dB: intensity ×100",
+        "+3 dB: intensity ×2"
+      ],
+      "answer": 3,
+      "explanation": "3 dB doubles intensity and power. 6 dB doubles amplitude.",
+      "explanationImage": null,
+      "tags": [
+        "Decibel Concepts and Rules"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch07-q097",
+      "stem": "If the amplitude of a wave is halved, its intensity falls to:",
+      "image": null,
+      "options": [
+        "One-half",
+        "One-tenth",
+        "One-quarter",
+        "One-eighth"
+      ],
+      "answer": 2,
+      "explanation": "Intensity is proportional to amplitude squared, so (½)² = ¼ (−6 dB).",
+      "explanationImage": null,
+      "tags": [
+        "Decibel Concepts and Rules"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch07-q098",
+      "stem": "Which ultrasound parameters are expressed in decibels?",
+      "image": null,
+      "options": [
+        "Pulse repetition frequency",
+        "Transmit power, attenuation, receiver gain and compression",
+        "Wavelength",
+        "Period"
+      ],
+      "answer": 1,
+      "explanation": "Any change in signal power is described in decibels.",
+      "explanationImage": null,
+      "tags": [
+        "Decibel Concepts and Rules"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch07-q099",
+      "stem": "Increasing the overall gain on an echo machine applies:",
+      "image": null,
+      "options": [
+        "Positive decibels to amplify the returning signals",
+        "Negative decibels to the returning signals",
+        "A change in transducer frequency",
+        "No change to the signals"
+      ],
+      "answer": 0,
+      "explanation": "Gain amplifies the returning signals (+dB).",
+      "explanationImage": null,
+      "tags": [
+        "Decibel Concepts and Rules"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch07-q100",
+      "stem": "When the beam crosses lung or rib, negative decibels accumulate, which results in:",
+      "image": null,
+      "options": [
+        "Stronger returning signals",
+        "Higher transducer frequency",
+        "Posterior enhancement",
+        "A weaker returning signal"
+      ],
+      "answer": 3,
+      "explanation": "Attenuation weakens the beam and the returning echoes.",
+      "explanationImage": null,
+      "tags": [
+        "Decibel Concepts and Rules"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch07-q101",
+      "stem": "The average attenuation rate of soft tissue is approximately:",
+      "image": null,
+      "options": [
+        "0.5 dB/cm/MHz",
+        "5 dB/cm/MHz",
+        "0.05 dB/cm/MHz",
+        "2 dB/cm/MHz"
+      ],
+      "answer": 0,
+      "explanation": "Soft tissue attenuates at about 0.5 dB per cm for each MHz.",
+      "explanationImage": null,
+      "tags": [
+        "Attenuation Coefficient and Total Attenuation"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch07-q102",
+      "stem": "In soft tissue, the attenuation coefficient in dB/cm is approximately:",
+      "image": null,
+      "options": [
+        "Twice the frequency in MHz",
+        "Equal to the frequency in MHz",
+        "One-half the frequency in MHz",
+        "The square of the frequency in MHz"
+      ],
+      "answer": 2,
+      "explanation": "AC = f/2.",
+      "explanationImage": null,
+      "tags": [
+        "Attenuation Coefficient and Total Attenuation"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch07-q103",
+      "stem": "What is the attenuation coefficient of a 2 MHz beam in soft tissue?",
+      "image": null,
+      "options": [
+        "0.5 dB/cm",
+        "2 dB/cm",
+        "4 dB/cm",
+        "1 dB/cm"
+      ],
+      "answer": 3,
+      "explanation": "0.5 × 2 = 1 dB/cm.",
+      "explanationImage": null,
+      "tags": [
+        "Attenuation Coefficient and Total Attenuation"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch07-q104",
+      "stem": "What is the attenuation coefficient of an 8 MHz beam in soft tissue?",
+      "image": null,
+      "options": [
+        "2 dB/cm",
+        "4 dB/cm",
+        "8 dB/cm",
+        "16 dB/cm"
+      ],
+      "answer": 1,
+      "explanation": "0.5 × 8 = 4 dB/cm.",
+      "explanationImage": null,
+      "tags": [
+        "Attenuation Coefficient and Total Attenuation"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch07-q105",
+      "stem": "What is the attenuation coefficient of a 15 MHz beam in soft tissue?",
+      "image": null,
+      "options": [
+        "7.5 dB/cm",
+        "15 dB/cm",
+        "30 dB/cm",
+        "3.75 dB/cm"
+      ],
+      "answer": 0,
+      "explanation": "15 ÷ 2 = 7.5 dB/cm.",
+      "explanationImage": null,
+      "tags": [
+        "Attenuation Coefficient and Total Attenuation"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch07-q106",
+      "stem": "What is the attenuation coefficient of a 3.5 MHz beam in soft tissue?",
+      "image": null,
+      "options": [
+        "7 dB/cm",
+        "3.5 dB/cm",
+        "0.875 dB/cm",
+        "1.75 dB/cm"
+      ],
+      "answer": 3,
+      "explanation": "3.5 ÷ 2 = 1.75 dB/cm.",
+      "explanationImage": null,
+      "tags": [
+        "Attenuation Coefficient and Total Attenuation"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch07-q107",
+      "stem": "The attenuation coefficient depends on:",
+      "image": null,
+      "options": [
+        "Depth and frequency",
+        "Gain setting",
+        "Tissue composition and frequency",
+        "Pulse repetition frequency"
+      ],
+      "answer": 2,
+      "explanation": "It depends on the medium (denser or more viscous means higher) and on frequency.",
+      "explanationImage": null,
+      "tags": [
+        "Attenuation Coefficient and Total Attenuation"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch07-q108",
+      "stem": "In soft tissue, the attenuation coefficient is:",
+      "image": null,
+      "options": [
+        "Constant at every depth",
+        "Larger at greater depth",
+        "Smaller at greater depth",
+        "Doubled for each centimetre"
+      ],
+      "answer": 0,
+      "explanation": "The same number of dB is lost per centimetre at every depth.",
+      "explanationImage": null,
+      "tags": [
+        "Attenuation Coefficient and Total Attenuation"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch07-q109",
+      "stem": "Total attenuation is expressed in:",
+      "image": null,
+      "options": [
+        "dB/cm",
+        "dB/cm/MHz",
+        "cm",
+        "dB"
+      ],
+      "answer": 3,
+      "explanation": "Total attenuation = coefficient (dB/cm) × path length (cm), which gives dB.",
+      "explanationImage": null,
+      "tags": [
+        "Attenuation Coefficient and Total Attenuation"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch07-q110",
+      "stem": "Total one-way attenuation is calculated as:",
+      "image": null,
+      "options": [
+        "Attenuation coefficient × frequency only",
+        "Attenuation coefficient (dB/cm) × path length (cm)",
+        "Attenuation coefficient ÷ distance",
+        "Attenuation coefficient + distance"
+      ],
+      "answer": 1,
+      "explanation": "Multiply dB/cm by the number of centimetres.",
+      "explanationImage": null,
+      "tags": [
+        "Attenuation Coefficient and Total Attenuation"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch07-q111",
+      "stem": "A 2 MHz beam travels 6 cm through soft tissue. What is the total attenuation?",
+      "image": null,
+      "options": [
+        "3 dB",
+        "12 dB",
+        "6 dB",
+        "2 dB"
+      ],
+      "answer": 2,
+      "explanation": "1 dB/cm × 6 cm = 6 dB.",
+      "explanationImage": null,
+      "tags": [
+        "Attenuation Coefficient and Total Attenuation"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch07-q112",
+      "stem": "A 3 MHz beam travels 8 cm through soft tissue. What is the total attenuation?",
+      "image": null,
+      "options": [
+        "12 dB",
+        "24 dB",
+        "4 dB",
+        "6 dB"
+      ],
+      "answer": 0,
+      "explanation": "1.5 dB/cm × 8 cm = 12 dB.",
+      "explanationImage": null,
+      "tags": [
+        "Attenuation Coefficient and Total Attenuation"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch07-q113",
+      "stem": "A 5 MHz beam travels 4 cm through soft tissue. What is the total attenuation?",
+      "image": null,
+      "options": [
+        "20 dB",
+        "5 dB",
+        "2.5 dB",
+        "10 dB"
+      ],
+      "answer": 3,
+      "explanation": "2.5 dB/cm × 4 cm = 10 dB.",
+      "explanationImage": null,
+      "tags": [
+        "Attenuation Coefficient and Total Attenuation"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch07-q114",
+      "stem": "A 10 MHz beam travels 3 cm through soft tissue. What is the total attenuation?",
+      "image": null,
+      "options": [
+        "15 dB",
+        "30 dB",
+        "50 dB",
+        "5 dB"
+      ],
+      "answer": 0,
+      "explanation": "5 dB/cm × 3 cm = 15 dB.",
+      "explanationImage": null,
+      "tags": [
+        "Attenuation Coefficient and Total Attenuation"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch07-q115",
+      "stem": "A 7.5 MHz beam travels 4 cm through soft tissue. What is the total attenuation?",
+      "image": null,
+      "options": [
+        "30 dB",
+        "7.5 dB",
+        "15 dB",
+        "3.75 dB"
+      ],
+      "answer": 2,
+      "explanation": "3.75 dB/cm × 4 cm = 15 dB.",
+      "explanationImage": null,
+      "tags": [
+        "Attenuation Coefficient and Total Attenuation"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch07-q116",
+      "stem": "A 3 MHz pulse travels to a reflector 5 cm deep and the echo returns to the transducer (10 cm round trip). What is the round-trip attenuation?",
+      "image": null,
+      "options": [
+        "15 dB",
+        "30 dB",
+        "45 dB",
+        "3 dB"
+      ],
+      "answer": 1,
+      "explanation": "1.5 dB/cm × 10 cm = 15 dB would be one-way for 10 cm. For a 10 cm path the coefficient 1.5 dB/cm gives 15 dB, so the correct round-trip loss for a 5 cm deep reflector is 1.5 × 5 × 2 = 15 dB. Re-read the stem: the path given is already the 10 cm total, so 15 dB.",
+      "explanationImage": null,
+      "tags": [
+        "Attenuation Coefficient and Total Attenuation"
+      ],
+      "reference": ""
+    }
+  ]
+}

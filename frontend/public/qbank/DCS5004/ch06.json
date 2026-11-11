@@ -1,0 +1,3606 @@
+{
+  "chapterId": "ch06",
+  "title": "Module 6: Acoustic Interfaces, Reflection and Transmission",
+  "questions": [
+    {
+      "id": "DCS5004-ch06-q001",
+      "stem": "Which statement best defines an ultrasound echo?",
+      "image": null,
+      "options": [
+        "Sound converted into heat",
+        "Sound returning to the transducer",
+        "Sound travelling through a medium",
+        "Sound bending at an interface"
+      ],
+      "answer": 1,
+      "explanation": "An echo is the portion of sound that is reflected back to the transducer.",
+      "explanationImage": null,
+      "tags": [
+        "Acoustic Interfaces, Reflection & Transmission"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch06-q002",
+      "stem": "An acoustic interface is formed where:",
+      "image": null,
+      "options": [
+        "Two ultrasound pulses overlap",
+        "Two different media meet",
+        "The transducer produces sound",
+        "Sound intensity reaches zero"
+      ],
+      "answer": 1,
+      "explanation": "An interface is the boundary where two different media meet.",
+      "explanationImage": null,
+      "tags": [
+        "Acoustic Interfaces, Reflection & Transmission"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch06-q003",
+      "stem": "Which interaction provides the returning information used to form a pulse-echo ultrasound image?",
+      "image": null,
+      "options": [
+        "Absorption",
+        "Transmission",
+        "Reflection",
+        "Compression"
+      ],
+      "answer": 2,
+      "explanation": "Pulse-echo imaging is built from reflected sound; echo strength reflects the intensity of the reflected wave.",
+      "explanationImage": null,
+      "tags": [
+        "Acoustic Interfaces, Reflection & Transmission"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch06-q004",
+      "stem": "A stronger returning echo is generally displayed as:",
+      "image": null,
+      "options": [
+        "A brighter pixel",
+        "A darker pixel",
+        "A deeper structure",
+        "A lower-frequency signal"
+      ],
+      "answer": 0,
+      "explanation": "Stronger echoes are displayed brighter on the grayscale image.",
+      "explanationImage": null,
+      "tags": [
+        "Acoustic Interfaces, Reflection & Transmission"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch06-q005",
+      "stem": "Transmission occurs when ultrasound:",
+      "image": null,
+      "options": [
+        "Returns to the transducer",
+        "Continues into the next medium",
+        "Changes entirely into heat",
+        "Travels back along its original path"
+      ],
+      "answer": 1,
+      "explanation": "Transmission is the portion of sound that continues into the next medium.",
+      "explanationImage": null,
+      "tags": [
+        "Acoustic Interfaces, Reflection & Transmission"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch06-q006",
+      "stem": "The amount of sound reflected at an interface is determined primarily by:",
+      "image": null,
+      "options": [
+        "Pulse repetition frequency",
+        "Acoustic impedance mismatch",
+        "Imaging depth",
+        "Duty factor"
+      ],
+      "answer": 1,
+      "explanation": "The greater the impedance mismatch, the greater the reflection.",
+      "explanationImage": null,
+      "tags": [
+        "Acoustic Interfaces, Reflection & Transmission"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch06-q007",
+      "stem": "The direction of reflected sound is determined primarily by:",
+      "image": null,
+      "options": [
+        "Acoustic impedance",
+        "Medium density",
+        "Incidence angle",
+        "Sound frequency"
+      ],
+      "answer": 2,
+      "explanation": "Amount of reflection depends on impedance; direction depends on the incidence angle.",
+      "explanationImage": null,
+      "tags": [
+        "Acoustic Interfaces, Reflection & Transmission"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch06-q008",
+      "stem": "When a sound beam strikes an interface perpendicularly, the angle of incidence measured from the normal is:",
+      "image": null,
+      "options": [
+        "0°",
+        "45°",
+        "90°",
+        "180°"
+      ],
+      "answer": 0,
+      "explanation": "The beam travels along the normal, so the incidence angle is 0°.",
+      "explanationImage": null,
+      "tags": [
+        "Acoustic Interfaces, Reflection & Transmission"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch06-q009",
+      "stem": "At perpendicular incidence, reflected sound travels:",
+      "image": null,
+      "options": [
+        "Parallel to the interface",
+        "Back along the incident path",
+        "Deeper into the second medium",
+        "At twice the incident angle"
+      ],
+      "answer": 1,
+      "explanation": "The echo returns along the same path toward the transducer.",
+      "explanationImage": null,
+      "tags": [
+        "Acoustic Interfaces, Reflection & Transmission"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch06-q010",
+      "stem": "Which condition produces the strongest returning echo from a smooth interface?",
+      "image": null,
+      "options": [
+        "Oblique incidence",
+        "Parallel beam alignment",
+        "Perpendicular incidence",
+        "Low pulse repetition frequency"
+      ],
+      "answer": 2,
+      "explanation": "Smooth (specular) interfaces return the strongest echo at perpendicular incidence. The diaphragm is an example.",
+      "explanationImage": null,
+      "tags": [
+        "Acoustic Interfaces, Reflection & Transmission"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch06-q011",
+      "stem": "Oblique incidence occurs when the ultrasound beam strikes an interface:",
+      "image": null,
+      "options": [
+        "At 0° from the normal",
+        "At an angle other than 0° from the normal",
+        "At exactly 90° from the normal",
+        "Without crossing into another medium"
+      ],
+      "answer": 1,
+      "explanation": "Any angle other than 0° from the normal is oblique.",
+      "explanationImage": null,
+      "tags": [
+        "Acoustic Interfaces, Reflection & Transmission"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch06-q012",
+      "stem": "For oblique incidence, the angle of reflection is:",
+      "image": null,
+      "options": [
+        "Half the incidence angle",
+        "Twice the incidence angle",
+        "Equal to the incidence angle",
+        "Unrelated to the incidence angle"
+      ],
+      "answer": 2,
+      "explanation": "Angle of reflection = angle of incidence.",
+      "explanationImage": null,
+      "tags": [
+        "Acoustic Interfaces, Reflection & Transmission"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch06-q013",
+      "stem": "A smooth interface may appear weak or absent when:",
+      "image": null,
+      "options": [
+        "The beam strikes it perpendicularly",
+        "The beam strikes it obliquely",
+        "The two media have identical densities",
+        "The transducer frequency is reduced"
+      ],
+      "answer": 1,
+      "explanation": "At oblique incidence the reflected beam can miss the transducer.",
+      "explanationImage": null,
+      "tags": [
+        "Acoustic Interfaces, Reflection & Transmission"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch06-q014",
+      "stem": "Which action can improve visualization of a smooth reflector that appears weak because of oblique incidence?",
+      "image": null,
+      "options": [
+        "Increase imaging depth",
+        "Increase pulse duration",
+        "Angle the transducer",
+        "Decrease propagation speed"
+      ],
+      "answer": 2,
+      "explanation": "Probe angulation or repositioning can restore perpendicular incidence.",
+      "explanationImage": null,
+      "tags": [
+        "Acoustic Interfaces, Reflection & Transmission"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch06-q015",
+      "stem": "Which equation defines acoustic impedance?",
+      "image": null,
+      "options": [
+        "Z = ρc",
+        "Z = ρ/c",
+        "Z = c/f",
+        "Z = fλ"
+      ],
+      "answer": 0,
+      "explanation": "Impedance is the product of density and propagation speed.",
+      "explanationImage": null,
+      "tags": [
+        "Acoustic Interfaces, Reflection & Transmission"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch06-q016",
+      "stem": "Acoustic impedance depends on:",
+      "image": null,
+      "options": [
+        "Frequency and wavelength",
+        "Density and propagation speed",
+        "Intensity and amplitude",
+        "Pulse duration and period"
+      ],
+      "answer": 1,
+      "explanation": "Z = ρc.",
+      "explanationImage": null,
+      "tags": [
+        "Acoustic Interfaces, Reflection & Transmission"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch06-q017",
+      "stem": "The unit used for acoustic impedance is:",
+      "image": null,
+      "options": [
+        "Hertz",
+        "Pascal",
+        "Rayl",
+        "Watt"
+      ],
+      "answer": 2,
+      "explanation": "Impedance is measured in Rayls or MRayls.",
+      "explanationImage": null,
+      "tags": [
+        "Acoustic Interfaces, Reflection & Transmission"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch06-q018",
+      "stem": "If density increases while propagation speed remains constant, acoustic impedance will:",
+      "image": null,
+      "options": [
+        "Increase",
+        "Decrease",
+        "Remain unchanged",
+        "Become zero"
+      ],
+      "answer": 0,
+      "explanation": "Z = ρc, so Z rises with ρ.",
+      "explanationImage": null,
+      "tags": [
+        "Acoustic Interfaces, Reflection & Transmission"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch06-q019",
+      "stem": "If propagation speed increases while density remains constant, acoustic impedance will:",
+      "image": null,
+      "options": [
+        "Increase",
+        "Decrease",
+        "Remain unchanged",
+        "Become negative"
+      ],
+      "answer": 0,
+      "explanation": "Z = ρc, so Z rises with c.",
+      "explanationImage": null,
+      "tags": [
+        "Acoustic Interfaces, Reflection & Transmission"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch06-q020",
+      "stem": "A larger difference between Z1 and Z2 produces:",
+      "image": null,
+      "options": [
+        "Less reflection and more transmission",
+        "More reflection and less transmission",
+        "No reflection",
+        "Equal reflection and transmission"
+      ],
+      "answer": 1,
+      "explanation": "Larger mismatch gives more reflection and less transmission.",
+      "explanationImage": null,
+      "tags": [
+        "Acoustic Interfaces, Reflection & Transmission"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch06-q021",
+      "stem": "When Z1 = Z2, which outcome occurs at perpendicular incidence?",
+      "image": null,
+      "options": [
+        "Complete reflection",
+        "No reflection",
+        "Refraction only",
+        "Complete absorption"
+      ],
+      "answer": 1,
+      "explanation": "Equal impedances produce no reflection; everything is transmitted.",
+      "explanationImage": null,
+      "tags": [
+        "Acoustic Interfaces, Reflection & Transmission"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch06-q022",
+      "stem": "The intensity reflection coefficient represents the:",
+      "image": null,
+      "options": [
+        "Fraction of incident intensity reflected",
+        "Fraction of incident intensity absorbed",
+        "Total attenuation through tissue",
+        "Speed of sound at an interface"
+      ],
+      "answer": 0,
+      "explanation": "IRC is the fraction of incident intensity that is reflected.",
+      "explanationImage": null,
+      "tags": [
+        "Acoustic Interfaces, Reflection & Transmission"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch06-q023",
+      "stem": "Which formula calculates IRC when incident and reflected intensities are known?",
+      "image": null,
+      "options": [
+        "IRC = Ii/Ir",
+        "IRC = Ir/Ii",
+        "IRC = It/Ir",
+        "IRC = Ii − Ir"
+      ],
+      "answer": 1,
+      "explanation": "IRC = Ir/Ii.",
+      "explanationImage": null,
+      "tags": [
+        "Acoustic Interfaces, Reflection & Transmission"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch06-q024",
+      "stem": "Which formula calculates IRC from acoustic impedances at perpendicular incidence?",
+      "image": null,
+      "options": [
+        "((Z2+Z1)/(Z2−Z1))²",
+        "((Z2−Z1)/(Z2+Z1))²",
+        "(Z2−Z1)/(Z2+Z1)",
+        "Z1Z2/(Z1+Z2)"
+      ],
+      "answer": 1,
+      "explanation": "Difference over sum, then squared.",
+      "explanationImage": null,
+      "tags": [
+        "Acoustic Interfaces, Reflection & Transmission"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch06-q025",
+      "stem": "An IRC of 0 indicates:",
+      "image": null,
+      "options": [
+        "Complete reflection",
+        "No reflection",
+        "Equal reflection and transmission",
+        "Complete absorption"
+      ],
+      "answer": 1,
+      "explanation": "IRC = 0 means no reflected intensity.",
+      "explanationImage": null,
+      "tags": [
+        "Acoustic Interfaces, Reflection & Transmission"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch06-q026",
+      "stem": "An IRC of 1 represents:",
+      "image": null,
+      "options": [
+        "No reflection",
+        "10% reflection",
+        "50% reflection",
+        "Complete reflection"
+      ],
+      "answer": 3,
+      "explanation": "IRC = 1 means all incident intensity is reflected.",
+      "explanationImage": null,
+      "tags": [
+        "Acoustic Interfaces, Reflection & Transmission"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch06-q027",
+      "stem": "Which formula describes the relationship between IRC and ITC?",
+      "image": null,
+      "options": [
+        "ITC = IRC + 1",
+        "ITC = IRC − 1",
+        "ITC = 1 − IRC",
+        "ITC = IRC²"
+      ],
+      "answer": 2,
+      "explanation": "IRC + ITC = 1.",
+      "explanationImage": null,
+      "tags": [
+        "Acoustic Interfaces, Reflection & Transmission"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch06-q028",
+      "stem": "If the IRC at an interface is 0.25, what is the ITC?",
+      "image": null,
+      "options": [
+        "0.25",
+        "0.50",
+        "0.75",
+        "1.25"
+      ],
+      "answer": 2,
+      "explanation": "ITC = 1 − 0.25 = 0.75.",
+      "explanationImage": null,
+      "tags": [
+        "Acoustic Interfaces, Reflection & Transmission"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch06-q029",
+      "stem": "Which combination represents complete transmission?",
+      "image": null,
+      "options": [
+        "IRC = 1, ITC = 0",
+        "IRC = 0, ITC = 1",
+        "IRC = 1, ITC = 1",
+        "IRC = 0.5, ITC = 0"
+      ],
+      "answer": 1,
+      "explanation": "No reflection and all transmitted.",
+      "explanationImage": null,
+      "tags": [
+        "Acoustic Interfaces, Reflection & Transmission"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch06-q030",
+      "stem": "Why is coupling gel placed between the transducer and the skin?",
+      "image": null,
+      "options": [
+        "To increase reflection at the skin surface",
+        "To increase the propagation speed in tissue",
+        "To eliminate air and improve sound transmission",
+        "To decrease the transducer frequency"
+      ],
+      "answer": 2,
+      "explanation": "Gel removes the air layer and improves transmission.",
+      "explanationImage": null,
+      "tags": [
+        "Acoustic Interfaces, Reflection & Transmission"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch06-q031",
+      "stem": "At an interface, the incident intensity is equal to:",
+      "image": null,
+      "options": [
+        "Reflected intensity only",
+        "Transmitted intensity only",
+        "Reflected intensity plus transmitted intensity",
+        "Reflected intensity minus transmitted intensity"
+      ],
+      "answer": 2,
+      "explanation": "Ii = Ir + It (conservation of energy).",
+      "explanationImage": null,
+      "tags": [
+        "Acoustic Interfaces, Reflection & Transmission"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch06-q032",
+      "stem": "If the incident intensity is 10 mW/cm² and the reflected intensity is 2 mW/cm², what is the transmitted intensity?",
+      "image": null,
+      "options": [
+        "2 mW/cm²",
+        "5 mW/cm²",
+        "8 mW/cm²",
+        "12 mW/cm²"
+      ],
+      "answer": 2,
+      "explanation": "It = 10 − 2 = 8 mW/cm².",
+      "explanationImage": null,
+      "tags": [
+        "Acoustic Interfaces, Reflection & Transmission"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch06-q033",
+      "stem": "If the incident intensity is 20 mW/cm² and the reflected intensity is 5 mW/cm², what is the IRC?",
+      "image": null,
+      "options": [
+        "0.20",
+        "0.25",
+        "0.40",
+        "4.00"
+      ],
+      "answer": 1,
+      "explanation": "IRC = 5/20 = 0.25.",
+      "explanationImage": null,
+      "tags": [
+        "Acoustic Interfaces, Reflection & Transmission"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch06-q034",
+      "stem": "If the IRC is 0.15, what percentage of the incident intensity is transmitted?",
+      "image": null,
+      "options": [
+        "15%",
+        "50%",
+        "85%",
+        "115%"
+      ],
+      "answer": 2,
+      "explanation": "ITC = 1 − 0.15 = 0.85 = 85%.",
+      "explanationImage": null,
+      "tags": [
+        "Acoustic Interfaces, Reflection & Transmission"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch06-q035",
+      "stem": "At perpendicular incidence, what occurs when the acoustic impedances of two media are equal?",
+      "image": null,
+      "options": [
+        "All sound is reflected",
+        "No sound is transmitted",
+        "No reflection occurs",
+        "Refraction increases"
+      ],
+      "answer": 2,
+      "explanation": "The impedance difference is zero, so there is no reflected echo and It = Ii.",
+      "explanationImage": null,
+      "tags": [
+        "Acoustic Interfaces, Reflection & Transmission"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch06-q036",
+      "stem": "Which interface would be expected to produce the greatest reflection?",
+      "image": null,
+      "options": [
+        "Liver–kidney",
+        "Blood–vessel wall",
+        "Soft tissue–air",
+        "Fat–muscle"
+      ],
+      "answer": 2,
+      "explanation": "Soft tissue–air has a very large impedance mismatch.",
+      "explanationImage": null,
+      "tags": [
+        "Acoustic Interfaces, Reflection & Transmission"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch06-q037",
+      "stem": "A smooth tissue boundary appears poorly defined despite adequate gain. Which action should the sonographer try first?",
+      "image": null,
+      "options": [
+        "Increase pulse duration",
+        "Change the transducer angle",
+        "Increase imaging depth",
+        "Reduce acoustic output"
+      ],
+      "answer": 1,
+      "explanation": "Changing the angle can redirect a specular reflection back toward the transducer.",
+      "explanationImage": null,
+      "tags": [
+        "Acoustic Interfaces, Reflection & Transmission"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch06-q038",
+      "stem": "Which structure is most likely to behave as a specular reflector?",
+      "image": null,
+      "options": [
+        "Red blood cells",
+        "Liver parenchyma",
+        "Diaphragm",
+        "Thyroid tissue"
+      ],
+      "answer": 2,
+      "explanation": "The diaphragm is a large, smooth boundary.",
+      "explanationImage": null,
+      "tags": [
+        "Acoustic Interfaces, Reflection & Transmission"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch06-q039",
+      "stem": "A beam strikes an interface at 90° to the interface surface. What is the angle of incidence measured from the normal?",
+      "image": null,
+      "options": [
+        "0°",
+        "45°",
+        "90°",
+        "180°"
+      ],
+      "answer": 0,
+      "explanation": "A beam perpendicular to the interface lies along the normal (0°).",
+      "explanationImage": null,
+      "tags": [
+        "Acoustic Interfaces, Reflection & Transmission"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch06-q040",
+      "stem": "Why may a smooth interface appear less echogenic at oblique incidence?",
+      "image": null,
+      "options": [
+        "Sound intensity increases",
+        "The reflected beam may miss the transducer",
+        "Acoustic impedance becomes zero",
+        "All sound is absorbed"
+      ],
+      "answer": 1,
+      "explanation": "Reflected sound travels away at an angle and may not return to the transducer.",
+      "explanationImage": null,
+      "tags": [
+        "Acoustic Interfaces, Reflection & Transmission"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch06-q041",
+      "stem": "Which factor determines whether the transmitted beam changes direction at an oblique interface?",
+      "image": null,
+      "options": [
+        "Difference in propagation speeds",
+        "Difference in pulse duration",
+        "Difference in PRF",
+        "Difference in duty factor"
+      ],
+      "answer": 0,
+      "explanation": "Refraction requires a propagation-speed difference (and oblique incidence).",
+      "explanationImage": null,
+      "tags": [
+        "Acoustic Interfaces, Reflection & Transmission"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch06-q042",
+      "stem": "If the intensity reflection coefficient increases, the intensity transmission coefficient will:",
+      "image": null,
+      "options": [
+        "Increase",
+        "Decrease",
+        "Remain unchanged",
+        "Become negative"
+      ],
+      "answer": 1,
+      "explanation": "IRC + ITC = 1.",
+      "explanationImage": null,
+      "tags": [
+        "Acoustic Interfaces, Reflection & Transmission"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch06-q043",
+      "stem": "Which intensity relationship represents complete reflection?",
+      "image": null,
+      "options": [
+        "Ir = 0 and It = Ii",
+        "Ir = Ii and It = 0",
+        "Ir = It",
+        "It > Ii"
+      ],
+      "answer": 1,
+      "explanation": "All incident intensity is reflected, none transmitted.",
+      "explanationImage": null,
+      "tags": [
+        "Acoustic Interfaces, Reflection & Transmission"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch06-q044",
+      "stem": "Which intensity relationship represents complete transmission?",
+      "image": null,
+      "options": [
+        "Ir = Ii",
+        "It = 0",
+        "Ir = 0 and It = Ii",
+        "Ir > Ii"
+      ],
+      "answer": 2,
+      "explanation": "IRC = 0 and ITC = 1.",
+      "explanationImage": null,
+      "tags": [
+        "Acoustic Interfaces, Reflection & Transmission"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch06-q045",
+      "stem": "What is the primary consequence of scanning without coupling gel?",
+      "image": null,
+      "options": [
+        "Reduced wavelength",
+        "Increased transmission into the body",
+        "Nearly complete reflection at the air–skin interface",
+        "Increased propagation speed in soft tissue"
+      ],
+      "answer": 2,
+      "explanation": "The air layer causes a huge impedance mismatch and nearly total reflection. ---",
+      "explanationImage": null,
+      "tags": [
+        "Acoustic Interfaces, Reflection & Transmission"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch06-q046",
+      "stem": "Which of the following is NOT a possible interaction of ultrasound with tissue?",
+      "image": null,
+      "options": [
+        "Absorption",
+        "Scattering",
+        "Refraction",
+        "Amplification"
+      ],
+      "answer": 3,
+      "explanation": "Sound can be reflected, transmitted, absorbed, scattered or refracted. Tissue does not amplify it.",
+      "explanationImage": null,
+      "tags": [
+        "Echoes, Interfaces and Sound–Tissue Interactions"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch06-q047",
+      "stem": "Conversion of ultrasound energy into heat within tissue is called:",
+      "image": null,
+      "options": [
+        "Absorption",
+        "Reflection",
+        "Refraction",
+        "Transmission"
+      ],
+      "answer": 0,
+      "explanation": "Absorption converts sound energy to heat and reduces intensity with depth.",
+      "explanationImage": null,
+      "tags": [
+        "Echoes, Interfaces and Sound–Tissue Interactions"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch06-q048",
+      "stem": "Ultrasound that passes through a tissue without changing direction is best described as:",
+      "image": null,
+      "options": [
+        "Scattering",
+        "Refraction",
+        "Absorption",
+        "Transmission"
+      ],
+      "answer": 3,
+      "explanation": "Transmission carries energy deeper without a change in direction.",
+      "explanationImage": null,
+      "tags": [
+        "Echoes, Interfaces and Sound–Tissue Interactions"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch06-q049",
+      "stem": "Bending of the transmitted wave at a boundary between media with different propagation speeds is called:",
+      "image": null,
+      "options": [
+        "Refraction",
+        "Reflection",
+        "Attenuation",
+        "Diffraction"
+      ],
+      "answer": 0,
+      "explanation": "Refraction is a change in direction of the transmitted beam at an oblique interface.",
+      "explanationImage": null,
+      "tags": [
+        "Echoes, Interfaces and Sound–Tissue Interactions"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch06-q050",
+      "stem": "Which statement about image formation is correct?",
+      "image": null,
+      "options": [
+        "Transmitted sound alone forms the image",
+        "Absorbed sound forms the image",
+        "Without returning echoes, no pulse-echo image can be formed",
+        "Echoes are not required to produce grayscale"
+      ],
+      "answer": 2,
+      "explanation": "Pulse-echo imaging depends entirely on echoes returning to the transducer.",
+      "explanationImage": null,
+      "tags": [
+        "Echoes, Interfaces and Sound–Tissue Interactions"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch06-q051",
+      "stem": "In a grayscale image, echo strength determines the:",
+      "image": null,
+      "options": [
+        "Pixel position",
+        "Pixel brightness",
+        "Pixel size",
+        "Frame rate"
+      ],
+      "answer": 1,
+      "explanation": "Stronger echoes are displayed brighter; position is determined by arrival time.",
+      "explanationImage": null,
+      "tags": [
+        "Echoes, Interfaces and Sound–Tissue Interactions"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch06-q052",
+      "stem": "The boundary where the liver meets the diaphragm is an example of:",
+      "image": null,
+      "options": [
+        "A wavefront",
+        "A normal",
+        "A scatterer only",
+        "An acoustic interface"
+      ],
+      "answer": 3,
+      "explanation": "An interface is where two media with different properties meet.",
+      "explanationImage": null,
+      "tags": [
+        "Echoes, Interfaces and Sound–Tissue Interactions"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch06-q053",
+      "stem": "If no absorption occurs, the reflected plus transmitted intensities at a boundary equal:",
+      "image": null,
+      "options": [
+        "100% of the incident intensity",
+        "50% of the incident intensity",
+        "Less than the incident intensity",
+        "Twice the incident intensity"
+      ],
+      "answer": 0,
+      "explanation": "Reflection % + transmission % = 100% of the incident intensity.",
+      "explanationImage": null,
+      "tags": [
+        "Echoes, Interfaces and Sound–Tissue Interactions"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch06-q054",
+      "stem": "The principle that reflected plus transmitted energy must equal incident energy is an example of:",
+      "image": null,
+      "options": [
+        "Snell's law",
+        "The Doppler principle",
+        "Conservation of energy",
+        "Huygens' principle"
+      ],
+      "answer": 2,
+      "explanation": "Energy cannot be created or destroyed, only redistributed.",
+      "explanationImage": null,
+      "tags": [
+        "Echoes, Interfaces and Sound–Tissue Interactions"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch06-q055",
+      "stem": "Echoes from an interface with a large impedance mismatch will appear:",
+      "image": null,
+      "options": [
+        "Dark",
+        "Bright",
+        "Anechoic",
+        "Absent regardless of angle"
+      ],
+      "answer": 1,
+      "explanation": "A large mismatch gives high IRC, strong reflection and a bright echo.",
+      "explanationImage": null,
+      "tags": [
+        "Echoes, Interfaces and Sound–Tissue Interactions"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch06-q056",
+      "stem": "Which of the following does NOT significantly determine the amount of reflection at an interface?",
+      "image": null,
+      "options": [
+        "Angle of incidence",
+        "Acoustic impedance mismatch",
+        "Angle and width of the tissue boundary",
+        "Pulse repetition frequency"
+      ],
+      "answer": 3,
+      "explanation": "Reflection depends on incidence angle, impedance mismatch, and boundary width and angle. PRF is a system setting.",
+      "explanationImage": null,
+      "tags": [
+        "Echoes, Interfaces and Sound–Tissue Interactions"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch06-q057",
+      "stem": "Reflection is best described as:",
+      "image": null,
+      "options": [
+        "A change in wave direction at a boundary that returns some energy toward the source",
+        "Complete conversion of sound to heat",
+        "A doubling of frequency",
+        "A decrease in wavelength to zero"
+      ],
+      "answer": 0,
+      "explanation": "Reflection sends part of the incident energy back into the first medium.",
+      "explanationImage": null,
+      "tags": [
+        "Echoes, Interfaces and Sound–Tissue Interactions"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch06-q058",
+      "stem": "The endocardial border is visible against the blood pool even though blood and myocardium have similar impedances. The echo at this boundary is:",
+      "image": null,
+      "options": [
+        "Absent, because the impedances are equal",
+        "Stronger than at an air–tissue boundary",
+        "A weak reflection from a small impedance difference",
+        "Total reflection"
+      ],
+      "answer": 2,
+      "explanation": "A small impedance difference gives a small IRC. Most sound is transmitted, but the smooth endocardium still returns a weak specular echo.",
+      "explanationImage": null,
+      "tags": [
+        "Echoes, Interfaces and Sound–Tissue Interactions"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch06-q059",
+      "stem": "The granular texture of the liver parenchyma on ultrasound is produced mainly by:",
+      "image": null,
+      "options": [
+        "Specular reflection",
+        "Scattering",
+        "Refraction",
+        "Complete transmission"
+      ],
+      "answer": 1,
+      "explanation": "Small structures within tissue scatter sound in many directions, producing a diffuse echo pattern.",
+      "explanationImage": null,
+      "tags": [
+        "Echoes, Interfaces and Sound–Tissue Interactions"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch06-q060",
+      "stem": "An interface reflects 30% of the incident intensity and none is absorbed. The remaining 70% is:",
+      "image": null,
+      "options": [
+        "Absorbed",
+        "Scattered",
+        "Refracted at 0°",
+        "Transmitted"
+      ],
+      "answer": 3,
+      "explanation": "With no absorption, whatever is not reflected is transmitted (ITC = 0.70).",
+      "explanationImage": null,
+      "tags": [
+        "Echoes, Interfaces and Sound–Tissue Interactions"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch06-q061",
+      "stem": "Specular reflection occurs when the reflector is:",
+      "image": null,
+      "options": [
+        "Large and smooth relative to the wavelength",
+        "Much smaller than the wavelength",
+        "Rough and irregular",
+        "Exactly equal to the wavelength"
+      ],
+      "answer": 0,
+      "explanation": "Boundary much larger than the wavelength produces mirror-like reflection.",
+      "explanationImage": null,
+      "tags": [
+        "Specular Reflection and Scattering"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch06-q062",
+      "stem": "The word \"specular\" refers to:",
+      "image": null,
+      "options": [
+        "Random scattering",
+        "A frequency shift",
+        "Mirror-like reflection",
+        "Absorption of sound"
+      ],
+      "answer": 2,
+      "explanation": "Specular reflection behaves like light off a flat mirror.",
+      "explanationImage": null,
+      "tags": [
+        "Specular Reflection and Scattering"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch06-q063",
+      "stem": "Which structure is the best example of a specular reflector?",
+      "image": null,
+      "options": [
+        "Red blood cells",
+        "Myocardial tissue texture",
+        "Blood within the LV cavity",
+        "The pericardium"
+      ],
+      "answer": 3,
+      "explanation": "The pericardium is a thin, smooth, large layer that produces bright, angle-dependent echoes.",
+      "explanationImage": null,
+      "tags": [
+        "Specular Reflection and Scattering"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch06-q064",
+      "stem": "Reflection from reflectors much smaller than the wavelength is called:",
+      "image": null,
+      "options": [
+        "Specular reflection",
+        "Rayleigh scattering",
+        "Refraction",
+        "Total reflection"
+      ],
+      "answer": 1,
+      "explanation": "Boundary << wavelength gives Rayleigh scattering and back scatter.",
+      "explanationImage": null,
+      "tags": [
+        "Specular Reflection and Scattering"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch06-q065",
+      "stem": "A boundary roughly similar in size to the wavelength produces mainly:",
+      "image": null,
+      "options": [
+        "Diffuse reflection",
+        "Specular reflection",
+        "Complete transmission",
+        "Absorption only"
+      ],
+      "answer": 0,
+      "explanation": "Boundary \\~ wavelength gives diffuse reflection.",
+      "explanationImage": null,
+      "tags": [
+        "Specular Reflection and Scattering"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch06-q066",
+      "stem": "Which description best fits diffuse reflection (scattering)?",
+      "image": null,
+      "options": [
+        "A single mirror-like beam",
+        "Strong dependence on beam angle",
+        "Occurs only at perpendicular incidence",
+        "Sound redirected in many directions from small or irregular reflectors"
+      ],
+      "answer": 3,
+      "explanation": "Scattering disperses the wave over a wide range of directions.",
+      "explanationImage": null,
+      "tags": [
+        "Specular Reflection and Scattering"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch06-q067",
+      "stem": "Which type of reflection is most dependent on the angle of the beam?",
+      "image": null,
+      "options": [
+        "Scattering",
+        "Rayleigh scattering",
+        "Specular reflection",
+        "They are equally dependent"
+      ],
+      "answer": 2,
+      "explanation": "Specular reflection is highly angle dependent.",
+      "explanationImage": null,
+      "tags": [
+        "Specular Reflection and Scattering"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch06-q068",
+      "stem": "When the beam is perpendicular to a smooth endocardial surface, the border appears:",
+      "image": null,
+      "options": [
+        "Absent",
+        "Sharp and bright",
+        "Anechoic",
+        "Distorted by Rayleigh scattering"
+      ],
+      "answer": 1,
+      "explanation": "The endocardium gives crisp specular reflections when the beam is perpendicular.",
+      "explanationImage": null,
+      "tags": [
+        "Specular Reflection and Scattering"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch06-q069",
+      "stem": "Red blood cells are much smaller than the ultrasound wavelength. They produce weak echoes mainly through:",
+      "image": null,
+      "options": [
+        "Rayleigh scattering",
+        "Specular reflection",
+        "Refraction",
+        "Total reflection"
+      ],
+      "answer": 0,
+      "explanation": "Very small reflectors produce Rayleigh scattering.",
+      "explanationImage": null,
+      "tags": [
+        "Specular Reflection and Scattering"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch06-q070",
+      "stem": "Compared with specular echoes, scattered echoes are generally:",
+      "image": null,
+      "options": [
+        "Stronger and more angle dependent",
+        "Equal in strength",
+        "Weaker and less angle dependent",
+        "Present only at 0° incidence"
+      ],
+      "answer": 2,
+      "explanation": "Scattering spreads energy over many angles, so each echo is weaker but less dependent on beam angle.",
+      "explanationImage": null,
+      "tags": [
+        "Specular Reflection and Scattering"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch06-q071",
+      "stem": "Which pairing of reflector and reflection type is correct?",
+      "image": null,
+      "options": [
+        "Diaphragm and Rayleigh scattering",
+        "Red blood cell and specular reflection",
+        "Liver parenchyma and specular reflection",
+        "Carotid wall and specular reflection"
+      ],
+      "answer": 3,
+      "explanation": "Smooth vessel walls produce specular reflection.",
+      "explanationImage": null,
+      "tags": [
+        "Specular Reflection and Scattering"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch06-q072",
+      "stem": "A boundary that is much larger than the wavelength produces:",
+      "image": null,
+      "options": [
+        "Rayleigh scattering",
+        "Specular reflection",
+        "Diffuse reflection",
+        "Absorption"
+      ],
+      "answer": 1,
+      "explanation": "Boundary >> wavelength gives specular reflection.",
+      "explanationImage": null,
+      "tags": [
+        "Specular Reflection and Scattering"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch06-q073",
+      "stem": "A large, smooth boundary struck at an oblique angle will:",
+      "image": null,
+      "options": [
+        "Return most of its echo to the transducer",
+        "Reflect sound equally in all directions",
+        "Always refract the reflected beam",
+        "Direct its reflected echo away from the transducer"
+      ],
+      "answer": 3,
+      "explanation": "Angle of reflection equals angle of incidence, so the echo leaves obliquely and may miss the transducer.",
+      "explanationImage": null,
+      "tags": [
+        "Specular Reflection and Scattering"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch06-q074",
+      "stem": "A smooth 10 mm vessel wall is insonated with a pulse whose wavelength is about 0.5 mm. The reflection is mainly:",
+      "image": null,
+      "options": [
+        "Specular",
+        "Rayleigh scattering",
+        "Refraction only",
+        "Absorption"
+      ],
+      "answer": 0,
+      "explanation": "The boundary is much larger than the wavelength.",
+      "explanationImage": null,
+      "tags": [
+        "Specular Reflection and Scattering"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch06-q075",
+      "stem": "The speckle texture seen in solid organs is mainly produced by:",
+      "image": null,
+      "options": [
+        "Specular reflection",
+        "Refraction",
+        "Scattering from tissue microstructure",
+        "Complete reflection"
+      ],
+      "answer": 2,
+      "explanation": "Small structures and irregularities within tissue scatter sound diffusely.",
+      "explanationImage": null,
+      "tags": [
+        "Specular Reflection and Scattering"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch06-q076",
+      "stem": "The normal is:",
+      "image": null,
+      "options": [
+        "A line parallel to the interface",
+        "An imaginary line perpendicular to the interface at the point of incidence",
+        "The incident beam",
+        "The reflected beam"
+      ],
+      "answer": 1,
+      "explanation": "The normal is the reference line from which all angles are measured.",
+      "explanationImage": null,
+      "tags": [
+        "Incidence Angles and Beam Geometry"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch06-q077",
+      "stem": "The angles of incidence, reflection and transmission are all measured from:",
+      "image": null,
+      "options": [
+        "The interface surface",
+        "The transducer face",
+        "The reflected beam",
+        "The normal"
+      ],
+      "answer": 3,
+      "explanation": "Angles are measured from the normal, not from the boundary surface.",
+      "explanationImage": null,
+      "tags": [
+        "Incidence Angles and Beam Geometry"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch06-q078",
+      "stem": "A beam strikes an interface at 30° to the interface surface. What is the angle of incidence?",
+      "image": null,
+      "options": [
+        "60°",
+        "30°",
+        "90°",
+        "120°"
+      ],
+      "answer": 0,
+      "explanation": "The normal is 90° from the surface, so the incidence angle is 90° − 30° = 60°.",
+      "explanationImage": null,
+      "tags": [
+        "Incidence Angles and Beam Geometry"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch06-q079",
+      "stem": "The angle of incidence is 25°. The angle of reflection is:",
+      "image": null,
+      "options": [
+        "0°",
+        "65°",
+        "25°",
+        "50°"
+      ],
+      "answer": 2,
+      "explanation": "Angle of reflection = angle of incidence.",
+      "explanationImage": null,
+      "tags": [
+        "Incidence Angles and Beam Geometry"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch06-q080",
+      "stem": "A beam has an incidence angle of 40°. What is the angle between the incident beam and the reflected beam?",
+      "image": null,
+      "options": [
+        "40°",
+        "50°",
+        "100°",
+        "80°"
+      ],
+      "answer": 3,
+      "explanation": "The two beams lie 40° on either side of the normal: 40° + 40° = 80°.",
+      "explanationImage": null,
+      "tags": [
+        "Incidence Angles and Beam Geometry"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch06-q081",
+      "stem": "The transmission angle depends on:",
+      "image": null,
+      "options": [
+        "Frequency only",
+        "The incidence angle and the propagation speeds of the two media",
+        "Density only",
+        "Impedance only"
+      ],
+      "answer": 1,
+      "explanation": "Transmission angle is governed by the incidence angle and the speed difference.",
+      "explanationImage": null,
+      "tags": [
+        "Incidence Angles and Beam Geometry"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch06-q082",
+      "stem": "Which angle is always equal to the angle of incidence?",
+      "image": null,
+      "options": [
+        "The angle of reflection",
+        "The angle of transmission",
+        "The angle of refraction",
+        "The critical angle"
+      ],
+      "answer": 0,
+      "explanation": "Incidence angle always equals reflection angle.",
+      "explanationImage": null,
+      "tags": [
+        "Incidence Angles and Beam Geometry"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch06-q083",
+      "stem": "Perpendicular incidence is also called:",
+      "image": null,
+      "options": [
+        "Grazing incidence",
+        "Tangential incidence",
+        "Normal incidence",
+        "Critical incidence"
+      ],
+      "answer": 2,
+      "explanation": "Perpendicular and normal incidence are the same.",
+      "explanationImage": null,
+      "tags": [
+        "Incidence Angles and Beam Geometry"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch06-q084",
+      "stem": "Tissue boundaries oriented \\_\\_\\_\\_ to the beam act as excellent reflectors.",
+      "image": null,
+      "options": [
+        "Parallel",
+        "At about 80° from the normal",
+        "Randomly",
+        "Perpendicular"
+      ],
+      "answer": 3,
+      "explanation": "Perpendicular boundaries return echoes straight back.",
+      "explanationImage": null,
+      "tags": [
+        "Incidence Angles and Beam Geometry"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch06-q085",
+      "stem": "Tissue boundaries that are parallel to the beam path act as:",
+      "image": null,
+      "options": [
+        "Excellent reflectors",
+        "Poor reflectors",
+        "Absorbers only",
+        "Refractors only"
+      ],
+      "answer": 1,
+      "explanation": "The beam barely meets the surface, so little echo returns.",
+      "explanationImage": null,
+      "tags": [
+        "Incidence Angles and Beam Geometry"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch06-q086",
+      "stem": "Compared with oblique incidence, perpendicular incidence on a smooth interface generally produces:",
+      "image": null,
+      "options": [
+        "Stronger returning echoes",
+        "Weaker returning echoes",
+        "Only scattered echoes",
+        "No echoes"
+      ],
+      "answer": 0,
+      "explanation": "Perpendicular incidence returns the echo along the incident path.",
+      "explanationImage": null,
+      "tags": [
+        "Incidence Angles and Beam Geometry"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch06-q087",
+      "stem": "A ball dropped straight down onto the floor bounces straight back up. This is an analogy for:",
+      "image": null,
+      "options": [
+        "Oblique incidence",
+        "Refraction",
+        "Perpendicular incidence",
+        "Scattering"
+      ],
+      "answer": 2,
+      "explanation": "The reflected path retraces the incident path.",
+      "explanationImage": null,
+      "tags": [
+        "Incidence Angles and Beam Geometry"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch06-q088",
+      "stem": "Which angle of incidence would be expected to return the weakest echo to the transducer from a smooth interface?",
+      "image": null,
+      "options": [
+        "0°",
+        "10°",
+        "20°",
+        "40°"
+      ],
+      "answer": 3,
+      "explanation": "The more oblique the incidence, the further the reflected beam is directed from the transducer.",
+      "explanationImage": null,
+      "tags": [
+        "Incidence Angles and Beam Geometry"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch06-q089",
+      "stem": "In the lecture diagram, the angle between the incident beam and the normal is labelled:",
+      "image": null,
+      "options": [
+        "θr",
+        "θi",
+        "θt",
+        "θn"
+      ],
+      "answer": 1,
+      "explanation": "θi = incidence, θr = reflection, θt = transmission.",
+      "explanationImage": null,
+      "tags": [
+        "Incidence Angles and Beam Geometry"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch06-q090",
+      "stem": "If two media have identical propagation speeds, the transmitted beam at an oblique interface:",
+      "image": null,
+      "options": [
+        "Continues at an angle equal to the incidence angle",
+        "Travels at 0°",
+        "Travels at 90°",
+        "Travels at twice the incidence angle"
+      ],
+      "answer": 0,
+      "explanation": "No speed difference means no refraction, so the beam does not bend.",
+      "explanationImage": null,
+      "tags": [
+        "Incidence Angles and Beam Geometry"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch06-q091",
+      "stem": "A normal, smooth structure appears dim from one transducer position. The most appropriate interpretation is:",
+      "image": null,
+      "options": [
+        "It is pathological",
+        "Its impedance is zero",
+        "It may be an angle-related imaging problem",
+        "It contains calcification"
+      ],
+      "answer": 2,
+      "explanation": "A dim structure does not necessarily mean abnormality. Reflected sound may simply be directed away.",
+      "explanationImage": null,
+      "tags": [
+        "Incidence Angles and Beam Geometry"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch06-q092",
+      "stem": "Which of the following can improve beam alignment with a smooth interface?",
+      "image": null,
+      "options": [
+        "Increasing imaging depth",
+        "Lowering the PRF",
+        "Increasing gain only",
+        "Angling, rocking, sliding or repositioning the transducer"
+      ],
+      "answer": 3,
+      "explanation": "The goal is to make the beam as perpendicular to the structure as possible.",
+      "explanationImage": null,
+      "tags": [
+        "Incidence Angles and Beam Geometry"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch06-q093",
+      "stem": "In an apical four-chamber view, the interventricular septum is nearly parallel to the beam. Its echoes will most likely be:",
+      "image": null,
+      "options": [
+        "Strong and specular",
+        "Weak, with possible false dropout",
+        "Refracted into the RV",
+        "Entirely absorbed"
+      ],
+      "answer": 1,
+      "explanation": "Reflections from a near-parallel surface are directed away from the transducer.",
+      "explanationImage": null,
+      "tags": [
+        "Incidence Angles and Beam Geometry"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch06-q094",
+      "stem": "In the parasternal long-axis view, the beam crosses the interventricular septum nearly perpendicularly. The septal borders typically appear:",
+      "image": null,
+      "options": [
+        "Bright and well defined",
+        "Absent",
+        "Anechoic",
+        "Refracted"
+      ],
+      "answer": 0,
+      "explanation": "Near-perpendicular incidence gives strong specular reflection.",
+      "explanationImage": null,
+      "tags": [
+        "Incidence Angles and Beam Geometry"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch06-q095",
+      "stem": "A healthy patient's lateral LV wall is poorly seen in an apical view. The most likely physical explanation is:",
+      "image": null,
+      "options": [
+        "Z1 equals Z2 at the endocardium",
+        "Absorption of sound by coupling gel",
+        "Echoes from the near-parallel endocardial surface are reflected away from the transducer",
+        "An IRC of 1 at the endocardium"
+      ],
+      "answer": 2,
+      "explanation": "Oblique or near-parallel incidence directs specular echoes away from the transducer.",
+      "explanationImage": null,
+      "tags": [
+        "Incidence Angles and Beam Geometry"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch06-q096",
+      "stem": "Acoustic impedance represents the resistance a medium offers to:",
+      "image": null,
+      "options": [
+        "Temperature change",
+        "Electrical current",
+        "Transducer vibration",
+        "The passage of sound"
+      ],
+      "answer": 3,
+      "explanation": "Impedance is the resistance a tissue provides to sound transmission, set by density and propagation speed.",
+      "explanationImage": null,
+      "tags": [
+        "Acoustic Impedance"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch06-q097",
+      "stem": "Which of the following has the highest acoustic impedance?",
+      "image": null,
+      "options": [
+        "Bone",
+        "Air",
+        "Lung",
+        "Water"
+      ],
+      "answer": 0,
+      "explanation": "Bone is about 6.7 MRayl. Water is about 1.5, lung about 0.26 and air about 0.0004.",
+      "explanationImage": null,
+      "tags": [
+        "Acoustic Impedance"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch06-q098",
+      "stem": "Which of the following has the lowest acoustic impedance?",
+      "image": null,
+      "options": [
+        "Fat",
+        "Water",
+        "Lung",
+        "Air"
+      ],
+      "answer": 3,
+      "explanation": "Air is about 0.0004 MRayl, far lower than lung (0.26) or soft tissue.",
+      "explanationImage": null,
+      "tags": [
+        "Acoustic Impedance"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch06-q099",
+      "stem": "A medium has a density of 1000 kg/m³ and a propagation speed of 1500 m/s. Its acoustic impedance is:",
+      "image": null,
+      "options": [
+        "1.5 MRayl",
+        "0.67 MRayl",
+        "15 MRayl",
+        "150 MRayl"
+      ],
+      "answer": 0,
+      "explanation": "Z = ρc = 1000 × 1500 = 1,500,000 Rayl = 1.5 MRayl.",
+      "explanationImage": null,
+      "tags": [
+        "Acoustic Impedance"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch06-q100",
+      "stem": "A medium has a density of 1200 kg/m³ and a propagation speed of 1500 m/s. Its acoustic impedance is:",
+      "image": null,
+      "options": [
+        "0.8 MRayl",
+        "1.2 MRayl",
+        "1.8 MRayl",
+        "2.7 MRayl"
+      ],
+      "answer": 2,
+      "explanation": "Z = 1200 × 1500 = 1.8 × 10⁶ Rayl = 1.8 MRayl.",
+      "explanationImage": null,
+      "tags": [
+        "Acoustic Impedance"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch06-q101",
+      "stem": "Bone has a high acoustic impedance mainly because of its:",
+      "image": null,
+      "options": [
+        "Low density",
+        "Low propagation speed",
+        "High frequency",
+        "High density and high propagation speed"
+      ],
+      "answer": 3,
+      "explanation": "Bone has both high density (about 1500 kg/m³) and high speed (about 4080 m/s), so their product is large.",
+      "explanationImage": null,
+      "tags": [
+        "Acoustic Impedance"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch06-q102",
+      "stem": "Air has a very low acoustic impedance because it has:",
+      "image": null,
+      "options": [
+        "A very high propagation speed",
+        "Very low density and low propagation speed",
+        "Very high density",
+        "A very high frequency"
+      ],
+      "answer": 1,
+      "explanation": "Air is about 1.2 kg/m³ with a speed of about 330 m/s.",
+      "explanationImage": null,
+      "tags": [
+        "Acoustic Impedance"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch06-q103",
+      "stem": "Density doubles while propagation speed stays constant. Acoustic impedance:",
+      "image": null,
+      "options": [
+        "Halves",
+        "Is unchanged",
+        "Quadruples",
+        "Doubles"
+      ],
+      "answer": 3,
+      "explanation": "Z = ρc, so Z is directly proportional to density.",
+      "explanationImage": null,
+      "tags": [
+        "Acoustic Impedance"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch06-q104",
+      "stem": "Both density and propagation speed double. Acoustic impedance:",
+      "image": null,
+      "options": [
+        "Quadruples",
+        "Doubles",
+        "Is unchanged",
+        "Halves"
+      ],
+      "answer": 0,
+      "explanation": "Z = (2ρ)(2c) = 4ρc.",
+      "explanationImage": null,
+      "tags": [
+        "Acoustic Impedance"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch06-q105",
+      "stem": "One MRayl is equal to:",
+      "image": null,
+      "options": [
+        "10³ Rayl",
+        "10⁹ Rayl",
+        "10⁶ Rayl",
+        "10 Rayl"
+      ],
+      "answer": 2,
+      "explanation": "\"M\" denotes mega (10⁶).",
+      "explanationImage": null,
+      "tags": [
+        "Acoustic Impedance"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch06-q106",
+      "stem": "Which interface has the largest impedance mismatch?",
+      "image": null,
+      "options": [
+        "Soft tissue–bone",
+        "Fat–muscle",
+        "Liver–spleen",
+        "Blood–muscle"
+      ],
+      "answer": 0,
+      "explanation": "Bone (about 6.7 MRayl) differs far more from soft tissue than the other pairs, which are all similar.",
+      "explanationImage": null,
+      "tags": [
+        "Acoustic Impedance"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch06-q107",
+      "stem": "Which interface has the smallest impedance mismatch?",
+      "image": null,
+      "options": [
+        "Soft tissue–bone",
+        "Soft tissue–lung",
+        "Soft tissue–air",
+        "Liver–spleen"
+      ],
+      "answer": 3,
+      "explanation": "Liver and spleen have nearly identical impedances (about 1.65 MRayl).",
+      "explanationImage": null,
+      "tags": [
+        "Acoustic Impedance"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch06-q108",
+      "stem": "For reflection to occur at a perpendicular interface, the two media must have:",
+      "image": null,
+      "options": [
+        "Equal densities",
+        "Different acoustic impedances",
+        "Equal propagation speeds",
+        "Different frequencies"
+      ],
+      "answer": 1,
+      "explanation": "A difference in impedance is required. Equal impedances give no reflection.",
+      "explanationImage": null,
+      "tags": [
+        "Acoustic Impedance"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch06-q109",
+      "stem": "Acoustic impedance is NOT affected by:",
+      "image": null,
+      "options": [
+        "Density",
+        "Propagation speed",
+        "The type of tissue",
+        "The transducer's operating frequency"
+      ],
+      "answer": 3,
+      "explanation": "Impedance is a property of the medium (ρ × c) and does not depend on the transducer's frequency.",
+      "explanationImage": null,
+      "tags": [
+        "Acoustic Impedance"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch06-q110",
+      "stem": "Acoustic impedance is calculated from density and propagation speed as their:",
+      "image": null,
+      "options": [
+        "Sum",
+        "Ratio",
+        "Product",
+        "Difference"
+      ],
+      "answer": 2,
+      "explanation": "Z = ρ × c.",
+      "explanationImage": null,
+      "tags": [
+        "Acoustic Impedance"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch06-q111",
+      "stem": "Lung has a low acoustic impedance compared with soft tissue primarily because:",
+      "image": null,
+      "options": [
+        "Its air content lowers both its density and its propagation speed",
+        "It contains bone",
+        "Its frequency is higher",
+        "Its density is greater than blood"
+      ],
+      "answer": 0,
+      "explanation": "Lung is about 400 kg/m³ with a speed of about 500 m/s, giving Z of about 0.26 MRayl.",
+      "explanationImage": null,
+      "tags": [
+        "Acoustic Impedance"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch06-q112",
+      "stem": "Which two substances produce very bright echoes because of a large impedance mismatch with soft tissue?",
+      "image": null,
+      "options": [
+        "Fat and muscle",
+        "Bone and air",
+        "Liver and kidney",
+        "Blood and water"
+      ],
+      "answer": 1,
+      "explanation": "Air (very low Z) and bone (very high Z) are strong reflectors against soft tissue.",
+      "explanationImage": null,
+      "tags": [
+        "Acoustic Impedance"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch06-q113",
+      "stem": "A PZT crystal (about 38 MRayl) placed directly on skin (soft tissue about 1.6–2 MRayl) would transmit poorly. This is why transducers include a:",
+      "image": null,
+      "options": [
+        "Refraction lens only",
+        "Higher frequency",
+        "Doppler gate",
+        "Matching layer"
+      ],
+      "answer": 3,
+      "explanation": "A matching layer of intermediate impedance reduces the mismatch and improves transmission.",
+      "explanationImage": null,
+      "tags": [
+        "Acoustic Impedance"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch06-q114",
+      "stem": "A matching layer on a transducer has an impedance between that of the PZT and tissue. It:",
+      "image": null,
+      "options": [
+        "Increases the mismatch",
+        "Decreases transmission",
+        "Improves transmission by reducing the mismatch",
+        "Amplifies the echoes electronically"
+      ],
+      "answer": 2,
+      "explanation": "The matching layer steps the impedance down so more sound enters the body.",
+      "explanationImage": null,
+      "tags": [
+        "Acoustic Impedance"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch06-q115",
+      "stem": "What matters most at an interface is:",
+      "image": null,
+      "options": [
+        "The difference in impedance between the two media",
+        "The impedance of the first medium alone",
+        "The density of the second medium alone",
+        "The propagation speed of the first medium alone"
+      ],
+      "answer": 0,
+      "explanation": "Reflection depends on the impedance mismatch between the two media, not on either value alone.",
+      "explanationImage": null,
+      "tags": [
+        "Acoustic Impedance"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch06-q116",
+      "stem": "Z1 = 1.0 MRayl and Z2 = 3.0 MRayl. What is the IRC?",
+      "image": null,
+      "options": [
+        "0.05",
+        "0.10",
+        "0.50",
+        "0.25"
+      ],
+      "answer": 3,
+      "explanation": "IRC = \\[(3 − 1)/(3 + 1)\\]² = (0.5)² = 0.25. (0.50 forgets to square.)",
+      "explanationImage": null,
+      "tags": [
+        "IRC and ITC Calculations"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch06-q117",
+      "stem": "Z1 = 1.0 MRayl and Z2 = 3.0 MRayl. What is the ITC?",
+      "image": null,
+      "options": [
+        "0.75",
+        "0.25",
+        "0.50",
+        "1.00"
+      ],
+      "answer": 0,
+      "explanation": "ITC = 1 − IRC = 1 − 0.25 = 0.75.",
+      "explanationImage": null,
+      "tags": [
+        "IRC and ITC Calculations"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch06-q118",
+      "stem": "Z1 = 2 MRayl and Z2 = 6 MRayl. What percentage of the incident intensity is reflected?",
+      "image": null,
+      "options": [
+        "4%",
+        "25%",
+        "50%",
+        "75%"
+      ],
+      "answer": 1,
+      "explanation": "IRC = (4/8)² = 0.25 = 25%.",
+      "explanationImage": null,
+      "tags": [
+        "IRC and ITC Calculations"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch06-q119",
+      "stem": "Two media each have an impedance of 1.6 MRayl. The IRC is:",
+      "image": null,
+      "options": [
+        "1",
+        "0.5",
+        "0",
+        "1.6"
+      ],
+      "answer": 2,
+      "explanation": "The difference is zero, so there is no reflection. ITC = 1.",
+      "explanationImage": null,
+      "tags": [
+        "IRC and ITC Calculations"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch06-q120",
+      "stem": "Z1 = 1 MRayl and Z2 = 9 MRayl. What is the IRC?",
+      "image": null,
+      "options": [
+        "0.08",
+        "0.80",
+        "0.36",
+        "0.64"
+      ],
+      "answer": 3,
+      "explanation": "IRC = (8/10)² = 0.64. The value 0.80 results from forgetting to square.",
+      "explanationImage": null,
+      "tags": [
+        "IRC and ITC Calculations"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch06-q121",
+      "stem": "Z1 = 4 MRayl and Z2 = 6 MRayl. What percentage of the incident intensity is reflected?",
+      "image": null,
+      "options": [
+        "4%",
+        "20%",
+        "40%",
+        "2%"
+      ],
+      "answer": 0,
+      "explanation": "IRC = (2/10)² = 0.04 = 4%.",
+      "explanationImage": null,
+      "tags": [
+        "IRC and ITC Calculations"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch06-q122",
+      "stem": "Z1 = 2 MRayl and Z2 = 8 MRayl. What percentage of the incident intensity is transmitted?",
+      "image": null,
+      "options": [
+        "36%",
+        "60%",
+        "40%",
+        "64%"
+      ],
+      "answer": 3,
+      "explanation": "IRC = (6/10)² = 0.36, so ITC = 1 − 0.36 = 0.64 = 64%.",
+      "explanationImage": null,
+      "tags": [
+        "IRC and ITC Calculations"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch06-q123",
+      "stem": "Sound travels from a medium with Z1 = 3 MRayl into one with Z2 = 1 MRayl. What is the IRC?",
+      "image": null,
+      "options": [
+        "−0.25",
+        "0.50",
+        "0.25",
+        "0.75"
+      ],
+      "answer": 2,
+      "explanation": "IRC = (−2/4)² = 0.25. Squaring removes the sign, so the result is the same as for 1 → 3 MRayl.",
+      "explanationImage": null,
+      "tags": [
+        "IRC and ITC Calculations"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch06-q124",
+      "stem": "Ii = 50 mW/cm² and Ir = 5 mW/cm². What is the IRC?",
+      "image": null,
+      "options": [
+        "0.01",
+        "0.10",
+        "0.90",
+        "10"
+      ],
+      "answer": 1,
+      "explanation": "IRC = Ir/Ii = 5/50 = 0.10.",
+      "explanationImage": null,
+      "tags": [
+        "IRC and ITC Calculations"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch06-q125",
+      "stem": "Ii = 40 mW/cm² and the IRC is 0.20. What is the reflected intensity?",
+      "image": null,
+      "options": [
+        "8 mW/cm²",
+        "20 mW/cm²",
+        "32 mW/cm²",
+        "0.5 mW/cm²"
+      ],
+      "answer": 0,
+      "explanation": "Ir = IRC × Ii = 0.20 × 40 = 8 mW/cm².",
+      "explanationImage": null,
+      "tags": [
+        "IRC and ITC Calculations"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch06-q126",
+      "stem": "Ii = 40 mW/cm² and the IRC is 0.20. What is the transmitted intensity?",
+      "image": null,
+      "options": [
+        "8 mW/cm²",
+        "20 mW/cm²",
+        "0.8 mW/cm²",
+        "32 mW/cm²"
+      ],
+      "answer": 3,
+      "explanation": "It = Ii − Ir = 40 − 8 = 32 mW/cm² (or 0.80 × 40).",
+      "explanationImage": null,
+      "tags": [
+        "IRC and ITC Calculations"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch06-q127",
+      "stem": "Ii = 100 mW/cm² and It = 64 mW/cm². What is the IRC?",
+      "image": null,
+      "options": [
+        "0.64",
+        "0.50",
+        "0.36",
+        "1.56"
+      ],
+      "answer": 2,
+      "explanation": "Ir = 100 − 64 = 36, so IRC = 36/100 = 0.36.",
+      "explanationImage": null,
+      "tags": [
+        "IRC and ITC Calculations"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch06-q128",
+      "stem": "The ITC at an interface is 0.90. What percentage of the incident intensity is reflected?",
+      "image": null,
+      "options": [
+        "10%",
+        "90%",
+        "0.9%",
+        "100%"
+      ],
+      "answer": 0,
+      "explanation": "IRC = 1 − 0.90 = 0.10 = 10%.",
+      "explanationImage": null,
+      "tags": [
+        "IRC and ITC Calculations"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch06-q129",
+      "stem": "An interface reflects 99% of the incident intensity. The ITC is:",
+      "image": null,
+      "options": [
+        "0.99",
+        "0.10",
+        "0.50",
+        "0.01"
+      ],
+      "answer": 3,
+      "explanation": "ITC = 1 − 0.99 = 0.01.",
+      "explanationImage": null,
+      "tags": [
+        "IRC and ITC Calculations"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch06-q130",
+      "stem": "The units of the intensity reflection coefficient are:",
+      "image": null,
+      "options": [
+        "mW/cm²",
+        "None (it is a unitless ratio)",
+        "Rayls",
+        "Decibels"
+      ],
+      "answer": 1,
+      "explanation": "IRC is a ratio of two intensities, so it has no units. The same is true of ITC.",
+      "explanationImage": null,
+      "tags": [
+        "IRC and ITC Calculations"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch06-q131",
+      "stem": "For an air (0.0004 MRayl) to soft tissue (about 1.63 MRayl) interface, the IRC is approximately:",
+      "image": null,
+      "options": [
+        "0.5",
+        "0.1",
+        "0.01",
+        "0.999"
+      ],
+      "answer": 3,
+      "explanation": "(1.63 − 0.0004)/(1.63 + 0.0004) is about 0.9995, so about 99.9% is reflected.",
+      "explanationImage": null,
+      "tags": [
+        "IRC and ITC Calculations"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch06-q132",
+      "stem": "The impedance of water is 1.48 MRayl and liver is 1.65 MRayl. The IRC at this interface is approximately:",
+      "image": null,
+      "options": [
+        "0.29",
+        "0.03",
+        "0.003",
+        "0.50"
+      ],
+      "answer": 2,
+      "explanation": "IRC = (0.17/3.13)², which is about 0.003 (0.3%). Almost all the sound is transmitted.",
+      "explanationImage": null,
+      "tags": [
+        "IRC and ITC Calculations"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch06-q133",
+      "stem": "Heart muscle (1.74 MRayl) lies against lung (0.26 MRayl). The percentage of intensity reflected is approximately:",
+      "image": null,
+      "options": [
+        "55%",
+        "74%",
+        "26%",
+        "45%"
+      ],
+      "answer": 0,
+      "explanation": "IRC = (−1.48/2.00)² = 0.5476, about 55% reflected. About 45% is transmitted.",
+      "explanationImage": null,
+      "tags": [
+        "IRC and ITC Calculations"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch06-q134",
+      "stem": "A PZT crystal (38 MRayl) contacts tissue (1.63 MRayl) with no matching layer. The percentage of sound reflected is approximately:",
+      "image": null,
+      "options": [
+        "2%",
+        "16%",
+        "50%",
+        "84%"
+      ],
+      "answer": 3,
+      "explanation": "IRC = (36.37/39.63)², about 0.84. Most of the sound is reflected back into the crystal, so poor transmission results.",
+      "explanationImage": null,
+      "tags": [
+        "IRC and ITC Calculations"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch06-q135",
+      "stem": "Which pair of impedances (in MRayl) produces an IRC of 0.25?",
+      "image": null,
+      "options": [
+        "1 and 2",
+        "1 and 3",
+        "1 and 4",
+        "2 and 3"
+      ],
+      "answer": 1,
+      "explanation": "(3 − 1)/(3 + 1) = 0.5 and 0.5² = 0.25. The other pairs give about 0.11, 0.36 and 0.04.",
+      "explanationImage": null,
+      "tags": [
+        "IRC and ITC Calculations"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch06-q136",
+      "stem": "Which interface would produce the greatest IRC?",
+      "image": null,
+      "options": [
+        "1.5 → 1.6 MRayl",
+        "1.4 → 2.0 MRayl",
+        "0.26 → 1.7 MRayl",
+        "1.6 → 1.65 MRayl"
+      ],
+      "answer": 2,
+      "explanation": "IRC is about 0.54 for C, compared with about 0.03 for B and well under 0.01 for A and D.",
+      "explanationImage": null,
+      "tags": [
+        "IRC and ITC Calculations"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch06-q137",
+      "stem": "As the impedance mismatch at an interface increases, the IRC \\_\\_\\_\\_ and the ITC \\_\\_\\_\\_.",
+      "image": null,
+      "options": [
+        "Increases; decreases",
+        "Decreases; increases",
+        "Increases; increases",
+        "Stays the same; stays the same"
+      ],
+      "answer": 0,
+      "explanation": "More mismatch gives more reflection and less transmission.",
+      "explanationImage": null,
+      "tags": [
+        "IRC and ITC Calculations"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch06-q138",
+      "stem": "Which statement is true for an interface with an IRC of 0.04?",
+      "image": null,
+      "options": [
+        "96% is reflected",
+        "4% is transmitted",
+        "It has a very large impedance mismatch",
+        "96% is transmitted"
+      ],
+      "answer": 3,
+      "explanation": "ITC = 1 − 0.04 = 0.96. A small IRC means a small mismatch.",
+      "explanationImage": null,
+      "tags": [
+        "IRC and ITC Calculations"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch06-q139",
+      "stem": "Z1 = 1.5 MRayl and Z2 = 1.7 MRayl. The IRC is approximately:",
+      "image": null,
+      "options": [
+        "0.004",
+        "0.04",
+        "0.13",
+        "0.40"
+      ],
+      "answer": 0,
+      "explanation": "IRC = (0.2/3.2)², about 0.004 (0.4%). Nearly all the sound is transmitted.",
+      "explanationImage": null,
+      "tags": [
+        "IRC and ITC Calculations"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch06-q140",
+      "stem": "At perpendicular incidence, the IRC calculated from impedances depends on:",
+      "image": null,
+      "options": [
+        "Z1 only",
+        "Z2 only",
+        "Both Z1 and Z2",
+        "Frequency and amplitude"
+      ],
+      "answer": 2,
+      "explanation": "IRC = \\[(Z2 − Z1)/(Z2 + Z1)\\]² uses both impedances.",
+      "explanationImage": null,
+      "tags": [
+        "IRC and ITC Calculations"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch06-q141",
+      "stem": "Ii = 2 mW/cm² and It = 0.5 mW/cm². What is the ITC?",
+      "image": null,
+      "options": [
+        "0.50",
+        "0.25",
+        "4.0",
+        "0.75"
+      ],
+      "answer": 1,
+      "explanation": "ITC = It/Ii = 0.5/2 = 0.25.",
+      "explanationImage": null,
+      "tags": [
+        "IRC and ITC Calculations"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch06-q142",
+      "stem": "The ITC at an interface is 0.25. What is the IRC?",
+      "image": null,
+      "options": [
+        "0.25",
+        "0.50",
+        "1.25",
+        "0.75"
+      ],
+      "answer": 3,
+      "explanation": "IRC = 1 − ITC = 0.75.",
+      "explanationImage": null,
+      "tags": [
+        "IRC and ITC Calculations"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch06-q143",
+      "stem": "If no sound is transmitted at an interface, the IRC is:",
+      "image": null,
+      "options": [
+        "1",
+        "0",
+        "0.5",
+        "Infinite"
+      ],
+      "answer": 0,
+      "explanation": "All the incident intensity is reflected (Ir = Ii).",
+      "explanationImage": null,
+      "tags": [
+        "IRC and ITC Calculations"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch06-q144",
+      "stem": "Ii = 12 mW/cm² and the ITC is 0.90. What is the reflected intensity?",
+      "image": null,
+      "options": [
+        "10.8 mW/cm²",
+        "0.12 mW/cm²",
+        "1.2 mW/cm²",
+        "13.2 mW/cm²"
+      ],
+      "answer": 2,
+      "explanation": "IRC = 0.10, so Ir = 0.10 × 12 = 1.2 mW/cm². (10.8 is the transmitted intensity.)",
+      "explanationImage": null,
+      "tags": [
+        "IRC and ITC Calculations"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch06-q145",
+      "stem": "For any interface with no absorption, IRC + ITC equals:",
+      "image": null,
+      "options": [
+        "0",
+        "0.5",
+        "2",
+        "1"
+      ],
+      "answer": 3,
+      "explanation": "All incident sound is either reflected or transmitted, so IRC + ITC = 1 (100%).",
+      "explanationImage": null,
+      "tags": [
+        "IRC and ITC Calculations"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch06-q146",
+      "stem": "The air–skin interface produces nearly total reflection because:",
+      "image": null,
+      "options": [
+        "Air has a very high density",
+        "Air has a very high propagation speed",
+        "The IRC is near zero",
+        "The impedance of air is far lower than that of skin"
+      ],
+      "answer": 3,
+      "explanation": "A huge impedance mismatch (0.0004 vs about 1.6 MRayl) gives an IRC near 1.",
+      "explanationImage": null,
+      "tags": [
+        "Coupling Gel and Clinical Echocardiography Applications"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch06-q147",
+      "stem": "Coupling gel improves imaging by:",
+      "image": null,
+      "options": [
+        "Eliminating the air layer and reducing the impedance mismatch",
+        "Increasing reflection at the skin",
+        "Increasing the propagation speed in tissue",
+        "Lowering the transducer frequency"
+      ],
+      "answer": 0,
+      "explanation": "Gel provides a good sound path from transducer to skin and improves transmission.",
+      "explanationImage": null,
+      "tags": [
+        "Coupling Gel and Clinical Echocardiography Applications"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch06-q148",
+      "stem": "Without gel, the IRC at the transducer–air–skin interface is approximately:",
+      "image": null,
+      "options": [
+        "0",
+        "1",
+        "0.5",
+        "0.1"
+      ],
+      "answer": 1,
+      "explanation": "Almost all the sound (about 99.9%) is reflected.",
+      "explanationImage": null,
+      "tags": [
+        "Coupling Gel and Clinical Echocardiography Applications"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch06-q149",
+      "stem": "Which of the following is NOT a purpose of coupling gel?",
+      "image": null,
+      "options": [
+        "To eliminate the air gap",
+        "To provide a good sound path",
+        "To increase reflection at the skin surface",
+        "To improve transmission into the body"
+      ],
+      "answer": 2,
+      "explanation": "The purpose of gel is to improve transmission, not to increase reflection.",
+      "explanationImage": null,
+      "tags": [
+        "Coupling Gel and Clinical Echocardiography Applications"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch06-q150",
+      "stem": "Lung tissue overlying the heart degrades the echo image because:",
+      "image": null,
+      "options": [
+        "Air-filled lung forms a large impedance mismatch with soft tissue and reflects most of the sound",
+        "Lung has a higher impedance than bone",
+        "Lung has the same impedance as soft tissue",
+        "Lung increases transmission"
+      ],
+      "answer": 0,
+      "explanation": "Lung impedance (about 0.26 MRayl) is far below that of soft tissue, so most of the sound is reflected.",
+      "explanationImage": null,
+      "tags": [
+        "Coupling Gel and Clinical Echocardiography Applications"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch06-q151",
+      "stem": "During an echo, part of the image near the transducer face suddenly drops out. The gel under the transducer has dried in that area. The best first action is to:",
+      "image": null,
+      "options": [
+        "Increase the imaging depth",
+        "Decrease the gain",
+        "Change the transducer frequency",
+        "Reapply gel to eliminate the air gap"
+      ],
+      "answer": 3,
+      "explanation": "Air under the transducer reflects almost all of the sound. Restoring gel restores transmission.",
+      "explanationImage": null,
+      "tags": [
+        "Coupling Gel and Clinical Echocardiography Applications"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch06-q152",
+      "stem": "A pocket of air trapped between the transducer and skin will most likely cause:",
+      "image": null,
+      "options": [
+        "Increased brightness throughout the image",
+        "Increased transmission",
+        "Refraction only",
+        "Loss of image information beneath it because most sound is reflected"
+      ],
+      "answer": 3,
+      "explanation": "The air–skin mismatch reflects nearly all the incident sound.",
+      "explanationImage": null,
+      "tags": [
+        "Coupling Gel and Clinical Echocardiography Applications"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch06-q153",
+      "stem": "Ribs and sternum limit transthoracic echo windows because:",
+      "image": null,
+      "options": [
+        "Bone has a low impedance",
+        "Bone creates a large impedance mismatch, so most sound is reflected and little is transmitted",
+        "Bone has the same impedance as soft tissue",
+        "Bone is anechoic"
+      ],
+      "answer": 1,
+      "explanation": "Bone (about 6.7 MRayl) differs greatly from soft tissue.",
+      "explanationImage": null,
+      "tags": [
+        "Coupling Gel and Clinical Echocardiography Applications"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch06-q154",
+      "stem": "Which of the following typically produces the brightest echoes in an echo exam because of a large impedance mismatch?",
+      "image": null,
+      "options": [
+        "The blood pool",
+        "Normal myocardium",
+        "Calcification or prosthetic valve material",
+        "A pericardial effusion"
+      ],
+      "answer": 2,
+      "explanation": "Calcium and prosthetic material differ greatly in impedance from soft tissue.",
+      "explanationImage": null,
+      "tags": [
+        "Coupling Gel and Clinical Echocardiography Applications"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch06-q155",
+      "stem": "Distal to a mechanical prosthetic valve, the image often shows weak or absent echoes. This is because:",
+      "image": null,
+      "options": [
+        "Most of the sound is reflected at the high-impedance prosthesis, so little is transmitted distally",
+        "The prosthesis increases transmission",
+        "The impedances are equal",
+        "Refraction increases the intensity"
+      ],
+      "answer": 0,
+      "explanation": "A very large mismatch produces strong reflection and little transmission.",
+      "explanationImage": null,
+      "tags": [
+        "Coupling Gel and Clinical Echocardiography Applications"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch06-q156",
+      "stem": "Blood in a cardiac chamber normally appears dark (anechoic) mainly because:",
+      "image": null,
+      "options": [
+        "It absorbs all ultrasound",
+        "It has an impedance of zero",
+        "It has a very high propagation speed",
+        "Its scatterers are much smaller than the wavelength and give only very weak echoes"
+      ],
+      "answer": 3,
+      "explanation": "Red blood cells produce weak Rayleigh scattering, so little echo returns.",
+      "explanationImage": null,
+      "tags": [
+        "Coupling Gel and Clinical Echocardiography Applications"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch06-q157",
+      "stem": "Which beam–interface relationship gives the best endocardial border definition?",
+      "image": null,
+      "options": [
+        "Beam parallel to the border",
+        "Beam perpendicular to the border",
+        "Beam at 70° from the normal",
+        "Beam tangential to the border"
+      ],
+      "answer": 1,
+      "explanation": "Specular reflection is strongest at perpendicular incidence.",
+      "explanationImage": null,
+      "tags": [
+        "Coupling Gel and Clinical Echocardiography Applications"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch06-q158",
+      "stem": "The septum appears poorly defined because it is nearly parallel to the beam. The sonographer should:",
+      "image": null,
+      "options": [
+        "Increase the PRF",
+        "Decrease the imaging depth",
+        "Use a window that places the beam more perpendicular to the septum",
+        "Increase the pulse length"
+      ],
+      "answer": 2,
+      "explanation": "Changing the angle or window restores perpendicular incidence.",
+      "explanationImage": null,
+      "tags": [
+        "Coupling Gel and Clinical Echocardiography Applications"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch06-q159",
+      "stem": "In which view is the interventricular septum typically most nearly parallel to the ultrasound beam?",
+      "image": null,
+      "options": [
+        "Apical four-chamber",
+        "Parasternal long-axis",
+        "Parasternal short-axis",
+        "Subcostal four-chamber"
+      ],
+      "answer": 0,
+      "explanation": "In the apical four-chamber view the beam runs along the long axis of the septum, so echo dropout can occur.",
+      "explanationImage": null,
+      "tags": [
+        "Coupling Gel and Clinical Echocardiography Applications"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch06-q160",
+      "stem": "The IRC at an interface is 0.003. Which interpretation is most appropriate?",
+      "image": null,
+      "options": [
+        "The interface will be very bright",
+        "Most sound is reflected",
+        "The interface cannot be imaged",
+        "Most sound is transmitted and the interface returns only a weak echo"
+      ],
+      "answer": 3,
+      "explanation": "An IRC of 0.003 means 0.3% is reflected and 99.7% is transmitted.",
+      "explanationImage": null,
+      "tags": [
+        "Coupling Gel and Clinical Echocardiography Applications"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch06-q161",
+      "stem": "Using Z = 1.63 MRayl for soft tissue and 6.7 MRayl for bone, the IRC at a soft tissue–bone interface is approximately:",
+      "image": null,
+      "options": [
+        "0.04",
+        "0.12",
+        "0.37",
+        "0.80"
+      ],
+      "answer": 2,
+      "explanation": "(6.7 − 1.63)/(6.7 + 1.63) = 0.61 and 0.61² is about 0.37, so about 37% is reflected.",
+      "explanationImage": null,
+      "tags": [
+        "Coupling Gel and Clinical Echocardiography Applications"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch06-q162",
+      "stem": "Using Z = 1.63 MRayl for soft tissue and 0.26 MRayl for lung, the percentage of sound transmitted is approximately:",
+      "image": null,
+      "options": [
+        "53%",
+        "47%",
+        "27%",
+        "73%"
+      ],
+      "answer": 1,
+      "explanation": "IRC = (−1.37/1.89)² = 0.53, so ITC is about 0.47 (47%).",
+      "explanationImage": null,
+      "tags": [
+        "Coupling Gel and Clinical Echocardiography Applications"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch06-q163",
+      "stem": "Liver (1.66 MRayl) lies next to blood (1.62 MRayl). The percentage of sound transmitted is approximately:",
+      "image": null,
+      "options": [
+        "Nearly 100%",
+        "90%",
+        "75%",
+        "50%"
+      ],
+      "answer": 0,
+      "explanation": "IRC = (0.04/3.28)², which is about 0.00015. The impedances are almost equal.",
+      "explanationImage": null,
+      "tags": [
+        "Coupling Gel and Clinical Echocardiography Applications"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch06-q164",
+      "stem": "The reflection at a fat (1.35 MRayl) to muscle (1.70 MRayl) interface is approximately:",
+      "image": null,
+      "options": [
+        "13%",
+        "0.13%",
+        "1.3%",
+        "35%"
+      ],
+      "answer": 2,
+      "explanation": "IRC = (0.35/3.05)², which is about 0.013 (1.3%).",
+      "explanationImage": null,
+      "tags": [
+        "Coupling Gel and Clinical Echocardiography Applications"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch06-q165",
+      "stem": "With gel eliminating the air gap, the IRC at the transducer–gel–skin path is approximately:",
+      "image": null,
+      "options": [
+        "1",
+        "0.5",
+        "0.1",
+        "Near 0"
+      ],
+      "answer": 3,
+      "explanation": "Gel has an impedance close to that of soft tissue, so the mismatch is minimal and nearly all sound is transmitted.",
+      "explanationImage": null,
+      "tags": [
+        "Coupling Gel and Clinical Echocardiography Applications"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch06-q166",
+      "stem": "Which term describes a structure that appears black with no internal echoes?",
+      "image": null,
+      "options": [
+        "Hypoechoic",
+        "Anechoic",
+        "Isoechoic",
+        "Hyperechoic"
+      ],
+      "answer": 1,
+      "explanation": "Anechoic structures (fluid-filled) return no echoes.",
+      "explanationImage": null,
+      "tags": [
+        "Echogenicity Terminology"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch06-q167",
+      "stem": "Bone, fat and calcification typically appear:",
+      "image": null,
+      "options": [
+        "Anechoic",
+        "Hypoechoic",
+        "Isoechoic",
+        "Hyperechoic"
+      ],
+      "answer": 3,
+      "explanation": "They return strong echoes and appear bright (white).",
+      "explanationImage": null,
+      "tags": [
+        "Echogenicity Terminology"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch06-q168",
+      "stem": "A structure that has the same brightness as its surroundings is described as:",
+      "image": null,
+      "options": [
+        "Isoechoic",
+        "Hypoechoic",
+        "Hyperechoic",
+        "Anechoic"
+      ],
+      "answer": 0,
+      "explanation": "Isoechoic tissue blends in with its surroundings.",
+      "explanationImage": null,
+      "tags": [
+        "Echogenicity Terminology"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch06-q169",
+      "stem": "Solid tumours, lymph nodes and oedema typically appear dark gray with low-level echoes. This is termed:",
+      "image": null,
+      "options": [
+        "Hyperechoic",
+        "Anechoic",
+        "Isoechoic",
+        "Hypoechoic"
+      ],
+      "answer": 3,
+      "explanation": "Hypoechoic means lower echo strength than the reference tissue.",
+      "explanationImage": null,
+      "tags": [
+        "Echogenicity Terminology"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch06-q170",
+      "stem": "A pericardial effusion appears:",
+      "image": null,
+      "options": [
+        "Anechoic",
+        "Hyperechoic",
+        "Isoechoic",
+        "Hypoechoic"
+      ],
+      "answer": 0,
+      "explanation": "Simple fluid returns no echoes, so it appears black.",
+      "explanationImage": null,
+      "tags": [
+        "Echogenicity Terminology"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch06-q171",
+      "stem": "Which term describes tissue that is brighter than a reference tissue but not as bright as bone or calcification?",
+      "image": null,
+      "options": [
+        "Anechoic",
+        "Hypoechoic",
+        "Echogenic",
+        "Isoechoic"
+      ],
+      "answer": 2,
+      "explanation": "Echogenic tissue produces noticeable echoes. Valve leaflets and the pericardium are examples.",
+      "explanationImage": null,
+      "tags": [
+        "Echogenicity Terminology"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch06-q172",
+      "stem": "Which term and echo strength are correctly paired?",
+      "image": null,
+      "options": [
+        "Anechoic: high",
+        "Hypoechoic: none",
+        "Hyperechoic: low",
+        "Hypoechoic: low"
+      ],
+      "answer": 3,
+      "explanation": "Anechoic = none, hypoechoic = low, isoechoic = equal, hyperechoic = high.",
+      "explanationImage": null,
+      "tags": [
+        "Echogenicity Terminology"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch06-q173",
+      "stem": "Bone and calcification appear hyperechoic mainly because:",
+      "image": null,
+      "options": [
+        "They have a large impedance mismatch with surrounding soft tissue",
+        "Their impedance is zero",
+        "Their propagation speed equals that of soft tissue",
+        "They have a very low density"
+      ],
+      "answer": 0,
+      "explanation": "A large mismatch produces a high IRC and strong, bright echoes.",
+      "explanationImage": null,
+      "tags": [
+        "Echogenicity Terminology"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch06-q174",
+      "stem": "Valve leaflets and the pericardium are typically described as:",
+      "image": null,
+      "options": [
+        "Anechoic",
+        "Echogenic",
+        "Hypoechoic",
+        "Isoechoic"
+      ],
+      "answer": 1,
+      "explanation": "They return noticeable echoes and are brighter than the surrounding tissue.",
+      "explanationImage": null,
+      "tags": [
+        "Echogenicity Terminology"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch06-q175",
+      "stem": "An isoechoic lesion within the liver is difficult to detect because:",
+      "image": null,
+      "options": [
+        "It reflects no sound",
+        "Its echo brightness is similar to that of the surrounding tissue",
+        "It is anechoic",
+        "It is much brighter than the liver"
+      ],
+      "answer": 1,
+      "explanation": "Similar echogenicity means little contrast with the surrounding tissue.",
+      "explanationImage": null,
+      "tags": [
+        "Echogenicity Terminology"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch06-q176",
+      "stem": "Refraction requires:",
+      "image": null,
+      "options": [
+        "Perpendicular incidence and equal propagation speeds",
+        "Normal incidence and different impedances",
+        "Oblique incidence and equal propagation speeds",
+        "Oblique incidence and different propagation speeds"
+      ],
+      "answer": 3,
+      "explanation": "A change in the transmitted direction needs both an oblique angle and a speed difference.",
+      "explanationImage": null,
+      "tags": [
+        "Integrated Concepts and Clinical Scenarios"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch06-q177",
+      "stem": "Acoustic impedance differences determine \\_\\_\\_\\_, while propagation speed differences determine \\_\\_\\_\\_.",
+      "image": null,
+      "options": [
+        "How much sound is reflected and transmitted; the direction of the transmitted beam",
+        "The direction of the reflected beam; the amount transmitted",
+        "The frequency; the wavelength",
+        "The pulse duration; the PRF"
+      ],
+      "answer": 0,
+      "explanation": "Impedance controls the proportion reflected and transmitted. Speed controls refraction.",
+      "explanationImage": null,
+      "tags": [
+        "Integrated Concepts and Clinical Scenarios"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch06-q178",
+      "stem": "At perpendicular incidence, a transmitted beam crossing into a medium with a different propagation speed:",
+      "image": null,
+      "options": [
+        "Bends toward the normal",
+        "Does not change direction",
+        "Reflects completely",
+        "Doubles its angle"
+      ],
+      "answer": 1,
+      "explanation": "The beam travels along the normal, so no bending occurs.",
+      "explanationImage": null,
+      "tags": [
+        "Integrated Concepts and Clinical Scenarios"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch06-q179",
+      "stem": "Which of the following can occur at oblique incidence but NOT at perpendicular incidence?",
+      "image": null,
+      "options": [
+        "Reflection",
+        "Transmission",
+        "A non-zero IRC",
+        "Refraction"
+      ],
+      "answer": 3,
+      "explanation": "Refraction needs an oblique angle.",
+      "explanationImage": null,
+      "tags": [
+        "Integrated Concepts and Clinical Scenarios"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch06-q180",
+      "stem": "At an interface Ir is approximately equal to Ii. Which statement is true?",
+      "image": null,
+      "options": [
+        "Z1 = Z2",
+        "ITC is approximately 1",
+        "There is a very large impedance mismatch and ITC is approximately 0",
+        "The beam is at 90° to the normal"
+      ],
+      "answer": 2,
+      "explanation": "Nearly all the incident intensity is reflected, so very little is transmitted.",
+      "explanationImage": null,
+      "tags": [
+        "Integrated Concepts and Clinical Scenarios"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch06-q181",
+      "stem": "Which combination produces the brightest echo from a smooth interface?",
+      "image": null,
+      "options": [
+        "Small mismatch, oblique incidence",
+        "Large mismatch, oblique incidence",
+        "Small mismatch, perpendicular incidence",
+        "Large mismatch, perpendicular incidence"
+      ],
+      "answer": 3,
+      "explanation": "The strongest returning echoes need both an impedance difference and perpendicular incidence.",
+      "explanationImage": null,
+      "tags": [
+        "Integrated Concepts and Clinical Scenarios"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch06-q182",
+      "stem": "Which condition produces NO reflection at perpendicular incidence?",
+      "image": null,
+      "options": [
+        "Equal impedances, even if the densities and speeds differ",
+        "Equal densities only",
+        "Equal propagation speeds only",
+        "Equal frequencies"
+      ],
+      "answer": 0,
+      "explanation": "Only Z1 = Z2 gives IRC = 0.",
+      "explanationImage": null,
+      "tags": [
+        "Integrated Concepts and Clinical Scenarios"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch06-q183",
+      "stem": "Two media have the same density but different propagation speeds. At perpendicular incidence:",
+      "image": null,
+      "options": [
+        "No reflection occurs because the densities are equal",
+        "Reflection occurs because the impedances differ",
+        "No reflection occurs because the frequencies are equal",
+        "Reflection occurs only at oblique incidence"
+      ],
+      "answer": 1,
+      "explanation": "Z = ρc, so different speeds mean different impedances.",
+      "explanationImage": null,
+      "tags": [
+        "Integrated Concepts and Clinical Scenarios"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch06-q184",
+      "stem": "The lung hampers imaging of structures deep to it because:",
+      "image": null,
+      "options": [
+        "Lung absorbs no sound",
+        "Lung has a very high impedance",
+        "Air in the lung forms a large mismatch with soft tissue and reflects nearly all the sound",
+        "Lung refracts the beam toward the normal"
+      ],
+      "answer": 2,
+      "explanation": "Air is an extreme impedance mismatch with soft tissue.",
+      "explanationImage": null,
+      "tags": [
+        "Integrated Concepts and Clinical Scenarios"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch06-q185",
+      "stem": "25% of the incident intensity is reflected at the first interface. The transmitted portion meets a second interface that reflects 20% of the intensity reaching it. What fraction of the original incident intensity is reflected from the second interface? (Ignore attenuation.)",
+      "image": null,
+      "options": [
+        "0.15",
+        "0.20",
+        "0.45",
+        "0.05"
+      ],
+      "answer": 0,
+      "explanation": "Transmitted at the first interface = 0.75. Reflected at the second = 0.20 × 0.75 = 0.15.",
+      "explanationImage": null,
+      "tags": [
+        "Integrated Concepts and Clinical Scenarios"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch06-q186",
+      "stem": "Ii = 100 mW/cm². The first interface has an IRC of 0.10 and the second interface has an ITC of 0.80. What intensity is transmitted beyond the second interface? (Ignore attenuation.)",
+      "image": null,
+      "options": [
+        "80 mW/cm²",
+        "90 mW/cm²",
+        "64 mW/cm²",
+        "72 mW/cm²"
+      ],
+      "answer": 3,
+      "explanation": "After the first interface: 100 × 0.90 = 90. After the second: 90 × 0.80 = 72 mW/cm².",
+      "explanationImage": null,
+      "tags": [
+        "Integrated Concepts and Clinical Scenarios"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch06-q187",
+      "stem": "Which statement is NOT true of specular reflection?",
+      "image": null,
+      "options": [
+        "It obeys angle of reflection = angle of incidence",
+        "It is independent of the beam angle",
+        "It is mirror-like",
+        "It occurs at large, smooth boundaries"
+      ],
+      "answer": 1,
+      "explanation": "Specular reflection is highly angle dependent.",
+      "explanationImage": null,
+      "tags": [
+        "Integrated Concepts and Clinical Scenarios"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch06-q188",
+      "stem": "At which angle of incidence will the echo from a smooth interface return directly to the transducer?",
+      "image": null,
+      "options": [
+        "20°",
+        "40°",
+        "60°",
+        "0°"
+      ],
+      "answer": 3,
+      "explanation": "Only at 0° does the reflected beam retrace the incident path.",
+      "explanationImage": null,
+      "tags": [
+        "Integrated Concepts and Clinical Scenarios"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch06-q189",
+      "stem": "A smooth interface is struck at 10° from the normal. The reflected beam leaves:",
+      "image": null,
+      "options": [
+        "At 10° from the normal on the opposite side, away from the incident path",
+        "Back along the incident path",
+        "At 90° to the normal",
+        "At 20° from the normal on the same side"
+      ],
+      "answer": 0,
+      "explanation": "Angle of reflection = angle of incidence, on the opposite side of the normal.",
+      "explanationImage": null,
+      "tags": [
+        "Integrated Concepts and Clinical Scenarios"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch06-q190",
+      "stem": "Which action would NOT improve visualization of a poorly seen smooth boundary?",
+      "image": null,
+      "options": [
+        "Rocking the transducer",
+        "Increasing the PRF",
+        "Sliding the transducer",
+        "Repositioning the transducer"
+      ],
+      "answer": 1,
+      "explanation": "PRF does not change the incidence angle. Angling, rocking, sliding or repositioning does.",
+      "explanationImage": null,
+      "tags": [
+        "Integrated Concepts and Clinical Scenarios"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch06-q191",
+      "stem": "The IRC at soft tissue–air is about 1 and at soft tissue–bone about 0.37. Which conclusion is most accurate?",
+      "image": null,
+      "options": [
+        "Bone reflects more than air",
+        "Both reflect equally",
+        "Air reflects more than bone",
+        "Neither reflects significantly"
+      ],
+      "answer": 2,
+      "explanation": "Air has the larger impedance mismatch with soft tissue, so its IRC is higher.",
+      "explanationImage": null,
+      "tags": [
+        "Integrated Concepts and Clinical Scenarios"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch06-q192",
+      "stem": "Without coupling gel, approximately what percentage of the incident intensity enters the tissue?",
+      "image": null,
+      "options": [
+        "About 0.1%",
+        "About 10%",
+        "About 50%",
+        "About 99.9%"
+      ],
+      "answer": 0,
+      "explanation": "About 99.9% is reflected, so only about 0.1% is transmitted.",
+      "explanationImage": null,
+      "tags": [
+        "Integrated Concepts and Clinical Scenarios"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch06-q193",
+      "stem": "Which is the best clinical example of complete (or nearly complete) reflection?",
+      "image": null,
+      "options": [
+        "Liver–kidney",
+        "Fat–muscle",
+        "Blood–myocardium",
+        "Air–skin without gel"
+      ],
+      "answer": 3,
+      "explanation": "IRC is approximately 1 and ITC is approximately 0.",
+      "explanationImage": null,
+      "tags": [
+        "Integrated Concepts and Clinical Scenarios"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch06-q194",
+      "stem": "Materials A and B each have Z = 1.4 MRayl and material C has Z = 6.0 MRayl. Which interface produces no reflection at perpendicular incidence?",
+      "image": null,
+      "options": [
+        "A to B",
+        "A to C",
+        "B to C",
+        "None of them"
+      ],
+      "answer": 0,
+      "explanation": "Equal impedances mean IRC = 0.",
+      "explanationImage": null,
+      "tags": [
+        "Integrated Concepts and Clinical Scenarios"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch06-q195",
+      "stem": "Z2 is twice Z1. What is the IRC?",
+      "image": null,
+      "options": [
+        "0.25",
+        "0.33",
+        "0.11",
+        "0.50"
+      ],
+      "answer": 2,
+      "explanation": "IRC = \\[(2Z1 − Z1)/(2Z1 + Z1)\\]² = (1/3)² = 0.11.",
+      "explanationImage": null,
+      "tags": [
+        "Integrated Concepts and Clinical Scenarios"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch06-q196",
+      "stem": "The image behind a densely calcified mitral annulus is dark. The best explanation is:",
+      "image": null,
+      "options": [
+        "Transmission is complete",
+        "Z1 = Z2",
+        "Refraction increases the intensity",
+        "Little sound reaches deeper structures because most is reflected at the interface"
+      ],
+      "answer": 3,
+      "explanation": "A very large mismatch reflects most of the sound, so little is transmitted beyond it.",
+      "explanationImage": null,
+      "tags": [
+        "Integrated Concepts and Clinical Scenarios"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch06-q197",
+      "stem": "The statement \"no reflection, no image\" means that:",
+      "image": null,
+      "options": [
+        "Pulse-echo imaging depends entirely on reflection",
+        "Imaging is based on transmission alone",
+        "Absorption forms the image",
+        "Refraction forms the image"
+      ],
+      "answer": 0,
+      "explanation": "Without returning echoes, no pulse-echo image can be formed.",
+      "explanationImage": null,
+      "tags": [
+        "Integrated Concepts and Clinical Scenarios"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch06-q198",
+      "stem": "The strongest returning echoes from a smooth interface occur when:",
+      "image": null,
+      "options": [
+        "There is an impedance difference and the beam is parallel to the interface",
+        "There is an impedance difference and the beam is perpendicular to the interface",
+        "The impedances are equal and the beam is perpendicular",
+        "The impedances are equal and the beam is oblique"
+      ],
+      "answer": 1,
+      "explanation": "Both an impedance difference and perpendicular incidence are required.",
+      "explanationImage": null,
+      "tags": [
+        "Integrated Concepts and Clinical Scenarios"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch06-q199",
+      "stem": "The amount of reflection is determined primarily by \\_\\_\\_\\_, and the direction of reflection by \\_\\_\\_\\_.",
+      "image": null,
+      "options": [
+        "Incidence angle; impedance mismatch",
+        "Frequency; density",
+        "PRF; depth",
+        "Impedance mismatch; incidence angle"
+      ],
+      "answer": 3,
+      "explanation": "Mismatch sets the strength. Incidence angle sets the direction.",
+      "explanationImage": null,
+      "tags": [
+        "Integrated Concepts and Clinical Scenarios"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch06-q200",
+      "stem": "Which list places these interfaces in order of INCREASING IRC? (Fat–muscle ≈ 0.013; liver–spleen ≈ 0; soft tissue–bone ≈ 0.37; soft tissue–air ≈ 0.999)",
+      "image": null,
+      "options": [
+        "Soft tissue–air, soft tissue–bone, fat–muscle, liver–spleen",
+        "Soft tissue–bone, fat–muscle, liver–spleen, soft tissue–air",
+        "Fat–muscle, liver–spleen, soft tissue–air, soft tissue–bone",
+        "Liver–spleen, fat–muscle, soft tissue–bone, soft tissue–air"
+      ],
+      "answer": 3,
+      "explanation": "The smaller the impedance mismatch, the lower the IRC. ---",
+      "explanationImage": null,
+      "tags": [
+        "Integrated Concepts and Clinical Scenarios"
+      ],
+      "reference": ""
+    }
+  ]
+}

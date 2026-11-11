@@ -1,0 +1,3606 @@
+{
+  "chapterId": "ch08",
+  "title": "Module 8: Refraction, Scattering and Speckle",
+  "questions": [
+    {
+      "id": "DCS5004-ch08-q001",
+      "stem": "Which two conditions must be present for refraction to occur?",
+      "image": null,
+      "options": [
+        "Perpendicular incidence and different acoustic impedances",
+        "Oblique incidence and different propagation speeds",
+        "Oblique incidence and equal propagation speeds",
+        "Perpendicular incidence and equal wavelengths"
+      ],
+      "answer": 1,
+      "explanation": "Refraction requires oblique incidence and different propagation speeds.",
+      "explanationImage": null,
+      "tags": [
+        "Refraction, Scattering and Speckle Fundamentals"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch08-q002",
+      "stem": "Refraction is best defined as:",
+      "image": null,
+      "options": [
+        "Redirection of sound back toward the transducer",
+        "Reduction in sound intensity with depth",
+        "Change in direction of transmitted sound at an interface",
+        "Conversion of sound energy into heat"
+      ],
+      "answer": 2,
+      "explanation": "Refraction is a change in direction of transmitted sound at an interface.",
+      "explanationImage": null,
+      "tags": [
+        "Refraction, Scattering and Speckle Fundamentals"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch08-q003",
+      "stem": "An ultrasound beam strikes an interface at perpendicular incidence. The propagation speeds of the two tissues are different. What occurs?",
+      "image": null,
+      "options": [
+        "Refraction occurs toward the normal",
+        "Refraction occurs away from the normal",
+        "Total internal reflection occurs",
+        "The transmitted beam does not refract"
+      ],
+      "answer": 3,
+      "explanation": "At perpendicular incidence, the transmitted beam does not refract.",
+      "explanationImage": null,
+      "tags": [
+        "Refraction, Scattering and Speckle Fundamentals"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch08-q004",
+      "stem": "The transmission angle is measured between the transmitted beam and the:",
+      "image": null,
+      "options": [
+        "Tissue interface",
+        "Incident beam",
+        "Normal",
+        "Reflected beam"
+      ],
+      "answer": 2,
+      "explanation": "Angles of transmission are measured from the normal.",
+      "explanationImage": null,
+      "tags": [
+        "Refraction, Scattering and Speckle Fundamentals"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch08-q005",
+      "stem": "Sound travels from a medium with a propagation speed of 1600 m/s into a medium with a propagation speed of 1450 m/s at oblique incidence. The transmitted beam will:",
+      "image": null,
+      "options": [
+        "Bend toward the normal",
+        "Bend away from the normal",
+        "Continue without changing direction",
+        "Reflect completely at the interface"
+      ],
+      "answer": 0,
+      "explanation": "A slower second medium causes the transmitted beam to bend toward the normal.",
+      "explanationImage": null,
+      "tags": [
+        "Refraction, Scattering and Speckle Fundamentals"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch08-q006",
+      "stem": "Sound travels from a slower medium into a faster medium at oblique incidence. Which statement is correct?",
+      "image": null,
+      "options": [
+        "The transmission angle is smaller than the incident angle",
+        "The transmission angle equals the incident angle",
+        "The transmission angle is larger than the incident angle",
+        "The reflection angle becomes smaller than the incident angle"
+      ],
+      "answer": 2,
+      "explanation": "The transmission angle is larger than the incident angle",
+      "explanationImage": null,
+      "tags": [
+        "Refraction, Scattering and Speckle Fundamentals"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch08-q007",
+      "stem": "An ultrasound beam strikes a smooth interface at an incident angle of 35°. What is the reflection angle?",
+      "image": null,
+      "options": [
+        "17.5°",
+        "35°",
+        "55°",
+        "70°"
+      ],
+      "answer": 1,
+      "explanation": "The angle of reflection equals the angle of incidence.",
+      "explanationImage": null,
+      "tags": [
+        "Refraction, Scattering and Speckle Fundamentals"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch08-q008",
+      "stem": "Snell’s law relates the incident angle and transmission angle to the:",
+      "image": null,
+      "options": [
+        "Acoustic impedances of the two media",
+        "Densities of the two media only",
+        "Propagation speeds of the two media",
+        "Frequencies of the incident and reflected waves"
+      ],
+      "answer": 2,
+      "explanation": "See the matching answer slide in the supplied MCQ review.",
+      "explanationImage": null,
+      "tags": [
+        "Refraction, Scattering and Speckle Fundamentals"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch08-q009",
+      "stem": "An ultrasound beam travels from medium 1 into medium 2. The propagation speeds are equal. What relationship is expected?",
+      "image": null,
+      "options": [
+        "Transmission angle is greater than incident angle",
+        "Transmission angle is less than incident angle",
+        "Transmission angle equals incident angle",
+        "Transmission angle equals reflection angle only at 90°"
+      ],
+      "answer": 2,
+      "explanation": "Transmission angle equals incident angle. No refraction.",
+      "explanationImage": null,
+      "tags": [
+        "Refraction, Scattering and Speckle Fundamentals"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch08-q010",
+      "stem": "An ultrasound beam travels from muscle at 1600 m/s into fat at 1460 m/s with an incident angle of 30°. What is the approximate transmission angle?",
+      "image": null,
+      "options": [
+        "20°",
+        "27°",
+        "30°",
+        "33°"
+      ],
+      "answer": 1,
+      "explanation": "sin(theta2)=(1460/1600)sin30=0.45625; theta2 is approximately 27 degrees.",
+      "explanationImage": null,
+      "tags": [
+        "Refraction, Scattering and Speckle Fundamentals"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch08-q011",
+      "stem": "In Question 10, approximately how much does the beam change direction? Incident angle is 30° and angle of transmission is 27 °.",
+      "image": null,
+      "options": [
+        "1°",
+        "3°",
+        "7°",
+        "13°"
+      ],
+      "answer": 1,
+      "explanation": "The beam changes direction by approximately 30 - 27 = 3 degrees.",
+      "explanationImage": null,
+      "tags": [
+        "Refraction, Scattering and Speckle Fundamentals"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch08-q012",
+      "stem": "A structure appears laterally displaced because the ultrasound beam changed direction at a tissue interface. What assumption made by the system caused the display error?",
+      "image": null,
+      "options": [
+        "Sound amplitude remains constant",
+        "Sound travels in a straight line",
+        "Sound frequency increases with depth",
+        "All echoes originate from specular reflectors"
+      ],
+      "answer": 1,
+      "explanation": "Sound travels in a straight line. With refraction the sound bends with change in propagation speed of sound",
+      "explanationImage": null,
+      "tags": [
+        "Refraction, Scattering and Speckle Fundamentals"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch08-q013",
+      "stem": "A sonographer suspects that a duplicated structure is caused by refraction. What is the most appropriate next action?",
+      "image": null,
+      "options": [
+        "Increase overall gain",
+        "Increase dynamic range",
+        "Change the transducer angle or acoustic window",
+        "Decrease the pulse repetition frequency"
+      ],
+      "answer": 2,
+      "explanation": "Changing the scanning angle can reveal or reduce a refraction artifact.",
+      "explanationImage": null,
+      "tags": [
+        "Refraction, Scattering and Speckle Fundamentals"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch08-q014",
+      "stem": "Which finding most strongly suggests that an apparent structure is a refraction artifact?",
+      "image": null,
+      "options": [
+        "It becomes brighter when gain is increased",
+        "It changes position or disappears with a different scanning angle",
+        "It remains visible from multiple acoustic windows",
+        "It produces posterior enhancement"
+      ],
+      "answer": 1,
+      "explanation": "Changing the scanning angle can reveal or reduce a refraction artifact.",
+      "explanationImage": null,
+      "tags": [
+        "Refraction, Scattering and Speckle Fundamentals"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch08-q015",
+      "stem": "The critical angle is the incident angle at which the transmission angle becomes:",
+      "image": null,
+      "options": [
+        "0°",
+        "45°",
+        "90°",
+        "Equal to the reflection angle"
+      ],
+      "answer": 2,
+      "explanation": "Angles of transmission are measured from the normal.",
+      "explanationImage": null,
+      "tags": [
+        "Refraction, Scattering and Speckle Fundamentals"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch08-q016",
+      "stem": "Total internal reflection can occur when sound travels:",
+      "image": null,
+      "options": [
+        "From a faster medium into a slower medium",
+        "From a slower medium into a faster medium",
+        "At perpendicular incidence between equal media",
+        "Between tissues with identical propagation speeds"
+      ],
+      "answer": 1,
+      "explanation": "Total internal reflection is associated with travel from a slower medium into a faster medium.",
+      "explanationImage": null,
+      "tags": [
+        "Refraction, Scattering and Speckle Fundamentals"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch08-q017",
+      "stem": "What occurs when the incident angle exceeds the critical angle?",
+      "image": null,
+      "options": [
+        "All sound is transmitted",
+        "The transmitted beam bends toward the normal",
+        "No transmitted beam enters the second medium",
+        "The propagation speed becomes zero"
+      ],
+      "answer": 2,
+      "explanation": "No transmitted beam enters the second medium. .",
+      "explanationImage": null,
+      "tags": [
+        "Refraction, Scattering and Speckle Fundamentals"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch08-q018",
+      "stem": "Which structure is most likely to behave as a specular reflector?",
+      "image": null,
+      "options": [
+        "Red blood cells",
+        "Liver parenchyma",
+        "Diaphragm",
+        "Random cellular interfaces"
+      ],
+      "answer": 2,
+      "explanation": "Large, smooth interfaces such as the diaphragm behave as specular reflectors.",
+      "explanationImage": null,
+      "tags": [
+        "Refraction, Scattering and Speckle Fundamentals"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch08-q019",
+      "stem": "A smooth tissue interface is poorly visualized because the beam strikes it obliquely. What is the best explanation?",
+      "image": null,
+      "options": [
+        "The frequency is too low to generate reflection",
+        "The reflected sound is directed away from the transducer",
+        "The interface produces only Rayleigh scattering",
+        "The transmitted sound undergoes complete absorption"
+      ],
+      "answer": 1,
+      "explanation": "The reflected sound is directed away from the transducer",
+      "explanationImage": null,
+      "tags": [
+        "Refraction, Scattering and Speckle Fundamentals"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch08-q020",
+      "stem": "Which characteristic best describes a specular reflector?",
+      "image": null,
+      "options": [
+        "Small relative to the wavelength",
+        "Large and smooth relative to the wavelength",
+        "Independent of the angle of incidence",
+        "Produces only low-amplitude echoes"
+      ],
+      "answer": 1,
+      "explanation": "Large and smooth relative to the wavelength.",
+      "explanationImage": null,
+      "tags": [
+        "Refraction, Scattering and Speckle Fundamentals"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch08-q021",
+      "stem": "Diffuse reflection most commonly occurs when ultrasound interacts with a:",
+      "image": null,
+      "options": [
+        "Large, rough surface",
+        "Small, smooth reflector",
+        "Homogeneous fluid",
+        "Perfectly flat interface at 90°"
+      ],
+      "answer": 0,
+      "explanation": "Large Rough interfaces produce diffuse reflection.",
+      "explanationImage": null,
+      "tags": [
+        "Refraction, Scattering and Speckle Fundamentals"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch08-q022",
+      "stem": "Scattering is most likely to occur when ultrasound interacts with:",
+      "image": null,
+      "options": [
+        "A large, smooth diaphragm",
+        "A perfectly flat vessel wall",
+        "Small tissue structures similar to or smaller than the wavelength",
+        "A uniform fluid-filled cyst"
+      ],
+      "answer": 2,
+      "explanation": "Small tissue structures similar to or smaller than the wavelength",
+      "explanationImage": null,
+      "tags": [
+        "Refraction, Scattering and Speckle Fundamentals"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch08-q023",
+      "stem": "Which statement best distinguishes scattering from specular reflection?",
+      "image": null,
+      "options": [
+        "Scattering is more dependent on perpendicular incidence",
+        "Scattering redirects weak sound energy in many directions",
+        "Scattering occurs only at tissue-air interfaces",
+        "Scattering always produces stronger echoes"
+      ],
+      "answer": 1,
+      "explanation": "Small tissue structures can scatter ultrasound in many directions.",
+      "explanationImage": null,
+      "tags": [
+        "Refraction, Scattering and Speckle Fundamentals"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch08-q024",
+      "stem": "Backscatter refers to:",
+      "image": null,
+      "options": [
+        "All sound transmitted through an interface",
+        "Sound redirected away from the transducer",
+        "Reflected or scattered sound returning toward the transducer",
+        "Sound converted into heat within tissue"
+      ],
+      "answer": 2,
+      "explanation": "Reflected or scattered sound returning toward the transducer",
+      "explanationImage": null,
+      "tags": [
+        "Refraction, Scattering and Speckle Fundamentals"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch08-q025",
+      "stem": "Which interaction is primarily responsible for the visualization of liver parenchyma?",
+      "image": null,
+      "options": [
+        "Specular reflection",
+        "Total internal reflection",
+        "Scattering and backscatter",
+        "Refraction artifact"
+      ],
+      "answer": 2,
+      "explanation": "Liver texture is primarily visualized through scattering and backscatter.",
+      "explanationImage": null,
+      "tags": [
+        "Refraction, Scattering and Speckle Fundamentals"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch08-q026",
+      "stem": "Rayleigh scattering occurs when the scatterers are:",
+      "image": null,
+      "options": [
+        "Much larger than the wavelength",
+        "Approximately equal to the transducer aperture",
+        "Much smaller than the wavelength",
+        "Larger than the sound beam"
+      ],
+      "answer": 2,
+      "explanation": "Rayleigh scatterers are much smaller than the wavelength.",
+      "explanationImage": null,
+      "tags": [
+        "Refraction, Scattering and Speckle Fundamentals"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch08-q027",
+      "stem": "If ultrasound frequency increases, Rayleigh scattering generally:",
+      "image": null,
+      "options": [
+        "Decreases significantly",
+        "Remains unchanged",
+        "Increases significantly",
+        "Stops completely"
+      ],
+      "answer": 2,
+      "explanation": "Rayleigh scattering increases strongly as frequency increases.",
+      "explanationImage": null,
+      "tags": [
+        "Refraction, Scattering and Speckle Fundamentals"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch08-q028",
+      "stem": "A sonographer changes from a 3 MHz transducer to a 6 MHz transducer. Which effect on Rayleigh scattering is expected?",
+      "image": null,
+      "options": [
+        "Less scattering because wavelength is shorter",
+        "More scattering because Rayleigh scattering increases strongly with frequency",
+        "No change because scattering is independent of frequency",
+        "No scattering because the frequency exceeds the tissue resonance"
+      ],
+      "answer": 1,
+      "explanation": "Rayleigh scattering increases strongly as frequency increases.",
+      "explanationImage": null,
+      "tags": [
+        "Refraction, Scattering and Speckle Fundamentals"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch08-q029",
+      "stem": "Acoustic speckle is produced primarily by:",
+      "image": null,
+      "options": [
+        "Refraction of the main ultrasound beam",
+        "Absorption of sound within tissue",
+        "Interference among echoes from multiple scatterers",
+        "Reflection from a single large interface"
+      ],
+      "answer": 2,
+      "explanation": "Speckle is created by interference among echoes from multiple scatterers.",
+      "explanationImage": null,
+      "tags": [
+        "Refraction, Scattering and Speckle Fundamentals"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch08-q030",
+      "stem": "Two scattered echoes return to the transducer in phase. What is the expected result?",
+      "image": null,
+      "options": [
+        "The echoes cancel and produce a darker area",
+        "The echoes reinforce and produce a brighter area",
+        "The sound beam refracts toward the normal",
+        "The transmission angle becomes 90°"
+      ],
+      "answer": 1,
+      "explanation": "The echoes reinforce and produce a brighter area In-phase echoes constructively interfere and produce a brighter region.",
+      "explanationImage": null,
+      "tags": [
+        "Refraction, Scattering and Speckle Fundamentals"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch08-q031",
+      "stem": "An ultrasound beam crosses an interface at an incident angle of 0°. The propagation speed changes from 1540 m/s to 1600 m/s. Which outcome is expected?",
+      "image": null,
+      "options": [
+        "The beam bends toward the normal",
+        "The beam bends away from the normal",
+        "The beam continues without changing direction",
+        "Total internal reflection occurs"
+      ],
+      "answer": 2,
+      "explanation": "At 0° incidence, a change in propagation speed does not produce directional refraction.",
+      "explanationImage": null,
+      "tags": [
+        "Refraction, Scattering and Speckle Fundamentals"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch08-q032",
+      "stem": "Which tissue property determines whether the transmitted ultrasound beam changes direction at an oblique interface?",
+      "image": null,
+      "options": [
+        "Acoustic impedance",
+        "Propagation speed",
+        "Attenuation coefficient",
+        "Density alone"
+      ],
+      "answer": 1,
+      "explanation": "Propagation speed determines transmitted-beam direction at an oblique interface.",
+      "explanationImage": null,
+      "tags": [
+        "Refraction, Scattering and Speckle Fundamentals"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch08-q033",
+      "stem": "An ultrasound beam strikes a smooth interface at an incident angle of 40°. The reflected beam leaves at 40°, but the transmitted beam leaves at 35°. Which interaction explains the transmitted beam direction?",
+      "image": null,
+      "options": [
+        "Absorption",
+        "Scattering",
+        "Refraction",
+        "Destructive interference"
+      ],
+      "answer": 2,
+      "explanation": "A changed transmitted direction is refraction.",
+      "explanationImage": null,
+      "tags": [
+        "Refraction, Scattering and Speckle Fundamentals"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch08-q034",
+      "stem": "Which statement best describes diffuse reflection?",
+      "image": null,
+      "options": [
+        "Sound is redirected by a large, rough interface over multiple angles",
+        "Sound is returned only when incidence is exactly perpendicular",
+        "Sound interacts with particles much smaller than the wavelength",
+        "Sound is completely reflected at the critical angle"
+      ],
+      "answer": 0,
+      "explanation": "Rough interfaces produce diffuse reflection.",
+      "explanationImage": null,
+      "tags": [
+        "Refraction, Scattering and Speckle Fundamentals"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch08-q035",
+      "stem": "Which pairing is most accurate?",
+      "image": null,
+      "options": [
+        "Diaphragm — scattering reflector",
+        "Liver parenchyma — specular reflector",
+        "Organ capsule — specular reflector",
+        "Red blood cells — diffuse reflector"
+      ],
+      "answer": 2,
+      "explanation": "Organ capsules are large, smooth interfaces and are commonly treated as specular reflectors.",
+      "explanationImage": null,
+      "tags": [
+        "Refraction, Scattering and Speckle Fundamentals"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch08-q036",
+      "stem": "Which reflector is least dependent on perpendicular incidence for visualization?",
+      "image": null,
+      "options": [
+        "Smooth vessel wall",
+        "Diaphragm",
+        "Organ capsule",
+        "Small tissue scatterers"
+      ],
+      "answer": 3,
+      "explanation": "Small scatterers are much less dependent on perpendicular incidence.",
+      "explanationImage": null,
+      "tags": [
+        "Refraction, Scattering and Speckle Fundamentals"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch08-q037",
+      "stem": "For Rayleigh scatterers, scattered intensity is approximately proportional to which frequency relationship?",
+      "image": null,
+      "options": [
+        "f",
+        "f ²",
+        "f ³",
+        "f ■"
+      ],
+      "answer": 3,
+      "explanation": "Rayleigh scattered intensity is proportional to frequency to the fourth power.",
+      "explanationImage": null,
+      "tags": [
+        "Refraction, Scattering and Speckle Fundamentals"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch08-q038",
+      "stem": "If the ultrasound frequency is doubled and all other factors remain unchanged, Rayleigh scattering theoretically increases by approximately:",
+      "image": null,
+      "options": [
+        "2 times",
+        "4 times",
+        "8 times",
+        "16 times"
+      ],
+      "answer": 3,
+      "explanation": "Doubling frequency gives 2■ = 16 times the Rayleigh scattering effect.",
+      "explanationImage": null,
+      "tags": [
+        "Refraction, Scattering and Speckle Fundamentals"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch08-q039",
+      "stem": "Which statement about acoustic speckle is most accurate?",
+      "image": null,
+      "options": [
+        "Each bright speckle represents one individual cell",
+        "Speckle directly maps microscopic tissue anatomy",
+        "Speckle is an interference pattern created by scattered echoes",
+        "Speckle occurs only at large smooth interfaces"
+      ],
+      "answer": 2,
+      "explanation": "Speckle is an interference pattern created by scattered echoes",
+      "explanationImage": null,
+      "tags": [
+        "Refraction, Scattering and Speckle Fundamentals"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch08-q040",
+      "stem": "Why can acoustic speckle reduce image quality?",
+      "image": null,
+      "options": [
+        "It increases the propagation speed in tissue",
+        "It can obscure small structures and reduce contrast resolution",
+        "It prevents all echoes from returning to the transducer",
+        "It produces incorrect axial placement of every reflector"
+      ],
+      "answer": 1,
+      "explanation": "It can obscure small structures and reduce contrast resolution Speckle is created by interference among echoes from multiple scatterers.",
+      "explanationImage": null,
+      "tags": [
+        "Refraction, Scattering and Speckle Fundamentals"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch08-q041",
+      "stem": "During a parasternal long-axis examination, a beam crosses an oblique tissue boundary. Which additional condition is necessary for the transmitted beam to change direction?",
+      "image": null,
+      "options": [
+        "Equal acoustic impedances only",
+        "A 0-degree incident angle",
+        "Equal propagation speeds",
+        "Different sound propagation speeds on either side"
+      ],
+      "answer": 3,
+      "explanation": "Directional refraction requires both oblique incidence and different sound speeds.",
+      "explanationImage": null,
+      "tags": [
+        "Clinical Refraction & Echo Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch08-q042",
+      "stem": "During a parasternal long-axis examination. Sound crosses an interface at 30 degrees to the normal, with speeds of 1540 m/s and 1600 m/s before and after the boundary. Which path is expected?",
+      "image": null,
+      "options": [
+        "Bends away from the normal",
+        "Becomes perpendicular to the interface",
+        "Reflects at 30 degrees with no transmission",
+        "Bends toward the normal"
+      ],
+      "answer": 0,
+      "explanation": "The second medium is faster; the transmitted angle increases.",
+      "explanationImage": null,
+      "tags": [
+        "Clinical Refraction & Echo Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch08-q043",
+      "stem": "During a parasternal long-axis examination. At an incident angle of 30 degrees, sound travels from 1600 m/s into 1440 m/s. Approximately what is the transmission angle?",
+      "image": null,
+      "options": [
+        "27 degrees",
+        "30 degrees",
+        "39 degrees",
+        "15 degrees"
+      ],
+      "answer": 0,
+      "explanation": "Snell law: sin(theta_t)=(1440/1600) sin(30 degrees); theta_t is about 27 degrees.",
+      "explanationImage": null,
+      "tags": [
+        "Clinical Refraction & Echo Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch08-q044",
+      "stem": "During a parasternal long-axis examination, the incident beam meets a smooth reflector at 12 degrees relative to the normal. What is the angle of the specularly reflected beam?",
+      "image": null,
+      "options": [
+        "27 degrees",
+        "6 degrees",
+        "12 degrees",
+        "78 degrees"
+      ],
+      "answer": 2,
+      "explanation": "The reflection angle equals the incident angle, both measured from the normal.",
+      "explanationImage": null,
+      "tags": [
+        "Clinical Refraction & Echo Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch08-q045",
+      "stem": "During a parasternal long-axis examination, a beam meets a boundary at normal incidence, although sound speeds differ. What is the transmitted beam direction?",
+      "image": null,
+      "options": [
+        "Bends toward the normal",
+        "Undergoes total internal reflection",
+        "Bends away from the normal",
+        "Continues along the original direction"
+      ],
+      "answer": 3,
+      "explanation": "At zero degrees to the normal, there is no directional bending.",
+      "explanationImage": null,
+      "tags": [
+        "Clinical Refraction & Echo Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch08-q046",
+      "stem": "During a parasternal long-axis examination, sound enters a faster medium and the speed ratio c1/c2 is 0.80. What is the approximate critical incident angle?",
+      "image": null,
+      "options": [
+        "26 degrees",
+        "37 degrees",
+        "53 degrees",
+        "90 degrees"
+      ],
+      "answer": 2,
+      "explanation": "At the critical angle sin(theta_c)=c1/c2=0.80, so theta_c is approximately 53 degrees.",
+      "explanationImage": null,
+      "tags": [
+        "Clinical Refraction & Echo Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch08-q047",
+      "stem": "During a parasternal long-axis examination, an incident beam travels from a slower to a faster medium at an angle greater than the critical angle. What is predicted by the idealized model?",
+      "image": null,
+      "options": [
+        "The beam bends toward the normal",
+        "The transmitted angle becomes zero",
+        "No propagating transmitted beam enters the second medium",
+        "All energy passes into the second medium"
+      ],
+      "answer": 2,
+      "explanation": "Above the critical angle, total internal reflection occurs in the idealized boundary model.",
+      "explanationImage": null,
+      "tags": [
+        "Clinical Refraction & Echo Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch08-q048",
+      "stem": "During a parasternal long-axis examination, a cardiac border appears duplicated but the extra border disappears after changing the acoustic window. Which explanation is most consistent?",
+      "image": null,
+      "options": [
+        "Refraction-related duplication",
+        "An increase in pulse repetition frequency",
+        "A true second cardiac wall",
+        "Uniform tissue attenuation"
+      ],
+      "answer": 0,
+      "explanation": "A refraction artifact can create misplaced or duplicated echoes that vary with insonation angle.",
+      "explanationImage": null,
+      "tags": [
+        "Clinical Refraction & Echo Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch08-q049",
+      "stem": "During a parasternal long-axis examination, a narrow dark band appears at the curved lateral margin of a fluid-filled vessel. Which interaction best explains this edge artifact?",
+      "image": null,
+      "options": [
+        "Increased through-transmission at the center",
+        "Refraction redirecting the beam away from the region",
+        "Constructive interference throughout the vessel",
+        "Specular reflection from the posterior wall only"
+      ],
+      "answer": 1,
+      "explanation": "Curved interfaces may refract beams and produce edge shadowing.",
+      "explanationImage": null,
+      "tags": [
+        "Clinical Refraction & Echo Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch08-q050",
+      "stem": "During a parasternal long-axis examination, an apparent lateral displacement of a structure is suspected to be caused by beam bending. Which adjustment is most useful to test this?",
+      "image": null,
+      "options": [
+        "Raise pulse repetition frequency only",
+        "Increase overall gain only",
+        "Change transducer orientation or acoustic window",
+        "Increase dynamic range only"
+      ],
+      "answer": 2,
+      "explanation": "A different beam path changes refraction and can resolve a false lateral position.",
+      "explanationImage": null,
+      "tags": [
+        "Clinical Refraction & Echo Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch08-q051",
+      "stem": "During a parasternal long-axis examination, the pericardial interface produces a strong echo when insonated nearly perpendicularly but a weak echo at an oblique angle. What type of interaction predominates?",
+      "image": null,
+      "options": [
+        "Destructive interference alone",
+        "Specular reflection",
+        "Rayleigh scattering",
+        "Diffuse reflection from a rough surface"
+      ],
+      "answer": 1,
+      "explanation": "Large smooth boundaries are specular and angle dependent.",
+      "explanationImage": null,
+      "tags": [
+        "Clinical Refraction & Echo Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch08-q052",
+      "stem": "During a parasternal long-axis examination, ultrasound strikes a surface that is large compared with the wavelength but irregular and rough. How is the returning energy best classified?",
+      "image": null,
+      "options": [
+        "Perfect specular reflection",
+        "Rayleigh scattering from tiny particles",
+        "Diffuse reflection",
+        "Total internal reflection"
+      ],
+      "answer": 2,
+      "explanation": "A large rough surface reflects energy in multiple directions.",
+      "explanationImage": null,
+      "tags": [
+        "Clinical Refraction & Echo Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch08-q053",
+      "stem": "During a parasternal long-axis examination, weak echoes from many small tissue inhomogeneities return to the probe and help create tissue texture. What are these returning echoes called?",
+      "image": null,
+      "options": [
+        "Backscatter",
+        "Transmitted sound only",
+        "Absorption",
+        "Refraction"
+      ],
+      "answer": 0,
+      "explanation": "Backscatter is the scattered or reflected component returning toward the transducer.",
+      "explanationImage": null,
+      "tags": [
+        "Clinical Refraction & Echo Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch08-q054",
+      "stem": "During a parasternal long-axis examination, frequency increases by a factor of 2 while scatterers remain in the Rayleigh regime and other factors are fixed. By approximately what factor does scattered intensity increase?",
+      "image": null,
+      "options": [
+        "8 times",
+        "4 times",
+        "2 times",
+        "16 times"
+      ],
+      "answer": 3,
+      "explanation": "Rayleigh scattered intensity is proportional to f^4; 2^4 = 16.",
+      "explanationImage": null,
+      "tags": [
+        "Clinical Refraction & Echo Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch08-q055",
+      "stem": "During a parasternal long-axis examination, two scattered echoes of comparable amplitude arrive in phase. Which appearance is most likely?",
+      "image": null,
+      "options": [
+        "A transmitted beam at the critical angle",
+        "A change in tissue propagation speed",
+        "Darker speckle from destructive interference",
+        "Brighter speckle from constructive interference"
+      ],
+      "answer": 3,
+      "explanation": "In-phase echoes reinforce; out-of-phase echoes cancel partly or completely.",
+      "explanationImage": null,
+      "tags": [
+        "Clinical Refraction & Echo Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch08-q056",
+      "stem": "During a parasternal long-axis examination, low-level swirling smoke-like echoes are visible within a slowly flowing cardiac chamber. Which phenomenon best fits the lecture discussion?",
+      "image": null,
+      "options": [
+        "Spontaneous echo contrast associated with red-cell aggregation",
+        "A refraction-caused duplicate chamber",
+        "Total internal reflection at the endocardium",
+        "A single smooth specular reflector"
+      ],
+      "answer": 0,
+      "explanation": "The lecture describes rouleaux/red-cell aggregation and smoke-like spontaneous echo contrast in slow flow; this is not by itself proof of thrombus.",
+      "explanationImage": null,
+      "tags": [
+        "Clinical Refraction & Echo Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch08-q057",
+      "stem": "While obtaining an apical four-chamber view, a beam crosses an oblique tissue boundary. Which additional condition is necessary for the transmitted beam to change direction?",
+      "image": null,
+      "options": [
+        "Different sound propagation speeds on either side",
+        "Equal propagation speeds",
+        "Equal acoustic impedances only",
+        "A 0-degree incident angle"
+      ],
+      "answer": 0,
+      "explanation": "Directional refraction requires both oblique incidence and different sound speeds.",
+      "explanationImage": null,
+      "tags": [
+        "Clinical Refraction & Echo Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch08-q058",
+      "stem": "While obtaining an apical four-chamber view. Sound crosses an interface at 30 degrees to the normal, with speeds of 1600 m/s and 1450 m/s before and after the boundary. Which path is expected?",
+      "image": null,
+      "options": [
+        "Bends away from the normal",
+        "Becomes perpendicular to the interface",
+        "Reflects at 30 degrees with no transmission",
+        "Bends toward the normal"
+      ],
+      "answer": 3,
+      "explanation": "The second medium is slower; the transmitted angle decreases.",
+      "explanationImage": null,
+      "tags": [
+        "Clinical Refraction & Echo Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch08-q059",
+      "stem": "While obtaining an apical four-chamber view. At an incident angle of 30 degrees, sound travels from 1500 m/s into 1650 m/s. Approximately what is the transmission angle?",
+      "image": null,
+      "options": [
+        "21 degrees",
+        "45 degrees",
+        "33 degrees",
+        "30 degrees"
+      ],
+      "answer": 2,
+      "explanation": "Snell law: sin(theta_t)=(1650/1500) sin(30 degrees); theta_t is about 33 degrees.",
+      "explanationImage": null,
+      "tags": [
+        "Clinical Refraction & Echo Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch08-q060",
+      "stem": "While obtaining an apical four-chamber view, the incident beam meets a smooth reflector at 18 degrees relative to the normal. What is the angle of the specularly reflected beam?",
+      "image": null,
+      "options": [
+        "9 degrees",
+        "18 degrees",
+        "72 degrees",
+        "33 degrees"
+      ],
+      "answer": 1,
+      "explanation": "The reflection angle equals the incident angle, both measured from the normal.",
+      "explanationImage": null,
+      "tags": [
+        "Clinical Refraction & Echo Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch08-q061",
+      "stem": "While obtaining an apical four-chamber view, a beam meets a boundary at normal incidence, although sound speeds differ. What is the transmitted beam direction?",
+      "image": null,
+      "options": [
+        "Bends away from the normal",
+        "Bends toward the normal",
+        "Continues along the original direction",
+        "Undergoes total internal reflection"
+      ],
+      "answer": 2,
+      "explanation": "At zero degrees to the normal, there is no directional bending.",
+      "explanationImage": null,
+      "tags": [
+        "Clinical Refraction & Echo Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch08-q062",
+      "stem": "While obtaining an apical four-chamber view, sound enters a faster medium and the speed ratio c1/c2 is 0.85. What is the approximate critical incident angle?",
+      "image": null,
+      "options": [
+        "58 degrees",
+        "32 degrees",
+        "29 degrees",
+        "90 degrees"
+      ],
+      "answer": 0,
+      "explanation": "At the critical angle sin(theta_c)=c1/c2=0.85, so theta_c is approximately 58 degrees.",
+      "explanationImage": null,
+      "tags": [
+        "Clinical Refraction & Echo Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch08-q063",
+      "stem": "While obtaining an apical four-chamber view, an incident beam travels from a slower to a faster medium at an angle greater than the critical angle. What is predicted by the idealized model?",
+      "image": null,
+      "options": [
+        "No propagating transmitted beam enters the second medium",
+        "The transmitted angle becomes zero",
+        "The beam bends toward the normal",
+        "All energy passes into the second medium"
+      ],
+      "answer": 0,
+      "explanation": "Above the critical angle, total internal reflection occurs in the idealized boundary model.",
+      "explanationImage": null,
+      "tags": [
+        "Clinical Refraction & Echo Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch08-q064",
+      "stem": "While obtaining an apical four-chamber view, a cardiac border appears duplicated but the extra border disappears after changing the acoustic window. Which explanation is most consistent?",
+      "image": null,
+      "options": [
+        "Refraction-related duplication",
+        "A true second cardiac wall",
+        "An increase in pulse repetition frequency",
+        "Uniform tissue attenuation"
+      ],
+      "answer": 0,
+      "explanation": "A refraction artifact can create misplaced or duplicated echoes that vary with insonation angle.",
+      "explanationImage": null,
+      "tags": [
+        "Clinical Refraction & Echo Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch08-q065",
+      "stem": "While obtaining an apical four-chamber view, a narrow dark band appears at the curved lateral margin of a fluid-filled vessel. Which interaction best explains this edge artifact?",
+      "image": null,
+      "options": [
+        "Constructive interference throughout the vessel",
+        "Refraction redirecting the beam away from the region",
+        "Increased through-transmission at the center",
+        "Specular reflection from the posterior wall only"
+      ],
+      "answer": 1,
+      "explanation": "Curved interfaces may refract beams and produce edge shadowing.",
+      "explanationImage": null,
+      "tags": [
+        "Clinical Refraction & Echo Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch08-q066",
+      "stem": "While obtaining an apical four-chamber view, an apparent lateral displacement of a structure is suspected to be caused by beam bending. Which adjustment is most useful to test this?",
+      "image": null,
+      "options": [
+        "Raise pulse repetition frequency only",
+        "Change transducer orientation or acoustic window",
+        "Increase overall gain only",
+        "Increase dynamic range only"
+      ],
+      "answer": 1,
+      "explanation": "A different beam path changes refraction and can resolve a false lateral position.",
+      "explanationImage": null,
+      "tags": [
+        "Clinical Refraction & Echo Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch08-q067",
+      "stem": "While obtaining an apical four-chamber view, the smooth valve leaflet produces a strong echo when insonated nearly perpendicularly but a weak echo at an oblique angle. What type of interaction predominates?",
+      "image": null,
+      "options": [
+        "Diffuse reflection from a rough surface",
+        "Rayleigh scattering",
+        "Destructive interference alone",
+        "Specular reflection"
+      ],
+      "answer": 3,
+      "explanation": "Large smooth boundaries are specular and angle dependent.",
+      "explanationImage": null,
+      "tags": [
+        "Clinical Refraction & Echo Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch08-q068",
+      "stem": "While obtaining an apical four-chamber view, ultrasound strikes a surface that is large compared with the wavelength but irregular and rough. How is the returning energy best classified?",
+      "image": null,
+      "options": [
+        "Total internal reflection",
+        "Diffuse reflection",
+        "Rayleigh scattering from tiny particles",
+        "Perfect specular reflection"
+      ],
+      "answer": 1,
+      "explanation": "A large rough surface reflects energy in multiple directions.",
+      "explanationImage": null,
+      "tags": [
+        "Clinical Refraction & Echo Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch08-q069",
+      "stem": "While obtaining an apical four-chamber view, weak echoes from many small tissue inhomogeneities return to the probe and help create tissue texture. What are these returning echoes called?",
+      "image": null,
+      "options": [
+        "Backscatter",
+        "Absorption",
+        "Transmitted sound only",
+        "Refraction"
+      ],
+      "answer": 0,
+      "explanation": "Backscatter is the scattered or reflected component returning toward the transducer.",
+      "explanationImage": null,
+      "tags": [
+        "Clinical Refraction & Echo Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch08-q070",
+      "stem": "While obtaining an apical four-chamber view, frequency increases by a factor of 3 while scatterers remain in the Rayleigh regime and other factors are fixed. By approximately what factor does scattered intensity increase?",
+      "image": null,
+      "options": [
+        "81 times",
+        "3 times",
+        "9 times",
+        "27 times"
+      ],
+      "answer": 0,
+      "explanation": "Rayleigh scattered intensity is proportional to f^4; 3^4 = 81.",
+      "explanationImage": null,
+      "tags": [
+        "Clinical Refraction & Echo Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch08-q071",
+      "stem": "While obtaining an apical four-chamber view, two scattered echoes of comparable amplitude arrive 180 degrees out of phase. Which appearance is most likely?",
+      "image": null,
+      "options": [
+        "Brighter speckle from constructive interference",
+        "Darker speckle from destructive interference",
+        "A change in tissue propagation speed",
+        "A transmitted beam at the critical angle"
+      ],
+      "answer": 1,
+      "explanation": "In-phase echoes reinforce; out-of-phase echoes cancel partly or completely.",
+      "explanationImage": null,
+      "tags": [
+        "Clinical Refraction & Echo Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch08-q072",
+      "stem": "While obtaining an apical four-chamber view, low-level swirling smoke-like echoes are visible within a slowly flowing cardiac chamber. Which phenomenon best fits the lecture discussion?",
+      "image": null,
+      "options": [
+        "Spontaneous echo contrast associated with red-cell aggregation",
+        "A single smooth specular reflector",
+        "A refraction-caused duplicate chamber",
+        "Total internal reflection at the endocardium"
+      ],
+      "answer": 0,
+      "explanation": "The lecture describes rouleaux/red-cell aggregation and smoke-like spontaneous echo contrast in slow flow; this is not by itself proof of thrombus.",
+      "explanationImage": null,
+      "tags": [
+        "Clinical Refraction & Echo Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch08-q073",
+      "stem": "During a subcostal cardiac examination, a beam crosses an oblique tissue boundary. Which additional condition is necessary for the transmitted beam to change direction?",
+      "image": null,
+      "options": [
+        "A 0-degree incident angle",
+        "Equal acoustic impedances only",
+        "Equal propagation speeds",
+        "Different sound propagation speeds on either side"
+      ],
+      "answer": 3,
+      "explanation": "Directional refraction requires both oblique incidence and different sound speeds.",
+      "explanationImage": null,
+      "tags": [
+        "Clinical Refraction & Echo Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch08-q074",
+      "stem": "During a subcostal cardiac examination. Sound crosses an interface at 30 degrees to the normal, with speeds of 1480 m/s and 1540 m/s before and after the boundary. Which path is expected?",
+      "image": null,
+      "options": [
+        "Reflects at 30 degrees with no transmission",
+        "Bends toward the normal",
+        "Bends away from the normal",
+        "Becomes perpendicular to the interface"
+      ],
+      "answer": 2,
+      "explanation": "The second medium is faster; the transmitted angle increases.",
+      "explanationImage": null,
+      "tags": [
+        "Clinical Refraction & Echo Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch08-q075",
+      "stem": "During a subcostal cardiac examination. At an incident angle of 30 degrees, sound travels from 1540 m/s into 1386 m/s. Approximately what is the transmission angle?",
+      "image": null,
+      "options": [
+        "39 degrees",
+        "30 degrees",
+        "27 degrees",
+        "15 degrees"
+      ],
+      "answer": 2,
+      "explanation": "Snell law: sin(theta_t)=(1386/1540) sin(30 degrees); theta_t is about 27 degrees.",
+      "explanationImage": null,
+      "tags": [
+        "Clinical Refraction & Echo Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch08-q076",
+      "stem": "During a subcostal cardiac examination, the incident beam meets a smooth reflector at 24 degrees relative to the normal. What is the angle of the specularly reflected beam?",
+      "image": null,
+      "options": [
+        "12 degrees",
+        "24 degrees",
+        "66 degrees",
+        "39 degrees"
+      ],
+      "answer": 1,
+      "explanation": "The reflection angle equals the incident angle, both measured from the normal.",
+      "explanationImage": null,
+      "tags": [
+        "Clinical Refraction & Echo Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch08-q077",
+      "stem": "During a subcostal cardiac examination, a beam meets a boundary at normal incidence, although sound speeds differ. What is the transmitted beam direction?",
+      "image": null,
+      "options": [
+        "Continues along the original direction",
+        "Undergoes total internal reflection",
+        "Bends toward the normal",
+        "Bends away from the normal"
+      ],
+      "answer": 0,
+      "explanation": "At zero degrees to the normal, there is no directional bending.",
+      "explanationImage": null,
+      "tags": [
+        "Clinical Refraction & Echo Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch08-q078",
+      "stem": "During a subcostal cardiac examination, sound enters a faster medium and the speed ratio c1/c2 is 0.90. What is the approximate critical incident angle?",
+      "image": null,
+      "options": [
+        "32 degrees",
+        "64 degrees",
+        "90 degrees",
+        "26 degrees"
+      ],
+      "answer": 1,
+      "explanation": "At the critical angle sin(theta_c)=c1/c2=0.90, so theta_c is approximately 64 degrees.",
+      "explanationImage": null,
+      "tags": [
+        "Clinical Refraction & Echo Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch08-q079",
+      "stem": "During a subcostal cardiac examination, an incident beam travels from a slower to a faster medium at an angle greater than the critical angle. What is predicted by the idealized model?",
+      "image": null,
+      "options": [
+        "All energy passes into the second medium",
+        "The transmitted angle becomes zero",
+        "The beam bends toward the normal",
+        "No propagating transmitted beam enters the second medium"
+      ],
+      "answer": 3,
+      "explanation": "Above the critical angle, total internal reflection occurs in the idealized boundary model.",
+      "explanationImage": null,
+      "tags": [
+        "Clinical Refraction & Echo Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch08-q080",
+      "stem": "During a subcostal cardiac examination, a cardiac border appears duplicated but the extra border disappears after changing the acoustic window. Which explanation is most consistent?",
+      "image": null,
+      "options": [
+        "A true second cardiac wall",
+        "An increase in pulse repetition frequency",
+        "Uniform tissue attenuation",
+        "Refraction-related duplication"
+      ],
+      "answer": 3,
+      "explanation": "A refraction artifact can create misplaced or duplicated echoes that vary with insonation angle.",
+      "explanationImage": null,
+      "tags": [
+        "Clinical Refraction & Echo Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch08-q081",
+      "stem": "During a subcostal cardiac examination, a narrow dark band appears at the curved lateral margin of a fluid-filled vessel. Which interaction best explains this edge artifact?",
+      "image": null,
+      "options": [
+        "Specular reflection from the posterior wall only",
+        "Constructive interference throughout the vessel",
+        "Refraction redirecting the beam away from the region",
+        "Increased through-transmission at the center"
+      ],
+      "answer": 2,
+      "explanation": "Curved interfaces may refract beams and produce edge shadowing.",
+      "explanationImage": null,
+      "tags": [
+        "Clinical Refraction & Echo Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch08-q082",
+      "stem": "During a subcostal cardiac examination, an apparent lateral displacement of a structure is suspected to be caused by beam bending. Which adjustment is most useful to test this?",
+      "image": null,
+      "options": [
+        "Change transducer orientation or acoustic window",
+        "Increase overall gain only",
+        "Raise pulse repetition frequency only",
+        "Increase dynamic range only"
+      ],
+      "answer": 0,
+      "explanation": "A different beam path changes refraction and can resolve a false lateral position.",
+      "explanationImage": null,
+      "tags": [
+        "Clinical Refraction & Echo Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch08-q083",
+      "stem": "During a subcostal cardiac examination, the smooth vessel wall produces a strong echo when insonated nearly perpendicularly but a weak echo at an oblique angle. What type of interaction predominates?",
+      "image": null,
+      "options": [
+        "Diffuse reflection from a rough surface",
+        "Destructive interference alone",
+        "Specular reflection",
+        "Rayleigh scattering"
+      ],
+      "answer": 2,
+      "explanation": "Large smooth boundaries are specular and angle dependent.",
+      "explanationImage": null,
+      "tags": [
+        "Clinical Refraction & Echo Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch08-q084",
+      "stem": "During a subcostal cardiac examination, ultrasound strikes a surface that is large compared with the wavelength but irregular and rough. How is the returning energy best classified?",
+      "image": null,
+      "options": [
+        "Rayleigh scattering from tiny particles",
+        "Diffuse reflection",
+        "Total internal reflection",
+        "Perfect specular reflection"
+      ],
+      "answer": 1,
+      "explanation": "A large rough surface reflects energy in multiple directions.",
+      "explanationImage": null,
+      "tags": [
+        "Clinical Refraction & Echo Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch08-q085",
+      "stem": "During a subcostal cardiac examination, weak echoes from many small tissue inhomogeneities return to the probe and help create tissue texture. What are these returning echoes called?",
+      "image": null,
+      "options": [
+        "Refraction",
+        "Backscatter",
+        "Transmitted sound only",
+        "Absorption"
+      ],
+      "answer": 1,
+      "explanation": "Backscatter is the scattered or reflected component returning toward the transducer.",
+      "explanationImage": null,
+      "tags": [
+        "Clinical Refraction & Echo Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch08-q086",
+      "stem": "During a subcostal cardiac examination, frequency increases by a factor of 1.5 while scatterers remain in the Rayleigh regime and other factors are fixed. By approximately what factor does scattered intensity increase?",
+      "image": null,
+      "options": [
+        "3.375 times",
+        "1.5 times",
+        "5.0625 times",
+        "2.25 times"
+      ],
+      "answer": 2,
+      "explanation": "Rayleigh scattered intensity is proportional to f^4; 1.5^4 = 5.0625.",
+      "explanationImage": null,
+      "tags": [
+        "Clinical Refraction & Echo Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch08-q087",
+      "stem": "During a subcostal cardiac examination, two scattered echoes of comparable amplitude arrive in phase. Which appearance is most likely?",
+      "image": null,
+      "options": [
+        "A change in tissue propagation speed",
+        "A transmitted beam at the critical angle",
+        "Brighter speckle from constructive interference",
+        "Darker speckle from destructive interference"
+      ],
+      "answer": 2,
+      "explanation": "In-phase echoes reinforce; out-of-phase echoes cancel partly or completely.",
+      "explanationImage": null,
+      "tags": [
+        "Clinical Refraction & Echo Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch08-q088",
+      "stem": "During a subcostal cardiac examination, low-level swirling smoke-like echoes are visible within a slowly flowing cardiac chamber. Which phenomenon best fits the lecture discussion?",
+      "image": null,
+      "options": [
+        "Total internal reflection at the endocardium",
+        "Spontaneous echo contrast associated with red-cell aggregation",
+        "A refraction-caused duplicate chamber",
+        "A single smooth specular reflector"
+      ],
+      "answer": 1,
+      "explanation": "The lecture describes rouleaux/red-cell aggregation and smoke-like spontaneous echo contrast in slow flow; this is not by itself proof of thrombus.",
+      "explanationImage": null,
+      "tags": [
+        "Clinical Refraction & Echo Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch08-q089",
+      "stem": "While scanning through an intercostal window, a beam crosses an oblique tissue boundary. Which additional condition is necessary for the transmitted beam to change direction?",
+      "image": null,
+      "options": [
+        "Equal acoustic impedances only",
+        "Different sound propagation speeds on either side",
+        "A 0-degree incident angle",
+        "Equal propagation speeds"
+      ],
+      "answer": 1,
+      "explanation": "Directional refraction requires both oblique incidence and different sound speeds.",
+      "explanationImage": null,
+      "tags": [
+        "Clinical Refraction & Echo Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch08-q090",
+      "stem": "While scanning through an intercostal window. Sound crosses an interface at 30 degrees to the normal, with speeds of 1580 m/s and 1460 m/s before and after the boundary. Which path is expected?",
+      "image": null,
+      "options": [
+        "Reflects at 30 degrees with no transmission",
+        "Becomes perpendicular to the interface",
+        "Bends away from the normal",
+        "Bends toward the normal"
+      ],
+      "answer": 3,
+      "explanation": "The second medium is slower; the transmitted angle decreases.",
+      "explanationImage": null,
+      "tags": [
+        "Clinical Refraction & Echo Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch08-q091",
+      "stem": "While scanning through an intercostal window. At an incident angle of 30 degrees, sound travels from 1450 m/s into 1595 m/s. Approximately what is the transmission angle?",
+      "image": null,
+      "options": [
+        "21 degrees",
+        "45 degrees",
+        "30 degrees",
+        "33 degrees"
+      ],
+      "answer": 3,
+      "explanation": "Snell law: sin(theta_t)=(1595/1450) sin(30 degrees); theta_t is about 33 degrees.",
+      "explanationImage": null,
+      "tags": [
+        "Clinical Refraction & Echo Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch08-q092",
+      "stem": "While scanning through an intercostal window, the incident beam meets a smooth reflector at 30 degrees relative to the normal. What is the angle of the specularly reflected beam?",
+      "image": null,
+      "options": [
+        "15 degrees",
+        "60 degrees",
+        "45 degrees",
+        "30 degrees"
+      ],
+      "answer": 3,
+      "explanation": "The reflection angle equals the incident angle, both measured from the normal.",
+      "explanationImage": null,
+      "tags": [
+        "Clinical Refraction & Echo Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch08-q093",
+      "stem": "While scanning through an intercostal window, a beam meets a boundary at normal incidence, although sound speeds differ. What is the transmitted beam direction?",
+      "image": null,
+      "options": [
+        "Continues along the original direction",
+        "Bends away from the normal",
+        "Undergoes total internal reflection",
+        "Bends toward the normal"
+      ],
+      "answer": 0,
+      "explanation": "At zero degrees to the normal, there is no directional bending.",
+      "explanationImage": null,
+      "tags": [
+        "Clinical Refraction & Echo Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch08-q094",
+      "stem": "While scanning through an intercostal window, sound enters a faster medium and the speed ratio c1/c2 is 0.75. What is the approximate critical incident angle?",
+      "image": null,
+      "options": [
+        "24 degrees",
+        "49 degrees",
+        "41 degrees",
+        "90 degrees"
+      ],
+      "answer": 1,
+      "explanation": "At the critical angle sin(theta_c)=c1/c2=0.75, so theta_c is approximately 49 degrees.",
+      "explanationImage": null,
+      "tags": [
+        "Clinical Refraction & Echo Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch08-q095",
+      "stem": "While scanning through an intercostal window, an incident beam travels from a slower to a faster medium at an angle greater than the critical angle. What is predicted by the idealized model?",
+      "image": null,
+      "options": [
+        "All energy passes into the second medium",
+        "No propagating transmitted beam enters the second medium",
+        "The transmitted angle becomes zero",
+        "The beam bends toward the normal"
+      ],
+      "answer": 1,
+      "explanation": "Above the critical angle, total internal reflection occurs in the idealized boundary model.",
+      "explanationImage": null,
+      "tags": [
+        "Clinical Refraction & Echo Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch08-q096",
+      "stem": "While scanning through an intercostal window, a cardiac border appears duplicated but the extra border disappears after changing the acoustic window. Which explanation is most consistent?",
+      "image": null,
+      "options": [
+        "An increase in pulse repetition frequency",
+        "Refraction-related duplication",
+        "Uniform tissue attenuation",
+        "A true second cardiac wall"
+      ],
+      "answer": 1,
+      "explanation": "A refraction artifact can create misplaced or duplicated echoes that vary with insonation angle.",
+      "explanationImage": null,
+      "tags": [
+        "Clinical Refraction & Echo Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch08-q097",
+      "stem": "While scanning through an intercostal window, a narrow dark band appears at the curved lateral margin of a fluid-filled vessel. Which interaction best explains this edge artifact?",
+      "image": null,
+      "options": [
+        "Refraction redirecting the beam away from the region",
+        "Increased through-transmission at the center",
+        "Constructive interference throughout the vessel",
+        "Specular reflection from the posterior wall only"
+      ],
+      "answer": 0,
+      "explanation": "Curved interfaces may refract beams and produce edge shadowing.",
+      "explanationImage": null,
+      "tags": [
+        "Clinical Refraction & Echo Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch08-q098",
+      "stem": "While scanning through an intercostal window, an apparent lateral displacement of a structure is suspected to be caused by beam bending. Which adjustment is most useful to test this?",
+      "image": null,
+      "options": [
+        "Increase overall gain only",
+        "Change transducer orientation or acoustic window",
+        "Increase dynamic range only",
+        "Raise pulse repetition frequency only"
+      ],
+      "answer": 1,
+      "explanation": "A different beam path changes refraction and can resolve a false lateral position.",
+      "explanationImage": null,
+      "tags": [
+        "Clinical Refraction & Echo Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch08-q099",
+      "stem": "While scanning through an intercostal window, the endocardial boundary produces a strong echo when insonated nearly perpendicularly but a weak echo at an oblique angle. What type of interaction predominates?",
+      "image": null,
+      "options": [
+        "Destructive interference alone",
+        "Rayleigh scattering",
+        "Diffuse reflection from a rough surface",
+        "Specular reflection"
+      ],
+      "answer": 3,
+      "explanation": "Large smooth boundaries are specular and angle dependent.",
+      "explanationImage": null,
+      "tags": [
+        "Clinical Refraction & Echo Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch08-q100",
+      "stem": "While scanning through an intercostal window, ultrasound strikes a surface that is large compared with the wavelength but irregular and rough. How is the returning energy best classified?",
+      "image": null,
+      "options": [
+        "Rayleigh scattering from tiny particles",
+        "Total internal reflection",
+        "Perfect specular reflection",
+        "Diffuse reflection"
+      ],
+      "answer": 3,
+      "explanation": "A large rough surface reflects energy in multiple directions.",
+      "explanationImage": null,
+      "tags": [
+        "Clinical Refraction & Echo Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch08-q101",
+      "stem": "While scanning through an intercostal window, weak echoes from many small tissue inhomogeneities return to the probe and help create tissue texture. What are these returning echoes called?",
+      "image": null,
+      "options": [
+        "Absorption",
+        "Transmitted sound only",
+        "Refraction",
+        "Backscatter"
+      ],
+      "answer": 3,
+      "explanation": "Backscatter is the scattered or reflected component returning toward the transducer.",
+      "explanationImage": null,
+      "tags": [
+        "Clinical Refraction & Echo Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch08-q102",
+      "stem": "While scanning through an intercostal window, frequency increases by a factor of 2 while scatterers remain in the Rayleigh regime and other factors are fixed. By approximately what factor does scattered intensity increase?",
+      "image": null,
+      "options": [
+        "2 times",
+        "16 times",
+        "4 times",
+        "8 times"
+      ],
+      "answer": 1,
+      "explanation": "Rayleigh scattered intensity is proportional to f^4; 2^4 = 16.",
+      "explanationImage": null,
+      "tags": [
+        "Clinical Refraction & Echo Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch08-q103",
+      "stem": "While scanning through an intercostal window, two scattered echoes of comparable amplitude arrive 180 degrees out of phase. Which appearance is most likely?",
+      "image": null,
+      "options": [
+        "Brighter speckle from constructive interference",
+        "Darker speckle from destructive interference",
+        "A change in tissue propagation speed",
+        "A transmitted beam at the critical angle"
+      ],
+      "answer": 1,
+      "explanation": "In-phase echoes reinforce; out-of-phase echoes cancel partly or completely.",
+      "explanationImage": null,
+      "tags": [
+        "Clinical Refraction & Echo Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch08-q104",
+      "stem": "While scanning through an intercostal window, low-level swirling smoke-like echoes are visible within a slowly flowing cardiac chamber. Which phenomenon best fits the lecture discussion?",
+      "image": null,
+      "options": [
+        "A single smooth specular reflector",
+        "Spontaneous echo contrast associated with red-cell aggregation",
+        "Total internal reflection at the endocardium",
+        "A refraction-caused duplicate chamber"
+      ],
+      "answer": 1,
+      "explanation": "The lecture describes rouleaux/red-cell aggregation and smoke-like spontaneous echo contrast in slow flow; this is not by itself proof of thrombus.",
+      "explanationImage": null,
+      "tags": [
+        "Clinical Refraction & Echo Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch08-q105",
+      "stem": "During a parasternal short-axis examination, a beam crosses an oblique tissue boundary. Which additional condition is necessary for the transmitted beam to change direction?",
+      "image": null,
+      "options": [
+        "A 0-degree incident angle",
+        "Equal acoustic impedances only",
+        "Different sound propagation speeds on either side",
+        "Equal propagation speeds"
+      ],
+      "answer": 2,
+      "explanation": "Directional refraction requires both oblique incidence and different sound speeds.",
+      "explanationImage": null,
+      "tags": [
+        "Clinical Refraction & Echo Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch08-q106",
+      "stem": "During a parasternal short-axis examination. Sound crosses an interface at 30 degrees to the normal, with speeds of 1500 m/s and 1650 m/s before and after the boundary. Which path is expected?",
+      "image": null,
+      "options": [
+        "Bends away from the normal",
+        "Reflects at 30 degrees with no transmission",
+        "Bends toward the normal",
+        "Becomes perpendicular to the interface"
+      ],
+      "answer": 0,
+      "explanation": "The second medium is faster; the transmitted angle increases.",
+      "explanationImage": null,
+      "tags": [
+        "Clinical Refraction & Echo Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch08-q107",
+      "stem": "During a parasternal short-axis examination. At an incident angle of 45 degrees, sound travels from 1600 m/s into 1520 m/s. Approximately what is the transmission angle?",
+      "image": null,
+      "options": [
+        "54 degrees",
+        "45 degrees",
+        "42 degrees",
+        "30 degrees"
+      ],
+      "answer": 2,
+      "explanation": "Snell law: sin(theta_t)=(1520/1600) sin(45 degrees); theta_t is about 42 degrees.",
+      "explanationImage": null,
+      "tags": [
+        "Clinical Refraction & Echo Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch08-q108",
+      "stem": "During a parasternal short-axis examination, the incident beam meets a smooth reflector at 35 degrees relative to the normal. What is the angle of the specularly reflected beam?",
+      "image": null,
+      "options": [
+        "50 degrees",
+        "55 degrees",
+        "35 degrees",
+        "17.5 degrees"
+      ],
+      "answer": 2,
+      "explanation": "The reflection angle equals the incident angle, both measured from the normal.",
+      "explanationImage": null,
+      "tags": [
+        "Clinical Refraction & Echo Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch08-q109",
+      "stem": "During a parasternal short-axis examination, a beam meets a boundary at normal incidence, although sound speeds differ. What is the transmitted beam direction?",
+      "image": null,
+      "options": [
+        "Continues along the original direction",
+        "Bends toward the normal",
+        "Undergoes total internal reflection",
+        "Bends away from the normal"
+      ],
+      "answer": 0,
+      "explanation": "At zero degrees to the normal, there is no directional bending.",
+      "explanationImage": null,
+      "tags": [
+        "Clinical Refraction & Echo Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch08-q110",
+      "stem": "During a parasternal short-axis examination, sound enters a faster medium and the speed ratio c1/c2 is 0.70. What is the approximate critical incident angle?",
+      "image": null,
+      "options": [
+        "44 degrees",
+        "22 degrees",
+        "46 degrees",
+        "90 degrees"
+      ],
+      "answer": 0,
+      "explanation": "At the critical angle sin(theta_c)=c1/c2=0.70, so theta_c is approximately 44 degrees.",
+      "explanationImage": null,
+      "tags": [
+        "Clinical Refraction & Echo Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch08-q111",
+      "stem": "During a parasternal short-axis examination, an incident beam travels from a slower to a faster medium at an angle greater than the critical angle. What is predicted by the idealized model?",
+      "image": null,
+      "options": [
+        "All energy passes into the second medium",
+        "The transmitted angle becomes zero",
+        "No propagating transmitted beam enters the second medium",
+        "The beam bends toward the normal"
+      ],
+      "answer": 2,
+      "explanation": "Above the critical angle, total internal reflection occurs in the idealized boundary model.",
+      "explanationImage": null,
+      "tags": [
+        "Clinical Refraction & Echo Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch08-q112",
+      "stem": "During a parasternal short-axis examination, a cardiac border appears duplicated but the extra border disappears after changing the acoustic window. Which explanation is most consistent?",
+      "image": null,
+      "options": [
+        "Uniform tissue attenuation",
+        "Refraction-related duplication",
+        "A true second cardiac wall",
+        "An increase in pulse repetition frequency"
+      ],
+      "answer": 1,
+      "explanation": "A refraction artifact can create misplaced or duplicated echoes that vary with insonation angle.",
+      "explanationImage": null,
+      "tags": [
+        "Clinical Refraction & Echo Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch08-q113",
+      "stem": "During a parasternal short-axis examination, a narrow dark band appears at the curved lateral margin of a fluid-filled vessel. Which interaction best explains this edge artifact?",
+      "image": null,
+      "options": [
+        "Increased through-transmission at the center",
+        "Specular reflection from the posterior wall only",
+        "Refraction redirecting the beam away from the region",
+        "Constructive interference throughout the vessel"
+      ],
+      "answer": 2,
+      "explanation": "Curved interfaces may refract beams and produce edge shadowing.",
+      "explanationImage": null,
+      "tags": [
+        "Clinical Refraction & Echo Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch08-q114",
+      "stem": "During a parasternal short-axis examination, an apparent lateral displacement of a structure is suspected to be caused by beam bending. Which adjustment is most useful to test this?",
+      "image": null,
+      "options": [
+        "Raise pulse repetition frequency only",
+        "Increase dynamic range only",
+        "Change transducer orientation or acoustic window",
+        "Increase overall gain only"
+      ],
+      "answer": 2,
+      "explanation": "A different beam path changes refraction and can resolve a false lateral position.",
+      "explanationImage": null,
+      "tags": [
+        "Clinical Refraction & Echo Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch08-q115",
+      "stem": "During a parasternal short-axis examination, the prosthetic valve surface produces a strong echo when insonated nearly perpendicularly but a weak echo at an oblique angle. What type of interaction predominates?",
+      "image": null,
+      "options": [
+        "Specular reflection",
+        "Rayleigh scattering",
+        "Diffuse reflection from a rough surface",
+        "Destructive interference alone"
+      ],
+      "answer": 0,
+      "explanation": "Large smooth boundaries are specular and angle dependent.",
+      "explanationImage": null,
+      "tags": [
+        "Clinical Refraction & Echo Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch08-q116",
+      "stem": "During a parasternal short-axis examination, ultrasound strikes a surface that is large compared with the wavelength but irregular and rough. How is the returning energy best classified?",
+      "image": null,
+      "options": [
+        "Rayleigh scattering from tiny particles",
+        "Diffuse reflection",
+        "Total internal reflection",
+        "Perfect specular reflection"
+      ],
+      "answer": 1,
+      "explanation": "A large rough surface reflects energy in multiple directions.",
+      "explanationImage": null,
+      "tags": [
+        "Clinical Refraction & Echo Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch08-q117",
+      "stem": "During a parasternal short-axis examination, weak echoes from many small tissue inhomogeneities return to the probe and help create tissue texture. What are these returning echoes called?",
+      "image": null,
+      "options": [
+        "Refraction",
+        "Transmitted sound only",
+        "Absorption",
+        "Backscatter"
+      ],
+      "answer": 3,
+      "explanation": "Backscatter is the scattered or reflected component returning toward the transducer.",
+      "explanationImage": null,
+      "tags": [
+        "Clinical Refraction & Echo Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch08-q118",
+      "stem": "During a parasternal short-axis examination, frequency increases by a factor of 3 while scatterers remain in the Rayleigh regime and other factors are fixed. By approximately what factor does scattered intensity increase?",
+      "image": null,
+      "options": [
+        "3 times",
+        "81 times",
+        "27 times",
+        "9 times"
+      ],
+      "answer": 1,
+      "explanation": "Rayleigh scattered intensity is proportional to f^4; 3^4 = 81.",
+      "explanationImage": null,
+      "tags": [
+        "Clinical Refraction & Echo Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch08-q119",
+      "stem": "During a parasternal short-axis examination, two scattered echoes of comparable amplitude arrive in phase. Which appearance is most likely?",
+      "image": null,
+      "options": [
+        "A transmitted beam at the critical angle",
+        "Darker speckle from destructive interference",
+        "A change in tissue propagation speed",
+        "Brighter speckle from constructive interference"
+      ],
+      "answer": 3,
+      "explanation": "In-phase echoes reinforce; out-of-phase echoes cancel partly or completely.",
+      "explanationImage": null,
+      "tags": [
+        "Clinical Refraction & Echo Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch08-q120",
+      "stem": "During a parasternal short-axis examination, low-level swirling smoke-like echoes are visible within a slowly flowing cardiac chamber. Which phenomenon best fits the lecture discussion?",
+      "image": null,
+      "options": [
+        "Spontaneous echo contrast associated with red-cell aggregation",
+        "A single smooth specular reflector",
+        "Total internal reflection at the endocardium",
+        "A refraction-caused duplicate chamber"
+      ],
+      "answer": 0,
+      "explanation": "The lecture describes rouleaux/red-cell aggregation and smoke-like spontaneous echo contrast in slow flow; this is not by itself proof of thrombus.",
+      "explanationImage": null,
+      "tags": [
+        "Clinical Refraction & Echo Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch08-q121",
+      "stem": "While evaluating a prosthetic valve, a beam crosses an oblique tissue boundary. Which additional condition is necessary for the transmitted beam to change direction?",
+      "image": null,
+      "options": [
+        "Equal propagation speeds",
+        "Different sound propagation speeds on either side",
+        "A 0-degree incident angle",
+        "Equal acoustic impedances only"
+      ],
+      "answer": 1,
+      "explanation": "Directional refraction requires both oblique incidence and different sound speeds.",
+      "explanationImage": null,
+      "tags": [
+        "Clinical Refraction & Echo Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch08-q122",
+      "stem": "While evaluating a prosthetic valve. Sound crosses an interface at 30 degrees to the normal, with speeds of 1620 m/s and 1520 m/s before and after the boundary. Which path is expected?",
+      "image": null,
+      "options": [
+        "Reflects at 30 degrees with no transmission",
+        "Becomes perpendicular to the interface",
+        "Bends away from the normal",
+        "Bends toward the normal"
+      ],
+      "answer": 3,
+      "explanation": "The second medium is slower; the transmitted angle decreases.",
+      "explanationImage": null,
+      "tags": [
+        "Clinical Refraction & Echo Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch08-q123",
+      "stem": "While evaluating a prosthetic valve. At an incident angle of 45 degrees, sound travels from 1500 m/s into 1350 m/s. Approximately what is the transmission angle?",
+      "image": null,
+      "options": [
+        "45 degrees",
+        "52 degrees",
+        "40 degrees",
+        "28 degrees"
+      ],
+      "answer": 2,
+      "explanation": "Snell law: sin(theta_t)=(1350/1500) sin(45 degrees); theta_t is about 40 degrees.",
+      "explanationImage": null,
+      "tags": [
+        "Clinical Refraction & Echo Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch08-q124",
+      "stem": "While evaluating a prosthetic valve, the incident beam meets a smooth reflector at 40 degrees relative to the normal. What is the angle of the specularly reflected beam?",
+      "image": null,
+      "options": [
+        "20 degrees",
+        "55 degrees",
+        "50 degrees",
+        "40 degrees"
+      ],
+      "answer": 3,
+      "explanation": "The reflection angle equals the incident angle, both measured from the normal.",
+      "explanationImage": null,
+      "tags": [
+        "Clinical Refraction & Echo Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch08-q125",
+      "stem": "While evaluating a prosthetic valve, a beam meets a boundary at normal incidence, although sound speeds differ. What is the transmitted beam direction?",
+      "image": null,
+      "options": [
+        "Undergoes total internal reflection",
+        "Bends away from the normal",
+        "Bends toward the normal",
+        "Continues along the original direction"
+      ],
+      "answer": 3,
+      "explanation": "At zero degrees to the normal, there is no directional bending.",
+      "explanationImage": null,
+      "tags": [
+        "Clinical Refraction & Echo Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch08-q126",
+      "stem": "While evaluating a prosthetic valve, sound enters a faster medium and the speed ratio c1/c2 is 0.88. What is the approximate critical incident angle?",
+      "image": null,
+      "options": [
+        "28 degrees",
+        "62 degrees",
+        "90 degrees",
+        "31 degrees"
+      ],
+      "answer": 1,
+      "explanation": "At the critical angle sin(theta_c)=c1/c2=0.88, so theta_c is approximately 62 degrees.",
+      "explanationImage": null,
+      "tags": [
+        "Clinical Refraction & Echo Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch08-q127",
+      "stem": "While evaluating a prosthetic valve, an incident beam travels from a slower to a faster medium at an angle greater than the critical angle. What is predicted by the idealized model?",
+      "image": null,
+      "options": [
+        "The beam bends toward the normal",
+        "No propagating transmitted beam enters the second medium",
+        "The transmitted angle becomes zero",
+        "All energy passes into the second medium"
+      ],
+      "answer": 1,
+      "explanation": "Above the critical angle, total internal reflection occurs in the idealized boundary model.",
+      "explanationImage": null,
+      "tags": [
+        "Clinical Refraction & Echo Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch08-q128",
+      "stem": "While evaluating a prosthetic valve, a cardiac border appears duplicated but the extra border disappears after changing the acoustic window. Which explanation is most consistent?",
+      "image": null,
+      "options": [
+        "An increase in pulse repetition frequency",
+        "Refraction-related duplication",
+        "A true second cardiac wall",
+        "Uniform tissue attenuation"
+      ],
+      "answer": 1,
+      "explanation": "A refraction artifact can create misplaced or duplicated echoes that vary with insonation angle.",
+      "explanationImage": null,
+      "tags": [
+        "Clinical Refraction & Echo Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch08-q129",
+      "stem": "While evaluating a prosthetic valve, a narrow dark band appears at the curved lateral margin of a fluid-filled vessel. Which interaction best explains this edge artifact?",
+      "image": null,
+      "options": [
+        "Specular reflection from the posterior wall only",
+        "Constructive interference throughout the vessel",
+        "Increased through-transmission at the center",
+        "Refraction redirecting the beam away from the region"
+      ],
+      "answer": 3,
+      "explanation": "Curved interfaces may refract beams and produce edge shadowing.",
+      "explanationImage": null,
+      "tags": [
+        "Clinical Refraction & Echo Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch08-q130",
+      "stem": "While evaluating a prosthetic valve, an apparent lateral displacement of a structure is suspected to be caused by beam bending. Which adjustment is most useful to test this?",
+      "image": null,
+      "options": [
+        "Increase overall gain only",
+        "Increase dynamic range only",
+        "Change transducer orientation or acoustic window",
+        "Raise pulse repetition frequency only"
+      ],
+      "answer": 2,
+      "explanation": "A different beam path changes refraction and can resolve a false lateral position.",
+      "explanationImage": null,
+      "tags": [
+        "Clinical Refraction & Echo Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch08-q131",
+      "stem": "While evaluating a prosthetic valve, the aortic wall produces a strong echo when insonated nearly perpendicularly but a weak echo at an oblique angle. What type of interaction predominates?",
+      "image": null,
+      "options": [
+        "Rayleigh scattering",
+        "Diffuse reflection from a rough surface",
+        "Destructive interference alone",
+        "Specular reflection"
+      ],
+      "answer": 3,
+      "explanation": "Large smooth boundaries are specular and angle dependent.",
+      "explanationImage": null,
+      "tags": [
+        "Clinical Refraction & Echo Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch08-q132",
+      "stem": "While evaluating a prosthetic valve, ultrasound strikes a surface that is large compared with the wavelength but irregular and rough. How is the returning energy best classified?",
+      "image": null,
+      "options": [
+        "Rayleigh scattering from tiny particles",
+        "Perfect specular reflection",
+        "Diffuse reflection",
+        "Total internal reflection"
+      ],
+      "answer": 2,
+      "explanation": "A large rough surface reflects energy in multiple directions.",
+      "explanationImage": null,
+      "tags": [
+        "Clinical Refraction & Echo Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch08-q133",
+      "stem": "While evaluating a prosthetic valve, weak echoes from many small tissue inhomogeneities return to the probe and help create tissue texture. What are these returning echoes called?",
+      "image": null,
+      "options": [
+        "Backscatter",
+        "Transmitted sound only",
+        "Absorption",
+        "Refraction"
+      ],
+      "answer": 0,
+      "explanation": "Backscatter is the scattered or reflected component returning toward the transducer.",
+      "explanationImage": null,
+      "tags": [
+        "Clinical Refraction & Echo Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch08-q134",
+      "stem": "While evaluating a prosthetic valve, frequency increases by a factor of 1.5 while scatterers remain in the Rayleigh regime and other factors are fixed. By approximately what factor does scattered intensity increase?",
+      "image": null,
+      "options": [
+        "3.375 times",
+        "2.25 times",
+        "1.5 times",
+        "5.0625 times"
+      ],
+      "answer": 3,
+      "explanation": "Rayleigh scattered intensity is proportional to f^4; 1.5^4 = 5.0625.",
+      "explanationImage": null,
+      "tags": [
+        "Clinical Refraction & Echo Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch08-q135",
+      "stem": "While evaluating a prosthetic valve, two scattered echoes of comparable amplitude arrive 180 degrees out of phase. Which appearance is most likely?",
+      "image": null,
+      "options": [
+        "Darker speckle from destructive interference",
+        "A transmitted beam at the critical angle",
+        "A change in tissue propagation speed",
+        "Brighter speckle from constructive interference"
+      ],
+      "answer": 0,
+      "explanation": "In-phase echoes reinforce; out-of-phase echoes cancel partly or completely.",
+      "explanationImage": null,
+      "tags": [
+        "Clinical Refraction & Echo Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch08-q136",
+      "stem": "While evaluating a prosthetic valve, low-level swirling smoke-like echoes are visible within a slowly flowing cardiac chamber. Which phenomenon best fits the lecture discussion?",
+      "image": null,
+      "options": [
+        "A refraction-caused duplicate chamber",
+        "Spontaneous echo contrast associated with red-cell aggregation",
+        "Total internal reflection at the endocardium",
+        "A single smooth specular reflector"
+      ],
+      "answer": 1,
+      "explanation": "The lecture describes rouleaux/red-cell aggregation and smoke-like spontaneous echo contrast in slow flow; this is not by itself proof of thrombus.",
+      "explanationImage": null,
+      "tags": [
+        "Clinical Refraction & Echo Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch08-q137",
+      "stem": "During an apical two-chamber examination, a beam crosses an oblique tissue boundary. Which additional condition is necessary for the transmitted beam to change direction?",
+      "image": null,
+      "options": [
+        "Different sound propagation speeds on either side",
+        "Equal propagation speeds",
+        "A 0-degree incident angle",
+        "Equal acoustic impedances only"
+      ],
+      "answer": 0,
+      "explanation": "Directional refraction requires both oblique incidence and different sound speeds.",
+      "explanationImage": null,
+      "tags": [
+        "Clinical Refraction & Echo Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch08-q138",
+      "stem": "During an apical two-chamber examination. Sound crosses an interface at 30 degrees to the normal, with speeds of 1450 m/s and 1580 m/s before and after the boundary. Which path is expected?",
+      "image": null,
+      "options": [
+        "Bends away from the normal",
+        "Reflects at 30 degrees with no transmission",
+        "Bends toward the normal",
+        "Becomes perpendicular to the interface"
+      ],
+      "answer": 0,
+      "explanation": "The second medium is faster; the transmitted angle increases.",
+      "explanationImage": null,
+      "tags": [
+        "Clinical Refraction & Echo Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch08-q139",
+      "stem": "During an apical two-chamber examination. At an incident angle of 30 degrees, sound travels from 1400 m/s into 1540 m/s. Approximately what is the transmission angle?",
+      "image": null,
+      "options": [
+        "21 degrees",
+        "30 degrees",
+        "45 degrees",
+        "33 degrees"
+      ],
+      "answer": 3,
+      "explanation": "Snell law: sin(theta_t)=(1540/1400) sin(30 degrees); theta_t is about 33 degrees.",
+      "explanationImage": null,
+      "tags": [
+        "Clinical Refraction & Echo Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch08-q140",
+      "stem": "During an apical two-chamber examination, the incident beam meets a smooth reflector at 45 degrees relative to the normal. What is the angle of the specularly reflected beam?",
+      "image": null,
+      "options": [
+        "40 degrees",
+        "22.5 degrees",
+        "60 degrees",
+        "45 degrees"
+      ],
+      "answer": 3,
+      "explanation": "The reflection angle equals the incident angle, both measured from the normal.",
+      "explanationImage": null,
+      "tags": [
+        "Clinical Refraction & Echo Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch08-q141",
+      "stem": "During an apical two-chamber examination, a beam meets a boundary at normal incidence, although sound speeds differ. What is the transmitted beam direction?",
+      "image": null,
+      "options": [
+        "Bends away from the normal",
+        "Continues along the original direction",
+        "Undergoes total internal reflection",
+        "Bends toward the normal"
+      ],
+      "answer": 1,
+      "explanation": "At zero degrees to the normal, there is no directional bending.",
+      "explanationImage": null,
+      "tags": [
+        "Clinical Refraction & Echo Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch08-q142",
+      "stem": "During an apical two-chamber examination, sound enters a faster medium and the speed ratio c1/c2 is 0.82. What is the approximate critical incident angle?",
+      "image": null,
+      "options": [
+        "55 degrees",
+        "90 degrees",
+        "35 degrees",
+        "28 degrees"
+      ],
+      "answer": 0,
+      "explanation": "At the critical angle sin(theta_c)=c1/c2=0.82, so theta_c is approximately 55 degrees.",
+      "explanationImage": null,
+      "tags": [
+        "Clinical Refraction & Echo Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch08-q143",
+      "stem": "During an apical two-chamber examination, an incident beam travels from a slower to a faster medium at an angle greater than the critical angle. What is predicted by the idealized model?",
+      "image": null,
+      "options": [
+        "The beam bends toward the normal",
+        "The transmitted angle becomes zero",
+        "All energy passes into the second medium",
+        "No propagating transmitted beam enters the second medium"
+      ],
+      "answer": 3,
+      "explanation": "Above the critical angle, total internal reflection occurs in the idealized boundary model.",
+      "explanationImage": null,
+      "tags": [
+        "Clinical Refraction & Echo Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch08-q144",
+      "stem": "During an apical two-chamber examination, a cardiac border appears duplicated but the extra border disappears after changing the acoustic window. Which explanation is most consistent?",
+      "image": null,
+      "options": [
+        "An increase in pulse repetition frequency",
+        "Refraction-related duplication",
+        "Uniform tissue attenuation",
+        "A true second cardiac wall"
+      ],
+      "answer": 1,
+      "explanation": "A refraction artifact can create misplaced or duplicated echoes that vary with insonation angle.",
+      "explanationImage": null,
+      "tags": [
+        "Clinical Refraction & Echo Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch08-q145",
+      "stem": "During an apical two-chamber examination, a narrow dark band appears at the curved lateral margin of a fluid-filled vessel. Which interaction best explains this edge artifact?",
+      "image": null,
+      "options": [
+        "Increased through-transmission at the center",
+        "Constructive interference throughout the vessel",
+        "Specular reflection from the posterior wall only",
+        "Refraction redirecting the beam away from the region"
+      ],
+      "answer": 3,
+      "explanation": "Curved interfaces may refract beams and produce edge shadowing.",
+      "explanationImage": null,
+      "tags": [
+        "Clinical Refraction & Echo Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch08-q146",
+      "stem": "During an apical two-chamber examination, an apparent lateral displacement of a structure is suspected to be caused by beam bending. Which adjustment is most useful to test this?",
+      "image": null,
+      "options": [
+        "Increase overall gain only",
+        "Increase dynamic range only",
+        "Raise pulse repetition frequency only",
+        "Change transducer orientation or acoustic window"
+      ],
+      "answer": 3,
+      "explanation": "A different beam path changes refraction and can resolve a false lateral position.",
+      "explanationImage": null,
+      "tags": [
+        "Clinical Refraction & Echo Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch08-q147",
+      "stem": "During an apical two-chamber examination, the interventricular septal boundary produces a strong echo when insonated nearly perpendicularly but a weak echo at an oblique angle. What type of interaction predominates?",
+      "image": null,
+      "options": [
+        "Specular reflection",
+        "Rayleigh scattering",
+        "Destructive interference alone",
+        "Diffuse reflection from a rough surface"
+      ],
+      "answer": 0,
+      "explanation": "Large smooth boundaries are specular and angle dependent.",
+      "explanationImage": null,
+      "tags": [
+        "Clinical Refraction & Echo Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch08-q148",
+      "stem": "During an apical two-chamber examination, ultrasound strikes a surface that is large compared with the wavelength but irregular and rough. How is the returning energy best classified?",
+      "image": null,
+      "options": [
+        "Total internal reflection",
+        "Perfect specular reflection",
+        "Rayleigh scattering from tiny particles",
+        "Diffuse reflection"
+      ],
+      "answer": 3,
+      "explanation": "A large rough surface reflects energy in multiple directions.",
+      "explanationImage": null,
+      "tags": [
+        "Clinical Refraction & Echo Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch08-q149",
+      "stem": "During an apical two-chamber examination, weak echoes from many small tissue inhomogeneities return to the probe and help create tissue texture. What are these returning echoes called?",
+      "image": null,
+      "options": [
+        "Backscatter",
+        "Transmitted sound only",
+        "Absorption",
+        "Refraction"
+      ],
+      "answer": 0,
+      "explanation": "Backscatter is the scattered or reflected component returning toward the transducer.",
+      "explanationImage": null,
+      "tags": [
+        "Clinical Refraction & Echo Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch08-q150",
+      "stem": "During an apical two-chamber examination, frequency increases by a factor of 2 while scatterers remain in the Rayleigh regime and other factors are fixed. By approximately what factor does scattered intensity increase?",
+      "image": null,
+      "options": [
+        "4 times",
+        "2 times",
+        "16 times",
+        "8 times"
+      ],
+      "answer": 2,
+      "explanation": "Rayleigh scattered intensity is proportional to f^4; 2^4 = 16.",
+      "explanationImage": null,
+      "tags": [
+        "Clinical Refraction & Echo Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch08-q151",
+      "stem": "During an apical two-chamber examination, two scattered echoes of comparable amplitude arrive in phase. Which appearance is most likely?",
+      "image": null,
+      "options": [
+        "A transmitted beam at the critical angle",
+        "A change in tissue propagation speed",
+        "Brighter speckle from constructive interference",
+        "Darker speckle from destructive interference"
+      ],
+      "answer": 2,
+      "explanation": "In-phase echoes reinforce; out-of-phase echoes cancel partly or completely.",
+      "explanationImage": null,
+      "tags": [
+        "Clinical Refraction & Echo Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch08-q152",
+      "stem": "During an apical two-chamber examination, low-level swirling smoke-like echoes are visible within a slowly flowing cardiac chamber. Which phenomenon best fits the lecture discussion?",
+      "image": null,
+      "options": [
+        "A single smooth specular reflector",
+        "A refraction-caused duplicate chamber",
+        "Total internal reflection at the endocardium",
+        "Spontaneous echo contrast associated with red-cell aggregation"
+      ],
+      "answer": 3,
+      "explanation": "The lecture describes rouleaux/red-cell aggregation and smoke-like spontaneous echo contrast in slow flow; this is not by itself proof of thrombus.",
+      "explanationImage": null,
+      "tags": [
+        "Clinical Refraction & Echo Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch08-q153",
+      "stem": "While optimizing a right-ventricular view, a beam crosses an oblique tissue boundary. Which additional condition is necessary for the transmitted beam to change direction?",
+      "image": null,
+      "options": [
+        "Equal propagation speeds",
+        "A 0-degree incident angle",
+        "Different sound propagation speeds on either side",
+        "Equal acoustic impedances only"
+      ],
+      "answer": 2,
+      "explanation": "Directional refraction requires both oblique incidence and different sound speeds.",
+      "explanationImage": null,
+      "tags": [
+        "Clinical Refraction & Echo Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch08-q154",
+      "stem": "While optimizing a right-ventricular view. Sound crosses an interface at 30 degrees to the normal, with speeds of 1560 m/s and 1480 m/s before and after the boundary. Which path is expected?",
+      "image": null,
+      "options": [
+        "Reflects at 30 degrees with no transmission",
+        "Bends away from the normal",
+        "Becomes perpendicular to the interface",
+        "Bends toward the normal"
+      ],
+      "answer": 3,
+      "explanation": "The second medium is slower; the transmitted angle decreases.",
+      "explanationImage": null,
+      "tags": [
+        "Clinical Refraction & Echo Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch08-q155",
+      "stem": "While optimizing a right-ventricular view. At an incident angle of 30 degrees, sound travels from 1650 m/s into 1485 m/s. Approximately what is the transmission angle?",
+      "image": null,
+      "options": [
+        "27 degrees",
+        "39 degrees",
+        "30 degrees",
+        "15 degrees"
+      ],
+      "answer": 0,
+      "explanation": "Snell law: sin(theta_t)=(1485/1650) sin(30 degrees); theta_t is about 27 degrees.",
+      "explanationImage": null,
+      "tags": [
+        "Clinical Refraction & Echo Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch08-q156",
+      "stem": "While optimizing a right-ventricular view, the incident beam meets a smooth reflector at 50 degrees relative to the normal. What is the angle of the specularly reflected beam?",
+      "image": null,
+      "options": [
+        "40 degrees",
+        "65 degrees",
+        "50 degrees",
+        "25 degrees"
+      ],
+      "answer": 2,
+      "explanation": "The reflection angle equals the incident angle, both measured from the normal.",
+      "explanationImage": null,
+      "tags": [
+        "Clinical Refraction & Echo Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch08-q157",
+      "stem": "While optimizing a right-ventricular view, a beam meets a boundary at normal incidence, although sound speeds differ. What is the transmitted beam direction?",
+      "image": null,
+      "options": [
+        "Undergoes total internal reflection",
+        "Continues along the original direction",
+        "Bends toward the normal",
+        "Bends away from the normal"
+      ],
+      "answer": 1,
+      "explanation": "At zero degrees to the normal, there is no directional bending.",
+      "explanationImage": null,
+      "tags": [
+        "Clinical Refraction & Echo Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch08-q158",
+      "stem": "While optimizing a right-ventricular view, sound enters a faster medium and the speed ratio c1/c2 is 0.78. What is the approximate critical incident angle?",
+      "image": null,
+      "options": [
+        "51 degrees",
+        "90 degrees",
+        "39 degrees",
+        "26 degrees"
+      ],
+      "answer": 0,
+      "explanation": "At the critical angle sin(theta_c)=c1/c2=0.78, so theta_c is approximately 51 degrees.",
+      "explanationImage": null,
+      "tags": [
+        "Clinical Refraction & Echo Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch08-q159",
+      "stem": "While optimizing a right-ventricular view, an incident beam travels from a slower to a faster medium at an angle greater than the critical angle. What is predicted by the idealized model?",
+      "image": null,
+      "options": [
+        "The transmitted angle becomes zero",
+        "The beam bends toward the normal",
+        "All energy passes into the second medium",
+        "No propagating transmitted beam enters the second medium"
+      ],
+      "answer": 3,
+      "explanation": "Above the critical angle, total internal reflection occurs in the idealized boundary model.",
+      "explanationImage": null,
+      "tags": [
+        "Clinical Refraction & Echo Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch08-q160",
+      "stem": "While optimizing a right-ventricular view, a cardiac border appears duplicated but the extra border disappears after changing the acoustic window. Which explanation is most consistent?",
+      "image": null,
+      "options": [
+        "Uniform tissue attenuation",
+        "Refraction-related duplication",
+        "An increase in pulse repetition frequency",
+        "A true second cardiac wall"
+      ],
+      "answer": 1,
+      "explanation": "A refraction artifact can create misplaced or duplicated echoes that vary with insonation angle.",
+      "explanationImage": null,
+      "tags": [
+        "Clinical Refraction & Echo Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch08-q161",
+      "stem": "While optimizing a right-ventricular view, a narrow dark band appears at the curved lateral margin of a fluid-filled vessel. Which interaction best explains this edge artifact?",
+      "image": null,
+      "options": [
+        "Specular reflection from the posterior wall only",
+        "Refraction redirecting the beam away from the region",
+        "Constructive interference throughout the vessel",
+        "Increased through-transmission at the center"
+      ],
+      "answer": 1,
+      "explanation": "Curved interfaces may refract beams and produce edge shadowing.",
+      "explanationImage": null,
+      "tags": [
+        "Clinical Refraction & Echo Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch08-q162",
+      "stem": "While optimizing a right-ventricular view, an apparent lateral displacement of a structure is suspected to be caused by beam bending. Which adjustment is most useful to test this?",
+      "image": null,
+      "options": [
+        "Change transducer orientation or acoustic window",
+        "Increase overall gain only",
+        "Increase dynamic range only",
+        "Raise pulse repetition frequency only"
+      ],
+      "answer": 0,
+      "explanation": "A different beam path changes refraction and can resolve a false lateral position.",
+      "explanationImage": null,
+      "tags": [
+        "Clinical Refraction & Echo Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch08-q163",
+      "stem": "While optimizing a right-ventricular view, the smooth cardiac chamber wall produces a strong echo when insonated nearly perpendicularly but a weak echo at an oblique angle. What type of interaction predominates?",
+      "image": null,
+      "options": [
+        "Specular reflection",
+        "Destructive interference alone",
+        "Diffuse reflection from a rough surface",
+        "Rayleigh scattering"
+      ],
+      "answer": 0,
+      "explanation": "Large smooth boundaries are specular and angle dependent.",
+      "explanationImage": null,
+      "tags": [
+        "Clinical Refraction & Echo Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch08-q164",
+      "stem": "While optimizing a right-ventricular view, ultrasound strikes a surface that is large compared with the wavelength but irregular and rough. How is the returning energy best classified?",
+      "image": null,
+      "options": [
+        "Perfect specular reflection",
+        "Rayleigh scattering from tiny particles",
+        "Diffuse reflection",
+        "Total internal reflection"
+      ],
+      "answer": 2,
+      "explanation": "A large rough surface reflects energy in multiple directions.",
+      "explanationImage": null,
+      "tags": [
+        "Clinical Refraction & Echo Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch08-q165",
+      "stem": "While optimizing a right-ventricular view, weak echoes from many small tissue inhomogeneities return to the probe and help create tissue texture. What are these returning echoes called?",
+      "image": null,
+      "options": [
+        "Backscatter",
+        "Transmitted sound only",
+        "Absorption",
+        "Refraction"
+      ],
+      "answer": 0,
+      "explanation": "Backscatter is the scattered or reflected component returning toward the transducer.",
+      "explanationImage": null,
+      "tags": [
+        "Clinical Refraction & Echo Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch08-q166",
+      "stem": "While optimizing a right-ventricular view, frequency increases by a factor of 3 while scatterers remain in the Rayleigh regime and other factors are fixed. By approximately what factor does scattered intensity increase?",
+      "image": null,
+      "options": [
+        "81 times",
+        "3 times",
+        "9 times",
+        "27 times"
+      ],
+      "answer": 0,
+      "explanation": "Rayleigh scattered intensity is proportional to f^4; 3^4 = 81.",
+      "explanationImage": null,
+      "tags": [
+        "Clinical Refraction & Echo Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch08-q167",
+      "stem": "While optimizing a right-ventricular view, two scattered echoes of comparable amplitude arrive 180 degrees out of phase. Which appearance is most likely?",
+      "image": null,
+      "options": [
+        "A change in tissue propagation speed",
+        "A transmitted beam at the critical angle",
+        "Darker speckle from destructive interference",
+        "Brighter speckle from constructive interference"
+      ],
+      "answer": 2,
+      "explanation": "In-phase echoes reinforce; out-of-phase echoes cancel partly or completely.",
+      "explanationImage": null,
+      "tags": [
+        "Clinical Refraction & Echo Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch08-q168",
+      "stem": "While optimizing a right-ventricular view, low-level swirling smoke-like echoes are visible within a slowly flowing cardiac chamber. Which phenomenon best fits the lecture discussion?",
+      "image": null,
+      "options": [
+        "Total internal reflection at the endocardium",
+        "Spontaneous echo contrast associated with red-cell aggregation",
+        "A single smooth specular reflector",
+        "A refraction-caused duplicate chamber"
+      ],
+      "answer": 1,
+      "explanation": "The lecture describes rouleaux/red-cell aggregation and smoke-like spontaneous echo contrast in slow flow; this is not by itself proof of thrombus.",
+      "explanationImage": null,
+      "tags": [
+        "Clinical Refraction & Echo Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch08-q169",
+      "stem": "During a suprasternal-notch examination, a beam crosses an oblique tissue boundary. Which additional condition is necessary for the transmitted beam to change direction?",
+      "image": null,
+      "options": [
+        "Different sound propagation speeds on either side",
+        "Equal propagation speeds",
+        "A 0-degree incident angle",
+        "Equal acoustic impedances only"
+      ],
+      "answer": 0,
+      "explanation": "Directional refraction requires both oblique incidence and different sound speeds.",
+      "explanationImage": null,
+      "tags": [
+        "Clinical Refraction & Echo Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch08-q170",
+      "stem": "During a suprasternal-notch examination. Sound crosses an interface at 30 degrees to the normal, with speeds of 1470 m/s and 1610 m/s before and after the boundary. Which path is expected?",
+      "image": null,
+      "options": [
+        "Bends toward the normal",
+        "Becomes perpendicular to the interface",
+        "Reflects at 30 degrees with no transmission",
+        "Bends away from the normal"
+      ],
+      "answer": 3,
+      "explanation": "The second medium is faster; the transmitted angle increases.",
+      "explanationImage": null,
+      "tags": [
+        "Clinical Refraction & Echo Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch08-q171",
+      "stem": "During a suprasternal-notch examination. At an incident angle of 30 degrees, sound travels from 1540 m/s into 1694 m/s. Approximately what is the transmission angle?",
+      "image": null,
+      "options": [
+        "21 degrees",
+        "45 degrees",
+        "30 degrees",
+        "33 degrees"
+      ],
+      "answer": 3,
+      "explanation": "Snell law: sin(theta_t)=(1694/1540) sin(30 degrees); theta_t is about 33 degrees.",
+      "explanationImage": null,
+      "tags": [
+        "Clinical Refraction & Echo Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch08-q172",
+      "stem": "During a suprasternal-notch examination, the incident beam meets a smooth reflector at 55 degrees relative to the normal. What is the angle of the specularly reflected beam?",
+      "image": null,
+      "options": [
+        "35 degrees",
+        "70 degrees",
+        "55 degrees",
+        "27.5 degrees"
+      ],
+      "answer": 2,
+      "explanation": "The reflection angle equals the incident angle, both measured from the normal.",
+      "explanationImage": null,
+      "tags": [
+        "Clinical Refraction & Echo Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch08-q173",
+      "stem": "During a suprasternal-notch examination, a beam meets a boundary at normal incidence, although sound speeds differ. What is the transmitted beam direction?",
+      "image": null,
+      "options": [
+        "Bends away from the normal",
+        "Undergoes total internal reflection",
+        "Bends toward the normal",
+        "Continues along the original direction"
+      ],
+      "answer": 3,
+      "explanation": "At zero degrees to the normal, there is no directional bending.",
+      "explanationImage": null,
+      "tags": [
+        "Clinical Refraction & Echo Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch08-q174",
+      "stem": "During a suprasternal-notch examination, sound enters a faster medium and the speed ratio c1/c2 is 0.92. What is the approximate critical incident angle?",
+      "image": null,
+      "options": [
+        "23 degrees",
+        "67 degrees",
+        "90 degrees",
+        "34 degrees"
+      ],
+      "answer": 1,
+      "explanation": "At the critical angle sin(theta_c)=c1/c2=0.92, so theta_c is approximately 67 degrees.",
+      "explanationImage": null,
+      "tags": [
+        "Clinical Refraction & Echo Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch08-q175",
+      "stem": "During a suprasternal-notch examination, an incident beam travels from a slower to a faster medium at an angle greater than the critical angle. What is predicted by the idealized model?",
+      "image": null,
+      "options": [
+        "All energy passes into the second medium",
+        "No propagating transmitted beam enters the second medium",
+        "The transmitted angle becomes zero",
+        "The beam bends toward the normal"
+      ],
+      "answer": 1,
+      "explanation": "Above the critical angle, total internal reflection occurs in the idealized boundary model.",
+      "explanationImage": null,
+      "tags": [
+        "Clinical Refraction & Echo Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch08-q176",
+      "stem": "During a suprasternal-notch examination, a cardiac border appears duplicated but the extra border disappears after changing the acoustic window. Which explanation is most consistent?",
+      "image": null,
+      "options": [
+        "A true second cardiac wall",
+        "Uniform tissue attenuation",
+        "An increase in pulse repetition frequency",
+        "Refraction-related duplication"
+      ],
+      "answer": 3,
+      "explanation": "A refraction artifact can create misplaced or duplicated echoes that vary with insonation angle.",
+      "explanationImage": null,
+      "tags": [
+        "Clinical Refraction & Echo Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch08-q177",
+      "stem": "During a suprasternal-notch examination, a narrow dark band appears at the curved lateral margin of a fluid-filled vessel. Which interaction best explains this edge artifact?",
+      "image": null,
+      "options": [
+        "Refraction redirecting the beam away from the region",
+        "Constructive interference throughout the vessel",
+        "Increased through-transmission at the center",
+        "Specular reflection from the posterior wall only"
+      ],
+      "answer": 0,
+      "explanation": "Curved interfaces may refract beams and produce edge shadowing.",
+      "explanationImage": null,
+      "tags": [
+        "Clinical Refraction & Echo Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch08-q178",
+      "stem": "During a suprasternal-notch examination, an apparent lateral displacement of a structure is suspected to be caused by beam bending. Which adjustment is most useful to test this?",
+      "image": null,
+      "options": [
+        "Increase overall gain only",
+        "Raise pulse repetition frequency only",
+        "Change transducer orientation or acoustic window",
+        "Increase dynamic range only"
+      ],
+      "answer": 2,
+      "explanation": "A different beam path changes refraction and can resolve a false lateral position.",
+      "explanationImage": null,
+      "tags": [
+        "Clinical Refraction & Echo Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch08-q179",
+      "stem": "During a suprasternal-notch examination, the diaphragm produces a strong echo when insonated nearly perpendicularly but a weak echo at an oblique angle. What type of interaction predominates?",
+      "image": null,
+      "options": [
+        "Specular reflection",
+        "Diffuse reflection from a rough surface",
+        "Destructive interference alone",
+        "Rayleigh scattering"
+      ],
+      "answer": 0,
+      "explanation": "Large smooth boundaries are specular and angle dependent.",
+      "explanationImage": null,
+      "tags": [
+        "Clinical Refraction & Echo Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch08-q180",
+      "stem": "During a suprasternal-notch examination, ultrasound strikes a surface that is large compared with the wavelength but irregular and rough. How is the returning energy best classified?",
+      "image": null,
+      "options": [
+        "Perfect specular reflection",
+        "Diffuse reflection",
+        "Rayleigh scattering from tiny particles",
+        "Total internal reflection"
+      ],
+      "answer": 1,
+      "explanation": "A large rough surface reflects energy in multiple directions.",
+      "explanationImage": null,
+      "tags": [
+        "Clinical Refraction & Echo Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch08-q181",
+      "stem": "During a suprasternal-notch examination, weak echoes from many small tissue inhomogeneities return to the probe and help create tissue texture. What are these returning echoes called?",
+      "image": null,
+      "options": [
+        "Absorption",
+        "Refraction",
+        "Backscatter",
+        "Transmitted sound only"
+      ],
+      "answer": 2,
+      "explanation": "Backscatter is the scattered or reflected component returning toward the transducer.",
+      "explanationImage": null,
+      "tags": [
+        "Clinical Refraction & Echo Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch08-q182",
+      "stem": "During a suprasternal-notch examination, frequency increases by a factor of 1.5 while scatterers remain in the Rayleigh regime and other factors are fixed. By approximately what factor does scattered intensity increase?",
+      "image": null,
+      "options": [
+        "5.0625 times",
+        "2.25 times",
+        "1.5 times",
+        "3.375 times"
+      ],
+      "answer": 0,
+      "explanation": "Rayleigh scattered intensity is proportional to f^4; 1.5^4 = 5.0625.",
+      "explanationImage": null,
+      "tags": [
+        "Clinical Refraction & Echo Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch08-q183",
+      "stem": "During a suprasternal-notch examination, two scattered echoes of comparable amplitude arrive in phase. Which appearance is most likely?",
+      "image": null,
+      "options": [
+        "A transmitted beam at the critical angle",
+        "Brighter speckle from constructive interference",
+        "A change in tissue propagation speed",
+        "Darker speckle from destructive interference"
+      ],
+      "answer": 1,
+      "explanation": "In-phase echoes reinforce; out-of-phase echoes cancel partly or completely.",
+      "explanationImage": null,
+      "tags": [
+        "Clinical Refraction & Echo Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch08-q184",
+      "stem": "During a suprasternal-notch examination, low-level swirling smoke-like echoes are visible within a slowly flowing cardiac chamber. Which phenomenon best fits the lecture discussion?",
+      "image": null,
+      "options": [
+        "Total internal reflection at the endocardium",
+        "Spontaneous echo contrast associated with red-cell aggregation",
+        "A single smooth specular reflector",
+        "A refraction-caused duplicate chamber"
+      ],
+      "answer": 1,
+      "explanation": "The lecture describes rouleaux/red-cell aggregation and smoke-like spontaneous echo contrast in slow flow; this is not by itself proof of thrombus.",
+      "explanationImage": null,
+      "tags": [
+        "Clinical Refraction & Echo Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch08-q185",
+      "stem": "While imaging the left ventricular endocardium, a beam crosses an oblique tissue boundary. Which additional condition is necessary for the transmitted beam to change direction?",
+      "image": null,
+      "options": [
+        "A 0-degree incident angle",
+        "Equal acoustic impedances only",
+        "Different sound propagation speeds on either side",
+        "Equal propagation speeds"
+      ],
+      "answer": 2,
+      "explanation": "Directional refraction requires both oblique incidence and different sound speeds.",
+      "explanationImage": null,
+      "tags": [
+        "Clinical Refraction & Echo Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch08-q186",
+      "stem": "While imaging the left ventricular endocardium. Sound crosses an interface at 30 degrees to the normal, with speeds of 1640 m/s and 1540 m/s before and after the boundary. Which path is expected?",
+      "image": null,
+      "options": [
+        "Reflects at 30 degrees with no transmission",
+        "Becomes perpendicular to the interface",
+        "Bends away from the normal",
+        "Bends toward the normal"
+      ],
+      "answer": 3,
+      "explanation": "The second medium is slower; the transmitted angle decreases.",
+      "explanationImage": null,
+      "tags": [
+        "Clinical Refraction & Echo Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch08-q187",
+      "stem": "While imaging the left ventricular endocardium. At an incident angle of 45 degrees, sound travels from 1600 m/s into 1440 m/s. Approximately what is the transmission angle?",
+      "image": null,
+      "options": [
+        "28 degrees",
+        "40 degrees",
+        "45 degrees",
+        "52 degrees"
+      ],
+      "answer": 1,
+      "explanation": "Snell law: sin(theta_t)=(1440/1600) sin(45 degrees); theta_t is about 40 degrees.",
+      "explanationImage": null,
+      "tags": [
+        "Clinical Refraction & Echo Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch08-q188",
+      "stem": "While imaging the left ventricular endocardium, the incident beam meets a smooth reflector at 60 degrees relative to the normal. What is the angle of the specularly reflected beam?",
+      "image": null,
+      "options": [
+        "75 degrees",
+        "60 degrees",
+        "29 degrees",
+        "30 degrees"
+      ],
+      "answer": 1,
+      "explanation": "The reflection angle equals the incident angle, both measured from the normal.",
+      "explanationImage": null,
+      "tags": [
+        "Clinical Refraction & Echo Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch08-q189",
+      "stem": "While imaging the left ventricular endocardium, a beam meets a boundary at normal incidence, although sound speeds differ. What is the transmitted beam direction?",
+      "image": null,
+      "options": [
+        "Bends toward the normal",
+        "Undergoes total internal reflection",
+        "Continues along the original direction",
+        "Bends away from the normal"
+      ],
+      "answer": 2,
+      "explanation": "At zero degrees to the normal, there is no directional bending.",
+      "explanationImage": null,
+      "tags": [
+        "Clinical Refraction & Echo Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch08-q190",
+      "stem": "While imaging the left ventricular endocardium, sound enters a faster medium and the speed ratio c1/c2 is 0.86. What is the approximate critical incident angle?",
+      "image": null,
+      "options": [
+        "31 degrees",
+        "30 degrees",
+        "59 degrees",
+        "90 degrees"
+      ],
+      "answer": 2,
+      "explanation": "At the critical angle sin(theta_c)=c1/c2=0.86, so theta_c is approximately 59 degrees.",
+      "explanationImage": null,
+      "tags": [
+        "Clinical Refraction & Echo Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch08-q191",
+      "stem": "While imaging the left ventricular endocardium, an incident beam travels from a slower to a faster medium at an angle greater than the critical angle. What is predicted by the idealized model?",
+      "image": null,
+      "options": [
+        "No propagating transmitted beam enters the second medium",
+        "All energy passes into the second medium",
+        "The transmitted angle becomes zero",
+        "The beam bends toward the normal"
+      ],
+      "answer": 0,
+      "explanation": "Above the critical angle, total internal reflection occurs in the idealized boundary model.",
+      "explanationImage": null,
+      "tags": [
+        "Clinical Refraction & Echo Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch08-q192",
+      "stem": "While imaging the left ventricular endocardium, a cardiac border appears duplicated but the extra border disappears after changing the acoustic window. Which explanation is most consistent?",
+      "image": null,
+      "options": [
+        "An increase in pulse repetition frequency",
+        "Uniform tissue attenuation",
+        "A true second cardiac wall",
+        "Refraction-related duplication"
+      ],
+      "answer": 3,
+      "explanation": "A refraction artifact can create misplaced or duplicated echoes that vary with insonation angle.",
+      "explanationImage": null,
+      "tags": [
+        "Clinical Refraction & Echo Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch08-q193",
+      "stem": "While imaging the left ventricular endocardium, a narrow dark band appears at the curved lateral margin of a fluid-filled vessel. Which interaction best explains this edge artifact?",
+      "image": null,
+      "options": [
+        "Increased through-transmission at the center",
+        "Constructive interference throughout the vessel",
+        "Refraction redirecting the beam away from the region",
+        "Specular reflection from the posterior wall only"
+      ],
+      "answer": 2,
+      "explanation": "Curved interfaces may refract beams and produce edge shadowing.",
+      "explanationImage": null,
+      "tags": [
+        "Clinical Refraction & Echo Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch08-q194",
+      "stem": "While imaging the left ventricular endocardium, an apparent lateral displacement of a structure is suspected to be caused by beam bending. Which adjustment is most useful to test this?",
+      "image": null,
+      "options": [
+        "Change transducer orientation or acoustic window",
+        "Increase overall gain only",
+        "Raise pulse repetition frequency only",
+        "Increase dynamic range only"
+      ],
+      "answer": 0,
+      "explanation": "A different beam path changes refraction and can resolve a false lateral position.",
+      "explanationImage": null,
+      "tags": [
+        "Clinical Refraction & Echo Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch08-q195",
+      "stem": "While imaging the left ventricular endocardium, the organ capsule produces a strong echo when insonated nearly perpendicularly but a weak echo at an oblique angle. What type of interaction predominates?",
+      "image": null,
+      "options": [
+        "Rayleigh scattering",
+        "Destructive interference alone",
+        "Specular reflection",
+        "Diffuse reflection from a rough surface"
+      ],
+      "answer": 2,
+      "explanation": "Large smooth boundaries are specular and angle dependent.",
+      "explanationImage": null,
+      "tags": [
+        "Clinical Refraction & Echo Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch08-q196",
+      "stem": "While imaging the left ventricular endocardium, ultrasound strikes a surface that is large compared with the wavelength but irregular and rough. How is the returning energy best classified?",
+      "image": null,
+      "options": [
+        "Perfect specular reflection",
+        "Total internal reflection",
+        "Rayleigh scattering from tiny particles",
+        "Diffuse reflection"
+      ],
+      "answer": 3,
+      "explanation": "A large rough surface reflects energy in multiple directions.",
+      "explanationImage": null,
+      "tags": [
+        "Clinical Refraction & Echo Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch08-q197",
+      "stem": "While imaging the left ventricular endocardium, weak echoes from many small tissue inhomogeneities return to the probe and help create tissue texture. What are these returning echoes called?",
+      "image": null,
+      "options": [
+        "Absorption",
+        "Backscatter",
+        "Transmitted sound only",
+        "Refraction"
+      ],
+      "answer": 1,
+      "explanation": "Backscatter is the scattered or reflected component returning toward the transducer.",
+      "explanationImage": null,
+      "tags": [
+        "Clinical Refraction & Echo Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch08-q198",
+      "stem": "While imaging the left ventricular endocardium, frequency increases by a factor of 2 while scatterers remain in the Rayleigh regime and other factors are fixed. By approximately what factor does scattered intensity increase?",
+      "image": null,
+      "options": [
+        "16 times",
+        "4 times",
+        "8 times",
+        "2 times"
+      ],
+      "answer": 0,
+      "explanation": "Rayleigh scattered intensity is proportional to f^4; 2^4 = 16.",
+      "explanationImage": null,
+      "tags": [
+        "Clinical Refraction & Echo Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch08-q199",
+      "stem": "While imaging the left ventricular endocardium, two scattered echoes of comparable amplitude arrive 180 degrees out of phase. Which appearance is most likely?",
+      "image": null,
+      "options": [
+        "Darker speckle from destructive interference",
+        "A transmitted beam at the critical angle",
+        "Brighter speckle from constructive interference",
+        "A change in tissue propagation speed"
+      ],
+      "answer": 0,
+      "explanation": "In-phase echoes reinforce; out-of-phase echoes cancel partly or completely.",
+      "explanationImage": null,
+      "tags": [
+        "Clinical Refraction & Echo Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch08-q200",
+      "stem": "While imaging the left ventricular endocardium, low-level swirling smoke-like echoes are visible within a slowly flowing cardiac chamber. Which phenomenon best fits the lecture discussion?",
+      "image": null,
+      "options": [
+        "Total internal reflection at the endocardium",
+        "Spontaneous echo contrast associated with red-cell aggregation",
+        "A refraction-caused duplicate chamber",
+        "A single smooth specular reflector"
+      ],
+      "answer": 1,
+      "explanation": "The lecture describes rouleaux/red-cell aggregation and smoke-like spontaneous echo contrast in slow flow; this is not by itself proof of thrombus.",
+      "explanationImage": null,
+      "tags": [
+        "Clinical Refraction & Echo Views"
+      ],
+      "reference": ""
+    }
+  ]
+}

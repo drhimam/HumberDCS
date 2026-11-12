@@ -1,0 +1,3806 @@
+{
+  "chapterId": "ch07",
+  "title": "Obstructive Congenital Heart Disease",
+  "questions": [
+    {
+      "id": "DCS5003-ch07-q001",
+      "stem": "An echocardiogram demonstrates a congenital narrowing at the aortic valve. The valve has two cusps instead of the normal three. What is the most likely diagnosis?",
+      "image": null,
+      "options": [
+        "Bicuspid aortic valve",
+        "Unicuspid aortic valve",
+        "Supravalvular aortic stenosis",
+        "Subvalvular aortic stenosis"
+      ],
+      "answer": 0,
+      "explanation": "Bicuspid aortic valve. Included practice-test question (original wording; duplicate PDF copies counted once).",
+      "explanationImage": null,
+      "tags": [
+        "Aortic Stenosis & Bicuspid Aortic Valve",
+        "Obstructive Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch07-q002",
+      "stem": "A child presents with upper extremity hypertension, weak femoral pulses, and a delay between radial and femoral pulses. Which congenital lesion is most likely?",
+      "image": null,
+      "options": [
+        "Interrupted aortic arch",
+        "Pulmonary valve stenosis",
+        "Patent ductus arteriosus",
+        "Coarctation of the aorta"
+      ],
+      "answer": 3,
+      "explanation": "Coarctation of the aorta. Included practice-test question (original wording; duplicate PDF copies counted once).",
+      "explanationImage": null,
+      "tags": [
+        "Coarctation of the Aorta & Interrupted Arch",
+        "Obstructive Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch07-q003",
+      "stem": "Which syndrome is classically associated with coarctation of the aorta and bicuspid aortic valve?",
+      "image": null,
+      "options": [
+        "Williams syndrome",
+        "DiGeorge syndrome",
+        "Turner syndrome",
+        "Down syndrome"
+      ],
+      "answer": 2,
+      "explanation": "Turner syndrome. Included practice-test question (original wording; duplicate PDF copies counted once).",
+      "explanationImage": null,
+      "tags": [
+        "Coarctation of the Aorta & Interrupted Arch",
+        "Obstructive Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch07-q004",
+      "stem": "An infant is diagnosed with pulmonary atresia. Which statement best describes the expected pulmonary blood flow physiology?",
+      "image": null,
+      "options": [
+        "Blood flows normally from the right ventricle into the pulmonary artery.",
+        "Pulmonary blood flow may depend on a patent ductus arteriosus.",
+        "Pulmonary blood flow is supplied directly by the left ventricle through the aortic valve.",
+        "Pulmonary blood flow is independent of any fetal communication."
+      ],
+      "answer": 1,
+      "explanation": "Pulmonary blood flow may depend on a patent ductus arteriosus.. Included practice-test question (original wording; duplicate PDF copies counted once).",
+      "explanationImage": null,
+      "tags": [
+        "Obstructive Congenital Heart Disease",
+        "Obstructive Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch07-q005",
+      "stem": "During an adult/pediatric echocardiography board-style review, the sonographer is asked to identify the key feature of bicuspid aortic valve. Which answer is BEST?",
+      "image": null,
+      "options": [
+        "supravalvular narrowing",
+        "aortic valve with one cusp",
+        "subvalvular fibrous membrane",
+        "aortic valve with two cusps"
+      ],
+      "answer": 3,
+      "explanation": "aortic valve with two cusps. Bicuspid aortic valve: aortic valve with two cusps. Lecture-derived review item.",
+      "explanationImage": null,
+      "tags": [
+        "Aortic Stenosis & Bicuspid Aortic Valve",
+        "Obstructive Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch07-q006",
+      "stem": "During an adult/pediatric echocardiography board-style review, the sonographer is asked to identify the key feature of coarctation clinical examination. Which answer is BEST?",
+      "image": null,
+      "options": [
+        "upper-extremity hypertension with weak delayed femoral pulses",
+        "stronger femoral than radial pulses",
+        "continuous machinery murmur only",
+        "isolated cyanosis without pulse discrepancy"
+      ],
+      "answer": 0,
+      "explanation": "upper-extremity hypertension with weak delayed femoral pulses. Coarctation clinical examination: upper-extremity hypertension with weak delayed femoral pulses. Lecture-derived review item.",
+      "explanationImage": null,
+      "tags": [
+        "Coarctation of the Aorta & Interrupted Arch",
+        "Obstructive Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch07-q007",
+      "stem": "During an adult/pediatric echocardiography board-style review, the sonographer is asked to identify the key feature of coarctation syndrome association. Which answer is BEST?",
+      "image": null,
+      "options": [
+        "Marfan syndrome",
+        "Turner syndrome",
+        "DiGeorge syndrome",
+        "Williams syndrome"
+      ],
+      "answer": 1,
+      "explanation": "Turner syndrome. Coarctation syndrome association: Turner syndrome. Lecture-derived review item.",
+      "explanationImage": null,
+      "tags": [
+        "Coarctation of the Aorta & Interrupted Arch",
+        "Obstructive Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch07-q008",
+      "stem": "During an adult/pediatric echocardiography board-style review, the sonographer is asked to identify the key feature of pulmonary atresia pulmonary perfusion. Which answer is BEST?",
+      "image": null,
+      "options": [
+        "pulmonary flow always bypasses ductus",
+        "direct LV-to-PA flow through aortic valve",
+        "normal forward flow across pulmonary valve",
+        "pulmonary blood flow may depend on a PDA"
+      ],
+      "answer": 3,
+      "explanation": "pulmonary blood flow may depend on a PDA. Pulmonary atresia pulmonary perfusion: pulmonary blood flow may depend on a PDA. Lecture-derived review item.",
+      "explanationImage": null,
+      "tags": [
+        "Obstructive Congenital Heart Disease",
+        "Obstructive Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch07-q009",
+      "stem": "Doppler shows accelerated flow across a narrowed valve. Which finding or explanation is MOST consistent with stenosis definition?",
+      "image": null,
+      "options": [
+        "a ventricular septal hole",
+        "complete absence of a valve orifice",
+        "partial narrowing with residual forward flow",
+        "abnormal pulmonary venous connection"
+      ],
+      "answer": 2,
+      "explanation": "partial narrowing with residual forward flow. Stenosis definition: partial narrowing with residual forward flow. Lecture-derived review item.",
+      "explanationImage": null,
+      "tags": [
+        "Obstructive Congenital Heart Disease",
+        "Obstructive Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch07-q010",
+      "stem": "During an adult/pediatric echocardiography board-style review, the sonographer is asked to identify the key feature of stenosis definition. Which answer is BEST?",
+      "image": null,
+      "options": [
+        "abnormal pulmonary venous connection",
+        "partial narrowing with residual forward flow",
+        "complete absence of a valve orifice",
+        "a ventricular septal hole"
+      ],
+      "answer": 1,
+      "explanation": "partial narrowing with residual forward flow. Stenosis definition: partial narrowing with residual forward flow. Lecture-derived review item.",
+      "explanationImage": null,
+      "tags": [
+        "Obstructive Congenital Heart Disease",
+        "Obstructive Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch07-q011",
+      "stem": "Echo demonstrates an imperforate semilunar valve. Which finding or explanation is MOST consistent with atresia definition?",
+      "image": null,
+      "options": [
+        "partial narrowing of descending aorta",
+        "complete obstruction without forward flow",
+        "mild valve narrowing",
+        "isolated regurgitation"
+      ],
+      "answer": 1,
+      "explanation": "complete obstruction without forward flow. Atresia definition: complete obstruction without forward flow. Lecture-derived review item.",
+      "explanationImage": null,
+      "tags": [
+        "Obstruction Hemodynamics & Physiology",
+        "Obstructive Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch07-q012",
+      "stem": "During an adult/pediatric echocardiography board-style review, the sonographer is asked to identify the key feature of atresia definition. Which answer is BEST?",
+      "image": null,
+      "options": [
+        "complete obstruction without forward flow",
+        "isolated regurgitation",
+        "mild valve narrowing",
+        "partial narrowing of descending aorta"
+      ],
+      "answer": 0,
+      "explanation": "complete obstruction without forward flow. Atresia definition: complete obstruction without forward flow. Lecture-derived review item.",
+      "explanationImage": null,
+      "tags": [
+        "Obstruction Hemodynamics & Physiology",
+        "Obstructive Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch07-q013",
+      "stem": "Suprasternal imaging demonstrates a narrowed aortic segment. Which finding or explanation is MOST consistent with coarctation definition?",
+      "image": null,
+      "options": [
+        "isolated mitral stenosis",
+        "pulmonary venous obstruction",
+        "absence of tricuspid valve",
+        "localized narrowing of the aorta"
+      ],
+      "answer": 3,
+      "explanation": "localized narrowing of the aorta. Coarctation definition: localized narrowing of the aorta. Lecture-derived review item.",
+      "explanationImage": null,
+      "tags": [
+        "Coarctation of the Aorta & Interrupted Arch",
+        "Obstructive Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch07-q014",
+      "stem": "During an adult/pediatric echocardiography board-style review, the sonographer is asked to identify the key feature of coarctation definition. Which answer is BEST?",
+      "image": null,
+      "options": [
+        "absence of tricuspid valve",
+        "isolated mitral stenosis",
+        "pulmonary venous obstruction",
+        "localized narrowing of the aorta"
+      ],
+      "answer": 3,
+      "explanation": "localized narrowing of the aorta. Coarctation definition: localized narrowing of the aorta. Lecture-derived review item.",
+      "explanationImage": null,
+      "tags": [
+        "Coarctation of the Aorta & Interrupted Arch",
+        "Obstructive Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch07-q015",
+      "stem": "A stenotic jet originates at the semilunar leaflets. Which finding or explanation is MOST consistent with valvular obstruction level?",
+      "image": null,
+      "options": [
+        "at the atrial septum",
+        "at the valve cusps",
+        "above the valve in great artery",
+        "below the valve in muscular outflow"
+      ],
+      "answer": 1,
+      "explanation": "at the valve cusps. Valvular obstruction level: at the valve cusps. Lecture-derived review item.",
+      "explanationImage": null,
+      "tags": [
+        "Obstruction Hemodynamics & Physiology",
+        "Obstructive Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch07-q016",
+      "stem": "During an adult/pediatric echocardiography board-style review, the sonographer is asked to identify the key feature of valvular obstruction level. Which answer is BEST?",
+      "image": null,
+      "options": [
+        "below the valve in muscular outflow",
+        "at the valve cusps",
+        "at the atrial septum",
+        "above the valve in great artery"
+      ],
+      "answer": 1,
+      "explanation": "at the valve cusps. Valvular obstruction level: at the valve cusps. Lecture-derived review item.",
+      "explanationImage": null,
+      "tags": [
+        "Obstruction Hemodynamics & Physiology",
+        "Obstructive Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch07-q017",
+      "stem": "Color acceleration begins in the ventricular outflow tract. Which finding or explanation is MOST consistent with subvalvular obstruction level?",
+      "image": null,
+      "options": [
+        "below the semilunar valve",
+        "within a pulmonary vein",
+        "above the sinotubular junction",
+        "within valve leaflets"
+      ],
+      "answer": 0,
+      "explanation": "below the semilunar valve. Subvalvular obstruction level: below the semilunar valve. Lecture-derived review item.",
+      "explanationImage": null,
+      "tags": [
+        "Aortic Stenosis & Bicuspid Aortic Valve",
+        "Obstructive Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch07-q018",
+      "stem": "During an adult/pediatric echocardiography board-style review, the sonographer is asked to identify the key feature of subvalvular obstruction level. Which answer is BEST?",
+      "image": null,
+      "options": [
+        "above the sinotubular junction",
+        "within valve leaflets",
+        "below the semilunar valve",
+        "within a pulmonary vein"
+      ],
+      "answer": 2,
+      "explanation": "below the semilunar valve. Subvalvular obstruction level: below the semilunar valve. Lecture-derived review item.",
+      "explanationImage": null,
+      "tags": [
+        "Aortic Stenosis & Bicuspid Aortic Valve",
+        "Obstructive Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch07-q019",
+      "stem": "A discrete narrowing is distal to the semilunar valve. Which finding or explanation is MOST consistent with supravalvular obstruction level?",
+      "image": null,
+      "options": [
+        "at the valve leaflets",
+        "within an atrium",
+        "below the valve",
+        "above the valve"
+      ],
+      "answer": 3,
+      "explanation": "above the valve. Supravalvular obstruction level: above the valve. Lecture-derived review item.",
+      "explanationImage": null,
+      "tags": [
+        "Aortic Stenosis & Bicuspid Aortic Valve",
+        "Obstructive Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch07-q020",
+      "stem": "During an adult/pediatric echocardiography board-style review, the sonographer is asked to identify the key feature of supravalvular obstruction level. Which answer is BEST?",
+      "image": null,
+      "options": [
+        "below the valve",
+        "at the valve leaflets",
+        "above the valve",
+        "within an atrium"
+      ],
+      "answer": 2,
+      "explanation": "above the valve. Supravalvular obstruction level: above the valve. Lecture-derived review item.",
+      "explanationImage": null,
+      "tags": [
+        "Aortic Stenosis & Bicuspid Aortic Valve",
+        "Obstructive Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch07-q021",
+      "stem": "A neonate has a high-velocity RV outflow jet. Which finding or explanation is MOST consistent with pulmonary stenosis affected pathway?",
+      "image": null,
+      "options": [
+        "left ventricle to aorta",
+        "right ventricle to pulmonary artery",
+        "pulmonary veins to left atrium",
+        "left atrium to left ventricle"
+      ],
+      "answer": 1,
+      "explanation": "right ventricle to pulmonary artery. Pulmonary stenosis affected pathway: right ventricle to pulmonary artery. Lecture-derived review item.",
+      "explanationImage": null,
+      "tags": [
+        "Pulmonary Valve & Vascular Stenosis",
+        "Obstructive Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch07-q022",
+      "stem": "During an adult/pediatric echocardiography board-style review, the sonographer is asked to identify the key feature of pulmonary stenosis affected pathway. Which answer is BEST?",
+      "image": null,
+      "options": [
+        "right ventricle to pulmonary artery",
+        "left atrium to left ventricle",
+        "pulmonary veins to left atrium",
+        "left ventricle to aorta"
+      ],
+      "answer": 0,
+      "explanation": "right ventricle to pulmonary artery. Pulmonary stenosis affected pathway: right ventricle to pulmonary artery. Lecture-derived review item.",
+      "explanationImage": null,
+      "tags": [
+        "Pulmonary Valve & Vascular Stenosis",
+        "Obstructive Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch07-q023",
+      "stem": "Severe valvular PS persists in a child. Which finding or explanation is MOST consistent with pulmonary stenosis pressure response?",
+      "image": null,
+      "options": [
+        "isolated LV volume overload",
+        "reduced RV systolic pressure",
+        "isolated LA dilation",
+        "right ventricular pressure overload and hypertrophy"
+      ],
+      "answer": 3,
+      "explanation": "right ventricular pressure overload and hypertrophy. Pulmonary stenosis pressure response: right ventricular pressure overload and hypertrophy. Lecture-derived review item.",
+      "explanationImage": null,
+      "tags": [
+        "Pulmonary Valve & Vascular Stenosis",
+        "Obstructive Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch07-q024",
+      "stem": "During an adult/pediatric echocardiography board-style review, the sonographer is asked to identify the key feature of pulmonary stenosis pressure response. Which answer is BEST?",
+      "image": null,
+      "options": [
+        "isolated LA dilation",
+        "reduced RV systolic pressure",
+        "isolated LV volume overload",
+        "right ventricular pressure overload and hypertrophy"
+      ],
+      "answer": 3,
+      "explanation": "right ventricular pressure overload and hypertrophy. Pulmonary stenosis pressure response: right ventricular pressure overload and hypertrophy. Lecture-derived review item.",
+      "explanationImage": null,
+      "tags": [
+        "Pulmonary Valve & Vascular Stenosis",
+        "Obstructive Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch07-q025",
+      "stem": "Echo shows no RV-to-PA continuity. Which finding or explanation is MOST consistent with pulmonary atresia RV morphology?",
+      "image": null,
+      "options": [
+        "right ventricle may be hypoplastic",
+        "left ventricle always absent",
+        "both atria absent",
+        "aortic arch always normal in size"
+      ],
+      "answer": 0,
+      "explanation": "right ventricle may be hypoplastic. Pulmonary atresia rv morphology: right ventricle may be hypoplastic. Lecture-derived review item.",
+      "explanationImage": null,
+      "tags": [
+        "Obstructive Congenital Heart Disease",
+        "Obstructive Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch07-q026",
+      "stem": "During an adult/pediatric echocardiography board-style review, the sonographer is asked to identify the key feature of pulmonary atresia RV morphology. Which answer is BEST?",
+      "image": null,
+      "options": [
+        "left ventricle always absent",
+        "right ventricle may be hypoplastic",
+        "both atria absent",
+        "aortic arch always normal in size"
+      ],
+      "answer": 1,
+      "explanation": "right ventricle may be hypoplastic. Pulmonary atresia rv morphology: right ventricle may be hypoplastic. Lecture-derived review item.",
+      "explanationImage": null,
+      "tags": [
+        "Obstructive Congenital Heart Disease",
+        "Obstructive Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch07-q027",
+      "stem": "Color Doppler shows acceleration within a pulmonary branch. Which finding or explanation is MOST consistent with peripheral pulmonary stenosis?",
+      "image": null,
+      "options": [
+        "absence of pulmonary valve",
+        "narrowing of aortic isthmus",
+        "narrowing of mitral valve",
+        "narrowing of branch pulmonary arteries"
+      ],
+      "answer": 3,
+      "explanation": "narrowing of branch pulmonary arteries. Peripheral pulmonary stenosis: narrowing of branch pulmonary arteries. Lecture-derived review item.",
+      "explanationImage": null,
+      "tags": [
+        "Pulmonary Valve & Vascular Stenosis",
+        "Obstructive Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch07-q028",
+      "stem": "During an adult/pediatric echocardiography board-style review, the sonographer is asked to identify the key feature of peripheral pulmonary stenosis. Which answer is BEST?",
+      "image": null,
+      "options": [
+        "absence of pulmonary valve",
+        "narrowing of mitral valve",
+        "narrowing of branch pulmonary arteries",
+        "narrowing of aortic isthmus"
+      ],
+      "answer": 2,
+      "explanation": "narrowing of branch pulmonary arteries. Peripheral pulmonary stenosis: narrowing of branch pulmonary arteries. Lecture-derived review item.",
+      "explanationImage": null,
+      "tags": [
+        "Pulmonary Valve & Vascular Stenosis",
+        "Obstructive Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch07-q029",
+      "stem": "A child has congenital severe aortic outflow obstruction. Which finding or explanation is MOST consistent with aortic stenosis pressure response?",
+      "image": null,
+      "options": [
+        "isolated RA volume overload",
+        "isolated LA pressure decrease",
+        "isolated RV volume overload",
+        "left ventricular pressure overload and concentric hypertrophy"
+      ],
+      "answer": 3,
+      "explanation": "left ventricular pressure overload and concentric hypertrophy. Aortic stenosis pressure response: left ventricular pressure overload and concentric hypertrophy. Lecture-derived review item.",
+      "explanationImage": null,
+      "tags": [
+        "Aortic Stenosis & Bicuspid Aortic Valve",
+        "Obstructive Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch07-q030",
+      "stem": "During an adult/pediatric echocardiography board-style review, the sonographer is asked to identify the key feature of aortic stenosis pressure response. Which answer is BEST?",
+      "image": null,
+      "options": [
+        "left ventricular pressure overload and concentric hypertrophy",
+        "isolated LA pressure decrease",
+        "isolated RA volume overload",
+        "isolated RV volume overload"
+      ],
+      "answer": 0,
+      "explanation": "left ventricular pressure overload and concentric hypertrophy. Aortic stenosis pressure response: left ventricular pressure overload and concentric hypertrophy. Lecture-derived review item.",
+      "explanationImage": null,
+      "tags": [
+        "Aortic Stenosis & Bicuspid Aortic Valve",
+        "Obstructive Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch07-q031",
+      "stem": "Parasternal long-axis view shows a membrane proximal to the aortic valve. Which finding or explanation is MOST consistent with subaortic stenosis?",
+      "image": null,
+      "options": [
+        "obstruction at branch pulmonary arteries",
+        "obstruction in LV outflow below aortic valve",
+        "obstruction within ascending aorta only",
+        "tricuspid valve atresia"
+      ],
+      "answer": 1,
+      "explanation": "obstruction in LV outflow below aortic valve. Subaortic stenosis: obstruction in LV outflow below aortic valve. Lecture-derived review item.",
+      "explanationImage": null,
+      "tags": [
+        "Aortic Stenosis & Bicuspid Aortic Valve",
+        "Obstructive Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch07-q032",
+      "stem": "During an adult/pediatric echocardiography board-style review, the sonographer is asked to identify the key feature of subaortic stenosis. Which answer is BEST?",
+      "image": null,
+      "options": [
+        "obstruction in LV outflow below aortic valve",
+        "obstruction at branch pulmonary arteries",
+        "tricuspid valve atresia",
+        "obstruction within ascending aorta only"
+      ],
+      "answer": 0,
+      "explanation": "obstruction in LV outflow below aortic valve. Subaortic stenosis: obstruction in LV outflow below aortic valve. Lecture-derived review item.",
+      "explanationImage": null,
+      "tags": [
+        "Aortic Stenosis & Bicuspid Aortic Valve",
+        "Obstructive Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch07-q033",
+      "stem": "Echo shows acceleration above the aortic sinuses. Which finding or explanation is MOST consistent with supravalvular aortic stenosis?",
+      "image": null,
+      "options": [
+        "narrowing at mitral annulus",
+        "narrowing of ascending aorta above the aortic valve",
+        "narrowing below pulmonary valve",
+        "isolated descending aortic coarctation"
+      ],
+      "answer": 1,
+      "explanation": "narrowing of ascending aorta above the aortic valve. Supravalvular aortic stenosis: narrowing of ascending aorta above the aortic valve. Lecture-derived review item.",
+      "explanationImage": null,
+      "tags": [
+        "Aortic Stenosis & Bicuspid Aortic Valve",
+        "Obstructive Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch07-q034",
+      "stem": "During an adult/pediatric echocardiography board-style review, the sonographer is asked to identify the key feature of supravalvular aortic stenosis. Which answer is BEST?",
+      "image": null,
+      "options": [
+        "narrowing of ascending aorta above the aortic valve",
+        "narrowing below pulmonary valve",
+        "isolated descending aortic coarctation",
+        "narrowing at mitral annulus"
+      ],
+      "answer": 0,
+      "explanation": "narrowing of ascending aorta above the aortic valve. Supravalvular aortic stenosis: narrowing of ascending aorta above the aortic valve. Lecture-derived review item.",
+      "explanationImage": null,
+      "tags": [
+        "Aortic Stenosis & Bicuspid Aortic Valve",
+        "Obstructive Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch07-q035",
+      "stem": "An older patient has longstanding coarctation. Which finding or explanation is MOST consistent with coarctation collateral circulation?",
+      "image": null,
+      "options": [
+        "intercostal collaterals can produce rib notching",
+        "coronary sinus enlargement produces rib notching",
+        "mitral stenosis causes rib notching",
+        "ASD causes rib notching"
+      ],
+      "answer": 0,
+      "explanation": "intercostal collaterals can produce rib notching. Coarctation collateral circulation: intercostal collaterals can produce rib notching. Lecture-derived review item.",
+      "explanationImage": null,
+      "tags": [
+        "Coarctation of the Aorta & Interrupted Arch",
+        "Obstructive Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch07-q036",
+      "stem": "During an adult/pediatric echocardiography board-style review, the sonographer is asked to identify the key feature of coarctation collateral circulation. Which answer is BEST?",
+      "image": null,
+      "options": [
+        "ASD causes rib notching",
+        "mitral stenosis causes rib notching",
+        "intercostal collaterals can produce rib notching",
+        "coronary sinus enlargement produces rib notching"
+      ],
+      "answer": 2,
+      "explanation": "intercostal collaterals can produce rib notching. Coarctation collateral circulation: intercostal collaterals can produce rib notching. Lecture-derived review item.",
+      "explanationImage": null,
+      "tags": [
+        "Coarctation of the Aorta & Interrupted Arch",
+        "Obstructive Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch07-q037",
+      "stem": "Suprasternal Doppler interrogates descending aorta. Which finding or explanation is MOST consistent with coarctation Doppler pattern?",
+      "image": null,
+      "options": [
+        "pulmonary venous systolic reversal",
+        "normal laminar flow with no gradient",
+        "persistent antegrade diastolic flow distal to the narrowing",
+        "isolated tricuspid inflow reversal"
+      ],
+      "answer": 2,
+      "explanation": "persistent antegrade diastolic flow distal to the narrowing. Coarctation doppler pattern: persistent antegrade diastolic flow distal to the narrowing. Lecture-derived review item.",
+      "explanationImage": null,
+      "tags": [
+        "Coarctation of the Aorta & Interrupted Arch",
+        "Obstructive Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch07-q038",
+      "stem": "During an adult/pediatric echocardiography board-style review, the sonographer is asked to identify the key feature of coarctation Doppler pattern. Which answer is BEST?",
+      "image": null,
+      "options": [
+        "pulmonary venous systolic reversal",
+        "isolated tricuspid inflow reversal",
+        "persistent antegrade diastolic flow distal to the narrowing",
+        "normal laminar flow with no gradient"
+      ],
+      "answer": 2,
+      "explanation": "persistent antegrade diastolic flow distal to the narrowing. Coarctation doppler pattern: persistent antegrade diastolic flow distal to the narrowing. Lecture-derived review item.",
+      "explanationImage": null,
+      "tags": [
+        "Coarctation of the Aorta & Interrupted Arch",
+        "Obstructive Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch07-q039",
+      "stem": "Echo cannot trace continuity across the aortic arch. Which finding or explanation is MOST consistent with interrupted aortic arch?",
+      "image": null,
+      "options": [
+        "complete discontinuity between ascending and descending aorta",
+        "isolated aortic regurgitation",
+        "mild narrowing of pulmonary valve",
+        "a two-cusp aortic valve"
+      ],
+      "answer": 0,
+      "explanation": "complete discontinuity between ascending and descending aorta. Interrupted aortic arch: complete discontinuity between ascending and descending aorta. Lecture-derived review item.",
+      "explanationImage": null,
+      "tags": [
+        "Coarctation of the Aorta & Interrupted Arch",
+        "Obstructive Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch07-q040",
+      "stem": "During an adult/pediatric echocardiography board-style review, the sonographer is asked to identify the key feature of interrupted aortic arch. Which answer is BEST?",
+      "image": null,
+      "options": [
+        "mild narrowing of pulmonary valve",
+        "isolated aortic regurgitation",
+        "a two-cusp aortic valve",
+        "complete discontinuity between ascending and descending aorta"
+      ],
+      "answer": 3,
+      "explanation": "complete discontinuity between ascending and descending aorta. Interrupted aortic arch: complete discontinuity between ascending and descending aorta. Lecture-derived review item.",
+      "explanationImage": null,
+      "tags": [
+        "Coarctation of the Aorta & Interrupted Arch",
+        "Obstructive Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch07-q041",
+      "stem": "A neonate develops shock as the ductus closes. Which finding or explanation is MOST consistent with critical left-sided obstruction?",
+      "image": null,
+      "options": [
+        "ductal closure improves systemic perfusion",
+        "ductus always supplies only pulmonary veins",
+        "systemic blood flow may be ductal dependent",
+        "right atrial pressure is always zero"
+      ],
+      "answer": 2,
+      "explanation": "systemic blood flow may be ductal dependent. Critical left-sided obstruction: systemic blood flow may be ductal dependent. Lecture-derived review item.",
+      "explanationImage": null,
+      "tags": [
+        "Obstruction Hemodynamics & Physiology",
+        "Obstructive Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch07-q042",
+      "stem": "During an adult/pediatric echocardiography board-style review, the sonographer is asked to identify the key feature of critical left-sided obstruction. Which answer is BEST?",
+      "image": null,
+      "options": [
+        "right atrial pressure is always zero",
+        "systemic blood flow may be ductal dependent",
+        "ductus always supplies only pulmonary veins",
+        "ductal closure improves systemic perfusion"
+      ],
+      "answer": 1,
+      "explanation": "systemic blood flow may be ductal dependent. Critical left-sided obstruction: systemic blood flow may be ductal dependent. Lecture-derived review item.",
+      "explanationImage": null,
+      "tags": [
+        "Obstruction Hemodynamics & Physiology",
+        "Obstructive Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch07-q043",
+      "stem": "A critical obstructive lesion requires a temporary circulatory bridge. Which finding or explanation is MOST consistent with ductal patency treatment?",
+      "image": null,
+      "options": [
+        "indomethacin to keep ductus open",
+        "acetaminophen to keep ductus open",
+        "prostaglandin E1 to maintain ductal flow",
+        "ibuprofen to keep ductus open"
+      ],
+      "answer": 2,
+      "explanation": "prostaglandin E1 to maintain ductal flow. Ductal patency treatment: prostaglandin E1 to maintain ductal flow. Lecture-derived review item.",
+      "explanationImage": null,
+      "tags": [
+        "Obstructive Congenital Heart Disease",
+        "Obstructive Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch07-q044",
+      "stem": "During an adult/pediatric echocardiography board-style review, the sonographer is asked to identify the key feature of ductal patency treatment. Which answer is BEST?",
+      "image": null,
+      "options": [
+        "prostaglandin E1 to maintain ductal flow",
+        "ibuprofen to keep ductus open",
+        "indomethacin to keep ductus open",
+        "acetaminophen to keep ductus open"
+      ],
+      "answer": 0,
+      "explanation": "prostaglandin E1 to maintain ductal flow. Ductal patency treatment: prostaglandin E1 to maintain ductal flow. Lecture-derived review item.",
+      "explanationImage": null,
+      "tags": [
+        "Obstructive Congenital Heart Disease",
+        "Obstructive Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch07-q045",
+      "stem": "A stenotic valve has peak Doppler velocity measured in m/s. Which finding or explanation is MOST consistent with pressure gradient calculation?",
+      "image": null,
+      "options": [
+        "ΔP ≈ 4/v²",
+        "ΔP ≈ v/4",
+        "modified Bernoulli equation: ΔP ≈ 4v²",
+        "ΔP ≈ v²/4"
+      ],
+      "answer": 2,
+      "explanation": "modified Bernoulli equation: ΔP ≈ 4v². Pressure gradient calculation: modified Bernoulli equation: ΔP ≈ 4v². Lecture-derived review item.",
+      "explanationImage": null,
+      "tags": [
+        "Obstruction Hemodynamics & Physiology",
+        "Obstructive Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch07-q046",
+      "stem": "During an adult/pediatric echocardiography board-style review, the sonographer is asked to identify the key feature of pressure gradient calculation. Which answer is BEST?",
+      "image": null,
+      "options": [
+        "ΔP ≈ v²/4",
+        "ΔP ≈ v/4",
+        "modified Bernoulli equation: ΔP ≈ 4v²",
+        "ΔP ≈ 4/v²"
+      ],
+      "answer": 2,
+      "explanation": "modified Bernoulli equation: ΔP ≈ 4v². Pressure gradient calculation: modified Bernoulli equation: ΔP ≈ 4v². Lecture-derived review item.",
+      "explanationImage": null,
+      "tags": [
+        "Obstruction Hemodynamics & Physiology",
+        "Obstructive Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch07-q047",
+      "stem": "The sonographer needs to locate the aortic isthmus. Which finding or explanation is MOST consistent with coarctation echo window?",
+      "image": null,
+      "options": [
+        "apical two-chamber view alone",
+        "subcostal IVC view alone",
+        "suprasternal notch view of the aortic arch",
+        "parasternal mitral short-axis view alone"
+      ],
+      "answer": 2,
+      "explanation": "suprasternal notch view of the aortic arch. Coarctation echo window: suprasternal notch view of the aortic arch. Lecture-derived review item.",
+      "explanationImage": null,
+      "tags": [
+        "Coarctation of the Aorta & Interrupted Arch",
+        "Obstructive Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch07-q048",
+      "stem": "During an adult/pediatric echocardiography board-style review, the sonographer is asked to identify the key feature of coarctation echo window. Which answer is BEST?",
+      "image": null,
+      "options": [
+        "suprasternal notch view of the aortic arch",
+        "subcostal IVC view alone",
+        "parasternal mitral short-axis view alone",
+        "apical two-chamber view alone"
+      ],
+      "answer": 0,
+      "explanation": "suprasternal notch view of the aortic arch. Coarctation echo window: suprasternal notch view of the aortic arch. Lecture-derived review item.",
+      "explanationImage": null,
+      "tags": [
+        "Coarctation of the Aorta & Interrupted Arch",
+        "Obstructive Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch07-q049",
+      "stem": "A severe congenital outflow narrowing remains untreated. Which finding or explanation is MOST consistent with obstruction upstream effects?",
+      "image": null,
+      "options": [
+        "pressure overload proximal to the lesion",
+        "obligatory left-to-right atrial shunt",
+        "volume unloading upstream in all cases",
+        "no chamber remodeling"
+      ],
+      "answer": 0,
+      "explanation": "pressure overload proximal to the lesion. Obstruction upstream effects: pressure overload proximal to the lesion. Lecture-derived review item.",
+      "explanationImage": null,
+      "tags": [
+        "Obstruction Hemodynamics & Physiology",
+        "Obstructive Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch07-q050",
+      "stem": "During an adult/pediatric echocardiography board-style review, the sonographer is asked to identify the key feature of obstruction upstream effects. Which answer is BEST?",
+      "image": null,
+      "options": [
+        "no chamber remodeling",
+        "pressure overload proximal to the lesion",
+        "volume unloading upstream in all cases",
+        "obligatory left-to-right atrial shunt"
+      ],
+      "answer": 1,
+      "explanation": "pressure overload proximal to the lesion. Obstruction upstream effects: pressure overload proximal to the lesion. Lecture-derived review item.",
+      "explanationImage": null,
+      "tags": [
+        "Obstruction Hemodynamics & Physiology",
+        "Obstructive Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch07-q051",
+      "stem": "A child has congenital valve-level aortic stenosis and two leaflets. Which finding best explains the clinical or imaging observation related to bicuspid aortic valve?",
+      "image": null,
+      "options": [
+        "aortic valve with one cusp",
+        "aortic valve with two cusps",
+        "supravalvular narrowing",
+        "subvalvular fibrous membrane"
+      ],
+      "answer": 1,
+      "explanation": "aortic valve with two cusps. The relevant concept is bicuspid aortic valve: aortic valve with two cusps. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Aortic Stenosis & Bicuspid Aortic Valve",
+        "Obstructive Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch07-q052",
+      "stem": "A stenotic jet originates at the semilunar leaflets. Which finding best explains the clinical or imaging observation related to valvular obstruction level?",
+      "image": null,
+      "options": [
+        "below the valve in muscular outflow",
+        "at the valve cusps",
+        "at the atrial septum",
+        "above the valve in great artery"
+      ],
+      "answer": 1,
+      "explanation": "at the valve cusps. The relevant concept is valvular obstruction level: at the valve cusps. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Obstruction Hemodynamics & Physiology",
+        "Obstructive Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch07-q053",
+      "stem": "A child has congenital severe aortic outflow obstruction. Which finding best explains the clinical or imaging observation related to aortic stenosis pressure response?",
+      "image": null,
+      "options": [
+        "isolated RV volume overload",
+        "left ventricular pressure overload and concentric hypertrophy",
+        "isolated LA pressure decrease",
+        "isolated RA volume overload"
+      ],
+      "answer": 1,
+      "explanation": "left ventricular pressure overload and concentric hypertrophy. The relevant concept is aortic stenosis pressure response: left ventricular pressure overload and concentric hypertrophy. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Aortic Stenosis & Bicuspid Aortic Valve",
+        "Obstructive Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch07-q054",
+      "stem": "A critical obstructive lesion requires a temporary circulatory bridge. Which finding best explains the clinical or imaging observation related to ductal patency treatment?",
+      "image": null,
+      "options": [
+        "ibuprofen to keep ductus open",
+        "indomethacin to keep ductus open",
+        "acetaminophen to keep ductus open",
+        "prostaglandin E1 to maintain ductal flow"
+      ],
+      "answer": 3,
+      "explanation": "prostaglandin E1 to maintain ductal flow. The relevant concept is ductal patency treatment: prostaglandin E1 to maintain ductal flow. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Obstructive Congenital Heart Disease",
+        "Obstructive Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch07-q055",
+      "stem": "An infant has no antegrade rv-to-pa flow. Which finding best explains the clinical or imaging observation related to pulmonary atresia pulmonary perfusion?",
+      "image": null,
+      "options": [
+        "direct LV-to-PA flow through aortic valve",
+        "pulmonary flow always bypasses ductus",
+        "normal forward flow across pulmonary valve",
+        "pulmonary blood flow may depend on a PDA"
+      ],
+      "answer": 3,
+      "explanation": "pulmonary blood flow may depend on a PDA. The relevant concept is pulmonary atresia pulmonary perfusion: pulmonary blood flow may depend on a PDA. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Obstructive Congenital Heart Disease",
+        "Obstructive Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch07-q056",
+      "stem": "A neonate has a high-velocity rv outflow jet. Which finding best explains the clinical or imaging observation related to pulmonary stenosis affected pathway?",
+      "image": null,
+      "options": [
+        "left atrium to left ventricle",
+        "left ventricle to aorta",
+        "pulmonary veins to left atrium",
+        "right ventricle to pulmonary artery"
+      ],
+      "answer": 3,
+      "explanation": "right ventricle to pulmonary artery. The relevant concept is pulmonary stenosis affected pathway: right ventricle to pulmonary artery. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Pulmonary Valve & Vascular Stenosis",
+        "Obstructive Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch07-q057",
+      "stem": "An older patient has longstanding coarctation. Which finding best explains the clinical or imaging observation related to coarctation collateral circulation?",
+      "image": null,
+      "options": [
+        "mitral stenosis causes rib notching",
+        "ASD causes rib notching",
+        "intercostal collaterals can produce rib notching",
+        "coronary sinus enlargement produces rib notching"
+      ],
+      "answer": 2,
+      "explanation": "intercostal collaterals can produce rib notching. The relevant concept is coarctation collateral circulation: intercostal collaterals can produce rib notching. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Coarctation of the Aorta & Interrupted Arch",
+        "Obstructive Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch07-q058",
+      "stem": "A severe congenital outflow narrowing remains untreated. Which finding best explains the clinical or imaging observation related to obstruction upstream effects?",
+      "image": null,
+      "options": [
+        "volume unloading upstream in all cases",
+        "obligatory left-to-right atrial shunt",
+        "no chamber remodeling",
+        "pressure overload proximal to the lesion"
+      ],
+      "answer": 3,
+      "explanation": "pressure overload proximal to the lesion. The relevant concept is obstruction upstream effects: pressure overload proximal to the lesion. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Obstruction Hemodynamics & Physiology",
+        "Obstructive Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch07-q059",
+      "stem": "Suprasternal imaging demonstrates a narrowed aortic segment. Which finding best explains the clinical or imaging observation related to coarctation definition?",
+      "image": null,
+      "options": [
+        "pulmonary venous obstruction",
+        "isolated mitral stenosis",
+        "absence of tricuspid valve",
+        "localized narrowing of the aorta"
+      ],
+      "answer": 3,
+      "explanation": "localized narrowing of the aorta. The relevant concept is coarctation definition: localized narrowing of the aorta. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Coarctation of the Aorta & Interrupted Arch",
+        "Obstructive Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch07-q060",
+      "stem": "Color doppler shows acceleration within a pulmonary branch. Which finding best explains the clinical or imaging observation related to peripheral pulmonary stenosis?",
+      "image": null,
+      "options": [
+        "absence of pulmonary valve",
+        "narrowing of branch pulmonary arteries",
+        "narrowing of aortic isthmus",
+        "narrowing of mitral valve"
+      ],
+      "answer": 1,
+      "explanation": "narrowing of branch pulmonary arteries. The relevant concept is peripheral pulmonary stenosis: narrowing of branch pulmonary arteries. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Pulmonary Valve & Vascular Stenosis",
+        "Obstructive Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch07-q061",
+      "stem": "A neonate develops shock as the ductus closes. Which finding best explains the clinical or imaging observation related to critical left-sided obstruction?",
+      "image": null,
+      "options": [
+        "ductus always supplies only pulmonary veins",
+        "ductal closure improves systemic perfusion",
+        "systemic blood flow may be ductal dependent",
+        "right atrial pressure is always zero"
+      ],
+      "answer": 2,
+      "explanation": "systemic blood flow may be ductal dependent. The relevant concept is critical left-sided obstruction: systemic blood flow may be ductal dependent. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Obstruction Hemodynamics & Physiology",
+        "Obstructive Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch07-q062",
+      "stem": "A girl has coarctation and a bicuspid aortic valve. Which finding best explains the clinical or imaging observation related to coarctation syndrome association?",
+      "image": null,
+      "options": [
+        "Marfan syndrome",
+        "Williams syndrome",
+        "Turner syndrome",
+        "DiGeorge syndrome"
+      ],
+      "answer": 2,
+      "explanation": "Turner syndrome. The relevant concept is coarctation syndrome association: Turner syndrome. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Coarctation of the Aorta & Interrupted Arch",
+        "Obstructive Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch07-q063",
+      "stem": "A discrete narrowing is distal to the semilunar valve. Which finding best explains the clinical or imaging observation related to supravalvular obstruction level?",
+      "image": null,
+      "options": [
+        "at the valve leaflets",
+        "within an atrium",
+        "below the valve",
+        "above the valve"
+      ],
+      "answer": 3,
+      "explanation": "above the valve. The relevant concept is supravalvular obstruction level: above the valve. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Aortic Stenosis & Bicuspid Aortic Valve",
+        "Obstructive Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch07-q064",
+      "stem": "Echo shows acceleration above the aortic sinuses. Which finding best explains the clinical or imaging observation related to supravalvular aortic stenosis?",
+      "image": null,
+      "options": [
+        "narrowing at mitral annulus",
+        "narrowing of ascending aorta above the aortic valve",
+        "narrowing below pulmonary valve",
+        "isolated descending aortic coarctation"
+      ],
+      "answer": 1,
+      "explanation": "narrowing of ascending aorta above the aortic valve. The relevant concept is supravalvular aortic stenosis: narrowing of ascending aorta above the aortic valve. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Aortic Stenosis & Bicuspid Aortic Valve",
+        "Obstructive Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch07-q065",
+      "stem": "The sonographer needs to locate the aortic isthmus. Which finding best explains the clinical or imaging observation related to coarctation echo window?",
+      "image": null,
+      "options": [
+        "parasternal mitral short-axis view alone",
+        "subcostal IVC view alone",
+        "suprasternal notch view of the aortic arch",
+        "apical two-chamber view alone"
+      ],
+      "answer": 2,
+      "explanation": "suprasternal notch view of the aortic arch. The relevant concept is coarctation echo window: suprasternal notch view of the aortic arch. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Coarctation of the Aorta & Interrupted Arch",
+        "Obstructive Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch07-q066",
+      "stem": "Echo demonstrates an imperforate semilunar valve. Which finding best explains the clinical or imaging observation related to atresia definition?",
+      "image": null,
+      "options": [
+        "mild valve narrowing",
+        "partial narrowing of descending aorta",
+        "isolated regurgitation",
+        "complete obstruction without forward flow"
+      ],
+      "answer": 3,
+      "explanation": "complete obstruction without forward flow. The relevant concept is atresia definition: complete obstruction without forward flow. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Obstruction Hemodynamics & Physiology",
+        "Obstructive Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch07-q067",
+      "stem": "Echo shows no rv-to-pa continuity. Which finding best explains the clinical or imaging observation related to pulmonary atresia RV morphology?",
+      "image": null,
+      "options": [
+        "both atria absent",
+        "aortic arch always normal in size",
+        "right ventricle may be hypoplastic",
+        "left ventricle always absent"
+      ],
+      "answer": 2,
+      "explanation": "right ventricle may be hypoplastic. The relevant concept is pulmonary atresia RV morphology: right ventricle may be hypoplastic. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Obstructive Congenital Heart Disease",
+        "Obstructive Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch07-q068",
+      "stem": "Echo cannot trace continuity across the aortic arch. Which finding best explains the clinical or imaging observation related to interrupted aortic arch?",
+      "image": null,
+      "options": [
+        "isolated aortic regurgitation",
+        "a two-cusp aortic valve",
+        "complete discontinuity between ascending and descending aorta",
+        "mild narrowing of pulmonary valve"
+      ],
+      "answer": 2,
+      "explanation": "complete discontinuity between ascending and descending aorta. The relevant concept is interrupted aortic arch: complete discontinuity between ascending and descending aorta. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Coarctation of the Aorta & Interrupted Arch",
+        "Obstructive Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch07-q069",
+      "stem": "A child has radiofemoral delay. Which finding best explains the clinical or imaging observation related to coarctation clinical examination?",
+      "image": null,
+      "options": [
+        "upper-extremity hypertension with weak delayed femoral pulses",
+        "isolated cyanosis without pulse discrepancy",
+        "stronger femoral than radial pulses",
+        "continuous machinery murmur only"
+      ],
+      "answer": 0,
+      "explanation": "upper-extremity hypertension with weak delayed femoral pulses. The relevant concept is coarctation clinical examination: upper-extremity hypertension with weak delayed femoral pulses. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Coarctation of the Aorta & Interrupted Arch",
+        "Obstructive Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch07-q070",
+      "stem": "Color acceleration begins in the ventricular outflow tract. Which finding best explains the clinical or imaging observation related to subvalvular obstruction level?",
+      "image": null,
+      "options": [
+        "within valve leaflets",
+        "within a pulmonary vein",
+        "below the semilunar valve",
+        "above the sinotubular junction"
+      ],
+      "answer": 2,
+      "explanation": "below the semilunar valve. The relevant concept is subvalvular obstruction level: below the semilunar valve. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Aortic Stenosis & Bicuspid Aortic Valve",
+        "Obstructive Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch07-q071",
+      "stem": "Parasternal long-axis view shows a membrane proximal to the aortic valve. Which finding best explains the clinical or imaging observation related to subaortic stenosis?",
+      "image": null,
+      "options": [
+        "obstruction at branch pulmonary arteries",
+        "tricuspid valve atresia",
+        "obstruction in LV outflow below aortic valve",
+        "obstruction within ascending aorta only"
+      ],
+      "answer": 2,
+      "explanation": "obstruction in LV outflow below aortic valve. The relevant concept is subaortic stenosis: obstruction in LV outflow below aortic valve. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Aortic Stenosis & Bicuspid Aortic Valve",
+        "Obstructive Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch07-q072",
+      "stem": "A stenotic valve has peak doppler velocity measured in m/s. Which finding best explains the clinical or imaging observation related to pressure gradient calculation?",
+      "image": null,
+      "options": [
+        "ΔP ≈ 4/v²",
+        "modified Bernoulli equation: ΔP ≈ 4v²",
+        "ΔP ≈ v²/4",
+        "ΔP ≈ v/4"
+      ],
+      "answer": 1,
+      "explanation": "modified Bernoulli equation: ΔP ≈ 4v². The relevant concept is pressure gradient calculation: modified Bernoulli equation: ΔP ≈ 4v². The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Obstruction Hemodynamics & Physiology",
+        "Obstructive Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch07-q073",
+      "stem": "Doppler shows accelerated flow across a narrowed valve. Which finding best explains the clinical or imaging observation related to stenosis definition?",
+      "image": null,
+      "options": [
+        "a ventricular septal hole",
+        "abnormal pulmonary venous connection",
+        "partial narrowing with residual forward flow",
+        "complete absence of a valve orifice"
+      ],
+      "answer": 2,
+      "explanation": "partial narrowing with residual forward flow. The relevant concept is stenosis definition: partial narrowing with residual forward flow. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Obstructive Congenital Heart Disease",
+        "Obstructive Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch07-q074",
+      "stem": "Severe valvular ps persists in a child. Which finding best explains the clinical or imaging observation related to pulmonary stenosis pressure response?",
+      "image": null,
+      "options": [
+        "isolated LA dilation",
+        "reduced RV systolic pressure",
+        "right ventricular pressure overload and hypertrophy",
+        "isolated LV volume overload"
+      ],
+      "answer": 2,
+      "explanation": "right ventricular pressure overload and hypertrophy. The relevant concept is pulmonary stenosis pressure response: right ventricular pressure overload and hypertrophy. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Pulmonary Valve & Vascular Stenosis",
+        "Obstructive Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch07-q075",
+      "stem": "Suprasternal doppler interrogates descending aorta. Which finding best explains the clinical or imaging observation related to coarctation Doppler pattern?",
+      "image": null,
+      "options": [
+        "pulmonary venous systolic reversal",
+        "isolated tricuspid inflow reversal",
+        "normal laminar flow with no gradient",
+        "persistent antegrade diastolic flow distal to the narrowing"
+      ],
+      "answer": 3,
+      "explanation": "persistent antegrade diastolic flow distal to the narrowing. The relevant concept is coarctation Doppler pattern: persistent antegrade diastolic flow distal to the narrowing. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Coarctation of the Aorta & Interrupted Arch",
+        "Obstructive Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch07-q076",
+      "stem": "A sonographer reviews the echocardiogram in a case where an infant has no antegrade RV-to-PA flow. Which interpretation is most consistent with the underlying pulmonary atresia pulmonary perfusion?",
+      "image": null,
+      "options": [
+        "direct LV-to-PA flow through aortic valve",
+        "pulmonary blood flow may depend on a PDA",
+        "pulmonary flow always bypasses ductus",
+        "normal forward flow across pulmonary valve"
+      ],
+      "answer": 1,
+      "explanation": "pulmonary blood flow may depend on a PDA. The relevant concept is pulmonary atresia pulmonary perfusion: pulmonary blood flow may depend on a PDA. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Obstructive Congenital Heart Disease",
+        "Obstructive Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch07-q077",
+      "stem": "A sonographer reviews the echocardiogram in a case where a neonate has a high-velocity RV outflow jet. Which interpretation is most consistent with the underlying pulmonary stenosis affected pathway?",
+      "image": null,
+      "options": [
+        "right ventricle to pulmonary artery",
+        "pulmonary veins to left atrium",
+        "left ventricle to aorta",
+        "left atrium to left ventricle"
+      ],
+      "answer": 0,
+      "explanation": "right ventricle to pulmonary artery. The relevant concept is pulmonary stenosis affected pathway: right ventricle to pulmonary artery. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Pulmonary Valve & Vascular Stenosis",
+        "Obstructive Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch07-q078",
+      "stem": "A sonographer reviews the echocardiogram in a case where an older patient has longstanding coarctation. Which interpretation is most consistent with the underlying coarctation collateral circulation?",
+      "image": null,
+      "options": [
+        "intercostal collaterals can produce rib notching",
+        "mitral stenosis causes rib notching",
+        "coronary sinus enlargement produces rib notching",
+        "ASD causes rib notching"
+      ],
+      "answer": 0,
+      "explanation": "intercostal collaterals can produce rib notching. The relevant concept is coarctation collateral circulation: intercostal collaterals can produce rib notching. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Coarctation of the Aorta & Interrupted Arch",
+        "Obstructive Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch07-q079",
+      "stem": "A sonographer reviews the echocardiogram in a case where a severe congenital outflow narrowing remains untreated. Which interpretation is most consistent with the underlying obstruction upstream effects?",
+      "image": null,
+      "options": [
+        "pressure overload proximal to the lesion",
+        "no chamber remodeling",
+        "obligatory left-to-right atrial shunt",
+        "volume unloading upstream in all cases"
+      ],
+      "answer": 0,
+      "explanation": "pressure overload proximal to the lesion. The relevant concept is obstruction upstream effects: pressure overload proximal to the lesion. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Obstruction Hemodynamics & Physiology",
+        "Obstructive Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch07-q080",
+      "stem": "A sonographer reviews the echocardiogram in a case where suprasternal imaging demonstrates a narrowed aortic segment. Which interpretation is most consistent with the underlying coarctation definition?",
+      "image": null,
+      "options": [
+        "pulmonary venous obstruction",
+        "isolated mitral stenosis",
+        "absence of tricuspid valve",
+        "localized narrowing of the aorta"
+      ],
+      "answer": 3,
+      "explanation": "localized narrowing of the aorta. The relevant concept is coarctation definition: localized narrowing of the aorta. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Coarctation of the Aorta & Interrupted Arch",
+        "Obstructive Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch07-q081",
+      "stem": "A sonographer reviews the echocardiogram in a case where color Doppler shows acceleration within a pulmonary branch. Which interpretation is most consistent with the underlying peripheral pulmonary stenosis?",
+      "image": null,
+      "options": [
+        "narrowing of mitral valve",
+        "narrowing of aortic isthmus",
+        "narrowing of branch pulmonary arteries",
+        "absence of pulmonary valve"
+      ],
+      "answer": 2,
+      "explanation": "narrowing of branch pulmonary arteries. The relevant concept is peripheral pulmonary stenosis: narrowing of branch pulmonary arteries. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Pulmonary Valve & Vascular Stenosis",
+        "Obstructive Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch07-q082",
+      "stem": "A sonographer reviews the echocardiogram in a case where a neonate develops shock as the ductus closes. Which interpretation is most consistent with the underlying critical left-sided obstruction?",
+      "image": null,
+      "options": [
+        "right atrial pressure is always zero",
+        "systemic blood flow may be ductal dependent",
+        "ductus always supplies only pulmonary veins",
+        "ductal closure improves systemic perfusion"
+      ],
+      "answer": 1,
+      "explanation": "systemic blood flow may be ductal dependent. The relevant concept is critical left-sided obstruction: systemic blood flow may be ductal dependent. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Obstruction Hemodynamics & Physiology",
+        "Obstructive Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch07-q083",
+      "stem": "A sonographer reviews the echocardiogram in a case where a girl has coarctation and a bicuspid aortic valve. Which interpretation is most consistent with the underlying coarctation syndrome association?",
+      "image": null,
+      "options": [
+        "Marfan syndrome",
+        "Turner syndrome",
+        "DiGeorge syndrome",
+        "Williams syndrome"
+      ],
+      "answer": 1,
+      "explanation": "Turner syndrome. The relevant concept is coarctation syndrome association: Turner syndrome. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Coarctation of the Aorta & Interrupted Arch",
+        "Obstructive Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch07-q084",
+      "stem": "A sonographer reviews the echocardiogram in a case where a discrete narrowing is distal to the semilunar valve. Which interpretation is most consistent with the underlying supravalvular obstruction level?",
+      "image": null,
+      "options": [
+        "at the valve leaflets",
+        "below the valve",
+        "above the valve",
+        "within an atrium"
+      ],
+      "answer": 2,
+      "explanation": "above the valve. The relevant concept is supravalvular obstruction level: above the valve. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Aortic Stenosis & Bicuspid Aortic Valve",
+        "Obstructive Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch07-q085",
+      "stem": "A sonographer reviews the echocardiogram in a case where echo shows acceleration above the aortic sinuses. Which interpretation is most consistent with the underlying supravalvular aortic stenosis?",
+      "image": null,
+      "options": [
+        "isolated descending aortic coarctation",
+        "narrowing at mitral annulus",
+        "narrowing of ascending aorta above the aortic valve",
+        "narrowing below pulmonary valve"
+      ],
+      "answer": 2,
+      "explanation": "narrowing of ascending aorta above the aortic valve. The relevant concept is supravalvular aortic stenosis: narrowing of ascending aorta above the aortic valve. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Aortic Stenosis & Bicuspid Aortic Valve",
+        "Obstructive Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch07-q086",
+      "stem": "A sonographer reviews the echocardiogram in a case where the sonographer needs to locate the aortic isthmus. Which interpretation is most consistent with the underlying coarctation echo window?",
+      "image": null,
+      "options": [
+        "suprasternal notch view of the aortic arch",
+        "apical two-chamber view alone",
+        "parasternal mitral short-axis view alone",
+        "subcostal IVC view alone"
+      ],
+      "answer": 0,
+      "explanation": "suprasternal notch view of the aortic arch. The relevant concept is coarctation echo window: suprasternal notch view of the aortic arch. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Coarctation of the Aorta & Interrupted Arch",
+        "Obstructive Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch07-q087",
+      "stem": "A sonographer reviews the echocardiogram in a case where echo demonstrates an imperforate semilunar valve. Which interpretation is most consistent with the underlying atresia definition?",
+      "image": null,
+      "options": [
+        "complete obstruction without forward flow",
+        "partial narrowing of descending aorta",
+        "isolated regurgitation",
+        "mild valve narrowing"
+      ],
+      "answer": 0,
+      "explanation": "complete obstruction without forward flow. The relevant concept is atresia definition: complete obstruction without forward flow. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Obstruction Hemodynamics & Physiology",
+        "Obstructive Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch07-q088",
+      "stem": "A sonographer reviews the echocardiogram in a case where echo shows no RV-to-PA continuity. Which interpretation is most consistent with the underlying pulmonary atresia RV morphology?",
+      "image": null,
+      "options": [
+        "both atria absent",
+        "left ventricle always absent",
+        "right ventricle may be hypoplastic",
+        "aortic arch always normal in size"
+      ],
+      "answer": 2,
+      "explanation": "right ventricle may be hypoplastic. The relevant concept is pulmonary atresia RV morphology: right ventricle may be hypoplastic. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Obstructive Congenital Heart Disease",
+        "Obstructive Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch07-q089",
+      "stem": "A sonographer reviews the echocardiogram in a case where echo cannot trace continuity across the aortic arch. Which interpretation is most consistent with the underlying interrupted aortic arch?",
+      "image": null,
+      "options": [
+        "isolated aortic regurgitation",
+        "mild narrowing of pulmonary valve",
+        "complete discontinuity between ascending and descending aorta",
+        "a two-cusp aortic valve"
+      ],
+      "answer": 2,
+      "explanation": "complete discontinuity between ascending and descending aorta. The relevant concept is interrupted aortic arch: complete discontinuity between ascending and descending aorta. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Coarctation of the Aorta & Interrupted Arch",
+        "Obstructive Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch07-q090",
+      "stem": "A sonographer reviews the echocardiogram in a case where a child has radiofemoral delay. Which interpretation is most consistent with the underlying coarctation clinical examination?",
+      "image": null,
+      "options": [
+        "upper-extremity hypertension with weak delayed femoral pulses",
+        "stronger femoral than radial pulses",
+        "continuous machinery murmur only",
+        "isolated cyanosis without pulse discrepancy"
+      ],
+      "answer": 0,
+      "explanation": "upper-extremity hypertension with weak delayed femoral pulses. The relevant concept is coarctation clinical examination: upper-extremity hypertension with weak delayed femoral pulses. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Coarctation of the Aorta & Interrupted Arch",
+        "Obstructive Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch07-q091",
+      "stem": "A sonographer reviews the echocardiogram in a case where color acceleration begins in the ventricular outflow tract. Which interpretation is most consistent with the underlying subvalvular obstruction level?",
+      "image": null,
+      "options": [
+        "below the semilunar valve",
+        "within valve leaflets",
+        "within a pulmonary vein",
+        "above the sinotubular junction"
+      ],
+      "answer": 0,
+      "explanation": "below the semilunar valve. The relevant concept is subvalvular obstruction level: below the semilunar valve. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Aortic Stenosis & Bicuspid Aortic Valve",
+        "Obstructive Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch07-q092",
+      "stem": "A sonographer reviews the echocardiogram in a case where parasternal long-axis view shows a membrane proximal to the aortic valve. Which interpretation is most consistent with the underlying subaortic stenosis?",
+      "image": null,
+      "options": [
+        "obstruction within ascending aorta only",
+        "tricuspid valve atresia",
+        "obstruction at branch pulmonary arteries",
+        "obstruction in LV outflow below aortic valve"
+      ],
+      "answer": 3,
+      "explanation": "obstruction in LV outflow below aortic valve. The relevant concept is subaortic stenosis: obstruction in LV outflow below aortic valve. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Aortic Stenosis & Bicuspid Aortic Valve",
+        "Obstructive Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch07-q093",
+      "stem": "A sonographer reviews the echocardiogram in a case where a stenotic valve has peak Doppler velocity measured in m/s. Which interpretation is most consistent with the underlying pressure gradient calculation?",
+      "image": null,
+      "options": [
+        "ΔP ≈ v²/4",
+        "ΔP ≈ 4/v²",
+        "ΔP ≈ v/4",
+        "modified Bernoulli equation: ΔP ≈ 4v²"
+      ],
+      "answer": 3,
+      "explanation": "modified Bernoulli equation: ΔP ≈ 4v². The relevant concept is pressure gradient calculation: modified Bernoulli equation: ΔP ≈ 4v². The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Obstruction Hemodynamics & Physiology",
+        "Obstructive Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch07-q094",
+      "stem": "A sonographer reviews the echocardiogram in a case where Doppler shows accelerated flow across a narrowed valve. Which interpretation is most consistent with the underlying stenosis definition?",
+      "image": null,
+      "options": [
+        "a ventricular septal hole",
+        "partial narrowing with residual forward flow",
+        "abnormal pulmonary venous connection",
+        "complete absence of a valve orifice"
+      ],
+      "answer": 1,
+      "explanation": "partial narrowing with residual forward flow. The relevant concept is stenosis definition: partial narrowing with residual forward flow. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Obstructive Congenital Heart Disease",
+        "Obstructive Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch07-q095",
+      "stem": "A sonographer reviews the echocardiogram in a case where severe valvular PS persists in a child. Which interpretation is most consistent with the underlying pulmonary stenosis pressure response?",
+      "image": null,
+      "options": [
+        "right ventricular pressure overload and hypertrophy",
+        "reduced RV systolic pressure",
+        "isolated LV volume overload",
+        "isolated LA dilation"
+      ],
+      "answer": 0,
+      "explanation": "right ventricular pressure overload and hypertrophy. The relevant concept is pulmonary stenosis pressure response: right ventricular pressure overload and hypertrophy. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Pulmonary Valve & Vascular Stenosis",
+        "Obstructive Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch07-q096",
+      "stem": "A sonographer reviews the echocardiogram in a case where suprasternal Doppler interrogates descending aorta. Which interpretation is most consistent with the underlying coarctation Doppler pattern?",
+      "image": null,
+      "options": [
+        "normal laminar flow with no gradient",
+        "persistent antegrade diastolic flow distal to the narrowing",
+        "pulmonary venous systolic reversal",
+        "isolated tricuspid inflow reversal"
+      ],
+      "answer": 1,
+      "explanation": "persistent antegrade diastolic flow distal to the narrowing. The relevant concept is coarctation Doppler pattern: persistent antegrade diastolic flow distal to the narrowing. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Coarctation of the Aorta & Interrupted Arch",
+        "Obstructive Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch07-q097",
+      "stem": "A sonographer reviews the echocardiogram in a case where a child has congenital valve-level aortic stenosis and two leaflets. Which interpretation is most consistent with the underlying bicuspid aortic valve?",
+      "image": null,
+      "options": [
+        "aortic valve with one cusp",
+        "aortic valve with two cusps",
+        "supravalvular narrowing",
+        "subvalvular fibrous membrane"
+      ],
+      "answer": 1,
+      "explanation": "aortic valve with two cusps. The relevant concept is bicuspid aortic valve: aortic valve with two cusps. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Aortic Stenosis & Bicuspid Aortic Valve",
+        "Obstructive Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch07-q098",
+      "stem": "A sonographer reviews the echocardiogram in a case where a stenotic jet originates at the semilunar leaflets. Which interpretation is most consistent with the underlying valvular obstruction level?",
+      "image": null,
+      "options": [
+        "at the atrial septum",
+        "above the valve in great artery",
+        "at the valve cusps",
+        "below the valve in muscular outflow"
+      ],
+      "answer": 2,
+      "explanation": "at the valve cusps. The relevant concept is valvular obstruction level: at the valve cusps. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Obstruction Hemodynamics & Physiology",
+        "Obstructive Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch07-q099",
+      "stem": "A sonographer reviews the echocardiogram in a case where a child has congenital severe aortic outflow obstruction. Which interpretation is most consistent with the underlying aortic stenosis pressure response?",
+      "image": null,
+      "options": [
+        "isolated RV volume overload",
+        "isolated RA volume overload",
+        "isolated LA pressure decrease",
+        "left ventricular pressure overload and concentric hypertrophy"
+      ],
+      "answer": 3,
+      "explanation": "left ventricular pressure overload and concentric hypertrophy. The relevant concept is aortic stenosis pressure response: left ventricular pressure overload and concentric hypertrophy. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Aortic Stenosis & Bicuspid Aortic Valve",
+        "Obstructive Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch07-q100",
+      "stem": "A sonographer reviews the echocardiogram in a case where a critical obstructive lesion requires a temporary circulatory bridge. Which interpretation is most consistent with the underlying ductal patency treatment?",
+      "image": null,
+      "options": [
+        "indomethacin to keep ductus open",
+        "prostaglandin E1 to maintain ductal flow",
+        "acetaminophen to keep ductus open",
+        "ibuprofen to keep ductus open"
+      ],
+      "answer": 1,
+      "explanation": "prostaglandin E1 to maintain ductal flow. The relevant concept is ductal patency treatment: prostaglandin E1 to maintain ductal flow. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Obstructive Congenital Heart Disease",
+        "Obstructive Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch07-q101",
+      "stem": "During a congenital heart disease case conference, the team discusses coarctation definition. Which statement is correct?",
+      "image": null,
+      "options": [
+        "isolated mitral stenosis",
+        "localized narrowing of the aorta",
+        "absence of tricuspid valve",
+        "pulmonary venous obstruction"
+      ],
+      "answer": 1,
+      "explanation": "localized narrowing of the aorta. The relevant concept is coarctation definition: localized narrowing of the aorta. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Coarctation of the Aorta & Interrupted Arch",
+        "Obstructive Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch07-q102",
+      "stem": "During a congenital heart disease case conference, the team discusses peripheral pulmonary stenosis. Which statement is correct?",
+      "image": null,
+      "options": [
+        "narrowing of mitral valve",
+        "narrowing of aortic isthmus",
+        "narrowing of branch pulmonary arteries",
+        "absence of pulmonary valve"
+      ],
+      "answer": 2,
+      "explanation": "narrowing of branch pulmonary arteries. The relevant concept is peripheral pulmonary stenosis: narrowing of branch pulmonary arteries. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Pulmonary Valve & Vascular Stenosis",
+        "Obstructive Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch07-q103",
+      "stem": "During a congenital heart disease case conference, the team discusses critical left-sided obstruction. Which statement is correct?",
+      "image": null,
+      "options": [
+        "ductus always supplies only pulmonary veins",
+        "systemic blood flow may be ductal dependent",
+        "right atrial pressure is always zero",
+        "ductal closure improves systemic perfusion"
+      ],
+      "answer": 1,
+      "explanation": "systemic blood flow may be ductal dependent. The relevant concept is critical left-sided obstruction: systemic blood flow may be ductal dependent. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Obstruction Hemodynamics & Physiology",
+        "Obstructive Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch07-q104",
+      "stem": "During a congenital heart disease case conference, the team discusses coarctation syndrome association. Which statement is correct?",
+      "image": null,
+      "options": [
+        "Marfan syndrome",
+        "Turner syndrome",
+        "DiGeorge syndrome",
+        "Williams syndrome"
+      ],
+      "answer": 1,
+      "explanation": "Turner syndrome. The relevant concept is coarctation syndrome association: Turner syndrome. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Coarctation of the Aorta & Interrupted Arch",
+        "Obstructive Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch07-q105",
+      "stem": "During a congenital heart disease case conference, the team discusses supravalvular obstruction level. Which statement is correct?",
+      "image": null,
+      "options": [
+        "below the valve",
+        "above the valve",
+        "within an atrium",
+        "at the valve leaflets"
+      ],
+      "answer": 1,
+      "explanation": "above the valve. The relevant concept is supravalvular obstruction level: above the valve. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Aortic Stenosis & Bicuspid Aortic Valve",
+        "Obstructive Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch07-q106",
+      "stem": "During a congenital heart disease case conference, the team discusses supravalvular aortic stenosis. Which statement is correct?",
+      "image": null,
+      "options": [
+        "narrowing at mitral annulus",
+        "narrowing of ascending aorta above the aortic valve",
+        "isolated descending aortic coarctation",
+        "narrowing below pulmonary valve"
+      ],
+      "answer": 1,
+      "explanation": "narrowing of ascending aorta above the aortic valve. The relevant concept is supravalvular aortic stenosis: narrowing of ascending aorta above the aortic valve. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Aortic Stenosis & Bicuspid Aortic Valve",
+        "Obstructive Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch07-q107",
+      "stem": "During a congenital heart disease case conference, the team discusses coarctation echo window. Which statement is correct?",
+      "image": null,
+      "options": [
+        "suprasternal notch view of the aortic arch",
+        "subcostal IVC view alone",
+        "apical two-chamber view alone",
+        "parasternal mitral short-axis view alone"
+      ],
+      "answer": 0,
+      "explanation": "suprasternal notch view of the aortic arch. The relevant concept is coarctation echo window: suprasternal notch view of the aortic arch. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Coarctation of the Aorta & Interrupted Arch",
+        "Obstructive Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch07-q108",
+      "stem": "During a congenital heart disease case conference, the team discusses atresia definition. Which statement is correct?",
+      "image": null,
+      "options": [
+        "partial narrowing of descending aorta",
+        "isolated regurgitation",
+        "complete obstruction without forward flow",
+        "mild valve narrowing"
+      ],
+      "answer": 2,
+      "explanation": "complete obstruction without forward flow. The relevant concept is atresia definition: complete obstruction without forward flow. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Obstruction Hemodynamics & Physiology",
+        "Obstructive Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch07-q109",
+      "stem": "During a congenital heart disease case conference, the team discusses pulmonary atresia RV morphology. Which statement is correct?",
+      "image": null,
+      "options": [
+        "right ventricle may be hypoplastic",
+        "aortic arch always normal in size",
+        "both atria absent",
+        "left ventricle always absent"
+      ],
+      "answer": 0,
+      "explanation": "right ventricle may be hypoplastic. The relevant concept is pulmonary atresia RV morphology: right ventricle may be hypoplastic. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Obstructive Congenital Heart Disease",
+        "Obstructive Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch07-q110",
+      "stem": "During a congenital heart disease case conference, the team discusses interrupted aortic arch. Which statement is correct?",
+      "image": null,
+      "options": [
+        "complete discontinuity between ascending and descending aorta",
+        "isolated aortic regurgitation",
+        "a two-cusp aortic valve",
+        "mild narrowing of pulmonary valve"
+      ],
+      "answer": 0,
+      "explanation": "complete discontinuity between ascending and descending aorta. The relevant concept is interrupted aortic arch: complete discontinuity between ascending and descending aorta. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Coarctation of the Aorta & Interrupted Arch",
+        "Obstructive Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch07-q111",
+      "stem": "During a congenital heart disease case conference, the team discusses coarctation clinical examination. Which statement is correct?",
+      "image": null,
+      "options": [
+        "stronger femoral than radial pulses",
+        "upper-extremity hypertension with weak delayed femoral pulses",
+        "continuous machinery murmur only",
+        "isolated cyanosis without pulse discrepancy"
+      ],
+      "answer": 1,
+      "explanation": "upper-extremity hypertension with weak delayed femoral pulses. The relevant concept is coarctation clinical examination: upper-extremity hypertension with weak delayed femoral pulses. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Coarctation of the Aorta & Interrupted Arch",
+        "Obstructive Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch07-q112",
+      "stem": "During a congenital heart disease case conference, the team discusses subvalvular obstruction level. Which statement is correct?",
+      "image": null,
+      "options": [
+        "within a pulmonary vein",
+        "above the sinotubular junction",
+        "within valve leaflets",
+        "below the semilunar valve"
+      ],
+      "answer": 3,
+      "explanation": "below the semilunar valve. The relevant concept is subvalvular obstruction level: below the semilunar valve. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Aortic Stenosis & Bicuspid Aortic Valve",
+        "Obstructive Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch07-q113",
+      "stem": "During a congenital heart disease case conference, the team discusses subaortic stenosis. Which statement is correct?",
+      "image": null,
+      "options": [
+        "obstruction at branch pulmonary arteries",
+        "obstruction in LV outflow below aortic valve",
+        "obstruction within ascending aorta only",
+        "tricuspid valve atresia"
+      ],
+      "answer": 1,
+      "explanation": "obstruction in LV outflow below aortic valve. The relevant concept is subaortic stenosis: obstruction in LV outflow below aortic valve. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Aortic Stenosis & Bicuspid Aortic Valve",
+        "Obstructive Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch07-q114",
+      "stem": "During a congenital heart disease case conference, the team discusses pressure gradient calculation. Which statement is correct?",
+      "image": null,
+      "options": [
+        "ΔP ≈ 4/v²",
+        "modified Bernoulli equation: ΔP ≈ 4v²",
+        "ΔP ≈ v²/4",
+        "ΔP ≈ v/4"
+      ],
+      "answer": 1,
+      "explanation": "modified Bernoulli equation: ΔP ≈ 4v². The relevant concept is pressure gradient calculation: modified Bernoulli equation: ΔP ≈ 4v². The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Obstruction Hemodynamics & Physiology",
+        "Obstructive Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch07-q115",
+      "stem": "During a congenital heart disease case conference, the team discusses stenosis definition. Which statement is correct?",
+      "image": null,
+      "options": [
+        "abnormal pulmonary venous connection",
+        "a ventricular septal hole",
+        "complete absence of a valve orifice",
+        "partial narrowing with residual forward flow"
+      ],
+      "answer": 3,
+      "explanation": "partial narrowing with residual forward flow. The relevant concept is stenosis definition: partial narrowing with residual forward flow. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Obstructive Congenital Heart Disease",
+        "Obstructive Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch07-q116",
+      "stem": "During a congenital heart disease case conference, the team discusses pulmonary stenosis pressure response. Which statement is correct?",
+      "image": null,
+      "options": [
+        "isolated LA dilation",
+        "right ventricular pressure overload and hypertrophy",
+        "isolated LV volume overload",
+        "reduced RV systolic pressure"
+      ],
+      "answer": 1,
+      "explanation": "right ventricular pressure overload and hypertrophy. The relevant concept is pulmonary stenosis pressure response: right ventricular pressure overload and hypertrophy. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Pulmonary Valve & Vascular Stenosis",
+        "Obstructive Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch07-q117",
+      "stem": "During a congenital heart disease case conference, the team discusses coarctation Doppler pattern. Which statement is correct?",
+      "image": null,
+      "options": [
+        "pulmonary venous systolic reversal",
+        "isolated tricuspid inflow reversal",
+        "normal laminar flow with no gradient",
+        "persistent antegrade diastolic flow distal to the narrowing"
+      ],
+      "answer": 3,
+      "explanation": "persistent antegrade diastolic flow distal to the narrowing. The relevant concept is coarctation Doppler pattern: persistent antegrade diastolic flow distal to the narrowing. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Coarctation of the Aorta & Interrupted Arch",
+        "Obstructive Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch07-q118",
+      "stem": "During a congenital heart disease case conference, the team discusses bicuspid aortic valve. Which statement is correct?",
+      "image": null,
+      "options": [
+        "subvalvular fibrous membrane",
+        "aortic valve with one cusp",
+        "aortic valve with two cusps",
+        "supravalvular narrowing"
+      ],
+      "answer": 2,
+      "explanation": "aortic valve with two cusps. The relevant concept is bicuspid aortic valve: aortic valve with two cusps. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Aortic Stenosis & Bicuspid Aortic Valve",
+        "Obstructive Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch07-q119",
+      "stem": "During a congenital heart disease case conference, the team discusses valvular obstruction level. Which statement is correct?",
+      "image": null,
+      "options": [
+        "at the atrial septum",
+        "below the valve in muscular outflow",
+        "at the valve cusps",
+        "above the valve in great artery"
+      ],
+      "answer": 2,
+      "explanation": "at the valve cusps. The relevant concept is valvular obstruction level: at the valve cusps. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Obstruction Hemodynamics & Physiology",
+        "Obstructive Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch07-q120",
+      "stem": "During a congenital heart disease case conference, the team discusses aortic stenosis pressure response. Which statement is correct?",
+      "image": null,
+      "options": [
+        "isolated RA volume overload",
+        "isolated RV volume overload",
+        "left ventricular pressure overload and concentric hypertrophy",
+        "isolated LA pressure decrease"
+      ],
+      "answer": 2,
+      "explanation": "left ventricular pressure overload and concentric hypertrophy. The relevant concept is aortic stenosis pressure response: left ventricular pressure overload and concentric hypertrophy. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Aortic Stenosis & Bicuspid Aortic Valve",
+        "Obstructive Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch07-q121",
+      "stem": "During a congenital heart disease case conference, the team discusses ductal patency treatment. Which statement is correct?",
+      "image": null,
+      "options": [
+        "acetaminophen to keep ductus open",
+        "ibuprofen to keep ductus open",
+        "indomethacin to keep ductus open",
+        "prostaglandin E1 to maintain ductal flow"
+      ],
+      "answer": 3,
+      "explanation": "prostaglandin E1 to maintain ductal flow. The relevant concept is ductal patency treatment: prostaglandin E1 to maintain ductal flow. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Obstructive Congenital Heart Disease",
+        "Obstructive Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch07-q122",
+      "stem": "During a congenital heart disease case conference, the team discusses pulmonary atresia pulmonary perfusion. Which statement is correct?",
+      "image": null,
+      "options": [
+        "normal forward flow across pulmonary valve",
+        "pulmonary flow always bypasses ductus",
+        "pulmonary blood flow may depend on a PDA",
+        "direct LV-to-PA flow through aortic valve"
+      ],
+      "answer": 2,
+      "explanation": "pulmonary blood flow may depend on a PDA. The relevant concept is pulmonary atresia pulmonary perfusion: pulmonary blood flow may depend on a PDA. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Obstructive Congenital Heart Disease",
+        "Obstructive Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch07-q123",
+      "stem": "During a congenital heart disease case conference, the team discusses pulmonary stenosis affected pathway. Which statement is correct?",
+      "image": null,
+      "options": [
+        "pulmonary veins to left atrium",
+        "left atrium to left ventricle",
+        "left ventricle to aorta",
+        "right ventricle to pulmonary artery"
+      ],
+      "answer": 3,
+      "explanation": "right ventricle to pulmonary artery. The relevant concept is pulmonary stenosis affected pathway: right ventricle to pulmonary artery. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Pulmonary Valve & Vascular Stenosis",
+        "Obstructive Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch07-q124",
+      "stem": "During a congenital heart disease case conference, the team discusses coarctation collateral circulation. Which statement is correct?",
+      "image": null,
+      "options": [
+        "mitral stenosis causes rib notching",
+        "coronary sinus enlargement produces rib notching",
+        "intercostal collaterals can produce rib notching",
+        "ASD causes rib notching"
+      ],
+      "answer": 2,
+      "explanation": "intercostal collaterals can produce rib notching. The relevant concept is coarctation collateral circulation: intercostal collaterals can produce rib notching. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Coarctation of the Aorta & Interrupted Arch",
+        "Obstructive Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch07-q125",
+      "stem": "During a congenital heart disease case conference, the team discusses obstruction upstream effects. Which statement is correct?",
+      "image": null,
+      "options": [
+        "volume unloading upstream in all cases",
+        "obligatory left-to-right atrial shunt",
+        "no chamber remodeling",
+        "pressure overload proximal to the lesion"
+      ],
+      "answer": 3,
+      "explanation": "pressure overload proximal to the lesion. The relevant concept is obstruction upstream effects: pressure overload proximal to the lesion. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Obstruction Hemodynamics & Physiology",
+        "Obstructive Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch07-q126",
+      "stem": "An examination stem describes this clinical setting: a discrete narrowing is distal to the semilunar valve. Which associated anatomic or physiologic feature should be recognized?",
+      "image": null,
+      "options": [
+        "below the valve",
+        "within an atrium",
+        "above the valve",
+        "at the valve leaflets"
+      ],
+      "answer": 2,
+      "explanation": "above the valve. The relevant concept is supravalvular obstruction level: above the valve. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Aortic Stenosis & Bicuspid Aortic Valve",
+        "Obstructive Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch07-q127",
+      "stem": "An examination stem describes this clinical setting: echo shows acceleration above the aortic sinuses. Which associated anatomic or physiologic feature should be recognized?",
+      "image": null,
+      "options": [
+        "isolated descending aortic coarctation",
+        "narrowing below pulmonary valve",
+        "narrowing at mitral annulus",
+        "narrowing of ascending aorta above the aortic valve"
+      ],
+      "answer": 3,
+      "explanation": "narrowing of ascending aorta above the aortic valve. The relevant concept is supravalvular aortic stenosis: narrowing of ascending aorta above the aortic valve. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Aortic Stenosis & Bicuspid Aortic Valve",
+        "Obstructive Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch07-q128",
+      "stem": "An examination stem describes this clinical setting: the sonographer needs to locate the aortic isthmus. Which associated anatomic or physiologic feature should be recognized?",
+      "image": null,
+      "options": [
+        "suprasternal notch view of the aortic arch",
+        "apical two-chamber view alone",
+        "subcostal IVC view alone",
+        "parasternal mitral short-axis view alone"
+      ],
+      "answer": 0,
+      "explanation": "suprasternal notch view of the aortic arch. The relevant concept is coarctation echo window: suprasternal notch view of the aortic arch. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Coarctation of the Aorta & Interrupted Arch",
+        "Obstructive Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch07-q129",
+      "stem": "An examination stem describes this clinical setting: echo demonstrates an imperforate semilunar valve. Which associated anatomic or physiologic feature should be recognized?",
+      "image": null,
+      "options": [
+        "mild valve narrowing",
+        "complete obstruction without forward flow",
+        "isolated regurgitation",
+        "partial narrowing of descending aorta"
+      ],
+      "answer": 1,
+      "explanation": "complete obstruction without forward flow. The relevant concept is atresia definition: complete obstruction without forward flow. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Obstruction Hemodynamics & Physiology",
+        "Obstructive Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch07-q130",
+      "stem": "An examination stem describes this clinical setting: echo shows no RV-to-PA continuity. Which associated anatomic or physiologic feature should be recognized?",
+      "image": null,
+      "options": [
+        "left ventricle always absent",
+        "aortic arch always normal in size",
+        "both atria absent",
+        "right ventricle may be hypoplastic"
+      ],
+      "answer": 3,
+      "explanation": "right ventricle may be hypoplastic. The relevant concept is pulmonary atresia RV morphology: right ventricle may be hypoplastic. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Obstructive Congenital Heart Disease",
+        "Obstructive Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch07-q131",
+      "stem": "An examination stem describes this clinical setting: echo cannot trace continuity across the aortic arch. Which associated anatomic or physiologic feature should be recognized?",
+      "image": null,
+      "options": [
+        "complete discontinuity between ascending and descending aorta",
+        "a two-cusp aortic valve",
+        "mild narrowing of pulmonary valve",
+        "isolated aortic regurgitation"
+      ],
+      "answer": 0,
+      "explanation": "complete discontinuity between ascending and descending aorta. The relevant concept is interrupted aortic arch: complete discontinuity between ascending and descending aorta. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Coarctation of the Aorta & Interrupted Arch",
+        "Obstructive Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch07-q132",
+      "stem": "An examination stem describes this clinical setting: a child has radiofemoral delay. Which associated anatomic or physiologic feature should be recognized?",
+      "image": null,
+      "options": [
+        "stronger femoral than radial pulses",
+        "upper-extremity hypertension with weak delayed femoral pulses",
+        "continuous machinery murmur only",
+        "isolated cyanosis without pulse discrepancy"
+      ],
+      "answer": 1,
+      "explanation": "upper-extremity hypertension with weak delayed femoral pulses. The relevant concept is coarctation clinical examination: upper-extremity hypertension with weak delayed femoral pulses. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Coarctation of the Aorta & Interrupted Arch",
+        "Obstructive Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch07-q133",
+      "stem": "An examination stem describes this clinical setting: color acceleration begins in the ventricular outflow tract. Which associated anatomic or physiologic feature should be recognized?",
+      "image": null,
+      "options": [
+        "above the sinotubular junction",
+        "within valve leaflets",
+        "below the semilunar valve",
+        "within a pulmonary vein"
+      ],
+      "answer": 2,
+      "explanation": "below the semilunar valve. The relevant concept is subvalvular obstruction level: below the semilunar valve. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Aortic Stenosis & Bicuspid Aortic Valve",
+        "Obstructive Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch07-q134",
+      "stem": "An examination stem describes this clinical setting: parasternal long-axis view shows a membrane proximal to the aortic valve. Which associated anatomic or physiologic feature should be recognized?",
+      "image": null,
+      "options": [
+        "obstruction at branch pulmonary arteries",
+        "tricuspid valve atresia",
+        "obstruction in LV outflow below aortic valve",
+        "obstruction within ascending aorta only"
+      ],
+      "answer": 2,
+      "explanation": "obstruction in LV outflow below aortic valve. The relevant concept is subaortic stenosis: obstruction in LV outflow below aortic valve. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Aortic Stenosis & Bicuspid Aortic Valve",
+        "Obstructive Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch07-q135",
+      "stem": "An examination stem describes this clinical setting: a stenotic valve has peak Doppler velocity measured in m/s. Which associated anatomic or physiologic feature should be recognized?",
+      "image": null,
+      "options": [
+        "ΔP ≈ v²/4",
+        "modified Bernoulli equation: ΔP ≈ 4v²",
+        "ΔP ≈ v/4",
+        "ΔP ≈ 4/v²"
+      ],
+      "answer": 1,
+      "explanation": "modified Bernoulli equation: ΔP ≈ 4v². The relevant concept is pressure gradient calculation: modified Bernoulli equation: ΔP ≈ 4v². The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Obstruction Hemodynamics & Physiology",
+        "Obstructive Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch07-q136",
+      "stem": "An examination stem describes this clinical setting: Doppler shows accelerated flow across a narrowed valve. Which associated anatomic or physiologic feature should be recognized?",
+      "image": null,
+      "options": [
+        "complete absence of a valve orifice",
+        "abnormal pulmonary venous connection",
+        "a ventricular septal hole",
+        "partial narrowing with residual forward flow"
+      ],
+      "answer": 3,
+      "explanation": "partial narrowing with residual forward flow. The relevant concept is stenosis definition: partial narrowing with residual forward flow. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Obstructive Congenital Heart Disease",
+        "Obstructive Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch07-q137",
+      "stem": "An examination stem describes this clinical setting: severe valvular PS persists in a child. Which associated anatomic or physiologic feature should be recognized?",
+      "image": null,
+      "options": [
+        "isolated LV volume overload",
+        "right ventricular pressure overload and hypertrophy",
+        "reduced RV systolic pressure",
+        "isolated LA dilation"
+      ],
+      "answer": 1,
+      "explanation": "right ventricular pressure overload and hypertrophy. The relevant concept is pulmonary stenosis pressure response: right ventricular pressure overload and hypertrophy. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Pulmonary Valve & Vascular Stenosis",
+        "Obstructive Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch07-q138",
+      "stem": "An examination stem describes this clinical setting: suprasternal Doppler interrogates descending aorta. Which associated anatomic or physiologic feature should be recognized?",
+      "image": null,
+      "options": [
+        "pulmonary venous systolic reversal",
+        "persistent antegrade diastolic flow distal to the narrowing",
+        "isolated tricuspid inflow reversal",
+        "normal laminar flow with no gradient"
+      ],
+      "answer": 1,
+      "explanation": "persistent antegrade diastolic flow distal to the narrowing. The relevant concept is coarctation Doppler pattern: persistent antegrade diastolic flow distal to the narrowing. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Coarctation of the Aorta & Interrupted Arch",
+        "Obstructive Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch07-q139",
+      "stem": "An examination stem describes this clinical setting: a child has congenital valve-level aortic stenosis and two leaflets. Which associated anatomic or physiologic feature should be recognized?",
+      "image": null,
+      "options": [
+        "subvalvular fibrous membrane",
+        "aortic valve with two cusps",
+        "aortic valve with one cusp",
+        "supravalvular narrowing"
+      ],
+      "answer": 1,
+      "explanation": "aortic valve with two cusps. The relevant concept is bicuspid aortic valve: aortic valve with two cusps. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Aortic Stenosis & Bicuspid Aortic Valve",
+        "Obstructive Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch07-q140",
+      "stem": "An examination stem describes this clinical setting: a stenotic jet originates at the semilunar leaflets. Which associated anatomic or physiologic feature should be recognized?",
+      "image": null,
+      "options": [
+        "below the valve in muscular outflow",
+        "above the valve in great artery",
+        "at the atrial septum",
+        "at the valve cusps"
+      ],
+      "answer": 3,
+      "explanation": "at the valve cusps. The relevant concept is valvular obstruction level: at the valve cusps. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Obstruction Hemodynamics & Physiology",
+        "Obstructive Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch07-q141",
+      "stem": "An examination stem describes this clinical setting: a child has congenital severe aortic outflow obstruction. Which associated anatomic or physiologic feature should be recognized?",
+      "image": null,
+      "options": [
+        "isolated RA volume overload",
+        "isolated RV volume overload",
+        "left ventricular pressure overload and concentric hypertrophy",
+        "isolated LA pressure decrease"
+      ],
+      "answer": 2,
+      "explanation": "left ventricular pressure overload and concentric hypertrophy. The relevant concept is aortic stenosis pressure response: left ventricular pressure overload and concentric hypertrophy. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Aortic Stenosis & Bicuspid Aortic Valve",
+        "Obstructive Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch07-q142",
+      "stem": "An examination stem describes this clinical setting: a critical obstructive lesion requires a temporary circulatory bridge. Which associated anatomic or physiologic feature should be recognized?",
+      "image": null,
+      "options": [
+        "indomethacin to keep ductus open",
+        "ibuprofen to keep ductus open",
+        "acetaminophen to keep ductus open",
+        "prostaglandin E1 to maintain ductal flow"
+      ],
+      "answer": 3,
+      "explanation": "prostaglandin E1 to maintain ductal flow. The relevant concept is ductal patency treatment: prostaglandin E1 to maintain ductal flow. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Obstructive Congenital Heart Disease",
+        "Obstructive Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch07-q143",
+      "stem": "An examination stem describes this clinical setting: an infant has no antegrade RV-to-PA flow. Which associated anatomic or physiologic feature should be recognized?",
+      "image": null,
+      "options": [
+        "pulmonary blood flow may depend on a PDA",
+        "direct LV-to-PA flow through aortic valve",
+        "pulmonary flow always bypasses ductus",
+        "normal forward flow across pulmonary valve"
+      ],
+      "answer": 0,
+      "explanation": "pulmonary blood flow may depend on a PDA. The relevant concept is pulmonary atresia pulmonary perfusion: pulmonary blood flow may depend on a PDA. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Obstructive Congenital Heart Disease",
+        "Obstructive Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch07-q144",
+      "stem": "An examination stem describes this clinical setting: a neonate has a high-velocity RV outflow jet. Which associated anatomic or physiologic feature should be recognized?",
+      "image": null,
+      "options": [
+        "left ventricle to aorta",
+        "pulmonary veins to left atrium",
+        "right ventricle to pulmonary artery",
+        "left atrium to left ventricle"
+      ],
+      "answer": 2,
+      "explanation": "right ventricle to pulmonary artery. The relevant concept is pulmonary stenosis affected pathway: right ventricle to pulmonary artery. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Pulmonary Valve & Vascular Stenosis",
+        "Obstructive Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch07-q145",
+      "stem": "An examination stem describes this clinical setting: an older patient has longstanding coarctation. Which associated anatomic or physiologic feature should be recognized?",
+      "image": null,
+      "options": [
+        "mitral stenosis causes rib notching",
+        "ASD causes rib notching",
+        "coronary sinus enlargement produces rib notching",
+        "intercostal collaterals can produce rib notching"
+      ],
+      "answer": 3,
+      "explanation": "intercostal collaterals can produce rib notching. The relevant concept is coarctation collateral circulation: intercostal collaterals can produce rib notching. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Coarctation of the Aorta & Interrupted Arch",
+        "Obstructive Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch07-q146",
+      "stem": "An examination stem describes this clinical setting: a severe congenital outflow narrowing remains untreated. Which associated anatomic or physiologic feature should be recognized?",
+      "image": null,
+      "options": [
+        "obligatory left-to-right atrial shunt",
+        "no chamber remodeling",
+        "pressure overload proximal to the lesion",
+        "volume unloading upstream in all cases"
+      ],
+      "answer": 2,
+      "explanation": "pressure overload proximal to the lesion. The relevant concept is obstruction upstream effects: pressure overload proximal to the lesion. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Obstruction Hemodynamics & Physiology",
+        "Obstructive Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch07-q147",
+      "stem": "An examination stem describes this clinical setting: suprasternal imaging demonstrates a narrowed aortic segment. Which associated anatomic or physiologic feature should be recognized?",
+      "image": null,
+      "options": [
+        "pulmonary venous obstruction",
+        "isolated mitral stenosis",
+        "absence of tricuspid valve",
+        "localized narrowing of the aorta"
+      ],
+      "answer": 3,
+      "explanation": "localized narrowing of the aorta. The relevant concept is coarctation definition: localized narrowing of the aorta. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Coarctation of the Aorta & Interrupted Arch",
+        "Obstructive Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch07-q148",
+      "stem": "An examination stem describes this clinical setting: color Doppler shows acceleration within a pulmonary branch. Which associated anatomic or physiologic feature should be recognized?",
+      "image": null,
+      "options": [
+        "narrowing of mitral valve",
+        "narrowing of branch pulmonary arteries",
+        "narrowing of aortic isthmus",
+        "absence of pulmonary valve"
+      ],
+      "answer": 1,
+      "explanation": "narrowing of branch pulmonary arteries. The relevant concept is peripheral pulmonary stenosis: narrowing of branch pulmonary arteries. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Pulmonary Valve & Vascular Stenosis",
+        "Obstructive Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch07-q149",
+      "stem": "An examination stem describes this clinical setting: a neonate develops shock as the ductus closes. Which associated anatomic or physiologic feature should be recognized?",
+      "image": null,
+      "options": [
+        "right atrial pressure is always zero",
+        "ductal closure improves systemic perfusion",
+        "systemic blood flow may be ductal dependent",
+        "ductus always supplies only pulmonary veins"
+      ],
+      "answer": 2,
+      "explanation": "systemic blood flow may be ductal dependent. The relevant concept is critical left-sided obstruction: systemic blood flow may be ductal dependent. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Obstruction Hemodynamics & Physiology",
+        "Obstructive Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch07-q150",
+      "stem": "An examination stem describes this clinical setting: a girl has coarctation and a bicuspid aortic valve. Which associated anatomic or physiologic feature should be recognized?",
+      "image": null,
+      "options": [
+        "Marfan syndrome",
+        "Williams syndrome",
+        "Turner syndrome",
+        "DiGeorge syndrome"
+      ],
+      "answer": 2,
+      "explanation": "Turner syndrome. The relevant concept is coarctation syndrome association: Turner syndrome. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Coarctation of the Aorta & Interrupted Arch",
+        "Obstructive Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch07-q151",
+      "stem": "When assessing pulmonary atresia RV morphology on echocardiography, which statement would be appropriate for the sonographer to report?",
+      "image": null,
+      "options": [
+        "left ventricle always absent",
+        "both atria absent",
+        "right ventricle may be hypoplastic",
+        "aortic arch always normal in size"
+      ],
+      "answer": 2,
+      "explanation": "right ventricle may be hypoplastic. The relevant concept is pulmonary atresia RV morphology: right ventricle may be hypoplastic. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Obstructive Congenital Heart Disease",
+        "Obstructive Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch07-q152",
+      "stem": "When assessing interrupted aortic arch on echocardiography, which statement would be appropriate for the sonographer to report?",
+      "image": null,
+      "options": [
+        "complete discontinuity between ascending and descending aorta",
+        "mild narrowing of pulmonary valve",
+        "isolated aortic regurgitation",
+        "a two-cusp aortic valve"
+      ],
+      "answer": 0,
+      "explanation": "complete discontinuity between ascending and descending aorta. The relevant concept is interrupted aortic arch: complete discontinuity between ascending and descending aorta. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Coarctation of the Aorta & Interrupted Arch",
+        "Obstructive Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch07-q153",
+      "stem": "When assessing coarctation clinical examination on echocardiography, which statement would be appropriate for the sonographer to report?",
+      "image": null,
+      "options": [
+        "isolated cyanosis without pulse discrepancy",
+        "continuous machinery murmur only",
+        "stronger femoral than radial pulses",
+        "upper-extremity hypertension with weak delayed femoral pulses"
+      ],
+      "answer": 3,
+      "explanation": "upper-extremity hypertension with weak delayed femoral pulses. The relevant concept is coarctation clinical examination: upper-extremity hypertension with weak delayed femoral pulses. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Coarctation of the Aorta & Interrupted Arch",
+        "Obstructive Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch07-q154",
+      "stem": "When assessing subvalvular obstruction level on echocardiography, which statement would be appropriate for the sonographer to report?",
+      "image": null,
+      "options": [
+        "within valve leaflets",
+        "within a pulmonary vein",
+        "above the sinotubular junction",
+        "below the semilunar valve"
+      ],
+      "answer": 3,
+      "explanation": "below the semilunar valve. The relevant concept is subvalvular obstruction level: below the semilunar valve. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Aortic Stenosis & Bicuspid Aortic Valve",
+        "Obstructive Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch07-q155",
+      "stem": "When assessing subaortic stenosis on echocardiography, which statement would be appropriate for the sonographer to report?",
+      "image": null,
+      "options": [
+        "obstruction within ascending aorta only",
+        "obstruction in LV outflow below aortic valve",
+        "tricuspid valve atresia",
+        "obstruction at branch pulmonary arteries"
+      ],
+      "answer": 1,
+      "explanation": "obstruction in LV outflow below aortic valve. The relevant concept is subaortic stenosis: obstruction in LV outflow below aortic valve. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Aortic Stenosis & Bicuspid Aortic Valve",
+        "Obstructive Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch07-q156",
+      "stem": "When assessing pressure gradient calculation on echocardiography, which statement would be appropriate for the sonographer to report?",
+      "image": null,
+      "options": [
+        "modified Bernoulli equation: ΔP ≈ 4v²",
+        "ΔP ≈ v/4",
+        "ΔP ≈ 4/v²",
+        "ΔP ≈ v²/4"
+      ],
+      "answer": 0,
+      "explanation": "modified Bernoulli equation: ΔP ≈ 4v². The relevant concept is pressure gradient calculation: modified Bernoulli equation: ΔP ≈ 4v². The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Obstruction Hemodynamics & Physiology",
+        "Obstructive Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch07-q157",
+      "stem": "When assessing stenosis definition on echocardiography, which statement would be appropriate for the sonographer to report?",
+      "image": null,
+      "options": [
+        "abnormal pulmonary venous connection",
+        "complete absence of a valve orifice",
+        "partial narrowing with residual forward flow",
+        "a ventricular septal hole"
+      ],
+      "answer": 2,
+      "explanation": "partial narrowing with residual forward flow. The relevant concept is stenosis definition: partial narrowing with residual forward flow. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Obstructive Congenital Heart Disease",
+        "Obstructive Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch07-q158",
+      "stem": "When assessing pulmonary stenosis pressure response on echocardiography, which statement would be appropriate for the sonographer to report?",
+      "image": null,
+      "options": [
+        "isolated LV volume overload",
+        "isolated LA dilation",
+        "right ventricular pressure overload and hypertrophy",
+        "reduced RV systolic pressure"
+      ],
+      "answer": 2,
+      "explanation": "right ventricular pressure overload and hypertrophy. The relevant concept is pulmonary stenosis pressure response: right ventricular pressure overload and hypertrophy. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Pulmonary Valve & Vascular Stenosis",
+        "Obstructive Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch07-q159",
+      "stem": "When assessing coarctation Doppler pattern on echocardiography, which statement would be appropriate for the sonographer to report?",
+      "image": null,
+      "options": [
+        "normal laminar flow with no gradient",
+        "isolated tricuspid inflow reversal",
+        "persistent antegrade diastolic flow distal to the narrowing",
+        "pulmonary venous systolic reversal"
+      ],
+      "answer": 2,
+      "explanation": "persistent antegrade diastolic flow distal to the narrowing. The relevant concept is coarctation Doppler pattern: persistent antegrade diastolic flow distal to the narrowing. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Coarctation of the Aorta & Interrupted Arch",
+        "Obstructive Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch07-q160",
+      "stem": "When assessing bicuspid aortic valve on echocardiography, which statement would be appropriate for the sonographer to report?",
+      "image": null,
+      "options": [
+        "subvalvular fibrous membrane",
+        "supravalvular narrowing",
+        "aortic valve with two cusps",
+        "aortic valve with one cusp"
+      ],
+      "answer": 2,
+      "explanation": "aortic valve with two cusps. The relevant concept is bicuspid aortic valve: aortic valve with two cusps. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Aortic Stenosis & Bicuspid Aortic Valve",
+        "Obstructive Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch07-q161",
+      "stem": "When assessing valvular obstruction level on echocardiography, which statement would be appropriate for the sonographer to report?",
+      "image": null,
+      "options": [
+        "below the valve in muscular outflow",
+        "above the valve in great artery",
+        "at the valve cusps",
+        "at the atrial septum"
+      ],
+      "answer": 2,
+      "explanation": "at the valve cusps. The relevant concept is valvular obstruction level: at the valve cusps. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Obstruction Hemodynamics & Physiology",
+        "Obstructive Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch07-q162",
+      "stem": "When assessing aortic stenosis pressure response on echocardiography, which statement would be appropriate for the sonographer to report?",
+      "image": null,
+      "options": [
+        "isolated LA pressure decrease",
+        "left ventricular pressure overload and concentric hypertrophy",
+        "isolated RV volume overload",
+        "isolated RA volume overload"
+      ],
+      "answer": 1,
+      "explanation": "left ventricular pressure overload and concentric hypertrophy. The relevant concept is aortic stenosis pressure response: left ventricular pressure overload and concentric hypertrophy. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Aortic Stenosis & Bicuspid Aortic Valve",
+        "Obstructive Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch07-q163",
+      "stem": "When assessing ductal patency treatment on echocardiography, which statement would be appropriate for the sonographer to report?",
+      "image": null,
+      "options": [
+        "indomethacin to keep ductus open",
+        "acetaminophen to keep ductus open",
+        "ibuprofen to keep ductus open",
+        "prostaglandin E1 to maintain ductal flow"
+      ],
+      "answer": 3,
+      "explanation": "prostaglandin E1 to maintain ductal flow. The relevant concept is ductal patency treatment: prostaglandin E1 to maintain ductal flow. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Obstructive Congenital Heart Disease",
+        "Obstructive Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch07-q164",
+      "stem": "When assessing pulmonary atresia pulmonary perfusion on echocardiography, which statement would be appropriate for the sonographer to report?",
+      "image": null,
+      "options": [
+        "direct LV-to-PA flow through aortic valve",
+        "normal forward flow across pulmonary valve",
+        "pulmonary blood flow may depend on a PDA",
+        "pulmonary flow always bypasses ductus"
+      ],
+      "answer": 2,
+      "explanation": "pulmonary blood flow may depend on a PDA. The relevant concept is pulmonary atresia pulmonary perfusion: pulmonary blood flow may depend on a PDA. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Obstructive Congenital Heart Disease",
+        "Obstructive Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch07-q165",
+      "stem": "When assessing pulmonary stenosis affected pathway on echocardiography, which statement would be appropriate for the sonographer to report?",
+      "image": null,
+      "options": [
+        "pulmonary veins to left atrium",
+        "right ventricle to pulmonary artery",
+        "left atrium to left ventricle",
+        "left ventricle to aorta"
+      ],
+      "answer": 1,
+      "explanation": "right ventricle to pulmonary artery. The relevant concept is pulmonary stenosis affected pathway: right ventricle to pulmonary artery. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Pulmonary Valve & Vascular Stenosis",
+        "Obstructive Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch07-q166",
+      "stem": "When assessing coarctation collateral circulation on echocardiography, which statement would be appropriate for the sonographer to report?",
+      "image": null,
+      "options": [
+        "ASD causes rib notching",
+        "mitral stenosis causes rib notching",
+        "intercostal collaterals can produce rib notching",
+        "coronary sinus enlargement produces rib notching"
+      ],
+      "answer": 2,
+      "explanation": "intercostal collaterals can produce rib notching. The relevant concept is coarctation collateral circulation: intercostal collaterals can produce rib notching. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Coarctation of the Aorta & Interrupted Arch",
+        "Obstructive Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch07-q167",
+      "stem": "When assessing obstruction upstream effects on echocardiography, which statement would be appropriate for the sonographer to report?",
+      "image": null,
+      "options": [
+        "volume unloading upstream in all cases",
+        "obligatory left-to-right atrial shunt",
+        "pressure overload proximal to the lesion",
+        "no chamber remodeling"
+      ],
+      "answer": 2,
+      "explanation": "pressure overload proximal to the lesion. The relevant concept is obstruction upstream effects: pressure overload proximal to the lesion. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Obstruction Hemodynamics & Physiology",
+        "Obstructive Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch07-q168",
+      "stem": "When assessing coarctation definition on echocardiography, which statement would be appropriate for the sonographer to report?",
+      "image": null,
+      "options": [
+        "absence of tricuspid valve",
+        "isolated mitral stenosis",
+        "pulmonary venous obstruction",
+        "localized narrowing of the aorta"
+      ],
+      "answer": 3,
+      "explanation": "localized narrowing of the aorta. The relevant concept is coarctation definition: localized narrowing of the aorta. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Coarctation of the Aorta & Interrupted Arch",
+        "Obstructive Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch07-q169",
+      "stem": "When assessing peripheral pulmonary stenosis on echocardiography, which statement would be appropriate for the sonographer to report?",
+      "image": null,
+      "options": [
+        "narrowing of aortic isthmus",
+        "absence of pulmonary valve",
+        "narrowing of mitral valve",
+        "narrowing of branch pulmonary arteries"
+      ],
+      "answer": 3,
+      "explanation": "narrowing of branch pulmonary arteries. The relevant concept is peripheral pulmonary stenosis: narrowing of branch pulmonary arteries. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Pulmonary Valve & Vascular Stenosis",
+        "Obstructive Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch07-q170",
+      "stem": "When assessing critical left-sided obstruction on echocardiography, which statement would be appropriate for the sonographer to report?",
+      "image": null,
+      "options": [
+        "right atrial pressure is always zero",
+        "ductus always supplies only pulmonary veins",
+        "ductal closure improves systemic perfusion",
+        "systemic blood flow may be ductal dependent"
+      ],
+      "answer": 3,
+      "explanation": "systemic blood flow may be ductal dependent. The relevant concept is critical left-sided obstruction: systemic blood flow may be ductal dependent. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Obstruction Hemodynamics & Physiology",
+        "Obstructive Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch07-q171",
+      "stem": "When assessing coarctation syndrome association on echocardiography, which statement would be appropriate for the sonographer to report?",
+      "image": null,
+      "options": [
+        "DiGeorge syndrome",
+        "Williams syndrome",
+        "Turner syndrome",
+        "Marfan syndrome"
+      ],
+      "answer": 2,
+      "explanation": "Turner syndrome. The relevant concept is coarctation syndrome association: Turner syndrome. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Coarctation of the Aorta & Interrupted Arch",
+        "Obstructive Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch07-q172",
+      "stem": "When assessing supravalvular obstruction level on echocardiography, which statement would be appropriate for the sonographer to report?",
+      "image": null,
+      "options": [
+        "within an atrium",
+        "at the valve leaflets",
+        "above the valve",
+        "below the valve"
+      ],
+      "answer": 2,
+      "explanation": "above the valve. The relevant concept is supravalvular obstruction level: above the valve. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Aortic Stenosis & Bicuspid Aortic Valve",
+        "Obstructive Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch07-q173",
+      "stem": "When assessing supravalvular aortic stenosis on echocardiography, which statement would be appropriate for the sonographer to report?",
+      "image": null,
+      "options": [
+        "isolated descending aortic coarctation",
+        "narrowing at mitral annulus",
+        "narrowing below pulmonary valve",
+        "narrowing of ascending aorta above the aortic valve"
+      ],
+      "answer": 3,
+      "explanation": "narrowing of ascending aorta above the aortic valve. The relevant concept is supravalvular aortic stenosis: narrowing of ascending aorta above the aortic valve. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Aortic Stenosis & Bicuspid Aortic Valve",
+        "Obstructive Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch07-q174",
+      "stem": "When assessing coarctation echo window on echocardiography, which statement would be appropriate for the sonographer to report?",
+      "image": null,
+      "options": [
+        "suprasternal notch view of the aortic arch",
+        "parasternal mitral short-axis view alone",
+        "subcostal IVC view alone",
+        "apical two-chamber view alone"
+      ],
+      "answer": 0,
+      "explanation": "suprasternal notch view of the aortic arch. The relevant concept is coarctation echo window: suprasternal notch view of the aortic arch. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Coarctation of the Aorta & Interrupted Arch",
+        "Obstructive Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch07-q175",
+      "stem": "When assessing atresia definition on echocardiography, which statement would be appropriate for the sonographer to report?",
+      "image": null,
+      "options": [
+        "isolated regurgitation",
+        "complete obstruction without forward flow",
+        "mild valve narrowing",
+        "partial narrowing of descending aorta"
+      ],
+      "answer": 1,
+      "explanation": "complete obstruction without forward flow. The relevant concept is atresia definition: complete obstruction without forward flow. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Obstruction Hemodynamics & Physiology",
+        "Obstructive Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch07-q176",
+      "stem": "A trainee is reviewing a patient in whom parasternal long-axis view shows a membrane proximal to the aortic valve. Which principle should guide interpretation of this finding?",
+      "image": null,
+      "options": [
+        "obstruction within ascending aorta only",
+        "obstruction in LV outflow below aortic valve",
+        "obstruction at branch pulmonary arteries",
+        "tricuspid valve atresia"
+      ],
+      "answer": 1,
+      "explanation": "obstruction in LV outflow below aortic valve. The relevant concept is subaortic stenosis: obstruction in LV outflow below aortic valve. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Aortic Stenosis & Bicuspid Aortic Valve",
+        "Obstructive Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch07-q177",
+      "stem": "A trainee is reviewing a patient in whom a stenotic valve has peak Doppler velocity measured in m/s. Which principle should guide interpretation of this finding?",
+      "image": null,
+      "options": [
+        "ΔP ≈ 4/v²",
+        "ΔP ≈ v/4",
+        "ΔP ≈ v²/4",
+        "modified Bernoulli equation: ΔP ≈ 4v²"
+      ],
+      "answer": 3,
+      "explanation": "modified Bernoulli equation: ΔP ≈ 4v². The relevant concept is pressure gradient calculation: modified Bernoulli equation: ΔP ≈ 4v². The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Obstruction Hemodynamics & Physiology",
+        "Obstructive Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch07-q178",
+      "stem": "A trainee is reviewing a patient in whom Doppler shows accelerated flow across a narrowed valve. Which principle should guide interpretation of this finding?",
+      "image": null,
+      "options": [
+        "partial narrowing with residual forward flow",
+        "complete absence of a valve orifice",
+        "abnormal pulmonary venous connection",
+        "a ventricular septal hole"
+      ],
+      "answer": 0,
+      "explanation": "partial narrowing with residual forward flow. The relevant concept is stenosis definition: partial narrowing with residual forward flow. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Obstructive Congenital Heart Disease",
+        "Obstructive Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch07-q179",
+      "stem": "A trainee is reviewing a patient in whom severe valvular PS persists in a child. Which principle should guide interpretation of this finding?",
+      "image": null,
+      "options": [
+        "isolated LA dilation",
+        "isolated LV volume overload",
+        "right ventricular pressure overload and hypertrophy",
+        "reduced RV systolic pressure"
+      ],
+      "answer": 2,
+      "explanation": "right ventricular pressure overload and hypertrophy. The relevant concept is pulmonary stenosis pressure response: right ventricular pressure overload and hypertrophy. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Pulmonary Valve & Vascular Stenosis",
+        "Obstructive Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch07-q180",
+      "stem": "A trainee is reviewing a patient in whom suprasternal Doppler interrogates descending aorta. Which principle should guide interpretation of this finding?",
+      "image": null,
+      "options": [
+        "persistent antegrade diastolic flow distal to the narrowing",
+        "isolated tricuspid inflow reversal",
+        "normal laminar flow with no gradient",
+        "pulmonary venous systolic reversal"
+      ],
+      "answer": 0,
+      "explanation": "persistent antegrade diastolic flow distal to the narrowing. The relevant concept is coarctation Doppler pattern: persistent antegrade diastolic flow distal to the narrowing. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Coarctation of the Aorta & Interrupted Arch",
+        "Obstructive Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch07-q181",
+      "stem": "A trainee is reviewing a patient in whom a child has congenital valve-level aortic stenosis and two leaflets. Which principle should guide interpretation of this finding?",
+      "image": null,
+      "options": [
+        "aortic valve with one cusp",
+        "supravalvular narrowing",
+        "subvalvular fibrous membrane",
+        "aortic valve with two cusps"
+      ],
+      "answer": 3,
+      "explanation": "aortic valve with two cusps. The relevant concept is bicuspid aortic valve: aortic valve with two cusps. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Aortic Stenosis & Bicuspid Aortic Valve",
+        "Obstructive Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch07-q182",
+      "stem": "A trainee is reviewing a patient in whom a stenotic jet originates at the semilunar leaflets. Which principle should guide interpretation of this finding?",
+      "image": null,
+      "options": [
+        "at the valve cusps",
+        "below the valve in muscular outflow",
+        "at the atrial septum",
+        "above the valve in great artery"
+      ],
+      "answer": 0,
+      "explanation": "at the valve cusps. The relevant concept is valvular obstruction level: at the valve cusps. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Obstruction Hemodynamics & Physiology",
+        "Obstructive Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch07-q183",
+      "stem": "A trainee is reviewing a patient in whom a child has congenital severe aortic outflow obstruction. Which principle should guide interpretation of this finding?",
+      "image": null,
+      "options": [
+        "isolated LA pressure decrease",
+        "isolated RV volume overload",
+        "left ventricular pressure overload and concentric hypertrophy",
+        "isolated RA volume overload"
+      ],
+      "answer": 2,
+      "explanation": "left ventricular pressure overload and concentric hypertrophy. The relevant concept is aortic stenosis pressure response: left ventricular pressure overload and concentric hypertrophy. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Aortic Stenosis & Bicuspid Aortic Valve",
+        "Obstructive Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch07-q184",
+      "stem": "A trainee is reviewing a patient in whom a critical obstructive lesion requires a temporary circulatory bridge. Which principle should guide interpretation of this finding?",
+      "image": null,
+      "options": [
+        "acetaminophen to keep ductus open",
+        "prostaglandin E1 to maintain ductal flow",
+        "indomethacin to keep ductus open",
+        "ibuprofen to keep ductus open"
+      ],
+      "answer": 1,
+      "explanation": "prostaglandin E1 to maintain ductal flow. The relevant concept is ductal patency treatment: prostaglandin E1 to maintain ductal flow. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Obstructive Congenital Heart Disease",
+        "Obstructive Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch07-q185",
+      "stem": "A trainee is reviewing a patient in whom an infant has no antegrade RV-to-PA flow. Which principle should guide interpretation of this finding?",
+      "image": null,
+      "options": [
+        "normal forward flow across pulmonary valve",
+        "pulmonary blood flow may depend on a PDA",
+        "pulmonary flow always bypasses ductus",
+        "direct LV-to-PA flow through aortic valve"
+      ],
+      "answer": 1,
+      "explanation": "pulmonary blood flow may depend on a PDA. The relevant concept is pulmonary atresia pulmonary perfusion: pulmonary blood flow may depend on a PDA. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Obstructive Congenital Heart Disease",
+        "Obstructive Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch07-q186",
+      "stem": "A trainee is reviewing a patient in whom a neonate has a high-velocity RV outflow jet. Which principle should guide interpretation of this finding?",
+      "image": null,
+      "options": [
+        "left ventricle to aorta",
+        "right ventricle to pulmonary artery",
+        "left atrium to left ventricle",
+        "pulmonary veins to left atrium"
+      ],
+      "answer": 1,
+      "explanation": "right ventricle to pulmonary artery. The relevant concept is pulmonary stenosis affected pathway: right ventricle to pulmonary artery. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Pulmonary Valve & Vascular Stenosis",
+        "Obstructive Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch07-q187",
+      "stem": "A trainee is reviewing a patient in whom an older patient has longstanding coarctation. Which principle should guide interpretation of this finding?",
+      "image": null,
+      "options": [
+        "coronary sinus enlargement produces rib notching",
+        "mitral stenosis causes rib notching",
+        "ASD causes rib notching",
+        "intercostal collaterals can produce rib notching"
+      ],
+      "answer": 3,
+      "explanation": "intercostal collaterals can produce rib notching. The relevant concept is coarctation collateral circulation: intercostal collaterals can produce rib notching. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Coarctation of the Aorta & Interrupted Arch",
+        "Obstructive Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch07-q188",
+      "stem": "A trainee is reviewing a patient in whom a severe congenital outflow narrowing remains untreated. Which principle should guide interpretation of this finding?",
+      "image": null,
+      "options": [
+        "obligatory left-to-right atrial shunt",
+        "volume unloading upstream in all cases",
+        "no chamber remodeling",
+        "pressure overload proximal to the lesion"
+      ],
+      "answer": 3,
+      "explanation": "pressure overload proximal to the lesion. The relevant concept is obstruction upstream effects: pressure overload proximal to the lesion. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Obstruction Hemodynamics & Physiology",
+        "Obstructive Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch07-q189",
+      "stem": "A trainee is reviewing a patient in whom suprasternal imaging demonstrates a narrowed aortic segment. Which principle should guide interpretation of this finding?",
+      "image": null,
+      "options": [
+        "pulmonary venous obstruction",
+        "isolated mitral stenosis",
+        "absence of tricuspid valve",
+        "localized narrowing of the aorta"
+      ],
+      "answer": 3,
+      "explanation": "localized narrowing of the aorta. The relevant concept is coarctation definition: localized narrowing of the aorta. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Coarctation of the Aorta & Interrupted Arch",
+        "Obstructive Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch07-q190",
+      "stem": "A trainee is reviewing a patient in whom color Doppler shows acceleration within a pulmonary branch. Which principle should guide interpretation of this finding?",
+      "image": null,
+      "options": [
+        "narrowing of branch pulmonary arteries",
+        "absence of pulmonary valve",
+        "narrowing of mitral valve",
+        "narrowing of aortic isthmus"
+      ],
+      "answer": 0,
+      "explanation": "narrowing of branch pulmonary arteries. The relevant concept is peripheral pulmonary stenosis: narrowing of branch pulmonary arteries. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Pulmonary Valve & Vascular Stenosis",
+        "Obstructive Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch07-q191",
+      "stem": "A trainee is reviewing a patient in whom a neonate develops shock as the ductus closes. Which principle should guide interpretation of this finding?",
+      "image": null,
+      "options": [
+        "ductus always supplies only pulmonary veins",
+        "ductal closure improves systemic perfusion",
+        "systemic blood flow may be ductal dependent",
+        "right atrial pressure is always zero"
+      ],
+      "answer": 2,
+      "explanation": "systemic blood flow may be ductal dependent. The relevant concept is critical left-sided obstruction: systemic blood flow may be ductal dependent. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Obstruction Hemodynamics & Physiology",
+        "Obstructive Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch07-q192",
+      "stem": "A trainee is reviewing a patient in whom a girl has coarctation and a bicuspid aortic valve. Which principle should guide interpretation of this finding?",
+      "image": null,
+      "options": [
+        "DiGeorge syndrome",
+        "Marfan syndrome",
+        "Williams syndrome",
+        "Turner syndrome"
+      ],
+      "answer": 3,
+      "explanation": "Turner syndrome. The relevant concept is coarctation syndrome association: Turner syndrome. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Coarctation of the Aorta & Interrupted Arch",
+        "Obstructive Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch07-q193",
+      "stem": "A trainee is reviewing a patient in whom a discrete narrowing is distal to the semilunar valve. Which principle should guide interpretation of this finding?",
+      "image": null,
+      "options": [
+        "below the valve",
+        "at the valve leaflets",
+        "above the valve",
+        "within an atrium"
+      ],
+      "answer": 2,
+      "explanation": "above the valve. The relevant concept is supravalvular obstruction level: above the valve. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Aortic Stenosis & Bicuspid Aortic Valve",
+        "Obstructive Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch07-q194",
+      "stem": "A trainee is reviewing a patient in whom echo shows acceleration above the aortic sinuses. Which principle should guide interpretation of this finding?",
+      "image": null,
+      "options": [
+        "narrowing of ascending aorta above the aortic valve",
+        "narrowing at mitral annulus",
+        "isolated descending aortic coarctation",
+        "narrowing below pulmonary valve"
+      ],
+      "answer": 0,
+      "explanation": "narrowing of ascending aorta above the aortic valve. The relevant concept is supravalvular aortic stenosis: narrowing of ascending aorta above the aortic valve. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Aortic Stenosis & Bicuspid Aortic Valve",
+        "Obstructive Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch07-q195",
+      "stem": "A trainee is reviewing a patient in whom the sonographer needs to locate the aortic isthmus. Which principle should guide interpretation of this finding?",
+      "image": null,
+      "options": [
+        "parasternal mitral short-axis view alone",
+        "suprasternal notch view of the aortic arch",
+        "apical two-chamber view alone",
+        "subcostal IVC view alone"
+      ],
+      "answer": 1,
+      "explanation": "suprasternal notch view of the aortic arch. The relevant concept is coarctation echo window: suprasternal notch view of the aortic arch. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Coarctation of the Aorta & Interrupted Arch",
+        "Obstructive Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch07-q196",
+      "stem": "A trainee is reviewing a patient in whom echo demonstrates an imperforate semilunar valve. Which principle should guide interpretation of this finding?",
+      "image": null,
+      "options": [
+        "isolated regurgitation",
+        "partial narrowing of descending aorta",
+        "mild valve narrowing",
+        "complete obstruction without forward flow"
+      ],
+      "answer": 3,
+      "explanation": "complete obstruction without forward flow. The relevant concept is atresia definition: complete obstruction without forward flow. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Obstruction Hemodynamics & Physiology",
+        "Obstructive Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch07-q197",
+      "stem": "A trainee is reviewing a patient in whom echo shows no RV-to-PA continuity. Which principle should guide interpretation of this finding?",
+      "image": null,
+      "options": [
+        "both atria absent",
+        "aortic arch always normal in size",
+        "right ventricle may be hypoplastic",
+        "left ventricle always absent"
+      ],
+      "answer": 2,
+      "explanation": "right ventricle may be hypoplastic. The relevant concept is pulmonary atresia RV morphology: right ventricle may be hypoplastic. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Obstructive Congenital Heart Disease",
+        "Obstructive Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch07-q198",
+      "stem": "A trainee is reviewing a patient in whom echo cannot trace continuity across the aortic arch. Which principle should guide interpretation of this finding?",
+      "image": null,
+      "options": [
+        "isolated aortic regurgitation",
+        "mild narrowing of pulmonary valve",
+        "complete discontinuity between ascending and descending aorta",
+        "a two-cusp aortic valve"
+      ],
+      "answer": 2,
+      "explanation": "complete discontinuity between ascending and descending aorta. The relevant concept is interrupted aortic arch: complete discontinuity between ascending and descending aorta. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Coarctation of the Aorta & Interrupted Arch",
+        "Obstructive Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch07-q199",
+      "stem": "A trainee is reviewing a patient in whom a child has radiofemoral delay. Which principle should guide interpretation of this finding?",
+      "image": null,
+      "options": [
+        "upper-extremity hypertension with weak delayed femoral pulses",
+        "continuous machinery murmur only",
+        "isolated cyanosis without pulse discrepancy",
+        "stronger femoral than radial pulses"
+      ],
+      "answer": 0,
+      "explanation": "upper-extremity hypertension with weak delayed femoral pulses. The relevant concept is coarctation clinical examination: upper-extremity hypertension with weak delayed femoral pulses. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Coarctation of the Aorta & Interrupted Arch",
+        "Obstructive Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch07-q200",
+      "stem": "A trainee is reviewing a patient in whom color acceleration begins in the ventricular outflow tract. Which principle should guide interpretation of this finding?",
+      "image": null,
+      "options": [
+        "above the sinotubular junction",
+        "below the semilunar valve",
+        "within valve leaflets",
+        "within a pulmonary vein"
+      ],
+      "answer": 1,
+      "explanation": "below the semilunar valve. The relevant concept is subvalvular obstruction level: below the semilunar valve. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Aortic Stenosis & Bicuspid Aortic Valve",
+        "Obstructive Congenital Heart Disease"
+      ],
+      "reference": ""
+    }
+  ]
+}

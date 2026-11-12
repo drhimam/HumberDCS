@@ -1,0 +1,3806 @@
+{
+  "chapterId": "ch05",
+  "title": "Persistent Fetal Communications",
+  "questions": [
+    {
+      "id": "DCS5003-ch05-q001",
+      "stem": "Following birth, which physiological change is primarily responsible for functional closure of the foramen ovale?",
+      "image": null,
+      "options": [
+        "Increased pulmonary vascular resistance",
+        "Increased left atrial pressure relative to right atrial pressure",
+        "Decreased systemic vascular resistance",
+        "Decreased pulmonary venous return"
+      ],
+      "answer": 1,
+      "explanation": "Increased left atrial pressure relative to right atrial pressure. Included practice-test question (original wording; duplicate PDF copies counted once).",
+      "explanationImage": null,
+      "tags": [
+        "Patent Foramen Ovale & Atrial Septum",
+        "Persistent Fetal Communications"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch05-q002",
+      "stem": "A newborn is diagnosed with a congenital heart defect in which systemic blood flow depends on a patent ductus arteriosus. Which medication would be administered to maintain ductal patency?",
+      "image": null,
+      "options": [
+        "Indomethacin",
+        "Ibuprofen",
+        "Acetaminophen",
+        "Prostaglandin E1"
+      ],
+      "answer": 3,
+      "explanation": "Prostaglandin E1. Included practice-test question (original wording; duplicate PDF copies counted once).",
+      "explanationImage": null,
+      "tags": [
+        "Patent Ductus Arteriosus (PDA)",
+        "Persistent Fetal Communications"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch05-q003",
+      "stem": "Persistent pulmonary hypertension of the newborn (PPHN) is characterized by which physiological abnormality?",
+      "image": null,
+      "options": [
+        "Failure of pulmonary vascular resistance to decrease after birth",
+        "Premature closure of the ductus arteriosus",
+        "Failure of systemic vascular resistance to increase after birth",
+        "Excessive pulmonary venous return to the left atrium"
+      ],
+      "answer": 0,
+      "explanation": "Failure of pulmonary vascular resistance to decrease after birth. Included practice-test question (original wording; duplicate PDF copies counted once).",
+      "explanationImage": null,
+      "tags": [
+        "Fetal Circulation & Transition",
+        "Persistent Fetal Communications"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch05-q004",
+      "stem": "Which statement best describes the anatomical difference between a patent foramen ovale (PFO) and an atrial septal defect (ASD)?",
+      "image": null,
+      "options": [
+        "A PFO results from complete absence of the atrial septum.",
+        "An ASD is caused exclusively by elevated right atrial pressure.",
+        "A PFO results from failure of the septum primum and septum secundum to fuse.",
+        "An ASD is a normal fetal communication that always closes after birth."
+      ],
+      "answer": 2,
+      "explanation": "A PFO results from failure of the septum primum and septum secundum to fuse.. Included practice-test question (original wording; duplicate PDF copies counted once).",
+      "explanationImage": null,
+      "tags": [
+        "Patent Foramen Ovale & Atrial Septum",
+        "Persistent Fetal Communications"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch05-q005",
+      "stem": "During an adult/pediatric echocardiography board-style review, the sonographer is asked to identify the key feature of functional closure of the foramen ovale. Which answer is BEST?",
+      "image": null,
+      "options": [
+        "left atrial pressure rising above right atrial pressure",
+        "increased pulmonary vascular resistance",
+        "decreased systemic vascular resistance",
+        "reduced pulmonary venous return"
+      ],
+      "answer": 0,
+      "explanation": "left atrial pressure rising above right atrial pressure. Functional closure of the foramen ovale: left atrial pressure rising above right atrial pressure. Lecture-derived review item.",
+      "explanationImage": null,
+      "tags": [
+        "Patent Foramen Ovale & Atrial Septum",
+        "Persistent Fetal Communications"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch05-q006",
+      "stem": "During an adult/pediatric echocardiography board-style review, the sonographer is asked to identify the key feature of ductal-dependent systemic blood flow. Which answer is BEST?",
+      "image": null,
+      "options": [
+        "indomethacin",
+        "acetaminophen",
+        "ibuprofen",
+        "prostaglandin E1 infusion"
+      ],
+      "answer": 3,
+      "explanation": "prostaglandin E1 infusion. Ductal-dependent systemic blood flow: prostaglandin E1 infusion. Lecture-derived review item.",
+      "explanationImage": null,
+      "tags": [
+        "Patent Ductus Arteriosus (PDA)",
+        "Persistent Fetal Communications"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch05-q007",
+      "stem": "During an adult/pediatric echocardiography board-style review, the sonographer is asked to identify the key feature of persistent pulmonary hypertension of the newborn. Which answer is BEST?",
+      "image": null,
+      "options": [
+        "excessive pulmonary venous return",
+        "failure of pulmonary vascular resistance to fall",
+        "premature ductal closure",
+        "reduced systemic vascular resistance"
+      ],
+      "answer": 1,
+      "explanation": "failure of pulmonary vascular resistance to fall. Persistent pulmonary hypertension of the newborn: failure of pulmonary vascular resistance to fall. Lecture-derived review item.",
+      "explanationImage": null,
+      "tags": [
+        "Fetal Circulation & Transition",
+        "Persistent Fetal Communications"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch05-q008",
+      "stem": "During an adult/pediatric echocardiography board-style review, the sonographer is asked to identify the key feature of patent foramen ovale anatomy. Which answer is BEST?",
+      "image": null,
+      "options": [
+        "failure of septum primum and secundum fusion",
+        "failure of ventricular septation",
+        "an obligatory fixed septal hole",
+        "complete absence of atrial septum"
+      ],
+      "answer": 0,
+      "explanation": "failure of septum primum and secundum fusion. Patent foramen ovale anatomy: failure of septum primum and secundum fusion. Lecture-derived review item.",
+      "explanationImage": null,
+      "tags": [
+        "Patent Foramen Ovale & Atrial Septum",
+        "Persistent Fetal Communications"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch05-q009",
+      "stem": "Color Doppler detects a vessel near the descending aorta. Which finding or explanation is MOST consistent with patent ductus arteriosus anatomy?",
+      "image": null,
+      "options": [
+        "connection between vena cava and pulmonary vein",
+        "communication between the ventricles",
+        "persistent connection between the atria",
+        "persistent connection between pulmonary artery and aorta"
+      ],
+      "answer": 3,
+      "explanation": "persistent connection between pulmonary artery and aorta. Patent ductus arteriosus anatomy: persistent connection between pulmonary artery and aorta. Lecture-derived review item.",
+      "explanationImage": null,
+      "tags": [
+        "Patent Ductus Arteriosus (PDA)",
+        "Persistent Fetal Communications"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch05-q010",
+      "stem": "During an adult/pediatric echocardiography board-style review, the sonographer is asked to identify the key feature of patent ductus arteriosus anatomy. Which answer is BEST?",
+      "image": null,
+      "options": [
+        "persistent connection between pulmonary artery and aorta",
+        "connection between vena cava and pulmonary vein",
+        "communication between the ventricles",
+        "persistent connection between the atria"
+      ],
+      "answer": 0,
+      "explanation": "persistent connection between pulmonary artery and aorta. Patent ductus arteriosus anatomy: persistent connection between pulmonary artery and aorta. Lecture-derived review item.",
+      "explanationImage": null,
+      "tags": [
+        "Patent Ductus Arteriosus (PDA)",
+        "Persistent Fetal Communications"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch05-q011",
+      "stem": "An embryology review asks about the fetal pulmonary bypass. Which finding or explanation is MOST consistent with origin of the ductus arteriosus?",
+      "image": null,
+      "options": [
+        "septum primum",
+        "ductus venosus",
+        "right fourth aortic arch",
+        "distal left sixth aortic arch"
+      ],
+      "answer": 3,
+      "explanation": "distal left sixth aortic arch. Origin of the ductus arteriosus: distal left sixth aortic arch. Lecture-derived review item.",
+      "explanationImage": null,
+      "tags": [
+        "Patent Ductus Arteriosus (PDA)",
+        "Persistent Fetal Communications"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch05-q012",
+      "stem": "During an adult/pediatric echocardiography board-style review, the sonographer is asked to identify the key feature of origin of the ductus arteriosus. Which answer is BEST?",
+      "image": null,
+      "options": [
+        "right fourth aortic arch",
+        "septum primum",
+        "ductus venosus",
+        "distal left sixth aortic arch"
+      ],
+      "answer": 3,
+      "explanation": "distal left sixth aortic arch. Origin of the ductus arteriosus: distal left sixth aortic arch. Lecture-derived review item.",
+      "explanationImage": null,
+      "tags": [
+        "Patent Ductus Arteriosus (PDA)",
+        "Persistent Fetal Communications"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch05-q013",
+      "stem": "A term infant has normal postnatal pulmonary vascular resistance. Which finding or explanation is MOST consistent with typical PDA shunt direction after birth?",
+      "image": null,
+      "options": [
+        "left ventricle to right ventricle",
+        "aorta to pulmonary artery",
+        "right atrium to left atrium",
+        "pulmonary artery to aorta in all patients"
+      ],
+      "answer": 1,
+      "explanation": "aorta to pulmonary artery. Typical pda shunt direction after birth: aorta to pulmonary artery. Lecture-derived review item.",
+      "explanationImage": null,
+      "tags": [
+        "Patent Ductus Arteriosus (PDA)",
+        "Persistent Fetal Communications"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch05-q014",
+      "stem": "During an adult/pediatric echocardiography board-style review, the sonographer is asked to identify the key feature of typical PDA shunt direction after birth. Which answer is BEST?",
+      "image": null,
+      "options": [
+        "left ventricle to right ventricle",
+        "aorta to pulmonary artery",
+        "pulmonary artery to aorta in all patients",
+        "right atrium to left atrium"
+      ],
+      "answer": 1,
+      "explanation": "aorta to pulmonary artery. Typical pda shunt direction after birth: aorta to pulmonary artery. Lecture-derived review item.",
+      "explanationImage": null,
+      "tags": [
+        "Patent Ductus Arteriosus (PDA)",
+        "Persistent Fetal Communications"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch05-q015",
+      "stem": "Continuous-wave Doppler samples a patent ductus. Which finding or explanation is MOST consistent with PDA Doppler timing?",
+      "image": null,
+      "options": [
+        "absence of flow in diastole",
+        "flow confined to atrial contraction",
+        "flow confined to systole",
+        "continuous flow during systole and diastole"
+      ],
+      "answer": 3,
+      "explanation": "continuous flow during systole and diastole. Pda doppler timing: continuous flow during systole and diastole. Lecture-derived review item.",
+      "explanationImage": null,
+      "tags": [
+        "Patent Ductus Arteriosus (PDA)",
+        "Persistent Fetal Communications"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch05-q016",
+      "stem": "During an adult/pediatric echocardiography board-style review, the sonographer is asked to identify the key feature of PDA Doppler timing. Which answer is BEST?",
+      "image": null,
+      "options": [
+        "flow confined to atrial contraction",
+        "flow confined to systole",
+        "absence of flow in diastole",
+        "continuous flow during systole and diastole"
+      ],
+      "answer": 3,
+      "explanation": "continuous flow during systole and diastole. Pda doppler timing: continuous flow during systole and diastole. Lecture-derived review item.",
+      "explanationImage": null,
+      "tags": [
+        "Patent Ductus Arteriosus (PDA)",
+        "Persistent Fetal Communications"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch05-q017",
+      "stem": "A premature infant has a persistent ductus. Which finding or explanation is MOST consistent with PDA auscultation?",
+      "image": null,
+      "options": [
+        "isolated diastolic rumble at apex",
+        "continuous machinery-like murmur",
+        "fixed split second heart sound only",
+        "mid-systolic click without murmur"
+      ],
+      "answer": 1,
+      "explanation": "continuous machinery-like murmur. Pda auscultation: continuous machinery-like murmur. Lecture-derived review item.",
+      "explanationImage": null,
+      "tags": [
+        "Patent Ductus Arteriosus (PDA)",
+        "Persistent Fetal Communications"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch05-q018",
+      "stem": "During an adult/pediatric echocardiography board-style review, the sonographer is asked to identify the key feature of PDA auscultation. Which answer is BEST?",
+      "image": null,
+      "options": [
+        "continuous machinery-like murmur",
+        "isolated diastolic rumble at apex",
+        "fixed split second heart sound only",
+        "mid-systolic click without murmur"
+      ],
+      "answer": 0,
+      "explanation": "continuous machinery-like murmur. Pda auscultation: continuous machinery-like murmur. Lecture-derived review item.",
+      "explanationImage": null,
+      "tags": [
+        "Patent Ductus Arteriosus (PDA)",
+        "Persistent Fetal Communications"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch05-q019",
+      "stem": "A large left-to-right ductal shunt persists. Which finding or explanation is MOST consistent with PDA chamber loading?",
+      "image": null,
+      "options": [
+        "isolated right ventricular pressure overload",
+        "isolated right atrial pressure overload",
+        "isolated left ventricular pressure overload",
+        "left atrial and left ventricular volume overload"
+      ],
+      "answer": 3,
+      "explanation": "left atrial and left ventricular volume overload. Pda chamber loading: left atrial and left ventricular volume overload. Lecture-derived review item.",
+      "explanationImage": null,
+      "tags": [
+        "Patent Ductus Arteriosus (PDA)",
+        "Persistent Fetal Communications"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch05-q020",
+      "stem": "During an adult/pediatric echocardiography board-style review, the sonographer is asked to identify the key feature of PDA chamber loading. Which answer is BEST?",
+      "image": null,
+      "options": [
+        "isolated left ventricular pressure overload",
+        "isolated right atrial pressure overload",
+        "left atrial and left ventricular volume overload",
+        "isolated right ventricular pressure overload"
+      ],
+      "answer": 2,
+      "explanation": "left atrial and left ventricular volume overload. Pda chamber loading: left atrial and left ventricular volume overload. Lecture-derived review item.",
+      "explanationImage": null,
+      "tags": [
+        "Patent Ductus Arteriosus (PDA)",
+        "Persistent Fetal Communications"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch05-q021",
+      "stem": "A neonatologist evaluates a baby born before 32 weeks. Which finding or explanation is MOST consistent with major PDA risk factor?",
+      "image": null,
+      "options": [
+        "Turner syndrome",
+        "prematurity",
+        "post-term delivery",
+        "isolated bicuspid valve"
+      ],
+      "answer": 1,
+      "explanation": "prematurity. Major pda risk factor: prematurity. Lecture-derived review item.",
+      "explanationImage": null,
+      "tags": [
+        "Patent Ductus Arteriosus (PDA)",
+        "Persistent Fetal Communications"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch05-q022",
+      "stem": "During an adult/pediatric echocardiography board-style review, the sonographer is asked to identify the key feature of major PDA risk factor. Which answer is BEST?",
+      "image": null,
+      "options": [
+        "prematurity",
+        "post-term delivery",
+        "Turner syndrome",
+        "isolated bicuspid valve"
+      ],
+      "answer": 0,
+      "explanation": "prematurity. Major pda risk factor: prematurity. Lecture-derived review item.",
+      "explanationImage": null,
+      "tags": [
+        "Patent Ductus Arteriosus (PDA)",
+        "Persistent Fetal Communications"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch05-q023",
+      "stem": "A healthy infant transitions from fetal circulation. Which finding or explanation is MOST consistent with PDA closure stimulus?",
+      "image": null,
+      "options": [
+        "increased pulmonary vascular resistance",
+        "increased oxygen tension and reduced prostaglandins",
+        "increased right atrial pressure",
+        "decreased oxygen tension and increased prostaglandins"
+      ],
+      "answer": 1,
+      "explanation": "increased oxygen tension and reduced prostaglandins. Pda closure stimulus: increased oxygen tension and reduced prostaglandins. Lecture-derived review item.",
+      "explanationImage": null,
+      "tags": [
+        "Patent Ductus Arteriosus (PDA)",
+        "Persistent Fetal Communications"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch05-q024",
+      "stem": "During an adult/pediatric echocardiography board-style review, the sonographer is asked to identify the key feature of PDA closure stimulus. Which answer is BEST?",
+      "image": null,
+      "options": [
+        "increased oxygen tension and reduced prostaglandins",
+        "decreased oxygen tension and increased prostaglandins",
+        "increased right atrial pressure",
+        "increased pulmonary vascular resistance"
+      ],
+      "answer": 0,
+      "explanation": "increased oxygen tension and reduced prostaglandins. Pda closure stimulus: increased oxygen tension and reduced prostaglandins. Lecture-derived review item.",
+      "explanationImage": null,
+      "tags": [
+        "Patent Ductus Arteriosus (PDA)",
+        "Persistent Fetal Communications"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch05-q025",
+      "stem": "The examiner reviews the normal postnatal ductal transition. Which finding or explanation is MOST consistent with functional versus anatomical closure?",
+      "image": null,
+      "options": [
+        "the ductus never closes anatomically",
+        "both occur before birth",
+        "anatomical closure precedes functional closure",
+        "functional constriction precedes permanent anatomical closure"
+      ],
+      "answer": 3,
+      "explanation": "functional constriction precedes permanent anatomical closure. Functional versus anatomical closure: functional constriction precedes permanent anatomical closure. Lecture-derived review item.",
+      "explanationImage": null,
+      "tags": [
+        "Patent Ductus Arteriosus (PDA)",
+        "Persistent Fetal Communications"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch05-q026",
+      "stem": "During an adult/pediatric echocardiography board-style review, the sonographer is asked to identify the key feature of functional versus anatomical closure. Which answer is BEST?",
+      "image": null,
+      "options": [
+        "functional constriction precedes permanent anatomical closure",
+        "both occur before birth",
+        "anatomical closure precedes functional closure",
+        "the ductus never closes anatomically"
+      ],
+      "answer": 0,
+      "explanation": "functional constriction precedes permanent anatomical closure. Functional versus anatomical closure: functional constriction precedes permanent anatomical closure. Lecture-derived review item.",
+      "explanationImage": null,
+      "tags": [
+        "Persistent Fetal Communications",
+        "Persistent Fetal Communications"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch05-q027",
+      "stem": "An adult echocardiogram shows no residual ductal flow. Which finding or explanation is MOST consistent with PDA anatomical remnant?",
+      "image": null,
+      "options": [
+        "fossa ovalis",
+        "coronary sinus",
+        "ligamentum arteriosum",
+        "ligamentum venosum"
+      ],
+      "answer": 2,
+      "explanation": "ligamentum arteriosum. Pda anatomical remnant: ligamentum arteriosum. Lecture-derived review item.",
+      "explanationImage": null,
+      "tags": [
+        "Patent Ductus Arteriosus (PDA)",
+        "Persistent Fetal Communications"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch05-q028",
+      "stem": "During an adult/pediatric echocardiography board-style review, the sonographer is asked to identify the key feature of PDA anatomical remnant. Which answer is BEST?",
+      "image": null,
+      "options": [
+        "coronary sinus",
+        "ligamentum arteriosum",
+        "ligamentum venosum",
+        "fossa ovalis"
+      ],
+      "answer": 1,
+      "explanation": "ligamentum arteriosum. Pda anatomical remnant: ligamentum arteriosum. Lecture-derived review item.",
+      "explanationImage": null,
+      "tags": [
+        "Patent Ductus Arteriosus (PDA)",
+        "Persistent Fetal Communications"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch05-q029",
+      "stem": "The interatrial septum is inspected in an adult. Which finding or explanation is MOST consistent with foramen ovale anatomical remnant?",
+      "image": null,
+      "options": [
+        "ligamentum venosum",
+        "ligamentum arteriosum",
+        "moderator band",
+        "fossa ovalis"
+      ],
+      "answer": 3,
+      "explanation": "fossa ovalis. Foramen ovale anatomical remnant: fossa ovalis. Lecture-derived review item.",
+      "explanationImage": null,
+      "tags": [
+        "Patent Foramen Ovale & Atrial Septum",
+        "Persistent Fetal Communications"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch05-q030",
+      "stem": "During an adult/pediatric echocardiography board-style review, the sonographer is asked to identify the key feature of foramen ovale anatomical remnant. Which answer is BEST?",
+      "image": null,
+      "options": [
+        "ligamentum arteriosum",
+        "fossa ovalis",
+        "ligamentum venosum",
+        "moderator band"
+      ],
+      "answer": 1,
+      "explanation": "fossa ovalis. Foramen ovale anatomical remnant: fossa ovalis. Lecture-derived review item.",
+      "explanationImage": null,
+      "tags": [
+        "Patent Foramen Ovale & Atrial Septum",
+        "Persistent Fetal Communications"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch05-q031",
+      "stem": "A fetal circulation diagram highlights the umbilical venous pathway. Which finding or explanation is MOST consistent with ductus venosus fetal function?",
+      "image": null,
+      "options": [
+        "bypasses the fetal liver",
+        "supplies the coronary arteries",
+        "connects the ventricles",
+        "bypasses the fetal lungs"
+      ],
+      "answer": 0,
+      "explanation": "bypasses the fetal liver. Ductus venosus fetal function: bypasses the fetal liver. Lecture-derived review item.",
+      "explanationImage": null,
+      "tags": [
+        "Fetal Circulation & Transition",
+        "Persistent Fetal Communications"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch05-q032",
+      "stem": "During an adult/pediatric echocardiography board-style review, the sonographer is asked to identify the key feature of ductus venosus fetal function. Which answer is BEST?",
+      "image": null,
+      "options": [
+        "connects the ventricles",
+        "bypasses the fetal liver",
+        "bypasses the fetal lungs",
+        "supplies the coronary arteries"
+      ],
+      "answer": 1,
+      "explanation": "bypasses the fetal liver. Ductus venosus fetal function: bypasses the fetal liver. Lecture-derived review item.",
+      "explanationImage": null,
+      "tags": [
+        "Fetal Circulation & Transition",
+        "Persistent Fetal Communications"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch05-q033",
+      "stem": "A fetal four-chamber view demonstrates interatrial streaming. Which finding or explanation is MOST consistent with foramen ovale fetal function?",
+      "image": null,
+      "options": [
+        "directs left ventricular blood to right ventricle",
+        "returns pulmonary veins to right atrium",
+        "directs right atrial blood to left atrium",
+        "directs aortic blood to pulmonary artery"
+      ],
+      "answer": 2,
+      "explanation": "directs right atrial blood to left atrium. Foramen ovale fetal function: directs right atrial blood to left atrium. Lecture-derived review item.",
+      "explanationImage": null,
+      "tags": [
+        "Patent Foramen Ovale & Atrial Septum",
+        "Persistent Fetal Communications"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch05-q034",
+      "stem": "During an adult/pediatric echocardiography board-style review, the sonographer is asked to identify the key feature of foramen ovale fetal function. Which answer is BEST?",
+      "image": null,
+      "options": [
+        "directs right atrial blood to left atrium",
+        "directs aortic blood to pulmonary artery",
+        "directs left ventricular blood to right ventricle",
+        "returns pulmonary veins to right atrium"
+      ],
+      "answer": 0,
+      "explanation": "directs right atrial blood to left atrium. Foramen ovale fetal function: directs right atrial blood to left atrium. Lecture-derived review item.",
+      "explanationImage": null,
+      "tags": [
+        "Patent Foramen Ovale & Atrial Septum",
+        "Persistent Fetal Communications"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch05-q035",
+      "stem": "Agitated saline study demonstrates intermittent interatrial passage. Which finding or explanation is MOST consistent with PFO versus true ASD?",
+      "image": null,
+      "options": [
+        "PFO is a flap-like potential opening rather than fixed septal deficiency",
+        "ASD is always intermittent",
+        "PFO always has absent septal tissue",
+        "PFO is a ventricular defect"
+      ],
+      "answer": 0,
+      "explanation": "PFO is a flap-like potential opening rather than fixed septal deficiency. Pfo versus true asd: PFO is a flap-like potential opening rather than fixed septal deficiency. Lecture-derived review item.",
+      "explanationImage": null,
+      "tags": [
+        "Patent Foramen Ovale & Atrial Septum",
+        "Persistent Fetal Communications"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch05-q036",
+      "stem": "During an adult/pediatric echocardiography board-style review, the sonographer is asked to identify the key feature of PFO versus true ASD. Which answer is BEST?",
+      "image": null,
+      "options": [
+        "PFO is a ventricular defect",
+        "PFO always has absent septal tissue",
+        "PFO is a flap-like potential opening rather than fixed septal deficiency",
+        "ASD is always intermittent"
+      ],
+      "answer": 2,
+      "explanation": "PFO is a flap-like potential opening rather than fixed septal deficiency. Pfo versus true asd: PFO is a flap-like potential opening rather than fixed septal deficiency. Lecture-derived review item.",
+      "explanationImage": null,
+      "tags": [
+        "Patent Foramen Ovale & Atrial Septum",
+        "Persistent Fetal Communications"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch05-q037",
+      "stem": "An adult has a transient increase in right atrial pressure. Which finding or explanation is MOST consistent with PFO paradoxical embolism?",
+      "image": null,
+      "options": [
+        "left ventricular hypertrophy",
+        "aortic valve stenosis",
+        "right-to-left passage of a venous embolus through the atrial communication",
+        "isolated left-to-right PDA flow"
+      ],
+      "answer": 2,
+      "explanation": "right-to-left passage of a venous embolus through the atrial communication. Pfo paradoxical embolism: right-to-left passage of a venous embolus through the atrial communication. Lecture-derived review item.",
+      "explanationImage": null,
+      "tags": [
+        "Patent Foramen Ovale & Atrial Septum",
+        "Persistent Fetal Communications"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch05-q038",
+      "stem": "During an adult/pediatric echocardiography board-style review, the sonographer is asked to identify the key feature of PFO paradoxical embolism. Which answer is BEST?",
+      "image": null,
+      "options": [
+        "right-to-left passage of a venous embolus through the atrial communication",
+        "aortic valve stenosis",
+        "isolated left-to-right PDA flow",
+        "left ventricular hypertrophy"
+      ],
+      "answer": 0,
+      "explanation": "right-to-left passage of a venous embolus through the atrial communication. Pfo paradoxical embolism: right-to-left passage of a venous embolus through the atrial communication. Lecture-derived review item.",
+      "explanationImage": null,
+      "tags": [
+        "Patent Foramen Ovale & Atrial Septum",
+        "Persistent Fetal Communications"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch05-q039",
+      "stem": "A newborn with critical outflow obstruction deteriorates after birth. Which finding or explanation is MOST consistent with ductal dependence in critical CHD?",
+      "image": null,
+      "options": [
+        "a patent ductus may sustain pulmonary or systemic perfusion",
+        "PDA always causes cyanosis",
+        "all ductal shunts must be closed immediately",
+        "ductal patency prevents any mixing"
+      ],
+      "answer": 0,
+      "explanation": "a patent ductus may sustain pulmonary or systemic perfusion. Ductal dependence in critical chd: a patent ductus may sustain pulmonary or systemic perfusion. Lecture-derived review item.",
+      "explanationImage": null,
+      "tags": [
+        "Patent Ductus Arteriosus (PDA)",
+        "Persistent Fetal Communications"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch05-q040",
+      "stem": "During an adult/pediatric echocardiography board-style review, the sonographer is asked to identify the key feature of ductal dependence in critical CHD. Which answer is BEST?",
+      "image": null,
+      "options": [
+        "PDA always causes cyanosis",
+        "a patent ductus may sustain pulmonary or systemic perfusion",
+        "ductal patency prevents any mixing",
+        "all ductal shunts must be closed immediately"
+      ],
+      "answer": 1,
+      "explanation": "a patent ductus may sustain pulmonary or systemic perfusion. Ductal dependence in critical chd: a patent ductus may sustain pulmonary or systemic perfusion. Lecture-derived review item.",
+      "explanationImage": null,
+      "tags": [
+        "Patent Ductus Arteriosus (PDA)",
+        "Persistent Fetal Communications"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch05-q041",
+      "stem": "A neonate has high estimated right ventricular pressure. Which finding or explanation is MOST consistent with PPHN circulation?",
+      "image": null,
+      "options": [
+        "complete loss of systemic vascular resistance",
+        "normal pulmonary resistance favors obligatory right-to-left flow",
+        "absence of pulmonary venous return",
+        "persistent high pulmonary resistance favors right-to-left fetal-channel shunting"
+      ],
+      "answer": 3,
+      "explanation": "persistent high pulmonary resistance favors right-to-left fetal-channel shunting. Pphn circulation: persistent high pulmonary resistance favors right-to-left fetal-channel shunting. Lecture-derived review item.",
+      "explanationImage": null,
+      "tags": [
+        "Fetal Circulation & Transition",
+        "Persistent Fetal Communications"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch05-q042",
+      "stem": "During an adult/pediatric echocardiography board-style review, the sonographer is asked to identify the key feature of PPHN circulation. Which answer is BEST?",
+      "image": null,
+      "options": [
+        "normal pulmonary resistance favors obligatory right-to-left flow",
+        "complete loss of systemic vascular resistance",
+        "absence of pulmonary venous return",
+        "persistent high pulmonary resistance favors right-to-left fetal-channel shunting"
+      ],
+      "answer": 3,
+      "explanation": "persistent high pulmonary resistance favors right-to-left fetal-channel shunting. Pphn circulation: persistent high pulmonary resistance favors right-to-left fetal-channel shunting. Lecture-derived review item.",
+      "explanationImage": null,
+      "tags": [
+        "Fetal Circulation & Transition",
+        "Persistent Fetal Communications"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch05-q043",
+      "stem": "A preterm baby has persistent ductal patency. Which finding or explanation is MOST consistent with PDA in a preterm infant?",
+      "image": null,
+      "options": [
+        "a septal malalignment causes PDA",
+        "immature ductal smooth muscle impairs constriction",
+        "mature ductal muscle causes obligatory closure",
+        "pulmonary venous atresia causes PDA"
+      ],
+      "answer": 1,
+      "explanation": "immature ductal smooth muscle impairs constriction. Pda in a preterm infant: immature ductal smooth muscle impairs constriction. Lecture-derived review item.",
+      "explanationImage": null,
+      "tags": [
+        "Patent Ductus Arteriosus (PDA)",
+        "Persistent Fetal Communications"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch05-q044",
+      "stem": "During an adult/pediatric echocardiography board-style review, the sonographer is asked to identify the key feature of PDA in a preterm infant. Which answer is BEST?",
+      "image": null,
+      "options": [
+        "immature ductal smooth muscle impairs constriction",
+        "a septal malalignment causes PDA",
+        "pulmonary venous atresia causes PDA",
+        "mature ductal muscle causes obligatory closure"
+      ],
+      "answer": 0,
+      "explanation": "immature ductal smooth muscle impairs constriction. Pda in a preterm infant: immature ductal smooth muscle impairs constriction. Lecture-derived review item.",
+      "explanationImage": null,
+      "tags": [
+        "Patent Ductus Arteriosus (PDA)",
+        "Persistent Fetal Communications"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch05-q045",
+      "stem": "Echo shows a wide ductus with substantial left-to-right flow. Which finding or explanation is MOST consistent with large PDA physiology?",
+      "image": null,
+      "options": [
+        "increased pulmonary blood flow and left-heart volume loading",
+        "isolated systemic venous obstruction",
+        "decreased pulmonary blood flow without shunt",
+        "complete separation of pulmonary and systemic circuits"
+      ],
+      "answer": 0,
+      "explanation": "increased pulmonary blood flow and left-heart volume loading. Large pda physiology: increased pulmonary blood flow and left-heart volume loading. Lecture-derived review item.",
+      "explanationImage": null,
+      "tags": [
+        "Patent Ductus Arteriosus (PDA)",
+        "Persistent Fetal Communications"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch05-q046",
+      "stem": "During an adult/pediatric echocardiography board-style review, the sonographer is asked to identify the key feature of large PDA physiology. Which answer is BEST?",
+      "image": null,
+      "options": [
+        "decreased pulmonary blood flow without shunt",
+        "increased pulmonary blood flow and left-heart volume loading",
+        "isolated systemic venous obstruction",
+        "complete separation of pulmonary and systemic circuits"
+      ],
+      "answer": 1,
+      "explanation": "increased pulmonary blood flow and left-heart volume loading. Large pda physiology: increased pulmonary blood flow and left-heart volume loading. Lecture-derived review item.",
+      "explanationImage": null,
+      "tags": [
+        "Patent Ductus Arteriosus (PDA)",
+        "Persistent Fetal Communications"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch05-q047",
+      "stem": "Valsalva transiently changes interatrial pressure. Which finding or explanation is MOST consistent with PFO shunt intermittency?",
+      "image": null,
+      "options": [
+        "a pressure-dependent flap may open intermittently",
+        "a fixed absent septum is always open",
+        "PFO is invariably left-to-right and continuous",
+        "the foramen connects aorta and pulmonary artery"
+      ],
+      "answer": 0,
+      "explanation": "a pressure-dependent flap may open intermittently. Pfo shunt intermittency: a pressure-dependent flap may open intermittently. Lecture-derived review item.",
+      "explanationImage": null,
+      "tags": [
+        "Patent Foramen Ovale & Atrial Septum",
+        "Persistent Fetal Communications"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch05-q048",
+      "stem": "During an adult/pediatric echocardiography board-style review, the sonographer is asked to identify the key feature of PFO shunt intermittency. Which answer is BEST?",
+      "image": null,
+      "options": [
+        "a fixed absent septum is always open",
+        "PFO is invariably left-to-right and continuous",
+        "a pressure-dependent flap may open intermittently",
+        "the foramen connects aorta and pulmonary artery"
+      ],
+      "answer": 2,
+      "explanation": "a pressure-dependent flap may open intermittently. Pfo shunt intermittency: a pressure-dependent flap may open intermittently. Lecture-derived review item.",
+      "explanationImage": null,
+      "tags": [
+        "Patent Foramen Ovale & Atrial Septum",
+        "Persistent Fetal Communications"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch05-q049",
+      "stem": "An infant establishes effective ventilation. Which finding or explanation is MOST consistent with postnatal pulmonary transition?",
+      "image": null,
+      "options": [
+        "pulmonary vascular resistance normally decreases after lung expansion",
+        "left atrial pressure normally falls below right atrial pressure",
+        "pulmonary venous return stops",
+        "pulmonary vascular resistance normally rises sharply"
+      ],
+      "answer": 0,
+      "explanation": "pulmonary vascular resistance normally decreases after lung expansion. Postnatal pulmonary transition: pulmonary vascular resistance normally decreases after lung expansion. Lecture-derived review item.",
+      "explanationImage": null,
+      "tags": [
+        "Fetal Circulation & Transition",
+        "Persistent Fetal Communications"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch05-q050",
+      "stem": "During an adult/pediatric echocardiography board-style review, the sonographer is asked to identify the key feature of postnatal pulmonary transition. Which answer is BEST?",
+      "image": null,
+      "options": [
+        "pulmonary vascular resistance normally rises sharply",
+        "pulmonary vascular resistance normally decreases after lung expansion",
+        "left atrial pressure normally falls below right atrial pressure",
+        "pulmonary venous return stops"
+      ],
+      "answer": 1,
+      "explanation": "pulmonary vascular resistance normally decreases after lung expansion. Postnatal pulmonary transition: pulmonary vascular resistance normally decreases after lung expansion. Lecture-derived review item.",
+      "explanationImage": null,
+      "tags": [
+        "Fetal Circulation & Transition",
+        "Persistent Fetal Communications"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch05-q051",
+      "stem": "A term newborn takes the first breaths. Which finding best explains the clinical or imaging observation related to functional closure of the foramen ovale?",
+      "image": null,
+      "options": [
+        "increased pulmonary vascular resistance",
+        "reduced pulmonary venous return",
+        "decreased systemic vascular resistance",
+        "left atrial pressure rising above right atrial pressure"
+      ],
+      "answer": 3,
+      "explanation": "left atrial pressure rising above right atrial pressure. The relevant concept is functional closure of the foramen ovale: left atrial pressure rising above right atrial pressure. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Patent Foramen Ovale & Atrial Septum",
+        "Persistent Fetal Communications"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch05-q052",
+      "stem": "Continuous-wave doppler samples a patent ductus. Which finding best explains the clinical or imaging observation related to PDA Doppler timing?",
+      "image": null,
+      "options": [
+        "flow confined to atrial contraction",
+        "absence of flow in diastole",
+        "flow confined to systole",
+        "continuous flow during systole and diastole"
+      ],
+      "answer": 3,
+      "explanation": "continuous flow during systole and diastole. The relevant concept is PDA Doppler timing: continuous flow during systole and diastole. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Patent Ductus Arteriosus (PDA)",
+        "Persistent Fetal Communications"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch05-q053",
+      "stem": "The interatrial septum is inspected in an adult. Which finding best explains the clinical or imaging observation related to foramen ovale anatomical remnant?",
+      "image": null,
+      "options": [
+        "ligamentum arteriosum",
+        "moderator band",
+        "ligamentum venosum",
+        "fossa ovalis"
+      ],
+      "answer": 3,
+      "explanation": "fossa ovalis. The relevant concept is foramen ovale anatomical remnant: fossa ovalis. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Patent Foramen Ovale & Atrial Septum",
+        "Persistent Fetal Communications"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch05-q054",
+      "stem": "A preterm baby has persistent ductal patency. Which finding best explains the clinical or imaging observation related to PDA in a preterm infant?",
+      "image": null,
+      "options": [
+        "mature ductal muscle causes obligatory closure",
+        "pulmonary venous atresia causes PDA",
+        "immature ductal smooth muscle impairs constriction",
+        "a septal malalignment causes PDA"
+      ],
+      "answer": 2,
+      "explanation": "immature ductal smooth muscle impairs constriction. The relevant concept is PDA in a preterm infant: immature ductal smooth muscle impairs constriction. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Patent Ductus Arteriosus (PDA)",
+        "Persistent Fetal Communications"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch05-q055",
+      "stem": "A mobile atrial flap is visible on subcostal imaging. Which finding best explains the clinical or imaging observation related to patent foramen ovale anatomy?",
+      "image": null,
+      "options": [
+        "failure of septum primum and secundum fusion",
+        "complete absence of atrial septum",
+        "an obligatory fixed septal hole",
+        "failure of ventricular septation"
+      ],
+      "answer": 0,
+      "explanation": "failure of septum primum and secundum fusion. The relevant concept is patent foramen ovale anatomy: failure of septum primum and secundum fusion. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Patent Foramen Ovale & Atrial Septum",
+        "Persistent Fetal Communications"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch05-q056",
+      "stem": "A neonatologist evaluates a baby born before 32 weeks. Which finding best explains the clinical or imaging observation related to major PDA risk factor?",
+      "image": null,
+      "options": [
+        "Turner syndrome",
+        "prematurity",
+        "post-term delivery",
+        "isolated bicuspid valve"
+      ],
+      "answer": 1,
+      "explanation": "prematurity. The relevant concept is major PDA risk factor: prematurity. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Patent Ductus Arteriosus (PDA)",
+        "Persistent Fetal Communications"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch05-q057",
+      "stem": "Agitated saline study demonstrates intermittent interatrial passage. Which finding best explains the clinical or imaging observation related to PFO versus true ASD?",
+      "image": null,
+      "options": [
+        "PFO always has absent septal tissue",
+        "PFO is a flap-like potential opening rather than fixed septal deficiency",
+        "ASD is always intermittent",
+        "PFO is a ventricular defect"
+      ],
+      "answer": 1,
+      "explanation": "PFO is a flap-like potential opening rather than fixed septal deficiency. The relevant concept is PFO versus true ASD: PFO is a flap-like potential opening rather than fixed septal deficiency. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Patent Foramen Ovale & Atrial Septum",
+        "Persistent Fetal Communications"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch05-q058",
+      "stem": "An infant establishes effective ventilation. Which finding best explains the clinical or imaging observation related to postnatal pulmonary transition?",
+      "image": null,
+      "options": [
+        "pulmonary vascular resistance normally decreases after lung expansion",
+        "left atrial pressure normally falls below right atrial pressure",
+        "pulmonary vascular resistance normally rises sharply",
+        "pulmonary venous return stops"
+      ],
+      "answer": 0,
+      "explanation": "pulmonary vascular resistance normally decreases after lung expansion. The relevant concept is postnatal pulmonary transition: pulmonary vascular resistance normally decreases after lung expansion. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Fetal Circulation & Transition",
+        "Persistent Fetal Communications"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch05-q059",
+      "stem": "A term infant has normal postnatal pulmonary vascular resistance. Which finding best explains the clinical or imaging observation related to typical PDA shunt direction after birth?",
+      "image": null,
+      "options": [
+        "left ventricle to right ventricle",
+        "aorta to pulmonary artery",
+        "pulmonary artery to aorta in all patients",
+        "right atrium to left atrium"
+      ],
+      "answer": 1,
+      "explanation": "aorta to pulmonary artery. The relevant concept is typical PDA shunt direction after birth: aorta to pulmonary artery. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Patent Ductus Arteriosus (PDA)",
+        "Persistent Fetal Communications"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch05-q060",
+      "stem": "An adult echocardiogram shows no residual ductal flow. Which finding best explains the clinical or imaging observation related to PDA anatomical remnant?",
+      "image": null,
+      "options": [
+        "ligamentum arteriosum",
+        "coronary sinus",
+        "ligamentum venosum",
+        "fossa ovalis"
+      ],
+      "answer": 0,
+      "explanation": "ligamentum arteriosum. The relevant concept is PDA anatomical remnant: ligamentum arteriosum. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Patent Ductus Arteriosus (PDA)",
+        "Persistent Fetal Communications"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch05-q061",
+      "stem": "A neonate has high estimated right ventricular pressure. Which finding best explains the clinical or imaging observation related to PPHN circulation?",
+      "image": null,
+      "options": [
+        "absence of pulmonary venous return",
+        "complete loss of systemic vascular resistance",
+        "persistent high pulmonary resistance favors right-to-left fetal-channel shunting",
+        "normal pulmonary resistance favors obligatory right-to-left flow"
+      ],
+      "answer": 2,
+      "explanation": "persistent high pulmonary resistance favors right-to-left fetal-channel shunting. The relevant concept is PPHN circulation: persistent high pulmonary resistance favors right-to-left fetal-channel shunting. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Fetal Circulation & Transition",
+        "Persistent Fetal Communications"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch05-q062",
+      "stem": "A newborn remains hypoxemic despite aerated lungs. Which finding best explains the clinical or imaging observation related to persistent pulmonary hypertension of the newborn?",
+      "image": null,
+      "options": [
+        "failure of pulmonary vascular resistance to fall",
+        "premature ductal closure",
+        "reduced systemic vascular resistance",
+        "excessive pulmonary venous return"
+      ],
+      "answer": 0,
+      "explanation": "failure of pulmonary vascular resistance to fall. The relevant concept is persistent pulmonary hypertension of the newborn: failure of pulmonary vascular resistance to fall. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Fetal Circulation & Transition",
+        "Persistent Fetal Communications"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch05-q063",
+      "stem": "A large left-to-right ductal shunt persists. Which finding best explains the clinical or imaging observation related to PDA chamber loading?",
+      "image": null,
+      "options": [
+        "isolated right atrial pressure overload",
+        "isolated left ventricular pressure overload",
+        "isolated right ventricular pressure overload",
+        "left atrial and left ventricular volume overload"
+      ],
+      "answer": 3,
+      "explanation": "left atrial and left ventricular volume overload. The relevant concept is PDA chamber loading: left atrial and left ventricular volume overload. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Patent Ductus Arteriosus (PDA)",
+        "Persistent Fetal Communications"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch05-q064",
+      "stem": "A fetal four-chamber view demonstrates interatrial streaming. Which finding best explains the clinical or imaging observation related to foramen ovale fetal function?",
+      "image": null,
+      "options": [
+        "directs right atrial blood to left atrium",
+        "directs aortic blood to pulmonary artery",
+        "directs left ventricular blood to right ventricle",
+        "returns pulmonary veins to right atrium"
+      ],
+      "answer": 0,
+      "explanation": "directs right atrial blood to left atrium. The relevant concept is foramen ovale fetal function: directs right atrial blood to left atrium. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Patent Foramen Ovale & Atrial Septum",
+        "Persistent Fetal Communications"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch05-q065",
+      "stem": "Valsalva transiently changes interatrial pressure. Which finding best explains the clinical or imaging observation related to PFO shunt intermittency?",
+      "image": null,
+      "options": [
+        "PFO is invariably left-to-right and continuous",
+        "the foramen connects aorta and pulmonary artery",
+        "a pressure-dependent flap may open intermittently",
+        "a fixed absent septum is always open"
+      ],
+      "answer": 2,
+      "explanation": "a pressure-dependent flap may open intermittently. The relevant concept is PFO shunt intermittency: a pressure-dependent flap may open intermittently. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Patent Foramen Ovale & Atrial Septum",
+        "Persistent Fetal Communications"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch05-q066",
+      "stem": "An embryology review asks about the fetal pulmonary bypass. Which finding best explains the clinical or imaging observation related to origin of the ductus arteriosus?",
+      "image": null,
+      "options": [
+        "distal left sixth aortic arch",
+        "right fourth aortic arch",
+        "septum primum",
+        "ductus venosus"
+      ],
+      "answer": 0,
+      "explanation": "distal left sixth aortic arch. The relevant concept is origin of the ductus arteriosus: distal left sixth aortic arch. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Patent Ductus Arteriosus (PDA)",
+        "Persistent Fetal Communications"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch05-q067",
+      "stem": "The examiner reviews the normal postnatal ductal transition. Which finding best explains the clinical or imaging observation related to functional versus anatomical closure?",
+      "image": null,
+      "options": [
+        "anatomical closure precedes functional closure",
+        "both occur before birth",
+        "functional constriction precedes permanent anatomical closure",
+        "the ductus never closes anatomically"
+      ],
+      "answer": 2,
+      "explanation": "functional constriction precedes permanent anatomical closure. The relevant concept is functional versus anatomical closure: functional constriction precedes permanent anatomical closure. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Patent Ductus Arteriosus (PDA)",
+        "Persistent Fetal Communications"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch05-q068",
+      "stem": "A newborn with critical outflow obstruction deteriorates after birth. Which finding best explains the clinical or imaging observation related to ductal dependence in critical CHD?",
+      "image": null,
+      "options": [
+        "ductal patency prevents any mixing",
+        "PDA always causes cyanosis",
+        "a patent ductus may sustain pulmonary or systemic perfusion",
+        "all ductal shunts must be closed immediately"
+      ],
+      "answer": 2,
+      "explanation": "a patent ductus may sustain pulmonary or systemic perfusion. The relevant concept is ductal dependence in critical CHD: a patent ductus may sustain pulmonary or systemic perfusion. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Patent Ductus Arteriosus (PDA)",
+        "Persistent Fetal Communications"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch05-q069",
+      "stem": "A cyanotic newborn becomes hypotensive as the ductus constricts. Which finding best explains the clinical or imaging observation related to ductal-dependent systemic blood flow?",
+      "image": null,
+      "options": [
+        "prostaglandin E1 infusion",
+        "acetaminophen",
+        "ibuprofen",
+        "indomethacin"
+      ],
+      "answer": 0,
+      "explanation": "prostaglandin E1 infusion. The relevant concept is ductal-dependent systemic blood flow: prostaglandin E1 infusion. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Patent Ductus Arteriosus (PDA)",
+        "Persistent Fetal Communications"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch05-q070",
+      "stem": "A premature infant has a persistent ductus. Which finding best explains the clinical or imaging observation related to PDA auscultation?",
+      "image": null,
+      "options": [
+        "isolated diastolic rumble at apex",
+        "mid-systolic click without murmur",
+        "continuous machinery-like murmur",
+        "fixed split second heart sound only"
+      ],
+      "answer": 2,
+      "explanation": "continuous machinery-like murmur. The relevant concept is PDA auscultation: continuous machinery-like murmur. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Patent Ductus Arteriosus (PDA)",
+        "Persistent Fetal Communications"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch05-q071",
+      "stem": "A fetal circulation diagram highlights the umbilical venous pathway. Which finding best explains the clinical or imaging observation related to ductus venosus fetal function?",
+      "image": null,
+      "options": [
+        "connects the ventricles",
+        "bypasses the fetal lungs",
+        "bypasses the fetal liver",
+        "supplies the coronary arteries"
+      ],
+      "answer": 2,
+      "explanation": "bypasses the fetal liver. The relevant concept is ductus venosus fetal function: bypasses the fetal liver. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Fetal Circulation & Transition",
+        "Persistent Fetal Communications"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch05-q072",
+      "stem": "Echo shows a wide ductus with substantial left-to-right flow. Which finding best explains the clinical or imaging observation related to large PDA physiology?",
+      "image": null,
+      "options": [
+        "complete separation of pulmonary and systemic circuits",
+        "decreased pulmonary blood flow without shunt",
+        "isolated systemic venous obstruction",
+        "increased pulmonary blood flow and left-heart volume loading"
+      ],
+      "answer": 3,
+      "explanation": "increased pulmonary blood flow and left-heart volume loading. The relevant concept is large PDA physiology: increased pulmonary blood flow and left-heart volume loading. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Patent Ductus Arteriosus (PDA)",
+        "Persistent Fetal Communications"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch05-q073",
+      "stem": "Color doppler detects a vessel near the descending aorta. Which finding best explains the clinical or imaging observation related to patent ductus arteriosus anatomy?",
+      "image": null,
+      "options": [
+        "persistent connection between the atria",
+        "connection between vena cava and pulmonary vein",
+        "persistent connection between pulmonary artery and aorta",
+        "communication between the ventricles"
+      ],
+      "answer": 2,
+      "explanation": "persistent connection between pulmonary artery and aorta. The relevant concept is patent ductus arteriosus anatomy: persistent connection between pulmonary artery and aorta. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Patent Ductus Arteriosus (PDA)",
+        "Persistent Fetal Communications"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch05-q074",
+      "stem": "A healthy infant transitions from fetal circulation. Which finding best explains the clinical or imaging observation related to PDA closure stimulus?",
+      "image": null,
+      "options": [
+        "increased oxygen tension and reduced prostaglandins",
+        "increased pulmonary vascular resistance",
+        "decreased oxygen tension and increased prostaglandins",
+        "increased right atrial pressure"
+      ],
+      "answer": 0,
+      "explanation": "increased oxygen tension and reduced prostaglandins. The relevant concept is PDA closure stimulus: increased oxygen tension and reduced prostaglandins. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Patent Ductus Arteriosus (PDA)",
+        "Persistent Fetal Communications"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch05-q075",
+      "stem": "An adult has a transient increase in right atrial pressure. Which finding best explains the clinical or imaging observation related to PFO paradoxical embolism?",
+      "image": null,
+      "options": [
+        "left ventricular hypertrophy",
+        "isolated left-to-right PDA flow",
+        "right-to-left passage of a venous embolus through the atrial communication",
+        "aortic valve stenosis"
+      ],
+      "answer": 2,
+      "explanation": "right-to-left passage of a venous embolus through the atrial communication. The relevant concept is PFO paradoxical embolism: right-to-left passage of a venous embolus through the atrial communication. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Patent Foramen Ovale & Atrial Septum",
+        "Persistent Fetal Communications"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch05-q076",
+      "stem": "A sonographer reviews the echocardiogram in a case where a mobile atrial flap is visible on subcostal imaging. Which interpretation is most consistent with the underlying patent foramen ovale anatomy?",
+      "image": null,
+      "options": [
+        "an obligatory fixed septal hole",
+        "failure of septum primum and secundum fusion",
+        "complete absence of atrial septum",
+        "failure of ventricular septation"
+      ],
+      "answer": 1,
+      "explanation": "failure of septum primum and secundum fusion. The relevant concept is patent foramen ovale anatomy: failure of septum primum and secundum fusion. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Patent Foramen Ovale & Atrial Septum",
+        "Persistent Fetal Communications"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch05-q077",
+      "stem": "A sonographer reviews the echocardiogram in a case where a neonatologist evaluates a baby born before 32 weeks. Which interpretation is most consistent with the underlying major PDA risk factor?",
+      "image": null,
+      "options": [
+        "Turner syndrome",
+        "post-term delivery",
+        "isolated bicuspid valve",
+        "prematurity"
+      ],
+      "answer": 3,
+      "explanation": "prematurity. The relevant concept is major PDA risk factor: prematurity. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Patent Ductus Arteriosus (PDA)",
+        "Persistent Fetal Communications"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch05-q078",
+      "stem": "A sonographer reviews the echocardiogram in a case where agitated saline study demonstrates intermittent interatrial passage. Which interpretation is most consistent with the underlying PFO versus true ASD?",
+      "image": null,
+      "options": [
+        "PFO is a ventricular defect",
+        "ASD is always intermittent",
+        "PFO always has absent septal tissue",
+        "PFO is a flap-like potential opening rather than fixed septal deficiency"
+      ],
+      "answer": 3,
+      "explanation": "PFO is a flap-like potential opening rather than fixed septal deficiency. The relevant concept is PFO versus true ASD: PFO is a flap-like potential opening rather than fixed septal deficiency. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Patent Foramen Ovale & Atrial Septum",
+        "Persistent Fetal Communications"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch05-q079",
+      "stem": "A sonographer reviews the echocardiogram in a case where an infant establishes effective ventilation. Which interpretation is most consistent with the underlying postnatal pulmonary transition?",
+      "image": null,
+      "options": [
+        "pulmonary vascular resistance normally rises sharply",
+        "pulmonary venous return stops",
+        "pulmonary vascular resistance normally decreases after lung expansion",
+        "left atrial pressure normally falls below right atrial pressure"
+      ],
+      "answer": 2,
+      "explanation": "pulmonary vascular resistance normally decreases after lung expansion. The relevant concept is postnatal pulmonary transition: pulmonary vascular resistance normally decreases after lung expansion. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Fetal Circulation & Transition",
+        "Persistent Fetal Communications"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch05-q080",
+      "stem": "A sonographer reviews the echocardiogram in a case where a term infant has normal postnatal pulmonary vascular resistance. Which interpretation is most consistent with the underlying typical PDA shunt direction after birth?",
+      "image": null,
+      "options": [
+        "aorta to pulmonary artery",
+        "left ventricle to right ventricle",
+        "right atrium to left atrium",
+        "pulmonary artery to aorta in all patients"
+      ],
+      "answer": 0,
+      "explanation": "aorta to pulmonary artery. The relevant concept is typical PDA shunt direction after birth: aorta to pulmonary artery. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Patent Ductus Arteriosus (PDA)",
+        "Persistent Fetal Communications"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch05-q081",
+      "stem": "A sonographer reviews the echocardiogram in a case where an adult echocardiogram shows no residual ductal flow. Which interpretation is most consistent with the underlying PDA anatomical remnant?",
+      "image": null,
+      "options": [
+        "fossa ovalis",
+        "ligamentum arteriosum",
+        "coronary sinus",
+        "ligamentum venosum"
+      ],
+      "answer": 1,
+      "explanation": "ligamentum arteriosum. The relevant concept is PDA anatomical remnant: ligamentum arteriosum. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Patent Ductus Arteriosus (PDA)",
+        "Persistent Fetal Communications"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch05-q082",
+      "stem": "A sonographer reviews the echocardiogram in a case where a neonate has high estimated right ventricular pressure. Which interpretation is most consistent with the underlying PPHN circulation?",
+      "image": null,
+      "options": [
+        "persistent high pulmonary resistance favors right-to-left fetal-channel shunting",
+        "normal pulmonary resistance favors obligatory right-to-left flow",
+        "complete loss of systemic vascular resistance",
+        "absence of pulmonary venous return"
+      ],
+      "answer": 0,
+      "explanation": "persistent high pulmonary resistance favors right-to-left fetal-channel shunting. The relevant concept is PPHN circulation: persistent high pulmonary resistance favors right-to-left fetal-channel shunting. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Fetal Circulation & Transition",
+        "Persistent Fetal Communications"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch05-q083",
+      "stem": "A sonographer reviews the echocardiogram in a case where a newborn remains hypoxemic despite aerated lungs. Which interpretation is most consistent with the underlying persistent pulmonary hypertension of the newborn?",
+      "image": null,
+      "options": [
+        "premature ductal closure",
+        "failure of pulmonary vascular resistance to fall",
+        "reduced systemic vascular resistance",
+        "excessive pulmonary venous return"
+      ],
+      "answer": 1,
+      "explanation": "failure of pulmonary vascular resistance to fall. The relevant concept is persistent pulmonary hypertension of the newborn: failure of pulmonary vascular resistance to fall. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Fetal Circulation & Transition",
+        "Persistent Fetal Communications"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch05-q084",
+      "stem": "A sonographer reviews the echocardiogram in a case where a large left-to-right ductal shunt persists. Which interpretation is most consistent with the underlying PDA chamber loading?",
+      "image": null,
+      "options": [
+        "isolated right ventricular pressure overload",
+        "isolated left ventricular pressure overload",
+        "isolated right atrial pressure overload",
+        "left atrial and left ventricular volume overload"
+      ],
+      "answer": 3,
+      "explanation": "left atrial and left ventricular volume overload. The relevant concept is PDA chamber loading: left atrial and left ventricular volume overload. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Patent Ductus Arteriosus (PDA)",
+        "Persistent Fetal Communications"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch05-q085",
+      "stem": "A sonographer reviews the echocardiogram in a case where a fetal four-chamber view demonstrates interatrial streaming. Which interpretation is most consistent with the underlying foramen ovale fetal function?",
+      "image": null,
+      "options": [
+        "directs left ventricular blood to right ventricle",
+        "returns pulmonary veins to right atrium",
+        "directs right atrial blood to left atrium",
+        "directs aortic blood to pulmonary artery"
+      ],
+      "answer": 2,
+      "explanation": "directs right atrial blood to left atrium. The relevant concept is foramen ovale fetal function: directs right atrial blood to left atrium. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Patent Foramen Ovale & Atrial Septum",
+        "Persistent Fetal Communications"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch05-q086",
+      "stem": "A sonographer reviews the echocardiogram in a case where Valsalva transiently changes interatrial pressure. Which interpretation is most consistent with the underlying PFO shunt intermittency?",
+      "image": null,
+      "options": [
+        "the foramen connects aorta and pulmonary artery",
+        "PFO is invariably left-to-right and continuous",
+        "a fixed absent septum is always open",
+        "a pressure-dependent flap may open intermittently"
+      ],
+      "answer": 3,
+      "explanation": "a pressure-dependent flap may open intermittently. The relevant concept is PFO shunt intermittency: a pressure-dependent flap may open intermittently. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Patent Foramen Ovale & Atrial Septum",
+        "Persistent Fetal Communications"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch05-q087",
+      "stem": "A sonographer reviews the echocardiogram in a case where an embryology review asks about the fetal pulmonary bypass. Which interpretation is most consistent with the underlying origin of the ductus arteriosus?",
+      "image": null,
+      "options": [
+        "distal left sixth aortic arch",
+        "ductus venosus",
+        "right fourth aortic arch",
+        "septum primum"
+      ],
+      "answer": 0,
+      "explanation": "distal left sixth aortic arch. The relevant concept is origin of the ductus arteriosus: distal left sixth aortic arch. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Patent Ductus Arteriosus (PDA)",
+        "Persistent Fetal Communications"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch05-q088",
+      "stem": "A sonographer reviews the echocardiogram in a case where the examiner reviews the normal postnatal ductal transition. Which interpretation is most consistent with the underlying functional versus anatomical closure?",
+      "image": null,
+      "options": [
+        "both occur before birth",
+        "the ductus never closes anatomically",
+        "anatomical closure precedes functional closure",
+        "functional constriction precedes permanent anatomical closure"
+      ],
+      "answer": 3,
+      "explanation": "functional constriction precedes permanent anatomical closure. The relevant concept is functional versus anatomical closure: functional constriction precedes permanent anatomical closure. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Patent Ductus Arteriosus (PDA)",
+        "Persistent Fetal Communications"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch05-q089",
+      "stem": "A sonographer reviews the echocardiogram in a case where a newborn with critical outflow obstruction deteriorates after birth. Which interpretation is most consistent with the underlying ductal dependence in critical CHD?",
+      "image": null,
+      "options": [
+        "all ductal shunts must be closed immediately",
+        "a patent ductus may sustain pulmonary or systemic perfusion",
+        "PDA always causes cyanosis",
+        "ductal patency prevents any mixing"
+      ],
+      "answer": 1,
+      "explanation": "a patent ductus may sustain pulmonary or systemic perfusion. The relevant concept is ductal dependence in critical CHD: a patent ductus may sustain pulmonary or systemic perfusion. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Patent Ductus Arteriosus (PDA)",
+        "Persistent Fetal Communications"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch05-q090",
+      "stem": "A sonographer reviews the echocardiogram in a case where a cyanotic newborn becomes hypotensive as the ductus constricts. Which interpretation is most consistent with the underlying ductal-dependent systemic blood flow?",
+      "image": null,
+      "options": [
+        "indomethacin",
+        "ibuprofen",
+        "prostaglandin E1 infusion",
+        "acetaminophen"
+      ],
+      "answer": 2,
+      "explanation": "prostaglandin E1 infusion. The relevant concept is ductal-dependent systemic blood flow: prostaglandin E1 infusion. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Patent Ductus Arteriosus (PDA)",
+        "Persistent Fetal Communications"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch05-q091",
+      "stem": "A sonographer reviews the echocardiogram in a case where a premature infant has a persistent ductus. Which interpretation is most consistent with the underlying PDA auscultation?",
+      "image": null,
+      "options": [
+        "fixed split second heart sound only",
+        "mid-systolic click without murmur",
+        "continuous machinery-like murmur",
+        "isolated diastolic rumble at apex"
+      ],
+      "answer": 2,
+      "explanation": "continuous machinery-like murmur. The relevant concept is PDA auscultation: continuous machinery-like murmur. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Patent Ductus Arteriosus (PDA)",
+        "Persistent Fetal Communications"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch05-q092",
+      "stem": "A sonographer reviews the echocardiogram in a case where a fetal circulation diagram highlights the umbilical venous pathway. Which interpretation is most consistent with the underlying ductus venosus fetal function?",
+      "image": null,
+      "options": [
+        "supplies the coronary arteries",
+        "connects the ventricles",
+        "bypasses the fetal liver",
+        "bypasses the fetal lungs"
+      ],
+      "answer": 2,
+      "explanation": "bypasses the fetal liver. The relevant concept is ductus venosus fetal function: bypasses the fetal liver. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Fetal Circulation & Transition",
+        "Persistent Fetal Communications"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch05-q093",
+      "stem": "A sonographer reviews the echocardiogram in a case where echo shows a wide ductus with substantial left-to-right flow. Which interpretation is most consistent with the underlying large PDA physiology?",
+      "image": null,
+      "options": [
+        "increased pulmonary blood flow and left-heart volume loading",
+        "decreased pulmonary blood flow without shunt",
+        "complete separation of pulmonary and systemic circuits",
+        "isolated systemic venous obstruction"
+      ],
+      "answer": 0,
+      "explanation": "increased pulmonary blood flow and left-heart volume loading. The relevant concept is large PDA physiology: increased pulmonary blood flow and left-heart volume loading. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Patent Ductus Arteriosus (PDA)",
+        "Persistent Fetal Communications"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch05-q094",
+      "stem": "A sonographer reviews the echocardiogram in a case where color Doppler detects a vessel near the descending aorta. Which interpretation is most consistent with the underlying patent ductus arteriosus anatomy?",
+      "image": null,
+      "options": [
+        "communication between the ventricles",
+        "persistent connection between pulmonary artery and aorta",
+        "connection between vena cava and pulmonary vein",
+        "persistent connection between the atria"
+      ],
+      "answer": 1,
+      "explanation": "persistent connection between pulmonary artery and aorta. The relevant concept is patent ductus arteriosus anatomy: persistent connection between pulmonary artery and aorta. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Patent Ductus Arteriosus (PDA)",
+        "Persistent Fetal Communications"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch05-q095",
+      "stem": "A sonographer reviews the echocardiogram in a case where a healthy infant transitions from fetal circulation. Which interpretation is most consistent with the underlying PDA closure stimulus?",
+      "image": null,
+      "options": [
+        "increased oxygen tension and reduced prostaglandins",
+        "increased right atrial pressure",
+        "decreased oxygen tension and increased prostaglandins",
+        "increased pulmonary vascular resistance"
+      ],
+      "answer": 0,
+      "explanation": "increased oxygen tension and reduced prostaglandins. The relevant concept is PDA closure stimulus: increased oxygen tension and reduced prostaglandins. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Patent Ductus Arteriosus (PDA)",
+        "Persistent Fetal Communications"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch05-q096",
+      "stem": "A sonographer reviews the echocardiogram in a case where an adult has a transient increase in right atrial pressure. Which interpretation is most consistent with the underlying PFO paradoxical embolism?",
+      "image": null,
+      "options": [
+        "aortic valve stenosis",
+        "left ventricular hypertrophy",
+        "right-to-left passage of a venous embolus through the atrial communication",
+        "isolated left-to-right PDA flow"
+      ],
+      "answer": 2,
+      "explanation": "right-to-left passage of a venous embolus through the atrial communication. The relevant concept is PFO paradoxical embolism: right-to-left passage of a venous embolus through the atrial communication. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Patent Foramen Ovale & Atrial Septum",
+        "Persistent Fetal Communications"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch05-q097",
+      "stem": "A sonographer reviews the echocardiogram in a case where a term newborn takes the first breaths. Which interpretation is most consistent with the underlying functional closure of the foramen ovale?",
+      "image": null,
+      "options": [
+        "reduced pulmonary venous return",
+        "decreased systemic vascular resistance",
+        "increased pulmonary vascular resistance",
+        "left atrial pressure rising above right atrial pressure"
+      ],
+      "answer": 3,
+      "explanation": "left atrial pressure rising above right atrial pressure. The relevant concept is functional closure of the foramen ovale: left atrial pressure rising above right atrial pressure. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Patent Foramen Ovale & Atrial Septum",
+        "Persistent Fetal Communications"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch05-q098",
+      "stem": "A sonographer reviews the echocardiogram in a case where continuous-wave Doppler samples a patent ductus. Which interpretation is most consistent with the underlying PDA Doppler timing?",
+      "image": null,
+      "options": [
+        "continuous flow during systole and diastole",
+        "flow confined to systole",
+        "absence of flow in diastole",
+        "flow confined to atrial contraction"
+      ],
+      "answer": 0,
+      "explanation": "continuous flow during systole and diastole. The relevant concept is PDA Doppler timing: continuous flow during systole and diastole. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Patent Ductus Arteriosus (PDA)",
+        "Persistent Fetal Communications"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch05-q099",
+      "stem": "A sonographer reviews the echocardiogram in a case where the interatrial septum is inspected in an adult. Which interpretation is most consistent with the underlying foramen ovale anatomical remnant?",
+      "image": null,
+      "options": [
+        "moderator band",
+        "ligamentum arteriosum",
+        "ligamentum venosum",
+        "fossa ovalis"
+      ],
+      "answer": 3,
+      "explanation": "fossa ovalis. The relevant concept is foramen ovale anatomical remnant: fossa ovalis. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Patent Foramen Ovale & Atrial Septum",
+        "Persistent Fetal Communications"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch05-q100",
+      "stem": "A sonographer reviews the echocardiogram in a case where a preterm baby has persistent ductal patency. Which interpretation is most consistent with the underlying PDA in a preterm infant?",
+      "image": null,
+      "options": [
+        "immature ductal smooth muscle impairs constriction",
+        "mature ductal muscle causes obligatory closure",
+        "a septal malalignment causes PDA",
+        "pulmonary venous atresia causes PDA"
+      ],
+      "answer": 0,
+      "explanation": "immature ductal smooth muscle impairs constriction. The relevant concept is PDA in a preterm infant: immature ductal smooth muscle impairs constriction. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Patent Ductus Arteriosus (PDA)",
+        "Persistent Fetal Communications"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch05-q101",
+      "stem": "During a congenital heart disease case conference, the team discusses typical PDA shunt direction after birth. Which statement is correct?",
+      "image": null,
+      "options": [
+        "left ventricle to right ventricle",
+        "aorta to pulmonary artery",
+        "right atrium to left atrium",
+        "pulmonary artery to aorta in all patients"
+      ],
+      "answer": 1,
+      "explanation": "aorta to pulmonary artery. The relevant concept is typical PDA shunt direction after birth: aorta to pulmonary artery. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Patent Ductus Arteriosus (PDA)",
+        "Persistent Fetal Communications"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch05-q102",
+      "stem": "During a congenital heart disease case conference, the team discusses PDA anatomical remnant. Which statement is correct?",
+      "image": null,
+      "options": [
+        "ligamentum venosum",
+        "ligamentum arteriosum",
+        "coronary sinus",
+        "fossa ovalis"
+      ],
+      "answer": 1,
+      "explanation": "ligamentum arteriosum. The relevant concept is PDA anatomical remnant: ligamentum arteriosum. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Patent Ductus Arteriosus (PDA)",
+        "Persistent Fetal Communications"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch05-q103",
+      "stem": "During a congenital heart disease case conference, the team discusses PPHN circulation. Which statement is correct?",
+      "image": null,
+      "options": [
+        "complete loss of systemic vascular resistance",
+        "persistent high pulmonary resistance favors right-to-left fetal-channel shunting",
+        "normal pulmonary resistance favors obligatory right-to-left flow",
+        "absence of pulmonary venous return"
+      ],
+      "answer": 1,
+      "explanation": "persistent high pulmonary resistance favors right-to-left fetal-channel shunting. The relevant concept is PPHN circulation: persistent high pulmonary resistance favors right-to-left fetal-channel shunting. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Fetal Circulation & Transition",
+        "Persistent Fetal Communications"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch05-q104",
+      "stem": "During a congenital heart disease case conference, the team discusses persistent pulmonary hypertension of the newborn. Which statement is correct?",
+      "image": null,
+      "options": [
+        "premature ductal closure",
+        "reduced systemic vascular resistance",
+        "excessive pulmonary venous return",
+        "failure of pulmonary vascular resistance to fall"
+      ],
+      "answer": 3,
+      "explanation": "failure of pulmonary vascular resistance to fall. The relevant concept is persistent pulmonary hypertension of the newborn: failure of pulmonary vascular resistance to fall. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Fetal Circulation & Transition",
+        "Persistent Fetal Communications"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch05-q105",
+      "stem": "During a congenital heart disease case conference, the team discusses PDA chamber loading. Which statement is correct?",
+      "image": null,
+      "options": [
+        "isolated left ventricular pressure overload",
+        "isolated right ventricular pressure overload",
+        "left atrial and left ventricular volume overload",
+        "isolated right atrial pressure overload"
+      ],
+      "answer": 2,
+      "explanation": "left atrial and left ventricular volume overload. The relevant concept is PDA chamber loading: left atrial and left ventricular volume overload. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Patent Ductus Arteriosus (PDA)",
+        "Persistent Fetal Communications"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch05-q106",
+      "stem": "During a congenital heart disease case conference, the team discusses foramen ovale fetal function. Which statement is correct?",
+      "image": null,
+      "options": [
+        "returns pulmonary veins to right atrium",
+        "directs left ventricular blood to right ventricle",
+        "directs aortic blood to pulmonary artery",
+        "directs right atrial blood to left atrium"
+      ],
+      "answer": 3,
+      "explanation": "directs right atrial blood to left atrium. The relevant concept is foramen ovale fetal function: directs right atrial blood to left atrium. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Patent Foramen Ovale & Atrial Septum",
+        "Persistent Fetal Communications"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch05-q107",
+      "stem": "During a congenital heart disease case conference, the team discusses PFO shunt intermittency. Which statement is correct?",
+      "image": null,
+      "options": [
+        "a fixed absent septum is always open",
+        "PFO is invariably left-to-right and continuous",
+        "a pressure-dependent flap may open intermittently",
+        "the foramen connects aorta and pulmonary artery"
+      ],
+      "answer": 2,
+      "explanation": "a pressure-dependent flap may open intermittently. The relevant concept is PFO shunt intermittency: a pressure-dependent flap may open intermittently. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Patent Foramen Ovale & Atrial Septum",
+        "Persistent Fetal Communications"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch05-q108",
+      "stem": "During a congenital heart disease case conference, the team discusses origin of the ductus arteriosus. Which statement is correct?",
+      "image": null,
+      "options": [
+        "ductus venosus",
+        "right fourth aortic arch",
+        "septum primum",
+        "distal left sixth aortic arch"
+      ],
+      "answer": 3,
+      "explanation": "distal left sixth aortic arch. The relevant concept is origin of the ductus arteriosus: distal left sixth aortic arch. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Patent Ductus Arteriosus (PDA)",
+        "Persistent Fetal Communications"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch05-q109",
+      "stem": "During a congenital heart disease case conference, the team discusses functional versus anatomical closure. Which statement is correct?",
+      "image": null,
+      "options": [
+        "anatomical closure precedes functional closure",
+        "both occur before birth",
+        "functional constriction precedes permanent anatomical closure",
+        "the ductus never closes anatomically"
+      ],
+      "answer": 2,
+      "explanation": "functional constriction precedes permanent anatomical closure. The relevant concept is functional versus anatomical closure: functional constriction precedes permanent anatomical closure. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Persistent Fetal Communications",
+        "Persistent Fetal Communications"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch05-q110",
+      "stem": "During a congenital heart disease case conference, the team discusses ductal dependence in critical CHD. Which statement is correct?",
+      "image": null,
+      "options": [
+        "all ductal shunts must be closed immediately",
+        "PDA always causes cyanosis",
+        "a patent ductus may sustain pulmonary or systemic perfusion",
+        "ductal patency prevents any mixing"
+      ],
+      "answer": 2,
+      "explanation": "a patent ductus may sustain pulmonary or systemic perfusion. The relevant concept is ductal dependence in critical CHD: a patent ductus may sustain pulmonary or systemic perfusion. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Patent Ductus Arteriosus (PDA)",
+        "Persistent Fetal Communications"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch05-q111",
+      "stem": "During a congenital heart disease case conference, the team discusses ductal-dependent systemic blood flow. Which statement is correct?",
+      "image": null,
+      "options": [
+        "prostaglandin E1 infusion",
+        "indomethacin",
+        "acetaminophen",
+        "ibuprofen"
+      ],
+      "answer": 0,
+      "explanation": "prostaglandin E1 infusion. The relevant concept is ductal-dependent systemic blood flow: prostaglandin E1 infusion. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Patent Ductus Arteriosus (PDA)",
+        "Persistent Fetal Communications"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch05-q112",
+      "stem": "During a congenital heart disease case conference, the team discusses PDA auscultation. Which statement is correct?",
+      "image": null,
+      "options": [
+        "isolated diastolic rumble at apex",
+        "fixed split second heart sound only",
+        "continuous machinery-like murmur",
+        "mid-systolic click without murmur"
+      ],
+      "answer": 2,
+      "explanation": "continuous machinery-like murmur. The relevant concept is PDA auscultation: continuous machinery-like murmur. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Patent Ductus Arteriosus (PDA)",
+        "Persistent Fetal Communications"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch05-q113",
+      "stem": "During a congenital heart disease case conference, the team discusses ductus venosus fetal function. Which statement is correct?",
+      "image": null,
+      "options": [
+        "bypasses the fetal liver",
+        "connects the ventricles",
+        "supplies the coronary arteries",
+        "bypasses the fetal lungs"
+      ],
+      "answer": 0,
+      "explanation": "bypasses the fetal liver. The relevant concept is ductus venosus fetal function: bypasses the fetal liver. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Fetal Circulation & Transition",
+        "Persistent Fetal Communications"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch05-q114",
+      "stem": "During a congenital heart disease case conference, the team discusses large PDA physiology. Which statement is correct?",
+      "image": null,
+      "options": [
+        "isolated systemic venous obstruction",
+        "increased pulmonary blood flow and left-heart volume loading",
+        "complete separation of pulmonary and systemic circuits",
+        "decreased pulmonary blood flow without shunt"
+      ],
+      "answer": 1,
+      "explanation": "increased pulmonary blood flow and left-heart volume loading. The relevant concept is large PDA physiology: increased pulmonary blood flow and left-heart volume loading. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Patent Ductus Arteriosus (PDA)",
+        "Persistent Fetal Communications"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch05-q115",
+      "stem": "During a congenital heart disease case conference, the team discusses patent ductus arteriosus anatomy. Which statement is correct?",
+      "image": null,
+      "options": [
+        "communication between the ventricles",
+        "persistent connection between the atria",
+        "connection between vena cava and pulmonary vein",
+        "persistent connection between pulmonary artery and aorta"
+      ],
+      "answer": 3,
+      "explanation": "persistent connection between pulmonary artery and aorta. The relevant concept is patent ductus arteriosus anatomy: persistent connection between pulmonary artery and aorta. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Patent Ductus Arteriosus (PDA)",
+        "Persistent Fetal Communications"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch05-q116",
+      "stem": "During a congenital heart disease case conference, the team discusses PDA closure stimulus. Which statement is correct?",
+      "image": null,
+      "options": [
+        "decreased oxygen tension and increased prostaglandins",
+        "increased oxygen tension and reduced prostaglandins",
+        "increased right atrial pressure",
+        "increased pulmonary vascular resistance"
+      ],
+      "answer": 1,
+      "explanation": "increased oxygen tension and reduced prostaglandins. The relevant concept is PDA closure stimulus: increased oxygen tension and reduced prostaglandins. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Patent Ductus Arteriosus (PDA)",
+        "Persistent Fetal Communications"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch05-q117",
+      "stem": "During a congenital heart disease case conference, the team discusses PFO paradoxical embolism. Which statement is correct?",
+      "image": null,
+      "options": [
+        "right-to-left passage of a venous embolus through the atrial communication",
+        "isolated left-to-right PDA flow",
+        "left ventricular hypertrophy",
+        "aortic valve stenosis"
+      ],
+      "answer": 0,
+      "explanation": "right-to-left passage of a venous embolus through the atrial communication. The relevant concept is PFO paradoxical embolism: right-to-left passage of a venous embolus through the atrial communication. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Patent Foramen Ovale & Atrial Septum",
+        "Persistent Fetal Communications"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch05-q118",
+      "stem": "During a congenital heart disease case conference, the team discusses functional closure of the foramen ovale. Which statement is correct?",
+      "image": null,
+      "options": [
+        "increased pulmonary vascular resistance",
+        "left atrial pressure rising above right atrial pressure",
+        "decreased systemic vascular resistance",
+        "reduced pulmonary venous return"
+      ],
+      "answer": 1,
+      "explanation": "left atrial pressure rising above right atrial pressure. The relevant concept is functional closure of the foramen ovale: left atrial pressure rising above right atrial pressure. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Patent Foramen Ovale & Atrial Septum",
+        "Persistent Fetal Communications"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch05-q119",
+      "stem": "During a congenital heart disease case conference, the team discusses PDA Doppler timing. Which statement is correct?",
+      "image": null,
+      "options": [
+        "flow confined to atrial contraction",
+        "continuous flow during systole and diastole",
+        "absence of flow in diastole",
+        "flow confined to systole"
+      ],
+      "answer": 1,
+      "explanation": "continuous flow during systole and diastole. The relevant concept is PDA Doppler timing: continuous flow during systole and diastole. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Patent Ductus Arteriosus (PDA)",
+        "Persistent Fetal Communications"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch05-q120",
+      "stem": "During a congenital heart disease case conference, the team discusses foramen ovale anatomical remnant. Which statement is correct?",
+      "image": null,
+      "options": [
+        "ligamentum arteriosum",
+        "moderator band",
+        "ligamentum venosum",
+        "fossa ovalis"
+      ],
+      "answer": 3,
+      "explanation": "fossa ovalis. The relevant concept is foramen ovale anatomical remnant: fossa ovalis. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Patent Foramen Ovale & Atrial Septum",
+        "Persistent Fetal Communications"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch05-q121",
+      "stem": "During a congenital heart disease case conference, the team discusses PDA in a preterm infant. Which statement is correct?",
+      "image": null,
+      "options": [
+        "pulmonary venous atresia causes PDA",
+        "immature ductal smooth muscle impairs constriction",
+        "a septal malalignment causes PDA",
+        "mature ductal muscle causes obligatory closure"
+      ],
+      "answer": 1,
+      "explanation": "immature ductal smooth muscle impairs constriction. The relevant concept is PDA in a preterm infant: immature ductal smooth muscle impairs constriction. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Patent Ductus Arteriosus (PDA)",
+        "Persistent Fetal Communications"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch05-q122",
+      "stem": "During a congenital heart disease case conference, the team discusses patent foramen ovale anatomy. Which statement is correct?",
+      "image": null,
+      "options": [
+        "failure of septum primum and secundum fusion",
+        "complete absence of atrial septum",
+        "failure of ventricular septation",
+        "an obligatory fixed septal hole"
+      ],
+      "answer": 0,
+      "explanation": "failure of septum primum and secundum fusion. The relevant concept is patent foramen ovale anatomy: failure of septum primum and secundum fusion. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Patent Foramen Ovale & Atrial Septum",
+        "Persistent Fetal Communications"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch05-q123",
+      "stem": "During a congenital heart disease case conference, the team discusses major PDA risk factor. Which statement is correct?",
+      "image": null,
+      "options": [
+        "isolated bicuspid valve",
+        "Turner syndrome",
+        "post-term delivery",
+        "prematurity"
+      ],
+      "answer": 3,
+      "explanation": "prematurity. The relevant concept is major PDA risk factor: prematurity. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Patent Ductus Arteriosus (PDA)",
+        "Persistent Fetal Communications"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch05-q124",
+      "stem": "During a congenital heart disease case conference, the team discusses PFO versus true ASD. Which statement is correct?",
+      "image": null,
+      "options": [
+        "ASD is always intermittent",
+        "PFO is a ventricular defect",
+        "PFO always has absent septal tissue",
+        "PFO is a flap-like potential opening rather than fixed septal deficiency"
+      ],
+      "answer": 3,
+      "explanation": "PFO is a flap-like potential opening rather than fixed septal deficiency. The relevant concept is PFO versus true ASD: PFO is a flap-like potential opening rather than fixed septal deficiency. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Patent Foramen Ovale & Atrial Septum",
+        "Persistent Fetal Communications"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch05-q125",
+      "stem": "During a congenital heart disease case conference, the team discusses postnatal pulmonary transition. Which statement is correct?",
+      "image": null,
+      "options": [
+        "pulmonary venous return stops",
+        "pulmonary vascular resistance normally rises sharply",
+        "left atrial pressure normally falls below right atrial pressure",
+        "pulmonary vascular resistance normally decreases after lung expansion"
+      ],
+      "answer": 3,
+      "explanation": "pulmonary vascular resistance normally decreases after lung expansion. The relevant concept is postnatal pulmonary transition: pulmonary vascular resistance normally decreases after lung expansion. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Fetal Circulation & Transition",
+        "Persistent Fetal Communications"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch05-q126",
+      "stem": "An examination stem describes this clinical setting: a large left-to-right ductal shunt persists. Which associated anatomic or physiologic feature should be recognized?",
+      "image": null,
+      "options": [
+        "isolated right atrial pressure overload",
+        "isolated left ventricular pressure overload",
+        "isolated right ventricular pressure overload",
+        "left atrial and left ventricular volume overload"
+      ],
+      "answer": 3,
+      "explanation": "left atrial and left ventricular volume overload. The relevant concept is PDA chamber loading: left atrial and left ventricular volume overload. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Patent Ductus Arteriosus (PDA)",
+        "Persistent Fetal Communications"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch05-q127",
+      "stem": "An examination stem describes this clinical setting: a fetal four-chamber view demonstrates interatrial streaming. Which associated anatomic or physiologic feature should be recognized?",
+      "image": null,
+      "options": [
+        "directs left ventricular blood to right ventricle",
+        "returns pulmonary veins to right atrium",
+        "directs aortic blood to pulmonary artery",
+        "directs right atrial blood to left atrium"
+      ],
+      "answer": 3,
+      "explanation": "directs right atrial blood to left atrium. The relevant concept is foramen ovale fetal function: directs right atrial blood to left atrium. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Patent Foramen Ovale & Atrial Septum",
+        "Persistent Fetal Communications"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch05-q128",
+      "stem": "An examination stem describes this clinical setting: Valsalva transiently changes interatrial pressure. Which associated anatomic or physiologic feature should be recognized?",
+      "image": null,
+      "options": [
+        "a fixed absent septum is always open",
+        "PFO is invariably left-to-right and continuous",
+        "the foramen connects aorta and pulmonary artery",
+        "a pressure-dependent flap may open intermittently"
+      ],
+      "answer": 3,
+      "explanation": "a pressure-dependent flap may open intermittently. The relevant concept is PFO shunt intermittency: a pressure-dependent flap may open intermittently. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Patent Foramen Ovale & Atrial Septum",
+        "Persistent Fetal Communications"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch05-q129",
+      "stem": "An examination stem describes this clinical setting: an embryology review asks about the fetal pulmonary bypass. Which associated anatomic or physiologic feature should be recognized?",
+      "image": null,
+      "options": [
+        "distal left sixth aortic arch",
+        "septum primum",
+        "ductus venosus",
+        "right fourth aortic arch"
+      ],
+      "answer": 0,
+      "explanation": "distal left sixth aortic arch. The relevant concept is origin of the ductus arteriosus: distal left sixth aortic arch. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Patent Ductus Arteriosus (PDA)",
+        "Persistent Fetal Communications"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch05-q130",
+      "stem": "An examination stem describes this clinical setting: the examiner reviews the normal postnatal ductal transition. Which associated anatomic or physiologic feature should be recognized?",
+      "image": null,
+      "options": [
+        "functional constriction precedes permanent anatomical closure",
+        "both occur before birth",
+        "anatomical closure precedes functional closure",
+        "the ductus never closes anatomically"
+      ],
+      "answer": 0,
+      "explanation": "functional constriction precedes permanent anatomical closure. The relevant concept is functional versus anatomical closure: functional constriction precedes permanent anatomical closure. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Patent Ductus Arteriosus (PDA)",
+        "Persistent Fetal Communications"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch05-q131",
+      "stem": "An examination stem describes this clinical setting: a newborn with critical outflow obstruction deteriorates after birth. Which associated anatomic or physiologic feature should be recognized?",
+      "image": null,
+      "options": [
+        "a patent ductus may sustain pulmonary or systemic perfusion",
+        "ductal patency prevents any mixing",
+        "all ductal shunts must be closed immediately",
+        "PDA always causes cyanosis"
+      ],
+      "answer": 0,
+      "explanation": "a patent ductus may sustain pulmonary or systemic perfusion. The relevant concept is ductal dependence in critical CHD: a patent ductus may sustain pulmonary or systemic perfusion. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Patent Ductus Arteriosus (PDA)",
+        "Persistent Fetal Communications"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch05-q132",
+      "stem": "An examination stem describes this clinical setting: a cyanotic newborn becomes hypotensive as the ductus constricts. Which associated anatomic or physiologic feature should be recognized?",
+      "image": null,
+      "options": [
+        "prostaglandin E1 infusion",
+        "ibuprofen",
+        "indomethacin",
+        "acetaminophen"
+      ],
+      "answer": 0,
+      "explanation": "prostaglandin E1 infusion. The relevant concept is ductal-dependent systemic blood flow: prostaglandin E1 infusion. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Patent Ductus Arteriosus (PDA)",
+        "Persistent Fetal Communications"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch05-q133",
+      "stem": "An examination stem describes this clinical setting: a premature infant has a persistent ductus. Which associated anatomic or physiologic feature should be recognized?",
+      "image": null,
+      "options": [
+        "continuous machinery-like murmur",
+        "isolated diastolic rumble at apex",
+        "fixed split second heart sound only",
+        "mid-systolic click without murmur"
+      ],
+      "answer": 0,
+      "explanation": "continuous machinery-like murmur. The relevant concept is PDA auscultation: continuous machinery-like murmur. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Patent Ductus Arteriosus (PDA)",
+        "Persistent Fetal Communications"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch05-q134",
+      "stem": "An examination stem describes this clinical setting: a fetal circulation diagram highlights the umbilical venous pathway. Which associated anatomic or physiologic feature should be recognized?",
+      "image": null,
+      "options": [
+        "bypasses the fetal lungs",
+        "connects the ventricles",
+        "bypasses the fetal liver",
+        "supplies the coronary arteries"
+      ],
+      "answer": 2,
+      "explanation": "bypasses the fetal liver. The relevant concept is ductus venosus fetal function: bypasses the fetal liver. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Fetal Circulation & Transition",
+        "Persistent Fetal Communications"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch05-q135",
+      "stem": "An examination stem describes this clinical setting: echo shows a wide ductus with substantial left-to-right flow. Which associated anatomic or physiologic feature should be recognized?",
+      "image": null,
+      "options": [
+        "complete separation of pulmonary and systemic circuits",
+        "isolated systemic venous obstruction",
+        "increased pulmonary blood flow and left-heart volume loading",
+        "decreased pulmonary blood flow without shunt"
+      ],
+      "answer": 2,
+      "explanation": "increased pulmonary blood flow and left-heart volume loading. The relevant concept is large PDA physiology: increased pulmonary blood flow and left-heart volume loading. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Patent Ductus Arteriosus (PDA)",
+        "Persistent Fetal Communications"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch05-q136",
+      "stem": "An examination stem describes this clinical setting: color Doppler detects a vessel near the descending aorta. Which associated anatomic or physiologic feature should be recognized?",
+      "image": null,
+      "options": [
+        "persistent connection between the atria",
+        "communication between the ventricles",
+        "persistent connection between pulmonary artery and aorta",
+        "connection between vena cava and pulmonary vein"
+      ],
+      "answer": 2,
+      "explanation": "persistent connection between pulmonary artery and aorta. The relevant concept is patent ductus arteriosus anatomy: persistent connection between pulmonary artery and aorta. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Patent Ductus Arteriosus (PDA)",
+        "Persistent Fetal Communications"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch05-q137",
+      "stem": "An examination stem describes this clinical setting: a healthy infant transitions from fetal circulation. Which associated anatomic or physiologic feature should be recognized?",
+      "image": null,
+      "options": [
+        "decreased oxygen tension and increased prostaglandins",
+        "increased oxygen tension and reduced prostaglandins",
+        "increased pulmonary vascular resistance",
+        "increased right atrial pressure"
+      ],
+      "answer": 1,
+      "explanation": "increased oxygen tension and reduced prostaglandins. The relevant concept is PDA closure stimulus: increased oxygen tension and reduced prostaglandins. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Patent Ductus Arteriosus (PDA)",
+        "Persistent Fetal Communications"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch05-q138",
+      "stem": "An examination stem describes this clinical setting: an adult has a transient increase in right atrial pressure. Which associated anatomic or physiologic feature should be recognized?",
+      "image": null,
+      "options": [
+        "aortic valve stenosis",
+        "isolated left-to-right PDA flow",
+        "left ventricular hypertrophy",
+        "right-to-left passage of a venous embolus through the atrial communication"
+      ],
+      "answer": 3,
+      "explanation": "right-to-left passage of a venous embolus through the atrial communication. The relevant concept is PFO paradoxical embolism: right-to-left passage of a venous embolus through the atrial communication. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Patent Foramen Ovale & Atrial Septum",
+        "Persistent Fetal Communications"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch05-q139",
+      "stem": "An examination stem describes this clinical setting: a term newborn takes the first breaths. Which associated anatomic or physiologic feature should be recognized?",
+      "image": null,
+      "options": [
+        "reduced pulmonary venous return",
+        "left atrial pressure rising above right atrial pressure",
+        "decreased systemic vascular resistance",
+        "increased pulmonary vascular resistance"
+      ],
+      "answer": 1,
+      "explanation": "left atrial pressure rising above right atrial pressure. The relevant concept is functional closure of the foramen ovale: left atrial pressure rising above right atrial pressure. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Patent Foramen Ovale & Atrial Septum",
+        "Persistent Fetal Communications"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch05-q140",
+      "stem": "An examination stem describes this clinical setting: continuous-wave Doppler samples a patent ductus. Which associated anatomic or physiologic feature should be recognized?",
+      "image": null,
+      "options": [
+        "flow confined to systole",
+        "flow confined to atrial contraction",
+        "absence of flow in diastole",
+        "continuous flow during systole and diastole"
+      ],
+      "answer": 3,
+      "explanation": "continuous flow during systole and diastole. The relevant concept is PDA Doppler timing: continuous flow during systole and diastole. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Patent Ductus Arteriosus (PDA)",
+        "Persistent Fetal Communications"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch05-q141",
+      "stem": "An examination stem describes this clinical setting: the interatrial septum is inspected in an adult. Which associated anatomic or physiologic feature should be recognized?",
+      "image": null,
+      "options": [
+        "moderator band",
+        "ligamentum arteriosum",
+        "ligamentum venosum",
+        "fossa ovalis"
+      ],
+      "answer": 3,
+      "explanation": "fossa ovalis. The relevant concept is foramen ovale anatomical remnant: fossa ovalis. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Patent Foramen Ovale & Atrial Septum",
+        "Persistent Fetal Communications"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch05-q142",
+      "stem": "An examination stem describes this clinical setting: a preterm baby has persistent ductal patency. Which associated anatomic or physiologic feature should be recognized?",
+      "image": null,
+      "options": [
+        "mature ductal muscle causes obligatory closure",
+        "pulmonary venous atresia causes PDA",
+        "a septal malalignment causes PDA",
+        "immature ductal smooth muscle impairs constriction"
+      ],
+      "answer": 3,
+      "explanation": "immature ductal smooth muscle impairs constriction. The relevant concept is PDA in a preterm infant: immature ductal smooth muscle impairs constriction. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Patent Ductus Arteriosus (PDA)",
+        "Persistent Fetal Communications"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch05-q143",
+      "stem": "An examination stem describes this clinical setting: a mobile atrial flap is visible on subcostal imaging. Which associated anatomic or physiologic feature should be recognized?",
+      "image": null,
+      "options": [
+        "failure of ventricular septation",
+        "complete absence of atrial septum",
+        "failure of septum primum and secundum fusion",
+        "an obligatory fixed septal hole"
+      ],
+      "answer": 2,
+      "explanation": "failure of septum primum and secundum fusion. The relevant concept is patent foramen ovale anatomy: failure of septum primum and secundum fusion. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Patent Foramen Ovale & Atrial Septum",
+        "Persistent Fetal Communications"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch05-q144",
+      "stem": "An examination stem describes this clinical setting: a neonatologist evaluates a baby born before 32 weeks. Which associated anatomic or physiologic feature should be recognized?",
+      "image": null,
+      "options": [
+        "post-term delivery",
+        "isolated bicuspid valve",
+        "prematurity",
+        "Turner syndrome"
+      ],
+      "answer": 2,
+      "explanation": "prematurity. The relevant concept is major PDA risk factor: prematurity. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Patent Ductus Arteriosus (PDA)",
+        "Persistent Fetal Communications"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch05-q145",
+      "stem": "An examination stem describes this clinical setting: agitated saline study demonstrates intermittent interatrial passage. Which associated anatomic or physiologic feature should be recognized?",
+      "image": null,
+      "options": [
+        "PFO is a flap-like potential opening rather than fixed septal deficiency",
+        "ASD is always intermittent",
+        "PFO is a ventricular defect",
+        "PFO always has absent septal tissue"
+      ],
+      "answer": 0,
+      "explanation": "PFO is a flap-like potential opening rather than fixed septal deficiency. The relevant concept is PFO versus true ASD: PFO is a flap-like potential opening rather than fixed septal deficiency. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Patent Foramen Ovale & Atrial Septum",
+        "Persistent Fetal Communications"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch05-q146",
+      "stem": "An examination stem describes this clinical setting: an infant establishes effective ventilation. Which associated anatomic or physiologic feature should be recognized?",
+      "image": null,
+      "options": [
+        "pulmonary venous return stops",
+        "pulmonary vascular resistance normally rises sharply",
+        "pulmonary vascular resistance normally decreases after lung expansion",
+        "left atrial pressure normally falls below right atrial pressure"
+      ],
+      "answer": 2,
+      "explanation": "pulmonary vascular resistance normally decreases after lung expansion. The relevant concept is postnatal pulmonary transition: pulmonary vascular resistance normally decreases after lung expansion. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Fetal Circulation & Transition",
+        "Persistent Fetal Communications"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch05-q147",
+      "stem": "An examination stem describes this clinical setting: a term infant has normal postnatal pulmonary vascular resistance. Which associated anatomic or physiologic feature should be recognized?",
+      "image": null,
+      "options": [
+        "left ventricle to right ventricle",
+        "pulmonary artery to aorta in all patients",
+        "right atrium to left atrium",
+        "aorta to pulmonary artery"
+      ],
+      "answer": 3,
+      "explanation": "aorta to pulmonary artery. The relevant concept is typical PDA shunt direction after birth: aorta to pulmonary artery. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Patent Ductus Arteriosus (PDA)",
+        "Persistent Fetal Communications"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch05-q148",
+      "stem": "An examination stem describes this clinical setting: an adult echocardiogram shows no residual ductal flow. Which associated anatomic or physiologic feature should be recognized?",
+      "image": null,
+      "options": [
+        "ligamentum arteriosum",
+        "ligamentum venosum",
+        "fossa ovalis",
+        "coronary sinus"
+      ],
+      "answer": 0,
+      "explanation": "ligamentum arteriosum. The relevant concept is PDA anatomical remnant: ligamentum arteriosum. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Patent Ductus Arteriosus (PDA)",
+        "Persistent Fetal Communications"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch05-q149",
+      "stem": "An examination stem describes this clinical setting: a neonate has high estimated right ventricular pressure. Which associated anatomic or physiologic feature should be recognized?",
+      "image": null,
+      "options": [
+        "absence of pulmonary venous return",
+        "complete loss of systemic vascular resistance",
+        "normal pulmonary resistance favors obligatory right-to-left flow",
+        "persistent high pulmonary resistance favors right-to-left fetal-channel shunting"
+      ],
+      "answer": 3,
+      "explanation": "persistent high pulmonary resistance favors right-to-left fetal-channel shunting. The relevant concept is PPHN circulation: persistent high pulmonary resistance favors right-to-left fetal-channel shunting. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Fetal Circulation & Transition",
+        "Persistent Fetal Communications"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch05-q150",
+      "stem": "An examination stem describes this clinical setting: a newborn remains hypoxemic despite aerated lungs. Which associated anatomic or physiologic feature should be recognized?",
+      "image": null,
+      "options": [
+        "reduced systemic vascular resistance",
+        "premature ductal closure",
+        "excessive pulmonary venous return",
+        "failure of pulmonary vascular resistance to fall"
+      ],
+      "answer": 3,
+      "explanation": "failure of pulmonary vascular resistance to fall. The relevant concept is persistent pulmonary hypertension of the newborn: failure of pulmonary vascular resistance to fall. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Fetal Circulation & Transition",
+        "Persistent Fetal Communications"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch05-q151",
+      "stem": "When assessing functional versus anatomical closure on echocardiography, which statement would be appropriate for the sonographer to report?",
+      "image": null,
+      "options": [
+        "the ductus never closes anatomically",
+        "anatomical closure precedes functional closure",
+        "both occur before birth",
+        "functional constriction precedes permanent anatomical closure"
+      ],
+      "answer": 3,
+      "explanation": "functional constriction precedes permanent anatomical closure. The relevant concept is functional versus anatomical closure: functional constriction precedes permanent anatomical closure. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Persistent Fetal Communications",
+        "Persistent Fetal Communications"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch05-q152",
+      "stem": "When assessing ductal dependence in critical CHD on echocardiography, which statement would be appropriate for the sonographer to report?",
+      "image": null,
+      "options": [
+        "ductal patency prevents any mixing",
+        "all ductal shunts must be closed immediately",
+        "a patent ductus may sustain pulmonary or systemic perfusion",
+        "PDA always causes cyanosis"
+      ],
+      "answer": 2,
+      "explanation": "a patent ductus may sustain pulmonary or systemic perfusion. The relevant concept is ductal dependence in critical CHD: a patent ductus may sustain pulmonary or systemic perfusion. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Patent Ductus Arteriosus (PDA)",
+        "Persistent Fetal Communications"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch05-q153",
+      "stem": "When assessing ductal-dependent systemic blood flow on echocardiography, which statement would be appropriate for the sonographer to report?",
+      "image": null,
+      "options": [
+        "indomethacin",
+        "acetaminophen",
+        "prostaglandin E1 infusion",
+        "ibuprofen"
+      ],
+      "answer": 2,
+      "explanation": "prostaglandin E1 infusion. The relevant concept is ductal-dependent systemic blood flow: prostaglandin E1 infusion. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Patent Ductus Arteriosus (PDA)",
+        "Persistent Fetal Communications"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch05-q154",
+      "stem": "When assessing PDA auscultation on echocardiography, which statement would be appropriate for the sonographer to report?",
+      "image": null,
+      "options": [
+        "mid-systolic click without murmur",
+        "isolated diastolic rumble at apex",
+        "continuous machinery-like murmur",
+        "fixed split second heart sound only"
+      ],
+      "answer": 2,
+      "explanation": "continuous machinery-like murmur. The relevant concept is PDA auscultation: continuous machinery-like murmur. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Patent Ductus Arteriosus (PDA)",
+        "Persistent Fetal Communications"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch05-q155",
+      "stem": "When assessing ductus venosus fetal function on echocardiography, which statement would be appropriate for the sonographer to report?",
+      "image": null,
+      "options": [
+        "bypasses the fetal liver",
+        "supplies the coronary arteries",
+        "bypasses the fetal lungs",
+        "connects the ventricles"
+      ],
+      "answer": 0,
+      "explanation": "bypasses the fetal liver. The relevant concept is ductus venosus fetal function: bypasses the fetal liver. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Fetal Circulation & Transition",
+        "Persistent Fetal Communications"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch05-q156",
+      "stem": "When assessing large PDA physiology on echocardiography, which statement would be appropriate for the sonographer to report?",
+      "image": null,
+      "options": [
+        "decreased pulmonary blood flow without shunt",
+        "isolated systemic venous obstruction",
+        "complete separation of pulmonary and systemic circuits",
+        "increased pulmonary blood flow and left-heart volume loading"
+      ],
+      "answer": 3,
+      "explanation": "increased pulmonary blood flow and left-heart volume loading. The relevant concept is large PDA physiology: increased pulmonary blood flow and left-heart volume loading. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Patent Ductus Arteriosus (PDA)",
+        "Persistent Fetal Communications"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch05-q157",
+      "stem": "When assessing patent ductus arteriosus anatomy on echocardiography, which statement would be appropriate for the sonographer to report?",
+      "image": null,
+      "options": [
+        "persistent connection between the atria",
+        "persistent connection between pulmonary artery and aorta",
+        "connection between vena cava and pulmonary vein",
+        "communication between the ventricles"
+      ],
+      "answer": 1,
+      "explanation": "persistent connection between pulmonary artery and aorta. The relevant concept is patent ductus arteriosus anatomy: persistent connection between pulmonary artery and aorta. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Patent Ductus Arteriosus (PDA)",
+        "Persistent Fetal Communications"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch05-q158",
+      "stem": "When assessing PDA closure stimulus on echocardiography, which statement would be appropriate for the sonographer to report?",
+      "image": null,
+      "options": [
+        "increased pulmonary vascular resistance",
+        "increased right atrial pressure",
+        "decreased oxygen tension and increased prostaglandins",
+        "increased oxygen tension and reduced prostaglandins"
+      ],
+      "answer": 3,
+      "explanation": "increased oxygen tension and reduced prostaglandins. The relevant concept is PDA closure stimulus: increased oxygen tension and reduced prostaglandins. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Patent Ductus Arteriosus (PDA)",
+        "Persistent Fetal Communications"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch05-q159",
+      "stem": "When assessing PFO paradoxical embolism on echocardiography, which statement would be appropriate for the sonographer to report?",
+      "image": null,
+      "options": [
+        "right-to-left passage of a venous embolus through the atrial communication",
+        "left ventricular hypertrophy",
+        "isolated left-to-right PDA flow",
+        "aortic valve stenosis"
+      ],
+      "answer": 0,
+      "explanation": "right-to-left passage of a venous embolus through the atrial communication. The relevant concept is PFO paradoxical embolism: right-to-left passage of a venous embolus through the atrial communication. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Patent Foramen Ovale & Atrial Septum",
+        "Persistent Fetal Communications"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch05-q160",
+      "stem": "When assessing functional closure of the foramen ovale on echocardiography, which statement would be appropriate for the sonographer to report?",
+      "image": null,
+      "options": [
+        "decreased systemic vascular resistance",
+        "increased pulmonary vascular resistance",
+        "left atrial pressure rising above right atrial pressure",
+        "reduced pulmonary venous return"
+      ],
+      "answer": 2,
+      "explanation": "left atrial pressure rising above right atrial pressure. The relevant concept is functional closure of the foramen ovale: left atrial pressure rising above right atrial pressure. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Patent Foramen Ovale & Atrial Septum",
+        "Persistent Fetal Communications"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch05-q161",
+      "stem": "When assessing PDA Doppler timing on echocardiography, which statement would be appropriate for the sonographer to report?",
+      "image": null,
+      "options": [
+        "continuous flow during systole and diastole",
+        "absence of flow in diastole",
+        "flow confined to systole",
+        "flow confined to atrial contraction"
+      ],
+      "answer": 0,
+      "explanation": "continuous flow during systole and diastole. The relevant concept is PDA Doppler timing: continuous flow during systole and diastole. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Patent Ductus Arteriosus (PDA)",
+        "Persistent Fetal Communications"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch05-q162",
+      "stem": "When assessing foramen ovale anatomical remnant on echocardiography, which statement would be appropriate for the sonographer to report?",
+      "image": null,
+      "options": [
+        "ligamentum arteriosum",
+        "ligamentum venosum",
+        "moderator band",
+        "fossa ovalis"
+      ],
+      "answer": 3,
+      "explanation": "fossa ovalis. The relevant concept is foramen ovale anatomical remnant: fossa ovalis. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Patent Foramen Ovale & Atrial Septum",
+        "Persistent Fetal Communications"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch05-q163",
+      "stem": "When assessing PDA in a preterm infant on echocardiography, which statement would be appropriate for the sonographer to report?",
+      "image": null,
+      "options": [
+        "pulmonary venous atresia causes PDA",
+        "immature ductal smooth muscle impairs constriction",
+        "mature ductal muscle causes obligatory closure",
+        "a septal malalignment causes PDA"
+      ],
+      "answer": 1,
+      "explanation": "immature ductal smooth muscle impairs constriction. The relevant concept is PDA in a preterm infant: immature ductal smooth muscle impairs constriction. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Patent Ductus Arteriosus (PDA)",
+        "Persistent Fetal Communications"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch05-q164",
+      "stem": "When assessing patent foramen ovale anatomy on echocardiography, which statement would be appropriate for the sonographer to report?",
+      "image": null,
+      "options": [
+        "complete absence of atrial septum",
+        "an obligatory fixed septal hole",
+        "failure of septum primum and secundum fusion",
+        "failure of ventricular septation"
+      ],
+      "answer": 2,
+      "explanation": "failure of septum primum and secundum fusion. The relevant concept is patent foramen ovale anatomy: failure of septum primum and secundum fusion. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Patent Foramen Ovale & Atrial Septum",
+        "Persistent Fetal Communications"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch05-q165",
+      "stem": "When assessing major PDA risk factor on echocardiography, which statement would be appropriate for the sonographer to report?",
+      "image": null,
+      "options": [
+        "post-term delivery",
+        "Turner syndrome",
+        "prematurity",
+        "isolated bicuspid valve"
+      ],
+      "answer": 2,
+      "explanation": "prematurity. The relevant concept is major PDA risk factor: prematurity. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Patent Ductus Arteriosus (PDA)",
+        "Persistent Fetal Communications"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch05-q166",
+      "stem": "When assessing PFO versus true ASD on echocardiography, which statement would be appropriate for the sonographer to report?",
+      "image": null,
+      "options": [
+        "PFO is a flap-like potential opening rather than fixed septal deficiency",
+        "PFO always has absent septal tissue",
+        "ASD is always intermittent",
+        "PFO is a ventricular defect"
+      ],
+      "answer": 0,
+      "explanation": "PFO is a flap-like potential opening rather than fixed septal deficiency. The relevant concept is PFO versus true ASD: PFO is a flap-like potential opening rather than fixed septal deficiency. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Patent Foramen Ovale & Atrial Septum",
+        "Persistent Fetal Communications"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch05-q167",
+      "stem": "When assessing postnatal pulmonary transition on echocardiography, which statement would be appropriate for the sonographer to report?",
+      "image": null,
+      "options": [
+        "pulmonary vascular resistance normally decreases after lung expansion",
+        "left atrial pressure normally falls below right atrial pressure",
+        "pulmonary vascular resistance normally rises sharply",
+        "pulmonary venous return stops"
+      ],
+      "answer": 0,
+      "explanation": "pulmonary vascular resistance normally decreases after lung expansion. The relevant concept is postnatal pulmonary transition: pulmonary vascular resistance normally decreases after lung expansion. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Fetal Circulation & Transition",
+        "Persistent Fetal Communications"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch05-q168",
+      "stem": "When assessing typical PDA shunt direction after birth on echocardiography, which statement would be appropriate for the sonographer to report?",
+      "image": null,
+      "options": [
+        "aorta to pulmonary artery",
+        "right atrium to left atrium",
+        "pulmonary artery to aorta in all patients",
+        "left ventricle to right ventricle"
+      ],
+      "answer": 0,
+      "explanation": "aorta to pulmonary artery. The relevant concept is typical PDA shunt direction after birth: aorta to pulmonary artery. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Patent Ductus Arteriosus (PDA)",
+        "Persistent Fetal Communications"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch05-q169",
+      "stem": "When assessing PDA anatomical remnant on echocardiography, which statement would be appropriate for the sonographer to report?",
+      "image": null,
+      "options": [
+        "coronary sinus",
+        "ligamentum venosum",
+        "fossa ovalis",
+        "ligamentum arteriosum"
+      ],
+      "answer": 3,
+      "explanation": "ligamentum arteriosum. The relevant concept is PDA anatomical remnant: ligamentum arteriosum. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Patent Ductus Arteriosus (PDA)",
+        "Persistent Fetal Communications"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch05-q170",
+      "stem": "When assessing PPHN circulation on echocardiography, which statement would be appropriate for the sonographer to report?",
+      "image": null,
+      "options": [
+        "persistent high pulmonary resistance favors right-to-left fetal-channel shunting",
+        "complete loss of systemic vascular resistance",
+        "absence of pulmonary venous return",
+        "normal pulmonary resistance favors obligatory right-to-left flow"
+      ],
+      "answer": 0,
+      "explanation": "persistent high pulmonary resistance favors right-to-left fetal-channel shunting. The relevant concept is PPHN circulation: persistent high pulmonary resistance favors right-to-left fetal-channel shunting. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Fetal Circulation & Transition",
+        "Persistent Fetal Communications"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch05-q171",
+      "stem": "When assessing persistent pulmonary hypertension of the newborn on echocardiography, which statement would be appropriate for the sonographer to report?",
+      "image": null,
+      "options": [
+        "excessive pulmonary venous return",
+        "reduced systemic vascular resistance",
+        "failure of pulmonary vascular resistance to fall",
+        "premature ductal closure"
+      ],
+      "answer": 2,
+      "explanation": "failure of pulmonary vascular resistance to fall. The relevant concept is persistent pulmonary hypertension of the newborn: failure of pulmonary vascular resistance to fall. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Fetal Circulation & Transition",
+        "Persistent Fetal Communications"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch05-q172",
+      "stem": "When assessing PDA chamber loading on echocardiography, which statement would be appropriate for the sonographer to report?",
+      "image": null,
+      "options": [
+        "isolated left ventricular pressure overload",
+        "left atrial and left ventricular volume overload",
+        "isolated right atrial pressure overload",
+        "isolated right ventricular pressure overload"
+      ],
+      "answer": 1,
+      "explanation": "left atrial and left ventricular volume overload. The relevant concept is PDA chamber loading: left atrial and left ventricular volume overload. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Patent Ductus Arteriosus (PDA)",
+        "Persistent Fetal Communications"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch05-q173",
+      "stem": "When assessing foramen ovale fetal function on echocardiography, which statement would be appropriate for the sonographer to report?",
+      "image": null,
+      "options": [
+        "directs aortic blood to pulmonary artery",
+        "directs right atrial blood to left atrium",
+        "directs left ventricular blood to right ventricle",
+        "returns pulmonary veins to right atrium"
+      ],
+      "answer": 1,
+      "explanation": "directs right atrial blood to left atrium. The relevant concept is foramen ovale fetal function: directs right atrial blood to left atrium. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Patent Foramen Ovale & Atrial Septum",
+        "Persistent Fetal Communications"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch05-q174",
+      "stem": "When assessing PFO shunt intermittency on echocardiography, which statement would be appropriate for the sonographer to report?",
+      "image": null,
+      "options": [
+        "a pressure-dependent flap may open intermittently",
+        "a fixed absent septum is always open",
+        "PFO is invariably left-to-right and continuous",
+        "the foramen connects aorta and pulmonary artery"
+      ],
+      "answer": 0,
+      "explanation": "a pressure-dependent flap may open intermittently. The relevant concept is PFO shunt intermittency: a pressure-dependent flap may open intermittently. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Patent Foramen Ovale & Atrial Septum",
+        "Persistent Fetal Communications"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch05-q175",
+      "stem": "When assessing origin of the ductus arteriosus on echocardiography, which statement would be appropriate for the sonographer to report?",
+      "image": null,
+      "options": [
+        "distal left sixth aortic arch",
+        "septum primum",
+        "ductus venosus",
+        "right fourth aortic arch"
+      ],
+      "answer": 0,
+      "explanation": "distal left sixth aortic arch. The relevant concept is origin of the ductus arteriosus: distal left sixth aortic arch. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Patent Ductus Arteriosus (PDA)",
+        "Persistent Fetal Communications"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch05-q176",
+      "stem": "A trainee is reviewing a patient in whom a fetal circulation diagram highlights the umbilical venous pathway. Which principle should guide interpretation of this finding?",
+      "image": null,
+      "options": [
+        "supplies the coronary arteries",
+        "bypasses the fetal lungs",
+        "connects the ventricles",
+        "bypasses the fetal liver"
+      ],
+      "answer": 3,
+      "explanation": "bypasses the fetal liver. The relevant concept is ductus venosus fetal function: bypasses the fetal liver. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Fetal Circulation & Transition",
+        "Persistent Fetal Communications"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch05-q177",
+      "stem": "A trainee is reviewing a patient in whom echo shows a wide ductus with substantial left-to-right flow. Which principle should guide interpretation of this finding?",
+      "image": null,
+      "options": [
+        "isolated systemic venous obstruction",
+        "increased pulmonary blood flow and left-heart volume loading",
+        "complete separation of pulmonary and systemic circuits",
+        "decreased pulmonary blood flow without shunt"
+      ],
+      "answer": 1,
+      "explanation": "increased pulmonary blood flow and left-heart volume loading. The relevant concept is large PDA physiology: increased pulmonary blood flow and left-heart volume loading. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Patent Ductus Arteriosus (PDA)",
+        "Persistent Fetal Communications"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch05-q178",
+      "stem": "A trainee is reviewing a patient in whom color Doppler detects a vessel near the descending aorta. Which principle should guide interpretation of this finding?",
+      "image": null,
+      "options": [
+        "persistent connection between pulmonary artery and aorta",
+        "communication between the ventricles",
+        "connection between vena cava and pulmonary vein",
+        "persistent connection between the atria"
+      ],
+      "answer": 0,
+      "explanation": "persistent connection between pulmonary artery and aorta. The relevant concept is patent ductus arteriosus anatomy: persistent connection between pulmonary artery and aorta. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Patent Ductus Arteriosus (PDA)",
+        "Persistent Fetal Communications"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch05-q179",
+      "stem": "A trainee is reviewing a patient in whom a healthy infant transitions from fetal circulation. Which principle should guide interpretation of this finding?",
+      "image": null,
+      "options": [
+        "increased oxygen tension and reduced prostaglandins",
+        "increased pulmonary vascular resistance",
+        "increased right atrial pressure",
+        "decreased oxygen tension and increased prostaglandins"
+      ],
+      "answer": 0,
+      "explanation": "increased oxygen tension and reduced prostaglandins. The relevant concept is PDA closure stimulus: increased oxygen tension and reduced prostaglandins. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Patent Ductus Arteriosus (PDA)",
+        "Persistent Fetal Communications"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch05-q180",
+      "stem": "A trainee is reviewing a patient in whom an adult has a transient increase in right atrial pressure. Which principle should guide interpretation of this finding?",
+      "image": null,
+      "options": [
+        "isolated left-to-right PDA flow",
+        "left ventricular hypertrophy",
+        "aortic valve stenosis",
+        "right-to-left passage of a venous embolus through the atrial communication"
+      ],
+      "answer": 3,
+      "explanation": "right-to-left passage of a venous embolus through the atrial communication. The relevant concept is PFO paradoxical embolism: right-to-left passage of a venous embolus through the atrial communication. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Patent Foramen Ovale & Atrial Septum",
+        "Persistent Fetal Communications"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch05-q181",
+      "stem": "A trainee is reviewing a patient in whom a term newborn takes the first breaths. Which principle should guide interpretation of this finding?",
+      "image": null,
+      "options": [
+        "left atrial pressure rising above right atrial pressure",
+        "decreased systemic vascular resistance",
+        "reduced pulmonary venous return",
+        "increased pulmonary vascular resistance"
+      ],
+      "answer": 0,
+      "explanation": "left atrial pressure rising above right atrial pressure. The relevant concept is functional closure of the foramen ovale: left atrial pressure rising above right atrial pressure. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Patent Foramen Ovale & Atrial Septum",
+        "Persistent Fetal Communications"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch05-q182",
+      "stem": "A trainee is reviewing a patient in whom continuous-wave Doppler samples a patent ductus. Which principle should guide interpretation of this finding?",
+      "image": null,
+      "options": [
+        "continuous flow during systole and diastole",
+        "flow confined to atrial contraction",
+        "absence of flow in diastole",
+        "flow confined to systole"
+      ],
+      "answer": 0,
+      "explanation": "continuous flow during systole and diastole. The relevant concept is PDA Doppler timing: continuous flow during systole and diastole. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Patent Ductus Arteriosus (PDA)",
+        "Persistent Fetal Communications"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch05-q183",
+      "stem": "A trainee is reviewing a patient in whom the interatrial septum is inspected in an adult. Which principle should guide interpretation of this finding?",
+      "image": null,
+      "options": [
+        "moderator band",
+        "ligamentum venosum",
+        "fossa ovalis",
+        "ligamentum arteriosum"
+      ],
+      "answer": 2,
+      "explanation": "fossa ovalis. The relevant concept is foramen ovale anatomical remnant: fossa ovalis. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Patent Foramen Ovale & Atrial Septum",
+        "Persistent Fetal Communications"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch05-q184",
+      "stem": "A trainee is reviewing a patient in whom a preterm baby has persistent ductal patency. Which principle should guide interpretation of this finding?",
+      "image": null,
+      "options": [
+        "pulmonary venous atresia causes PDA",
+        "a septal malalignment causes PDA",
+        "immature ductal smooth muscle impairs constriction",
+        "mature ductal muscle causes obligatory closure"
+      ],
+      "answer": 2,
+      "explanation": "immature ductal smooth muscle impairs constriction. The relevant concept is PDA in a preterm infant: immature ductal smooth muscle impairs constriction. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Patent Ductus Arteriosus (PDA)",
+        "Persistent Fetal Communications"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch05-q185",
+      "stem": "A trainee is reviewing a patient in whom a mobile atrial flap is visible on subcostal imaging. Which principle should guide interpretation of this finding?",
+      "image": null,
+      "options": [
+        "failure of septum primum and secundum fusion",
+        "an obligatory fixed septal hole",
+        "complete absence of atrial septum",
+        "failure of ventricular septation"
+      ],
+      "answer": 0,
+      "explanation": "failure of septum primum and secundum fusion. The relevant concept is patent foramen ovale anatomy: failure of septum primum and secundum fusion. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Patent Foramen Ovale & Atrial Septum",
+        "Persistent Fetal Communications"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch05-q186",
+      "stem": "A trainee is reviewing a patient in whom a neonatologist evaluates a baby born before 32 weeks. Which principle should guide interpretation of this finding?",
+      "image": null,
+      "options": [
+        "isolated bicuspid valve",
+        "prematurity",
+        "Turner syndrome",
+        "post-term delivery"
+      ],
+      "answer": 1,
+      "explanation": "prematurity. The relevant concept is major PDA risk factor: prematurity. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Patent Ductus Arteriosus (PDA)",
+        "Persistent Fetal Communications"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch05-q187",
+      "stem": "A trainee is reviewing a patient in whom agitated saline study demonstrates intermittent interatrial passage. Which principle should guide interpretation of this finding?",
+      "image": null,
+      "options": [
+        "PFO always has absent septal tissue",
+        "PFO is a ventricular defect",
+        "ASD is always intermittent",
+        "PFO is a flap-like potential opening rather than fixed septal deficiency"
+      ],
+      "answer": 3,
+      "explanation": "PFO is a flap-like potential opening rather than fixed septal deficiency. The relevant concept is PFO versus true ASD: PFO is a flap-like potential opening rather than fixed septal deficiency. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Patent Foramen Ovale & Atrial Septum",
+        "Persistent Fetal Communications"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch05-q188",
+      "stem": "A trainee is reviewing a patient in whom an infant establishes effective ventilation. Which principle should guide interpretation of this finding?",
+      "image": null,
+      "options": [
+        "pulmonary venous return stops",
+        "left atrial pressure normally falls below right atrial pressure",
+        "pulmonary vascular resistance normally decreases after lung expansion",
+        "pulmonary vascular resistance normally rises sharply"
+      ],
+      "answer": 2,
+      "explanation": "pulmonary vascular resistance normally decreases after lung expansion. The relevant concept is postnatal pulmonary transition: pulmonary vascular resistance normally decreases after lung expansion. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Fetal Circulation & Transition",
+        "Persistent Fetal Communications"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch05-q189",
+      "stem": "A trainee is reviewing a patient in whom a term infant has normal postnatal pulmonary vascular resistance. Which principle should guide interpretation of this finding?",
+      "image": null,
+      "options": [
+        "left ventricle to right ventricle",
+        "pulmonary artery to aorta in all patients",
+        "aorta to pulmonary artery",
+        "right atrium to left atrium"
+      ],
+      "answer": 2,
+      "explanation": "aorta to pulmonary artery. The relevant concept is typical PDA shunt direction after birth: aorta to pulmonary artery. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Patent Ductus Arteriosus (PDA)",
+        "Persistent Fetal Communications"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch05-q190",
+      "stem": "A trainee is reviewing a patient in whom an adult echocardiogram shows no residual ductal flow. Which principle should guide interpretation of this finding?",
+      "image": null,
+      "options": [
+        "ligamentum venosum",
+        "fossa ovalis",
+        "ligamentum arteriosum",
+        "coronary sinus"
+      ],
+      "answer": 2,
+      "explanation": "ligamentum arteriosum. The relevant concept is PDA anatomical remnant: ligamentum arteriosum. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Patent Ductus Arteriosus (PDA)",
+        "Persistent Fetal Communications"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch05-q191",
+      "stem": "A trainee is reviewing a patient in whom a neonate has high estimated right ventricular pressure. Which principle should guide interpretation of this finding?",
+      "image": null,
+      "options": [
+        "complete loss of systemic vascular resistance",
+        "absence of pulmonary venous return",
+        "persistent high pulmonary resistance favors right-to-left fetal-channel shunting",
+        "normal pulmonary resistance favors obligatory right-to-left flow"
+      ],
+      "answer": 2,
+      "explanation": "persistent high pulmonary resistance favors right-to-left fetal-channel shunting. The relevant concept is PPHN circulation: persistent high pulmonary resistance favors right-to-left fetal-channel shunting. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Fetal Circulation & Transition",
+        "Persistent Fetal Communications"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch05-q192",
+      "stem": "A trainee is reviewing a patient in whom a newborn remains hypoxemic despite aerated lungs. Which principle should guide interpretation of this finding?",
+      "image": null,
+      "options": [
+        "reduced systemic vascular resistance",
+        "premature ductal closure",
+        "failure of pulmonary vascular resistance to fall",
+        "excessive pulmonary venous return"
+      ],
+      "answer": 2,
+      "explanation": "failure of pulmonary vascular resistance to fall. The relevant concept is persistent pulmonary hypertension of the newborn: failure of pulmonary vascular resistance to fall. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Fetal Circulation & Transition",
+        "Persistent Fetal Communications"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch05-q193",
+      "stem": "A trainee is reviewing a patient in whom a large left-to-right ductal shunt persists. Which principle should guide interpretation of this finding?",
+      "image": null,
+      "options": [
+        "isolated left ventricular pressure overload",
+        "isolated right atrial pressure overload",
+        "isolated right ventricular pressure overload",
+        "left atrial and left ventricular volume overload"
+      ],
+      "answer": 3,
+      "explanation": "left atrial and left ventricular volume overload. The relevant concept is PDA chamber loading: left atrial and left ventricular volume overload. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Patent Ductus Arteriosus (PDA)",
+        "Persistent Fetal Communications"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch05-q194",
+      "stem": "A trainee is reviewing a patient in whom a fetal four-chamber view demonstrates interatrial streaming. Which principle should guide interpretation of this finding?",
+      "image": null,
+      "options": [
+        "directs left ventricular blood to right ventricle",
+        "directs aortic blood to pulmonary artery",
+        "directs right atrial blood to left atrium",
+        "returns pulmonary veins to right atrium"
+      ],
+      "answer": 2,
+      "explanation": "directs right atrial blood to left atrium. The relevant concept is foramen ovale fetal function: directs right atrial blood to left atrium. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Patent Foramen Ovale & Atrial Septum",
+        "Persistent Fetal Communications"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch05-q195",
+      "stem": "A trainee is reviewing a patient in whom Valsalva transiently changes interatrial pressure. Which principle should guide interpretation of this finding?",
+      "image": null,
+      "options": [
+        "the foramen connects aorta and pulmonary artery",
+        "PFO is invariably left-to-right and continuous",
+        "a pressure-dependent flap may open intermittently",
+        "a fixed absent septum is always open"
+      ],
+      "answer": 2,
+      "explanation": "a pressure-dependent flap may open intermittently. The relevant concept is PFO shunt intermittency: a pressure-dependent flap may open intermittently. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Patent Foramen Ovale & Atrial Septum",
+        "Persistent Fetal Communications"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch05-q196",
+      "stem": "A trainee is reviewing a patient in whom an embryology review asks about the fetal pulmonary bypass. Which principle should guide interpretation of this finding?",
+      "image": null,
+      "options": [
+        "septum primum",
+        "distal left sixth aortic arch",
+        "right fourth aortic arch",
+        "ductus venosus"
+      ],
+      "answer": 1,
+      "explanation": "distal left sixth aortic arch. The relevant concept is origin of the ductus arteriosus: distal left sixth aortic arch. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Patent Ductus Arteriosus (PDA)",
+        "Persistent Fetal Communications"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch05-q197",
+      "stem": "A trainee is reviewing a patient in whom the examiner reviews the normal postnatal ductal transition. Which principle should guide interpretation of this finding?",
+      "image": null,
+      "options": [
+        "the ductus never closes anatomically",
+        "functional constriction precedes permanent anatomical closure",
+        "anatomical closure precedes functional closure",
+        "both occur before birth"
+      ],
+      "answer": 1,
+      "explanation": "functional constriction precedes permanent anatomical closure. The relevant concept is functional versus anatomical closure: functional constriction precedes permanent anatomical closure. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Patent Ductus Arteriosus (PDA)",
+        "Persistent Fetal Communications"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch05-q198",
+      "stem": "A trainee is reviewing a patient in whom a newborn with critical outflow obstruction deteriorates after birth. Which principle should guide interpretation of this finding?",
+      "image": null,
+      "options": [
+        "all ductal shunts must be closed immediately",
+        "ductal patency prevents any mixing",
+        "PDA always causes cyanosis",
+        "a patent ductus may sustain pulmonary or systemic perfusion"
+      ],
+      "answer": 3,
+      "explanation": "a patent ductus may sustain pulmonary or systemic perfusion. The relevant concept is ductal dependence in critical CHD: a patent ductus may sustain pulmonary or systemic perfusion. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Patent Ductus Arteriosus (PDA)",
+        "Persistent Fetal Communications"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch05-q199",
+      "stem": "A trainee is reviewing a patient in whom a cyanotic newborn becomes hypotensive as the ductus constricts. Which principle should guide interpretation of this finding?",
+      "image": null,
+      "options": [
+        "indomethacin",
+        "ibuprofen",
+        "prostaglandin E1 infusion",
+        "acetaminophen"
+      ],
+      "answer": 2,
+      "explanation": "prostaglandin E1 infusion. The relevant concept is ductal-dependent systemic blood flow: prostaglandin E1 infusion. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Patent Ductus Arteriosus (PDA)",
+        "Persistent Fetal Communications"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch05-q200",
+      "stem": "A trainee is reviewing a patient in whom a premature infant has a persistent ductus. Which principle should guide interpretation of this finding?",
+      "image": null,
+      "options": [
+        "fixed split second heart sound only",
+        "mid-systolic click without murmur",
+        "continuous machinery-like murmur",
+        "isolated diastolic rumble at apex"
+      ],
+      "answer": 2,
+      "explanation": "continuous machinery-like murmur. The relevant concept is PDA auscultation: continuous machinery-like murmur. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Patent Ductus Arteriosus (PDA)",
+        "Persistent Fetal Communications"
+      ],
+      "reference": ""
+    }
+  ]
+}

@@ -23,6 +23,26 @@
       "id": "ch04",
       "title": "Coarctation of the Aorta",
       "file": "ch04.json"
+    },
+    {
+      "id": "ch05",
+      "title": "Persistent Fetal Communications",
+      "file": "ch05.json"
+    },
+    {
+      "id": "ch06",
+      "title": "Conotruncal Defects",
+      "file": "ch06.json"
+    },
+    {
+      "id": "ch07",
+      "title": "Obstructive Congenital Heart Disease",
+      "file": "ch07.json"
+    },
+    {
+      "id": "ch08",
+      "title": "Complex Congenital Heart Disease",
+      "file": "ch08.json"
     }
   ]
 }

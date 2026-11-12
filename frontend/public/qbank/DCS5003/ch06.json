@@ -1,0 +1,3806 @@
+{
+  "chapterId": "ch06",
+  "title": "Conotruncal Defects",
+  "questions": [
+    {
+      "id": "DCS5003-ch06-q001",
+      "stem": "An infant is diagnosed with tetralogy of Fallot. Which anatomical abnormality is primarily responsible for the obstruction of right ventricular outflow?",
+      "image": null,
+      "options": [
+        "Apical displacement of the tricuspid valve",
+        "Failure of the endocardial cushions to fuse",
+        "Abnormal drainage of the pulmonary veins",
+        "Anterosuperior displacement of the infundibular septum"
+      ],
+      "answer": 3,
+      "explanation": "Anterosuperior displacement of the infundibular septum. Included practice-test question (original wording; duplicate PDF copies counted once).",
+      "explanationImage": null,
+      "tags": [
+        "Tetralogy of Fallot (TOF)",
+        "Conotruncal Defects"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch06-q002",
+      "stem": "A newborn has complete transposition of the great arteries. Which additional defect would allow mixing between the pulmonary and systemic circulations?",
+      "image": null,
+      "options": [
+        "A ventricular septal defect",
+        "Isolated pulmonary valve stenosis",
+        "Isolated coarctation of the aorta",
+        "Aortic valve atresia"
+      ],
+      "answer": 0,
+      "explanation": "A ventricular septal defect. Included practice-test question (original wording; duplicate PDF copies counted once).",
+      "explanationImage": null,
+      "tags": [
+        "Transposition of the Great Arteries (D-TGA)",
+        "Conotruncal Defects"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch06-q003",
+      "stem": "Persistent truncus arteriosus is characterized by which anatomical finding?",
+      "image": null,
+      "options": [
+        "Two separate great arteries arising from the right ventricle",
+        "A pulmonary artery arising from the right ventricle and an aorta arising from the left ventricle",
+        "A single arterial trunk supplying both systemic and pulmonary circulations",
+        "Complete absence of the interventricular septum"
+      ],
+      "answer": 2,
+      "explanation": "A single arterial trunk supplying both systemic and pulmonary circulations. Included practice-test question (original wording; duplicate PDF copies counted once).",
+      "explanationImage": null,
+      "tags": [
+        "Truncus Arteriosus & Neural Crest",
+        "Conotruncal Defects"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch06-q004",
+      "stem": "Which embryological cell population plays an important role in the formation and separation of the aortic and pulmonary outflow tracts?",
+      "image": null,
+      "options": [
+        "Endocardial cushion cells",
+        "Cardiac neural crest cells",
+        "Sinus venosus cells",
+        "Septum primum cells"
+      ],
+      "answer": 1,
+      "explanation": "Cardiac neural crest cells. Included practice-test question (original wording; duplicate PDF copies counted once).",
+      "explanationImage": null,
+      "tags": [
+        "Truncus Arteriosus & Neural Crest",
+        "Conotruncal Defects"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch06-q005",
+      "stem": "During an adult/pediatric echocardiography board-style review, the sonographer is asked to identify the key feature of cardiac neural crest contribution. Which answer is BEST?",
+      "image": null,
+      "options": [
+        "formation of the atrial appendages only",
+        "formation of the aorticopulmonary septum",
+        "formation of the ductus venosus",
+        "formation of the coronary sinus only"
+      ],
+      "answer": 1,
+      "explanation": "formation of the aorticopulmonary septum. Cardiac neural crest contribution: formation of the aorticopulmonary septum. Lecture-derived review item.",
+      "explanationImage": null,
+      "tags": [
+        "Truncus Arteriosus & Neural Crest",
+        "Conotruncal Defects"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch06-q006",
+      "stem": "During an adult/pediatric echocardiography board-style review, the sonographer is asked to identify the key feature of conotruncal syndrome association. Which answer is BEST?",
+      "image": null,
+      "options": [
+        "22q11 deletion (DiGeorge syndrome)",
+        "Marfan syndrome",
+        "trisomy 21 exclusively",
+        "Turner syndrome"
+      ],
+      "answer": 0,
+      "explanation": "22q11 deletion (DiGeorge syndrome). Conotruncal syndrome association: 22q11 deletion (DiGeorge syndrome). Lecture-derived review item.",
+      "explanationImage": null,
+      "tags": [
+        "Truncus Arteriosus & Neural Crest",
+        "Conotruncal Defects"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch06-q007",
+      "stem": "During an adult/pediatric echocardiography board-style review, the sonographer is asked to identify the key feature of tetralogy of Fallot embryology. Which answer is BEST?",
+      "image": null,
+      "options": [
+        "absence of the septum primum",
+        "failure of pulmonary venous incorporation",
+        "anterosuperior deviation of the infundibular septum",
+        "apical displacement of the tricuspid valve"
+      ],
+      "answer": 2,
+      "explanation": "anterosuperior deviation of the infundibular septum. Tetralogy of fallot embryology: anterosuperior deviation of the infundibular septum. Lecture-derived review item.",
+      "explanationImage": null,
+      "tags": [
+        "Tetralogy of Fallot (TOF)",
+        "Conotruncal Defects"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch06-q008",
+      "stem": "During an adult/pediatric echocardiography board-style review, the sonographer is asked to identify the key feature of tetralogy of Fallot components. Which answer is BEST?",
+      "image": null,
+      "options": [
+        "TGA, TAPVC, VSD and ASD",
+        "VSD, overriding aorta, RV outflow obstruction and RV hypertrophy",
+        "ASD, PDA, coarctation and mitral stenosis",
+        "tricuspid atresia, ASD, PDA and HLHS"
+      ],
+      "answer": 1,
+      "explanation": "VSD, overriding aorta, RV outflow obstruction and RV hypertrophy. Tetralogy of fallot components: VSD, overriding aorta, RV outflow obstruction and RV hypertrophy. Lecture-derived review item.",
+      "explanationImage": null,
+      "tags": [
+        "Tetralogy of Fallot (TOF)",
+        "Conotruncal Defects"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch06-q009",
+      "stem": "An infant with TOF develops worsening cyanosis. Which finding or explanation is MOST consistent with TOF cyanosis mechanism?",
+      "image": null,
+      "options": [
+        "pulmonary venous return to the left atrium",
+        "right-to-left flow across the VSD with severe RV outflow obstruction",
+        "unobstructed pulmonary blood flow",
+        "isolated left-to-right atrial shunting"
+      ],
+      "answer": 1,
+      "explanation": "right-to-left flow across the VSD with severe RV outflow obstruction. Tof cyanosis mechanism: right-to-left flow across the VSD with severe RV outflow obstruction. Lecture-derived review item.",
+      "explanationImage": null,
+      "tags": [
+        "Tetralogy of Fallot (TOF)",
+        "Conotruncal Defects"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch06-q010",
+      "stem": "During an adult/pediatric echocardiography board-style review, the sonographer is asked to identify the key feature of TOF cyanosis mechanism. Which answer is BEST?",
+      "image": null,
+      "options": [
+        "isolated left-to-right atrial shunting",
+        "pulmonary venous return to the left atrium",
+        "unobstructed pulmonary blood flow",
+        "right-to-left flow across the VSD with severe RV outflow obstruction"
+      ],
+      "answer": 3,
+      "explanation": "right-to-left flow across the VSD with severe RV outflow obstruction. Tof cyanosis mechanism: right-to-left flow across the VSD with severe RV outflow obstruction. Lecture-derived review item.",
+      "explanationImage": null,
+      "tags": [
+        "Tetralogy of Fallot (TOF)",
+        "Conotruncal Defects"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch06-q011",
+      "stem": "Parasternal long-axis imaging shows aortic root over the septum. Which finding or explanation is MOST consistent with TOF overriding aorta?",
+      "image": null,
+      "options": [
+        "pulmonary artery arises from left atrium",
+        "aorta is interrupted distal to left subclavian artery",
+        "aorta arises solely from the right atrium",
+        "aorta straddles the ventricular septal defect"
+      ],
+      "answer": 3,
+      "explanation": "aorta straddles the ventricular septal defect. Tof overriding aorta: aorta straddles the ventricular septal defect. Lecture-derived review item.",
+      "explanationImage": null,
+      "tags": [
+        "Tetralogy of Fallot (TOF)",
+        "Conotruncal Defects"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch06-q012",
+      "stem": "During an adult/pediatric echocardiography board-style review, the sonographer is asked to identify the key feature of TOF overriding aorta. Which answer is BEST?",
+      "image": null,
+      "options": [
+        "aorta arises solely from the right atrium",
+        "pulmonary artery arises from left atrium",
+        "aorta straddles the ventricular septal defect",
+        "aorta is interrupted distal to left subclavian artery"
+      ],
+      "answer": 2,
+      "explanation": "aorta straddles the ventricular septal defect. Tof overriding aorta: aorta straddles the ventricular septal defect. Lecture-derived review item.",
+      "explanationImage": null,
+      "tags": [
+        "Tetralogy of Fallot (TOF)",
+        "Conotruncal Defects"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch06-q013",
+      "stem": "A child has longstanding severe pulmonary stenosis in TOF. Which finding or explanation is MOST consistent with TOF right ventricular hypertrophy?",
+      "image": null,
+      "options": [
+        "mitral regurgitation",
+        "pulmonary venous obstruction",
+        "pressure loading from RV outflow obstruction",
+        "isolated LV volume overload"
+      ],
+      "answer": 2,
+      "explanation": "pressure loading from RV outflow obstruction. Tof right ventricular hypertrophy: pressure loading from RV outflow obstruction. Lecture-derived review item.",
+      "explanationImage": null,
+      "tags": [
+        "Tetralogy of Fallot (TOF)",
+        "Conotruncal Defects"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch06-q014",
+      "stem": "During an adult/pediatric echocardiography board-style review, the sonographer is asked to identify the key feature of TOF right ventricular hypertrophy. Which answer is BEST?",
+      "image": null,
+      "options": [
+        "isolated LV volume overload",
+        "mitral regurgitation",
+        "pulmonary venous obstruction",
+        "pressure loading from RV outflow obstruction"
+      ],
+      "answer": 3,
+      "explanation": "pressure loading from RV outflow obstruction. Tof right ventricular hypertrophy: pressure loading from RV outflow obstruction. Lecture-derived review item.",
+      "explanationImage": null,
+      "tags": [
+        "Tetralogy of Fallot (TOF)",
+        "Conotruncal Defects"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch06-q015",
+      "stem": "Echo demonstrates ventriculoarterial discordance. Which finding or explanation is MOST consistent with D-transposition great artery connections?",
+      "image": null,
+      "options": [
+        "aorta from RV and pulmonary artery from LV",
+        "single common arterial trunk",
+        "both great arteries from LV",
+        "aorta from LV and pulmonary artery from RV"
+      ],
+      "answer": 0,
+      "explanation": "aorta from RV and pulmonary artery from LV. D-transposition great artery connections: aorta from RV and pulmonary artery from LV. Lecture-derived review item.",
+      "explanationImage": null,
+      "tags": [
+        "Transposition of the Great Arteries (D-TGA)",
+        "Conotruncal Defects"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch06-q016",
+      "stem": "During an adult/pediatric echocardiography board-style review, the sonographer is asked to identify the key feature of D-transposition great artery connections. Which answer is BEST?",
+      "image": null,
+      "options": [
+        "aorta from LV and pulmonary artery from RV",
+        "aorta from RV and pulmonary artery from LV",
+        "both great arteries from LV",
+        "single common arterial trunk"
+      ],
+      "answer": 1,
+      "explanation": "aorta from RV and pulmonary artery from LV. D-transposition great artery connections: aorta from RV and pulmonary artery from LV. Lecture-derived review item.",
+      "explanationImage": null,
+      "tags": [
+        "Transposition of the Great Arteries (D-TGA)",
+        "Conotruncal Defects"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch06-q017",
+      "stem": "A newborn with D-TGA has severe early cyanosis. Which finding or explanation is MOST consistent with D-TGA circulation?",
+      "image": null,
+      "options": [
+        "single common trunk without septation",
+        "parallel systemic and pulmonary circulations",
+        "normal series circulation",
+        "isolated left-to-right ductal shunt"
+      ],
+      "answer": 1,
+      "explanation": "parallel systemic and pulmonary circulations. D-tga circulation: parallel systemic and pulmonary circulations. Lecture-derived review item.",
+      "explanationImage": null,
+      "tags": [
+        "Transposition of the Great Arteries (D-TGA)",
+        "Conotruncal Defects"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch06-q018",
+      "stem": "During an adult/pediatric echocardiography board-style review, the sonographer is asked to identify the key feature of D-TGA circulation. Which answer is BEST?",
+      "image": null,
+      "options": [
+        "parallel systemic and pulmonary circulations",
+        "isolated left-to-right ductal shunt",
+        "single common trunk without septation",
+        "normal series circulation"
+      ],
+      "answer": 0,
+      "explanation": "parallel systemic and pulmonary circulations. D-tga circulation: parallel systemic and pulmonary circulations. Lecture-derived review item.",
+      "explanationImage": null,
+      "tags": [
+        "Transposition of the Great Arteries (D-TGA)",
+        "Conotruncal Defects"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch06-q019",
+      "stem": "A newborn with transposition survives because a communication permits mixing. Which finding or explanation is MOST consistent with D-TGA survival mechanism?",
+      "image": null,
+      "options": [
+        "mixing through ASD, VSD or PDA",
+        "isolated pulmonary valve stenosis",
+        "complete closure of all fetal shunts",
+        "complete interruption of pulmonary venous return"
+      ],
+      "answer": 0,
+      "explanation": "mixing through ASD, VSD or PDA. D-tga survival mechanism: mixing through ASD, VSD or PDA. Lecture-derived review item.",
+      "explanationImage": null,
+      "tags": [
+        "Transposition of the Great Arteries (D-TGA)",
+        "Conotruncal Defects"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch06-q020",
+      "stem": "During an adult/pediatric echocardiography board-style review, the sonographer is asked to identify the key feature of D-TGA survival mechanism. Which answer is BEST?",
+      "image": null,
+      "options": [
+        "mixing through ASD, VSD or PDA",
+        "complete closure of all fetal shunts",
+        "complete interruption of pulmonary venous return",
+        "isolated pulmonary valve stenosis"
+      ],
+      "answer": 0,
+      "explanation": "mixing through ASD, VSD or PDA. D-tga survival mechanism: mixing through ASD, VSD or PDA. Lecture-derived review item.",
+      "explanationImage": null,
+      "tags": [
+        "Transposition of the Great Arteries (D-TGA)",
+        "Conotruncal Defects"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch06-q021",
+      "stem": "The examiner compares normal outflow development with TGA. Which finding or explanation is MOST consistent with conotruncal septal spiraling?",
+      "image": null,
+      "options": [
+        "septation occurs only at the atrial level",
+        "absent septation produces isolated ASD",
+        "normal spiral septation creates crossing great arteries",
+        "straight septation produces normal crossing"
+      ],
+      "answer": 2,
+      "explanation": "normal spiral septation creates crossing great arteries. Conotruncal septal spiraling: normal spiral septation creates crossing great arteries. Lecture-derived review item.",
+      "explanationImage": null,
+      "tags": [
+        "Transposition of the Great Arteries (D-TGA)",
+        "Conotruncal Defects"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch06-q022",
+      "stem": "During an adult/pediatric echocardiography board-style review, the sonographer is asked to identify the key feature of conotruncal septal spiraling. Which answer is BEST?",
+      "image": null,
+      "options": [
+        "absent septation produces isolated ASD",
+        "septation occurs only at the atrial level",
+        "normal spiral septation creates crossing great arteries",
+        "straight septation produces normal crossing"
+      ],
+      "answer": 2,
+      "explanation": "normal spiral septation creates crossing great arteries. Conotruncal septal spiraling: normal spiral septation creates crossing great arteries. Lecture-derived review item.",
+      "explanationImage": null,
+      "tags": [
+        "Conotruncal Defects",
+        "Conotruncal Defects"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch06-q023",
+      "stem": "A developmental diagram shows parallel great arteries. Which finding or explanation is MOST consistent with TGA developmental mechanism?",
+      "image": null,
+      "options": [
+        "failure of normal aorticopulmonary septal spiraling",
+        "isolated failure of atrial flap fusion",
+        "premature ductal closure",
+        "excessive tricuspid leaflet displacement"
+      ],
+      "answer": 0,
+      "explanation": "failure of normal aorticopulmonary septal spiraling. Tga developmental mechanism: failure of normal aorticopulmonary septal spiraling. Lecture-derived review item.",
+      "explanationImage": null,
+      "tags": [
+        "Transposition of the Great Arteries (D-TGA)",
+        "Conotruncal Defects"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch06-q024",
+      "stem": "During an adult/pediatric echocardiography board-style review, the sonographer is asked to identify the key feature of TGA developmental mechanism. Which answer is BEST?",
+      "image": null,
+      "options": [
+        "failure of normal aorticopulmonary septal spiraling",
+        "premature ductal closure",
+        "excessive tricuspid leaflet displacement",
+        "isolated failure of atrial flap fusion"
+      ],
+      "answer": 0,
+      "explanation": "failure of normal aorticopulmonary septal spiraling. Tga developmental mechanism: failure of normal aorticopulmonary septal spiraling. Lecture-derived review item.",
+      "explanationImage": null,
+      "tags": [
+        "Transposition of the Great Arteries (D-TGA)",
+        "Conotruncal Defects"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch06-q025",
+      "stem": "Echo identifies a single arterial outlet. Which finding or explanation is MOST consistent with persistent truncus arteriosus?",
+      "image": null,
+      "options": [
+        "one arterial trunk supplies systemic and pulmonary circulations",
+        "aorta arises from left atrium",
+        "pulmonary veins drain to coronary sinus",
+        "two normal separate great arteries"
+      ],
+      "answer": 0,
+      "explanation": "one arterial trunk supplies systemic and pulmonary circulations. Persistent truncus arteriosus: one arterial trunk supplies systemic and pulmonary circulations. Lecture-derived review item.",
+      "explanationImage": null,
+      "tags": [
+        "Truncus Arteriosus & Neural Crest",
+        "Conotruncal Defects"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch06-q026",
+      "stem": "During an adult/pediatric echocardiography board-style review, the sonographer is asked to identify the key feature of persistent truncus arteriosus. Which answer is BEST?",
+      "image": null,
+      "options": [
+        "one arterial trunk supplies systemic and pulmonary circulations",
+        "aorta arises from left atrium",
+        "two normal separate great arteries",
+        "pulmonary veins drain to coronary sinus"
+      ],
+      "answer": 0,
+      "explanation": "one arterial trunk supplies systemic and pulmonary circulations. Persistent truncus arteriosus: one arterial trunk supplies systemic and pulmonary circulations. Lecture-derived review item.",
+      "explanationImage": null,
+      "tags": [
+        "Truncus Arteriosus & Neural Crest",
+        "Conotruncal Defects"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch06-q027",
+      "stem": "An infant has a common arterial trunk and VSD. Which finding or explanation is MOST consistent with truncus arteriosus septation defect?",
+      "image": null,
+      "options": [
+        "premature fusion of tricuspid valve",
+        "failure to separate the embryonic truncus into two great arteries",
+        "isolated narrowing of aortic isthmus",
+        "isolated malformation of septum primum"
+      ],
+      "answer": 1,
+      "explanation": "failure to separate the embryonic truncus into two great arteries. Truncus arteriosus septation defect: failure to separate the embryonic truncus into two great arteries. Lecture-derived review item.",
+      "explanationImage": null,
+      "tags": [
+        "Truncus Arteriosus & Neural Crest",
+        "Conotruncal Defects"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch06-q028",
+      "stem": "During an adult/pediatric echocardiography board-style review, the sonographer is asked to identify the key feature of truncus arteriosus septation defect. Which answer is BEST?",
+      "image": null,
+      "options": [
+        "isolated malformation of septum primum",
+        "isolated narrowing of aortic isthmus",
+        "premature fusion of tricuspid valve",
+        "failure to separate the embryonic truncus into two great arteries"
+      ],
+      "answer": 3,
+      "explanation": "failure to separate the embryonic truncus into two great arteries. Truncus arteriosus septation defect: failure to separate the embryonic truncus into two great arteries. Lecture-derived review item.",
+      "explanationImage": null,
+      "tags": [
+        "Truncus Arteriosus & Neural Crest",
+        "Conotruncal Defects"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch06-q029",
+      "stem": "A neonate has a single common arterial trunk. Which finding or explanation is MOST consistent with truncus arteriosus blood mixing?",
+      "image": null,
+      "options": [
+        "circulations remain completely separate",
+        "oxygenated and deoxygenated blood mix within a common outflow",
+        "pulmonary venous return is absent",
+        "there is no ventricular-level mixing"
+      ],
+      "answer": 1,
+      "explanation": "oxygenated and deoxygenated blood mix within a common outflow. Truncus arteriosus blood mixing: oxygenated and deoxygenated blood mix within a common outflow. Lecture-derived review item.",
+      "explanationImage": null,
+      "tags": [
+        "Truncus Arteriosus & Neural Crest",
+        "Conotruncal Defects"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch06-q030",
+      "stem": "During an adult/pediatric echocardiography board-style review, the sonographer is asked to identify the key feature of truncus arteriosus blood mixing. Which answer is BEST?",
+      "image": null,
+      "options": [
+        "oxygenated and deoxygenated blood mix within a common outflow",
+        "pulmonary venous return is absent",
+        "there is no ventricular-level mixing",
+        "circulations remain completely separate"
+      ],
+      "answer": 0,
+      "explanation": "oxygenated and deoxygenated blood mix within a common outflow. Truncus arteriosus blood mixing: oxygenated and deoxygenated blood mix within a common outflow. Lecture-derived review item.",
+      "explanationImage": null,
+      "tags": [
+        "Truncus Arteriosus & Neural Crest",
+        "Conotruncal Defects"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch06-q031",
+      "stem": "Echo shows both arterial roots connected to the RV. Which finding or explanation is MOST consistent with double outlet right ventricle?",
+      "image": null,
+      "options": [
+        "aorta and pulmonary artery arise from their normal ventricles",
+        "both great arteries arise from left ventricle",
+        "one trunk exits the left atrium",
+        "both great arteries arise predominantly from the right ventricle"
+      ],
+      "answer": 3,
+      "explanation": "both great arteries arise predominantly from the right ventricle. Double outlet right ventricle: both great arteries arise predominantly from the right ventricle. Lecture-derived review item.",
+      "explanationImage": null,
+      "tags": [
+        "Double Outlet Right Ventricle (DORV)",
+        "Conotruncal Defects"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch06-q032",
+      "stem": "During an adult/pediatric echocardiography board-style review, the sonographer is asked to identify the key feature of double outlet right ventricle. Which answer is BEST?",
+      "image": null,
+      "options": [
+        "one trunk exits the left atrium",
+        "aorta and pulmonary artery arise from their normal ventricles",
+        "both great arteries arise predominantly from the right ventricle",
+        "both great arteries arise from left ventricle"
+      ],
+      "answer": 2,
+      "explanation": "both great arteries arise predominantly from the right ventricle. Double outlet right ventricle: both great arteries arise predominantly from the right ventricle. Lecture-derived review item.",
+      "explanationImage": null,
+      "tags": [
+        "Double Outlet Right Ventricle (DORV)",
+        "Conotruncal Defects"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch06-q033",
+      "stem": "A child with DORV has a ventricular septal defect. Which finding or explanation is MOST consistent with DORV systemic outflow route?",
+      "image": null,
+      "options": [
+        "left ventricle empties into the right atrium",
+        "left ventricular output reaches an arterial outlet via a VSD",
+        "pulmonary veins drain into the aorta",
+        "a PDA is always the only LV exit"
+      ],
+      "answer": 1,
+      "explanation": "left ventricular output reaches an arterial outlet via a VSD. Dorv systemic outflow route: left ventricular output reaches an arterial outlet via a VSD. Lecture-derived review item.",
+      "explanationImage": null,
+      "tags": [
+        "Double Outlet Right Ventricle (DORV)",
+        "Conotruncal Defects"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch06-q034",
+      "stem": "During an adult/pediatric echocardiography board-style review, the sonographer is asked to identify the key feature of DORV systemic outflow route. Which answer is BEST?",
+      "image": null,
+      "options": [
+        "left ventricular output reaches an arterial outlet via a VSD",
+        "a PDA is always the only LV exit",
+        "left ventricle empties into the right atrium",
+        "pulmonary veins drain into the aorta"
+      ],
+      "answer": 0,
+      "explanation": "left ventricular output reaches an arterial outlet via a VSD. Dorv systemic outflow route: left ventricular output reaches an arterial outlet via a VSD. Lecture-derived review item.",
+      "explanationImage": null,
+      "tags": [
+        "Double Outlet Right Ventricle (DORV)",
+        "Conotruncal Defects"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch06-q035",
+      "stem": "Two patients with DORV have different saturations. Which finding or explanation is MOST consistent with DORV physiologic variability?",
+      "image": null,
+      "options": [
+        "is independent of great artery anatomy",
+        "never produces cyanosis",
+        "depends on VSD position and associated outflow obstruction",
+        "is always identical to isolated PDA"
+      ],
+      "answer": 2,
+      "explanation": "depends on VSD position and associated outflow obstruction. Dorv physiologic variability: depends on VSD position and associated outflow obstruction. Lecture-derived review item.",
+      "explanationImage": null,
+      "tags": [
+        "Double Outlet Right Ventricle (DORV)",
+        "Conotruncal Defects"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch06-q036",
+      "stem": "During an adult/pediatric echocardiography board-style review, the sonographer is asked to identify the key feature of DORV physiologic variability. Which answer is BEST?",
+      "image": null,
+      "options": [
+        "depends on VSD position and associated outflow obstruction",
+        "is independent of great artery anatomy",
+        "never produces cyanosis",
+        "is always identical to isolated PDA"
+      ],
+      "answer": 0,
+      "explanation": "depends on VSD position and associated outflow obstruction. Dorv physiologic variability: depends on VSD position and associated outflow obstruction. Lecture-derived review item.",
+      "explanationImage": null,
+      "tags": [
+        "Double Outlet Right Ventricle (DORV)",
+        "Conotruncal Defects"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch06-q037",
+      "stem": "Subcostal imaging shows anterior malalignment of the outlet septum. Which finding or explanation is MOST consistent with TOF obstruction site?",
+      "image": null,
+      "options": [
+        "pulmonary veins",
+        "left atrial appendage",
+        "right ventricular infundibulum/outflow tract",
+        "mitral annulus"
+      ],
+      "answer": 2,
+      "explanation": "right ventricular infundibulum/outflow tract. Tof obstruction site: right ventricular infundibulum/outflow tract. Lecture-derived review item.",
+      "explanationImage": null,
+      "tags": [
+        "Tetralogy of Fallot (TOF)",
+        "Conotruncal Defects"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch06-q038",
+      "stem": "During an adult/pediatric echocardiography board-style review, the sonographer is asked to identify the key feature of TOF obstruction site. Which answer is BEST?",
+      "image": null,
+      "options": [
+        "mitral annulus",
+        "right ventricular infundibulum/outflow tract",
+        "left atrial appendage",
+        "pulmonary veins"
+      ],
+      "answer": 1,
+      "explanation": "right ventricular infundibulum/outflow tract. Tof obstruction site: right ventricular infundibulum/outflow tract. Lecture-derived review item.",
+      "explanationImage": null,
+      "tags": [
+        "Tetralogy of Fallot (TOF)",
+        "Conotruncal Defects"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch06-q039",
+      "stem": "A patient with TOF develops tighter RV outflow narrowing. Which finding or explanation is MOST consistent with TOF shunt direction and severity?",
+      "image": null,
+      "options": [
+        "RV obstruction eliminates the VSD",
+        "RV obstruction guarantees normal oxygen saturation",
+        "greater RV obstruction always increases left-to-right flow",
+        "greater RV obstruction generally increases right-to-left shunting"
+      ],
+      "answer": 3,
+      "explanation": "greater RV obstruction generally increases right-to-left shunting. Tof shunt direction and severity: greater RV obstruction generally increases right-to-left shunting. Lecture-derived review item.",
+      "explanationImage": null,
+      "tags": [
+        "Tetralogy of Fallot (TOF)",
+        "Conotruncal Defects"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch06-q040",
+      "stem": "During an adult/pediatric echocardiography board-style review, the sonographer is asked to identify the key feature of TOF shunt direction and severity. Which answer is BEST?",
+      "image": null,
+      "options": [
+        "greater RV obstruction generally increases right-to-left shunting",
+        "greater RV obstruction always increases left-to-right flow",
+        "RV obstruction eliminates the VSD",
+        "RV obstruction guarantees normal oxygen saturation"
+      ],
+      "answer": 0,
+      "explanation": "greater RV obstruction generally increases right-to-left shunting. Tof shunt direction and severity: greater RV obstruction generally increases right-to-left shunting. Lecture-derived review item.",
+      "explanationImage": null,
+      "tags": [
+        "Tetralogy of Fallot (TOF)",
+        "Conotruncal Defects"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch06-q041",
+      "stem": "Short-axis imaging demonstrates a common arterial outlet. Which finding or explanation is MOST consistent with truncal valve identification?",
+      "image": null,
+      "options": [
+        "a tricuspid valve connects to the aorta",
+        "no arterial valve is present",
+        "a single semilunar valve guards the common arterial trunk",
+        "two separate normal semilunar valves are mandatory"
+      ],
+      "answer": 2,
+      "explanation": "a single semilunar valve guards the common arterial trunk. Truncal valve identification: a single semilunar valve guards the common arterial trunk. Lecture-derived review item.",
+      "explanationImage": null,
+      "tags": [
+        "Conotruncal Defects",
+        "Conotruncal Defects"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch06-q042",
+      "stem": "During an adult/pediatric echocardiography board-style review, the sonographer is asked to identify the key feature of truncal valve identification. Which answer is BEST?",
+      "image": null,
+      "options": [
+        "no arterial valve is present",
+        "a tricuspid valve connects to the aorta",
+        "a single semilunar valve guards the common arterial trunk",
+        "two separate normal semilunar valves are mandatory"
+      ],
+      "answer": 2,
+      "explanation": "a single semilunar valve guards the common arterial trunk. Truncal valve identification: a single semilunar valve guards the common arterial trunk. Lecture-derived review item.",
+      "explanationImage": null,
+      "tags": [
+        "Conotruncal Defects",
+        "Conotruncal Defects"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch06-q043",
+      "stem": "An infant has parallel outflow vessels on echo. Which finding or explanation is MOST consistent with D-TGA echo identification?",
+      "image": null,
+      "options": [
+        "use mitral E/A ratio alone",
+        "assume aorta always arises from LV",
+        "trace each great artery to its ventricular origin",
+        "identify only atrial septum"
+      ],
+      "answer": 2,
+      "explanation": "trace each great artery to its ventricular origin. D-tga echo identification: trace each great artery to its ventricular origin. Lecture-derived review item.",
+      "explanationImage": null,
+      "tags": [
+        "Transposition of the Great Arteries (D-TGA)",
+        "Conotruncal Defects"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch06-q044",
+      "stem": "During an adult/pediatric echocardiography board-style review, the sonographer is asked to identify the key feature of D-TGA echo identification. Which answer is BEST?",
+      "image": null,
+      "options": [
+        "use mitral E/A ratio alone",
+        "trace each great artery to its ventricular origin",
+        "assume aorta always arises from LV",
+        "identify only atrial septum"
+      ],
+      "answer": 1,
+      "explanation": "trace each great artery to its ventricular origin. D-tga echo identification: trace each great artery to its ventricular origin. Lecture-derived review item.",
+      "explanationImage": null,
+      "tags": [
+        "Transposition of the Great Arteries (D-TGA)",
+        "Conotruncal Defects"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch06-q045",
+      "stem": "An examiner asks for the classic cyanotic T lesions. Which finding or explanation is MOST consistent with conotruncal cyanotic lesions?",
+      "image": null,
+      "options": [
+        "isolated systemic hypertension",
+        "isolated PFO and small ASD only",
+        "isolated mitral valve prolapse",
+        "TOF, TGA and truncus arteriosus are classic examples"
+      ],
+      "answer": 3,
+      "explanation": "TOF, TGA and truncus arteriosus are classic examples. Conotruncal cyanotic lesions: TOF, TGA and truncus arteriosus are classic examples. Lecture-derived review item.",
+      "explanationImage": null,
+      "tags": [
+        "Tetralogy of Fallot (TOF)",
+        "Conotruncal Defects"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch06-q046",
+      "stem": "During an adult/pediatric echocardiography board-style review, the sonographer is asked to identify the key feature of conotruncal cyanotic lesions. Which answer is BEST?",
+      "image": null,
+      "options": [
+        "TOF, TGA and truncus arteriosus are classic examples",
+        "isolated mitral valve prolapse",
+        "isolated PFO and small ASD only",
+        "isolated systemic hypertension"
+      ],
+      "answer": 0,
+      "explanation": "TOF, TGA and truncus arteriosus are classic examples. Conotruncal cyanotic lesions: TOF, TGA and truncus arteriosus are classic examples. Lecture-derived review item.",
+      "explanationImage": null,
+      "tags": [
+        "Tetralogy of Fallot (TOF)",
+        "Conotruncal Defects"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch06-q047",
+      "stem": "An embryology teaching image labels bulbus cordis and truncus. Which finding or explanation is MOST consistent with conotruncal outflow anatomy?",
+      "image": null,
+      "options": [
+        "septum primum creates pulmonary valve",
+        "coronary sinus divides great arteries",
+        "ductus venosus forms both ventricles",
+        "conus and truncus contribute to ventricular outflow and great arteries"
+      ],
+      "answer": 3,
+      "explanation": "conus and truncus contribute to ventricular outflow and great arteries. Conotruncal outflow anatomy: conus and truncus contribute to ventricular outflow and great arteries. Lecture-derived review item.",
+      "explanationImage": null,
+      "tags": [
+        "Truncus Arteriosus & Neural Crest",
+        "Conotruncal Defects"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch06-q048",
+      "stem": "During an adult/pediatric echocardiography board-style review, the sonographer is asked to identify the key feature of conotruncal outflow anatomy. Which answer is BEST?",
+      "image": null,
+      "options": [
+        "conus and truncus contribute to ventricular outflow and great arteries",
+        "septum primum creates pulmonary valve",
+        "coronary sinus divides great arteries",
+        "ductus venosus forms both ventricles"
+      ],
+      "answer": 0,
+      "explanation": "conus and truncus contribute to ventricular outflow and great arteries. Conotruncal outflow anatomy: conus and truncus contribute to ventricular outflow and great arteries. Lecture-derived review item.",
+      "explanationImage": null,
+      "tags": [
+        "Truncus Arteriosus & Neural Crest",
+        "Conotruncal Defects"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch06-q049",
+      "stem": "Echo demonstrates a large outlet malalignment defect. Which finding or explanation is MOST consistent with TOF VSD relationship?",
+      "image": null,
+      "options": [
+        "VSD is confined to atrial septum",
+        "VSD is impossible in TOF",
+        "ASD is the defining TOF defect",
+        "malalignment VSD accompanies the deviated outlet septum"
+      ],
+      "answer": 3,
+      "explanation": "malalignment VSD accompanies the deviated outlet septum. Tof vsd relationship: malalignment VSD accompanies the deviated outlet septum. Lecture-derived review item.",
+      "explanationImage": null,
+      "tags": [
+        "Tetralogy of Fallot (TOF)",
+        "Conotruncal Defects"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch06-q050",
+      "stem": "During an adult/pediatric echocardiography board-style review, the sonographer is asked to identify the key feature of TOF VSD relationship. Which answer is BEST?",
+      "image": null,
+      "options": [
+        "VSD is impossible in TOF",
+        "ASD is the defining TOF defect",
+        "VSD is confined to atrial septum",
+        "malalignment VSD accompanies the deviated outlet septum"
+      ],
+      "answer": 3,
+      "explanation": "malalignment VSD accompanies the deviated outlet septum. Tof vsd relationship: malalignment VSD accompanies the deviated outlet septum. Lecture-derived review item.",
+      "explanationImage": null,
+      "tags": [
+        "Tetralogy of Fallot (TOF)",
+        "Conotruncal Defects"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch06-q051",
+      "stem": "An embryology scan demonstrates outflow tract septation. Which finding best explains the clinical or imaging observation related to cardiac neural crest contribution?",
+      "image": null,
+      "options": [
+        "formation of the aorticopulmonary septum",
+        "formation of the coronary sinus only",
+        "formation of the atrial appendages only",
+        "formation of the ductus venosus"
+      ],
+      "answer": 0,
+      "explanation": "formation of the aorticopulmonary septum. The relevant concept is cardiac neural crest contribution: formation of the aorticopulmonary septum. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Truncus Arteriosus & Neural Crest",
+        "Conotruncal Defects"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch06-q052",
+      "stem": "Echo demonstrates ventriculoarterial discordance. Which finding best explains the clinical or imaging observation related to D-transposition great artery connections?",
+      "image": null,
+      "options": [
+        "single common arterial trunk",
+        "both great arteries from LV",
+        "aorta from LV and pulmonary artery from RV",
+        "aorta from RV and pulmonary artery from LV"
+      ],
+      "answer": 3,
+      "explanation": "aorta from RV and pulmonary artery from LV. The relevant concept is D-transposition great artery connections: aorta from RV and pulmonary artery from LV. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Transposition of the Great Arteries (D-TGA)",
+        "Conotruncal Defects"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch06-q053",
+      "stem": "A neonate has a single common arterial trunk. Which finding best explains the clinical or imaging observation related to truncus arteriosus blood mixing?",
+      "image": null,
+      "options": [
+        "circulations remain completely separate",
+        "pulmonary venous return is absent",
+        "there is no ventricular-level mixing",
+        "oxygenated and deoxygenated blood mix within a common outflow"
+      ],
+      "answer": 3,
+      "explanation": "oxygenated and deoxygenated blood mix within a common outflow. The relevant concept is truncus arteriosus blood mixing: oxygenated and deoxygenated blood mix within a common outflow. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Truncus Arteriosus & Neural Crest",
+        "Conotruncal Defects"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch06-q054",
+      "stem": "An infant has parallel outflow vessels on echo. Which finding best explains the clinical or imaging observation related to D-TGA echo identification?",
+      "image": null,
+      "options": [
+        "trace each great artery to its ventricular origin",
+        "use mitral E/A ratio alone",
+        "identify only atrial septum",
+        "assume aorta always arises from LV"
+      ],
+      "answer": 0,
+      "explanation": "trace each great artery to its ventricular origin. The relevant concept is D-TGA echo identification: trace each great artery to its ventricular origin. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Transposition of the Great Arteries (D-TGA)",
+        "Conotruncal Defects"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch06-q055",
+      "stem": "Echo shows an overriding aorta and large vsd. Which finding best explains the clinical or imaging observation related to tetralogy of Fallot components?",
+      "image": null,
+      "options": [
+        "TGA, TAPVC, VSD and ASD",
+        "VSD, overriding aorta, RV outflow obstruction and RV hypertrophy",
+        "tricuspid atresia, ASD, PDA and HLHS",
+        "ASD, PDA, coarctation and mitral stenosis"
+      ],
+      "answer": 1,
+      "explanation": "VSD, overriding aorta, RV outflow obstruction and RV hypertrophy. The relevant concept is tetralogy of Fallot components: VSD, overriding aorta, RV outflow obstruction and RV hypertrophy. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Tetralogy of Fallot (TOF)",
+        "Conotruncal Defects"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch06-q056",
+      "stem": "The examiner compares normal outflow development with tga. Which finding best explains the clinical or imaging observation related to conotruncal septal spiraling?",
+      "image": null,
+      "options": [
+        "absent septation produces isolated ASD",
+        "straight septation produces normal crossing",
+        "normal spiral septation creates crossing great arteries",
+        "septation occurs only at the atrial level"
+      ],
+      "answer": 2,
+      "explanation": "normal spiral septation creates crossing great arteries. The relevant concept is conotruncal septal spiraling: normal spiral septation creates crossing great arteries. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Transposition of the Great Arteries (D-TGA)",
+        "Conotruncal Defects"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch06-q057",
+      "stem": "Two patients with dorv have different saturations. Which finding best explains the clinical or imaging observation related to DORV physiologic variability?",
+      "image": null,
+      "options": [
+        "never produces cyanosis",
+        "is always identical to isolated PDA",
+        "depends on VSD position and associated outflow obstruction",
+        "is independent of great artery anatomy"
+      ],
+      "answer": 2,
+      "explanation": "depends on VSD position and associated outflow obstruction. The relevant concept is DORV physiologic variability: depends on VSD position and associated outflow obstruction. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Double Outlet Right Ventricle (DORV)",
+        "Conotruncal Defects"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch06-q058",
+      "stem": "Echo demonstrates a large outlet malalignment defect. Which finding best explains the clinical or imaging observation related to TOF VSD relationship?",
+      "image": null,
+      "options": [
+        "VSD is impossible in TOF",
+        "VSD is confined to atrial septum",
+        "malalignment VSD accompanies the deviated outlet septum",
+        "ASD is the defining TOF defect"
+      ],
+      "answer": 2,
+      "explanation": "malalignment VSD accompanies the deviated outlet septum. The relevant concept is TOF VSD relationship: malalignment VSD accompanies the deviated outlet septum. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Tetralogy of Fallot (TOF)",
+        "Conotruncal Defects"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch06-q059",
+      "stem": "A child has longstanding severe pulmonary stenosis in tof. Which finding best explains the clinical or imaging observation related to TOF right ventricular hypertrophy?",
+      "image": null,
+      "options": [
+        "isolated LV volume overload",
+        "pulmonary venous obstruction",
+        "pressure loading from RV outflow obstruction",
+        "mitral regurgitation"
+      ],
+      "answer": 2,
+      "explanation": "pressure loading from RV outflow obstruction. The relevant concept is TOF right ventricular hypertrophy: pressure loading from RV outflow obstruction. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Tetralogy of Fallot (TOF)",
+        "Conotruncal Defects"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch06-q060",
+      "stem": "An infant has a common arterial trunk and vsd. Which finding best explains the clinical or imaging observation related to truncus arteriosus septation defect?",
+      "image": null,
+      "options": [
+        "isolated malformation of septum primum",
+        "isolated narrowing of aortic isthmus",
+        "premature fusion of tricuspid valve",
+        "failure to separate the embryonic truncus into two great arteries"
+      ],
+      "answer": 3,
+      "explanation": "failure to separate the embryonic truncus into two great arteries. The relevant concept is truncus arteriosus septation defect: failure to separate the embryonic truncus into two great arteries. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Truncus Arteriosus & Neural Crest",
+        "Conotruncal Defects"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch06-q061",
+      "stem": "Short-axis imaging demonstrates a common arterial outlet. Which finding best explains the clinical or imaging observation related to truncal valve identification?",
+      "image": null,
+      "options": [
+        "two separate normal semilunar valves are mandatory",
+        "a single semilunar valve guards the common arterial trunk",
+        "no arterial valve is present",
+        "a tricuspid valve connects to the aorta"
+      ],
+      "answer": 1,
+      "explanation": "a single semilunar valve guards the common arterial trunk. The relevant concept is truncal valve identification: a single semilunar valve guards the common arterial trunk. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Conotruncal Defects",
+        "Conotruncal Defects"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch06-q062",
+      "stem": "An infant has a malaligned ventricular septum and narrowed rv outflow. Which finding best explains the clinical or imaging observation related to tetralogy of Fallot embryology?",
+      "image": null,
+      "options": [
+        "absence of the septum primum",
+        "anterosuperior deviation of the infundibular septum",
+        "failure of pulmonary venous incorporation",
+        "apical displacement of the tricuspid valve"
+      ],
+      "answer": 1,
+      "explanation": "anterosuperior deviation of the infundibular septum. The relevant concept is tetralogy of Fallot embryology: anterosuperior deviation of the infundibular septum. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Tetralogy of Fallot (TOF)",
+        "Conotruncal Defects"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch06-q063",
+      "stem": "A newborn with transposition survives because a communication permits mixing. Which finding best explains the clinical or imaging observation related to D-TGA survival mechanism?",
+      "image": null,
+      "options": [
+        "isolated pulmonary valve stenosis",
+        "complete interruption of pulmonary venous return",
+        "complete closure of all fetal shunts",
+        "mixing through ASD, VSD or PDA"
+      ],
+      "answer": 3,
+      "explanation": "mixing through ASD, VSD or PDA. The relevant concept is D-TGA survival mechanism: mixing through ASD, VSD or PDA. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Transposition of the Great Arteries (D-TGA)",
+        "Conotruncal Defects"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch06-q064",
+      "stem": "A child with dorv has a ventricular septal defect. Which finding best explains the clinical or imaging observation related to DORV systemic outflow route?",
+      "image": null,
+      "options": [
+        "left ventricle empties into the right atrium",
+        "left ventricular output reaches an arterial outlet via a VSD",
+        "a PDA is always the only LV exit",
+        "pulmonary veins drain into the aorta"
+      ],
+      "answer": 1,
+      "explanation": "left ventricular output reaches an arterial outlet via a VSD. The relevant concept is DORV systemic outflow route: left ventricular output reaches an arterial outlet via a VSD. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Double Outlet Right Ventricle (DORV)",
+        "Conotruncal Defects"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch06-q065",
+      "stem": "An embryology teaching image labels bulbus cordis and truncus. Which finding best explains the clinical or imaging observation related to conotruncal outflow anatomy?",
+      "image": null,
+      "options": [
+        "coronary sinus divides great arteries",
+        "conus and truncus contribute to ventricular outflow and great arteries",
+        "septum primum creates pulmonary valve",
+        "ductus venosus forms both ventricles"
+      ],
+      "answer": 1,
+      "explanation": "conus and truncus contribute to ventricular outflow and great arteries. The relevant concept is conotruncal outflow anatomy: conus and truncus contribute to ventricular outflow and great arteries. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Truncus Arteriosus & Neural Crest",
+        "Conotruncal Defects"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch06-q066",
+      "stem": "Parasternal long-axis imaging shows aortic root over the septum. Which finding best explains the clinical or imaging observation related to TOF overriding aorta?",
+      "image": null,
+      "options": [
+        "pulmonary artery arises from left atrium",
+        "aorta arises solely from the right atrium",
+        "aorta is interrupted distal to left subclavian artery",
+        "aorta straddles the ventricular septal defect"
+      ],
+      "answer": 3,
+      "explanation": "aorta straddles the ventricular septal defect. The relevant concept is TOF overriding aorta: aorta straddles the ventricular septal defect. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Tetralogy of Fallot (TOF)",
+        "Conotruncal Defects"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch06-q067",
+      "stem": "Echo identifies a single arterial outlet. Which finding best explains the clinical or imaging observation related to persistent truncus arteriosus?",
+      "image": null,
+      "options": [
+        "two normal separate great arteries",
+        "pulmonary veins drain to coronary sinus",
+        "one arterial trunk supplies systemic and pulmonary circulations",
+        "aorta arises from left atrium"
+      ],
+      "answer": 2,
+      "explanation": "one arterial trunk supplies systemic and pulmonary circulations. The relevant concept is persistent truncus arteriosus: one arterial trunk supplies systemic and pulmonary circulations. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Truncus Arteriosus & Neural Crest",
+        "Conotruncal Defects"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch06-q068",
+      "stem": "A patient with tof develops tighter rv outflow narrowing. Which finding best explains the clinical or imaging observation related to TOF shunt direction and severity?",
+      "image": null,
+      "options": [
+        "greater RV obstruction always increases left-to-right flow",
+        "greater RV obstruction generally increases right-to-left shunting",
+        "RV obstruction eliminates the VSD",
+        "RV obstruction guarantees normal oxygen saturation"
+      ],
+      "answer": 1,
+      "explanation": "greater RV obstruction generally increases right-to-left shunting. The relevant concept is TOF shunt direction and severity: greater RV obstruction generally increases right-to-left shunting. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Tetralogy of Fallot (TOF)",
+        "Conotruncal Defects"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch06-q069",
+      "stem": "A newborn has a conotruncal malformation and extracardiac findings. Which finding best explains the clinical or imaging observation related to conotruncal syndrome association?",
+      "image": null,
+      "options": [
+        "22q11 deletion (DiGeorge syndrome)",
+        "Marfan syndrome",
+        "trisomy 21 exclusively",
+        "Turner syndrome"
+      ],
+      "answer": 0,
+      "explanation": "22q11 deletion (DiGeorge syndrome). The relevant concept is conotruncal syndrome association: 22q11 deletion (DiGeorge syndrome). The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Truncus Arteriosus & Neural Crest",
+        "Conotruncal Defects"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch06-q070",
+      "stem": "A newborn with d-tga has severe early cyanosis. Which finding best explains the clinical or imaging observation related to D-TGA circulation?",
+      "image": null,
+      "options": [
+        "isolated left-to-right ductal shunt",
+        "single common trunk without septation",
+        "normal series circulation",
+        "parallel systemic and pulmonary circulations"
+      ],
+      "answer": 3,
+      "explanation": "parallel systemic and pulmonary circulations. The relevant concept is D-TGA circulation: parallel systemic and pulmonary circulations. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Transposition of the Great Arteries (D-TGA)",
+        "Conotruncal Defects"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch06-q071",
+      "stem": "Echo shows both arterial roots connected to the rv. Which finding best explains the clinical or imaging observation related to double outlet right ventricle?",
+      "image": null,
+      "options": [
+        "one trunk exits the left atrium",
+        "both great arteries arise predominantly from the right ventricle",
+        "both great arteries arise from left ventricle",
+        "aorta and pulmonary artery arise from their normal ventricles"
+      ],
+      "answer": 1,
+      "explanation": "both great arteries arise predominantly from the right ventricle. The relevant concept is double outlet right ventricle: both great arteries arise predominantly from the right ventricle. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Double Outlet Right Ventricle (DORV)",
+        "Conotruncal Defects"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch06-q072",
+      "stem": "An examiner asks for the classic cyanotic t lesions. Which finding best explains the clinical or imaging observation related to conotruncal cyanotic lesions?",
+      "image": null,
+      "options": [
+        "TOF, TGA and truncus arteriosus are classic examples",
+        "isolated mitral valve prolapse",
+        "isolated systemic hypertension",
+        "isolated PFO and small ASD only"
+      ],
+      "answer": 0,
+      "explanation": "TOF, TGA and truncus arteriosus are classic examples. The relevant concept is conotruncal cyanotic lesions: TOF, TGA and truncus arteriosus are classic examples. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Tetralogy of Fallot (TOF)",
+        "Conotruncal Defects"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch06-q073",
+      "stem": "An infant with tof develops worsening cyanosis. Which finding best explains the clinical or imaging observation related to TOF cyanosis mechanism?",
+      "image": null,
+      "options": [
+        "unobstructed pulmonary blood flow",
+        "isolated left-to-right atrial shunting",
+        "pulmonary venous return to the left atrium",
+        "right-to-left flow across the VSD with severe RV outflow obstruction"
+      ],
+      "answer": 3,
+      "explanation": "right-to-left flow across the VSD with severe RV outflow obstruction. The relevant concept is TOF cyanosis mechanism: right-to-left flow across the VSD with severe RV outflow obstruction. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Tetralogy of Fallot (TOF)",
+        "Conotruncal Defects"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch06-q074",
+      "stem": "A developmental diagram shows parallel great arteries. Which finding best explains the clinical or imaging observation related to TGA developmental mechanism?",
+      "image": null,
+      "options": [
+        "premature ductal closure",
+        "isolated failure of atrial flap fusion",
+        "failure of normal aorticopulmonary septal spiraling",
+        "excessive tricuspid leaflet displacement"
+      ],
+      "answer": 2,
+      "explanation": "failure of normal aorticopulmonary septal spiraling. The relevant concept is TGA developmental mechanism: failure of normal aorticopulmonary septal spiraling. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Transposition of the Great Arteries (D-TGA)",
+        "Conotruncal Defects"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch06-q075",
+      "stem": "Subcostal imaging shows anterior malalignment of the outlet septum. Which finding best explains the clinical or imaging observation related to TOF obstruction site?",
+      "image": null,
+      "options": [
+        "left atrial appendage",
+        "pulmonary veins",
+        "right ventricular infundibulum/outflow tract",
+        "mitral annulus"
+      ],
+      "answer": 2,
+      "explanation": "right ventricular infundibulum/outflow tract. The relevant concept is TOF obstruction site: right ventricular infundibulum/outflow tract. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Tetralogy of Fallot (TOF)",
+        "Conotruncal Defects"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch06-q076",
+      "stem": "A sonographer reviews the echocardiogram in a case where echo shows an overriding aorta and large VSD. Which interpretation is most consistent with the underlying tetralogy of Fallot components?",
+      "image": null,
+      "options": [
+        "tricuspid atresia, ASD, PDA and HLHS",
+        "TGA, TAPVC, VSD and ASD",
+        "VSD, overriding aorta, RV outflow obstruction and RV hypertrophy",
+        "ASD, PDA, coarctation and mitral stenosis"
+      ],
+      "answer": 2,
+      "explanation": "VSD, overriding aorta, RV outflow obstruction and RV hypertrophy. The relevant concept is tetralogy of Fallot components: VSD, overriding aorta, RV outflow obstruction and RV hypertrophy. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Tetralogy of Fallot (TOF)",
+        "Conotruncal Defects"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch06-q077",
+      "stem": "A sonographer reviews the echocardiogram in a case where the examiner compares normal outflow development with TGA. Which interpretation is most consistent with the underlying conotruncal septal spiraling?",
+      "image": null,
+      "options": [
+        "septation occurs only at the atrial level",
+        "normal spiral septation creates crossing great arteries",
+        "straight septation produces normal crossing",
+        "absent septation produces isolated ASD"
+      ],
+      "answer": 1,
+      "explanation": "normal spiral septation creates crossing great arteries. The relevant concept is conotruncal septal spiraling: normal spiral septation creates crossing great arteries. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Transposition of the Great Arteries (D-TGA)",
+        "Conotruncal Defects"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch06-q078",
+      "stem": "A sonographer reviews the echocardiogram in a case where two patients with DORV have different saturations. Which interpretation is most consistent with the underlying DORV physiologic variability?",
+      "image": null,
+      "options": [
+        "never produces cyanosis",
+        "depends on VSD position and associated outflow obstruction",
+        "is independent of great artery anatomy",
+        "is always identical to isolated PDA"
+      ],
+      "answer": 1,
+      "explanation": "depends on VSD position and associated outflow obstruction. The relevant concept is DORV physiologic variability: depends on VSD position and associated outflow obstruction. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Double Outlet Right Ventricle (DORV)",
+        "Conotruncal Defects"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch06-q079",
+      "stem": "A sonographer reviews the echocardiogram in a case where echo demonstrates a large outlet malalignment defect. Which interpretation is most consistent with the underlying TOF VSD relationship?",
+      "image": null,
+      "options": [
+        "VSD is confined to atrial septum",
+        "ASD is the defining TOF defect",
+        "VSD is impossible in TOF",
+        "malalignment VSD accompanies the deviated outlet septum"
+      ],
+      "answer": 3,
+      "explanation": "malalignment VSD accompanies the deviated outlet septum. The relevant concept is TOF VSD relationship: malalignment VSD accompanies the deviated outlet septum. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Tetralogy of Fallot (TOF)",
+        "Conotruncal Defects"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch06-q080",
+      "stem": "A sonographer reviews the echocardiogram in a case where a child has longstanding severe pulmonary stenosis in TOF. Which interpretation is most consistent with the underlying TOF right ventricular hypertrophy?",
+      "image": null,
+      "options": [
+        "pressure loading from RV outflow obstruction",
+        "mitral regurgitation",
+        "isolated LV volume overload",
+        "pulmonary venous obstruction"
+      ],
+      "answer": 0,
+      "explanation": "pressure loading from RV outflow obstruction. The relevant concept is TOF right ventricular hypertrophy: pressure loading from RV outflow obstruction. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Tetralogy of Fallot (TOF)",
+        "Conotruncal Defects"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch06-q081",
+      "stem": "A sonographer reviews the echocardiogram in a case where an infant has a common arterial trunk and VSD. Which interpretation is most consistent with the underlying truncus arteriosus septation defect?",
+      "image": null,
+      "options": [
+        "premature fusion of tricuspid valve",
+        "failure to separate the embryonic truncus into two great arteries",
+        "isolated narrowing of aortic isthmus",
+        "isolated malformation of septum primum"
+      ],
+      "answer": 1,
+      "explanation": "failure to separate the embryonic truncus into two great arteries. The relevant concept is truncus arteriosus septation defect: failure to separate the embryonic truncus into two great arteries. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Truncus Arteriosus & Neural Crest",
+        "Conotruncal Defects"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch06-q082",
+      "stem": "A sonographer reviews the echocardiogram in a case where short-axis imaging demonstrates a common arterial outlet. Which interpretation is most consistent with the underlying truncal valve identification?",
+      "image": null,
+      "options": [
+        "a tricuspid valve connects to the aorta",
+        "a single semilunar valve guards the common arterial trunk",
+        "no arterial valve is present",
+        "two separate normal semilunar valves are mandatory"
+      ],
+      "answer": 1,
+      "explanation": "a single semilunar valve guards the common arterial trunk. The relevant concept is truncal valve identification: a single semilunar valve guards the common arterial trunk. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Conotruncal Defects",
+        "Conotruncal Defects"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch06-q083",
+      "stem": "A sonographer reviews the echocardiogram in a case where an infant has a malaligned ventricular septum and narrowed RV outflow. Which interpretation is most consistent with the underlying tetralogy of Fallot embryology?",
+      "image": null,
+      "options": [
+        "anterosuperior deviation of the infundibular septum",
+        "failure of pulmonary venous incorporation",
+        "absence of the septum primum",
+        "apical displacement of the tricuspid valve"
+      ],
+      "answer": 0,
+      "explanation": "anterosuperior deviation of the infundibular septum. The relevant concept is tetralogy of Fallot embryology: anterosuperior deviation of the infundibular septum. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Tetralogy of Fallot (TOF)",
+        "Conotruncal Defects"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch06-q084",
+      "stem": "A sonographer reviews the echocardiogram in a case where a newborn with transposition survives because a communication permits mixing. Which interpretation is most consistent with the underlying D-TGA survival mechanism?",
+      "image": null,
+      "options": [
+        "complete closure of all fetal shunts",
+        "complete interruption of pulmonary venous return",
+        "isolated pulmonary valve stenosis",
+        "mixing through ASD, VSD or PDA"
+      ],
+      "answer": 3,
+      "explanation": "mixing through ASD, VSD or PDA. The relevant concept is D-TGA survival mechanism: mixing through ASD, VSD or PDA. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Transposition of the Great Arteries (D-TGA)",
+        "Conotruncal Defects"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch06-q085",
+      "stem": "A sonographer reviews the echocardiogram in a case where a child with DORV has a ventricular septal defect. Which interpretation is most consistent with the underlying DORV systemic outflow route?",
+      "image": null,
+      "options": [
+        "left ventricular output reaches an arterial outlet via a VSD",
+        "left ventricle empties into the right atrium",
+        "a PDA is always the only LV exit",
+        "pulmonary veins drain into the aorta"
+      ],
+      "answer": 0,
+      "explanation": "left ventricular output reaches an arterial outlet via a VSD. The relevant concept is DORV systemic outflow route: left ventricular output reaches an arterial outlet via a VSD. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Double Outlet Right Ventricle (DORV)",
+        "Conotruncal Defects"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch06-q086",
+      "stem": "A sonographer reviews the echocardiogram in a case where an embryology teaching image labels bulbus cordis and truncus. Which interpretation is most consistent with the underlying conotruncal outflow anatomy?",
+      "image": null,
+      "options": [
+        "septum primum creates pulmonary valve",
+        "coronary sinus divides great arteries",
+        "ductus venosus forms both ventricles",
+        "conus and truncus contribute to ventricular outflow and great arteries"
+      ],
+      "answer": 3,
+      "explanation": "conus and truncus contribute to ventricular outflow and great arteries. The relevant concept is conotruncal outflow anatomy: conus and truncus contribute to ventricular outflow and great arteries. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Truncus Arteriosus & Neural Crest",
+        "Conotruncal Defects"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch06-q087",
+      "stem": "A sonographer reviews the echocardiogram in a case where parasternal long-axis imaging shows aortic root over the septum. Which interpretation is most consistent with the underlying TOF overriding aorta?",
+      "image": null,
+      "options": [
+        "aorta arises solely from the right atrium",
+        "aorta straddles the ventricular septal defect",
+        "pulmonary artery arises from left atrium",
+        "aorta is interrupted distal to left subclavian artery"
+      ],
+      "answer": 1,
+      "explanation": "aorta straddles the ventricular septal defect. The relevant concept is TOF overriding aorta: aorta straddles the ventricular septal defect. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Tetralogy of Fallot (TOF)",
+        "Conotruncal Defects"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch06-q088",
+      "stem": "A sonographer reviews the echocardiogram in a case where echo identifies a single arterial outlet. Which interpretation is most consistent with the underlying persistent truncus arteriosus?",
+      "image": null,
+      "options": [
+        "pulmonary veins drain to coronary sinus",
+        "aorta arises from left atrium",
+        "two normal separate great arteries",
+        "one arterial trunk supplies systemic and pulmonary circulations"
+      ],
+      "answer": 3,
+      "explanation": "one arterial trunk supplies systemic and pulmonary circulations. The relevant concept is persistent truncus arteriosus: one arterial trunk supplies systemic and pulmonary circulations. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Truncus Arteriosus & Neural Crest",
+        "Conotruncal Defects"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch06-q089",
+      "stem": "A sonographer reviews the echocardiogram in a case where a patient with TOF develops tighter RV outflow narrowing. Which interpretation is most consistent with the underlying TOF shunt direction and severity?",
+      "image": null,
+      "options": [
+        "RV obstruction guarantees normal oxygen saturation",
+        "greater RV obstruction generally increases right-to-left shunting",
+        "greater RV obstruction always increases left-to-right flow",
+        "RV obstruction eliminates the VSD"
+      ],
+      "answer": 1,
+      "explanation": "greater RV obstruction generally increases right-to-left shunting. The relevant concept is TOF shunt direction and severity: greater RV obstruction generally increases right-to-left shunting. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Tetralogy of Fallot (TOF)",
+        "Conotruncal Defects"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch06-q090",
+      "stem": "A sonographer reviews the echocardiogram in a case where a newborn has a conotruncal malformation and extracardiac findings. Which interpretation is most consistent with the underlying conotruncal syndrome association?",
+      "image": null,
+      "options": [
+        "trisomy 21 exclusively",
+        "Turner syndrome",
+        "Marfan syndrome",
+        "22q11 deletion (DiGeorge syndrome)"
+      ],
+      "answer": 3,
+      "explanation": "22q11 deletion (DiGeorge syndrome). The relevant concept is conotruncal syndrome association: 22q11 deletion (DiGeorge syndrome). The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Truncus Arteriosus & Neural Crest",
+        "Conotruncal Defects"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch06-q091",
+      "stem": "A sonographer reviews the echocardiogram in a case where a newborn with D-TGA has severe early cyanosis. Which interpretation is most consistent with the underlying D-TGA circulation?",
+      "image": null,
+      "options": [
+        "isolated left-to-right ductal shunt",
+        "normal series circulation",
+        "single common trunk without septation",
+        "parallel systemic and pulmonary circulations"
+      ],
+      "answer": 3,
+      "explanation": "parallel systemic and pulmonary circulations. The relevant concept is D-TGA circulation: parallel systemic and pulmonary circulations. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Transposition of the Great Arteries (D-TGA)",
+        "Conotruncal Defects"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch06-q092",
+      "stem": "A sonographer reviews the echocardiogram in a case where echo shows both arterial roots connected to the RV. Which interpretation is most consistent with the underlying double outlet right ventricle?",
+      "image": null,
+      "options": [
+        "both great arteries arise predominantly from the right ventricle",
+        "both great arteries arise from left ventricle",
+        "aorta and pulmonary artery arise from their normal ventricles",
+        "one trunk exits the left atrium"
+      ],
+      "answer": 0,
+      "explanation": "both great arteries arise predominantly from the right ventricle. The relevant concept is double outlet right ventricle: both great arteries arise predominantly from the right ventricle. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Double Outlet Right Ventricle (DORV)",
+        "Conotruncal Defects"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch06-q093",
+      "stem": "A sonographer reviews the echocardiogram in a case where an examiner asks for the classic cyanotic T lesions. Which interpretation is most consistent with the underlying conotruncal cyanotic lesions?",
+      "image": null,
+      "options": [
+        "isolated mitral valve prolapse",
+        "isolated systemic hypertension",
+        "isolated PFO and small ASD only",
+        "TOF, TGA and truncus arteriosus are classic examples"
+      ],
+      "answer": 3,
+      "explanation": "TOF, TGA and truncus arteriosus are classic examples. The relevant concept is conotruncal cyanotic lesions: TOF, TGA and truncus arteriosus are classic examples. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Tetralogy of Fallot (TOF)",
+        "Conotruncal Defects"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch06-q094",
+      "stem": "A sonographer reviews the echocardiogram in a case where an infant with TOF develops worsening cyanosis. Which interpretation is most consistent with the underlying TOF cyanosis mechanism?",
+      "image": null,
+      "options": [
+        "right-to-left flow across the VSD with severe RV outflow obstruction",
+        "pulmonary venous return to the left atrium",
+        "isolated left-to-right atrial shunting",
+        "unobstructed pulmonary blood flow"
+      ],
+      "answer": 0,
+      "explanation": "right-to-left flow across the VSD with severe RV outflow obstruction. The relevant concept is TOF cyanosis mechanism: right-to-left flow across the VSD with severe RV outflow obstruction. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Tetralogy of Fallot (TOF)",
+        "Conotruncal Defects"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch06-q095",
+      "stem": "A sonographer reviews the echocardiogram in a case where a developmental diagram shows parallel great arteries. Which interpretation is most consistent with the underlying TGA developmental mechanism?",
+      "image": null,
+      "options": [
+        "premature ductal closure",
+        "excessive tricuspid leaflet displacement",
+        "failure of normal aorticopulmonary septal spiraling",
+        "isolated failure of atrial flap fusion"
+      ],
+      "answer": 2,
+      "explanation": "failure of normal aorticopulmonary septal spiraling. The relevant concept is TGA developmental mechanism: failure of normal aorticopulmonary septal spiraling. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Transposition of the Great Arteries (D-TGA)",
+        "Conotruncal Defects"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch06-q096",
+      "stem": "A sonographer reviews the echocardiogram in a case where subcostal imaging shows anterior malalignment of the outlet septum. Which interpretation is most consistent with the underlying TOF obstruction site?",
+      "image": null,
+      "options": [
+        "right ventricular infundibulum/outflow tract",
+        "mitral annulus",
+        "left atrial appendage",
+        "pulmonary veins"
+      ],
+      "answer": 0,
+      "explanation": "right ventricular infundibulum/outflow tract. The relevant concept is TOF obstruction site: right ventricular infundibulum/outflow tract. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Tetralogy of Fallot (TOF)",
+        "Conotruncal Defects"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch06-q097",
+      "stem": "A sonographer reviews the echocardiogram in a case where an embryology scan demonstrates outflow tract septation. Which interpretation is most consistent with the underlying cardiac neural crest contribution?",
+      "image": null,
+      "options": [
+        "formation of the atrial appendages only",
+        "formation of the aorticopulmonary septum",
+        "formation of the ductus venosus",
+        "formation of the coronary sinus only"
+      ],
+      "answer": 1,
+      "explanation": "formation of the aorticopulmonary septum. The relevant concept is cardiac neural crest contribution: formation of the aorticopulmonary septum. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Truncus Arteriosus & Neural Crest",
+        "Conotruncal Defects"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch06-q098",
+      "stem": "A sonographer reviews the echocardiogram in a case where echo demonstrates ventriculoarterial discordance. Which interpretation is most consistent with the underlying D-transposition great artery connections?",
+      "image": null,
+      "options": [
+        "aorta from LV and pulmonary artery from RV",
+        "single common arterial trunk",
+        "aorta from RV and pulmonary artery from LV",
+        "both great arteries from LV"
+      ],
+      "answer": 2,
+      "explanation": "aorta from RV and pulmonary artery from LV. The relevant concept is D-transposition great artery connections: aorta from RV and pulmonary artery from LV. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Transposition of the Great Arteries (D-TGA)",
+        "Conotruncal Defects"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch06-q099",
+      "stem": "A sonographer reviews the echocardiogram in a case where a neonate has a single common arterial trunk. Which interpretation is most consistent with the underlying truncus arteriosus blood mixing?",
+      "image": null,
+      "options": [
+        "pulmonary venous return is absent",
+        "circulations remain completely separate",
+        "oxygenated and deoxygenated blood mix within a common outflow",
+        "there is no ventricular-level mixing"
+      ],
+      "answer": 2,
+      "explanation": "oxygenated and deoxygenated blood mix within a common outflow. The relevant concept is truncus arteriosus blood mixing: oxygenated and deoxygenated blood mix within a common outflow. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Truncus Arteriosus & Neural Crest",
+        "Conotruncal Defects"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch06-q100",
+      "stem": "A sonographer reviews the echocardiogram in a case where an infant has parallel outflow vessels on echo. Which interpretation is most consistent with the underlying D-TGA echo identification?",
+      "image": null,
+      "options": [
+        "assume aorta always arises from LV",
+        "trace each great artery to its ventricular origin",
+        "identify only atrial septum",
+        "use mitral E/A ratio alone"
+      ],
+      "answer": 1,
+      "explanation": "trace each great artery to its ventricular origin. The relevant concept is D-TGA echo identification: trace each great artery to its ventricular origin. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Transposition of the Great Arteries (D-TGA)",
+        "Conotruncal Defects"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch06-q101",
+      "stem": "During a congenital heart disease case conference, the team discusses TOF right ventricular hypertrophy. Which statement is correct?",
+      "image": null,
+      "options": [
+        "isolated LV volume overload",
+        "pulmonary venous obstruction",
+        "mitral regurgitation",
+        "pressure loading from RV outflow obstruction"
+      ],
+      "answer": 3,
+      "explanation": "pressure loading from RV outflow obstruction. The relevant concept is TOF right ventricular hypertrophy: pressure loading from RV outflow obstruction. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Tetralogy of Fallot (TOF)",
+        "Conotruncal Defects"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch06-q102",
+      "stem": "During a congenital heart disease case conference, the team discusses truncus arteriosus septation defect. Which statement is correct?",
+      "image": null,
+      "options": [
+        "isolated malformation of septum primum",
+        "premature fusion of tricuspid valve",
+        "failure to separate the embryonic truncus into two great arteries",
+        "isolated narrowing of aortic isthmus"
+      ],
+      "answer": 2,
+      "explanation": "failure to separate the embryonic truncus into two great arteries. The relevant concept is truncus arteriosus septation defect: failure to separate the embryonic truncus into two great arteries. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Truncus Arteriosus & Neural Crest",
+        "Conotruncal Defects"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch06-q103",
+      "stem": "During a congenital heart disease case conference, the team discusses truncal valve identification. Which statement is correct?",
+      "image": null,
+      "options": [
+        "no arterial valve is present",
+        "a single semilunar valve guards the common arterial trunk",
+        "two separate normal semilunar valves are mandatory",
+        "a tricuspid valve connects to the aorta"
+      ],
+      "answer": 1,
+      "explanation": "a single semilunar valve guards the common arterial trunk. The relevant concept is truncal valve identification: a single semilunar valve guards the common arterial trunk. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Conotruncal Defects",
+        "Conotruncal Defects"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch06-q104",
+      "stem": "During a congenital heart disease case conference, the team discusses tetralogy of Fallot embryology. Which statement is correct?",
+      "image": null,
+      "options": [
+        "failure of pulmonary venous incorporation",
+        "anterosuperior deviation of the infundibular septum",
+        "apical displacement of the tricuspid valve",
+        "absence of the septum primum"
+      ],
+      "answer": 1,
+      "explanation": "anterosuperior deviation of the infundibular septum. The relevant concept is tetralogy of Fallot embryology: anterosuperior deviation of the infundibular septum. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Tetralogy of Fallot (TOF)",
+        "Conotruncal Defects"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch06-q105",
+      "stem": "During a congenital heart disease case conference, the team discusses D-TGA survival mechanism. Which statement is correct?",
+      "image": null,
+      "options": [
+        "isolated pulmonary valve stenosis",
+        "mixing through ASD, VSD or PDA",
+        "complete closure of all fetal shunts",
+        "complete interruption of pulmonary venous return"
+      ],
+      "answer": 1,
+      "explanation": "mixing through ASD, VSD or PDA. The relevant concept is D-TGA survival mechanism: mixing through ASD, VSD or PDA. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Transposition of the Great Arteries (D-TGA)",
+        "Conotruncal Defects"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch06-q106",
+      "stem": "During a congenital heart disease case conference, the team discusses DORV systemic outflow route. Which statement is correct?",
+      "image": null,
+      "options": [
+        "pulmonary veins drain into the aorta",
+        "a PDA is always the only LV exit",
+        "left ventricular output reaches an arterial outlet via a VSD",
+        "left ventricle empties into the right atrium"
+      ],
+      "answer": 2,
+      "explanation": "left ventricular output reaches an arterial outlet via a VSD. The relevant concept is DORV systemic outflow route: left ventricular output reaches an arterial outlet via a VSD. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Double Outlet Right Ventricle (DORV)",
+        "Conotruncal Defects"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch06-q107",
+      "stem": "During a congenital heart disease case conference, the team discusses conotruncal outflow anatomy. Which statement is correct?",
+      "image": null,
+      "options": [
+        "septum primum creates pulmonary valve",
+        "conus and truncus contribute to ventricular outflow and great arteries",
+        "coronary sinus divides great arteries",
+        "ductus venosus forms both ventricles"
+      ],
+      "answer": 1,
+      "explanation": "conus and truncus contribute to ventricular outflow and great arteries. The relevant concept is conotruncal outflow anatomy: conus and truncus contribute to ventricular outflow and great arteries. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Truncus Arteriosus & Neural Crest",
+        "Conotruncal Defects"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch06-q108",
+      "stem": "During a congenital heart disease case conference, the team discusses TOF overriding aorta. Which statement is correct?",
+      "image": null,
+      "options": [
+        "aorta straddles the ventricular septal defect",
+        "aorta arises solely from the right atrium",
+        "aorta is interrupted distal to left subclavian artery",
+        "pulmonary artery arises from left atrium"
+      ],
+      "answer": 0,
+      "explanation": "aorta straddles the ventricular septal defect. The relevant concept is TOF overriding aorta: aorta straddles the ventricular septal defect. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Tetralogy of Fallot (TOF)",
+        "Conotruncal Defects"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch06-q109",
+      "stem": "During a congenital heart disease case conference, the team discusses persistent truncus arteriosus. Which statement is correct?",
+      "image": null,
+      "options": [
+        "pulmonary veins drain to coronary sinus",
+        "two normal separate great arteries",
+        "aorta arises from left atrium",
+        "one arterial trunk supplies systemic and pulmonary circulations"
+      ],
+      "answer": 3,
+      "explanation": "one arterial trunk supplies systemic and pulmonary circulations. The relevant concept is persistent truncus arteriosus: one arterial trunk supplies systemic and pulmonary circulations. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Truncus Arteriosus & Neural Crest",
+        "Conotruncal Defects"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch06-q110",
+      "stem": "During a congenital heart disease case conference, the team discusses TOF shunt direction and severity. Which statement is correct?",
+      "image": null,
+      "options": [
+        "RV obstruction guarantees normal oxygen saturation",
+        "greater RV obstruction always increases left-to-right flow",
+        "greater RV obstruction generally increases right-to-left shunting",
+        "RV obstruction eliminates the VSD"
+      ],
+      "answer": 2,
+      "explanation": "greater RV obstruction generally increases right-to-left shunting. The relevant concept is TOF shunt direction and severity: greater RV obstruction generally increases right-to-left shunting. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Tetralogy of Fallot (TOF)",
+        "Conotruncal Defects"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch06-q111",
+      "stem": "During a congenital heart disease case conference, the team discusses conotruncal syndrome association. Which statement is correct?",
+      "image": null,
+      "options": [
+        "22q11 deletion (DiGeorge syndrome)",
+        "Turner syndrome",
+        "Marfan syndrome",
+        "trisomy 21 exclusively"
+      ],
+      "answer": 0,
+      "explanation": "22q11 deletion (DiGeorge syndrome). The relevant concept is conotruncal syndrome association: 22q11 deletion (DiGeorge syndrome). The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Truncus Arteriosus & Neural Crest",
+        "Conotruncal Defects"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch06-q112",
+      "stem": "During a congenital heart disease case conference, the team discusses D-TGA circulation. Which statement is correct?",
+      "image": null,
+      "options": [
+        "parallel systemic and pulmonary circulations",
+        "single common trunk without septation",
+        "isolated left-to-right ductal shunt",
+        "normal series circulation"
+      ],
+      "answer": 0,
+      "explanation": "parallel systemic and pulmonary circulations. The relevant concept is D-TGA circulation: parallel systemic and pulmonary circulations. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Transposition of the Great Arteries (D-TGA)",
+        "Conotruncal Defects"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch06-q113",
+      "stem": "During a congenital heart disease case conference, the team discusses double outlet right ventricle. Which statement is correct?",
+      "image": null,
+      "options": [
+        "one trunk exits the left atrium",
+        "both great arteries arise from left ventricle",
+        "both great arteries arise predominantly from the right ventricle",
+        "aorta and pulmonary artery arise from their normal ventricles"
+      ],
+      "answer": 2,
+      "explanation": "both great arteries arise predominantly from the right ventricle. The relevant concept is double outlet right ventricle: both great arteries arise predominantly from the right ventricle. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Double Outlet Right Ventricle (DORV)",
+        "Conotruncal Defects"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch06-q114",
+      "stem": "During a congenital heart disease case conference, the team discusses conotruncal cyanotic lesions. Which statement is correct?",
+      "image": null,
+      "options": [
+        "isolated mitral valve prolapse",
+        "TOF, TGA and truncus arteriosus are classic examples",
+        "isolated PFO and small ASD only",
+        "isolated systemic hypertension"
+      ],
+      "answer": 1,
+      "explanation": "TOF, TGA and truncus arteriosus are classic examples. The relevant concept is conotruncal cyanotic lesions: TOF, TGA and truncus arteriosus are classic examples. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Tetralogy of Fallot (TOF)",
+        "Conotruncal Defects"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch06-q115",
+      "stem": "During a congenital heart disease case conference, the team discusses TOF cyanosis mechanism. Which statement is correct?",
+      "image": null,
+      "options": [
+        "isolated left-to-right atrial shunting",
+        "unobstructed pulmonary blood flow",
+        "pulmonary venous return to the left atrium",
+        "right-to-left flow across the VSD with severe RV outflow obstruction"
+      ],
+      "answer": 3,
+      "explanation": "right-to-left flow across the VSD with severe RV outflow obstruction. The relevant concept is TOF cyanosis mechanism: right-to-left flow across the VSD with severe RV outflow obstruction. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Tetralogy of Fallot (TOF)",
+        "Conotruncal Defects"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch06-q116",
+      "stem": "During a congenital heart disease case conference, the team discusses TGA developmental mechanism. Which statement is correct?",
+      "image": null,
+      "options": [
+        "excessive tricuspid leaflet displacement",
+        "failure of normal aorticopulmonary septal spiraling",
+        "premature ductal closure",
+        "isolated failure of atrial flap fusion"
+      ],
+      "answer": 1,
+      "explanation": "failure of normal aorticopulmonary septal spiraling. The relevant concept is TGA developmental mechanism: failure of normal aorticopulmonary septal spiraling. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Transposition of the Great Arteries (D-TGA)",
+        "Conotruncal Defects"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch06-q117",
+      "stem": "During a congenital heart disease case conference, the team discusses TOF obstruction site. Which statement is correct?",
+      "image": null,
+      "options": [
+        "pulmonary veins",
+        "mitral annulus",
+        "left atrial appendage",
+        "right ventricular infundibulum/outflow tract"
+      ],
+      "answer": 3,
+      "explanation": "right ventricular infundibulum/outflow tract. The relevant concept is TOF obstruction site: right ventricular infundibulum/outflow tract. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Tetralogy of Fallot (TOF)",
+        "Conotruncal Defects"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch06-q118",
+      "stem": "During a congenital heart disease case conference, the team discusses cardiac neural crest contribution. Which statement is correct?",
+      "image": null,
+      "options": [
+        "formation of the atrial appendages only",
+        "formation of the ductus venosus",
+        "formation of the aorticopulmonary septum",
+        "formation of the coronary sinus only"
+      ],
+      "answer": 2,
+      "explanation": "formation of the aorticopulmonary septum. The relevant concept is cardiac neural crest contribution: formation of the aorticopulmonary septum. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Truncus Arteriosus & Neural Crest",
+        "Conotruncal Defects"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch06-q119",
+      "stem": "During a congenital heart disease case conference, the team discusses D-transposition great artery connections. Which statement is correct?",
+      "image": null,
+      "options": [
+        "aorta from LV and pulmonary artery from RV",
+        "aorta from RV and pulmonary artery from LV",
+        "single common arterial trunk",
+        "both great arteries from LV"
+      ],
+      "answer": 1,
+      "explanation": "aorta from RV and pulmonary artery from LV. The relevant concept is D-transposition great artery connections: aorta from RV and pulmonary artery from LV. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Transposition of the Great Arteries (D-TGA)",
+        "Conotruncal Defects"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch06-q120",
+      "stem": "During a congenital heart disease case conference, the team discusses truncus arteriosus blood mixing. Which statement is correct?",
+      "image": null,
+      "options": [
+        "pulmonary venous return is absent",
+        "circulations remain completely separate",
+        "there is no ventricular-level mixing",
+        "oxygenated and deoxygenated blood mix within a common outflow"
+      ],
+      "answer": 3,
+      "explanation": "oxygenated and deoxygenated blood mix within a common outflow. The relevant concept is truncus arteriosus blood mixing: oxygenated and deoxygenated blood mix within a common outflow. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Truncus Arteriosus & Neural Crest",
+        "Conotruncal Defects"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch06-q121",
+      "stem": "During a congenital heart disease case conference, the team discusses D-TGA echo identification. Which statement is correct?",
+      "image": null,
+      "options": [
+        "assume aorta always arises from LV",
+        "identify only atrial septum",
+        "use mitral E/A ratio alone",
+        "trace each great artery to its ventricular origin"
+      ],
+      "answer": 3,
+      "explanation": "trace each great artery to its ventricular origin. The relevant concept is D-TGA echo identification: trace each great artery to its ventricular origin. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Transposition of the Great Arteries (D-TGA)",
+        "Conotruncal Defects"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch06-q122",
+      "stem": "During a congenital heart disease case conference, the team discusses tetralogy of Fallot components. Which statement is correct?",
+      "image": null,
+      "options": [
+        "TGA, TAPVC, VSD and ASD",
+        "VSD, overriding aorta, RV outflow obstruction and RV hypertrophy",
+        "ASD, PDA, coarctation and mitral stenosis",
+        "tricuspid atresia, ASD, PDA and HLHS"
+      ],
+      "answer": 1,
+      "explanation": "VSD, overriding aorta, RV outflow obstruction and RV hypertrophy. The relevant concept is tetralogy of Fallot components: VSD, overriding aorta, RV outflow obstruction and RV hypertrophy. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Tetralogy of Fallot (TOF)",
+        "Conotruncal Defects"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch06-q123",
+      "stem": "During a congenital heart disease case conference, the team discusses conotruncal septal spiraling. Which statement is correct?",
+      "image": null,
+      "options": [
+        "normal spiral septation creates crossing great arteries",
+        "septation occurs only at the atrial level",
+        "straight septation produces normal crossing",
+        "absent septation produces isolated ASD"
+      ],
+      "answer": 0,
+      "explanation": "normal spiral septation creates crossing great arteries. The relevant concept is conotruncal septal spiraling: normal spiral septation creates crossing great arteries. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Conotruncal Defects",
+        "Conotruncal Defects"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch06-q124",
+      "stem": "During a congenital heart disease case conference, the team discusses DORV physiologic variability. Which statement is correct?",
+      "image": null,
+      "options": [
+        "depends on VSD position and associated outflow obstruction",
+        "is always identical to isolated PDA",
+        "is independent of great artery anatomy",
+        "never produces cyanosis"
+      ],
+      "answer": 0,
+      "explanation": "depends on VSD position and associated outflow obstruction. The relevant concept is DORV physiologic variability: depends on VSD position and associated outflow obstruction. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Double Outlet Right Ventricle (DORV)",
+        "Conotruncal Defects"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch06-q125",
+      "stem": "During a congenital heart disease case conference, the team discusses TOF VSD relationship. Which statement is correct?",
+      "image": null,
+      "options": [
+        "malalignment VSD accompanies the deviated outlet septum",
+        "ASD is the defining TOF defect",
+        "VSD is confined to atrial septum",
+        "VSD is impossible in TOF"
+      ],
+      "answer": 0,
+      "explanation": "malalignment VSD accompanies the deviated outlet septum. The relevant concept is TOF VSD relationship: malalignment VSD accompanies the deviated outlet septum. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Tetralogy of Fallot (TOF)",
+        "Conotruncal Defects"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch06-q126",
+      "stem": "An examination stem describes this clinical setting: a newborn with transposition survives because a communication permits mixing. Which associated anatomic or physiologic feature should be recognized?",
+      "image": null,
+      "options": [
+        "mixing through ASD, VSD or PDA",
+        "complete closure of all fetal shunts",
+        "complete interruption of pulmonary venous return",
+        "isolated pulmonary valve stenosis"
+      ],
+      "answer": 0,
+      "explanation": "mixing through ASD, VSD or PDA. The relevant concept is D-TGA survival mechanism: mixing through ASD, VSD or PDA. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Transposition of the Great Arteries (D-TGA)",
+        "Conotruncal Defects"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch06-q127",
+      "stem": "An examination stem describes this clinical setting: a child with DORV has a ventricular septal defect. Which associated anatomic or physiologic feature should be recognized?",
+      "image": null,
+      "options": [
+        "left ventricle empties into the right atrium",
+        "left ventricular output reaches an arterial outlet via a VSD",
+        "pulmonary veins drain into the aorta",
+        "a PDA is always the only LV exit"
+      ],
+      "answer": 1,
+      "explanation": "left ventricular output reaches an arterial outlet via a VSD. The relevant concept is DORV systemic outflow route: left ventricular output reaches an arterial outlet via a VSD. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Double Outlet Right Ventricle (DORV)",
+        "Conotruncal Defects"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch06-q128",
+      "stem": "An examination stem describes this clinical setting: an embryology teaching image labels bulbus cordis and truncus. Which associated anatomic or physiologic feature should be recognized?",
+      "image": null,
+      "options": [
+        "coronary sinus divides great arteries",
+        "conus and truncus contribute to ventricular outflow and great arteries",
+        "septum primum creates pulmonary valve",
+        "ductus venosus forms both ventricles"
+      ],
+      "answer": 1,
+      "explanation": "conus and truncus contribute to ventricular outflow and great arteries. The relevant concept is conotruncal outflow anatomy: conus and truncus contribute to ventricular outflow and great arteries. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Truncus Arteriosus & Neural Crest",
+        "Conotruncal Defects"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch06-q129",
+      "stem": "An examination stem describes this clinical setting: parasternal long-axis imaging shows aortic root over the septum. Which associated anatomic or physiologic feature should be recognized?",
+      "image": null,
+      "options": [
+        "aorta is interrupted distal to left subclavian artery",
+        "pulmonary artery arises from left atrium",
+        "aorta arises solely from the right atrium",
+        "aorta straddles the ventricular septal defect"
+      ],
+      "answer": 3,
+      "explanation": "aorta straddles the ventricular septal defect. The relevant concept is TOF overriding aorta: aorta straddles the ventricular septal defect. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Tetralogy of Fallot (TOF)",
+        "Conotruncal Defects"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch06-q130",
+      "stem": "An examination stem describes this clinical setting: echo identifies a single arterial outlet. Which associated anatomic or physiologic feature should be recognized?",
+      "image": null,
+      "options": [
+        "two normal separate great arteries",
+        "pulmonary veins drain to coronary sinus",
+        "one arterial trunk supplies systemic and pulmonary circulations",
+        "aorta arises from left atrium"
+      ],
+      "answer": 2,
+      "explanation": "one arterial trunk supplies systemic and pulmonary circulations. The relevant concept is persistent truncus arteriosus: one arterial trunk supplies systemic and pulmonary circulations. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Truncus Arteriosus & Neural Crest",
+        "Conotruncal Defects"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch06-q131",
+      "stem": "An examination stem describes this clinical setting: a patient with TOF develops tighter RV outflow narrowing. Which associated anatomic or physiologic feature should be recognized?",
+      "image": null,
+      "options": [
+        "RV obstruction eliminates the VSD",
+        "greater RV obstruction always increases left-to-right flow",
+        "greater RV obstruction generally increases right-to-left shunting",
+        "RV obstruction guarantees normal oxygen saturation"
+      ],
+      "answer": 2,
+      "explanation": "greater RV obstruction generally increases right-to-left shunting. The relevant concept is TOF shunt direction and severity: greater RV obstruction generally increases right-to-left shunting. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Tetralogy of Fallot (TOF)",
+        "Conotruncal Defects"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch06-q132",
+      "stem": "An examination stem describes this clinical setting: a newborn has a conotruncal malformation and extracardiac findings. Which associated anatomic or physiologic feature should be recognized?",
+      "image": null,
+      "options": [
+        "trisomy 21 exclusively",
+        "Turner syndrome",
+        "22q11 deletion (DiGeorge syndrome)",
+        "Marfan syndrome"
+      ],
+      "answer": 2,
+      "explanation": "22q11 deletion (DiGeorge syndrome). The relevant concept is conotruncal syndrome association: 22q11 deletion (DiGeorge syndrome). The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Truncus Arteriosus & Neural Crest",
+        "Conotruncal Defects"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch06-q133",
+      "stem": "An examination stem describes this clinical setting: a newborn with D-TGA has severe early cyanosis. Which associated anatomic or physiologic feature should be recognized?",
+      "image": null,
+      "options": [
+        "isolated left-to-right ductal shunt",
+        "normal series circulation",
+        "single common trunk without septation",
+        "parallel systemic and pulmonary circulations"
+      ],
+      "answer": 3,
+      "explanation": "parallel systemic and pulmonary circulations. The relevant concept is D-TGA circulation: parallel systemic and pulmonary circulations. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Transposition of the Great Arteries (D-TGA)",
+        "Conotruncal Defects"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch06-q134",
+      "stem": "An examination stem describes this clinical setting: echo shows both arterial roots connected to the RV. Which associated anatomic or physiologic feature should be recognized?",
+      "image": null,
+      "options": [
+        "one trunk exits the left atrium",
+        "aorta and pulmonary artery arise from their normal ventricles",
+        "both great arteries arise from left ventricle",
+        "both great arteries arise predominantly from the right ventricle"
+      ],
+      "answer": 3,
+      "explanation": "both great arteries arise predominantly from the right ventricle. The relevant concept is double outlet right ventricle: both great arteries arise predominantly from the right ventricle. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Double Outlet Right Ventricle (DORV)",
+        "Conotruncal Defects"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch06-q135",
+      "stem": "An examination stem describes this clinical setting: an examiner asks for the classic cyanotic T lesions. Which associated anatomic or physiologic feature should be recognized?",
+      "image": null,
+      "options": [
+        "TOF, TGA and truncus arteriosus are classic examples",
+        "isolated mitral valve prolapse",
+        "isolated systemic hypertension",
+        "isolated PFO and small ASD only"
+      ],
+      "answer": 0,
+      "explanation": "TOF, TGA and truncus arteriosus are classic examples. The relevant concept is conotruncal cyanotic lesions: TOF, TGA and truncus arteriosus are classic examples. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Tetralogy of Fallot (TOF)",
+        "Conotruncal Defects"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch06-q136",
+      "stem": "An examination stem describes this clinical setting: an infant with TOF develops worsening cyanosis. Which associated anatomic or physiologic feature should be recognized?",
+      "image": null,
+      "options": [
+        "unobstructed pulmonary blood flow",
+        "right-to-left flow across the VSD with severe RV outflow obstruction",
+        "pulmonary venous return to the left atrium",
+        "isolated left-to-right atrial shunting"
+      ],
+      "answer": 1,
+      "explanation": "right-to-left flow across the VSD with severe RV outflow obstruction. The relevant concept is TOF cyanosis mechanism: right-to-left flow across the VSD with severe RV outflow obstruction. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Tetralogy of Fallot (TOF)",
+        "Conotruncal Defects"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch06-q137",
+      "stem": "An examination stem describes this clinical setting: a developmental diagram shows parallel great arteries. Which associated anatomic or physiologic feature should be recognized?",
+      "image": null,
+      "options": [
+        "premature ductal closure",
+        "excessive tricuspid leaflet displacement",
+        "isolated failure of atrial flap fusion",
+        "failure of normal aorticopulmonary septal spiraling"
+      ],
+      "answer": 3,
+      "explanation": "failure of normal aorticopulmonary septal spiraling. The relevant concept is TGA developmental mechanism: failure of normal aorticopulmonary septal spiraling. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Transposition of the Great Arteries (D-TGA)",
+        "Conotruncal Defects"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch06-q138",
+      "stem": "An examination stem describes this clinical setting: subcostal imaging shows anterior malalignment of the outlet septum. Which associated anatomic or physiologic feature should be recognized?",
+      "image": null,
+      "options": [
+        "right ventricular infundibulum/outflow tract",
+        "pulmonary veins",
+        "left atrial appendage",
+        "mitral annulus"
+      ],
+      "answer": 0,
+      "explanation": "right ventricular infundibulum/outflow tract. The relevant concept is TOF obstruction site: right ventricular infundibulum/outflow tract. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Tetralogy of Fallot (TOF)",
+        "Conotruncal Defects"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch06-q139",
+      "stem": "An examination stem describes this clinical setting: an embryology scan demonstrates outflow tract septation. Which associated anatomic or physiologic feature should be recognized?",
+      "image": null,
+      "options": [
+        "formation of the aorticopulmonary septum",
+        "formation of the coronary sinus only",
+        "formation of the ductus venosus",
+        "formation of the atrial appendages only"
+      ],
+      "answer": 0,
+      "explanation": "formation of the aorticopulmonary septum. The relevant concept is cardiac neural crest contribution: formation of the aorticopulmonary septum. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Truncus Arteriosus & Neural Crest",
+        "Conotruncal Defects"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch06-q140",
+      "stem": "An examination stem describes this clinical setting: echo demonstrates ventriculoarterial discordance. Which associated anatomic or physiologic feature should be recognized?",
+      "image": null,
+      "options": [
+        "aorta from RV and pulmonary artery from LV",
+        "aorta from LV and pulmonary artery from RV",
+        "single common arterial trunk",
+        "both great arteries from LV"
+      ],
+      "answer": 0,
+      "explanation": "aorta from RV and pulmonary artery from LV. The relevant concept is D-transposition great artery connections: aorta from RV and pulmonary artery from LV. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Transposition of the Great Arteries (D-TGA)",
+        "Conotruncal Defects"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch06-q141",
+      "stem": "An examination stem describes this clinical setting: a neonate has a single common arterial trunk. Which associated anatomic or physiologic feature should be recognized?",
+      "image": null,
+      "options": [
+        "there is no ventricular-level mixing",
+        "oxygenated and deoxygenated blood mix within a common outflow",
+        "circulations remain completely separate",
+        "pulmonary venous return is absent"
+      ],
+      "answer": 1,
+      "explanation": "oxygenated and deoxygenated blood mix within a common outflow. The relevant concept is truncus arteriosus blood mixing: oxygenated and deoxygenated blood mix within a common outflow. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Truncus Arteriosus & Neural Crest",
+        "Conotruncal Defects"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch06-q142",
+      "stem": "An examination stem describes this clinical setting: an infant has parallel outflow vessels on echo. Which associated anatomic or physiologic feature should be recognized?",
+      "image": null,
+      "options": [
+        "identify only atrial septum",
+        "assume aorta always arises from LV",
+        "trace each great artery to its ventricular origin",
+        "use mitral E/A ratio alone"
+      ],
+      "answer": 2,
+      "explanation": "trace each great artery to its ventricular origin. The relevant concept is D-TGA echo identification: trace each great artery to its ventricular origin. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Transposition of the Great Arteries (D-TGA)",
+        "Conotruncal Defects"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch06-q143",
+      "stem": "An examination stem describes this clinical setting: echo shows an overriding aorta and large VSD. Which associated anatomic or physiologic feature should be recognized?",
+      "image": null,
+      "options": [
+        "ASD, PDA, coarctation and mitral stenosis",
+        "tricuspid atresia, ASD, PDA and HLHS",
+        "TGA, TAPVC, VSD and ASD",
+        "VSD, overriding aorta, RV outflow obstruction and RV hypertrophy"
+      ],
+      "answer": 3,
+      "explanation": "VSD, overriding aorta, RV outflow obstruction and RV hypertrophy. The relevant concept is tetralogy of Fallot components: VSD, overriding aorta, RV outflow obstruction and RV hypertrophy. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Tetralogy of Fallot (TOF)",
+        "Conotruncal Defects"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch06-q144",
+      "stem": "An examination stem describes this clinical setting: the examiner compares normal outflow development with TGA. Which associated anatomic or physiologic feature should be recognized?",
+      "image": null,
+      "options": [
+        "straight septation produces normal crossing",
+        "normal spiral septation creates crossing great arteries",
+        "absent septation produces isolated ASD",
+        "septation occurs only at the atrial level"
+      ],
+      "answer": 1,
+      "explanation": "normal spiral septation creates crossing great arteries. The relevant concept is conotruncal septal spiraling: normal spiral septation creates crossing great arteries. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Transposition of the Great Arteries (D-TGA)",
+        "Conotruncal Defects"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch06-q145",
+      "stem": "An examination stem describes this clinical setting: two patients with DORV have different saturations. Which associated anatomic or physiologic feature should be recognized?",
+      "image": null,
+      "options": [
+        "is always identical to isolated PDA",
+        "never produces cyanosis",
+        "is independent of great artery anatomy",
+        "depends on VSD position and associated outflow obstruction"
+      ],
+      "answer": 3,
+      "explanation": "depends on VSD position and associated outflow obstruction. The relevant concept is DORV physiologic variability: depends on VSD position and associated outflow obstruction. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Double Outlet Right Ventricle (DORV)",
+        "Conotruncal Defects"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch06-q146",
+      "stem": "An examination stem describes this clinical setting: echo demonstrates a large outlet malalignment defect. Which associated anatomic or physiologic feature should be recognized?",
+      "image": null,
+      "options": [
+        "malalignment VSD accompanies the deviated outlet septum",
+        "VSD is impossible in TOF",
+        "VSD is confined to atrial septum",
+        "ASD is the defining TOF defect"
+      ],
+      "answer": 0,
+      "explanation": "malalignment VSD accompanies the deviated outlet septum. The relevant concept is TOF VSD relationship: malalignment VSD accompanies the deviated outlet septum. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Tetralogy of Fallot (TOF)",
+        "Conotruncal Defects"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch06-q147",
+      "stem": "An examination stem describes this clinical setting: a child has longstanding severe pulmonary stenosis in TOF. Which associated anatomic or physiologic feature should be recognized?",
+      "image": null,
+      "options": [
+        "isolated LV volume overload",
+        "pulmonary venous obstruction",
+        "mitral regurgitation",
+        "pressure loading from RV outflow obstruction"
+      ],
+      "answer": 3,
+      "explanation": "pressure loading from RV outflow obstruction. The relevant concept is TOF right ventricular hypertrophy: pressure loading from RV outflow obstruction. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Tetralogy of Fallot (TOF)",
+        "Conotruncal Defects"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch06-q148",
+      "stem": "An examination stem describes this clinical setting: an infant has a common arterial trunk and VSD. Which associated anatomic or physiologic feature should be recognized?",
+      "image": null,
+      "options": [
+        "premature fusion of tricuspid valve",
+        "isolated narrowing of aortic isthmus",
+        "isolated malformation of septum primum",
+        "failure to separate the embryonic truncus into two great arteries"
+      ],
+      "answer": 3,
+      "explanation": "failure to separate the embryonic truncus into two great arteries. The relevant concept is truncus arteriosus septation defect: failure to separate the embryonic truncus into two great arteries. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Truncus Arteriosus & Neural Crest",
+        "Conotruncal Defects"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch06-q149",
+      "stem": "An examination stem describes this clinical setting: short-axis imaging demonstrates a common arterial outlet. Which associated anatomic or physiologic feature should be recognized?",
+      "image": null,
+      "options": [
+        "a tricuspid valve connects to the aorta",
+        "no arterial valve is present",
+        "two separate normal semilunar valves are mandatory",
+        "a single semilunar valve guards the common arterial trunk"
+      ],
+      "answer": 3,
+      "explanation": "a single semilunar valve guards the common arterial trunk. The relevant concept is truncal valve identification: a single semilunar valve guards the common arterial trunk. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Conotruncal Defects",
+        "Conotruncal Defects"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch06-q150",
+      "stem": "An examination stem describes this clinical setting: an infant has a malaligned ventricular septum and narrowed RV outflow. Which associated anatomic or physiologic feature should be recognized?",
+      "image": null,
+      "options": [
+        "absence of the septum primum",
+        "failure of pulmonary venous incorporation",
+        "anterosuperior deviation of the infundibular septum",
+        "apical displacement of the tricuspid valve"
+      ],
+      "answer": 2,
+      "explanation": "anterosuperior deviation of the infundibular septum. The relevant concept is tetralogy of Fallot embryology: anterosuperior deviation of the infundibular septum. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Tetralogy of Fallot (TOF)",
+        "Conotruncal Defects"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch06-q151",
+      "stem": "When assessing persistent truncus arteriosus on echocardiography, which statement would be appropriate for the sonographer to report?",
+      "image": null,
+      "options": [
+        "aorta arises from left atrium",
+        "one arterial trunk supplies systemic and pulmonary circulations",
+        "pulmonary veins drain to coronary sinus",
+        "two normal separate great arteries"
+      ],
+      "answer": 1,
+      "explanation": "one arterial trunk supplies systemic and pulmonary circulations. The relevant concept is persistent truncus arteriosus: one arterial trunk supplies systemic and pulmonary circulations. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Truncus Arteriosus & Neural Crest",
+        "Conotruncal Defects"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch06-q152",
+      "stem": "When assessing TOF shunt direction and severity on echocardiography, which statement would be appropriate for the sonographer to report?",
+      "image": null,
+      "options": [
+        "greater RV obstruction always increases left-to-right flow",
+        "greater RV obstruction generally increases right-to-left shunting",
+        "RV obstruction guarantees normal oxygen saturation",
+        "RV obstruction eliminates the VSD"
+      ],
+      "answer": 1,
+      "explanation": "greater RV obstruction generally increases right-to-left shunting. The relevant concept is TOF shunt direction and severity: greater RV obstruction generally increases right-to-left shunting. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Tetralogy of Fallot (TOF)",
+        "Conotruncal Defects"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch06-q153",
+      "stem": "When assessing conotruncal syndrome association on echocardiography, which statement would be appropriate for the sonographer to report?",
+      "image": null,
+      "options": [
+        "Marfan syndrome",
+        "Turner syndrome",
+        "trisomy 21 exclusively",
+        "22q11 deletion (DiGeorge syndrome)"
+      ],
+      "answer": 3,
+      "explanation": "22q11 deletion (DiGeorge syndrome). The relevant concept is conotruncal syndrome association: 22q11 deletion (DiGeorge syndrome). The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Truncus Arteriosus & Neural Crest",
+        "Conotruncal Defects"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch06-q154",
+      "stem": "When assessing D-TGA circulation on echocardiography, which statement would be appropriate for the sonographer to report?",
+      "image": null,
+      "options": [
+        "isolated left-to-right ductal shunt",
+        "normal series circulation",
+        "parallel systemic and pulmonary circulations",
+        "single common trunk without septation"
+      ],
+      "answer": 2,
+      "explanation": "parallel systemic and pulmonary circulations. The relevant concept is D-TGA circulation: parallel systemic and pulmonary circulations. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Transposition of the Great Arteries (D-TGA)",
+        "Conotruncal Defects"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch06-q155",
+      "stem": "When assessing double outlet right ventricle on echocardiography, which statement would be appropriate for the sonographer to report?",
+      "image": null,
+      "options": [
+        "aorta and pulmonary artery arise from their normal ventricles",
+        "both great arteries arise from left ventricle",
+        "both great arteries arise predominantly from the right ventricle",
+        "one trunk exits the left atrium"
+      ],
+      "answer": 2,
+      "explanation": "both great arteries arise predominantly from the right ventricle. The relevant concept is double outlet right ventricle: both great arteries arise predominantly from the right ventricle. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Double Outlet Right Ventricle (DORV)",
+        "Conotruncal Defects"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch06-q156",
+      "stem": "When assessing conotruncal cyanotic lesions on echocardiography, which statement would be appropriate for the sonographer to report?",
+      "image": null,
+      "options": [
+        "TOF, TGA and truncus arteriosus are classic examples",
+        "isolated PFO and small ASD only",
+        "isolated systemic hypertension",
+        "isolated mitral valve prolapse"
+      ],
+      "answer": 0,
+      "explanation": "TOF, TGA and truncus arteriosus are classic examples. The relevant concept is conotruncal cyanotic lesions: TOF, TGA and truncus arteriosus are classic examples. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Tetralogy of Fallot (TOF)",
+        "Conotruncal Defects"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch06-q157",
+      "stem": "When assessing TOF cyanosis mechanism on echocardiography, which statement would be appropriate for the sonographer to report?",
+      "image": null,
+      "options": [
+        "unobstructed pulmonary blood flow",
+        "right-to-left flow across the VSD with severe RV outflow obstruction",
+        "pulmonary venous return to the left atrium",
+        "isolated left-to-right atrial shunting"
+      ],
+      "answer": 1,
+      "explanation": "right-to-left flow across the VSD with severe RV outflow obstruction. The relevant concept is TOF cyanosis mechanism: right-to-left flow across the VSD with severe RV outflow obstruction. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Tetralogy of Fallot (TOF)",
+        "Conotruncal Defects"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch06-q158",
+      "stem": "When assessing TGA developmental mechanism on echocardiography, which statement would be appropriate for the sonographer to report?",
+      "image": null,
+      "options": [
+        "excessive tricuspid leaflet displacement",
+        "isolated failure of atrial flap fusion",
+        "failure of normal aorticopulmonary septal spiraling",
+        "premature ductal closure"
+      ],
+      "answer": 2,
+      "explanation": "failure of normal aorticopulmonary septal spiraling. The relevant concept is TGA developmental mechanism: failure of normal aorticopulmonary septal spiraling. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Transposition of the Great Arteries (D-TGA)",
+        "Conotruncal Defects"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch06-q159",
+      "stem": "When assessing TOF obstruction site on echocardiography, which statement would be appropriate for the sonographer to report?",
+      "image": null,
+      "options": [
+        "mitral annulus",
+        "pulmonary veins",
+        "left atrial appendage",
+        "right ventricular infundibulum/outflow tract"
+      ],
+      "answer": 3,
+      "explanation": "right ventricular infundibulum/outflow tract. The relevant concept is TOF obstruction site: right ventricular infundibulum/outflow tract. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Tetralogy of Fallot (TOF)",
+        "Conotruncal Defects"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch06-q160",
+      "stem": "When assessing cardiac neural crest contribution on echocardiography, which statement would be appropriate for the sonographer to report?",
+      "image": null,
+      "options": [
+        "formation of the atrial appendages only",
+        "formation of the coronary sinus only",
+        "formation of the ductus venosus",
+        "formation of the aorticopulmonary septum"
+      ],
+      "answer": 3,
+      "explanation": "formation of the aorticopulmonary septum. The relevant concept is cardiac neural crest contribution: formation of the aorticopulmonary septum. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Truncus Arteriosus & Neural Crest",
+        "Conotruncal Defects"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch06-q161",
+      "stem": "When assessing D-transposition great artery connections on echocardiography, which statement would be appropriate for the sonographer to report?",
+      "image": null,
+      "options": [
+        "single common arterial trunk",
+        "aorta from RV and pulmonary artery from LV",
+        "aorta from LV and pulmonary artery from RV",
+        "both great arteries from LV"
+      ],
+      "answer": 1,
+      "explanation": "aorta from RV and pulmonary artery from LV. The relevant concept is D-transposition great artery connections: aorta from RV and pulmonary artery from LV. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Transposition of the Great Arteries (D-TGA)",
+        "Conotruncal Defects"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch06-q162",
+      "stem": "When assessing truncus arteriosus blood mixing on echocardiography, which statement would be appropriate for the sonographer to report?",
+      "image": null,
+      "options": [
+        "there is no ventricular-level mixing",
+        "oxygenated and deoxygenated blood mix within a common outflow",
+        "pulmonary venous return is absent",
+        "circulations remain completely separate"
+      ],
+      "answer": 1,
+      "explanation": "oxygenated and deoxygenated blood mix within a common outflow. The relevant concept is truncus arteriosus blood mixing: oxygenated and deoxygenated blood mix within a common outflow. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Truncus Arteriosus & Neural Crest",
+        "Conotruncal Defects"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch06-q163",
+      "stem": "When assessing D-TGA echo identification on echocardiography, which statement would be appropriate for the sonographer to report?",
+      "image": null,
+      "options": [
+        "assume aorta always arises from LV",
+        "use mitral E/A ratio alone",
+        "trace each great artery to its ventricular origin",
+        "identify only atrial septum"
+      ],
+      "answer": 2,
+      "explanation": "trace each great artery to its ventricular origin. The relevant concept is D-TGA echo identification: trace each great artery to its ventricular origin. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Transposition of the Great Arteries (D-TGA)",
+        "Conotruncal Defects"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch06-q164",
+      "stem": "When assessing tetralogy of Fallot components on echocardiography, which statement would be appropriate for the sonographer to report?",
+      "image": null,
+      "options": [
+        "tricuspid atresia, ASD, PDA and HLHS",
+        "TGA, TAPVC, VSD and ASD",
+        "ASD, PDA, coarctation and mitral stenosis",
+        "VSD, overriding aorta, RV outflow obstruction and RV hypertrophy"
+      ],
+      "answer": 3,
+      "explanation": "VSD, overriding aorta, RV outflow obstruction and RV hypertrophy. The relevant concept is tetralogy of Fallot components: VSD, overriding aorta, RV outflow obstruction and RV hypertrophy. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Tetralogy of Fallot (TOF)",
+        "Conotruncal Defects"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch06-q165",
+      "stem": "When assessing conotruncal septal spiraling on echocardiography, which statement would be appropriate for the sonographer to report?",
+      "image": null,
+      "options": [
+        "straight septation produces normal crossing",
+        "septation occurs only at the atrial level",
+        "absent septation produces isolated ASD",
+        "normal spiral septation creates crossing great arteries"
+      ],
+      "answer": 3,
+      "explanation": "normal spiral septation creates crossing great arteries. The relevant concept is conotruncal septal spiraling: normal spiral septation creates crossing great arteries. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Conotruncal Defects",
+        "Conotruncal Defects"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch06-q166",
+      "stem": "When assessing DORV physiologic variability on echocardiography, which statement would be appropriate for the sonographer to report?",
+      "image": null,
+      "options": [
+        "never produces cyanosis",
+        "is independent of great artery anatomy",
+        "is always identical to isolated PDA",
+        "depends on VSD position and associated outflow obstruction"
+      ],
+      "answer": 3,
+      "explanation": "depends on VSD position and associated outflow obstruction. The relevant concept is DORV physiologic variability: depends on VSD position and associated outflow obstruction. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Double Outlet Right Ventricle (DORV)",
+        "Conotruncal Defects"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch06-q167",
+      "stem": "When assessing TOF VSD relationship on echocardiography, which statement would be appropriate for the sonographer to report?",
+      "image": null,
+      "options": [
+        "VSD is impossible in TOF",
+        "ASD is the defining TOF defect",
+        "VSD is confined to atrial septum",
+        "malalignment VSD accompanies the deviated outlet septum"
+      ],
+      "answer": 3,
+      "explanation": "malalignment VSD accompanies the deviated outlet septum. The relevant concept is TOF VSD relationship: malalignment VSD accompanies the deviated outlet septum. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Tetralogy of Fallot (TOF)",
+        "Conotruncal Defects"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch06-q168",
+      "stem": "When assessing TOF right ventricular hypertrophy on echocardiography, which statement would be appropriate for the sonographer to report?",
+      "image": null,
+      "options": [
+        "pulmonary venous obstruction",
+        "isolated LV volume overload",
+        "mitral regurgitation",
+        "pressure loading from RV outflow obstruction"
+      ],
+      "answer": 3,
+      "explanation": "pressure loading from RV outflow obstruction. The relevant concept is TOF right ventricular hypertrophy: pressure loading from RV outflow obstruction. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Tetralogy of Fallot (TOF)",
+        "Conotruncal Defects"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch06-q169",
+      "stem": "When assessing truncus arteriosus septation defect on echocardiography, which statement would be appropriate for the sonographer to report?",
+      "image": null,
+      "options": [
+        "premature fusion of tricuspid valve",
+        "failure to separate the embryonic truncus into two great arteries",
+        "isolated narrowing of aortic isthmus",
+        "isolated malformation of septum primum"
+      ],
+      "answer": 1,
+      "explanation": "failure to separate the embryonic truncus into two great arteries. The relevant concept is truncus arteriosus septation defect: failure to separate the embryonic truncus into two great arteries. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Truncus Arteriosus & Neural Crest",
+        "Conotruncal Defects"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch06-q170",
+      "stem": "When assessing truncal valve identification on echocardiography, which statement would be appropriate for the sonographer to report?",
+      "image": null,
+      "options": [
+        "no arterial valve is present",
+        "two separate normal semilunar valves are mandatory",
+        "a single semilunar valve guards the common arterial trunk",
+        "a tricuspid valve connects to the aorta"
+      ],
+      "answer": 2,
+      "explanation": "a single semilunar valve guards the common arterial trunk. The relevant concept is truncal valve identification: a single semilunar valve guards the common arterial trunk. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Conotruncal Defects",
+        "Conotruncal Defects"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch06-q171",
+      "stem": "When assessing tetralogy of Fallot embryology on echocardiography, which statement would be appropriate for the sonographer to report?",
+      "image": null,
+      "options": [
+        "apical displacement of the tricuspid valve",
+        "failure of pulmonary venous incorporation",
+        "absence of the septum primum",
+        "anterosuperior deviation of the infundibular septum"
+      ],
+      "answer": 3,
+      "explanation": "anterosuperior deviation of the infundibular septum. The relevant concept is tetralogy of Fallot embryology: anterosuperior deviation of the infundibular septum. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Tetralogy of Fallot (TOF)",
+        "Conotruncal Defects"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch06-q172",
+      "stem": "When assessing D-TGA survival mechanism on echocardiography, which statement would be appropriate for the sonographer to report?",
+      "image": null,
+      "options": [
+        "isolated pulmonary valve stenosis",
+        "mixing through ASD, VSD or PDA",
+        "complete interruption of pulmonary venous return",
+        "complete closure of all fetal shunts"
+      ],
+      "answer": 1,
+      "explanation": "mixing through ASD, VSD or PDA. The relevant concept is D-TGA survival mechanism: mixing through ASD, VSD or PDA. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Transposition of the Great Arteries (D-TGA)",
+        "Conotruncal Defects"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch06-q173",
+      "stem": "When assessing DORV systemic outflow route on echocardiography, which statement would be appropriate for the sonographer to report?",
+      "image": null,
+      "options": [
+        "left ventricle empties into the right atrium",
+        "a PDA is always the only LV exit",
+        "pulmonary veins drain into the aorta",
+        "left ventricular output reaches an arterial outlet via a VSD"
+      ],
+      "answer": 3,
+      "explanation": "left ventricular output reaches an arterial outlet via a VSD. The relevant concept is DORV systemic outflow route: left ventricular output reaches an arterial outlet via a VSD. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Double Outlet Right Ventricle (DORV)",
+        "Conotruncal Defects"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch06-q174",
+      "stem": "When assessing conotruncal outflow anatomy on echocardiography, which statement would be appropriate for the sonographer to report?",
+      "image": null,
+      "options": [
+        "septum primum creates pulmonary valve",
+        "coronary sinus divides great arteries",
+        "conus and truncus contribute to ventricular outflow and great arteries",
+        "ductus venosus forms both ventricles"
+      ],
+      "answer": 2,
+      "explanation": "conus and truncus contribute to ventricular outflow and great arteries. The relevant concept is conotruncal outflow anatomy: conus and truncus contribute to ventricular outflow and great arteries. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Truncus Arteriosus & Neural Crest",
+        "Conotruncal Defects"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch06-q175",
+      "stem": "When assessing TOF overriding aorta on echocardiography, which statement would be appropriate for the sonographer to report?",
+      "image": null,
+      "options": [
+        "aorta straddles the ventricular septal defect",
+        "pulmonary artery arises from left atrium",
+        "aorta arises solely from the right atrium",
+        "aorta is interrupted distal to left subclavian artery"
+      ],
+      "answer": 0,
+      "explanation": "aorta straddles the ventricular septal defect. The relevant concept is TOF overriding aorta: aorta straddles the ventricular septal defect. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Tetralogy of Fallot (TOF)",
+        "Conotruncal Defects"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch06-q176",
+      "stem": "A trainee is reviewing a patient in whom echo shows both arterial roots connected to the RV. Which principle should guide interpretation of this finding?",
+      "image": null,
+      "options": [
+        "one trunk exits the left atrium",
+        "aorta and pulmonary artery arise from their normal ventricles",
+        "both great arteries arise from left ventricle",
+        "both great arteries arise predominantly from the right ventricle"
+      ],
+      "answer": 3,
+      "explanation": "both great arteries arise predominantly from the right ventricle. The relevant concept is double outlet right ventricle: both great arteries arise predominantly from the right ventricle. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Double Outlet Right Ventricle (DORV)",
+        "Conotruncal Defects"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch06-q177",
+      "stem": "A trainee is reviewing a patient in whom an examiner asks for the classic cyanotic T lesions. Which principle should guide interpretation of this finding?",
+      "image": null,
+      "options": [
+        "isolated mitral valve prolapse",
+        "TOF, TGA and truncus arteriosus are classic examples",
+        "isolated systemic hypertension",
+        "isolated PFO and small ASD only"
+      ],
+      "answer": 1,
+      "explanation": "TOF, TGA and truncus arteriosus are classic examples. The relevant concept is conotruncal cyanotic lesions: TOF, TGA and truncus arteriosus are classic examples. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Tetralogy of Fallot (TOF)",
+        "Conotruncal Defects"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch06-q178",
+      "stem": "A trainee is reviewing a patient in whom an infant with TOF develops worsening cyanosis. Which principle should guide interpretation of this finding?",
+      "image": null,
+      "options": [
+        "right-to-left flow across the VSD with severe RV outflow obstruction",
+        "pulmonary venous return to the left atrium",
+        "unobstructed pulmonary blood flow",
+        "isolated left-to-right atrial shunting"
+      ],
+      "answer": 0,
+      "explanation": "right-to-left flow across the VSD with severe RV outflow obstruction. The relevant concept is TOF cyanosis mechanism: right-to-left flow across the VSD with severe RV outflow obstruction. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Tetralogy of Fallot (TOF)",
+        "Conotruncal Defects"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch06-q179",
+      "stem": "A trainee is reviewing a patient in whom a developmental diagram shows parallel great arteries. Which principle should guide interpretation of this finding?",
+      "image": null,
+      "options": [
+        "failure of normal aorticopulmonary septal spiraling",
+        "premature ductal closure",
+        "isolated failure of atrial flap fusion",
+        "excessive tricuspid leaflet displacement"
+      ],
+      "answer": 0,
+      "explanation": "failure of normal aorticopulmonary septal spiraling. The relevant concept is TGA developmental mechanism: failure of normal aorticopulmonary septal spiraling. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Transposition of the Great Arteries (D-TGA)",
+        "Conotruncal Defects"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch06-q180",
+      "stem": "A trainee is reviewing a patient in whom subcostal imaging shows anterior malalignment of the outlet septum. Which principle should guide interpretation of this finding?",
+      "image": null,
+      "options": [
+        "left atrial appendage",
+        "mitral annulus",
+        "right ventricular infundibulum/outflow tract",
+        "pulmonary veins"
+      ],
+      "answer": 2,
+      "explanation": "right ventricular infundibulum/outflow tract. The relevant concept is TOF obstruction site: right ventricular infundibulum/outflow tract. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Tetralogy of Fallot (TOF)",
+        "Conotruncal Defects"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch06-q181",
+      "stem": "A trainee is reviewing a patient in whom an embryology scan demonstrates outflow tract septation. Which principle should guide interpretation of this finding?",
+      "image": null,
+      "options": [
+        "formation of the ductus venosus",
+        "formation of the coronary sinus only",
+        "formation of the atrial appendages only",
+        "formation of the aorticopulmonary septum"
+      ],
+      "answer": 3,
+      "explanation": "formation of the aorticopulmonary septum. The relevant concept is cardiac neural crest contribution: formation of the aorticopulmonary septum. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Truncus Arteriosus & Neural Crest",
+        "Conotruncal Defects"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch06-q182",
+      "stem": "A trainee is reviewing a patient in whom echo demonstrates ventriculoarterial discordance. Which principle should guide interpretation of this finding?",
+      "image": null,
+      "options": [
+        "both great arteries from LV",
+        "aorta from RV and pulmonary artery from LV",
+        "aorta from LV and pulmonary artery from RV",
+        "single common arterial trunk"
+      ],
+      "answer": 1,
+      "explanation": "aorta from RV and pulmonary artery from LV. The relevant concept is D-transposition great artery connections: aorta from RV and pulmonary artery from LV. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Transposition of the Great Arteries (D-TGA)",
+        "Conotruncal Defects"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch06-q183",
+      "stem": "A trainee is reviewing a patient in whom a neonate has a single common arterial trunk. Which principle should guide interpretation of this finding?",
+      "image": null,
+      "options": [
+        "pulmonary venous return is absent",
+        "oxygenated and deoxygenated blood mix within a common outflow",
+        "circulations remain completely separate",
+        "there is no ventricular-level mixing"
+      ],
+      "answer": 1,
+      "explanation": "oxygenated and deoxygenated blood mix within a common outflow. The relevant concept is truncus arteriosus blood mixing: oxygenated and deoxygenated blood mix within a common outflow. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Truncus Arteriosus & Neural Crest",
+        "Conotruncal Defects"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch06-q184",
+      "stem": "A trainee is reviewing a patient in whom an infant has parallel outflow vessels on echo. Which principle should guide interpretation of this finding?",
+      "image": null,
+      "options": [
+        "use mitral E/A ratio alone",
+        "assume aorta always arises from LV",
+        "trace each great artery to its ventricular origin",
+        "identify only atrial septum"
+      ],
+      "answer": 2,
+      "explanation": "trace each great artery to its ventricular origin. The relevant concept is D-TGA echo identification: trace each great artery to its ventricular origin. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Transposition of the Great Arteries (D-TGA)",
+        "Conotruncal Defects"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch06-q185",
+      "stem": "A trainee is reviewing a patient in whom echo shows an overriding aorta and large VSD. Which principle should guide interpretation of this finding?",
+      "image": null,
+      "options": [
+        "tricuspid atresia, ASD, PDA and HLHS",
+        "TGA, TAPVC, VSD and ASD",
+        "ASD, PDA, coarctation and mitral stenosis",
+        "VSD, overriding aorta, RV outflow obstruction and RV hypertrophy"
+      ],
+      "answer": 3,
+      "explanation": "VSD, overriding aorta, RV outflow obstruction and RV hypertrophy. The relevant concept is tetralogy of Fallot components: VSD, overriding aorta, RV outflow obstruction and RV hypertrophy. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Tetralogy of Fallot (TOF)",
+        "Conotruncal Defects"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch06-q186",
+      "stem": "A trainee is reviewing a patient in whom the examiner compares normal outflow development with TGA. Which principle should guide interpretation of this finding?",
+      "image": null,
+      "options": [
+        "septation occurs only at the atrial level",
+        "normal spiral septation creates crossing great arteries",
+        "absent septation produces isolated ASD",
+        "straight septation produces normal crossing"
+      ],
+      "answer": 1,
+      "explanation": "normal spiral septation creates crossing great arteries. The relevant concept is conotruncal septal spiraling: normal spiral septation creates crossing great arteries. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Transposition of the Great Arteries (D-TGA)",
+        "Conotruncal Defects"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch06-q187",
+      "stem": "A trainee is reviewing a patient in whom two patients with DORV have different saturations. Which principle should guide interpretation of this finding?",
+      "image": null,
+      "options": [
+        "is always identical to isolated PDA",
+        "depends on VSD position and associated outflow obstruction",
+        "is independent of great artery anatomy",
+        "never produces cyanosis"
+      ],
+      "answer": 1,
+      "explanation": "depends on VSD position and associated outflow obstruction. The relevant concept is DORV physiologic variability: depends on VSD position and associated outflow obstruction. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Double Outlet Right Ventricle (DORV)",
+        "Conotruncal Defects"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch06-q188",
+      "stem": "A trainee is reviewing a patient in whom echo demonstrates a large outlet malalignment defect. Which principle should guide interpretation of this finding?",
+      "image": null,
+      "options": [
+        "ASD is the defining TOF defect",
+        "malalignment VSD accompanies the deviated outlet septum",
+        "VSD is confined to atrial septum",
+        "VSD is impossible in TOF"
+      ],
+      "answer": 1,
+      "explanation": "malalignment VSD accompanies the deviated outlet septum. The relevant concept is TOF VSD relationship: malalignment VSD accompanies the deviated outlet septum. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Tetralogy of Fallot (TOF)",
+        "Conotruncal Defects"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch06-q189",
+      "stem": "A trainee is reviewing a patient in whom a child has longstanding severe pulmonary stenosis in TOF. Which principle should guide interpretation of this finding?",
+      "image": null,
+      "options": [
+        "mitral regurgitation",
+        "pulmonary venous obstruction",
+        "isolated LV volume overload",
+        "pressure loading from RV outflow obstruction"
+      ],
+      "answer": 3,
+      "explanation": "pressure loading from RV outflow obstruction. The relevant concept is TOF right ventricular hypertrophy: pressure loading from RV outflow obstruction. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Tetralogy of Fallot (TOF)",
+        "Conotruncal Defects"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch06-q190",
+      "stem": "A trainee is reviewing a patient in whom an infant has a common arterial trunk and VSD. Which principle should guide interpretation of this finding?",
+      "image": null,
+      "options": [
+        "premature fusion of tricuspid valve",
+        "isolated narrowing of aortic isthmus",
+        "isolated malformation of septum primum",
+        "failure to separate the embryonic truncus into two great arteries"
+      ],
+      "answer": 3,
+      "explanation": "failure to separate the embryonic truncus into two great arteries. The relevant concept is truncus arteriosus septation defect: failure to separate the embryonic truncus into two great arteries. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Truncus Arteriosus & Neural Crest",
+        "Conotruncal Defects"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch06-q191",
+      "stem": "A trainee is reviewing a patient in whom short-axis imaging demonstrates a common arterial outlet. Which principle should guide interpretation of this finding?",
+      "image": null,
+      "options": [
+        "no arterial valve is present",
+        "a single semilunar valve guards the common arterial trunk",
+        "a tricuspid valve connects to the aorta",
+        "two separate normal semilunar valves are mandatory"
+      ],
+      "answer": 1,
+      "explanation": "a single semilunar valve guards the common arterial trunk. The relevant concept is truncal valve identification: a single semilunar valve guards the common arterial trunk. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Conotruncal Defects",
+        "Conotruncal Defects"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch06-q192",
+      "stem": "A trainee is reviewing a patient in whom an infant has a malaligned ventricular septum and narrowed RV outflow. Which principle should guide interpretation of this finding?",
+      "image": null,
+      "options": [
+        "failure of pulmonary venous incorporation",
+        "apical displacement of the tricuspid valve",
+        "anterosuperior deviation of the infundibular septum",
+        "absence of the septum primum"
+      ],
+      "answer": 2,
+      "explanation": "anterosuperior deviation of the infundibular septum. The relevant concept is tetralogy of Fallot embryology: anterosuperior deviation of the infundibular septum. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Tetralogy of Fallot (TOF)",
+        "Conotruncal Defects"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch06-q193",
+      "stem": "A trainee is reviewing a patient in whom a newborn with transposition survives because a communication permits mixing. Which principle should guide interpretation of this finding?",
+      "image": null,
+      "options": [
+        "complete closure of all fetal shunts",
+        "isolated pulmonary valve stenosis",
+        "mixing through ASD, VSD or PDA",
+        "complete interruption of pulmonary venous return"
+      ],
+      "answer": 2,
+      "explanation": "mixing through ASD, VSD or PDA. The relevant concept is D-TGA survival mechanism: mixing through ASD, VSD or PDA. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Transposition of the Great Arteries (D-TGA)",
+        "Conotruncal Defects"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch06-q194",
+      "stem": "A trainee is reviewing a patient in whom a child with DORV has a ventricular septal defect. Which principle should guide interpretation of this finding?",
+      "image": null,
+      "options": [
+        "left ventricle empties into the right atrium",
+        "pulmonary veins drain into the aorta",
+        "left ventricular output reaches an arterial outlet via a VSD",
+        "a PDA is always the only LV exit"
+      ],
+      "answer": 2,
+      "explanation": "left ventricular output reaches an arterial outlet via a VSD. The relevant concept is DORV systemic outflow route: left ventricular output reaches an arterial outlet via a VSD. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Double Outlet Right Ventricle (DORV)",
+        "Conotruncal Defects"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch06-q195",
+      "stem": "A trainee is reviewing a patient in whom an embryology teaching image labels bulbus cordis and truncus. Which principle should guide interpretation of this finding?",
+      "image": null,
+      "options": [
+        "coronary sinus divides great arteries",
+        "ductus venosus forms both ventricles",
+        "conus and truncus contribute to ventricular outflow and great arteries",
+        "septum primum creates pulmonary valve"
+      ],
+      "answer": 2,
+      "explanation": "conus and truncus contribute to ventricular outflow and great arteries. The relevant concept is conotruncal outflow anatomy: conus and truncus contribute to ventricular outflow and great arteries. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Truncus Arteriosus & Neural Crest",
+        "Conotruncal Defects"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch06-q196",
+      "stem": "A trainee is reviewing a patient in whom parasternal long-axis imaging shows aortic root over the septum. Which principle should guide interpretation of this finding?",
+      "image": null,
+      "options": [
+        "aorta straddles the ventricular septal defect",
+        "pulmonary artery arises from left atrium",
+        "aorta arises solely from the right atrium",
+        "aorta is interrupted distal to left subclavian artery"
+      ],
+      "answer": 0,
+      "explanation": "aorta straddles the ventricular septal defect. The relevant concept is TOF overriding aorta: aorta straddles the ventricular septal defect. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Tetralogy of Fallot (TOF)",
+        "Conotruncal Defects"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch06-q197",
+      "stem": "A trainee is reviewing a patient in whom echo identifies a single arterial outlet. Which principle should guide interpretation of this finding?",
+      "image": null,
+      "options": [
+        "aorta arises from left atrium",
+        "two normal separate great arteries",
+        "one arterial trunk supplies systemic and pulmonary circulations",
+        "pulmonary veins drain to coronary sinus"
+      ],
+      "answer": 2,
+      "explanation": "one arterial trunk supplies systemic and pulmonary circulations. The relevant concept is persistent truncus arteriosus: one arterial trunk supplies systemic and pulmonary circulations. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Truncus Arteriosus & Neural Crest",
+        "Conotruncal Defects"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch06-q198",
+      "stem": "A trainee is reviewing a patient in whom a patient with TOF develops tighter RV outflow narrowing. Which principle should guide interpretation of this finding?",
+      "image": null,
+      "options": [
+        "RV obstruction eliminates the VSD",
+        "greater RV obstruction always increases left-to-right flow",
+        "greater RV obstruction generally increases right-to-left shunting",
+        "RV obstruction guarantees normal oxygen saturation"
+      ],
+      "answer": 2,
+      "explanation": "greater RV obstruction generally increases right-to-left shunting. The relevant concept is TOF shunt direction and severity: greater RV obstruction generally increases right-to-left shunting. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Tetralogy of Fallot (TOF)",
+        "Conotruncal Defects"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch06-q199",
+      "stem": "A trainee is reviewing a patient in whom a newborn has a conotruncal malformation and extracardiac findings. Which principle should guide interpretation of this finding?",
+      "image": null,
+      "options": [
+        "trisomy 21 exclusively",
+        "Turner syndrome",
+        "Marfan syndrome",
+        "22q11 deletion (DiGeorge syndrome)"
+      ],
+      "answer": 3,
+      "explanation": "22q11 deletion (DiGeorge syndrome). The relevant concept is conotruncal syndrome association: 22q11 deletion (DiGeorge syndrome). The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Truncus Arteriosus & Neural Crest",
+        "Conotruncal Defects"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch06-q200",
+      "stem": "A trainee is reviewing a patient in whom a newborn with D-TGA has severe early cyanosis. Which principle should guide interpretation of this finding?",
+      "image": null,
+      "options": [
+        "parallel systemic and pulmonary circulations",
+        "single common trunk without septation",
+        "isolated left-to-right ductal shunt",
+        "normal series circulation"
+      ],
+      "answer": 0,
+      "explanation": "parallel systemic and pulmonary circulations. The relevant concept is D-TGA circulation: parallel systemic and pulmonary circulations. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Transposition of the Great Arteries (D-TGA)",
+        "Conotruncal Defects"
+      ],
+      "reference": ""
+    }
+  ]
+}

@@ -1,0 +1,3806 @@
+{
+  "chapterId": "ch08",
+  "title": "Complex Congenital Heart Disease",
+  "questions": [
+    {
+      "id": "DCS5003-ch08-q001",
+      "stem": "An infant is diagnosed with hypoplastic left heart syndrome. Which chamber is typically responsible for maintaining systemic cardiac output?",
+      "image": null,
+      "options": [
+        "Hypoplastic left ventricle",
+        "Left atrium",
+        "Coronary sinus",
+        "Right ventricle"
+      ],
+      "answer": 3,
+      "explanation": "Right ventricle. Included practice-test question (original wording; duplicate PDF copies counted once).",
+      "explanationImage": null,
+      "tags": [
+        "Hypoplastic Left Heart Syndrome (HLHS)",
+        "Complex Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch08-q002",
+      "stem": "Which echocardiographic finding is characteristic of Ebstein anomaly?",
+      "image": null,
+      "options": [
+        "Apical displacement of the septal and posterior tricuspid valve leaflets",
+        "Superior displacement of the mitral valve leaflets",
+        "Absence of the pulmonary valve",
+        "Overriding of the aorta above a VSD"
+      ],
+      "answer": 0,
+      "explanation": "Apical displacement of the septal and posterior tricuspid valve leaflets. Included practice-test question (original wording; duplicate PDF copies counted once).",
+      "explanationImage": null,
+      "tags": [
+        "Ebstein Anomaly",
+        "Complex Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch08-q003",
+      "stem": "Following staged palliation for single-ventricle physiology, the Fontan procedure is designed to:",
+      "image": null,
+      "options": [
+        "Connect the right ventricle directly to the pulmonary artery",
+        "Create a connection between the aorta and pulmonary artery",
+        "Direct systemic venous blood passively to the pulmonary arteries without a subpulmonary ventricular pump",
+        "Restore normal two-ventricle circulation through an arterial switch"
+      ],
+      "answer": 2,
+      "explanation": "Direct systemic venous blood passively to the pulmonary arteries without a subpulmonary ventricular pump. Included practice-test question (original wording; duplicate PDF copies counted once).",
+      "explanationImage": null,
+      "tags": [
+        "Tricuspid Atresia & Single Ventricle",
+        "Complex Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch08-q004",
+      "stem": "During an adult/pediatric echocardiography board-style review, the sonographer is asked to identify the key feature of HLHS systemic pump. Which answer is BEST?",
+      "image": null,
+      "options": [
+        "coronary sinus",
+        "hypoplastic left ventricle",
+        "right ventricle",
+        "left atrium"
+      ],
+      "answer": 2,
+      "explanation": "right ventricle. Hlhs systemic pump: right ventricle. Lecture-derived review item.",
+      "explanationImage": null,
+      "tags": [
+        "Hypoplastic Left Heart Syndrome (HLHS)",
+        "Complex Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch08-q005",
+      "stem": "During an adult/pediatric echocardiography board-style review, the sonographer is asked to identify the key feature of Ebstein anomaly valve anatomy. Which answer is BEST?",
+      "image": null,
+      "options": [
+        "overriding aorta",
+        "apical displacement of septal and posterior tricuspid leaflets",
+        "absent pulmonary valve",
+        "apical displacement of mitral valve"
+      ],
+      "answer": 1,
+      "explanation": "apical displacement of septal and posterior tricuspid leaflets. Ebstein anomaly valve anatomy: apical displacement of septal and posterior tricuspid leaflets. Lecture-derived review item.",
+      "explanationImage": null,
+      "tags": [
+        "Ebstein Anomaly",
+        "Complex Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch08-q006",
+      "stem": "During an adult/pediatric echocardiography board-style review, the sonographer is asked to identify the key feature of Fontan physiology. Which answer is BEST?",
+      "image": null,
+      "options": [
+        "restoration of two functional ventricles",
+        "aorta-to-PA shunt only",
+        "direct RV-to-PA pumping",
+        "passive systemic venous flow to pulmonary arteries without subpulmonary ventricular pump"
+      ],
+      "answer": 3,
+      "explanation": "passive systemic venous flow to pulmonary arteries without subpulmonary ventricular pump. Fontan physiology: passive systemic venous flow to pulmonary arteries without subpulmonary ventricular pump. Lecture-derived review item.",
+      "explanationImage": null,
+      "tags": [
+        "Tricuspid Atresia & Single Ventricle",
+        "Complex Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch08-q007",
+      "stem": "Echo shows no patent tricuspid orifice. Which finding or explanation is MOST consistent with tricuspid atresia definition?",
+      "image": null,
+      "options": [
+        "aortic valve with two cusps",
+        "absent right atrium-to-right ventricle connection",
+        "absence of mitral valve",
+        "pulmonary veins draining to RA"
+      ],
+      "answer": 1,
+      "explanation": "absent right atrium-to-right ventricle connection. Tricuspid atresia definition: absent right atrium-to-right ventricle connection. Lecture-derived review item.",
+      "explanationImage": null,
+      "tags": [
+        "Tricuspid Atresia & Single Ventricle",
+        "Complex Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch08-q008",
+      "stem": "During an adult/pediatric echocardiography board-style review, the sonographer is asked to identify the key feature of tricuspid atresia definition. Which answer is BEST?",
+      "image": null,
+      "options": [
+        "aortic valve with two cusps",
+        "pulmonary veins draining to RA",
+        "absence of mitral valve",
+        "absent right atrium-to-right ventricle connection"
+      ],
+      "answer": 3,
+      "explanation": "absent right atrium-to-right ventricle connection. Tricuspid atresia definition: absent right atrium-to-right ventricle connection. Lecture-derived review item.",
+      "explanationImage": null,
+      "tags": [
+        "Tricuspid Atresia & Single Ventricle",
+        "Complex Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch08-q009",
+      "stem": "A newborn has an imperforate tricuspid valve. Which finding or explanation is MOST consistent with tricuspid atresia RV morphology?",
+      "image": null,
+      "options": [
+        "isolated left atrial hypoplasia",
+        "absence of left ventricle",
+        "dilated normally functioning RV in all cases",
+        "hypoplastic right ventricle"
+      ],
+      "answer": 3,
+      "explanation": "hypoplastic right ventricle. Tricuspid atresia rv morphology: hypoplastic right ventricle. Lecture-derived review item.",
+      "explanationImage": null,
+      "tags": [
+        "Tricuspid Atresia & Single Ventricle",
+        "Complex Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch08-q010",
+      "stem": "During an adult/pediatric echocardiography board-style review, the sonographer is asked to identify the key feature of tricuspid atresia RV morphology. Which answer is BEST?",
+      "image": null,
+      "options": [
+        "dilated normally functioning RV in all cases",
+        "absence of left ventricle",
+        "isolated left atrial hypoplasia",
+        "hypoplastic right ventricle"
+      ],
+      "answer": 3,
+      "explanation": "hypoplastic right ventricle. Tricuspid atresia rv morphology: hypoplastic right ventricle. Lecture-derived review item.",
+      "explanationImage": null,
+      "tags": [
+        "Tricuspid Atresia & Single Ventricle",
+        "Complex Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch08-q011",
+      "stem": "Systemic venous return reaches RA without an RV inlet. Which finding or explanation is MOST consistent with tricuspid atresia obligatory shunt?",
+      "image": null,
+      "options": [
+        "isolated left-to-right ductal shunt",
+        "right-to-left atrial shunt through ASD/PFO",
+        "no interatrial communication required",
+        "left-to-right atrial shunt only"
+      ],
+      "answer": 1,
+      "explanation": "right-to-left atrial shunt through ASD/PFO. Tricuspid atresia obligatory shunt: right-to-left atrial shunt through ASD/PFO. Lecture-derived review item.",
+      "explanationImage": null,
+      "tags": [
+        "Tricuspid Atresia & Single Ventricle",
+        "Complex Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch08-q012",
+      "stem": "During an adult/pediatric echocardiography board-style review, the sonographer is asked to identify the key feature of tricuspid atresia obligatory shunt. Which answer is BEST?",
+      "image": null,
+      "options": [
+        "isolated left-to-right ductal shunt",
+        "right-to-left atrial shunt through ASD/PFO",
+        "no interatrial communication required",
+        "left-to-right atrial shunt only"
+      ],
+      "answer": 1,
+      "explanation": "right-to-left atrial shunt through ASD/PFO. Tricuspid atresia obligatory shunt: right-to-left atrial shunt through ASD/PFO. Lecture-derived review item.",
+      "explanationImage": null,
+      "tags": [
+        "Tricuspid Atresia & Single Ventricle",
+        "Complex Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch08-q013",
+      "stem": "An infant has type I tricuspid atresia. Which finding or explanation is MOST consistent with tricuspid atresia type I?",
+      "image": null,
+      "options": [
+        "single common arterial trunk",
+        "normally related great arteries",
+        "D-transposition of great arteries",
+        "L-transposition of great arteries"
+      ],
+      "answer": 1,
+      "explanation": "normally related great arteries. Tricuspid atresia type i: normally related great arteries. Lecture-derived review item.",
+      "explanationImage": null,
+      "tags": [
+        "Tricuspid Atresia & Single Ventricle",
+        "Complex Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch08-q014",
+      "stem": "During an adult/pediatric echocardiography board-style review, the sonographer is asked to identify the key feature of tricuspid atresia type I. Which answer is BEST?",
+      "image": null,
+      "options": [
+        "normally related great arteries",
+        "single common arterial trunk",
+        "D-transposition of great arteries",
+        "L-transposition of great arteries"
+      ],
+      "answer": 0,
+      "explanation": "normally related great arteries. Tricuspid atresia type i: normally related great arteries. Lecture-derived review item.",
+      "explanationImage": null,
+      "tags": [
+        "Tricuspid Atresia & Single Ventricle",
+        "Complex Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch08-q015",
+      "stem": "Echo demonstrates type II tricuspid atresia. Which finding or explanation is MOST consistent with tricuspid atresia type II?",
+      "image": null,
+      "options": [
+        "associated L-transposition",
+        "normally related great arteries",
+        "associated D-transposition",
+        "always absent pulmonary artery"
+      ],
+      "answer": 2,
+      "explanation": "associated D-transposition. Tricuspid atresia type ii: associated D-transposition. Lecture-derived review item.",
+      "explanationImage": null,
+      "tags": [
+        "Tricuspid Atresia & Single Ventricle",
+        "Complex Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch08-q016",
+      "stem": "During an adult/pediatric echocardiography board-style review, the sonographer is asked to identify the key feature of tricuspid atresia type II. Which answer is BEST?",
+      "image": null,
+      "options": [
+        "normally related great arteries",
+        "always absent pulmonary artery",
+        "associated L-transposition",
+        "associated D-transposition"
+      ],
+      "answer": 3,
+      "explanation": "associated D-transposition. Tricuspid atresia type ii: associated D-transposition. Lecture-derived review item.",
+      "explanationImage": null,
+      "tags": [
+        "Tricuspid Atresia & Single Ventricle",
+        "Complex Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch08-q017",
+      "stem": "An infant has type III tricuspid atresia. Which finding or explanation is MOST consistent with tricuspid atresia type III?",
+      "image": null,
+      "options": [
+        "always truncus arteriosus",
+        "associated D-transposition",
+        "associated L-transposition",
+        "normally related great arteries"
+      ],
+      "answer": 2,
+      "explanation": "associated L-transposition. Tricuspid atresia type iii: associated L-transposition. Lecture-derived review item.",
+      "explanationImage": null,
+      "tags": [
+        "Tricuspid Atresia & Single Ventricle",
+        "Complex Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch08-q018",
+      "stem": "During an adult/pediatric echocardiography board-style review, the sonographer is asked to identify the key feature of tricuspid atresia type III. Which answer is BEST?",
+      "image": null,
+      "options": [
+        "always truncus arteriosus",
+        "associated D-transposition",
+        "associated L-transposition",
+        "normally related great arteries"
+      ],
+      "answer": 2,
+      "explanation": "associated L-transposition. Tricuspid atresia type iii: associated L-transposition. Lecture-derived review item.",
+      "explanationImage": null,
+      "tags": [
+        "Tricuspid Atresia & Single Ventricle",
+        "Complex Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch08-q019",
+      "stem": "A newborn has tricuspid atresia with normally related great arteries. Which finding or explanation is MOST consistent with tricuspid atresia pulmonary blood route?",
+      "image": null,
+      "options": [
+        "LV output may cross VSD to supply pulmonary artery in normally related arteries",
+        "RA directly ejects into RV",
+        "aorta always supplies pulmonary veins",
+        "pulmonary veins drain directly to RV"
+      ],
+      "answer": 0,
+      "explanation": "LV output may cross VSD to supply pulmonary artery in normally related arteries. Tricuspid atresia pulmonary blood route: LV output may cross VSD to supply pulmonary artery in normally related arteries. Lecture-derived review item.",
+      "explanationImage": null,
+      "tags": [
+        "Tricuspid Atresia & Single Ventricle",
+        "Complex Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch08-q020",
+      "stem": "During an adult/pediatric echocardiography board-style review, the sonographer is asked to identify the key feature of tricuspid atresia pulmonary blood route. Which answer is BEST?",
+      "image": null,
+      "options": [
+        "pulmonary veins drain directly to RV",
+        "RA directly ejects into RV",
+        "LV output may cross VSD to supply pulmonary artery in normally related arteries",
+        "aorta always supplies pulmonary veins"
+      ],
+      "answer": 2,
+      "explanation": "LV output may cross VSD to supply pulmonary artery in normally related arteries. Tricuspid atresia pulmonary blood route: LV output may cross VSD to supply pulmonary artery in normally related arteries. Lecture-derived review item.",
+      "explanationImage": null,
+      "tags": [
+        "Tricuspid Atresia & Single Ventricle",
+        "Complex Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch08-q021",
+      "stem": "Apical displacement divides the morphologic RV. Which finding or explanation is MOST consistent with Ebstein atrialized ventricle?",
+      "image": null,
+      "options": [
+        "left ventricle becomes aortic root",
+        "proximal portion of RV becomes functionally atrialized",
+        "left atrium becomes pulmonary artery",
+        "RV outflow becomes coronary sinus"
+      ],
+      "answer": 1,
+      "explanation": "proximal portion of RV becomes functionally atrialized. Ebstein atrialized ventricle: proximal portion of RV becomes functionally atrialized. Lecture-derived review item.",
+      "explanationImage": null,
+      "tags": [
+        "Ebstein Anomaly",
+        "Complex Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch08-q022",
+      "stem": "During an adult/pediatric echocardiography board-style review, the sonographer is asked to identify the key feature of Ebstein atrialized ventricle. Which answer is BEST?",
+      "image": null,
+      "options": [
+        "proximal portion of RV becomes functionally atrialized",
+        "left atrium becomes pulmonary artery",
+        "left ventricle becomes aortic root",
+        "RV outflow becomes coronary sinus"
+      ],
+      "answer": 0,
+      "explanation": "proximal portion of RV becomes functionally atrialized. Ebstein atrialized ventricle: proximal portion of RV becomes functionally atrialized. Lecture-derived review item.",
+      "explanationImage": null,
+      "tags": [
+        "Ebstein Anomaly",
+        "Complex Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch08-q023",
+      "stem": "Color Doppler interrogates a malformed displaced tricuspid valve. Which finding or explanation is MOST consistent with Ebstein regurgitation?",
+      "image": null,
+      "options": [
+        "pulmonary venous atresia is obligatory",
+        "tricuspid regurgitation is common",
+        "aortic atresia is obligatory",
+        "mitral stenosis is obligatory"
+      ],
+      "answer": 1,
+      "explanation": "tricuspid regurgitation is common. Ebstein regurgitation: tricuspid regurgitation is common. Lecture-derived review item.",
+      "explanationImage": null,
+      "tags": [
+        "Ebstein Anomaly",
+        "Complex Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch08-q024",
+      "stem": "During an adult/pediatric echocardiography board-style review, the sonographer is asked to identify the key feature of Ebstein regurgitation. Which answer is BEST?",
+      "image": null,
+      "options": [
+        "aortic atresia is obligatory",
+        "pulmonary venous atresia is obligatory",
+        "tricuspid regurgitation is common",
+        "mitral stenosis is obligatory"
+      ],
+      "answer": 2,
+      "explanation": "tricuspid regurgitation is common. Ebstein regurgitation: tricuspid regurgitation is common. Lecture-derived review item.",
+      "explanationImage": null,
+      "tags": [
+        "Ebstein Anomaly",
+        "Complex Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch08-q025",
+      "stem": "A patient with Ebstein anomaly has palpitations. Which finding or explanation is MOST consistent with Ebstein rhythm association?",
+      "image": null,
+      "options": [
+        "isolated sinus bradycardia only",
+        "complete absence of conduction tissue",
+        "ventricular standstill in every patient",
+        "accessory pathways and arrhythmias"
+      ],
+      "answer": 3,
+      "explanation": "accessory pathways and arrhythmias. Ebstein rhythm association: accessory pathways and arrhythmias. Lecture-derived review item.",
+      "explanationImage": null,
+      "tags": [
+        "Ebstein Anomaly",
+        "Complex Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch08-q026",
+      "stem": "During an adult/pediatric echocardiography board-style review, the sonographer is asked to identify the key feature of Ebstein rhythm association. Which answer is BEST?",
+      "image": null,
+      "options": [
+        "accessory pathways and arrhythmias",
+        "complete absence of conduction tissue",
+        "ventricular standstill in every patient",
+        "isolated sinus bradycardia only"
+      ],
+      "answer": 0,
+      "explanation": "accessory pathways and arrhythmias. Ebstein rhythm association: accessory pathways and arrhythmias. Lecture-derived review item.",
+      "explanationImage": null,
+      "tags": [
+        "Ebstein Anomaly",
+        "Complex Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch08-q027",
+      "stem": "A cyanotic patient has severe Ebstein anomaly. Which finding or explanation is MOST consistent with Ebstein atrial communication?",
+      "image": null,
+      "options": [
+        "pulmonary veins drain to coronary sinus in every case",
+        "ASD/PFO may allow right-to-left shunting",
+        "a PDA always closes before birth",
+        "a VSD is obligatory in every case"
+      ],
+      "answer": 1,
+      "explanation": "ASD/PFO may allow right-to-left shunting. Ebstein atrial communication: ASD/PFO may allow right-to-left shunting. Lecture-derived review item.",
+      "explanationImage": null,
+      "tags": [
+        "Ebstein Anomaly",
+        "Complex Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch08-q028",
+      "stem": "During an adult/pediatric echocardiography board-style review, the sonographer is asked to identify the key feature of Ebstein atrial communication. Which answer is BEST?",
+      "image": null,
+      "options": [
+        "ASD/PFO may allow right-to-left shunting",
+        "pulmonary veins drain to coronary sinus in every case",
+        "a VSD is obligatory in every case",
+        "a PDA always closes before birth"
+      ],
+      "answer": 0,
+      "explanation": "ASD/PFO may allow right-to-left shunting. Ebstein atrial communication: ASD/PFO may allow right-to-left shunting. Lecture-derived review item.",
+      "explanationImage": null,
+      "tags": [
+        "Ebstein Anomaly",
+        "Complex Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch08-q029",
+      "stem": "Echo cannot identify any pulmonary venous entrance into LA. Which finding or explanation is MOST consistent with TAPVC definition?",
+      "image": null,
+      "options": [
+        "no pulmonary veins are present",
+        "one pulmonary vein connects anomalously",
+        "all pulmonary veins connect to systemic venous circulation rather than LA",
+        "pulmonary veins connect normally to LA"
+      ],
+      "answer": 2,
+      "explanation": "all pulmonary veins connect to systemic venous circulation rather than LA. Tapvc definition: all pulmonary veins connect to systemic venous circulation rather than LA. Lecture-derived review item.",
+      "explanationImage": null,
+      "tags": [
+        "Total Anomalous Pulmonary Venous Connection (TAPVC)",
+        "Complex Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch08-q030",
+      "stem": "During an adult/pediatric echocardiography board-style review, the sonographer is asked to identify the key feature of TAPVC definition. Which answer is BEST?",
+      "image": null,
+      "options": [
+        "all pulmonary veins connect to systemic venous circulation rather than LA",
+        "pulmonary veins connect normally to LA",
+        "one pulmonary vein connects anomalously",
+        "no pulmonary veins are present"
+      ],
+      "answer": 0,
+      "explanation": "all pulmonary veins connect to systemic venous circulation rather than LA. Tapvc definition: all pulmonary veins connect to systemic venous circulation rather than LA. Lecture-derived review item.",
+      "explanationImage": null,
+      "tags": [
+        "Total Anomalous Pulmonary Venous Connection (TAPVC)",
+        "Complex Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch08-q031",
+      "stem": "An infant has total anomalous pulmonary venous connection. Which finding or explanation is MOST consistent with TAPVC survival communication?",
+      "image": null,
+      "options": [
+        "an atrial communication is needed for blood to reach left heart",
+        "isolated aortic stenosis",
+        "absence of systemic venous return",
+        "closure of all atrial communications"
+      ],
+      "answer": 0,
+      "explanation": "an atrial communication is needed for blood to reach left heart. Tapvc survival communication: an atrial communication is needed for blood to reach left heart. Lecture-derived review item.",
+      "explanationImage": null,
+      "tags": [
+        "Total Anomalous Pulmonary Venous Connection (TAPVC)",
+        "Complex Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch08-q032",
+      "stem": "During an adult/pediatric echocardiography board-style review, the sonographer is asked to identify the key feature of TAPVC survival communication. Which answer is BEST?",
+      "image": null,
+      "options": [
+        "absence of systemic venous return",
+        "an atrial communication is needed for blood to reach left heart",
+        "isolated aortic stenosis",
+        "closure of all atrial communications"
+      ],
+      "answer": 1,
+      "explanation": "an atrial communication is needed for blood to reach left heart. Tapvc survival communication: an atrial communication is needed for blood to reach left heart. Lecture-derived review item.",
+      "explanationImage": null,
+      "tags": [
+        "Total Anomalous Pulmonary Venous Connection (TAPVC)",
+        "Complex Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch08-q033",
+      "stem": "A vertical vein ascends toward innominate vein. Which finding or explanation is MOST consistent with supracardiac TAPVC?",
+      "image": null,
+      "options": [
+        "pulmonary venous confluence drains above the heart via a vertical vein",
+        "pulmonary veins drain directly to LV",
+        "pulmonary veins enter LA normally",
+        "drainage exclusively below diaphragm"
+      ],
+      "answer": 0,
+      "explanation": "pulmonary venous confluence drains above the heart via a vertical vein. Supracardiac tapvc: pulmonary venous confluence drains above the heart via a vertical vein. Lecture-derived review item.",
+      "explanationImage": null,
+      "tags": [
+        "Total Anomalous Pulmonary Venous Connection (TAPVC)",
+        "Complex Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch08-q034",
+      "stem": "During an adult/pediatric echocardiography board-style review, the sonographer is asked to identify the key feature of supracardiac TAPVC. Which answer is BEST?",
+      "image": null,
+      "options": [
+        "pulmonary veins enter LA normally",
+        "pulmonary veins drain directly to LV",
+        "drainage exclusively below diaphragm",
+        "pulmonary venous confluence drains above the heart via a vertical vein"
+      ],
+      "answer": 3,
+      "explanation": "pulmonary venous confluence drains above the heart via a vertical vein. Supracardiac tapvc: pulmonary venous confluence drains above the heart via a vertical vein. Lecture-derived review item.",
+      "explanationImage": null,
+      "tags": [
+        "Total Anomalous Pulmonary Venous Connection (TAPVC)",
+        "Complex Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch08-q035",
+      "stem": "Echo shows a markedly enlarged coronary sinus. Which finding or explanation is MOST consistent with cardiac TAPVC?",
+      "image": null,
+      "options": [
+        "pulmonary venous drainage to coronary sinus or right atrium",
+        "drainage via descending vertical vein below diaphragm",
+        "pulmonary venous drainage to aorta",
+        "pulmonary venous drainage directly to LA"
+      ],
+      "answer": 0,
+      "explanation": "pulmonary venous drainage to coronary sinus or right atrium. Cardiac tapvc: pulmonary venous drainage to coronary sinus or right atrium. Lecture-derived review item.",
+      "explanationImage": null,
+      "tags": [
+        "Total Anomalous Pulmonary Venous Connection (TAPVC)",
+        "Complex Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch08-q036",
+      "stem": "During an adult/pediatric echocardiography board-style review, the sonographer is asked to identify the key feature of cardiac TAPVC. Which answer is BEST?",
+      "image": null,
+      "options": [
+        "pulmonary venous drainage to aorta",
+        "drainage via descending vertical vein below diaphragm",
+        "pulmonary venous drainage directly to LA",
+        "pulmonary venous drainage to coronary sinus or right atrium"
+      ],
+      "answer": 3,
+      "explanation": "pulmonary venous drainage to coronary sinus or right atrium. Cardiac tapvc: pulmonary venous drainage to coronary sinus or right atrium. Lecture-derived review item.",
+      "explanationImage": null,
+      "tags": [
+        "Total Anomalous Pulmonary Venous Connection (TAPVC)",
+        "Complex Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch08-q037",
+      "stem": "A pulmonary venous collector descends through diaphragm. Which finding or explanation is MOST consistent with infracardiac TAPVC?",
+      "image": null,
+      "options": [
+        "pulmonary venous return courses below diaphragm",
+        "all veins connect to SVC above heart",
+        "pulmonary veins drain directly into LA",
+        "pulmonary veins drain to LV"
+      ],
+      "answer": 0,
+      "explanation": "pulmonary venous return courses below diaphragm. Infracardiac tapvc: pulmonary venous return courses below diaphragm. Lecture-derived review item.",
+      "explanationImage": null,
+      "tags": [
+        "Total Anomalous Pulmonary Venous Connection (TAPVC)",
+        "Complex Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch08-q038",
+      "stem": "During an adult/pediatric echocardiography board-style review, the sonographer is asked to identify the key feature of infracardiac TAPVC. Which answer is BEST?",
+      "image": null,
+      "options": [
+        "pulmonary veins drain to LV",
+        "pulmonary venous return courses below diaphragm",
+        "pulmonary veins drain directly into LA",
+        "all veins connect to SVC above heart"
+      ],
+      "answer": 1,
+      "explanation": "pulmonary venous return courses below diaphragm. Infracardiac tapvc: pulmonary venous return courses below diaphragm. Lecture-derived review item.",
+      "explanationImage": null,
+      "tags": [
+        "Total Anomalous Pulmonary Venous Connection (TAPVC)",
+        "Complex Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch08-q039",
+      "stem": "A cyanotic newborn has pulmonary edema and anomalous venous return. Which finding or explanation is MOST consistent with obstructed TAPVC?",
+      "image": null,
+      "options": [
+        "normal pulmonary venous return",
+        "severe pulmonary venous congestion and cyanosis",
+        "isolated systemic hypertension",
+        "absence of right-sided chamber loading"
+      ],
+      "answer": 1,
+      "explanation": "severe pulmonary venous congestion and cyanosis. Obstructed tapvc: severe pulmonary venous congestion and cyanosis. Lecture-derived review item.",
+      "explanationImage": null,
+      "tags": [
+        "Total Anomalous Pulmonary Venous Connection (TAPVC)",
+        "Complex Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch08-q040",
+      "stem": "During an adult/pediatric echocardiography board-style review, the sonographer is asked to identify the key feature of obstructed TAPVC. Which answer is BEST?",
+      "image": null,
+      "options": [
+        "normal pulmonary venous return",
+        "isolated systemic hypertension",
+        "severe pulmonary venous congestion and cyanosis",
+        "absence of right-sided chamber loading"
+      ],
+      "answer": 2,
+      "explanation": "severe pulmonary venous congestion and cyanosis. Obstructed tapvc: severe pulmonary venous congestion and cyanosis. Lecture-derived review item.",
+      "explanationImage": null,
+      "tags": [
+        "Total Anomalous Pulmonary Venous Connection (TAPVC)",
+        "Complex Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch08-q041",
+      "stem": "Echo shows severe ventricular underdevelopment. Which finding or explanation is MOST consistent with single ventricle physiology?",
+      "image": null,
+      "options": [
+        "two fully separate normal ventricles",
+        "no systemic venous return",
+        "one functional ventricular chamber supports circulation",
+        "no pulmonary blood flow under any circumstances"
+      ],
+      "answer": 2,
+      "explanation": "one functional ventricular chamber supports circulation. Single ventricle physiology: one functional ventricular chamber supports circulation. Lecture-derived review item.",
+      "explanationImage": null,
+      "tags": [
+        "Tricuspid Atresia & Single Ventricle",
+        "Complex Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch08-q042",
+      "stem": "During an adult/pediatric echocardiography board-style review, the sonographer is asked to identify the key feature of single ventricle physiology. Which answer is BEST?",
+      "image": null,
+      "options": [
+        "no pulmonary blood flow under any circumstances",
+        "no systemic venous return",
+        "one functional ventricular chamber supports circulation",
+        "two fully separate normal ventricles"
+      ],
+      "answer": 2,
+      "explanation": "one functional ventricular chamber supports circulation. Single ventricle physiology: one functional ventricular chamber supports circulation. Lecture-derived review item.",
+      "explanationImage": null,
+      "tags": [
+        "Tricuspid Atresia & Single Ventricle",
+        "Complex Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch08-q043",
+      "stem": "A neonate with HLHS becomes unstable when ductus constricts. Which finding or explanation is MOST consistent with HLHS ductal dependence?",
+      "image": null,
+      "options": [
+        "LV ejects normally through a large aortic valve",
+        "PDA is always irrelevant",
+        "ASD alone supplies the descending aorta directly",
+        "PDA supports systemic perfusion"
+      ],
+      "answer": 3,
+      "explanation": "PDA supports systemic perfusion. Hlhs ductal dependence: PDA supports systemic perfusion. Lecture-derived review item.",
+      "explanationImage": null,
+      "tags": [
+        "Hypoplastic Left Heart Syndrome (HLHS)",
+        "Complex Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch08-q044",
+      "stem": "During an adult/pediatric echocardiography board-style review, the sonographer is asked to identify the key feature of HLHS ductal dependence. Which answer is BEST?",
+      "image": null,
+      "options": [
+        "ASD alone supplies the descending aorta directly",
+        "LV ejects normally through a large aortic valve",
+        "PDA supports systemic perfusion",
+        "PDA is always irrelevant"
+      ],
+      "answer": 2,
+      "explanation": "PDA supports systemic perfusion. Hlhs ductal dependence: PDA supports systemic perfusion. Lecture-derived review item.",
+      "explanationImage": null,
+      "tags": [
+        "Hypoplastic Left Heart Syndrome (HLHS)",
+        "Complex Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch08-q045",
+      "stem": "Echo evaluates atrial septal restriction in HLHS. Which finding or explanation is MOST consistent with HLHS atrial communication?",
+      "image": null,
+      "options": [
+        "complete atrial septal closure is always beneficial",
+        "interatrial communication permits pulmonary venous egress",
+        "pulmonary veins enter RV directly",
+        "the left atrium is absent in all cases"
+      ],
+      "answer": 1,
+      "explanation": "interatrial communication permits pulmonary venous egress. Hlhs atrial communication: interatrial communication permits pulmonary venous egress. Lecture-derived review item.",
+      "explanationImage": null,
+      "tags": [
+        "Hypoplastic Left Heart Syndrome (HLHS)",
+        "Complex Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch08-q046",
+      "stem": "During an adult/pediatric echocardiography board-style review, the sonographer is asked to identify the key feature of HLHS atrial communication. Which answer is BEST?",
+      "image": null,
+      "options": [
+        "the left atrium is absent in all cases",
+        "pulmonary veins enter RV directly",
+        "interatrial communication permits pulmonary venous egress",
+        "complete atrial septal closure is always beneficial"
+      ],
+      "answer": 2,
+      "explanation": "interatrial communication permits pulmonary venous egress. Hlhs atrial communication: interatrial communication permits pulmonary venous egress. Lecture-derived review item.",
+      "explanationImage": null,
+      "tags": [
+        "Hypoplastic Left Heart Syndrome (HLHS)",
+        "Complex Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch08-q047",
+      "stem": "A child is undergoing staged single-ventricle palliation. Which finding or explanation is MOST consistent with Glenn stage?",
+      "image": null,
+      "options": [
+        "superior vena cava blood is directed to pulmonary arteries",
+        "VSD is closed to restore biventricular flow",
+        "aortic valve replaced with pulmonary valve",
+        "inferior vena cava connected to left atrium"
+      ],
+      "answer": 0,
+      "explanation": "superior vena cava blood is directed to pulmonary arteries. Glenn stage: superior vena cava blood is directed to pulmonary arteries. Lecture-derived review item.",
+      "explanationImage": null,
+      "tags": [
+        "Tricuspid Atresia & Single Ventricle",
+        "Complex Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch08-q048",
+      "stem": "During an adult/pediatric echocardiography board-style review, the sonographer is asked to identify the key feature of Glenn stage. Which answer is BEST?",
+      "image": null,
+      "options": [
+        "inferior vena cava connected to left atrium",
+        "aortic valve replaced with pulmonary valve",
+        "VSD is closed to restore biventricular flow",
+        "superior vena cava blood is directed to pulmonary arteries"
+      ],
+      "answer": 3,
+      "explanation": "superior vena cava blood is directed to pulmonary arteries. Glenn stage: superior vena cava blood is directed to pulmonary arteries. Lecture-derived review item.",
+      "explanationImage": null,
+      "tags": [
+        "Tricuspid Atresia & Single Ventricle",
+        "Complex Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch08-q049",
+      "stem": "A child completes the cavopulmonary pathway. Which finding or explanation is MOST consistent with Fontan completion?",
+      "image": null,
+      "options": [
+        "LV reconstructed from RV tissue",
+        "systemic venous return is routed to pulmonary circulation",
+        "pulmonary veins routed to systemic veins",
+        "aorta directly connected to right atrium"
+      ],
+      "answer": 1,
+      "explanation": "systemic venous return is routed to pulmonary circulation. Fontan completion: systemic venous return is routed to pulmonary circulation. Lecture-derived review item.",
+      "explanationImage": null,
+      "tags": [
+        "Tricuspid Atresia & Single Ventricle",
+        "Complex Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch08-q050",
+      "stem": "During an adult/pediatric echocardiography board-style review, the sonographer is asked to identify the key feature of Fontan completion. Which answer is BEST?",
+      "image": null,
+      "options": [
+        "aorta directly connected to right atrium",
+        "systemic venous return is routed to pulmonary circulation",
+        "LV reconstructed from RV tissue",
+        "pulmonary veins routed to systemic veins"
+      ],
+      "answer": 1,
+      "explanation": "systemic venous return is routed to pulmonary circulation. Fontan completion: systemic venous return is routed to pulmonary circulation. Lecture-derived review item.",
+      "explanationImage": null,
+      "tags": [
+        "Tricuspid Atresia & Single Ventricle",
+        "Complex Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch08-q051",
+      "stem": "A newborn has hypoplastic left heart syndrome. Which finding best explains the clinical or imaging observation related to HLHS systemic pump?",
+      "image": null,
+      "options": [
+        "right ventricle",
+        "left atrium",
+        "hypoplastic left ventricle",
+        "coronary sinus"
+      ],
+      "answer": 0,
+      "explanation": "right ventricle. The relevant concept is HLHS systemic pump: right ventricle. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Hypoplastic Left Heart Syndrome (HLHS)",
+        "Complex Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch08-q052",
+      "stem": "Echo demonstrates type ii tricuspid atresia. Which finding best explains the clinical or imaging observation related to tricuspid atresia type II?",
+      "image": null,
+      "options": [
+        "associated L-transposition",
+        "normally related great arteries",
+        "always absent pulmonary artery",
+        "associated D-transposition"
+      ],
+      "answer": 3,
+      "explanation": "associated D-transposition. The relevant concept is tricuspid atresia type II: associated D-transposition. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Tricuspid Atresia & Single Ventricle",
+        "Complex Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch08-q053",
+      "stem": "Echo cannot identify any pulmonary venous entrance into la. Which finding best explains the clinical or imaging observation related to TAPVC definition?",
+      "image": null,
+      "options": [
+        "pulmonary veins connect normally to LA",
+        "all pulmonary veins connect to systemic venous circulation rather than LA",
+        "one pulmonary vein connects anomalously",
+        "no pulmonary veins are present"
+      ],
+      "answer": 1,
+      "explanation": "all pulmonary veins connect to systemic venous circulation rather than LA. The relevant concept is TAPVC definition: all pulmonary veins connect to systemic venous circulation rather than LA. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Total Anomalous Pulmonary Venous Connection (TAPVC)",
+        "Complex Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch08-q054",
+      "stem": "A neonate with hlhs becomes unstable when ductus constricts. Which finding best explains the clinical or imaging observation related to HLHS ductal dependence?",
+      "image": null,
+      "options": [
+        "PDA supports systemic perfusion",
+        "ASD alone supplies the descending aorta directly",
+        "PDA is always irrelevant",
+        "LV ejects normally through a large aortic valve"
+      ],
+      "answer": 0,
+      "explanation": "PDA supports systemic perfusion. The relevant concept is HLHS ductal dependence: PDA supports systemic perfusion. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Hypoplastic Left Heart Syndrome (HLHS)",
+        "Complex Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch08-q055",
+      "stem": "Echo shows no patent tricuspid orifice. Which finding best explains the clinical or imaging observation related to tricuspid atresia definition?",
+      "image": null,
+      "options": [
+        "pulmonary veins draining to RA",
+        "aortic valve with two cusps",
+        "absent right atrium-to-right ventricle connection",
+        "absence of mitral valve"
+      ],
+      "answer": 2,
+      "explanation": "absent right atrium-to-right ventricle connection. The relevant concept is tricuspid atresia definition: absent right atrium-to-right ventricle connection. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Tricuspid Atresia & Single Ventricle",
+        "Complex Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch08-q056",
+      "stem": "Apical displacement divides the morphologic rv. Which finding best explains the clinical or imaging observation related to Ebstein atrialized ventricle?",
+      "image": null,
+      "options": [
+        "left atrium becomes pulmonary artery",
+        "left ventricle becomes aortic root",
+        "RV outflow becomes coronary sinus",
+        "proximal portion of RV becomes functionally atrialized"
+      ],
+      "answer": 3,
+      "explanation": "proximal portion of RV becomes functionally atrialized. The relevant concept is Ebstein atrialized ventricle: proximal portion of RV becomes functionally atrialized. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Ebstein Anomaly",
+        "Complex Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch08-q057",
+      "stem": "Echo shows a markedly enlarged coronary sinus. Which finding best explains the clinical or imaging observation related to cardiac TAPVC?",
+      "image": null,
+      "options": [
+        "drainage via descending vertical vein below diaphragm",
+        "pulmonary venous drainage to aorta",
+        "pulmonary venous drainage to coronary sinus or right atrium",
+        "pulmonary venous drainage directly to LA"
+      ],
+      "answer": 2,
+      "explanation": "pulmonary venous drainage to coronary sinus or right atrium. The relevant concept is cardiac TAPVC: pulmonary venous drainage to coronary sinus or right atrium. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Total Anomalous Pulmonary Venous Connection (TAPVC)",
+        "Complex Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch08-q058",
+      "stem": "A child completes the cavopulmonary pathway. Which finding best explains the clinical or imaging observation related to Fontan completion?",
+      "image": null,
+      "options": [
+        "pulmonary veins routed to systemic veins",
+        "systemic venous return is routed to pulmonary circulation",
+        "aorta directly connected to right atrium",
+        "LV reconstructed from RV tissue"
+      ],
+      "answer": 1,
+      "explanation": "systemic venous return is routed to pulmonary circulation. The relevant concept is Fontan completion: systemic venous return is routed to pulmonary circulation. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Tricuspid Atresia & Single Ventricle",
+        "Complex Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch08-q059",
+      "stem": "An infant has type i tricuspid atresia. Which finding best explains the clinical or imaging observation related to tricuspid atresia type I?",
+      "image": null,
+      "options": [
+        "normally related great arteries",
+        "single common arterial trunk",
+        "L-transposition of great arteries",
+        "D-transposition of great arteries"
+      ],
+      "answer": 0,
+      "explanation": "normally related great arteries. The relevant concept is tricuspid atresia type I: normally related great arteries. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Tricuspid Atresia & Single Ventricle",
+        "Complex Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch08-q060",
+      "stem": "A cyanotic patient has severe ebstein anomaly. Which finding best explains the clinical or imaging observation related to Ebstein atrial communication?",
+      "image": null,
+      "options": [
+        "a PDA always closes before birth",
+        "ASD/PFO may allow right-to-left shunting",
+        "pulmonary veins drain to coronary sinus in every case",
+        "a VSD is obligatory in every case"
+      ],
+      "answer": 1,
+      "explanation": "ASD/PFO may allow right-to-left shunting. The relevant concept is Ebstein atrial communication: ASD/PFO may allow right-to-left shunting. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Ebstein Anomaly",
+        "Complex Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch08-q061",
+      "stem": "Echo shows severe ventricular underdevelopment. Which finding best explains the clinical or imaging observation related to single ventricle physiology?",
+      "image": null,
+      "options": [
+        "no pulmonary blood flow under any circumstances",
+        "two fully separate normal ventricles",
+        "no systemic venous return",
+        "one functional ventricular chamber supports circulation"
+      ],
+      "answer": 3,
+      "explanation": "one functional ventricular chamber supports circulation. The relevant concept is single ventricle physiology: one functional ventricular chamber supports circulation. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Tricuspid Atresia & Single Ventricle",
+        "Complex Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch08-q062",
+      "stem": "A patient has completed staged single-ventricle palliation. Which finding best explains the clinical or imaging observation related to Fontan physiology?",
+      "image": null,
+      "options": [
+        "passive systemic venous flow to pulmonary arteries without subpulmonary ventricular pump",
+        "aorta-to-PA shunt only",
+        "restoration of two functional ventricles",
+        "direct RV-to-PA pumping"
+      ],
+      "answer": 0,
+      "explanation": "passive systemic venous flow to pulmonary arteries without subpulmonary ventricular pump. The relevant concept is Fontan physiology: passive systemic venous flow to pulmonary arteries without subpulmonary ventricular pump. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Tricuspid Atresia & Single Ventricle",
+        "Complex Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch08-q063",
+      "stem": "A newborn has tricuspid atresia with normally related great arteries. Which finding best explains the clinical or imaging observation related to tricuspid atresia pulmonary blood route?",
+      "image": null,
+      "options": [
+        "aorta always supplies pulmonary veins",
+        "RA directly ejects into RV",
+        "pulmonary veins drain directly to RV",
+        "LV output may cross VSD to supply pulmonary artery in normally related arteries"
+      ],
+      "answer": 3,
+      "explanation": "LV output may cross VSD to supply pulmonary artery in normally related arteries. The relevant concept is tricuspid atresia pulmonary blood route: LV output may cross VSD to supply pulmonary artery in normally related arteries. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Tricuspid Atresia & Single Ventricle",
+        "Complex Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch08-q064",
+      "stem": "A vertical vein ascends toward innominate vein. Which finding best explains the clinical or imaging observation related to supracardiac TAPVC?",
+      "image": null,
+      "options": [
+        "pulmonary veins enter LA normally",
+        "drainage exclusively below diaphragm",
+        "pulmonary venous confluence drains above the heart via a vertical vein",
+        "pulmonary veins drain directly to LV"
+      ],
+      "answer": 2,
+      "explanation": "pulmonary venous confluence drains above the heart via a vertical vein. The relevant concept is supracardiac TAPVC: pulmonary venous confluence drains above the heart via a vertical vein. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Total Anomalous Pulmonary Venous Connection (TAPVC)",
+        "Complex Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch08-q065",
+      "stem": "A child is undergoing staged single-ventricle palliation. Which finding best explains the clinical or imaging observation related to Glenn stage?",
+      "image": null,
+      "options": [
+        "aortic valve replaced with pulmonary valve",
+        "inferior vena cava connected to left atrium",
+        "VSD is closed to restore biventricular flow",
+        "superior vena cava blood is directed to pulmonary arteries"
+      ],
+      "answer": 3,
+      "explanation": "superior vena cava blood is directed to pulmonary arteries. The relevant concept is Glenn stage: superior vena cava blood is directed to pulmonary arteries. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Tricuspid Atresia & Single Ventricle",
+        "Complex Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch08-q066",
+      "stem": "Systemic venous return reaches ra without an rv inlet. Which finding best explains the clinical or imaging observation related to tricuspid atresia obligatory shunt?",
+      "image": null,
+      "options": [
+        "left-to-right atrial shunt only",
+        "no interatrial communication required",
+        "isolated left-to-right ductal shunt",
+        "right-to-left atrial shunt through ASD/PFO"
+      ],
+      "answer": 3,
+      "explanation": "right-to-left atrial shunt through ASD/PFO. The relevant concept is tricuspid atresia obligatory shunt: right-to-left atrial shunt through ASD/PFO. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Tricuspid Atresia & Single Ventricle",
+        "Complex Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch08-q067",
+      "stem": "A patient with ebstein anomaly has palpitations. Which finding best explains the clinical or imaging observation related to Ebstein rhythm association?",
+      "image": null,
+      "options": [
+        "ventricular standstill in every patient",
+        "complete absence of conduction tissue",
+        "accessory pathways and arrhythmias",
+        "isolated sinus bradycardia only"
+      ],
+      "answer": 2,
+      "explanation": "accessory pathways and arrhythmias. The relevant concept is Ebstein rhythm association: accessory pathways and arrhythmias. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Ebstein Anomaly",
+        "Complex Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch08-q068",
+      "stem": "A cyanotic newborn has pulmonary edema and anomalous venous return. Which finding best explains the clinical or imaging observation related to obstructed TAPVC?",
+      "image": null,
+      "options": [
+        "normal pulmonary venous return",
+        "absence of right-sided chamber loading",
+        "severe pulmonary venous congestion and cyanosis",
+        "isolated systemic hypertension"
+      ],
+      "answer": 2,
+      "explanation": "severe pulmonary venous congestion and cyanosis. The relevant concept is obstructed TAPVC: severe pulmonary venous congestion and cyanosis. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Total Anomalous Pulmonary Venous Connection (TAPVC)",
+        "Complex Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch08-q069",
+      "stem": "Apical four-chamber imaging shows abnormal tricuspid insertion. Which finding best explains the clinical or imaging observation related to Ebstein anomaly valve anatomy?",
+      "image": null,
+      "options": [
+        "overriding aorta",
+        "apical displacement of septal and posterior tricuspid leaflets",
+        "absent pulmonary valve",
+        "apical displacement of mitral valve"
+      ],
+      "answer": 1,
+      "explanation": "apical displacement of septal and posterior tricuspid leaflets. The relevant concept is Ebstein anomaly valve anatomy: apical displacement of septal and posterior tricuspid leaflets. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Ebstein Anomaly",
+        "Complex Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch08-q070",
+      "stem": "An infant has type iii tricuspid atresia. Which finding best explains the clinical or imaging observation related to tricuspid atresia type III?",
+      "image": null,
+      "options": [
+        "associated L-transposition",
+        "always truncus arteriosus",
+        "associated D-transposition",
+        "normally related great arteries"
+      ],
+      "answer": 0,
+      "explanation": "associated L-transposition. The relevant concept is tricuspid atresia type III: associated L-transposition. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Tricuspid Atresia & Single Ventricle",
+        "Complex Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch08-q071",
+      "stem": "An infant has total anomalous pulmonary venous connection. Which finding best explains the clinical or imaging observation related to TAPVC survival communication?",
+      "image": null,
+      "options": [
+        "isolated aortic stenosis",
+        "an atrial communication is needed for blood to reach left heart",
+        "absence of systemic venous return",
+        "closure of all atrial communications"
+      ],
+      "answer": 1,
+      "explanation": "an atrial communication is needed for blood to reach left heart. The relevant concept is TAPVC survival communication: an atrial communication is needed for blood to reach left heart. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Total Anomalous Pulmonary Venous Connection (TAPVC)",
+        "Complex Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch08-q072",
+      "stem": "Echo evaluates atrial septal restriction in hlhs. Which finding best explains the clinical or imaging observation related to HLHS atrial communication?",
+      "image": null,
+      "options": [
+        "complete atrial septal closure is always beneficial",
+        "pulmonary veins enter RV directly",
+        "the left atrium is absent in all cases",
+        "interatrial communication permits pulmonary venous egress"
+      ],
+      "answer": 3,
+      "explanation": "interatrial communication permits pulmonary venous egress. The relevant concept is HLHS atrial communication: interatrial communication permits pulmonary venous egress. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Hypoplastic Left Heart Syndrome (HLHS)",
+        "Complex Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch08-q073",
+      "stem": "A newborn has an imperforate tricuspid valve. Which finding best explains the clinical or imaging observation related to tricuspid atresia RV morphology?",
+      "image": null,
+      "options": [
+        "absence of left ventricle",
+        "isolated left atrial hypoplasia",
+        "hypoplastic right ventricle",
+        "dilated normally functioning RV in all cases"
+      ],
+      "answer": 2,
+      "explanation": "hypoplastic right ventricle. The relevant concept is tricuspid atresia RV morphology: hypoplastic right ventricle. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Tricuspid Atresia & Single Ventricle",
+        "Complex Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch08-q074",
+      "stem": "Color doppler interrogates a malformed displaced tricuspid valve. Which finding best explains the clinical or imaging observation related to Ebstein regurgitation?",
+      "image": null,
+      "options": [
+        "aortic atresia is obligatory",
+        "mitral stenosis is obligatory",
+        "pulmonary venous atresia is obligatory",
+        "tricuspid regurgitation is common"
+      ],
+      "answer": 3,
+      "explanation": "tricuspid regurgitation is common. The relevant concept is Ebstein regurgitation: tricuspid regurgitation is common. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Ebstein Anomaly",
+        "Complex Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch08-q075",
+      "stem": "A pulmonary venous collector descends through diaphragm. Which finding best explains the clinical or imaging observation related to infracardiac TAPVC?",
+      "image": null,
+      "options": [
+        "pulmonary venous return courses below diaphragm",
+        "pulmonary veins drain directly into LA",
+        "pulmonary veins drain to LV",
+        "all veins connect to SVC above heart"
+      ],
+      "answer": 0,
+      "explanation": "pulmonary venous return courses below diaphragm. The relevant concept is infracardiac TAPVC: pulmonary venous return courses below diaphragm. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Total Anomalous Pulmonary Venous Connection (TAPVC)",
+        "Complex Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch08-q076",
+      "stem": "A sonographer reviews the echocardiogram in a case where echo shows no patent tricuspid orifice. Which interpretation is most consistent with the underlying tricuspid atresia definition?",
+      "image": null,
+      "options": [
+        "pulmonary veins draining to RA",
+        "absent right atrium-to-right ventricle connection",
+        "absence of mitral valve",
+        "aortic valve with two cusps"
+      ],
+      "answer": 1,
+      "explanation": "absent right atrium-to-right ventricle connection. The relevant concept is tricuspid atresia definition: absent right atrium-to-right ventricle connection. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Tricuspid Atresia & Single Ventricle",
+        "Complex Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch08-q077",
+      "stem": "A sonographer reviews the echocardiogram in a case where apical displacement divides the morphologic RV. Which interpretation is most consistent with the underlying Ebstein atrialized ventricle?",
+      "image": null,
+      "options": [
+        "left atrium becomes pulmonary artery",
+        "left ventricle becomes aortic root",
+        "proximal portion of RV becomes functionally atrialized",
+        "RV outflow becomes coronary sinus"
+      ],
+      "answer": 2,
+      "explanation": "proximal portion of RV becomes functionally atrialized. The relevant concept is Ebstein atrialized ventricle: proximal portion of RV becomes functionally atrialized. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Ebstein Anomaly",
+        "Complex Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch08-q078",
+      "stem": "A sonographer reviews the echocardiogram in a case where echo shows a markedly enlarged coronary sinus. Which interpretation is most consistent with the underlying cardiac TAPVC?",
+      "image": null,
+      "options": [
+        "pulmonary venous drainage directly to LA",
+        "pulmonary venous drainage to coronary sinus or right atrium",
+        "pulmonary venous drainage to aorta",
+        "drainage via descending vertical vein below diaphragm"
+      ],
+      "answer": 1,
+      "explanation": "pulmonary venous drainage to coronary sinus or right atrium. The relevant concept is cardiac TAPVC: pulmonary venous drainage to coronary sinus or right atrium. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Total Anomalous Pulmonary Venous Connection (TAPVC)",
+        "Complex Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch08-q079",
+      "stem": "A sonographer reviews the echocardiogram in a case where a child completes the cavopulmonary pathway. Which interpretation is most consistent with the underlying Fontan completion?",
+      "image": null,
+      "options": [
+        "pulmonary veins routed to systemic veins",
+        "systemic venous return is routed to pulmonary circulation",
+        "aorta directly connected to right atrium",
+        "LV reconstructed from RV tissue"
+      ],
+      "answer": 1,
+      "explanation": "systemic venous return is routed to pulmonary circulation. The relevant concept is Fontan completion: systemic venous return is routed to pulmonary circulation. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Tricuspid Atresia & Single Ventricle",
+        "Complex Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch08-q080",
+      "stem": "A sonographer reviews the echocardiogram in a case where an infant has type I tricuspid atresia. Which interpretation is most consistent with the underlying tricuspid atresia type I?",
+      "image": null,
+      "options": [
+        "single common arterial trunk",
+        "L-transposition of great arteries",
+        "normally related great arteries",
+        "D-transposition of great arteries"
+      ],
+      "answer": 2,
+      "explanation": "normally related great arteries. The relevant concept is tricuspid atresia type I: normally related great arteries. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Tricuspid Atresia & Single Ventricle",
+        "Complex Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch08-q081",
+      "stem": "A sonographer reviews the echocardiogram in a case where a cyanotic patient has severe Ebstein anomaly. Which interpretation is most consistent with the underlying Ebstein atrial communication?",
+      "image": null,
+      "options": [
+        "a VSD is obligatory in every case",
+        "a PDA always closes before birth",
+        "ASD/PFO may allow right-to-left shunting",
+        "pulmonary veins drain to coronary sinus in every case"
+      ],
+      "answer": 2,
+      "explanation": "ASD/PFO may allow right-to-left shunting. The relevant concept is Ebstein atrial communication: ASD/PFO may allow right-to-left shunting. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Ebstein Anomaly",
+        "Complex Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch08-q082",
+      "stem": "A sonographer reviews the echocardiogram in a case where echo shows severe ventricular underdevelopment. Which interpretation is most consistent with the underlying single ventricle physiology?",
+      "image": null,
+      "options": [
+        "no pulmonary blood flow under any circumstances",
+        "one functional ventricular chamber supports circulation",
+        "two fully separate normal ventricles",
+        "no systemic venous return"
+      ],
+      "answer": 1,
+      "explanation": "one functional ventricular chamber supports circulation. The relevant concept is single ventricle physiology: one functional ventricular chamber supports circulation. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Tricuspid Atresia & Single Ventricle",
+        "Complex Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch08-q083",
+      "stem": "A sonographer reviews the echocardiogram in a case where a patient has completed staged single-ventricle palliation. Which interpretation is most consistent with the underlying Fontan physiology?",
+      "image": null,
+      "options": [
+        "direct RV-to-PA pumping",
+        "restoration of two functional ventricles",
+        "aorta-to-PA shunt only",
+        "passive systemic venous flow to pulmonary arteries without subpulmonary ventricular pump"
+      ],
+      "answer": 3,
+      "explanation": "passive systemic venous flow to pulmonary arteries without subpulmonary ventricular pump. The relevant concept is Fontan physiology: passive systemic venous flow to pulmonary arteries without subpulmonary ventricular pump. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Tricuspid Atresia & Single Ventricle",
+        "Complex Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch08-q084",
+      "stem": "A sonographer reviews the echocardiogram in a case where a newborn has tricuspid atresia with normally related great arteries. Which interpretation is most consistent with the underlying tricuspid atresia pulmonary blood route?",
+      "image": null,
+      "options": [
+        "LV output may cross VSD to supply pulmonary artery in normally related arteries",
+        "RA directly ejects into RV",
+        "aorta always supplies pulmonary veins",
+        "pulmonary veins drain directly to RV"
+      ],
+      "answer": 0,
+      "explanation": "LV output may cross VSD to supply pulmonary artery in normally related arteries. The relevant concept is tricuspid atresia pulmonary blood route: LV output may cross VSD to supply pulmonary artery in normally related arteries. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Tricuspid Atresia & Single Ventricle",
+        "Complex Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch08-q085",
+      "stem": "A sonographer reviews the echocardiogram in a case where a vertical vein ascends toward innominate vein. Which interpretation is most consistent with the underlying supracardiac TAPVC?",
+      "image": null,
+      "options": [
+        "pulmonary veins drain directly to LV",
+        "pulmonary venous confluence drains above the heart via a vertical vein",
+        "pulmonary veins enter LA normally",
+        "drainage exclusively below diaphragm"
+      ],
+      "answer": 1,
+      "explanation": "pulmonary venous confluence drains above the heart via a vertical vein. The relevant concept is supracardiac TAPVC: pulmonary venous confluence drains above the heart via a vertical vein. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Total Anomalous Pulmonary Venous Connection (TAPVC)",
+        "Complex Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch08-q086",
+      "stem": "A sonographer reviews the echocardiogram in a case where a child is undergoing staged single-ventricle palliation. Which interpretation is most consistent with the underlying Glenn stage?",
+      "image": null,
+      "options": [
+        "VSD is closed to restore biventricular flow",
+        "superior vena cava blood is directed to pulmonary arteries",
+        "inferior vena cava connected to left atrium",
+        "aortic valve replaced with pulmonary valve"
+      ],
+      "answer": 1,
+      "explanation": "superior vena cava blood is directed to pulmonary arteries. The relevant concept is Glenn stage: superior vena cava blood is directed to pulmonary arteries. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Tricuspid Atresia & Single Ventricle",
+        "Complex Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch08-q087",
+      "stem": "A sonographer reviews the echocardiogram in a case where systemic venous return reaches RA without an RV inlet. Which interpretation is most consistent with the underlying tricuspid atresia obligatory shunt?",
+      "image": null,
+      "options": [
+        "left-to-right atrial shunt only",
+        "isolated left-to-right ductal shunt",
+        "right-to-left atrial shunt through ASD/PFO",
+        "no interatrial communication required"
+      ],
+      "answer": 2,
+      "explanation": "right-to-left atrial shunt through ASD/PFO. The relevant concept is tricuspid atresia obligatory shunt: right-to-left atrial shunt through ASD/PFO. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Tricuspid Atresia & Single Ventricle",
+        "Complex Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch08-q088",
+      "stem": "A sonographer reviews the echocardiogram in a case where a patient with Ebstein anomaly has palpitations. Which interpretation is most consistent with the underlying Ebstein rhythm association?",
+      "image": null,
+      "options": [
+        "isolated sinus bradycardia only",
+        "ventricular standstill in every patient",
+        "accessory pathways and arrhythmias",
+        "complete absence of conduction tissue"
+      ],
+      "answer": 2,
+      "explanation": "accessory pathways and arrhythmias. The relevant concept is Ebstein rhythm association: accessory pathways and arrhythmias. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Ebstein Anomaly",
+        "Complex Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch08-q089",
+      "stem": "A sonographer reviews the echocardiogram in a case where a cyanotic newborn has pulmonary edema and anomalous venous return. Which interpretation is most consistent with the underlying obstructed TAPVC?",
+      "image": null,
+      "options": [
+        "severe pulmonary venous congestion and cyanosis",
+        "absence of right-sided chamber loading",
+        "isolated systemic hypertension",
+        "normal pulmonary venous return"
+      ],
+      "answer": 0,
+      "explanation": "severe pulmonary venous congestion and cyanosis. The relevant concept is obstructed TAPVC: severe pulmonary venous congestion and cyanosis. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Total Anomalous Pulmonary Venous Connection (TAPVC)",
+        "Complex Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch08-q090",
+      "stem": "A sonographer reviews the echocardiogram in a case where apical four-chamber imaging shows abnormal tricuspid insertion. Which interpretation is most consistent with the underlying Ebstein anomaly valve anatomy?",
+      "image": null,
+      "options": [
+        "absent pulmonary valve",
+        "apical displacement of septal and posterior tricuspid leaflets",
+        "overriding aorta",
+        "apical displacement of mitral valve"
+      ],
+      "answer": 1,
+      "explanation": "apical displacement of septal and posterior tricuspid leaflets. The relevant concept is Ebstein anomaly valve anatomy: apical displacement of septal and posterior tricuspid leaflets. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Ebstein Anomaly",
+        "Complex Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch08-q091",
+      "stem": "A sonographer reviews the echocardiogram in a case where an infant has type III tricuspid atresia. Which interpretation is most consistent with the underlying tricuspid atresia type III?",
+      "image": null,
+      "options": [
+        "normally related great arteries",
+        "associated L-transposition",
+        "associated D-transposition",
+        "always truncus arteriosus"
+      ],
+      "answer": 1,
+      "explanation": "associated L-transposition. The relevant concept is tricuspid atresia type III: associated L-transposition. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Tricuspid Atresia & Single Ventricle",
+        "Complex Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch08-q092",
+      "stem": "A sonographer reviews the echocardiogram in a case where an infant has total anomalous pulmonary venous connection. Which interpretation is most consistent with the underlying TAPVC survival communication?",
+      "image": null,
+      "options": [
+        "absence of systemic venous return",
+        "an atrial communication is needed for blood to reach left heart",
+        "isolated aortic stenosis",
+        "closure of all atrial communications"
+      ],
+      "answer": 1,
+      "explanation": "an atrial communication is needed for blood to reach left heart. The relevant concept is TAPVC survival communication: an atrial communication is needed for blood to reach left heart. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Total Anomalous Pulmonary Venous Connection (TAPVC)",
+        "Complex Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch08-q093",
+      "stem": "A sonographer reviews the echocardiogram in a case where echo evaluates atrial septal restriction in HLHS. Which interpretation is most consistent with the underlying HLHS atrial communication?",
+      "image": null,
+      "options": [
+        "pulmonary veins enter RV directly",
+        "interatrial communication permits pulmonary venous egress",
+        "the left atrium is absent in all cases",
+        "complete atrial septal closure is always beneficial"
+      ],
+      "answer": 1,
+      "explanation": "interatrial communication permits pulmonary venous egress. The relevant concept is HLHS atrial communication: interatrial communication permits pulmonary venous egress. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Hypoplastic Left Heart Syndrome (HLHS)",
+        "Complex Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch08-q094",
+      "stem": "A sonographer reviews the echocardiogram in a case where a newborn has an imperforate tricuspid valve. Which interpretation is most consistent with the underlying tricuspid atresia RV morphology?",
+      "image": null,
+      "options": [
+        "hypoplastic right ventricle",
+        "dilated normally functioning RV in all cases",
+        "isolated left atrial hypoplasia",
+        "absence of left ventricle"
+      ],
+      "answer": 0,
+      "explanation": "hypoplastic right ventricle. The relevant concept is tricuspid atresia RV morphology: hypoplastic right ventricle. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Tricuspid Atresia & Single Ventricle",
+        "Complex Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch08-q095",
+      "stem": "A sonographer reviews the echocardiogram in a case where color Doppler interrogates a malformed displaced tricuspid valve. Which interpretation is most consistent with the underlying Ebstein regurgitation?",
+      "image": null,
+      "options": [
+        "aortic atresia is obligatory",
+        "pulmonary venous atresia is obligatory",
+        "tricuspid regurgitation is common",
+        "mitral stenosis is obligatory"
+      ],
+      "answer": 2,
+      "explanation": "tricuspid regurgitation is common. The relevant concept is Ebstein regurgitation: tricuspid regurgitation is common. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Ebstein Anomaly",
+        "Complex Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch08-q096",
+      "stem": "A sonographer reviews the echocardiogram in a case where a pulmonary venous collector descends through diaphragm. Which interpretation is most consistent with the underlying infracardiac TAPVC?",
+      "image": null,
+      "options": [
+        "pulmonary veins drain to LV",
+        "pulmonary venous return courses below diaphragm",
+        "all veins connect to SVC above heart",
+        "pulmonary veins drain directly into LA"
+      ],
+      "answer": 1,
+      "explanation": "pulmonary venous return courses below diaphragm. The relevant concept is infracardiac TAPVC: pulmonary venous return courses below diaphragm. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Total Anomalous Pulmonary Venous Connection (TAPVC)",
+        "Complex Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch08-q097",
+      "stem": "A sonographer reviews the echocardiogram in a case where a newborn has hypoplastic left heart syndrome. Which interpretation is most consistent with the underlying HLHS systemic pump?",
+      "image": null,
+      "options": [
+        "coronary sinus",
+        "hypoplastic left ventricle",
+        "left atrium",
+        "right ventricle"
+      ],
+      "answer": 3,
+      "explanation": "right ventricle. The relevant concept is HLHS systemic pump: right ventricle. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Hypoplastic Left Heart Syndrome (HLHS)",
+        "Complex Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch08-q098",
+      "stem": "A sonographer reviews the echocardiogram in a case where echo demonstrates type II tricuspid atresia. Which interpretation is most consistent with the underlying tricuspid atresia type II?",
+      "image": null,
+      "options": [
+        "normally related great arteries",
+        "always absent pulmonary artery",
+        "associated L-transposition",
+        "associated D-transposition"
+      ],
+      "answer": 3,
+      "explanation": "associated D-transposition. The relevant concept is tricuspid atresia type II: associated D-transposition. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Tricuspid Atresia & Single Ventricle",
+        "Complex Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch08-q099",
+      "stem": "A sonographer reviews the echocardiogram in a case where echo cannot identify any pulmonary venous entrance into LA. Which interpretation is most consistent with the underlying TAPVC definition?",
+      "image": null,
+      "options": [
+        "no pulmonary veins are present",
+        "pulmonary veins connect normally to LA",
+        "all pulmonary veins connect to systemic venous circulation rather than LA",
+        "one pulmonary vein connects anomalously"
+      ],
+      "answer": 2,
+      "explanation": "all pulmonary veins connect to systemic venous circulation rather than LA. The relevant concept is TAPVC definition: all pulmonary veins connect to systemic venous circulation rather than LA. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Total Anomalous Pulmonary Venous Connection (TAPVC)",
+        "Complex Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch08-q100",
+      "stem": "A sonographer reviews the echocardiogram in a case where a neonate with HLHS becomes unstable when ductus constricts. Which interpretation is most consistent with the underlying HLHS ductal dependence?",
+      "image": null,
+      "options": [
+        "LV ejects normally through a large aortic valve",
+        "ASD alone supplies the descending aorta directly",
+        "PDA is always irrelevant",
+        "PDA supports systemic perfusion"
+      ],
+      "answer": 3,
+      "explanation": "PDA supports systemic perfusion. The relevant concept is HLHS ductal dependence: PDA supports systemic perfusion. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Hypoplastic Left Heart Syndrome (HLHS)",
+        "Complex Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch08-q101",
+      "stem": "During a congenital heart disease case conference, the team discusses tricuspid atresia type I. Which statement is correct?",
+      "image": null,
+      "options": [
+        "normally related great arteries",
+        "D-transposition of great arteries",
+        "single common arterial trunk",
+        "L-transposition of great arteries"
+      ],
+      "answer": 0,
+      "explanation": "normally related great arteries. The relevant concept is tricuspid atresia type I: normally related great arteries. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Tricuspid Atresia & Single Ventricle",
+        "Complex Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch08-q102",
+      "stem": "During a congenital heart disease case conference, the team discusses Ebstein atrial communication. Which statement is correct?",
+      "image": null,
+      "options": [
+        "a VSD is obligatory in every case",
+        "a PDA always closes before birth",
+        "ASD/PFO may allow right-to-left shunting",
+        "pulmonary veins drain to coronary sinus in every case"
+      ],
+      "answer": 2,
+      "explanation": "ASD/PFO may allow right-to-left shunting. The relevant concept is Ebstein atrial communication: ASD/PFO may allow right-to-left shunting. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Ebstein Anomaly",
+        "Complex Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch08-q103",
+      "stem": "During a congenital heart disease case conference, the team discusses single ventricle physiology. Which statement is correct?",
+      "image": null,
+      "options": [
+        "one functional ventricular chamber supports circulation",
+        "two fully separate normal ventricles",
+        "no systemic venous return",
+        "no pulmonary blood flow under any circumstances"
+      ],
+      "answer": 0,
+      "explanation": "one functional ventricular chamber supports circulation. The relevant concept is single ventricle physiology: one functional ventricular chamber supports circulation. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Tricuspid Atresia & Single Ventricle",
+        "Complex Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch08-q104",
+      "stem": "During a congenital heart disease case conference, the team discusses Fontan physiology. Which statement is correct?",
+      "image": null,
+      "options": [
+        "restoration of two functional ventricles",
+        "passive systemic venous flow to pulmonary arteries without subpulmonary ventricular pump",
+        "aorta-to-PA shunt only",
+        "direct RV-to-PA pumping"
+      ],
+      "answer": 1,
+      "explanation": "passive systemic venous flow to pulmonary arteries without subpulmonary ventricular pump. The relevant concept is Fontan physiology: passive systemic venous flow to pulmonary arteries without subpulmonary ventricular pump. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Tricuspid Atresia & Single Ventricle",
+        "Complex Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch08-q105",
+      "stem": "During a congenital heart disease case conference, the team discusses tricuspid atresia pulmonary blood route. Which statement is correct?",
+      "image": null,
+      "options": [
+        "LV output may cross VSD to supply pulmonary artery in normally related arteries",
+        "pulmonary veins drain directly to RV",
+        "aorta always supplies pulmonary veins",
+        "RA directly ejects into RV"
+      ],
+      "answer": 0,
+      "explanation": "LV output may cross VSD to supply pulmonary artery in normally related arteries. The relevant concept is tricuspid atresia pulmonary blood route: LV output may cross VSD to supply pulmonary artery in normally related arteries. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Tricuspid Atresia & Single Ventricle",
+        "Complex Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch08-q106",
+      "stem": "During a congenital heart disease case conference, the team discusses supracardiac TAPVC. Which statement is correct?",
+      "image": null,
+      "options": [
+        "pulmonary veins drain directly to LV",
+        "drainage exclusively below diaphragm",
+        "pulmonary venous confluence drains above the heart via a vertical vein",
+        "pulmonary veins enter LA normally"
+      ],
+      "answer": 2,
+      "explanation": "pulmonary venous confluence drains above the heart via a vertical vein. The relevant concept is supracardiac TAPVC: pulmonary venous confluence drains above the heart via a vertical vein. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Total Anomalous Pulmonary Venous Connection (TAPVC)",
+        "Complex Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch08-q107",
+      "stem": "During a congenital heart disease case conference, the team discusses Glenn stage. Which statement is correct?",
+      "image": null,
+      "options": [
+        "VSD is closed to restore biventricular flow",
+        "inferior vena cava connected to left atrium",
+        "aortic valve replaced with pulmonary valve",
+        "superior vena cava blood is directed to pulmonary arteries"
+      ],
+      "answer": 3,
+      "explanation": "superior vena cava blood is directed to pulmonary arteries. The relevant concept is Glenn stage: superior vena cava blood is directed to pulmonary arteries. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Tricuspid Atresia & Single Ventricle",
+        "Complex Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch08-q108",
+      "stem": "During a congenital heart disease case conference, the team discusses tricuspid atresia obligatory shunt. Which statement is correct?",
+      "image": null,
+      "options": [
+        "right-to-left atrial shunt through ASD/PFO",
+        "no interatrial communication required",
+        "left-to-right atrial shunt only",
+        "isolated left-to-right ductal shunt"
+      ],
+      "answer": 0,
+      "explanation": "right-to-left atrial shunt through ASD/PFO. The relevant concept is tricuspid atresia obligatory shunt: right-to-left atrial shunt through ASD/PFO. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Tricuspid Atresia & Single Ventricle",
+        "Complex Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch08-q109",
+      "stem": "During a congenital heart disease case conference, the team discusses Ebstein rhythm association. Which statement is correct?",
+      "image": null,
+      "options": [
+        "accessory pathways and arrhythmias",
+        "complete absence of conduction tissue",
+        "isolated sinus bradycardia only",
+        "ventricular standstill in every patient"
+      ],
+      "answer": 0,
+      "explanation": "accessory pathways and arrhythmias. The relevant concept is Ebstein rhythm association: accessory pathways and arrhythmias. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Ebstein Anomaly",
+        "Complex Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch08-q110",
+      "stem": "During a congenital heart disease case conference, the team discusses obstructed TAPVC. Which statement is correct?",
+      "image": null,
+      "options": [
+        "absence of right-sided chamber loading",
+        "isolated systemic hypertension",
+        "normal pulmonary venous return",
+        "severe pulmonary venous congestion and cyanosis"
+      ],
+      "answer": 3,
+      "explanation": "severe pulmonary venous congestion and cyanosis. The relevant concept is obstructed TAPVC: severe pulmonary venous congestion and cyanosis. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Total Anomalous Pulmonary Venous Connection (TAPVC)",
+        "Complex Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch08-q111",
+      "stem": "During a congenital heart disease case conference, the team discusses Ebstein anomaly valve anatomy. Which statement is correct?",
+      "image": null,
+      "options": [
+        "absent pulmonary valve",
+        "apical displacement of septal and posterior tricuspid leaflets",
+        "apical displacement of mitral valve",
+        "overriding aorta"
+      ],
+      "answer": 1,
+      "explanation": "apical displacement of septal and posterior tricuspid leaflets. The relevant concept is Ebstein anomaly valve anatomy: apical displacement of septal and posterior tricuspid leaflets. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Ebstein Anomaly",
+        "Complex Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch08-q112",
+      "stem": "During a congenital heart disease case conference, the team discusses tricuspid atresia type III. Which statement is correct?",
+      "image": null,
+      "options": [
+        "normally related great arteries",
+        "associated D-transposition",
+        "always truncus arteriosus",
+        "associated L-transposition"
+      ],
+      "answer": 3,
+      "explanation": "associated L-transposition. The relevant concept is tricuspid atresia type III: associated L-transposition. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Tricuspid Atresia & Single Ventricle",
+        "Complex Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch08-q113",
+      "stem": "During a congenital heart disease case conference, the team discusses TAPVC survival communication. Which statement is correct?",
+      "image": null,
+      "options": [
+        "isolated aortic stenosis",
+        "closure of all atrial communications",
+        "an atrial communication is needed for blood to reach left heart",
+        "absence of systemic venous return"
+      ],
+      "answer": 2,
+      "explanation": "an atrial communication is needed for blood to reach left heart. The relevant concept is TAPVC survival communication: an atrial communication is needed for blood to reach left heart. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Total Anomalous Pulmonary Venous Connection (TAPVC)",
+        "Complex Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch08-q114",
+      "stem": "During a congenital heart disease case conference, the team discusses HLHS atrial communication. Which statement is correct?",
+      "image": null,
+      "options": [
+        "pulmonary veins enter RV directly",
+        "the left atrium is absent in all cases",
+        "interatrial communication permits pulmonary venous egress",
+        "complete atrial septal closure is always beneficial"
+      ],
+      "answer": 2,
+      "explanation": "interatrial communication permits pulmonary venous egress. The relevant concept is HLHS atrial communication: interatrial communication permits pulmonary venous egress. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Hypoplastic Left Heart Syndrome (HLHS)",
+        "Complex Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch08-q115",
+      "stem": "During a congenital heart disease case conference, the team discusses tricuspid atresia RV morphology. Which statement is correct?",
+      "image": null,
+      "options": [
+        "isolated left atrial hypoplasia",
+        "dilated normally functioning RV in all cases",
+        "absence of left ventricle",
+        "hypoplastic right ventricle"
+      ],
+      "answer": 3,
+      "explanation": "hypoplastic right ventricle. The relevant concept is tricuspid atresia RV morphology: hypoplastic right ventricle. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Tricuspid Atresia & Single Ventricle",
+        "Complex Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch08-q116",
+      "stem": "During a congenital heart disease case conference, the team discusses Ebstein regurgitation. Which statement is correct?",
+      "image": null,
+      "options": [
+        "tricuspid regurgitation is common",
+        "pulmonary venous atresia is obligatory",
+        "aortic atresia is obligatory",
+        "mitral stenosis is obligatory"
+      ],
+      "answer": 0,
+      "explanation": "tricuspid regurgitation is common. The relevant concept is Ebstein regurgitation: tricuspid regurgitation is common. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Ebstein Anomaly",
+        "Complex Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch08-q117",
+      "stem": "During a congenital heart disease case conference, the team discusses infracardiac TAPVC. Which statement is correct?",
+      "image": null,
+      "options": [
+        "pulmonary veins drain directly into LA",
+        "pulmonary veins drain to LV",
+        "all veins connect to SVC above heart",
+        "pulmonary venous return courses below diaphragm"
+      ],
+      "answer": 3,
+      "explanation": "pulmonary venous return courses below diaphragm. The relevant concept is infracardiac TAPVC: pulmonary venous return courses below diaphragm. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Total Anomalous Pulmonary Venous Connection (TAPVC)",
+        "Complex Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch08-q118",
+      "stem": "During a congenital heart disease case conference, the team discusses HLHS systemic pump. Which statement is correct?",
+      "image": null,
+      "options": [
+        "hypoplastic left ventricle",
+        "coronary sinus",
+        "right ventricle",
+        "left atrium"
+      ],
+      "answer": 2,
+      "explanation": "right ventricle. The relevant concept is HLHS systemic pump: right ventricle. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Hypoplastic Left Heart Syndrome (HLHS)",
+        "Complex Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch08-q119",
+      "stem": "During a congenital heart disease case conference, the team discusses tricuspid atresia type II. Which statement is correct?",
+      "image": null,
+      "options": [
+        "associated D-transposition",
+        "always absent pulmonary artery",
+        "associated L-transposition",
+        "normally related great arteries"
+      ],
+      "answer": 0,
+      "explanation": "associated D-transposition. The relevant concept is tricuspid atresia type II: associated D-transposition. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Tricuspid Atresia & Single Ventricle",
+        "Complex Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch08-q120",
+      "stem": "During a congenital heart disease case conference, the team discusses TAPVC definition. Which statement is correct?",
+      "image": null,
+      "options": [
+        "no pulmonary veins are present",
+        "all pulmonary veins connect to systemic venous circulation rather than LA",
+        "pulmonary veins connect normally to LA",
+        "one pulmonary vein connects anomalously"
+      ],
+      "answer": 1,
+      "explanation": "all pulmonary veins connect to systemic venous circulation rather than LA. The relevant concept is TAPVC definition: all pulmonary veins connect to systemic venous circulation rather than LA. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Total Anomalous Pulmonary Venous Connection (TAPVC)",
+        "Complex Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch08-q121",
+      "stem": "During a congenital heart disease case conference, the team discusses HLHS ductal dependence. Which statement is correct?",
+      "image": null,
+      "options": [
+        "PDA is always irrelevant",
+        "PDA supports systemic perfusion",
+        "LV ejects normally through a large aortic valve",
+        "ASD alone supplies the descending aorta directly"
+      ],
+      "answer": 1,
+      "explanation": "PDA supports systemic perfusion. The relevant concept is HLHS ductal dependence: PDA supports systemic perfusion. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Hypoplastic Left Heart Syndrome (HLHS)",
+        "Complex Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch08-q122",
+      "stem": "During a congenital heart disease case conference, the team discusses tricuspid atresia definition. Which statement is correct?",
+      "image": null,
+      "options": [
+        "pulmonary veins draining to RA",
+        "aortic valve with two cusps",
+        "absence of mitral valve",
+        "absent right atrium-to-right ventricle connection"
+      ],
+      "answer": 3,
+      "explanation": "absent right atrium-to-right ventricle connection. The relevant concept is tricuspid atresia definition: absent right atrium-to-right ventricle connection. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Tricuspid Atresia & Single Ventricle",
+        "Complex Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch08-q123",
+      "stem": "During a congenital heart disease case conference, the team discusses Ebstein atrialized ventricle. Which statement is correct?",
+      "image": null,
+      "options": [
+        "RV outflow becomes coronary sinus",
+        "left atrium becomes pulmonary artery",
+        "left ventricle becomes aortic root",
+        "proximal portion of RV becomes functionally atrialized"
+      ],
+      "answer": 3,
+      "explanation": "proximal portion of RV becomes functionally atrialized. The relevant concept is Ebstein atrialized ventricle: proximal portion of RV becomes functionally atrialized. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Ebstein Anomaly",
+        "Complex Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch08-q124",
+      "stem": "During a congenital heart disease case conference, the team discusses cardiac TAPVC. Which statement is correct?",
+      "image": null,
+      "options": [
+        "drainage via descending vertical vein below diaphragm",
+        "pulmonary venous drainage directly to LA",
+        "pulmonary venous drainage to coronary sinus or right atrium",
+        "pulmonary venous drainage to aorta"
+      ],
+      "answer": 2,
+      "explanation": "pulmonary venous drainage to coronary sinus or right atrium. The relevant concept is cardiac TAPVC: pulmonary venous drainage to coronary sinus or right atrium. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Total Anomalous Pulmonary Venous Connection (TAPVC)",
+        "Complex Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch08-q125",
+      "stem": "During a congenital heart disease case conference, the team discusses Fontan completion. Which statement is correct?",
+      "image": null,
+      "options": [
+        "LV reconstructed from RV tissue",
+        "pulmonary veins routed to systemic veins",
+        "systemic venous return is routed to pulmonary circulation",
+        "aorta directly connected to right atrium"
+      ],
+      "answer": 2,
+      "explanation": "systemic venous return is routed to pulmonary circulation. The relevant concept is Fontan completion: systemic venous return is routed to pulmonary circulation. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Tricuspid Atresia & Single Ventricle",
+        "Complex Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch08-q126",
+      "stem": "An examination stem describes this clinical setting: a newborn has tricuspid atresia with normally related great arteries. Which associated anatomic or physiologic feature should be recognized?",
+      "image": null,
+      "options": [
+        "LV output may cross VSD to supply pulmonary artery in normally related arteries",
+        "pulmonary veins drain directly to RV",
+        "aorta always supplies pulmonary veins",
+        "RA directly ejects into RV"
+      ],
+      "answer": 0,
+      "explanation": "LV output may cross VSD to supply pulmonary artery in normally related arteries. The relevant concept is tricuspid atresia pulmonary blood route: LV output may cross VSD to supply pulmonary artery in normally related arteries. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Tricuspid Atresia & Single Ventricle",
+        "Complex Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch08-q127",
+      "stem": "An examination stem describes this clinical setting: a vertical vein ascends toward innominate vein. Which associated anatomic or physiologic feature should be recognized?",
+      "image": null,
+      "options": [
+        "pulmonary veins drain directly to LV",
+        "drainage exclusively below diaphragm",
+        "pulmonary venous confluence drains above the heart via a vertical vein",
+        "pulmonary veins enter LA normally"
+      ],
+      "answer": 2,
+      "explanation": "pulmonary venous confluence drains above the heart via a vertical vein. The relevant concept is supracardiac TAPVC: pulmonary venous confluence drains above the heart via a vertical vein. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Total Anomalous Pulmonary Venous Connection (TAPVC)",
+        "Complex Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch08-q128",
+      "stem": "An examination stem describes this clinical setting: a child is undergoing staged single-ventricle palliation. Which associated anatomic or physiologic feature should be recognized?",
+      "image": null,
+      "options": [
+        "inferior vena cava connected to left atrium",
+        "superior vena cava blood is directed to pulmonary arteries",
+        "aortic valve replaced with pulmonary valve",
+        "VSD is closed to restore biventricular flow"
+      ],
+      "answer": 1,
+      "explanation": "superior vena cava blood is directed to pulmonary arteries. The relevant concept is Glenn stage: superior vena cava blood is directed to pulmonary arteries. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Tricuspid Atresia & Single Ventricle",
+        "Complex Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch08-q129",
+      "stem": "An examination stem describes this clinical setting: systemic venous return reaches RA without an RV inlet. Which associated anatomic or physiologic feature should be recognized?",
+      "image": null,
+      "options": [
+        "right-to-left atrial shunt through ASD/PFO",
+        "isolated left-to-right ductal shunt",
+        "left-to-right atrial shunt only",
+        "no interatrial communication required"
+      ],
+      "answer": 0,
+      "explanation": "right-to-left atrial shunt through ASD/PFO. The relevant concept is tricuspid atresia obligatory shunt: right-to-left atrial shunt through ASD/PFO. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Tricuspid Atresia & Single Ventricle",
+        "Complex Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch08-q130",
+      "stem": "An examination stem describes this clinical setting: a patient with Ebstein anomaly has palpitations. Which associated anatomic or physiologic feature should be recognized?",
+      "image": null,
+      "options": [
+        "complete absence of conduction tissue",
+        "ventricular standstill in every patient",
+        "isolated sinus bradycardia only",
+        "accessory pathways and arrhythmias"
+      ],
+      "answer": 3,
+      "explanation": "accessory pathways and arrhythmias. The relevant concept is Ebstein rhythm association: accessory pathways and arrhythmias. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Ebstein Anomaly",
+        "Complex Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch08-q131",
+      "stem": "An examination stem describes this clinical setting: a cyanotic newborn has pulmonary edema and anomalous venous return. Which associated anatomic or physiologic feature should be recognized?",
+      "image": null,
+      "options": [
+        "absence of right-sided chamber loading",
+        "isolated systemic hypertension",
+        "severe pulmonary venous congestion and cyanosis",
+        "normal pulmonary venous return"
+      ],
+      "answer": 2,
+      "explanation": "severe pulmonary venous congestion and cyanosis. The relevant concept is obstructed TAPVC: severe pulmonary venous congestion and cyanosis. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Total Anomalous Pulmonary Venous Connection (TAPVC)",
+        "Complex Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch08-q132",
+      "stem": "An examination stem describes this clinical setting: apical four-chamber imaging shows abnormal tricuspid insertion. Which associated anatomic or physiologic feature should be recognized?",
+      "image": null,
+      "options": [
+        "absent pulmonary valve",
+        "apical displacement of mitral valve",
+        "overriding aorta",
+        "apical displacement of septal and posterior tricuspid leaflets"
+      ],
+      "answer": 3,
+      "explanation": "apical displacement of septal and posterior tricuspid leaflets. The relevant concept is Ebstein anomaly valve anatomy: apical displacement of septal and posterior tricuspid leaflets. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Ebstein Anomaly",
+        "Complex Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch08-q133",
+      "stem": "An examination stem describes this clinical setting: an infant has type III tricuspid atresia. Which associated anatomic or physiologic feature should be recognized?",
+      "image": null,
+      "options": [
+        "associated L-transposition",
+        "normally related great arteries",
+        "associated D-transposition",
+        "always truncus arteriosus"
+      ],
+      "answer": 0,
+      "explanation": "associated L-transposition. The relevant concept is tricuspid atresia type III: associated L-transposition. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Tricuspid Atresia & Single Ventricle",
+        "Complex Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch08-q134",
+      "stem": "An examination stem describes this clinical setting: an infant has total anomalous pulmonary venous connection. Which associated anatomic or physiologic feature should be recognized?",
+      "image": null,
+      "options": [
+        "isolated aortic stenosis",
+        "absence of systemic venous return",
+        "closure of all atrial communications",
+        "an atrial communication is needed for blood to reach left heart"
+      ],
+      "answer": 3,
+      "explanation": "an atrial communication is needed for blood to reach left heart. The relevant concept is TAPVC survival communication: an atrial communication is needed for blood to reach left heart. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Total Anomalous Pulmonary Venous Connection (TAPVC)",
+        "Complex Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch08-q135",
+      "stem": "An examination stem describes this clinical setting: echo evaluates atrial septal restriction in HLHS. Which associated anatomic or physiologic feature should be recognized?",
+      "image": null,
+      "options": [
+        "complete atrial septal closure is always beneficial",
+        "pulmonary veins enter RV directly",
+        "interatrial communication permits pulmonary venous egress",
+        "the left atrium is absent in all cases"
+      ],
+      "answer": 2,
+      "explanation": "interatrial communication permits pulmonary venous egress. The relevant concept is HLHS atrial communication: interatrial communication permits pulmonary venous egress. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Hypoplastic Left Heart Syndrome (HLHS)",
+        "Complex Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch08-q136",
+      "stem": "An examination stem describes this clinical setting: a newborn has an imperforate tricuspid valve. Which associated anatomic or physiologic feature should be recognized?",
+      "image": null,
+      "options": [
+        "dilated normally functioning RV in all cases",
+        "isolated left atrial hypoplasia",
+        "absence of left ventricle",
+        "hypoplastic right ventricle"
+      ],
+      "answer": 3,
+      "explanation": "hypoplastic right ventricle. The relevant concept is tricuspid atresia RV morphology: hypoplastic right ventricle. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Tricuspid Atresia & Single Ventricle",
+        "Complex Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch08-q137",
+      "stem": "An examination stem describes this clinical setting: color Doppler interrogates a malformed displaced tricuspid valve. Which associated anatomic or physiologic feature should be recognized?",
+      "image": null,
+      "options": [
+        "mitral stenosis is obligatory",
+        "pulmonary venous atresia is obligatory",
+        "aortic atresia is obligatory",
+        "tricuspid regurgitation is common"
+      ],
+      "answer": 3,
+      "explanation": "tricuspid regurgitation is common. The relevant concept is Ebstein regurgitation: tricuspid regurgitation is common. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Ebstein Anomaly",
+        "Complex Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch08-q138",
+      "stem": "An examination stem describes this clinical setting: a pulmonary venous collector descends through diaphragm. Which associated anatomic or physiologic feature should be recognized?",
+      "image": null,
+      "options": [
+        "pulmonary veins drain directly into LA",
+        "pulmonary veins drain to LV",
+        "pulmonary venous return courses below diaphragm",
+        "all veins connect to SVC above heart"
+      ],
+      "answer": 2,
+      "explanation": "pulmonary venous return courses below diaphragm. The relevant concept is infracardiac TAPVC: pulmonary venous return courses below diaphragm. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Total Anomalous Pulmonary Venous Connection (TAPVC)",
+        "Complex Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch08-q139",
+      "stem": "An examination stem describes this clinical setting: a newborn has hypoplastic left heart syndrome. Which associated anatomic or physiologic feature should be recognized?",
+      "image": null,
+      "options": [
+        "coronary sinus",
+        "left atrium",
+        "hypoplastic left ventricle",
+        "right ventricle"
+      ],
+      "answer": 3,
+      "explanation": "right ventricle. The relevant concept is HLHS systemic pump: right ventricle. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Hypoplastic Left Heart Syndrome (HLHS)",
+        "Complex Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch08-q140",
+      "stem": "An examination stem describes this clinical setting: echo demonstrates type II tricuspid atresia. Which associated anatomic or physiologic feature should be recognized?",
+      "image": null,
+      "options": [
+        "normally related great arteries",
+        "associated L-transposition",
+        "always absent pulmonary artery",
+        "associated D-transposition"
+      ],
+      "answer": 3,
+      "explanation": "associated D-transposition. The relevant concept is tricuspid atresia type II: associated D-transposition. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Tricuspid Atresia & Single Ventricle",
+        "Complex Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch08-q141",
+      "stem": "An examination stem describes this clinical setting: echo cannot identify any pulmonary venous entrance into LA. Which associated anatomic or physiologic feature should be recognized?",
+      "image": null,
+      "options": [
+        "no pulmonary veins are present",
+        "pulmonary veins connect normally to LA",
+        "one pulmonary vein connects anomalously",
+        "all pulmonary veins connect to systemic venous circulation rather than LA"
+      ],
+      "answer": 3,
+      "explanation": "all pulmonary veins connect to systemic venous circulation rather than LA. The relevant concept is TAPVC definition: all pulmonary veins connect to systemic venous circulation rather than LA. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Total Anomalous Pulmonary Venous Connection (TAPVC)",
+        "Complex Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch08-q142",
+      "stem": "An examination stem describes this clinical setting: a neonate with HLHS becomes unstable when ductus constricts. Which associated anatomic or physiologic feature should be recognized?",
+      "image": null,
+      "options": [
+        "PDA is always irrelevant",
+        "LV ejects normally through a large aortic valve",
+        "PDA supports systemic perfusion",
+        "ASD alone supplies the descending aorta directly"
+      ],
+      "answer": 2,
+      "explanation": "PDA supports systemic perfusion. The relevant concept is HLHS ductal dependence: PDA supports systemic perfusion. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Hypoplastic Left Heart Syndrome (HLHS)",
+        "Complex Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch08-q143",
+      "stem": "An examination stem describes this clinical setting: echo shows no patent tricuspid orifice. Which associated anatomic or physiologic feature should be recognized?",
+      "image": null,
+      "options": [
+        "absence of mitral valve",
+        "pulmonary veins draining to RA",
+        "absent right atrium-to-right ventricle connection",
+        "aortic valve with two cusps"
+      ],
+      "answer": 2,
+      "explanation": "absent right atrium-to-right ventricle connection. The relevant concept is tricuspid atresia definition: absent right atrium-to-right ventricle connection. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Tricuspid Atresia & Single Ventricle",
+        "Complex Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch08-q144",
+      "stem": "An examination stem describes this clinical setting: apical displacement divides the morphologic RV. Which associated anatomic or physiologic feature should be recognized?",
+      "image": null,
+      "options": [
+        "left ventricle becomes aortic root",
+        "left atrium becomes pulmonary artery",
+        "proximal portion of RV becomes functionally atrialized",
+        "RV outflow becomes coronary sinus"
+      ],
+      "answer": 2,
+      "explanation": "proximal portion of RV becomes functionally atrialized. The relevant concept is Ebstein atrialized ventricle: proximal portion of RV becomes functionally atrialized. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Ebstein Anomaly",
+        "Complex Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch08-q145",
+      "stem": "An examination stem describes this clinical setting: echo shows a markedly enlarged coronary sinus. Which associated anatomic or physiologic feature should be recognized?",
+      "image": null,
+      "options": [
+        "pulmonary venous drainage directly to LA",
+        "pulmonary venous drainage to aorta",
+        "pulmonary venous drainage to coronary sinus or right atrium",
+        "drainage via descending vertical vein below diaphragm"
+      ],
+      "answer": 2,
+      "explanation": "pulmonary venous drainage to coronary sinus or right atrium. The relevant concept is cardiac TAPVC: pulmonary venous drainage to coronary sinus or right atrium. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Total Anomalous Pulmonary Venous Connection (TAPVC)",
+        "Complex Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch08-q146",
+      "stem": "An examination stem describes this clinical setting: a child completes the cavopulmonary pathway. Which associated anatomic or physiologic feature should be recognized?",
+      "image": null,
+      "options": [
+        "pulmonary veins routed to systemic veins",
+        "LV reconstructed from RV tissue",
+        "systemic venous return is routed to pulmonary circulation",
+        "aorta directly connected to right atrium"
+      ],
+      "answer": 2,
+      "explanation": "systemic venous return is routed to pulmonary circulation. The relevant concept is Fontan completion: systemic venous return is routed to pulmonary circulation. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Tricuspid Atresia & Single Ventricle",
+        "Complex Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch08-q147",
+      "stem": "An examination stem describes this clinical setting: an infant has type I tricuspid atresia. Which associated anatomic or physiologic feature should be recognized?",
+      "image": null,
+      "options": [
+        "normally related great arteries",
+        "L-transposition of great arteries",
+        "D-transposition of great arteries",
+        "single common arterial trunk"
+      ],
+      "answer": 0,
+      "explanation": "normally related great arteries. The relevant concept is tricuspid atresia type I: normally related great arteries. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Tricuspid Atresia & Single Ventricle",
+        "Complex Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch08-q148",
+      "stem": "An examination stem describes this clinical setting: a cyanotic patient has severe Ebstein anomaly. Which associated anatomic or physiologic feature should be recognized?",
+      "image": null,
+      "options": [
+        "ASD/PFO may allow right-to-left shunting",
+        "pulmonary veins drain to coronary sinus in every case",
+        "a PDA always closes before birth",
+        "a VSD is obligatory in every case"
+      ],
+      "answer": 0,
+      "explanation": "ASD/PFO may allow right-to-left shunting. The relevant concept is Ebstein atrial communication: ASD/PFO may allow right-to-left shunting. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Ebstein Anomaly",
+        "Complex Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch08-q149",
+      "stem": "An examination stem describes this clinical setting: echo shows severe ventricular underdevelopment. Which associated anatomic or physiologic feature should be recognized?",
+      "image": null,
+      "options": [
+        "one functional ventricular chamber supports circulation",
+        "two fully separate normal ventricles",
+        "no systemic venous return",
+        "no pulmonary blood flow under any circumstances"
+      ],
+      "answer": 0,
+      "explanation": "one functional ventricular chamber supports circulation. The relevant concept is single ventricle physiology: one functional ventricular chamber supports circulation. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Tricuspid Atresia & Single Ventricle",
+        "Complex Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch08-q150",
+      "stem": "An examination stem describes this clinical setting: a patient has completed staged single-ventricle palliation. Which associated anatomic or physiologic feature should be recognized?",
+      "image": null,
+      "options": [
+        "passive systemic venous flow to pulmonary arteries without subpulmonary ventricular pump",
+        "aorta-to-PA shunt only",
+        "restoration of two functional ventricles",
+        "direct RV-to-PA pumping"
+      ],
+      "answer": 0,
+      "explanation": "passive systemic venous flow to pulmonary arteries without subpulmonary ventricular pump. The relevant concept is Fontan physiology: passive systemic venous flow to pulmonary arteries without subpulmonary ventricular pump. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Tricuspid Atresia & Single Ventricle",
+        "Complex Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch08-q151",
+      "stem": "When assessing Ebstein rhythm association on echocardiography, which statement would be appropriate for the sonographer to report?",
+      "image": null,
+      "options": [
+        "accessory pathways and arrhythmias",
+        "complete absence of conduction tissue",
+        "ventricular standstill in every patient",
+        "isolated sinus bradycardia only"
+      ],
+      "answer": 0,
+      "explanation": "accessory pathways and arrhythmias. The relevant concept is Ebstein rhythm association: accessory pathways and arrhythmias. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Ebstein Anomaly",
+        "Complex Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch08-q152",
+      "stem": "When assessing obstructed TAPVC on echocardiography, which statement would be appropriate for the sonographer to report?",
+      "image": null,
+      "options": [
+        "absence of right-sided chamber loading",
+        "severe pulmonary venous congestion and cyanosis",
+        "normal pulmonary venous return",
+        "isolated systemic hypertension"
+      ],
+      "answer": 1,
+      "explanation": "severe pulmonary venous congestion and cyanosis. The relevant concept is obstructed TAPVC: severe pulmonary venous congestion and cyanosis. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Total Anomalous Pulmonary Venous Connection (TAPVC)",
+        "Complex Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch08-q153",
+      "stem": "When assessing Ebstein anomaly valve anatomy on echocardiography, which statement would be appropriate for the sonographer to report?",
+      "image": null,
+      "options": [
+        "overriding aorta",
+        "apical displacement of septal and posterior tricuspid leaflets",
+        "apical displacement of mitral valve",
+        "absent pulmonary valve"
+      ],
+      "answer": 1,
+      "explanation": "apical displacement of septal and posterior tricuspid leaflets. The relevant concept is Ebstein anomaly valve anatomy: apical displacement of septal and posterior tricuspid leaflets. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Ebstein Anomaly",
+        "Complex Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch08-q154",
+      "stem": "When assessing tricuspid atresia type III on echocardiography, which statement would be appropriate for the sonographer to report?",
+      "image": null,
+      "options": [
+        "always truncus arteriosus",
+        "normally related great arteries",
+        "associated D-transposition",
+        "associated L-transposition"
+      ],
+      "answer": 3,
+      "explanation": "associated L-transposition. The relevant concept is tricuspid atresia type III: associated L-transposition. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Tricuspid Atresia & Single Ventricle",
+        "Complex Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch08-q155",
+      "stem": "When assessing TAPVC survival communication on echocardiography, which statement would be appropriate for the sonographer to report?",
+      "image": null,
+      "options": [
+        "closure of all atrial communications",
+        "an atrial communication is needed for blood to reach left heart",
+        "absence of systemic venous return",
+        "isolated aortic stenosis"
+      ],
+      "answer": 1,
+      "explanation": "an atrial communication is needed for blood to reach left heart. The relevant concept is TAPVC survival communication: an atrial communication is needed for blood to reach left heart. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Total Anomalous Pulmonary Venous Connection (TAPVC)",
+        "Complex Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch08-q156",
+      "stem": "When assessing HLHS atrial communication on echocardiography, which statement would be appropriate for the sonographer to report?",
+      "image": null,
+      "options": [
+        "pulmonary veins enter RV directly",
+        "interatrial communication permits pulmonary venous egress",
+        "complete atrial septal closure is always beneficial",
+        "the left atrium is absent in all cases"
+      ],
+      "answer": 1,
+      "explanation": "interatrial communication permits pulmonary venous egress. The relevant concept is HLHS atrial communication: interatrial communication permits pulmonary venous egress. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Hypoplastic Left Heart Syndrome (HLHS)",
+        "Complex Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch08-q157",
+      "stem": "When assessing tricuspid atresia RV morphology on echocardiography, which statement would be appropriate for the sonographer to report?",
+      "image": null,
+      "options": [
+        "dilated normally functioning RV in all cases",
+        "isolated left atrial hypoplasia",
+        "hypoplastic right ventricle",
+        "absence of left ventricle"
+      ],
+      "answer": 2,
+      "explanation": "hypoplastic right ventricle. The relevant concept is tricuspid atresia RV morphology: hypoplastic right ventricle. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Tricuspid Atresia & Single Ventricle",
+        "Complex Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch08-q158",
+      "stem": "When assessing Ebstein regurgitation on echocardiography, which statement would be appropriate for the sonographer to report?",
+      "image": null,
+      "options": [
+        "tricuspid regurgitation is common",
+        "aortic atresia is obligatory",
+        "pulmonary venous atresia is obligatory",
+        "mitral stenosis is obligatory"
+      ],
+      "answer": 0,
+      "explanation": "tricuspid regurgitation is common. The relevant concept is Ebstein regurgitation: tricuspid regurgitation is common. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Ebstein Anomaly",
+        "Complex Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch08-q159",
+      "stem": "When assessing infracardiac TAPVC on echocardiography, which statement would be appropriate for the sonographer to report?",
+      "image": null,
+      "options": [
+        "pulmonary venous return courses below diaphragm",
+        "pulmonary veins drain directly into LA",
+        "all veins connect to SVC above heart",
+        "pulmonary veins drain to LV"
+      ],
+      "answer": 0,
+      "explanation": "pulmonary venous return courses below diaphragm. The relevant concept is infracardiac TAPVC: pulmonary venous return courses below diaphragm. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Total Anomalous Pulmonary Venous Connection (TAPVC)",
+        "Complex Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch08-q160",
+      "stem": "When assessing HLHS systemic pump on echocardiography, which statement would be appropriate for the sonographer to report?",
+      "image": null,
+      "options": [
+        "coronary sinus",
+        "right ventricle",
+        "hypoplastic left ventricle",
+        "left atrium"
+      ],
+      "answer": 1,
+      "explanation": "right ventricle. The relevant concept is HLHS systemic pump: right ventricle. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Hypoplastic Left Heart Syndrome (HLHS)",
+        "Complex Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch08-q161",
+      "stem": "When assessing tricuspid atresia type II on echocardiography, which statement would be appropriate for the sonographer to report?",
+      "image": null,
+      "options": [
+        "associated L-transposition",
+        "always absent pulmonary artery",
+        "associated D-transposition",
+        "normally related great arteries"
+      ],
+      "answer": 2,
+      "explanation": "associated D-transposition. The relevant concept is tricuspid atresia type II: associated D-transposition. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Tricuspid Atresia & Single Ventricle",
+        "Complex Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch08-q162",
+      "stem": "When assessing TAPVC definition on echocardiography, which statement would be appropriate for the sonographer to report?",
+      "image": null,
+      "options": [
+        "pulmonary veins connect normally to LA",
+        "no pulmonary veins are present",
+        "one pulmonary vein connects anomalously",
+        "all pulmonary veins connect to systemic venous circulation rather than LA"
+      ],
+      "answer": 3,
+      "explanation": "all pulmonary veins connect to systemic venous circulation rather than LA. The relevant concept is TAPVC definition: all pulmonary veins connect to systemic venous circulation rather than LA. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Total Anomalous Pulmonary Venous Connection (TAPVC)",
+        "Complex Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch08-q163",
+      "stem": "When assessing HLHS ductal dependence on echocardiography, which statement would be appropriate for the sonographer to report?",
+      "image": null,
+      "options": [
+        "LV ejects normally through a large aortic valve",
+        "PDA supports systemic perfusion",
+        "ASD alone supplies the descending aorta directly",
+        "PDA is always irrelevant"
+      ],
+      "answer": 1,
+      "explanation": "PDA supports systemic perfusion. The relevant concept is HLHS ductal dependence: PDA supports systemic perfusion. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Hypoplastic Left Heart Syndrome (HLHS)",
+        "Complex Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch08-q164",
+      "stem": "When assessing tricuspid atresia definition on echocardiography, which statement would be appropriate for the sonographer to report?",
+      "image": null,
+      "options": [
+        "aortic valve with two cusps",
+        "pulmonary veins draining to RA",
+        "absence of mitral valve",
+        "absent right atrium-to-right ventricle connection"
+      ],
+      "answer": 3,
+      "explanation": "absent right atrium-to-right ventricle connection. The relevant concept is tricuspid atresia definition: absent right atrium-to-right ventricle connection. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Tricuspid Atresia & Single Ventricle",
+        "Complex Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch08-q165",
+      "stem": "When assessing Ebstein atrialized ventricle on echocardiography, which statement would be appropriate for the sonographer to report?",
+      "image": null,
+      "options": [
+        "proximal portion of RV becomes functionally atrialized",
+        "left ventricle becomes aortic root",
+        "RV outflow becomes coronary sinus",
+        "left atrium becomes pulmonary artery"
+      ],
+      "answer": 0,
+      "explanation": "proximal portion of RV becomes functionally atrialized. The relevant concept is Ebstein atrialized ventricle: proximal portion of RV becomes functionally atrialized. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Ebstein Anomaly",
+        "Complex Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch08-q166",
+      "stem": "When assessing cardiac TAPVC on echocardiography, which statement would be appropriate for the sonographer to report?",
+      "image": null,
+      "options": [
+        "pulmonary venous drainage directly to LA",
+        "pulmonary venous drainage to coronary sinus or right atrium",
+        "drainage via descending vertical vein below diaphragm",
+        "pulmonary venous drainage to aorta"
+      ],
+      "answer": 1,
+      "explanation": "pulmonary venous drainage to coronary sinus or right atrium. The relevant concept is cardiac TAPVC: pulmonary venous drainage to coronary sinus or right atrium. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Total Anomalous Pulmonary Venous Connection (TAPVC)",
+        "Complex Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch08-q167",
+      "stem": "When assessing Fontan completion on echocardiography, which statement would be appropriate for the sonographer to report?",
+      "image": null,
+      "options": [
+        "LV reconstructed from RV tissue",
+        "pulmonary veins routed to systemic veins",
+        "systemic venous return is routed to pulmonary circulation",
+        "aorta directly connected to right atrium"
+      ],
+      "answer": 2,
+      "explanation": "systemic venous return is routed to pulmonary circulation. The relevant concept is Fontan completion: systemic venous return is routed to pulmonary circulation. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Tricuspid Atresia & Single Ventricle",
+        "Complex Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch08-q168",
+      "stem": "When assessing tricuspid atresia type I on echocardiography, which statement would be appropriate for the sonographer to report?",
+      "image": null,
+      "options": [
+        "normally related great arteries",
+        "L-transposition of great arteries",
+        "D-transposition of great arteries",
+        "single common arterial trunk"
+      ],
+      "answer": 0,
+      "explanation": "normally related great arteries. The relevant concept is tricuspid atresia type I: normally related great arteries. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Tricuspid Atresia & Single Ventricle",
+        "Complex Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch08-q169",
+      "stem": "When assessing Ebstein atrial communication on echocardiography, which statement would be appropriate for the sonographer to report?",
+      "image": null,
+      "options": [
+        "a VSD is obligatory in every case",
+        "a PDA always closes before birth",
+        "ASD/PFO may allow right-to-left shunting",
+        "pulmonary veins drain to coronary sinus in every case"
+      ],
+      "answer": 2,
+      "explanation": "ASD/PFO may allow right-to-left shunting. The relevant concept is Ebstein atrial communication: ASD/PFO may allow right-to-left shunting. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Ebstein Anomaly",
+        "Complex Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch08-q170",
+      "stem": "When assessing single ventricle physiology on echocardiography, which statement would be appropriate for the sonographer to report?",
+      "image": null,
+      "options": [
+        "no pulmonary blood flow under any circumstances",
+        "no systemic venous return",
+        "one functional ventricular chamber supports circulation",
+        "two fully separate normal ventricles"
+      ],
+      "answer": 2,
+      "explanation": "one functional ventricular chamber supports circulation. The relevant concept is single ventricle physiology: one functional ventricular chamber supports circulation. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Tricuspid Atresia & Single Ventricle",
+        "Complex Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch08-q171",
+      "stem": "When assessing Fontan physiology on echocardiography, which statement would be appropriate for the sonographer to report?",
+      "image": null,
+      "options": [
+        "passive systemic venous flow to pulmonary arteries without subpulmonary ventricular pump",
+        "aorta-to-PA shunt only",
+        "direct RV-to-PA pumping",
+        "restoration of two functional ventricles"
+      ],
+      "answer": 0,
+      "explanation": "passive systemic venous flow to pulmonary arteries without subpulmonary ventricular pump. The relevant concept is Fontan physiology: passive systemic venous flow to pulmonary arteries without subpulmonary ventricular pump. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Tricuspid Atresia & Single Ventricle",
+        "Complex Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch08-q172",
+      "stem": "When assessing tricuspid atresia pulmonary blood route on echocardiography, which statement would be appropriate for the sonographer to report?",
+      "image": null,
+      "options": [
+        "aorta always supplies pulmonary veins",
+        "LV output may cross VSD to supply pulmonary artery in normally related arteries",
+        "pulmonary veins drain directly to RV",
+        "RA directly ejects into RV"
+      ],
+      "answer": 1,
+      "explanation": "LV output may cross VSD to supply pulmonary artery in normally related arteries. The relevant concept is tricuspid atresia pulmonary blood route: LV output may cross VSD to supply pulmonary artery in normally related arteries. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Tricuspid Atresia & Single Ventricle",
+        "Complex Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch08-q173",
+      "stem": "When assessing supracardiac TAPVC on echocardiography, which statement would be appropriate for the sonographer to report?",
+      "image": null,
+      "options": [
+        "pulmonary venous confluence drains above the heart via a vertical vein",
+        "pulmonary veins drain directly to LV",
+        "pulmonary veins enter LA normally",
+        "drainage exclusively below diaphragm"
+      ],
+      "answer": 0,
+      "explanation": "pulmonary venous confluence drains above the heart via a vertical vein. The relevant concept is supracardiac TAPVC: pulmonary venous confluence drains above the heart via a vertical vein. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Total Anomalous Pulmonary Venous Connection (TAPVC)",
+        "Complex Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch08-q174",
+      "stem": "When assessing Glenn stage on echocardiography, which statement would be appropriate for the sonographer to report?",
+      "image": null,
+      "options": [
+        "inferior vena cava connected to left atrium",
+        "aortic valve replaced with pulmonary valve",
+        "superior vena cava blood is directed to pulmonary arteries",
+        "VSD is closed to restore biventricular flow"
+      ],
+      "answer": 2,
+      "explanation": "superior vena cava blood is directed to pulmonary arteries. The relevant concept is Glenn stage: superior vena cava blood is directed to pulmonary arteries. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Tricuspid Atresia & Single Ventricle",
+        "Complex Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch08-q175",
+      "stem": "When assessing tricuspid atresia obligatory shunt on echocardiography, which statement would be appropriate for the sonographer to report?",
+      "image": null,
+      "options": [
+        "isolated left-to-right ductal shunt",
+        "left-to-right atrial shunt only",
+        "no interatrial communication required",
+        "right-to-left atrial shunt through ASD/PFO"
+      ],
+      "answer": 3,
+      "explanation": "right-to-left atrial shunt through ASD/PFO. The relevant concept is tricuspid atresia obligatory shunt: right-to-left atrial shunt through ASD/PFO. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Tricuspid Atresia & Single Ventricle",
+        "Complex Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch08-q176",
+      "stem": "A trainee is reviewing a patient in whom an infant has total anomalous pulmonary venous connection. Which principle should guide interpretation of this finding?",
+      "image": null,
+      "options": [
+        "an atrial communication is needed for blood to reach left heart",
+        "closure of all atrial communications",
+        "isolated aortic stenosis",
+        "absence of systemic venous return"
+      ],
+      "answer": 0,
+      "explanation": "an atrial communication is needed for blood to reach left heart. The relevant concept is TAPVC survival communication: an atrial communication is needed for blood to reach left heart. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Total Anomalous Pulmonary Venous Connection (TAPVC)",
+        "Complex Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch08-q177",
+      "stem": "A trainee is reviewing a patient in whom echo evaluates atrial septal restriction in HLHS. Which principle should guide interpretation of this finding?",
+      "image": null,
+      "options": [
+        "pulmonary veins enter RV directly",
+        "complete atrial septal closure is always beneficial",
+        "the left atrium is absent in all cases",
+        "interatrial communication permits pulmonary venous egress"
+      ],
+      "answer": 3,
+      "explanation": "interatrial communication permits pulmonary venous egress. The relevant concept is HLHS atrial communication: interatrial communication permits pulmonary venous egress. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Hypoplastic Left Heart Syndrome (HLHS)",
+        "Complex Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch08-q178",
+      "stem": "A trainee is reviewing a patient in whom a newborn has an imperforate tricuspid valve. Which principle should guide interpretation of this finding?",
+      "image": null,
+      "options": [
+        "isolated left atrial hypoplasia",
+        "absence of left ventricle",
+        "hypoplastic right ventricle",
+        "dilated normally functioning RV in all cases"
+      ],
+      "answer": 2,
+      "explanation": "hypoplastic right ventricle. The relevant concept is tricuspid atresia RV morphology: hypoplastic right ventricle. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Tricuspid Atresia & Single Ventricle",
+        "Complex Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch08-q179",
+      "stem": "A trainee is reviewing a patient in whom color Doppler interrogates a malformed displaced tricuspid valve. Which principle should guide interpretation of this finding?",
+      "image": null,
+      "options": [
+        "mitral stenosis is obligatory",
+        "pulmonary venous atresia is obligatory",
+        "tricuspid regurgitation is common",
+        "aortic atresia is obligatory"
+      ],
+      "answer": 2,
+      "explanation": "tricuspid regurgitation is common. The relevant concept is Ebstein regurgitation: tricuspid regurgitation is common. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Ebstein Anomaly",
+        "Complex Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch08-q180",
+      "stem": "A trainee is reviewing a patient in whom a pulmonary venous collector descends through diaphragm. Which principle should guide interpretation of this finding?",
+      "image": null,
+      "options": [
+        "pulmonary veins drain directly into LA",
+        "pulmonary veins drain to LV",
+        "pulmonary venous return courses below diaphragm",
+        "all veins connect to SVC above heart"
+      ],
+      "answer": 2,
+      "explanation": "pulmonary venous return courses below diaphragm. The relevant concept is infracardiac TAPVC: pulmonary venous return courses below diaphragm. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Total Anomalous Pulmonary Venous Connection (TAPVC)",
+        "Complex Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch08-q181",
+      "stem": "A trainee is reviewing a patient in whom a newborn has hypoplastic left heart syndrome. Which principle should guide interpretation of this finding?",
+      "image": null,
+      "options": [
+        "right ventricle",
+        "left atrium",
+        "coronary sinus",
+        "hypoplastic left ventricle"
+      ],
+      "answer": 0,
+      "explanation": "right ventricle. The relevant concept is HLHS systemic pump: right ventricle. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Hypoplastic Left Heart Syndrome (HLHS)",
+        "Complex Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch08-q182",
+      "stem": "A trainee is reviewing a patient in whom echo demonstrates type II tricuspid atresia. Which principle should guide interpretation of this finding?",
+      "image": null,
+      "options": [
+        "always absent pulmonary artery",
+        "associated D-transposition",
+        "normally related great arteries",
+        "associated L-transposition"
+      ],
+      "answer": 1,
+      "explanation": "associated D-transposition. The relevant concept is tricuspid atresia type II: associated D-transposition. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Tricuspid Atresia & Single Ventricle",
+        "Complex Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch08-q183",
+      "stem": "A trainee is reviewing a patient in whom echo cannot identify any pulmonary venous entrance into LA. Which principle should guide interpretation of this finding?",
+      "image": null,
+      "options": [
+        "all pulmonary veins connect to systemic venous circulation rather than LA",
+        "pulmonary veins connect normally to LA",
+        "one pulmonary vein connects anomalously",
+        "no pulmonary veins are present"
+      ],
+      "answer": 0,
+      "explanation": "all pulmonary veins connect to systemic venous circulation rather than LA. The relevant concept is TAPVC definition: all pulmonary veins connect to systemic venous circulation rather than LA. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Total Anomalous Pulmonary Venous Connection (TAPVC)",
+        "Complex Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch08-q184",
+      "stem": "A trainee is reviewing a patient in whom a neonate with HLHS becomes unstable when ductus constricts. Which principle should guide interpretation of this finding?",
+      "image": null,
+      "options": [
+        "LV ejects normally through a large aortic valve",
+        "PDA supports systemic perfusion",
+        "ASD alone supplies the descending aorta directly",
+        "PDA is always irrelevant"
+      ],
+      "answer": 1,
+      "explanation": "PDA supports systemic perfusion. The relevant concept is HLHS ductal dependence: PDA supports systemic perfusion. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Hypoplastic Left Heart Syndrome (HLHS)",
+        "Complex Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch08-q185",
+      "stem": "A trainee is reviewing a patient in whom echo shows no patent tricuspid orifice. Which principle should guide interpretation of this finding?",
+      "image": null,
+      "options": [
+        "absence of mitral valve",
+        "absent right atrium-to-right ventricle connection",
+        "pulmonary veins draining to RA",
+        "aortic valve with two cusps"
+      ],
+      "answer": 1,
+      "explanation": "absent right atrium-to-right ventricle connection. The relevant concept is tricuspid atresia definition: absent right atrium-to-right ventricle connection. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Tricuspid Atresia & Single Ventricle",
+        "Complex Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch08-q186",
+      "stem": "A trainee is reviewing a patient in whom apical displacement divides the morphologic RV. Which principle should guide interpretation of this finding?",
+      "image": null,
+      "options": [
+        "proximal portion of RV becomes functionally atrialized",
+        "left atrium becomes pulmonary artery",
+        "left ventricle becomes aortic root",
+        "RV outflow becomes coronary sinus"
+      ],
+      "answer": 0,
+      "explanation": "proximal portion of RV becomes functionally atrialized. The relevant concept is Ebstein atrialized ventricle: proximal portion of RV becomes functionally atrialized. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Ebstein Anomaly",
+        "Complex Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch08-q187",
+      "stem": "A trainee is reviewing a patient in whom echo shows a markedly enlarged coronary sinus. Which principle should guide interpretation of this finding?",
+      "image": null,
+      "options": [
+        "drainage via descending vertical vein below diaphragm",
+        "pulmonary venous drainage to coronary sinus or right atrium",
+        "pulmonary venous drainage to aorta",
+        "pulmonary venous drainage directly to LA"
+      ],
+      "answer": 1,
+      "explanation": "pulmonary venous drainage to coronary sinus or right atrium. The relevant concept is cardiac TAPVC: pulmonary venous drainage to coronary sinus or right atrium. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Total Anomalous Pulmonary Venous Connection (TAPVC)",
+        "Complex Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch08-q188",
+      "stem": "A trainee is reviewing a patient in whom a child completes the cavopulmonary pathway. Which principle should guide interpretation of this finding?",
+      "image": null,
+      "options": [
+        "systemic venous return is routed to pulmonary circulation",
+        "pulmonary veins routed to systemic veins",
+        "aorta directly connected to right atrium",
+        "LV reconstructed from RV tissue"
+      ],
+      "answer": 0,
+      "explanation": "systemic venous return is routed to pulmonary circulation. The relevant concept is Fontan completion: systemic venous return is routed to pulmonary circulation. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Tricuspid Atresia & Single Ventricle",
+        "Complex Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch08-q189",
+      "stem": "A trainee is reviewing a patient in whom an infant has type I tricuspid atresia. Which principle should guide interpretation of this finding?",
+      "image": null,
+      "options": [
+        "normally related great arteries",
+        "L-transposition of great arteries",
+        "D-transposition of great arteries",
+        "single common arterial trunk"
+      ],
+      "answer": 0,
+      "explanation": "normally related great arteries. The relevant concept is tricuspid atresia type I: normally related great arteries. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Tricuspid Atresia & Single Ventricle",
+        "Complex Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch08-q190",
+      "stem": "A trainee is reviewing a patient in whom a cyanotic patient has severe Ebstein anomaly. Which principle should guide interpretation of this finding?",
+      "image": null,
+      "options": [
+        "a PDA always closes before birth",
+        "pulmonary veins drain to coronary sinus in every case",
+        "a VSD is obligatory in every case",
+        "ASD/PFO may allow right-to-left shunting"
+      ],
+      "answer": 3,
+      "explanation": "ASD/PFO may allow right-to-left shunting. The relevant concept is Ebstein atrial communication: ASD/PFO may allow right-to-left shunting. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Ebstein Anomaly",
+        "Complex Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch08-q191",
+      "stem": "A trainee is reviewing a patient in whom echo shows severe ventricular underdevelopment. Which principle should guide interpretation of this finding?",
+      "image": null,
+      "options": [
+        "two fully separate normal ventricles",
+        "no systemic venous return",
+        "one functional ventricular chamber supports circulation",
+        "no pulmonary blood flow under any circumstances"
+      ],
+      "answer": 2,
+      "explanation": "one functional ventricular chamber supports circulation. The relevant concept is single ventricle physiology: one functional ventricular chamber supports circulation. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Tricuspid Atresia & Single Ventricle",
+        "Complex Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch08-q192",
+      "stem": "A trainee is reviewing a patient in whom a patient has completed staged single-ventricle palliation. Which principle should guide interpretation of this finding?",
+      "image": null,
+      "options": [
+        "restoration of two functional ventricles",
+        "direct RV-to-PA pumping",
+        "aorta-to-PA shunt only",
+        "passive systemic venous flow to pulmonary arteries without subpulmonary ventricular pump"
+      ],
+      "answer": 3,
+      "explanation": "passive systemic venous flow to pulmonary arteries without subpulmonary ventricular pump. The relevant concept is Fontan physiology: passive systemic venous flow to pulmonary arteries without subpulmonary ventricular pump. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Tricuspid Atresia & Single Ventricle",
+        "Complex Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch08-q193",
+      "stem": "A trainee is reviewing a patient in whom a newborn has tricuspid atresia with normally related great arteries. Which principle should guide interpretation of this finding?",
+      "image": null,
+      "options": [
+        "aorta always supplies pulmonary veins",
+        "pulmonary veins drain directly to RV",
+        "RA directly ejects into RV",
+        "LV output may cross VSD to supply pulmonary artery in normally related arteries"
+      ],
+      "answer": 3,
+      "explanation": "LV output may cross VSD to supply pulmonary artery in normally related arteries. The relevant concept is tricuspid atresia pulmonary blood route: LV output may cross VSD to supply pulmonary artery in normally related arteries. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Tricuspid Atresia & Single Ventricle",
+        "Complex Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch08-q194",
+      "stem": "A trainee is reviewing a patient in whom a vertical vein ascends toward innominate vein. Which principle should guide interpretation of this finding?",
+      "image": null,
+      "options": [
+        "pulmonary veins enter LA normally",
+        "pulmonary veins drain directly to LV",
+        "pulmonary venous confluence drains above the heart via a vertical vein",
+        "drainage exclusively below diaphragm"
+      ],
+      "answer": 2,
+      "explanation": "pulmonary venous confluence drains above the heart via a vertical vein. The relevant concept is supracardiac TAPVC: pulmonary venous confluence drains above the heart via a vertical vein. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Total Anomalous Pulmonary Venous Connection (TAPVC)",
+        "Complex Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch08-q195",
+      "stem": "A trainee is reviewing a patient in whom a child is undergoing staged single-ventricle palliation. Which principle should guide interpretation of this finding?",
+      "image": null,
+      "options": [
+        "superior vena cava blood is directed to pulmonary arteries",
+        "aortic valve replaced with pulmonary valve",
+        "VSD is closed to restore biventricular flow",
+        "inferior vena cava connected to left atrium"
+      ],
+      "answer": 0,
+      "explanation": "superior vena cava blood is directed to pulmonary arteries. The relevant concept is Glenn stage: superior vena cava blood is directed to pulmonary arteries. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Tricuspid Atresia & Single Ventricle",
+        "Complex Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch08-q196",
+      "stem": "A trainee is reviewing a patient in whom systemic venous return reaches RA without an RV inlet. Which principle should guide interpretation of this finding?",
+      "image": null,
+      "options": [
+        "left-to-right atrial shunt only",
+        "no interatrial communication required",
+        "isolated left-to-right ductal shunt",
+        "right-to-left atrial shunt through ASD/PFO"
+      ],
+      "answer": 3,
+      "explanation": "right-to-left atrial shunt through ASD/PFO. The relevant concept is tricuspid atresia obligatory shunt: right-to-left atrial shunt through ASD/PFO. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Tricuspid Atresia & Single Ventricle",
+        "Complex Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch08-q197",
+      "stem": "A trainee is reviewing a patient in whom a patient with Ebstein anomaly has palpitations. Which principle should guide interpretation of this finding?",
+      "image": null,
+      "options": [
+        "accessory pathways and arrhythmias",
+        "ventricular standstill in every patient",
+        "complete absence of conduction tissue",
+        "isolated sinus bradycardia only"
+      ],
+      "answer": 0,
+      "explanation": "accessory pathways and arrhythmias. The relevant concept is Ebstein rhythm association: accessory pathways and arrhythmias. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Ebstein Anomaly",
+        "Complex Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch08-q198",
+      "stem": "A trainee is reviewing a patient in whom a cyanotic newborn has pulmonary edema and anomalous venous return. Which principle should guide interpretation of this finding?",
+      "image": null,
+      "options": [
+        "absence of right-sided chamber loading",
+        "normal pulmonary venous return",
+        "severe pulmonary venous congestion and cyanosis",
+        "isolated systemic hypertension"
+      ],
+      "answer": 2,
+      "explanation": "severe pulmonary venous congestion and cyanosis. The relevant concept is obstructed TAPVC: severe pulmonary venous congestion and cyanosis. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Total Anomalous Pulmonary Venous Connection (TAPVC)",
+        "Complex Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch08-q199",
+      "stem": "A trainee is reviewing a patient in whom apical four-chamber imaging shows abnormal tricuspid insertion. Which principle should guide interpretation of this finding?",
+      "image": null,
+      "options": [
+        "apical displacement of septal and posterior tricuspid leaflets",
+        "overriding aorta",
+        "apical displacement of mitral valve",
+        "absent pulmonary valve"
+      ],
+      "answer": 0,
+      "explanation": "apical displacement of septal and posterior tricuspid leaflets. The relevant concept is Ebstein anomaly valve anatomy: apical displacement of septal and posterior tricuspid leaflets. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Ebstein Anomaly",
+        "Complex Congenital Heart Disease"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5003-ch08-q200",
+      "stem": "A trainee is reviewing a patient in whom an infant has type III tricuspid atresia. Which principle should guide interpretation of this finding?",
+      "image": null,
+      "options": [
+        "normally related great arteries",
+        "associated L-transposition",
+        "associated D-transposition",
+        "always truncus arteriosus"
+      ],
+      "answer": 1,
+      "explanation": "associated L-transposition. The relevant concept is tricuspid atresia type III: associated L-transposition. The other options describe different anatomy, physiology, or clinical mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Tricuspid Atresia & Single Ventricle",
+        "Complex Congenital Heart Disease"
+      ],
+      "reference": ""
+    }
+  ]
+}

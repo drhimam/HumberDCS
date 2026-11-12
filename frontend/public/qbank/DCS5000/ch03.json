@@ -1,58 +1,4005 @@
 {
+  "subjectId": "DCS5000",
   "chapterId": "ch03",
-  "title": "Transducer Selection & Ergonomics",
+  "title": "Wall Segments & Apical Window",
   "questions": [
     {
       "id": "DCS5000-ch03-q001",
-      "stem": "Adult transthoracic echocardiography is most commonly performed with a transducer of which type?",
+      "stem": "During a routine adult transthoracic examination, the sonographer reviews the following concept.  Using the Bull’s Eye model, how many wall segments are used in the left ventricle?",
       "image": null,
       "options": [
-        "Linear array",
-        "Phased array",
-        "Curvilinear array",
-        "Annular array"
+        "18",
+        "17",
+        "16",
+        "16–17"
       ],
-      "answer": 1,
-      "explanation": "A phased-array transducer has a small footprint that fits between the ribs. It electronically steers a sector-shaped beam, which makes it the standard probe for cardiac imaging.",
+      "answer": 3,
+      "explanation": "Per ASE, the LV is described with 16 or 17 segments — 16 for wall-motion scoring, and 17 when the apical cap is added (for perfusion/nuclear correlation). “16–17” captures both. *(Practice review slide 3.)*",
       "explanationImage": null,
       "tags": [
-        "transducers"
+        "Wall Segments",
+        "Apical Window",
+        "Left Ventricular Anatomy"
       ],
       "reference": ""
     },
     {
       "id": "DCS5000-ch03-q002",
-      "stem": "Compared with a 2.5 MHz transducer, a 5 MHz transducer provides:",
+      "stem": "During a routine adult transthoracic examination, the sonographer reviews the following concept.  Using the Bull’s Eye model, how many segments are used in the basal portion of the left ventricle?",
       "image": null,
       "options": [
-        "Better penetration and worse resolution",
-        "Better resolution and less penetration",
-        "Better resolution and better penetration",
-        "No change in resolution"
+        "6",
+        "8",
+        "5",
+        "4"
       ],
-      "answer": 1,
-      "explanation": "Higher frequency means a shorter wavelength, which improves axial resolution. However, attenuation also rises with frequency, so penetration decreases. This is why pediatric echo uses higher frequencies than adult echo.",
+      "answer": 0,
+      "explanation": "The basal region contains 6 segments: basal anterior, anteroseptal, inferoseptal, inferior, inferolateral, and anterolateral. *(Practice review slide 5.)*",
       "explanationImage": null,
       "tags": [
-        "frequency"
+        "Wall Segments",
+        "Apical Window",
+        "Left Ventricular Anatomy"
       ],
       "reference": ""
     },
     {
       "id": "DCS5000-ch03-q003",
-      "stem": "Which practice best reduces a sonographer's risk of work-related musculoskeletal disorders?",
+      "stem": "During a routine adult transthoracic examination, the sonographer reviews the following concept.  Using the Bull’s Eye model, how many segments are used in the mid-cavity portion of the left ventricle?",
       "image": null,
       "options": [
-        "Abducting the scanning arm beyond 90 degrees",
-        "Applying sustained heavy probe pressure",
-        "Adjusting bed and chair height so the arm stays close to the body",
-        "Twisting the neck to view the monitor"
+        "4",
+        "8",
+        "6",
+        "5"
       ],
       "answer": 2,
-      "explanation": "Neutral posture is key. Keep the arm abducted less than about 30 degrees, adjust the equipment height, and place the monitor directly in front of you. These steps reduce shoulder, neck, and wrist strain.",
+      "explanation": "The mid-cavity region also has 6 segments, named analogously to the basal ring at the mid level. *(Practice review slide 7.)*",
       "explanationImage": null,
       "tags": [
-        "ergonomics"
+        "Wall Segments",
+        "Apical Window",
+        "Left Ventricular Anatomy"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch03-q004",
+      "stem": "During a routine adult transthoracic examination, the sonographer reviews the following concept.  Using the Bull’s Eye model, how many segments are used in the apical portion of the left ventricle?",
+      "image": null,
+      "options": [
+        "5",
+        "3",
+        "4",
+        "2"
+      ],
+      "answer": 2,
+      "explanation": "The apical region has 4 segments: apical anterior, apical septal, apical inferior, and apical lateral. *(Practice review slide 9.)*",
+      "explanationImage": null,
+      "tags": [
+        "Wall Segments",
+        "Apical Window",
+        "Left Ventricular Anatomy"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch03-q005",
+      "stem": "During a routine adult transthoracic examination, the sonographer reviews the following concept.  Where is the Moderator Band located?",
+      "image": null,
+      "options": [
+        "Right ventricular apex",
+        "Right atrium from IVC to interatrial septum",
+        "Left ventricular apex",
+        "Left atrium from left atrial appendage to interatrial septum"
+      ],
+      "answer": 0,
+      "explanation": "The moderator band lies in the RV apex, running from the interventricular septum to the anterior papillary muscle in the anterolateral RV free wall. *(Practice review slide 11.)*",
+      "explanationImage": null,
+      "tags": [
+        "Wall Segments",
+        "Apical Window",
+        "Left Ventricular Anatomy"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch03-q006",
+      "stem": "During a routine adult transthoracic examination, the sonographer reviews the following concept.  What level of intercostal space is utilized in the apical window?",
+      "image": null,
+      "options": [
+        "5th – 7th intercostal space",
+        "4th – 6th intercostal space",
+        "4th – 7th intercostal space",
+        "Near the point of maximal impulse in (the 5th intercostal space as starting point) the midaxillary line"
+      ],
+      "answer": 3,
+      "explanation": "The course review identifies Near the point of maximal impulse in (the 5th intercostal space as starting point) the midaxillary line as the correct response. *(Practice review slide 13.)*",
+      "explanationImage": null,
+      "tags": [
+        "Wall Segments",
+        "Apical Window",
+        "Left Ventricular Anatomy"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch03-q007",
+      "stem": "During a routine adult transthoracic examination, the sonographer reviews the following concept.  What walls are seen in the apical 4-chamber view?",
+      "image": null,
+      "options": [
+        "Inferolateral and inferoseptal walls",
+        "Inferolateral and anteroseptal walls",
+        "Anteroseptal wall and inferior wall",
+        "Inferoseptal and anterolateral wall"
+      ],
+      "answer": 3,
+      "explanation": "The apical 4-chamber profiles the inferoseptal (septal) wall and the anterolateral (lateral) wall of the LV. *(Practice review slide 15.)*",
+      "explanationImage": null,
+      "tags": [
+        "Wall Segments",
+        "Apical Window",
+        "Left Ventricular Anatomy"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch03-q008",
+      "stem": "During a routine adult transthoracic examination, the sonographer reviews the following concept.  In the Apical 4-Chamber view, the beam is directed towards the patient’s right shoulder. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "Only true for pediatric echocardiography",
+        "Cannot be determined from the image alone",
+        "False",
+        "True"
+      ],
+      "answer": 3,
+      "explanation": "True — from the apex, the 4-chamber imaging plane is directed up toward the patient’s right shoulder, aligning the septum and lateral walls base-to-apex. *(Practice review slide 17.)*",
+      "explanationImage": null,
+      "tags": [
+        "Wall Segments",
+        "Apical Window",
+        "Left Ventricular Anatomy"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch03-q009",
+      "stem": "During a routine adult transthoracic examination, the sonographer reviews the following concept.  From Apical 4-Chamber, how do you maneuver the probe to acquire the 5-Chamber view?",
+      "image": null,
+      "options": [
+        "Angle anteriorly",
+        "Rotate counterclockwise",
+        "Angle inferiorly",
+        "Rotate clockwise"
+      ],
+      "answer": 0,
+      "explanation": "From the 4-chamber, angle the transducer anteriorly to bring up the LVOT, a segment of the aortic root, and the aortic valve — the apical 5-chamber. *(Practice review slide 19.)*",
+      "explanationImage": null,
+      "tags": [
+        "Wall Segments",
+        "Apical Window",
+        "Left Ventricular Anatomy"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch03-q010",
+      "stem": "During a routine adult transthoracic examination, the sonographer reviews the following concept.  What apical view demonstrates the ‘floating disc’?",
+      "image": null,
+      "options": [
+        "Apical 2-chamber",
+        "Apical 5-chamber",
+        "Apical 4-chamber",
+        "Apical 3-chamber"
+      ],
+      "answer": 0,
+      "explanation": "In the apical 2-chamber view, the mitral valve appears as a “floating disc.” *(Practice review slide 21.)*",
+      "explanationImage": null,
+      "tags": [
+        "Wall Segments",
+        "Apical Window",
+        "Left Ventricular Anatomy"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch03-q011",
+      "stem": "During a routine adult transthoracic examination, the sonographer reviews the following concept.  What walls are demonstrated in the 3-Chamber view?",
+      "image": null,
+      "options": [
+        "Anteroseptal wall and inferior wall",
+        "Inferolateral and inferoseptal walls",
+        "Inferolateral and anteroseptal walls",
+        "Inferoseptal and anterolateral wall"
+      ],
+      "answer": 2,
+      "explanation": "The apical 3-chamber (apical long-axis) displays the inferolateral (posterior) and anteroseptal walls. *(Practice review slide 23.)*",
+      "explanationImage": null,
+      "tags": [
+        "Wall Segments",
+        "Apical Window",
+        "Left Ventricular Anatomy"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch03-q012",
+      "stem": "During a routine adult transthoracic examination, the sonographer reviews the following concept.  What walls are demonstrated in the 2-Chamber view?",
+      "image": null,
+      "options": [
+        "Inferoseptal and anterolateral wall",
+        "Inferior and anterior walls",
+        "Anteroseptal and inferolateral walls",
+        "Anteroseptal wall and inferior wall"
+      ],
+      "answer": 1,
+      "explanation": "The apical 2-chamber demonstrates the inferior and anterior LV walls. *(Practice review slide 25.)*",
+      "explanationImage": null,
+      "tags": [
+        "Wall Segments",
+        "Apical Window",
+        "Left Ventricular Anatomy"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch03-q013",
+      "stem": "During a routine adult transthoracic examination, the sonographer reviews the following concept.  From Apical 4-Chamber, how do you maneuver the probe to acquire the 2-Chamber view?",
+      "image": null,
+      "options": [
+        "Angle inferiorly",
+        "Angle anteriorly",
+        "Rotate clockwise",
+        "Rotate counterclockwise"
+      ],
+      "answer": 3,
+      "explanation": "From the 4-chamber, rotate the transducer counterclockwise (indicator toward ~12–1 o’clock) to obtain the 2-chamber. *(Practice review slide 27.)*",
+      "explanationImage": null,
+      "tags": [
+        "Wall Segments",
+        "Apical Window",
+        "Left Ventricular Anatomy"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch03-q014",
+      "stem": "During a routine adult transthoracic examination, the sonographer reviews the following concept.  What Apical view only demonstrates the left side of the heart?",
+      "image": null,
+      "options": [
+        "2 Chamber",
+        "4 Chamber",
+        "5 Chamber",
+        "3 Chamber"
+      ],
+      "answer": 0,
+      "explanation": "The apical 2-chamber shows only the left-sided chambers — the LV and LA. *(Practice review slide 29.)*",
+      "explanationImage": null,
+      "tags": [
+        "Wall Segments",
+        "Apical Window",
+        "Left Ventricular Anatomy"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch03-q015",
+      "stem": "During a routine adult transthoracic examination, the sonographer reviews the following concept.  What Apical view demonstrates the Aortic valve?",
+      "image": null,
+      "options": [
+        "3 Chamber",
+        "4 Chamber",
+        "5 Chamber",
+        "Both A & C"
+      ],
+      "answer": 3,
+      "explanation": "Both the apical 3-chamber and the apical 5-chamber demonstrate the aortic valve and LVOT. *(Practice review slide 31.)*",
+      "explanationImage": null,
+      "tags": [
+        "Wall Segments",
+        "Apical Window",
+        "Left Ventricular Anatomy"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch03-q016",
+      "stem": "During a routine adult transthoracic examination, the sonographer reviews the following concept.  The left-sided structures are more dominantly analyzed in echo compared to the right-sided structures. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "Only true for pediatric echocardiography",
+        "Cannot be determined from the image alone",
+        "False",
+        "True"
+      ],
+      "answer": 3,
+      "explanation": "True — echo assessment is left-heart dominant, though right-sided structures and wall segments remain important. *(Practice review slide 33.)*",
+      "explanationImage": null,
+      "tags": [
+        "Wall Segments",
+        "Apical Window",
+        "Left Ventricular Anatomy"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch03-q017",
+      "stem": "During a routine adult transthoracic examination, the sonographer reviews the following concept.  The left side is harder to image compared to the right side. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "False",
+        "Cannot be determined from the image alone",
+        "Only true for pediatric echocardiography",
+        "True"
+      ],
+      "answer": 0,
+      "explanation": "False — the right heart is generally the more challenging to image, given its anterior, retrosternal position and complex crescent geometry. *(Practice review slide 35.)*",
+      "explanationImage": null,
+      "tags": [
+        "Wall Segments",
+        "Apical Window",
+        "Left Ventricular Anatomy"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch03-q018",
+      "stem": "During a routine adult transthoracic examination, the sonographer reviews the following concept.  The apical window is located lateral and inferior on the chest wall. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "Cannot be determined from the image alone",
+        "False",
+        "Only true for pediatric echocardiography",
+        "True"
+      ],
+      "answer": 3,
+      "explanation": "True — the apical window sits lateral and inferior on the chest wall, over the cardiac apex. *(Practice review slide 37.)*",
+      "explanationImage": null,
+      "tags": [
+        "Wall Segments",
+        "Apical Window",
+        "Left Ventricular Anatomy"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch03-q019",
+      "stem": "A trainee is preparing for a practical echocardiography assessment.  Using the Bull’s Eye model, how many wall segments are used in the left ventricle?",
+      "image": null,
+      "options": [
+        "18",
+        "17",
+        "16–17",
+        "16"
+      ],
+      "answer": 2,
+      "explanation": "Per ASE, the LV is described with 16 or 17 segments — 16 for wall-motion scoring, and 17 when the apical cap is added (for perfusion/nuclear correlation). “16–17” captures both. *(Practice review slide 3.)*",
+      "explanationImage": null,
+      "tags": [
+        "Wall Segments",
+        "Apical Window",
+        "Left Ventricular Anatomy"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch03-q020",
+      "stem": "A trainee is preparing for a practical echocardiography assessment.  Using the Bull’s Eye model, how many segments are used in the basal portion of the left ventricle?",
+      "image": null,
+      "options": [
+        "6",
+        "4",
+        "5",
+        "8"
+      ],
+      "answer": 0,
+      "explanation": "The basal region contains 6 segments: basal anterior, anteroseptal, inferoseptal, inferior, inferolateral, and anterolateral. *(Practice review slide 5.)*",
+      "explanationImage": null,
+      "tags": [
+        "Wall Segments",
+        "Apical Window",
+        "Left Ventricular Anatomy"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch03-q021",
+      "stem": "A trainee is preparing for a practical echocardiography assessment.  Using the Bull’s Eye model, how many segments are used in the mid-cavity portion of the left ventricle?",
+      "image": null,
+      "options": [
+        "8",
+        "6",
+        "4",
+        "5"
+      ],
+      "answer": 1,
+      "explanation": "The mid-cavity region also has 6 segments, named analogously to the basal ring at the mid level. *(Practice review slide 7.)*",
+      "explanationImage": null,
+      "tags": [
+        "Wall Segments",
+        "Apical Window",
+        "Left Ventricular Anatomy"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch03-q022",
+      "stem": "A trainee is preparing for a practical echocardiography assessment.  Using the Bull’s Eye model, how many segments are used in the apical portion of the left ventricle?",
+      "image": null,
+      "options": [
+        "3",
+        "4",
+        "2",
+        "5"
+      ],
+      "answer": 1,
+      "explanation": "The apical region has 4 segments: apical anterior, apical septal, apical inferior, and apical lateral. *(Practice review slide 9.)*",
+      "explanationImage": null,
+      "tags": [
+        "Wall Segments",
+        "Apical Window",
+        "Left Ventricular Anatomy"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch03-q023",
+      "stem": "A trainee is preparing for a practical echocardiography assessment.  Where is the Moderator Band located?",
+      "image": null,
+      "options": [
+        "Left ventricular apex",
+        "Right ventricular apex",
+        "Left atrium from left atrial appendage to interatrial septum",
+        "Right atrium from IVC to interatrial septum"
+      ],
+      "answer": 1,
+      "explanation": "The moderator band lies in the RV apex, running from the interventricular septum to the anterior papillary muscle in the anterolateral RV free wall. *(Practice review slide 11.)*",
+      "explanationImage": null,
+      "tags": [
+        "Wall Segments",
+        "Apical Window",
+        "Left Ventricular Anatomy"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch03-q024",
+      "stem": "A trainee is preparing for a practical echocardiography assessment.  What level of intercostal space is utilized in the apical window?",
+      "image": null,
+      "options": [
+        "5th – 7th intercostal space",
+        "Near the point of maximal impulse in (the 5th intercostal space as starting point) the midaxillary line",
+        "4th – 7th intercostal space",
+        "4th – 6th intercostal space"
+      ],
+      "answer": 1,
+      "explanation": "The course review identifies Near the point of maximal impulse in (the 5th intercostal space as starting point) the midaxillary line as the correct response. *(Practice review slide 13.)*",
+      "explanationImage": null,
+      "tags": [
+        "Wall Segments",
+        "Apical Window",
+        "Left Ventricular Anatomy"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch03-q025",
+      "stem": "A trainee is preparing for a practical echocardiography assessment.  What walls are seen in the apical 4-chamber view?",
+      "image": null,
+      "options": [
+        "Inferolateral and inferoseptal walls",
+        "Inferoseptal and anterolateral wall",
+        "Inferolateral and anteroseptal walls",
+        "Anteroseptal wall and inferior wall"
+      ],
+      "answer": 1,
+      "explanation": "The apical 4-chamber profiles the inferoseptal (septal) wall and the anterolateral (lateral) wall of the LV. *(Practice review slide 15.)*",
+      "explanationImage": null,
+      "tags": [
+        "Wall Segments",
+        "Apical Window",
+        "Left Ventricular Anatomy"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch03-q026",
+      "stem": "A trainee is preparing for a practical echocardiography assessment.  In the Apical 4-Chamber view, the beam is directed towards the patient’s right shoulder. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "Only true for pediatric echocardiography",
+        "False",
+        "Cannot be determined from the image alone",
+        "True"
+      ],
+      "answer": 3,
+      "explanation": "True — from the apex, the 4-chamber imaging plane is directed up toward the patient’s right shoulder, aligning the septum and lateral walls base-to-apex. *(Practice review slide 17.)*",
+      "explanationImage": null,
+      "tags": [
+        "Wall Segments",
+        "Apical Window",
+        "Left Ventricular Anatomy"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch03-q027",
+      "stem": "A trainee is preparing for a practical echocardiography assessment.  From Apical 4-Chamber, how do you maneuver the probe to acquire the 5-Chamber view?",
+      "image": null,
+      "options": [
+        "Rotate clockwise",
+        "Angle inferiorly",
+        "Angle anteriorly",
+        "Rotate counterclockwise"
+      ],
+      "answer": 2,
+      "explanation": "From the 4-chamber, angle the transducer anteriorly to bring up the LVOT, a segment of the aortic root, and the aortic valve — the apical 5-chamber. *(Practice review slide 19.)*",
+      "explanationImage": null,
+      "tags": [
+        "Wall Segments",
+        "Apical Window",
+        "Left Ventricular Anatomy"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch03-q028",
+      "stem": "A trainee is preparing for a practical echocardiography assessment.  What apical view demonstrates the ‘floating disc’?",
+      "image": null,
+      "options": [
+        "Apical 3-chamber",
+        "Apical 4-chamber",
+        "Apical 2-chamber",
+        "Apical 5-chamber"
+      ],
+      "answer": 2,
+      "explanation": "In the apical 2-chamber view, the mitral valve appears as a “floating disc.” *(Practice review slide 21.)*",
+      "explanationImage": null,
+      "tags": [
+        "Wall Segments",
+        "Apical Window",
+        "Left Ventricular Anatomy"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch03-q029",
+      "stem": "A trainee is preparing for a practical echocardiography assessment.  What walls are demonstrated in the 3-Chamber view?",
+      "image": null,
+      "options": [
+        "Inferolateral and inferoseptal walls",
+        "Anteroseptal wall and inferior wall",
+        "Inferoseptal and anterolateral wall",
+        "Inferolateral and anteroseptal walls"
+      ],
+      "answer": 3,
+      "explanation": "The apical 3-chamber (apical long-axis) displays the inferolateral (posterior) and anteroseptal walls. *(Practice review slide 23.)*",
+      "explanationImage": null,
+      "tags": [
+        "Wall Segments",
+        "Apical Window",
+        "Left Ventricular Anatomy"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch03-q030",
+      "stem": "A trainee is preparing for a practical echocardiography assessment.  What walls are demonstrated in the 2-Chamber view?",
+      "image": null,
+      "options": [
+        "Inferior and anterior walls",
+        "Inferoseptal and anterolateral wall",
+        "Anteroseptal and inferolateral walls",
+        "Anteroseptal wall and inferior wall"
+      ],
+      "answer": 0,
+      "explanation": "The apical 2-chamber demonstrates the inferior and anterior LV walls. *(Practice review slide 25.)*",
+      "explanationImage": null,
+      "tags": [
+        "Wall Segments",
+        "Apical Window",
+        "Left Ventricular Anatomy"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch03-q031",
+      "stem": "A trainee is preparing for a practical echocardiography assessment.  From Apical 4-Chamber, how do you maneuver the probe to acquire the 2-Chamber view?",
+      "image": null,
+      "options": [
+        "Angle inferiorly",
+        "Rotate clockwise",
+        "Rotate counterclockwise",
+        "Angle anteriorly"
+      ],
+      "answer": 2,
+      "explanation": "From the 4-chamber, rotate the transducer counterclockwise (indicator toward ~12–1 o’clock) to obtain the 2-chamber. *(Practice review slide 27.)*",
+      "explanationImage": null,
+      "tags": [
+        "Wall Segments",
+        "Apical Window",
+        "Left Ventricular Anatomy"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch03-q032",
+      "stem": "A trainee is preparing for a practical echocardiography assessment.  What Apical view only demonstrates the left side of the heart?",
+      "image": null,
+      "options": [
+        "3 Chamber",
+        "5 Chamber",
+        "4 Chamber",
+        "2 Chamber"
+      ],
+      "answer": 3,
+      "explanation": "The apical 2-chamber shows only the left-sided chambers — the LV and LA. *(Practice review slide 29.)*",
+      "explanationImage": null,
+      "tags": [
+        "Wall Segments",
+        "Apical Window",
+        "Left Ventricular Anatomy"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch03-q033",
+      "stem": "A trainee is preparing for a practical echocardiography assessment.  What Apical view demonstrates the Aortic valve?",
+      "image": null,
+      "options": [
+        "3 Chamber",
+        "4 Chamber",
+        "5 Chamber",
+        "Both A & C"
+      ],
+      "answer": 3,
+      "explanation": "Both the apical 3-chamber and the apical 5-chamber demonstrate the aortic valve and LVOT. *(Practice review slide 31.)*",
+      "explanationImage": null,
+      "tags": [
+        "Wall Segments",
+        "Apical Window",
+        "Left Ventricular Anatomy"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch03-q034",
+      "stem": "A trainee is preparing for a practical echocardiography assessment.  The left-sided structures are more dominantly analyzed in echo compared to the right-sided structures. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "Cannot be determined from the image alone",
+        "Only true for pediatric echocardiography",
+        "True",
+        "False"
+      ],
+      "answer": 2,
+      "explanation": "True — echo assessment is left-heart dominant, though right-sided structures and wall segments remain important. *(Practice review slide 33.)*",
+      "explanationImage": null,
+      "tags": [
+        "Wall Segments",
+        "Apical Window",
+        "Left Ventricular Anatomy"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch03-q035",
+      "stem": "A trainee is preparing for a practical echocardiography assessment.  The left side is harder to image compared to the right side. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "Cannot be determined from the image alone",
+        "True",
+        "Only true for pediatric echocardiography",
+        "False"
+      ],
+      "answer": 3,
+      "explanation": "False — the right heart is generally the more challenging to image, given its anterior, retrosternal position and complex crescent geometry. *(Practice review slide 35.)*",
+      "explanationImage": null,
+      "tags": [
+        "Wall Segments",
+        "Apical Window",
+        "Left Ventricular Anatomy"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch03-q036",
+      "stem": "A trainee is preparing for a practical echocardiography assessment.  The apical window is located lateral and inferior on the chest wall. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "True",
+        "Only true for pediatric echocardiography",
+        "Cannot be determined from the image alone",
+        "False"
+      ],
+      "answer": 0,
+      "explanation": "True — the apical window sits lateral and inferior on the chest wall, over the cardiac apex. *(Practice review slide 37.)*",
+      "explanationImage": null,
+      "tags": [
+        "Wall Segments",
+        "Apical Window",
+        "Left Ventricular Anatomy"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch03-q037",
+      "stem": "While reviewing a standard adult echocardiography protocol, consider this question:  Using the Bull’s Eye model, how many wall segments are used in the left ventricle?",
+      "image": null,
+      "options": [
+        "16",
+        "17",
+        "16–17",
+        "18"
+      ],
+      "answer": 2,
+      "explanation": "Per ASE, the LV is described with 16 or 17 segments — 16 for wall-motion scoring, and 17 when the apical cap is added (for perfusion/nuclear correlation). “16–17” captures both. *(Practice review slide 3.)*",
+      "explanationImage": null,
+      "tags": [
+        "Wall Segments",
+        "Apical Window",
+        "Left Ventricular Anatomy"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch03-q038",
+      "stem": "While reviewing a standard adult echocardiography protocol, consider this question:  Using the Bull’s Eye model, how many segments are used in the basal portion of the left ventricle?",
+      "image": null,
+      "options": [
+        "6",
+        "5",
+        "8",
+        "4"
+      ],
+      "answer": 0,
+      "explanation": "The basal region contains 6 segments: basal anterior, anteroseptal, inferoseptal, inferior, inferolateral, and anterolateral. *(Practice review slide 5.)*",
+      "explanationImage": null,
+      "tags": [
+        "Wall Segments",
+        "Apical Window",
+        "Left Ventricular Anatomy"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch03-q039",
+      "stem": "While reviewing a standard adult echocardiography protocol, consider this question:  Using the Bull’s Eye model, how many segments are used in the mid-cavity portion of the left ventricle?",
+      "image": null,
+      "options": [
+        "6",
+        "5",
+        "8",
+        "4"
+      ],
+      "answer": 0,
+      "explanation": "The mid-cavity region also has 6 segments, named analogously to the basal ring at the mid level. *(Practice review slide 7.)*",
+      "explanationImage": null,
+      "tags": [
+        "Wall Segments",
+        "Apical Window",
+        "Left Ventricular Anatomy"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch03-q040",
+      "stem": "While reviewing a standard adult echocardiography protocol, consider this question:  Using the Bull’s Eye model, how many segments are used in the apical portion of the left ventricle?",
+      "image": null,
+      "options": [
+        "2",
+        "4",
+        "3",
+        "5"
+      ],
+      "answer": 1,
+      "explanation": "The apical region has 4 segments: apical anterior, apical septal, apical inferior, and apical lateral. *(Practice review slide 9.)*",
+      "explanationImage": null,
+      "tags": [
+        "Wall Segments",
+        "Apical Window",
+        "Left Ventricular Anatomy"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch03-q041",
+      "stem": "While reviewing a standard adult echocardiography protocol, consider this question:  Where is the Moderator Band located?",
+      "image": null,
+      "options": [
+        "Left atrium from left atrial appendage to interatrial septum",
+        "Right ventricular apex",
+        "Right atrium from IVC to interatrial septum",
+        "Left ventricular apex"
+      ],
+      "answer": 1,
+      "explanation": "The moderator band lies in the RV apex, running from the interventricular septum to the anterior papillary muscle in the anterolateral RV free wall. *(Practice review slide 11.)*",
+      "explanationImage": null,
+      "tags": [
+        "Wall Segments",
+        "Apical Window",
+        "Left Ventricular Anatomy"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch03-q042",
+      "stem": "While reviewing a standard adult echocardiography protocol, consider this question:  What level of intercostal space is utilized in the apical window?",
+      "image": null,
+      "options": [
+        "4th – 7th intercostal space",
+        "5th – 7th intercostal space",
+        "4th – 6th intercostal space",
+        "Near the point of maximal impulse in (the 5th intercostal space as starting point) the midaxillary line"
+      ],
+      "answer": 3,
+      "explanation": "The course review identifies Near the point of maximal impulse in (the 5th intercostal space as starting point) the midaxillary line as the correct response. *(Practice review slide 13.)*",
+      "explanationImage": null,
+      "tags": [
+        "Wall Segments",
+        "Apical Window",
+        "Left Ventricular Anatomy"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch03-q043",
+      "stem": "While reviewing a standard adult echocardiography protocol, consider this question:  What walls are seen in the apical 4-chamber view?",
+      "image": null,
+      "options": [
+        "Anteroseptal wall and inferior wall",
+        "Inferolateral and inferoseptal walls",
+        "Inferoseptal and anterolateral wall",
+        "Inferolateral and anteroseptal walls"
+      ],
+      "answer": 2,
+      "explanation": "The apical 4-chamber profiles the inferoseptal (septal) wall and the anterolateral (lateral) wall of the LV. *(Practice review slide 15.)*",
+      "explanationImage": null,
+      "tags": [
+        "Wall Segments",
+        "Apical Window",
+        "Left Ventricular Anatomy"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch03-q044",
+      "stem": "While reviewing a standard adult echocardiography protocol, consider this question:  In the Apical 4-Chamber view, the beam is directed towards the patient’s right shoulder. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "True",
+        "False",
+        "Cannot be determined from the image alone",
+        "Only true for pediatric echocardiography"
+      ],
+      "answer": 0,
+      "explanation": "True — from the apex, the 4-chamber imaging plane is directed up toward the patient’s right shoulder, aligning the septum and lateral walls base-to-apex. *(Practice review slide 17.)*",
+      "explanationImage": null,
+      "tags": [
+        "Wall Segments",
+        "Apical Window",
+        "Left Ventricular Anatomy"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch03-q045",
+      "stem": "While reviewing a standard adult echocardiography protocol, consider this question:  From Apical 4-Chamber, how do you maneuver the probe to acquire the 5-Chamber view?",
+      "image": null,
+      "options": [
+        "Angle anteriorly",
+        "Rotate clockwise",
+        "Angle inferiorly",
+        "Rotate counterclockwise"
+      ],
+      "answer": 0,
+      "explanation": "From the 4-chamber, angle the transducer anteriorly to bring up the LVOT, a segment of the aortic root, and the aortic valve — the apical 5-chamber. *(Practice review slide 19.)*",
+      "explanationImage": null,
+      "tags": [
+        "Wall Segments",
+        "Apical Window",
+        "Left Ventricular Anatomy"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch03-q046",
+      "stem": "While reviewing a standard adult echocardiography protocol, consider this question:  What apical view demonstrates the ‘floating disc’?",
+      "image": null,
+      "options": [
+        "Apical 4-chamber",
+        "Apical 2-chamber",
+        "Apical 5-chamber",
+        "Apical 3-chamber"
+      ],
+      "answer": 1,
+      "explanation": "In the apical 2-chamber view, the mitral valve appears as a “floating disc.” *(Practice review slide 21.)*",
+      "explanationImage": null,
+      "tags": [
+        "Wall Segments",
+        "Apical Window",
+        "Left Ventricular Anatomy"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch03-q047",
+      "stem": "While reviewing a standard adult echocardiography protocol, consider this question:  What walls are demonstrated in the 3-Chamber view?",
+      "image": null,
+      "options": [
+        "Inferoseptal and anterolateral wall",
+        "Anteroseptal wall and inferior wall",
+        "Inferolateral and anteroseptal walls",
+        "Inferolateral and inferoseptal walls"
+      ],
+      "answer": 2,
+      "explanation": "The apical 3-chamber (apical long-axis) displays the inferolateral (posterior) and anteroseptal walls. *(Practice review slide 23.)*",
+      "explanationImage": null,
+      "tags": [
+        "Wall Segments",
+        "Apical Window",
+        "Left Ventricular Anatomy"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch03-q048",
+      "stem": "While reviewing a standard adult echocardiography protocol, consider this question:  What walls are demonstrated in the 2-Chamber view?",
+      "image": null,
+      "options": [
+        "Inferior and anterior walls",
+        "Anteroseptal and inferolateral walls",
+        "Anteroseptal wall and inferior wall",
+        "Inferoseptal and anterolateral wall"
+      ],
+      "answer": 0,
+      "explanation": "The apical 2-chamber demonstrates the inferior and anterior LV walls. *(Practice review slide 25.)*",
+      "explanationImage": null,
+      "tags": [
+        "Wall Segments",
+        "Apical Window",
+        "Left Ventricular Anatomy"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch03-q049",
+      "stem": "While reviewing a standard adult echocardiography protocol, consider this question:  From Apical 4-Chamber, how do you maneuver the probe to acquire the 2-Chamber view?",
+      "image": null,
+      "options": [
+        "Angle anteriorly",
+        "Rotate counterclockwise",
+        "Rotate clockwise",
+        "Angle inferiorly"
+      ],
+      "answer": 1,
+      "explanation": "From the 4-chamber, rotate the transducer counterclockwise (indicator toward ~12–1 o’clock) to obtain the 2-chamber. *(Practice review slide 27.)*",
+      "explanationImage": null,
+      "tags": [
+        "Wall Segments",
+        "Apical Window",
+        "Left Ventricular Anatomy"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch03-q050",
+      "stem": "While reviewing a standard adult echocardiography protocol, consider this question:  What Apical view only demonstrates the left side of the heart?",
+      "image": null,
+      "options": [
+        "2 Chamber",
+        "4 Chamber",
+        "3 Chamber",
+        "5 Chamber"
+      ],
+      "answer": 0,
+      "explanation": "The apical 2-chamber shows only the left-sided chambers — the LV and LA. *(Practice review slide 29.)*",
+      "explanationImage": null,
+      "tags": [
+        "Wall Segments",
+        "Apical Window",
+        "Left Ventricular Anatomy"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch03-q051",
+      "stem": "While reviewing a standard adult echocardiography protocol, consider this question:  What Apical view demonstrates the Aortic valve?",
+      "image": null,
+      "options": [
+        "3 Chamber",
+        "4 Chamber",
+        "5 Chamber",
+        "Both A & C"
+      ],
+      "answer": 3,
+      "explanation": "Both the apical 3-chamber and the apical 5-chamber demonstrate the aortic valve and LVOT. *(Practice review slide 31.)*",
+      "explanationImage": null,
+      "tags": [
+        "Wall Segments",
+        "Apical Window",
+        "Left Ventricular Anatomy"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch03-q052",
+      "stem": "While reviewing a standard adult echocardiography protocol, consider this question:  The left-sided structures are more dominantly analyzed in echo compared to the right-sided structures. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "True",
+        "False",
+        "Cannot be determined from the image alone",
+        "Only true for pediatric echocardiography"
+      ],
+      "answer": 0,
+      "explanation": "True — echo assessment is left-heart dominant, though right-sided structures and wall segments remain important. *(Practice review slide 33.)*",
+      "explanationImage": null,
+      "tags": [
+        "Wall Segments",
+        "Apical Window",
+        "Left Ventricular Anatomy"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch03-q053",
+      "stem": "While reviewing a standard adult echocardiography protocol, consider this question:  The left side is harder to image compared to the right side. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "Cannot be determined from the image alone",
+        "Only true for pediatric echocardiography",
+        "True",
+        "False"
+      ],
+      "answer": 3,
+      "explanation": "False — the right heart is generally the more challenging to image, given its anterior, retrosternal position and complex crescent geometry. *(Practice review slide 35.)*",
+      "explanationImage": null,
+      "tags": [
+        "Wall Segments",
+        "Apical Window",
+        "Left Ventricular Anatomy"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch03-q054",
+      "stem": "While reviewing a standard adult echocardiography protocol, consider this question:  The apical window is located lateral and inferior on the chest wall. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "Only true for pediatric echocardiography",
+        "False",
+        "True",
+        "Cannot be determined from the image alone"
+      ],
+      "answer": 2,
+      "explanation": "True — the apical window sits lateral and inferior on the chest wall, over the cardiac apex. *(Practice review slide 37.)*",
+      "explanationImage": null,
+      "tags": [
+        "Wall Segments",
+        "Apical Window",
+        "Left Ventricular Anatomy"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch03-q055",
+      "stem": "A sonographer is asked to select the most accurate response.  Using the Bull’s Eye model, how many wall segments are used in the left ventricle?",
+      "image": null,
+      "options": [
+        "18",
+        "16–17",
+        "16",
+        "17"
+      ],
+      "answer": 1,
+      "explanation": "Per ASE, the LV is described with 16 or 17 segments — 16 for wall-motion scoring, and 17 when the apical cap is added (for perfusion/nuclear correlation). “16–17” captures both. *(Practice review slide 3.)*",
+      "explanationImage": null,
+      "tags": [
+        "Wall Segments",
+        "Apical Window",
+        "Left Ventricular Anatomy"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch03-q056",
+      "stem": "A sonographer is asked to select the most accurate response.  Using the Bull’s Eye model, how many segments are used in the basal portion of the left ventricle?",
+      "image": null,
+      "options": [
+        "5",
+        "6",
+        "8",
+        "4"
+      ],
+      "answer": 1,
+      "explanation": "The basal region contains 6 segments: basal anterior, anteroseptal, inferoseptal, inferior, inferolateral, and anterolateral. *(Practice review slide 5.)*",
+      "explanationImage": null,
+      "tags": [
+        "Wall Segments",
+        "Apical Window",
+        "Left Ventricular Anatomy"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch03-q057",
+      "stem": "A sonographer is asked to select the most accurate response.  Using the Bull’s Eye model, how many segments are used in the mid-cavity portion of the left ventricle?",
+      "image": null,
+      "options": [
+        "5",
+        "8",
+        "4",
+        "6"
+      ],
+      "answer": 3,
+      "explanation": "The mid-cavity region also has 6 segments, named analogously to the basal ring at the mid level. *(Practice review slide 7.)*",
+      "explanationImage": null,
+      "tags": [
+        "Wall Segments",
+        "Apical Window",
+        "Left Ventricular Anatomy"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch03-q058",
+      "stem": "A sonographer is asked to select the most accurate response.  Using the Bull’s Eye model, how many segments are used in the apical portion of the left ventricle?",
+      "image": null,
+      "options": [
+        "3",
+        "4",
+        "5",
+        "2"
+      ],
+      "answer": 1,
+      "explanation": "The apical region has 4 segments: apical anterior, apical septal, apical inferior, and apical lateral. *(Practice review slide 9.)*",
+      "explanationImage": null,
+      "tags": [
+        "Wall Segments",
+        "Apical Window",
+        "Left Ventricular Anatomy"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch03-q059",
+      "stem": "A sonographer is asked to select the most accurate response.  Where is the Moderator Band located?",
+      "image": null,
+      "options": [
+        "Left atrium from left atrial appendage to interatrial septum",
+        "Right atrium from IVC to interatrial septum",
+        "Right ventricular apex",
+        "Left ventricular apex"
+      ],
+      "answer": 2,
+      "explanation": "The moderator band lies in the RV apex, running from the interventricular septum to the anterior papillary muscle in the anterolateral RV free wall. *(Practice review slide 11.)*",
+      "explanationImage": null,
+      "tags": [
+        "Wall Segments",
+        "Apical Window",
+        "Left Ventricular Anatomy"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch03-q060",
+      "stem": "A sonographer is asked to select the most accurate response.  What level of intercostal space is utilized in the apical window?",
+      "image": null,
+      "options": [
+        "Near the point of maximal impulse in (the 5th intercostal space as starting point) the midaxillary line",
+        "5th – 7th intercostal space",
+        "4th – 6th intercostal space",
+        "4th – 7th intercostal space"
+      ],
+      "answer": 0,
+      "explanation": "The course review identifies Near the point of maximal impulse in (the 5th intercostal space as starting point) the midaxillary line as the correct response. *(Practice review slide 13.)*",
+      "explanationImage": null,
+      "tags": [
+        "Wall Segments",
+        "Apical Window",
+        "Left Ventricular Anatomy"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch03-q061",
+      "stem": "A sonographer is asked to select the most accurate response.  What walls are seen in the apical 4-chamber view?",
+      "image": null,
+      "options": [
+        "Inferolateral and inferoseptal walls",
+        "Inferoseptal and anterolateral wall",
+        "Inferolateral and anteroseptal walls",
+        "Anteroseptal wall and inferior wall"
+      ],
+      "answer": 1,
+      "explanation": "The apical 4-chamber profiles the inferoseptal (septal) wall and the anterolateral (lateral) wall of the LV. *(Practice review slide 15.)*",
+      "explanationImage": null,
+      "tags": [
+        "Wall Segments",
+        "Apical Window",
+        "Left Ventricular Anatomy"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch03-q062",
+      "stem": "A sonographer is asked to select the most accurate response.  In the Apical 4-Chamber view, the beam is directed towards the patient’s right shoulder. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "False",
+        "Only true for pediatric echocardiography",
+        "True",
+        "Cannot be determined from the image alone"
+      ],
+      "answer": 2,
+      "explanation": "True — from the apex, the 4-chamber imaging plane is directed up toward the patient’s right shoulder, aligning the septum and lateral walls base-to-apex. *(Practice review slide 17.)*",
+      "explanationImage": null,
+      "tags": [
+        "Wall Segments",
+        "Apical Window",
+        "Left Ventricular Anatomy"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch03-q063",
+      "stem": "A sonographer is asked to select the most accurate response.  From Apical 4-Chamber, how do you maneuver the probe to acquire the 5-Chamber view?",
+      "image": null,
+      "options": [
+        "Rotate clockwise",
+        "Angle anteriorly",
+        "Rotate counterclockwise",
+        "Angle inferiorly"
+      ],
+      "answer": 1,
+      "explanation": "From the 4-chamber, angle the transducer anteriorly to bring up the LVOT, a segment of the aortic root, and the aortic valve — the apical 5-chamber. *(Practice review slide 19.)*",
+      "explanationImage": null,
+      "tags": [
+        "Wall Segments",
+        "Apical Window",
+        "Left Ventricular Anatomy"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch03-q064",
+      "stem": "A sonographer is asked to select the most accurate response.  What apical view demonstrates the ‘floating disc’?",
+      "image": null,
+      "options": [
+        "Apical 4-chamber",
+        "Apical 2-chamber",
+        "Apical 5-chamber",
+        "Apical 3-chamber"
+      ],
+      "answer": 1,
+      "explanation": "In the apical 2-chamber view, the mitral valve appears as a “floating disc.” *(Practice review slide 21.)*",
+      "explanationImage": null,
+      "tags": [
+        "Wall Segments",
+        "Apical Window",
+        "Left Ventricular Anatomy"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch03-q065",
+      "stem": "A sonographer is asked to select the most accurate response.  What walls are demonstrated in the 3-Chamber view?",
+      "image": null,
+      "options": [
+        "Anteroseptal wall and inferior wall",
+        "Inferoseptal and anterolateral wall",
+        "Inferolateral and inferoseptal walls",
+        "Inferolateral and anteroseptal walls"
+      ],
+      "answer": 3,
+      "explanation": "The apical 3-chamber (apical long-axis) displays the inferolateral (posterior) and anteroseptal walls. *(Practice review slide 23.)*",
+      "explanationImage": null,
+      "tags": [
+        "Wall Segments",
+        "Apical Window",
+        "Left Ventricular Anatomy"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch03-q066",
+      "stem": "A sonographer is asked to select the most accurate response.  What walls are demonstrated in the 2-Chamber view?",
+      "image": null,
+      "options": [
+        "Anteroseptal wall and inferior wall",
+        "Inferior and anterior walls",
+        "Inferoseptal and anterolateral wall",
+        "Anteroseptal and inferolateral walls"
+      ],
+      "answer": 1,
+      "explanation": "The apical 2-chamber demonstrates the inferior and anterior LV walls. *(Practice review slide 25.)*",
+      "explanationImage": null,
+      "tags": [
+        "Wall Segments",
+        "Apical Window",
+        "Left Ventricular Anatomy"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch03-q067",
+      "stem": "A sonographer is asked to select the most accurate response.  From Apical 4-Chamber, how do you maneuver the probe to acquire the 2-Chamber view?",
+      "image": null,
+      "options": [
+        "Rotate counterclockwise",
+        "Angle inferiorly",
+        "Angle anteriorly",
+        "Rotate clockwise"
+      ],
+      "answer": 0,
+      "explanation": "From the 4-chamber, rotate the transducer counterclockwise (indicator toward ~12–1 o’clock) to obtain the 2-chamber. *(Practice review slide 27.)*",
+      "explanationImage": null,
+      "tags": [
+        "Wall Segments",
+        "Apical Window",
+        "Left Ventricular Anatomy"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch03-q068",
+      "stem": "A sonographer is asked to select the most accurate response.  What Apical view only demonstrates the left side of the heart?",
+      "image": null,
+      "options": [
+        "4 Chamber",
+        "5 Chamber",
+        "2 Chamber",
+        "3 Chamber"
+      ],
+      "answer": 2,
+      "explanation": "The apical 2-chamber shows only the left-sided chambers — the LV and LA. *(Practice review slide 29.)*",
+      "explanationImage": null,
+      "tags": [
+        "Wall Segments",
+        "Apical Window",
+        "Left Ventricular Anatomy"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch03-q069",
+      "stem": "A sonographer is asked to select the most accurate response.  What Apical view demonstrates the Aortic valve?",
+      "image": null,
+      "options": [
+        "3 Chamber",
+        "4 Chamber",
+        "5 Chamber",
+        "Both A & C"
+      ],
+      "answer": 3,
+      "explanation": "Both the apical 3-chamber and the apical 5-chamber demonstrate the aortic valve and LVOT. *(Practice review slide 31.)*",
+      "explanationImage": null,
+      "tags": [
+        "Wall Segments",
+        "Apical Window",
+        "Left Ventricular Anatomy"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch03-q070",
+      "stem": "A sonographer is asked to select the most accurate response.  The left-sided structures are more dominantly analyzed in echo compared to the right-sided structures. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "Only true for pediatric echocardiography",
+        "Cannot be determined from the image alone",
+        "True",
+        "False"
+      ],
+      "answer": 2,
+      "explanation": "True — echo assessment is left-heart dominant, though right-sided structures and wall segments remain important. *(Practice review slide 33.)*",
+      "explanationImage": null,
+      "tags": [
+        "Wall Segments",
+        "Apical Window",
+        "Left Ventricular Anatomy"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch03-q071",
+      "stem": "A sonographer is asked to select the most accurate response.  The left side is harder to image compared to the right side. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "Only true for pediatric echocardiography",
+        "False",
+        "True",
+        "Cannot be determined from the image alone"
+      ],
+      "answer": 1,
+      "explanation": "False — the right heart is generally the more challenging to image, given its anterior, retrosternal position and complex crescent geometry. *(Practice review slide 35.)*",
+      "explanationImage": null,
+      "tags": [
+        "Wall Segments",
+        "Apical Window",
+        "Left Ventricular Anatomy"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch03-q072",
+      "stem": "A sonographer is asked to select the most accurate response.  The apical window is located lateral and inferior on the chest wall. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "False",
+        "True",
+        "Cannot be determined from the image alone",
+        "Only true for pediatric echocardiography"
+      ],
+      "answer": 1,
+      "explanation": "True — the apical window sits lateral and inferior on the chest wall, over the cardiac apex. *(Practice review slide 37.)*",
+      "explanationImage": null,
+      "tags": [
+        "Wall Segments",
+        "Apical Window",
+        "Left Ventricular Anatomy"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch03-q073",
+      "stem": "During quality review of an adult echo study, the following point is discussed.  Using the Bull’s Eye model, how many wall segments are used in the left ventricle?",
+      "image": null,
+      "options": [
+        "16",
+        "16–17",
+        "18",
+        "17"
+      ],
+      "answer": 1,
+      "explanation": "Per ASE, the LV is described with 16 or 17 segments — 16 for wall-motion scoring, and 17 when the apical cap is added (for perfusion/nuclear correlation). “16–17” captures both. *(Practice review slide 3.)*",
+      "explanationImage": null,
+      "tags": [
+        "Wall Segments",
+        "Apical Window",
+        "Left Ventricular Anatomy"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch03-q074",
+      "stem": "During quality review of an adult echo study, the following point is discussed.  Using the Bull’s Eye model, how many segments are used in the basal portion of the left ventricle?",
+      "image": null,
+      "options": [
+        "4",
+        "5",
+        "6",
+        "8"
+      ],
+      "answer": 2,
+      "explanation": "The basal region contains 6 segments: basal anterior, anteroseptal, inferoseptal, inferior, inferolateral, and anterolateral. *(Practice review slide 5.)*",
+      "explanationImage": null,
+      "tags": [
+        "Wall Segments",
+        "Apical Window",
+        "Left Ventricular Anatomy"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch03-q075",
+      "stem": "During quality review of an adult echo study, the following point is discussed.  Using the Bull’s Eye model, how many segments are used in the mid-cavity portion of the left ventricle?",
+      "image": null,
+      "options": [
+        "6",
+        "5",
+        "4",
+        "8"
+      ],
+      "answer": 0,
+      "explanation": "The mid-cavity region also has 6 segments, named analogously to the basal ring at the mid level. *(Practice review slide 7.)*",
+      "explanationImage": null,
+      "tags": [
+        "Wall Segments",
+        "Apical Window",
+        "Left Ventricular Anatomy"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch03-q076",
+      "stem": "During quality review of an adult echo study, the following point is discussed.  Using the Bull’s Eye model, how many segments are used in the apical portion of the left ventricle?",
+      "image": null,
+      "options": [
+        "4",
+        "2",
+        "3",
+        "5"
+      ],
+      "answer": 0,
+      "explanation": "The apical region has 4 segments: apical anterior, apical septal, apical inferior, and apical lateral. *(Practice review slide 9.)*",
+      "explanationImage": null,
+      "tags": [
+        "Wall Segments",
+        "Apical Window",
+        "Left Ventricular Anatomy"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch03-q077",
+      "stem": "During quality review of an adult echo study, the following point is discussed.  Where is the Moderator Band located?",
+      "image": null,
+      "options": [
+        "Left ventricular apex",
+        "Left atrium from left atrial appendage to interatrial septum",
+        "Right atrium from IVC to interatrial septum",
+        "Right ventricular apex"
+      ],
+      "answer": 3,
+      "explanation": "The moderator band lies in the RV apex, running from the interventricular septum to the anterior papillary muscle in the anterolateral RV free wall. *(Practice review slide 11.)*",
+      "explanationImage": null,
+      "tags": [
+        "Wall Segments",
+        "Apical Window",
+        "Left Ventricular Anatomy"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch03-q078",
+      "stem": "During quality review of an adult echo study, the following point is discussed.  What level of intercostal space is utilized in the apical window?",
+      "image": null,
+      "options": [
+        "5th – 7th intercostal space",
+        "4th – 6th intercostal space",
+        "4th – 7th intercostal space",
+        "Near the point of maximal impulse in (the 5th intercostal space as starting point) the midaxillary line"
+      ],
+      "answer": 3,
+      "explanation": "The course review identifies Near the point of maximal impulse in (the 5th intercostal space as starting point) the midaxillary line as the correct response. *(Practice review slide 13.)*",
+      "explanationImage": null,
+      "tags": [
+        "Wall Segments",
+        "Apical Window",
+        "Left Ventricular Anatomy"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch03-q079",
+      "stem": "During quality review of an adult echo study, the following point is discussed.  What walls are seen in the apical 4-chamber view?",
+      "image": null,
+      "options": [
+        "Inferolateral and anteroseptal walls",
+        "Inferolateral and inferoseptal walls",
+        "Anteroseptal wall and inferior wall",
+        "Inferoseptal and anterolateral wall"
+      ],
+      "answer": 3,
+      "explanation": "The apical 4-chamber profiles the inferoseptal (septal) wall and the anterolateral (lateral) wall of the LV. *(Practice review slide 15.)*",
+      "explanationImage": null,
+      "tags": [
+        "Wall Segments",
+        "Apical Window",
+        "Left Ventricular Anatomy"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch03-q080",
+      "stem": "During quality review of an adult echo study, the following point is discussed.  In the Apical 4-Chamber view, the beam is directed towards the patient’s right shoulder. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "True",
+        "Cannot be determined from the image alone",
+        "Only true for pediatric echocardiography",
+        "False"
+      ],
+      "answer": 0,
+      "explanation": "True — from the apex, the 4-chamber imaging plane is directed up toward the patient’s right shoulder, aligning the septum and lateral walls base-to-apex. *(Practice review slide 17.)*",
+      "explanationImage": null,
+      "tags": [
+        "Wall Segments",
+        "Apical Window",
+        "Left Ventricular Anatomy"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch03-q081",
+      "stem": "During quality review of an adult echo study, the following point is discussed.  From Apical 4-Chamber, how do you maneuver the probe to acquire the 5-Chamber view?",
+      "image": null,
+      "options": [
+        "Rotate counterclockwise",
+        "Angle anteriorly",
+        "Rotate clockwise",
+        "Angle inferiorly"
+      ],
+      "answer": 1,
+      "explanation": "From the 4-chamber, angle the transducer anteriorly to bring up the LVOT, a segment of the aortic root, and the aortic valve — the apical 5-chamber. *(Practice review slide 19.)*",
+      "explanationImage": null,
+      "tags": [
+        "Wall Segments",
+        "Apical Window",
+        "Left Ventricular Anatomy"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch03-q082",
+      "stem": "During quality review of an adult echo study, the following point is discussed.  What apical view demonstrates the ‘floating disc’?",
+      "image": null,
+      "options": [
+        "Apical 4-chamber",
+        "Apical 3-chamber",
+        "Apical 5-chamber",
+        "Apical 2-chamber"
+      ],
+      "answer": 3,
+      "explanation": "In the apical 2-chamber view, the mitral valve appears as a “floating disc.” *(Practice review slide 21.)*",
+      "explanationImage": null,
+      "tags": [
+        "Wall Segments",
+        "Apical Window",
+        "Left Ventricular Anatomy"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch03-q083",
+      "stem": "During quality review of an adult echo study, the following point is discussed.  What walls are demonstrated in the 3-Chamber view?",
+      "image": null,
+      "options": [
+        "Inferolateral and inferoseptal walls",
+        "Anteroseptal wall and inferior wall",
+        "Inferolateral and anteroseptal walls",
+        "Inferoseptal and anterolateral wall"
+      ],
+      "answer": 2,
+      "explanation": "The apical 3-chamber (apical long-axis) displays the inferolateral (posterior) and anteroseptal walls. *(Practice review slide 23.)*",
+      "explanationImage": null,
+      "tags": [
+        "Wall Segments",
+        "Apical Window",
+        "Left Ventricular Anatomy"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch03-q084",
+      "stem": "During quality review of an adult echo study, the following point is discussed.  What walls are demonstrated in the 2-Chamber view?",
+      "image": null,
+      "options": [
+        "Anteroseptal and inferolateral walls",
+        "Inferoseptal and anterolateral wall",
+        "Inferior and anterior walls",
+        "Anteroseptal wall and inferior wall"
+      ],
+      "answer": 2,
+      "explanation": "The apical 2-chamber demonstrates the inferior and anterior LV walls. *(Practice review slide 25.)*",
+      "explanationImage": null,
+      "tags": [
+        "Wall Segments",
+        "Apical Window",
+        "Left Ventricular Anatomy"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch03-q085",
+      "stem": "During quality review of an adult echo study, the following point is discussed.  From Apical 4-Chamber, how do you maneuver the probe to acquire the 2-Chamber view?",
+      "image": null,
+      "options": [
+        "Rotate counterclockwise",
+        "Angle anteriorly",
+        "Rotate clockwise",
+        "Angle inferiorly"
+      ],
+      "answer": 0,
+      "explanation": "From the 4-chamber, rotate the transducer counterclockwise (indicator toward ~12–1 o’clock) to obtain the 2-chamber. *(Practice review slide 27.)*",
+      "explanationImage": null,
+      "tags": [
+        "Wall Segments",
+        "Apical Window",
+        "Left Ventricular Anatomy"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch03-q086",
+      "stem": "During quality review of an adult echo study, the following point is discussed.  What Apical view only demonstrates the left side of the heart?",
+      "image": null,
+      "options": [
+        "5 Chamber",
+        "2 Chamber",
+        "4 Chamber",
+        "3 Chamber"
+      ],
+      "answer": 1,
+      "explanation": "The apical 2-chamber shows only the left-sided chambers — the LV and LA. *(Practice review slide 29.)*",
+      "explanationImage": null,
+      "tags": [
+        "Wall Segments",
+        "Apical Window",
+        "Left Ventricular Anatomy"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch03-q087",
+      "stem": "During quality review of an adult echo study, the following point is discussed.  What Apical view demonstrates the Aortic valve?",
+      "image": null,
+      "options": [
+        "3 Chamber",
+        "4 Chamber",
+        "5 Chamber",
+        "Both A & C"
+      ],
+      "answer": 3,
+      "explanation": "Both the apical 3-chamber and the apical 5-chamber demonstrate the aortic valve and LVOT. *(Practice review slide 31.)*",
+      "explanationImage": null,
+      "tags": [
+        "Wall Segments",
+        "Apical Window",
+        "Left Ventricular Anatomy"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch03-q088",
+      "stem": "During quality review of an adult echo study, the following point is discussed.  The left-sided structures are more dominantly analyzed in echo compared to the right-sided structures. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "Cannot be determined from the image alone",
+        "Only true for pediatric echocardiography",
+        "True",
+        "False"
+      ],
+      "answer": 2,
+      "explanation": "True — echo assessment is left-heart dominant, though right-sided structures and wall segments remain important. *(Practice review slide 33.)*",
+      "explanationImage": null,
+      "tags": [
+        "Wall Segments",
+        "Apical Window",
+        "Left Ventricular Anatomy"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch03-q089",
+      "stem": "During quality review of an adult echo study, the following point is discussed.  The left side is harder to image compared to the right side. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "False",
+        "Cannot be determined from the image alone",
+        "Only true for pediatric echocardiography",
+        "True"
+      ],
+      "answer": 0,
+      "explanation": "False — the right heart is generally the more challenging to image, given its anterior, retrosternal position and complex crescent geometry. *(Practice review slide 35.)*",
+      "explanationImage": null,
+      "tags": [
+        "Wall Segments",
+        "Apical Window",
+        "Left Ventricular Anatomy"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch03-q090",
+      "stem": "During quality review of an adult echo study, the following point is discussed.  The apical window is located lateral and inferior on the chest wall. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "False",
+        "True",
+        "Cannot be determined from the image alone",
+        "Only true for pediatric echocardiography"
+      ],
+      "answer": 1,
+      "explanation": "True — the apical window sits lateral and inferior on the chest wall, over the cardiac apex. *(Practice review slide 37.)*",
+      "explanationImage": null,
+      "tags": [
+        "Wall Segments",
+        "Apical Window",
+        "Left Ventricular Anatomy"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch03-q091",
+      "stem": "An adult cardiac sonography student is interpreting a teaching case.  Using the Bull’s Eye model, how many wall segments are used in the left ventricle?",
+      "image": null,
+      "options": [
+        "16–17",
+        "16",
+        "17",
+        "18"
+      ],
+      "answer": 0,
+      "explanation": "Per ASE, the LV is described with 16 or 17 segments — 16 for wall-motion scoring, and 17 when the apical cap is added (for perfusion/nuclear correlation). “16–17” captures both. *(Practice review slide 3.)*",
+      "explanationImage": null,
+      "tags": [
+        "Wall Segments",
+        "Apical Window",
+        "Left Ventricular Anatomy"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch03-q092",
+      "stem": "An adult cardiac sonography student is interpreting a teaching case.  Using the Bull’s Eye model, how many segments are used in the basal portion of the left ventricle?",
+      "image": null,
+      "options": [
+        "4",
+        "8",
+        "6",
+        "5"
+      ],
+      "answer": 2,
+      "explanation": "The basal region contains 6 segments: basal anterior, anteroseptal, inferoseptal, inferior, inferolateral, and anterolateral. *(Practice review slide 5.)*",
+      "explanationImage": null,
+      "tags": [
+        "Wall Segments",
+        "Apical Window",
+        "Left Ventricular Anatomy"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch03-q093",
+      "stem": "An adult cardiac sonography student is interpreting a teaching case.  Using the Bull’s Eye model, how many segments are used in the mid-cavity portion of the left ventricle?",
+      "image": null,
+      "options": [
+        "5",
+        "8",
+        "6",
+        "4"
+      ],
+      "answer": 2,
+      "explanation": "The mid-cavity region also has 6 segments, named analogously to the basal ring at the mid level. *(Practice review slide 7.)*",
+      "explanationImage": null,
+      "tags": [
+        "Wall Segments",
+        "Apical Window",
+        "Left Ventricular Anatomy"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch03-q094",
+      "stem": "An adult cardiac sonography student is interpreting a teaching case.  Using the Bull’s Eye model, how many segments are used in the apical portion of the left ventricle?",
+      "image": null,
+      "options": [
+        "4",
+        "5",
+        "3",
+        "2"
+      ],
+      "answer": 0,
+      "explanation": "The apical region has 4 segments: apical anterior, apical septal, apical inferior, and apical lateral. *(Practice review slide 9.)*",
+      "explanationImage": null,
+      "tags": [
+        "Wall Segments",
+        "Apical Window",
+        "Left Ventricular Anatomy"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch03-q095",
+      "stem": "An adult cardiac sonography student is interpreting a teaching case.  Where is the Moderator Band located?",
+      "image": null,
+      "options": [
+        "Right atrium from IVC to interatrial septum",
+        "Left atrium from left atrial appendage to interatrial septum",
+        "Left ventricular apex",
+        "Right ventricular apex"
+      ],
+      "answer": 3,
+      "explanation": "The moderator band lies in the RV apex, running from the interventricular septum to the anterior papillary muscle in the anterolateral RV free wall. *(Practice review slide 11.)*",
+      "explanationImage": null,
+      "tags": [
+        "Wall Segments",
+        "Apical Window",
+        "Left Ventricular Anatomy"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch03-q096",
+      "stem": "An adult cardiac sonography student is interpreting a teaching case.  What level of intercostal space is utilized in the apical window?",
+      "image": null,
+      "options": [
+        "4th – 7th intercostal space",
+        "4th – 6th intercostal space",
+        "Near the point of maximal impulse in (the 5th intercostal space as starting point) the midaxillary line",
+        "5th – 7th intercostal space"
+      ],
+      "answer": 2,
+      "explanation": "The course review identifies Near the point of maximal impulse in (the 5th intercostal space as starting point) the midaxillary line as the correct response. *(Practice review slide 13.)*",
+      "explanationImage": null,
+      "tags": [
+        "Wall Segments",
+        "Apical Window",
+        "Left Ventricular Anatomy"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch03-q097",
+      "stem": "An adult cardiac sonography student is interpreting a teaching case.  What walls are seen in the apical 4-chamber view?",
+      "image": null,
+      "options": [
+        "Anteroseptal wall and inferior wall",
+        "Inferolateral and anteroseptal walls",
+        "Inferoseptal and anterolateral wall",
+        "Inferolateral and inferoseptal walls"
+      ],
+      "answer": 2,
+      "explanation": "The apical 4-chamber profiles the inferoseptal (septal) wall and the anterolateral (lateral) wall of the LV. *(Practice review slide 15.)*",
+      "explanationImage": null,
+      "tags": [
+        "Wall Segments",
+        "Apical Window",
+        "Left Ventricular Anatomy"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch03-q098",
+      "stem": "An adult cardiac sonography student is interpreting a teaching case.  In the Apical 4-Chamber view, the beam is directed towards the patient’s right shoulder. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "Cannot be determined from the image alone",
+        "Only true for pediatric echocardiography",
+        "True",
+        "False"
+      ],
+      "answer": 2,
+      "explanation": "True — from the apex, the 4-chamber imaging plane is directed up toward the patient’s right shoulder, aligning the septum and lateral walls base-to-apex. *(Practice review slide 17.)*",
+      "explanationImage": null,
+      "tags": [
+        "Wall Segments",
+        "Apical Window",
+        "Left Ventricular Anatomy"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch03-q099",
+      "stem": "An adult cardiac sonography student is interpreting a teaching case.  From Apical 4-Chamber, how do you maneuver the probe to acquire the 5-Chamber view?",
+      "image": null,
+      "options": [
+        "Rotate clockwise",
+        "Rotate counterclockwise",
+        "Angle anteriorly",
+        "Angle inferiorly"
+      ],
+      "answer": 2,
+      "explanation": "From the 4-chamber, angle the transducer anteriorly to bring up the LVOT, a segment of the aortic root, and the aortic valve — the apical 5-chamber. *(Practice review slide 19.)*",
+      "explanationImage": null,
+      "tags": [
+        "Wall Segments",
+        "Apical Window",
+        "Left Ventricular Anatomy"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch03-q100",
+      "stem": "An adult cardiac sonography student is interpreting a teaching case.  What apical view demonstrates the ‘floating disc’?",
+      "image": null,
+      "options": [
+        "Apical 5-chamber",
+        "Apical 4-chamber",
+        "Apical 3-chamber",
+        "Apical 2-chamber"
+      ],
+      "answer": 3,
+      "explanation": "In the apical 2-chamber view, the mitral valve appears as a “floating disc.” *(Practice review slide 21.)*",
+      "explanationImage": null,
+      "tags": [
+        "Wall Segments",
+        "Apical Window",
+        "Left Ventricular Anatomy"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch03-q101",
+      "stem": "An adult cardiac sonography student is interpreting a teaching case.  What walls are demonstrated in the 3-Chamber view?",
+      "image": null,
+      "options": [
+        "Inferoseptal and anterolateral wall",
+        "Anteroseptal wall and inferior wall",
+        "Inferolateral and anteroseptal walls",
+        "Inferolateral and inferoseptal walls"
+      ],
+      "answer": 2,
+      "explanation": "The apical 3-chamber (apical long-axis) displays the inferolateral (posterior) and anteroseptal walls. *(Practice review slide 23.)*",
+      "explanationImage": null,
+      "tags": [
+        "Wall Segments",
+        "Apical Window",
+        "Left Ventricular Anatomy"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch03-q102",
+      "stem": "An adult cardiac sonography student is interpreting a teaching case.  What walls are demonstrated in the 2-Chamber view?",
+      "image": null,
+      "options": [
+        "Anteroseptal wall and inferior wall",
+        "Inferior and anterior walls",
+        "Anteroseptal and inferolateral walls",
+        "Inferoseptal and anterolateral wall"
+      ],
+      "answer": 1,
+      "explanation": "The apical 2-chamber demonstrates the inferior and anterior LV walls. *(Practice review slide 25.)*",
+      "explanationImage": null,
+      "tags": [
+        "Wall Segments",
+        "Apical Window",
+        "Left Ventricular Anatomy"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch03-q103",
+      "stem": "An adult cardiac sonography student is interpreting a teaching case.  From Apical 4-Chamber, how do you maneuver the probe to acquire the 2-Chamber view?",
+      "image": null,
+      "options": [
+        "Angle inferiorly",
+        "Rotate clockwise",
+        "Angle anteriorly",
+        "Rotate counterclockwise"
+      ],
+      "answer": 3,
+      "explanation": "From the 4-chamber, rotate the transducer counterclockwise (indicator toward ~12–1 o’clock) to obtain the 2-chamber. *(Practice review slide 27.)*",
+      "explanationImage": null,
+      "tags": [
+        "Wall Segments",
+        "Apical Window",
+        "Left Ventricular Anatomy"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch03-q104",
+      "stem": "An adult cardiac sonography student is interpreting a teaching case.  What Apical view only demonstrates the left side of the heart?",
+      "image": null,
+      "options": [
+        "4 Chamber",
+        "5 Chamber",
+        "2 Chamber",
+        "3 Chamber"
+      ],
+      "answer": 2,
+      "explanation": "The apical 2-chamber shows only the left-sided chambers — the LV and LA. *(Practice review slide 29.)*",
+      "explanationImage": null,
+      "tags": [
+        "Wall Segments",
+        "Apical Window",
+        "Left Ventricular Anatomy"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch03-q105",
+      "stem": "An adult cardiac sonography student is interpreting a teaching case.  What Apical view demonstrates the Aortic valve?",
+      "image": null,
+      "options": [
+        "3 Chamber",
+        "4 Chamber",
+        "5 Chamber",
+        "Both A & C"
+      ],
+      "answer": 3,
+      "explanation": "Both the apical 3-chamber and the apical 5-chamber demonstrate the aortic valve and LVOT. *(Practice review slide 31.)*",
+      "explanationImage": null,
+      "tags": [
+        "Wall Segments",
+        "Apical Window",
+        "Left Ventricular Anatomy"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch03-q106",
+      "stem": "An adult cardiac sonography student is interpreting a teaching case.  The left-sided structures are more dominantly analyzed in echo compared to the right-sided structures. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "True",
+        "False",
+        "Cannot be determined from the image alone",
+        "Only true for pediatric echocardiography"
+      ],
+      "answer": 0,
+      "explanation": "True — echo assessment is left-heart dominant, though right-sided structures and wall segments remain important. *(Practice review slide 33.)*",
+      "explanationImage": null,
+      "tags": [
+        "Wall Segments",
+        "Apical Window",
+        "Left Ventricular Anatomy"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch03-q107",
+      "stem": "An adult cardiac sonography student is interpreting a teaching case.  The left side is harder to image compared to the right side. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "False",
+        "Cannot be determined from the image alone",
+        "Only true for pediatric echocardiography",
+        "True"
+      ],
+      "answer": 0,
+      "explanation": "False — the right heart is generally the more challenging to image, given its anterior, retrosternal position and complex crescent geometry. *(Practice review slide 35.)*",
+      "explanationImage": null,
+      "tags": [
+        "Wall Segments",
+        "Apical Window",
+        "Left Ventricular Anatomy"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch03-q108",
+      "stem": "An adult cardiac sonography student is interpreting a teaching case.  The apical window is located lateral and inferior on the chest wall. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "False",
+        "Only true for pediatric echocardiography",
+        "Cannot be determined from the image alone",
+        "True"
+      ],
+      "answer": 3,
+      "explanation": "True — the apical window sits lateral and inferior on the chest wall, over the cardiac apex. *(Practice review slide 37.)*",
+      "explanationImage": null,
+      "tags": [
+        "Wall Segments",
+        "Apical Window",
+        "Left Ventricular Anatomy"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch03-q109",
+      "stem": "Before image acquisition, a sonographer checks their understanding of the following.  Using the Bull’s Eye model, how many wall segments are used in the left ventricle?",
+      "image": null,
+      "options": [
+        "16",
+        "16–17",
+        "17",
+        "18"
+      ],
+      "answer": 1,
+      "explanation": "Per ASE, the LV is described with 16 or 17 segments — 16 for wall-motion scoring, and 17 when the apical cap is added (for perfusion/nuclear correlation). “16–17” captures both. *(Practice review slide 3.)*",
+      "explanationImage": null,
+      "tags": [
+        "Wall Segments",
+        "Apical Window",
+        "Left Ventricular Anatomy"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch03-q110",
+      "stem": "Before image acquisition, a sonographer checks their understanding of the following.  Using the Bull’s Eye model, how many segments are used in the basal portion of the left ventricle?",
+      "image": null,
+      "options": [
+        "8",
+        "6",
+        "4",
+        "5"
+      ],
+      "answer": 1,
+      "explanation": "The basal region contains 6 segments: basal anterior, anteroseptal, inferoseptal, inferior, inferolateral, and anterolateral. *(Practice review slide 5.)*",
+      "explanationImage": null,
+      "tags": [
+        "Wall Segments",
+        "Apical Window",
+        "Left Ventricular Anatomy"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch03-q111",
+      "stem": "Before image acquisition, a sonographer checks their understanding of the following.  Using the Bull’s Eye model, how many segments are used in the mid-cavity portion of the left ventricle?",
+      "image": null,
+      "options": [
+        "8",
+        "5",
+        "6",
+        "4"
+      ],
+      "answer": 2,
+      "explanation": "The mid-cavity region also has 6 segments, named analogously to the basal ring at the mid level. *(Practice review slide 7.)*",
+      "explanationImage": null,
+      "tags": [
+        "Wall Segments",
+        "Apical Window",
+        "Left Ventricular Anatomy"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch03-q112",
+      "stem": "Before image acquisition, a sonographer checks their understanding of the following.  Using the Bull’s Eye model, how many segments are used in the apical portion of the left ventricle?",
+      "image": null,
+      "options": [
+        "4",
+        "3",
+        "5",
+        "2"
+      ],
+      "answer": 0,
+      "explanation": "The apical region has 4 segments: apical anterior, apical septal, apical inferior, and apical lateral. *(Practice review slide 9.)*",
+      "explanationImage": null,
+      "tags": [
+        "Wall Segments",
+        "Apical Window",
+        "Left Ventricular Anatomy"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch03-q113",
+      "stem": "Before image acquisition, a sonographer checks their understanding of the following.  Where is the Moderator Band located?",
+      "image": null,
+      "options": [
+        "Left atrium from left atrial appendage to interatrial septum",
+        "Left ventricular apex",
+        "Right ventricular apex",
+        "Right atrium from IVC to interatrial septum"
+      ],
+      "answer": 2,
+      "explanation": "The moderator band lies in the RV apex, running from the interventricular septum to the anterior papillary muscle in the anterolateral RV free wall. *(Practice review slide 11.)*",
+      "explanationImage": null,
+      "tags": [
+        "Wall Segments",
+        "Apical Window",
+        "Left Ventricular Anatomy"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch03-q114",
+      "stem": "Before image acquisition, a sonographer checks their understanding of the following.  What level of intercostal space is utilized in the apical window?",
+      "image": null,
+      "options": [
+        "Near the point of maximal impulse in (the 5th intercostal space as starting point) the midaxillary line",
+        "5th – 7th intercostal space",
+        "4th – 6th intercostal space",
+        "4th – 7th intercostal space"
+      ],
+      "answer": 0,
+      "explanation": "The course review identifies Near the point of maximal impulse in (the 5th intercostal space as starting point) the midaxillary line as the correct response. *(Practice review slide 13.)*",
+      "explanationImage": null,
+      "tags": [
+        "Wall Segments",
+        "Apical Window",
+        "Left Ventricular Anatomy"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch03-q115",
+      "stem": "Before image acquisition, a sonographer checks their understanding of the following.  What walls are seen in the apical 4-chamber view?",
+      "image": null,
+      "options": [
+        "Anteroseptal wall and inferior wall",
+        "Inferolateral and anteroseptal walls",
+        "Inferolateral and inferoseptal walls",
+        "Inferoseptal and anterolateral wall"
+      ],
+      "answer": 3,
+      "explanation": "The apical 4-chamber profiles the inferoseptal (septal) wall and the anterolateral (lateral) wall of the LV. *(Practice review slide 15.)*",
+      "explanationImage": null,
+      "tags": [
+        "Wall Segments",
+        "Apical Window",
+        "Left Ventricular Anatomy"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch03-q116",
+      "stem": "Before image acquisition, a sonographer checks their understanding of the following.  In the Apical 4-Chamber view, the beam is directed towards the patient’s right shoulder. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "True",
+        "False",
+        "Only true for pediatric echocardiography",
+        "Cannot be determined from the image alone"
+      ],
+      "answer": 0,
+      "explanation": "True — from the apex, the 4-chamber imaging plane is directed up toward the patient’s right shoulder, aligning the septum and lateral walls base-to-apex. *(Practice review slide 17.)*",
+      "explanationImage": null,
+      "tags": [
+        "Wall Segments",
+        "Apical Window",
+        "Left Ventricular Anatomy"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch03-q117",
+      "stem": "Before image acquisition, a sonographer checks their understanding of the following.  From Apical 4-Chamber, how do you maneuver the probe to acquire the 5-Chamber view?",
+      "image": null,
+      "options": [
+        "Rotate counterclockwise",
+        "Rotate clockwise",
+        "Angle inferiorly",
+        "Angle anteriorly"
+      ],
+      "answer": 3,
+      "explanation": "From the 4-chamber, angle the transducer anteriorly to bring up the LVOT, a segment of the aortic root, and the aortic valve — the apical 5-chamber. *(Practice review slide 19.)*",
+      "explanationImage": null,
+      "tags": [
+        "Wall Segments",
+        "Apical Window",
+        "Left Ventricular Anatomy"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch03-q118",
+      "stem": "Before image acquisition, a sonographer checks their understanding of the following.  What apical view demonstrates the ‘floating disc’?",
+      "image": null,
+      "options": [
+        "Apical 4-chamber",
+        "Apical 3-chamber",
+        "Apical 5-chamber",
+        "Apical 2-chamber"
+      ],
+      "answer": 3,
+      "explanation": "In the apical 2-chamber view, the mitral valve appears as a “floating disc.” *(Practice review slide 21.)*",
+      "explanationImage": null,
+      "tags": [
+        "Wall Segments",
+        "Apical Window",
+        "Left Ventricular Anatomy"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch03-q119",
+      "stem": "Before image acquisition, a sonographer checks their understanding of the following.  What walls are demonstrated in the 3-Chamber view?",
+      "image": null,
+      "options": [
+        "Anteroseptal wall and inferior wall",
+        "Inferolateral and inferoseptal walls",
+        "Inferolateral and anteroseptal walls",
+        "Inferoseptal and anterolateral wall"
+      ],
+      "answer": 2,
+      "explanation": "The apical 3-chamber (apical long-axis) displays the inferolateral (posterior) and anteroseptal walls. *(Practice review slide 23.)*",
+      "explanationImage": null,
+      "tags": [
+        "Wall Segments",
+        "Apical Window",
+        "Left Ventricular Anatomy"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch03-q120",
+      "stem": "Before image acquisition, a sonographer checks their understanding of the following.  What walls are demonstrated in the 2-Chamber view?",
+      "image": null,
+      "options": [
+        "Inferior and anterior walls",
+        "Inferoseptal and anterolateral wall",
+        "Anteroseptal and inferolateral walls",
+        "Anteroseptal wall and inferior wall"
+      ],
+      "answer": 0,
+      "explanation": "The apical 2-chamber demonstrates the inferior and anterior LV walls. *(Practice review slide 25.)*",
+      "explanationImage": null,
+      "tags": [
+        "Wall Segments",
+        "Apical Window",
+        "Left Ventricular Anatomy"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch03-q121",
+      "stem": "Before image acquisition, a sonographer checks their understanding of the following.  From Apical 4-Chamber, how do you maneuver the probe to acquire the 2-Chamber view?",
+      "image": null,
+      "options": [
+        "Angle anteriorly",
+        "Angle inferiorly",
+        "Rotate clockwise",
+        "Rotate counterclockwise"
+      ],
+      "answer": 3,
+      "explanation": "From the 4-chamber, rotate the transducer counterclockwise (indicator toward ~12–1 o’clock) to obtain the 2-chamber. *(Practice review slide 27.)*",
+      "explanationImage": null,
+      "tags": [
+        "Wall Segments",
+        "Apical Window",
+        "Left Ventricular Anatomy"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch03-q122",
+      "stem": "Before image acquisition, a sonographer checks their understanding of the following.  What Apical view only demonstrates the left side of the heart?",
+      "image": null,
+      "options": [
+        "2 Chamber",
+        "4 Chamber",
+        "3 Chamber",
+        "5 Chamber"
+      ],
+      "answer": 0,
+      "explanation": "The apical 2-chamber shows only the left-sided chambers — the LV and LA. *(Practice review slide 29.)*",
+      "explanationImage": null,
+      "tags": [
+        "Wall Segments",
+        "Apical Window",
+        "Left Ventricular Anatomy"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch03-q123",
+      "stem": "Before image acquisition, a sonographer checks their understanding of the following.  What Apical view demonstrates the Aortic valve?",
+      "image": null,
+      "options": [
+        "3 Chamber",
+        "4 Chamber",
+        "5 Chamber",
+        "Both A & C"
+      ],
+      "answer": 3,
+      "explanation": "Both the apical 3-chamber and the apical 5-chamber demonstrate the aortic valve and LVOT. *(Practice review slide 31.)*",
+      "explanationImage": null,
+      "tags": [
+        "Wall Segments",
+        "Apical Window",
+        "Left Ventricular Anatomy"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch03-q124",
+      "stem": "Before image acquisition, a sonographer checks their understanding of the following.  The left-sided structures are more dominantly analyzed in echo compared to the right-sided structures. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "False",
+        "Cannot be determined from the image alone",
+        "Only true for pediatric echocardiography",
+        "True"
+      ],
+      "answer": 3,
+      "explanation": "True — echo assessment is left-heart dominant, though right-sided structures and wall segments remain important. *(Practice review slide 33.)*",
+      "explanationImage": null,
+      "tags": [
+        "Wall Segments",
+        "Apical Window",
+        "Left Ventricular Anatomy"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch03-q125",
+      "stem": "Before image acquisition, a sonographer checks their understanding of the following.  The left side is harder to image compared to the right side. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "Cannot be determined from the image alone",
+        "True",
+        "False",
+        "Only true for pediatric echocardiography"
+      ],
+      "answer": 2,
+      "explanation": "False — the right heart is generally the more challenging to image, given its anterior, retrosternal position and complex crescent geometry. *(Practice review slide 35.)*",
+      "explanationImage": null,
+      "tags": [
+        "Wall Segments",
+        "Apical Window",
+        "Left Ventricular Anatomy"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch03-q126",
+      "stem": "Before image acquisition, a sonographer checks their understanding of the following.  The apical window is located lateral and inferior on the chest wall. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "True",
+        "Cannot be determined from the image alone",
+        "Only true for pediatric echocardiography",
+        "False"
+      ],
+      "answer": 0,
+      "explanation": "True — the apical window sits lateral and inferior on the chest wall, over the cardiac apex. *(Practice review slide 37.)*",
+      "explanationImage": null,
+      "tags": [
+        "Wall Segments",
+        "Apical Window",
+        "Left Ventricular Anatomy"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch03-q127",
+      "stem": "In a laboratory teaching session, the instructor asks:  Using the Bull’s Eye model, how many wall segments are used in the left ventricle?",
+      "image": null,
+      "options": [
+        "16–17",
+        "17",
+        "18",
+        "16"
+      ],
+      "answer": 0,
+      "explanation": "Per ASE, the LV is described with 16 or 17 segments — 16 for wall-motion scoring, and 17 when the apical cap is added (for perfusion/nuclear correlation). “16–17” captures both. *(Practice review slide 3.)*",
+      "explanationImage": null,
+      "tags": [
+        "Wall Segments",
+        "Apical Window",
+        "Left Ventricular Anatomy"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch03-q128",
+      "stem": "In a laboratory teaching session, the instructor asks:  Using the Bull’s Eye model, how many segments are used in the basal portion of the left ventricle?",
+      "image": null,
+      "options": [
+        "8",
+        "4",
+        "6",
+        "5"
+      ],
+      "answer": 2,
+      "explanation": "The basal region contains 6 segments: basal anterior, anteroseptal, inferoseptal, inferior, inferolateral, and anterolateral. *(Practice review slide 5.)*",
+      "explanationImage": null,
+      "tags": [
+        "Wall Segments",
+        "Apical Window",
+        "Left Ventricular Anatomy"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch03-q129",
+      "stem": "In a laboratory teaching session, the instructor asks:  Using the Bull’s Eye model, how many segments are used in the mid-cavity portion of the left ventricle?",
+      "image": null,
+      "options": [
+        "5",
+        "4",
+        "8",
+        "6"
+      ],
+      "answer": 3,
+      "explanation": "The mid-cavity region also has 6 segments, named analogously to the basal ring at the mid level. *(Practice review slide 7.)*",
+      "explanationImage": null,
+      "tags": [
+        "Wall Segments",
+        "Apical Window",
+        "Left Ventricular Anatomy"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch03-q130",
+      "stem": "In a laboratory teaching session, the instructor asks:  Using the Bull’s Eye model, how many segments are used in the apical portion of the left ventricle?",
+      "image": null,
+      "options": [
+        "4",
+        "3",
+        "5",
+        "2"
+      ],
+      "answer": 0,
+      "explanation": "The apical region has 4 segments: apical anterior, apical septal, apical inferior, and apical lateral. *(Practice review slide 9.)*",
+      "explanationImage": null,
+      "tags": [
+        "Wall Segments",
+        "Apical Window",
+        "Left Ventricular Anatomy"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch03-q131",
+      "stem": "In a laboratory teaching session, the instructor asks:  Where is the Moderator Band located?",
+      "image": null,
+      "options": [
+        "Left atrium from left atrial appendage to interatrial septum",
+        "Left ventricular apex",
+        "Right ventricular apex",
+        "Right atrium from IVC to interatrial septum"
+      ],
+      "answer": 2,
+      "explanation": "The moderator band lies in the RV apex, running from the interventricular septum to the anterior papillary muscle in the anterolateral RV free wall. *(Practice review slide 11.)*",
+      "explanationImage": null,
+      "tags": [
+        "Wall Segments",
+        "Apical Window",
+        "Left Ventricular Anatomy"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch03-q132",
+      "stem": "In a laboratory teaching session, the instructor asks:  What level of intercostal space is utilized in the apical window?",
+      "image": null,
+      "options": [
+        "4th – 7th intercostal space",
+        "4th – 6th intercostal space",
+        "5th – 7th intercostal space",
+        "Near the point of maximal impulse in (the 5th intercostal space as starting point) the midaxillary line"
+      ],
+      "answer": 3,
+      "explanation": "The course review identifies Near the point of maximal impulse in (the 5th intercostal space as starting point) the midaxillary line as the correct response. *(Practice review slide 13.)*",
+      "explanationImage": null,
+      "tags": [
+        "Wall Segments",
+        "Apical Window",
+        "Left Ventricular Anatomy"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch03-q133",
+      "stem": "In a laboratory teaching session, the instructor asks:  What walls are seen in the apical 4-chamber view?",
+      "image": null,
+      "options": [
+        "Inferolateral and inferoseptal walls",
+        "Inferolateral and anteroseptal walls",
+        "Inferoseptal and anterolateral wall",
+        "Anteroseptal wall and inferior wall"
+      ],
+      "answer": 2,
+      "explanation": "The apical 4-chamber profiles the inferoseptal (septal) wall and the anterolateral (lateral) wall of the LV. *(Practice review slide 15.)*",
+      "explanationImage": null,
+      "tags": [
+        "Wall Segments",
+        "Apical Window",
+        "Left Ventricular Anatomy"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch03-q134",
+      "stem": "In a laboratory teaching session, the instructor asks:  In the Apical 4-Chamber view, the beam is directed towards the patient’s right shoulder. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "True",
+        "False",
+        "Only true for pediatric echocardiography",
+        "Cannot be determined from the image alone"
+      ],
+      "answer": 0,
+      "explanation": "True — from the apex, the 4-chamber imaging plane is directed up toward the patient’s right shoulder, aligning the septum and lateral walls base-to-apex. *(Practice review slide 17.)*",
+      "explanationImage": null,
+      "tags": [
+        "Wall Segments",
+        "Apical Window",
+        "Left Ventricular Anatomy"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch03-q135",
+      "stem": "In a laboratory teaching session, the instructor asks:  From Apical 4-Chamber, how do you maneuver the probe to acquire the 5-Chamber view?",
+      "image": null,
+      "options": [
+        "Angle inferiorly",
+        "Rotate clockwise",
+        "Rotate counterclockwise",
+        "Angle anteriorly"
+      ],
+      "answer": 3,
+      "explanation": "From the 4-chamber, angle the transducer anteriorly to bring up the LVOT, a segment of the aortic root, and the aortic valve — the apical 5-chamber. *(Practice review slide 19.)*",
+      "explanationImage": null,
+      "tags": [
+        "Wall Segments",
+        "Apical Window",
+        "Left Ventricular Anatomy"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch03-q136",
+      "stem": "In a laboratory teaching session, the instructor asks:  What apical view demonstrates the ‘floating disc’?",
+      "image": null,
+      "options": [
+        "Apical 2-chamber",
+        "Apical 4-chamber",
+        "Apical 5-chamber",
+        "Apical 3-chamber"
+      ],
+      "answer": 0,
+      "explanation": "In the apical 2-chamber view, the mitral valve appears as a “floating disc.” *(Practice review slide 21.)*",
+      "explanationImage": null,
+      "tags": [
+        "Wall Segments",
+        "Apical Window",
+        "Left Ventricular Anatomy"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch03-q137",
+      "stem": "In a laboratory teaching session, the instructor asks:  What walls are demonstrated in the 3-Chamber view?",
+      "image": null,
+      "options": [
+        "Anteroseptal wall and inferior wall",
+        "Inferolateral and anteroseptal walls",
+        "Inferoseptal and anterolateral wall",
+        "Inferolateral and inferoseptal walls"
+      ],
+      "answer": 1,
+      "explanation": "The apical 3-chamber (apical long-axis) displays the inferolateral (posterior) and anteroseptal walls. *(Practice review slide 23.)*",
+      "explanationImage": null,
+      "tags": [
+        "Wall Segments",
+        "Apical Window",
+        "Left Ventricular Anatomy"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch03-q138",
+      "stem": "In a laboratory teaching session, the instructor asks:  What walls are demonstrated in the 2-Chamber view?",
+      "image": null,
+      "options": [
+        "Anteroseptal and inferolateral walls",
+        "Anteroseptal wall and inferior wall",
+        "Inferoseptal and anterolateral wall",
+        "Inferior and anterior walls"
+      ],
+      "answer": 3,
+      "explanation": "The apical 2-chamber demonstrates the inferior and anterior LV walls. *(Practice review slide 25.)*",
+      "explanationImage": null,
+      "tags": [
+        "Wall Segments",
+        "Apical Window",
+        "Left Ventricular Anatomy"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch03-q139",
+      "stem": "In a laboratory teaching session, the instructor asks:  From Apical 4-Chamber, how do you maneuver the probe to acquire the 2-Chamber view?",
+      "image": null,
+      "options": [
+        "Rotate counterclockwise",
+        "Rotate clockwise",
+        "Angle inferiorly",
+        "Angle anteriorly"
+      ],
+      "answer": 0,
+      "explanation": "From the 4-chamber, rotate the transducer counterclockwise (indicator toward ~12–1 o’clock) to obtain the 2-chamber. *(Practice review slide 27.)*",
+      "explanationImage": null,
+      "tags": [
+        "Wall Segments",
+        "Apical Window",
+        "Left Ventricular Anatomy"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch03-q140",
+      "stem": "In a laboratory teaching session, the instructor asks:  What Apical view only demonstrates the left side of the heart?",
+      "image": null,
+      "options": [
+        "2 Chamber",
+        "3 Chamber",
+        "4 Chamber",
+        "5 Chamber"
+      ],
+      "answer": 0,
+      "explanation": "The apical 2-chamber shows only the left-sided chambers — the LV and LA. *(Practice review slide 29.)*",
+      "explanationImage": null,
+      "tags": [
+        "Wall Segments",
+        "Apical Window",
+        "Left Ventricular Anatomy"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch03-q141",
+      "stem": "In a laboratory teaching session, the instructor asks:  What Apical view demonstrates the Aortic valve?",
+      "image": null,
+      "options": [
+        "3 Chamber",
+        "4 Chamber",
+        "5 Chamber",
+        "Both A & C"
+      ],
+      "answer": 3,
+      "explanation": "Both the apical 3-chamber and the apical 5-chamber demonstrate the aortic valve and LVOT. *(Practice review slide 31.)*",
+      "explanationImage": null,
+      "tags": [
+        "Wall Segments",
+        "Apical Window",
+        "Left Ventricular Anatomy"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch03-q142",
+      "stem": "In a laboratory teaching session, the instructor asks:  The left-sided structures are more dominantly analyzed in echo compared to the right-sided structures. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "False",
+        "Cannot be determined from the image alone",
+        "Only true for pediatric echocardiography",
+        "True"
+      ],
+      "answer": 3,
+      "explanation": "True — echo assessment is left-heart dominant, though right-sided structures and wall segments remain important. *(Practice review slide 33.)*",
+      "explanationImage": null,
+      "tags": [
+        "Wall Segments",
+        "Apical Window",
+        "Left Ventricular Anatomy"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch03-q143",
+      "stem": "In a laboratory teaching session, the instructor asks:  The left side is harder to image compared to the right side. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "True",
+        "Only true for pediatric echocardiography",
+        "Cannot be determined from the image alone",
+        "False"
+      ],
+      "answer": 3,
+      "explanation": "False — the right heart is generally the more challenging to image, given its anterior, retrosternal position and complex crescent geometry. *(Practice review slide 35.)*",
+      "explanationImage": null,
+      "tags": [
+        "Wall Segments",
+        "Apical Window",
+        "Left Ventricular Anatomy"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch03-q144",
+      "stem": "In a laboratory teaching session, the instructor asks:  The apical window is located lateral and inferior on the chest wall. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "False",
+        "Only true for pediatric echocardiography",
+        "Cannot be determined from the image alone",
+        "True"
+      ],
+      "answer": 3,
+      "explanation": "True — the apical window sits lateral and inferior on the chest wall, over the cardiac apex. *(Practice review slide 37.)*",
+      "explanationImage": null,
+      "tags": [
+        "Wall Segments",
+        "Apical Window",
+        "Left Ventricular Anatomy"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch03-q145",
+      "stem": "During a mock adult echocardiography board examination, consider the following.  Using the Bull’s Eye model, how many wall segments are used in the left ventricle?",
+      "image": null,
+      "options": [
+        "16–17",
+        "18",
+        "16",
+        "17"
+      ],
+      "answer": 0,
+      "explanation": "Per ASE, the LV is described with 16 or 17 segments — 16 for wall-motion scoring, and 17 when the apical cap is added (for perfusion/nuclear correlation). “16–17” captures both. *(Practice review slide 3.)*",
+      "explanationImage": null,
+      "tags": [
+        "Wall Segments",
+        "Apical Window",
+        "Left Ventricular Anatomy"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch03-q146",
+      "stem": "During a mock adult echocardiography board examination, consider the following.  Using the Bull’s Eye model, how many segments are used in the basal portion of the left ventricle?",
+      "image": null,
+      "options": [
+        "5",
+        "6",
+        "4",
+        "8"
+      ],
+      "answer": 1,
+      "explanation": "The basal region contains 6 segments: basal anterior, anteroseptal, inferoseptal, inferior, inferolateral, and anterolateral. *(Practice review slide 5.)*",
+      "explanationImage": null,
+      "tags": [
+        "Wall Segments",
+        "Apical Window",
+        "Left Ventricular Anatomy"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch03-q147",
+      "stem": "During a mock adult echocardiography board examination, consider the following.  Using the Bull’s Eye model, how many segments are used in the mid-cavity portion of the left ventricle?",
+      "image": null,
+      "options": [
+        "5",
+        "4",
+        "6",
+        "8"
+      ],
+      "answer": 2,
+      "explanation": "The mid-cavity region also has 6 segments, named analogously to the basal ring at the mid level. *(Practice review slide 7.)*",
+      "explanationImage": null,
+      "tags": [
+        "Wall Segments",
+        "Apical Window",
+        "Left Ventricular Anatomy"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch03-q148",
+      "stem": "During a mock adult echocardiography board examination, consider the following.  Using the Bull’s Eye model, how many segments are used in the apical portion of the left ventricle?",
+      "image": null,
+      "options": [
+        "4",
+        "3",
+        "2",
+        "5"
+      ],
+      "answer": 0,
+      "explanation": "The apical region has 4 segments: apical anterior, apical septal, apical inferior, and apical lateral. *(Practice review slide 9.)*",
+      "explanationImage": null,
+      "tags": [
+        "Wall Segments",
+        "Apical Window",
+        "Left Ventricular Anatomy"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch03-q149",
+      "stem": "During a mock adult echocardiography board examination, consider the following.  Where is the Moderator Band located?",
+      "image": null,
+      "options": [
+        "Left ventricular apex",
+        "Right ventricular apex",
+        "Right atrium from IVC to interatrial septum",
+        "Left atrium from left atrial appendage to interatrial septum"
+      ],
+      "answer": 1,
+      "explanation": "The moderator band lies in the RV apex, running from the interventricular septum to the anterior papillary muscle in the anterolateral RV free wall. *(Practice review slide 11.)*",
+      "explanationImage": null,
+      "tags": [
+        "Wall Segments",
+        "Apical Window",
+        "Left Ventricular Anatomy"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch03-q150",
+      "stem": "During a mock adult echocardiography board examination, consider the following.  What level of intercostal space is utilized in the apical window?",
+      "image": null,
+      "options": [
+        "4th – 6th intercostal space",
+        "4th – 7th intercostal space",
+        "5th – 7th intercostal space",
+        "Near the point of maximal impulse in (the 5th intercostal space as starting point) the midaxillary line"
+      ],
+      "answer": 3,
+      "explanation": "The course review identifies Near the point of maximal impulse in (the 5th intercostal space as starting point) the midaxillary line as the correct response. *(Practice review slide 13.)*",
+      "explanationImage": null,
+      "tags": [
+        "Wall Segments",
+        "Apical Window",
+        "Left Ventricular Anatomy"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch03-q151",
+      "stem": "During a mock adult echocardiography board examination, consider the following.  What walls are seen in the apical 4-chamber view?",
+      "image": null,
+      "options": [
+        "Anteroseptal wall and inferior wall",
+        "Inferoseptal and anterolateral wall",
+        "Inferolateral and inferoseptal walls",
+        "Inferolateral and anteroseptal walls"
+      ],
+      "answer": 1,
+      "explanation": "The apical 4-chamber profiles the inferoseptal (septal) wall and the anterolateral (lateral) wall of the LV. *(Practice review slide 15.)*",
+      "explanationImage": null,
+      "tags": [
+        "Wall Segments",
+        "Apical Window",
+        "Left Ventricular Anatomy"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch03-q152",
+      "stem": "During a mock adult echocardiography board examination, consider the following.  In the Apical 4-Chamber view, the beam is directed towards the patient’s right shoulder. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "True",
+        "False",
+        "Cannot be determined from the image alone",
+        "Only true for pediatric echocardiography"
+      ],
+      "answer": 0,
+      "explanation": "True — from the apex, the 4-chamber imaging plane is directed up toward the patient’s right shoulder, aligning the septum and lateral walls base-to-apex. *(Practice review slide 17.)*",
+      "explanationImage": null,
+      "tags": [
+        "Wall Segments",
+        "Apical Window",
+        "Left Ventricular Anatomy"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch03-q153",
+      "stem": "During a mock adult echocardiography board examination, consider the following.  From Apical 4-Chamber, how do you maneuver the probe to acquire the 5-Chamber view?",
+      "image": null,
+      "options": [
+        "Rotate clockwise",
+        "Angle anteriorly",
+        "Rotate counterclockwise",
+        "Angle inferiorly"
+      ],
+      "answer": 1,
+      "explanation": "From the 4-chamber, angle the transducer anteriorly to bring up the LVOT, a segment of the aortic root, and the aortic valve — the apical 5-chamber. *(Practice review slide 19.)*",
+      "explanationImage": null,
+      "tags": [
+        "Wall Segments",
+        "Apical Window",
+        "Left Ventricular Anatomy"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch03-q154",
+      "stem": "During a mock adult echocardiography board examination, consider the following.  What apical view demonstrates the ‘floating disc’?",
+      "image": null,
+      "options": [
+        "Apical 2-chamber",
+        "Apical 4-chamber",
+        "Apical 3-chamber",
+        "Apical 5-chamber"
+      ],
+      "answer": 0,
+      "explanation": "In the apical 2-chamber view, the mitral valve appears as a “floating disc.” *(Practice review slide 21.)*",
+      "explanationImage": null,
+      "tags": [
+        "Wall Segments",
+        "Apical Window",
+        "Left Ventricular Anatomy"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch03-q155",
+      "stem": "During a mock adult echocardiography board examination, consider the following.  What walls are demonstrated in the 3-Chamber view?",
+      "image": null,
+      "options": [
+        "Anteroseptal wall and inferior wall",
+        "Inferolateral and inferoseptal walls",
+        "Inferolateral and anteroseptal walls",
+        "Inferoseptal and anterolateral wall"
+      ],
+      "answer": 2,
+      "explanation": "The apical 3-chamber (apical long-axis) displays the inferolateral (posterior) and anteroseptal walls. *(Practice review slide 23.)*",
+      "explanationImage": null,
+      "tags": [
+        "Wall Segments",
+        "Apical Window",
+        "Left Ventricular Anatomy"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch03-q156",
+      "stem": "During a mock adult echocardiography board examination, consider the following.  What walls are demonstrated in the 2-Chamber view?",
+      "image": null,
+      "options": [
+        "Inferoseptal and anterolateral wall",
+        "Anteroseptal wall and inferior wall",
+        "Inferior and anterior walls",
+        "Anteroseptal and inferolateral walls"
+      ],
+      "answer": 2,
+      "explanation": "The apical 2-chamber demonstrates the inferior and anterior LV walls. *(Practice review slide 25.)*",
+      "explanationImage": null,
+      "tags": [
+        "Wall Segments",
+        "Apical Window",
+        "Left Ventricular Anatomy"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch03-q157",
+      "stem": "During a mock adult echocardiography board examination, consider the following.  From Apical 4-Chamber, how do you maneuver the probe to acquire the 2-Chamber view?",
+      "image": null,
+      "options": [
+        "Angle inferiorly",
+        "Angle anteriorly",
+        "Rotate counterclockwise",
+        "Rotate clockwise"
+      ],
+      "answer": 2,
+      "explanation": "From the 4-chamber, rotate the transducer counterclockwise (indicator toward ~12–1 o’clock) to obtain the 2-chamber. *(Practice review slide 27.)*",
+      "explanationImage": null,
+      "tags": [
+        "Wall Segments",
+        "Apical Window",
+        "Left Ventricular Anatomy"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch03-q158",
+      "stem": "During a mock adult echocardiography board examination, consider the following.  What Apical view only demonstrates the left side of the heart?",
+      "image": null,
+      "options": [
+        "2 Chamber",
+        "4 Chamber",
+        "5 Chamber",
+        "3 Chamber"
+      ],
+      "answer": 0,
+      "explanation": "The apical 2-chamber shows only the left-sided chambers — the LV and LA. *(Practice review slide 29.)*",
+      "explanationImage": null,
+      "tags": [
+        "Wall Segments",
+        "Apical Window",
+        "Left Ventricular Anatomy"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch03-q159",
+      "stem": "During a mock adult echocardiography board examination, consider the following.  What Apical view demonstrates the Aortic valve?",
+      "image": null,
+      "options": [
+        "3 Chamber",
+        "4 Chamber",
+        "5 Chamber",
+        "Both A & C"
+      ],
+      "answer": 3,
+      "explanation": "Both the apical 3-chamber and the apical 5-chamber demonstrate the aortic valve and LVOT. *(Practice review slide 31.)*",
+      "explanationImage": null,
+      "tags": [
+        "Wall Segments",
+        "Apical Window",
+        "Left Ventricular Anatomy"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch03-q160",
+      "stem": "During a mock adult echocardiography board examination, consider the following.  The left-sided structures are more dominantly analyzed in echo compared to the right-sided structures. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "Cannot be determined from the image alone",
+        "True",
+        "Only true for pediatric echocardiography",
+        "False"
+      ],
+      "answer": 1,
+      "explanation": "True — echo assessment is left-heart dominant, though right-sided structures and wall segments remain important. *(Practice review slide 33.)*",
+      "explanationImage": null,
+      "tags": [
+        "Wall Segments",
+        "Apical Window",
+        "Left Ventricular Anatomy"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch03-q161",
+      "stem": "During a mock adult echocardiography board examination, consider the following.  The left side is harder to image compared to the right side. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "Cannot be determined from the image alone",
+        "False",
+        "Only true for pediatric echocardiography",
+        "True"
+      ],
+      "answer": 1,
+      "explanation": "False — the right heart is generally the more challenging to image, given its anterior, retrosternal position and complex crescent geometry. *(Practice review slide 35.)*",
+      "explanationImage": null,
+      "tags": [
+        "Wall Segments",
+        "Apical Window",
+        "Left Ventricular Anatomy"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch03-q162",
+      "stem": "During a mock adult echocardiography board examination, consider the following.  The apical window is located lateral and inferior on the chest wall. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "True",
+        "False",
+        "Cannot be determined from the image alone",
+        "Only true for pediatric echocardiography"
+      ],
+      "answer": 0,
+      "explanation": "True — the apical window sits lateral and inferior on the chest wall, over the cardiac apex. *(Practice review slide 37.)*",
+      "explanationImage": null,
+      "tags": [
+        "Wall Segments",
+        "Apical Window",
+        "Left Ventricular Anatomy"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch03-q163",
+      "stem": "A sonographer is reviewing the relevant anatomy, technique, or physiology.  Using the Bull’s Eye model, how many wall segments are used in the left ventricle?",
+      "image": null,
+      "options": [
+        "18",
+        "16–17",
+        "16",
+        "17"
+      ],
+      "answer": 1,
+      "explanation": "Per ASE, the LV is described with 16 or 17 segments — 16 for wall-motion scoring, and 17 when the apical cap is added (for perfusion/nuclear correlation). “16–17” captures both. *(Practice review slide 3.)*",
+      "explanationImage": null,
+      "tags": [
+        "Wall Segments",
+        "Apical Window",
+        "Left Ventricular Anatomy"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch03-q164",
+      "stem": "A sonographer is reviewing the relevant anatomy, technique, or physiology.  Using the Bull’s Eye model, how many segments are used in the basal portion of the left ventricle?",
+      "image": null,
+      "options": [
+        "8",
+        "5",
+        "6",
+        "4"
+      ],
+      "answer": 2,
+      "explanation": "The basal region contains 6 segments: basal anterior, anteroseptal, inferoseptal, inferior, inferolateral, and anterolateral. *(Practice review slide 5.)*",
+      "explanationImage": null,
+      "tags": [
+        "Wall Segments",
+        "Apical Window",
+        "Left Ventricular Anatomy"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch03-q165",
+      "stem": "A sonographer is reviewing the relevant anatomy, technique, or physiology.  Using the Bull’s Eye model, how many segments are used in the mid-cavity portion of the left ventricle?",
+      "image": null,
+      "options": [
+        "5",
+        "6",
+        "4",
+        "8"
+      ],
+      "answer": 1,
+      "explanation": "The mid-cavity region also has 6 segments, named analogously to the basal ring at the mid level. *(Practice review slide 7.)*",
+      "explanationImage": null,
+      "tags": [
+        "Wall Segments",
+        "Apical Window",
+        "Left Ventricular Anatomy"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch03-q166",
+      "stem": "A sonographer is reviewing the relevant anatomy, technique, or physiology.  Using the Bull’s Eye model, how many segments are used in the apical portion of the left ventricle?",
+      "image": null,
+      "options": [
+        "2",
+        "3",
+        "5",
+        "4"
+      ],
+      "answer": 3,
+      "explanation": "The apical region has 4 segments: apical anterior, apical septal, apical inferior, and apical lateral. *(Practice review slide 9.)*",
+      "explanationImage": null,
+      "tags": [
+        "Wall Segments",
+        "Apical Window",
+        "Left Ventricular Anatomy"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch03-q167",
+      "stem": "A sonographer is reviewing the relevant anatomy, technique, or physiology.  Where is the Moderator Band located?",
+      "image": null,
+      "options": [
+        "Left ventricular apex",
+        "Right ventricular apex",
+        "Left atrium from left atrial appendage to interatrial septum",
+        "Right atrium from IVC to interatrial septum"
+      ],
+      "answer": 1,
+      "explanation": "The moderator band lies in the RV apex, running from the interventricular septum to the anterior papillary muscle in the anterolateral RV free wall. *(Practice review slide 11.)*",
+      "explanationImage": null,
+      "tags": [
+        "Wall Segments",
+        "Apical Window",
+        "Left Ventricular Anatomy"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch03-q168",
+      "stem": "A sonographer is reviewing the relevant anatomy, technique, or physiology.  What level of intercostal space is utilized in the apical window?",
+      "image": null,
+      "options": [
+        "4th – 6th intercostal space",
+        "Near the point of maximal impulse in (the 5th intercostal space as starting point) the midaxillary line",
+        "5th – 7th intercostal space",
+        "4th – 7th intercostal space"
+      ],
+      "answer": 1,
+      "explanation": "The course review identifies Near the point of maximal impulse in (the 5th intercostal space as starting point) the midaxillary line as the correct response. *(Practice review slide 13.)*",
+      "explanationImage": null,
+      "tags": [
+        "Wall Segments",
+        "Apical Window",
+        "Left Ventricular Anatomy"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch03-q169",
+      "stem": "A sonographer is reviewing the relevant anatomy, technique, or physiology.  What walls are seen in the apical 4-chamber view?",
+      "image": null,
+      "options": [
+        "Anteroseptal wall and inferior wall",
+        "Inferolateral and anteroseptal walls",
+        "Inferolateral and inferoseptal walls",
+        "Inferoseptal and anterolateral wall"
+      ],
+      "answer": 3,
+      "explanation": "The apical 4-chamber profiles the inferoseptal (septal) wall and the anterolateral (lateral) wall of the LV. *(Practice review slide 15.)*",
+      "explanationImage": null,
+      "tags": [
+        "Wall Segments",
+        "Apical Window",
+        "Left Ventricular Anatomy"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch03-q170",
+      "stem": "A sonographer is reviewing the relevant anatomy, technique, or physiology.  In the Apical 4-Chamber view, the beam is directed towards the patient’s right shoulder. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "Cannot be determined from the image alone",
+        "True",
+        "Only true for pediatric echocardiography",
+        "False"
+      ],
+      "answer": 1,
+      "explanation": "True — from the apex, the 4-chamber imaging plane is directed up toward the patient’s right shoulder, aligning the septum and lateral walls base-to-apex. *(Practice review slide 17.)*",
+      "explanationImage": null,
+      "tags": [
+        "Wall Segments",
+        "Apical Window",
+        "Left Ventricular Anatomy"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch03-q171",
+      "stem": "A sonographer is reviewing the relevant anatomy, technique, or physiology.  From Apical 4-Chamber, how do you maneuver the probe to acquire the 5-Chamber view?",
+      "image": null,
+      "options": [
+        "Angle inferiorly",
+        "Angle anteriorly",
+        "Rotate clockwise",
+        "Rotate counterclockwise"
+      ],
+      "answer": 1,
+      "explanation": "From the 4-chamber, angle the transducer anteriorly to bring up the LVOT, a segment of the aortic root, and the aortic valve — the apical 5-chamber. *(Practice review slide 19.)*",
+      "explanationImage": null,
+      "tags": [
+        "Wall Segments",
+        "Apical Window",
+        "Left Ventricular Anatomy"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch03-q172",
+      "stem": "A sonographer is reviewing the relevant anatomy, technique, or physiology.  What apical view demonstrates the ‘floating disc’?",
+      "image": null,
+      "options": [
+        "Apical 5-chamber",
+        "Apical 2-chamber",
+        "Apical 3-chamber",
+        "Apical 4-chamber"
+      ],
+      "answer": 1,
+      "explanation": "In the apical 2-chamber view, the mitral valve appears as a “floating disc.” *(Practice review slide 21.)*",
+      "explanationImage": null,
+      "tags": [
+        "Wall Segments",
+        "Apical Window",
+        "Left Ventricular Anatomy"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch03-q173",
+      "stem": "A sonographer is reviewing the relevant anatomy, technique, or physiology.  What walls are demonstrated in the 3-Chamber view?",
+      "image": null,
+      "options": [
+        "Inferolateral and inferoseptal walls",
+        "Anteroseptal wall and inferior wall",
+        "Inferoseptal and anterolateral wall",
+        "Inferolateral and anteroseptal walls"
+      ],
+      "answer": 3,
+      "explanation": "The apical 3-chamber (apical long-axis) displays the inferolateral (posterior) and anteroseptal walls. *(Practice review slide 23.)*",
+      "explanationImage": null,
+      "tags": [
+        "Wall Segments",
+        "Apical Window",
+        "Left Ventricular Anatomy"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch03-q174",
+      "stem": "A sonographer is reviewing the relevant anatomy, technique, or physiology.  What walls are demonstrated in the 2-Chamber view?",
+      "image": null,
+      "options": [
+        "Anteroseptal wall and inferior wall",
+        "Inferoseptal and anterolateral wall",
+        "Anteroseptal and inferolateral walls",
+        "Inferior and anterior walls"
+      ],
+      "answer": 3,
+      "explanation": "The apical 2-chamber demonstrates the inferior and anterior LV walls. *(Practice review slide 25.)*",
+      "explanationImage": null,
+      "tags": [
+        "Wall Segments",
+        "Apical Window",
+        "Left Ventricular Anatomy"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch03-q175",
+      "stem": "A sonographer is reviewing the relevant anatomy, technique, or physiology.  From Apical 4-Chamber, how do you maneuver the probe to acquire the 2-Chamber view?",
+      "image": null,
+      "options": [
+        "Rotate clockwise",
+        "Rotate counterclockwise",
+        "Angle anteriorly",
+        "Angle inferiorly"
+      ],
+      "answer": 1,
+      "explanation": "From the 4-chamber, rotate the transducer counterclockwise (indicator toward ~12–1 o’clock) to obtain the 2-chamber. *(Practice review slide 27.)*",
+      "explanationImage": null,
+      "tags": [
+        "Wall Segments",
+        "Apical Window",
+        "Left Ventricular Anatomy"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch03-q176",
+      "stem": "A sonographer is reviewing the relevant anatomy, technique, or physiology.  What Apical view only demonstrates the left side of the heart?",
+      "image": null,
+      "options": [
+        "3 Chamber",
+        "4 Chamber",
+        "5 Chamber",
+        "2 Chamber"
+      ],
+      "answer": 3,
+      "explanation": "The apical 2-chamber shows only the left-sided chambers — the LV and LA. *(Practice review slide 29.)*",
+      "explanationImage": null,
+      "tags": [
+        "Wall Segments",
+        "Apical Window",
+        "Left Ventricular Anatomy"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch03-q177",
+      "stem": "A sonographer is reviewing the relevant anatomy, technique, or physiology.  What Apical view demonstrates the Aortic valve?",
+      "image": null,
+      "options": [
+        "3 Chamber",
+        "4 Chamber",
+        "5 Chamber",
+        "Both A & C"
+      ],
+      "answer": 3,
+      "explanation": "Both the apical 3-chamber and the apical 5-chamber demonstrate the aortic valve and LVOT. *(Practice review slide 31.)*",
+      "explanationImage": null,
+      "tags": [
+        "Wall Segments",
+        "Apical Window",
+        "Left Ventricular Anatomy"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch03-q178",
+      "stem": "A sonographer is reviewing the relevant anatomy, technique, or physiology.  The left-sided structures are more dominantly analyzed in echo compared to the right-sided structures. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "Only true for pediatric echocardiography",
+        "True",
+        "Cannot be determined from the image alone",
+        "False"
+      ],
+      "answer": 1,
+      "explanation": "True — echo assessment is left-heart dominant, though right-sided structures and wall segments remain important. *(Practice review slide 33.)*",
+      "explanationImage": null,
+      "tags": [
+        "Wall Segments",
+        "Apical Window",
+        "Left Ventricular Anatomy"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch03-q179",
+      "stem": "A sonographer is reviewing the relevant anatomy, technique, or physiology.  The left side is harder to image compared to the right side. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "Only true for pediatric echocardiography",
+        "False",
+        "True",
+        "Cannot be determined from the image alone"
+      ],
+      "answer": 1,
+      "explanation": "False — the right heart is generally the more challenging to image, given its anterior, retrosternal position and complex crescent geometry. *(Practice review slide 35.)*",
+      "explanationImage": null,
+      "tags": [
+        "Wall Segments",
+        "Apical Window",
+        "Left Ventricular Anatomy"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch03-q180",
+      "stem": "A sonographer is reviewing the relevant anatomy, technique, or physiology.  The apical window is located lateral and inferior on the chest wall. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "Only true for pediatric echocardiography",
+        "Cannot be determined from the image alone",
+        "False",
+        "True"
+      ],
+      "answer": 3,
+      "explanation": "True — the apical window sits lateral and inferior on the chest wall, over the cardiac apex. *(Practice review slide 37.)*",
+      "explanationImage": null,
+      "tags": [
+        "Wall Segments",
+        "Apical Window",
+        "Left Ventricular Anatomy"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch03-q181",
+      "stem": "During a routine adult transthoracic examination, the sonographer reviews the following concept.  Using the Bull’s Eye model, how many wall segments are used in the left ventricle?",
+      "image": null,
+      "options": [
+        "16",
+        "17",
+        "18",
+        "16–17"
+      ],
+      "answer": 3,
+      "explanation": "Per ASE, the LV is described with 16 or 17 segments — 16 for wall-motion scoring, and 17 when the apical cap is added (for perfusion/nuclear correlation). “16–17” captures both. *(Practice review slide 3.)*",
+      "explanationImage": null,
+      "tags": [
+        "Wall Segments",
+        "Apical Window",
+        "Left Ventricular Anatomy"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch03-q182",
+      "stem": "During a routine adult transthoracic examination, the sonographer reviews the following concept.  Using the Bull’s Eye model, how many segments are used in the basal portion of the left ventricle?",
+      "image": null,
+      "options": [
+        "5",
+        "8",
+        "4",
+        "6"
+      ],
+      "answer": 3,
+      "explanation": "The basal region contains 6 segments: basal anterior, anteroseptal, inferoseptal, inferior, inferolateral, and anterolateral. *(Practice review slide 5.)*",
+      "explanationImage": null,
+      "tags": [
+        "Wall Segments",
+        "Apical Window",
+        "Left Ventricular Anatomy"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch03-q183",
+      "stem": "During a routine adult transthoracic examination, the sonographer reviews the following concept.  Using the Bull’s Eye model, how many segments are used in the mid-cavity portion of the left ventricle?",
+      "image": null,
+      "options": [
+        "6",
+        "5",
+        "8",
+        "4"
+      ],
+      "answer": 0,
+      "explanation": "The mid-cavity region also has 6 segments, named analogously to the basal ring at the mid level. *(Practice review slide 7.)*",
+      "explanationImage": null,
+      "tags": [
+        "Wall Segments",
+        "Apical Window",
+        "Left Ventricular Anatomy"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch03-q184",
+      "stem": "During a routine adult transthoracic examination, the sonographer reviews the following concept.  Using the Bull’s Eye model, how many segments are used in the apical portion of the left ventricle?",
+      "image": null,
+      "options": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "answer": 2,
+      "explanation": "The apical region has 4 segments: apical anterior, apical septal, apical inferior, and apical lateral. *(Practice review slide 9.)*",
+      "explanationImage": null,
+      "tags": [
+        "Wall Segments",
+        "Apical Window",
+        "Left Ventricular Anatomy"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch03-q185",
+      "stem": "During a routine adult transthoracic examination, the sonographer reviews the following concept.  Where is the Moderator Band located?",
+      "image": null,
+      "options": [
+        "Right atrium from IVC to interatrial septum",
+        "Left atrium from left atrial appendage to interatrial septum",
+        "Right ventricular apex",
+        "Left ventricular apex"
+      ],
+      "answer": 2,
+      "explanation": "The moderator band lies in the RV apex, running from the interventricular septum to the anterior papillary muscle in the anterolateral RV free wall. *(Practice review slide 11.)*",
+      "explanationImage": null,
+      "tags": [
+        "Wall Segments",
+        "Apical Window",
+        "Left Ventricular Anatomy"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch03-q186",
+      "stem": "During a routine adult transthoracic examination, the sonographer reviews the following concept.  What level of intercostal space is utilized in the apical window?",
+      "image": null,
+      "options": [
+        "5th – 7th intercostal space",
+        "4th – 6th intercostal space",
+        "4th – 7th intercostal space",
+        "Near the point of maximal impulse in (the 5th intercostal space as starting point) the midaxillary line"
+      ],
+      "answer": 3,
+      "explanation": "The course review identifies Near the point of maximal impulse in (the 5th intercostal space as starting point) the midaxillary line as the correct response. *(Practice review slide 13.)*",
+      "explanationImage": null,
+      "tags": [
+        "Wall Segments",
+        "Apical Window",
+        "Left Ventricular Anatomy"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch03-q187",
+      "stem": "During a routine adult transthoracic examination, the sonographer reviews the following concept.  What walls are seen in the apical 4-chamber view?",
+      "image": null,
+      "options": [
+        "Inferolateral and anteroseptal walls",
+        "Anteroseptal wall and inferior wall",
+        "Inferoseptal and anterolateral wall",
+        "Inferolateral and inferoseptal walls"
+      ],
+      "answer": 2,
+      "explanation": "The apical 4-chamber profiles the inferoseptal (septal) wall and the anterolateral (lateral) wall of the LV. *(Practice review slide 15.)*",
+      "explanationImage": null,
+      "tags": [
+        "Wall Segments",
+        "Apical Window",
+        "Left Ventricular Anatomy"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch03-q188",
+      "stem": "During a routine adult transthoracic examination, the sonographer reviews the following concept.  In the Apical 4-Chamber view, the beam is directed towards the patient’s right shoulder. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "False",
+        "Only true for pediatric echocardiography",
+        "Cannot be determined from the image alone",
+        "True"
+      ],
+      "answer": 3,
+      "explanation": "True — from the apex, the 4-chamber imaging plane is directed up toward the patient’s right shoulder, aligning the septum and lateral walls base-to-apex. *(Practice review slide 17.)*",
+      "explanationImage": null,
+      "tags": [
+        "Wall Segments",
+        "Apical Window",
+        "Left Ventricular Anatomy"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch03-q189",
+      "stem": "During a routine adult transthoracic examination, the sonographer reviews the following concept.  From Apical 4-Chamber, how do you maneuver the probe to acquire the 5-Chamber view?",
+      "image": null,
+      "options": [
+        "Angle inferiorly",
+        "Rotate clockwise",
+        "Rotate counterclockwise",
+        "Angle anteriorly"
+      ],
+      "answer": 3,
+      "explanation": "From the 4-chamber, angle the transducer anteriorly to bring up the LVOT, a segment of the aortic root, and the aortic valve — the apical 5-chamber. *(Practice review slide 19.)*",
+      "explanationImage": null,
+      "tags": [
+        "Wall Segments",
+        "Apical Window",
+        "Left Ventricular Anatomy"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch03-q190",
+      "stem": "During a routine adult transthoracic examination, the sonographer reviews the following concept.  What apical view demonstrates the ‘floating disc’?",
+      "image": null,
+      "options": [
+        "Apical 3-chamber",
+        "Apical 4-chamber",
+        "Apical 2-chamber",
+        "Apical 5-chamber"
+      ],
+      "answer": 2,
+      "explanation": "In the apical 2-chamber view, the mitral valve appears as a “floating disc.” *(Practice review slide 21.)*",
+      "explanationImage": null,
+      "tags": [
+        "Wall Segments",
+        "Apical Window",
+        "Left Ventricular Anatomy"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch03-q191",
+      "stem": "During a routine adult transthoracic examination, the sonographer reviews the following concept.  What walls are demonstrated in the 3-Chamber view?",
+      "image": null,
+      "options": [
+        "Inferolateral and inferoseptal walls",
+        "Inferolateral and anteroseptal walls",
+        "Inferoseptal and anterolateral wall",
+        "Anteroseptal wall and inferior wall"
+      ],
+      "answer": 1,
+      "explanation": "The apical 3-chamber (apical long-axis) displays the inferolateral (posterior) and anteroseptal walls. *(Practice review slide 23.)*",
+      "explanationImage": null,
+      "tags": [
+        "Wall Segments",
+        "Apical Window",
+        "Left Ventricular Anatomy"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch03-q192",
+      "stem": "During a routine adult transthoracic examination, the sonographer reviews the following concept.  What walls are demonstrated in the 2-Chamber view?",
+      "image": null,
+      "options": [
+        "Anteroseptal wall and inferior wall",
+        "Anteroseptal and inferolateral walls",
+        "Inferior and anterior walls",
+        "Inferoseptal and anterolateral wall"
+      ],
+      "answer": 2,
+      "explanation": "The apical 2-chamber demonstrates the inferior and anterior LV walls. *(Practice review slide 25.)*",
+      "explanationImage": null,
+      "tags": [
+        "Wall Segments",
+        "Apical Window",
+        "Left Ventricular Anatomy"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch03-q193",
+      "stem": "During a routine adult transthoracic examination, the sonographer reviews the following concept.  From Apical 4-Chamber, how do you maneuver the probe to acquire the 2-Chamber view?",
+      "image": null,
+      "options": [
+        "Rotate counterclockwise",
+        "Angle inferiorly",
+        "Rotate clockwise",
+        "Angle anteriorly"
+      ],
+      "answer": 0,
+      "explanation": "From the 4-chamber, rotate the transducer counterclockwise (indicator toward ~12–1 o’clock) to obtain the 2-chamber. *(Practice review slide 27.)*",
+      "explanationImage": null,
+      "tags": [
+        "Wall Segments",
+        "Apical Window",
+        "Left Ventricular Anatomy"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch03-q194",
+      "stem": "During a routine adult transthoracic examination, the sonographer reviews the following concept.  What Apical view only demonstrates the left side of the heart?",
+      "image": null,
+      "options": [
+        "2 Chamber",
+        "4 Chamber",
+        "5 Chamber",
+        "3 Chamber"
+      ],
+      "answer": 0,
+      "explanation": "The apical 2-chamber shows only the left-sided chambers — the LV and LA. *(Practice review slide 29.)*",
+      "explanationImage": null,
+      "tags": [
+        "Wall Segments",
+        "Apical Window",
+        "Left Ventricular Anatomy"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch03-q195",
+      "stem": "During a routine adult transthoracic examination, the sonographer reviews the following concept.  What Apical view demonstrates the Aortic valve?",
+      "image": null,
+      "options": [
+        "3 Chamber",
+        "4 Chamber",
+        "5 Chamber",
+        "Both A & C"
+      ],
+      "answer": 3,
+      "explanation": "Both the apical 3-chamber and the apical 5-chamber demonstrate the aortic valve and LVOT. *(Practice review slide 31.)*",
+      "explanationImage": null,
+      "tags": [
+        "Wall Segments",
+        "Apical Window",
+        "Left Ventricular Anatomy"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch03-q196",
+      "stem": "During a routine adult transthoracic examination, the sonographer reviews the following concept.  The left-sided structures are more dominantly analyzed in echo compared to the right-sided structures. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "Only true for pediatric echocardiography",
+        "True",
+        "False",
+        "Cannot be determined from the image alone"
+      ],
+      "answer": 1,
+      "explanation": "True — echo assessment is left-heart dominant, though right-sided structures and wall segments remain important. *(Practice review slide 33.)*",
+      "explanationImage": null,
+      "tags": [
+        "Wall Segments",
+        "Apical Window",
+        "Left Ventricular Anatomy"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch03-q197",
+      "stem": "During a routine adult transthoracic examination, the sonographer reviews the following concept.  The left side is harder to image compared to the right side. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "False",
+        "Only true for pediatric echocardiography",
+        "True",
+        "Cannot be determined from the image alone"
+      ],
+      "answer": 0,
+      "explanation": "False — the right heart is generally the more challenging to image, given its anterior, retrosternal position and complex crescent geometry. *(Practice review slide 35.)*",
+      "explanationImage": null,
+      "tags": [
+        "Wall Segments",
+        "Apical Window",
+        "Left Ventricular Anatomy"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch03-q198",
+      "stem": "During a routine adult transthoracic examination, the sonographer reviews the following concept.  The apical window is located lateral and inferior on the chest wall. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "True",
+        "False",
+        "Only true for pediatric echocardiography",
+        "Cannot be determined from the image alone"
+      ],
+      "answer": 0,
+      "explanation": "True — the apical window sits lateral and inferior on the chest wall, over the cardiac apex. *(Practice review slide 37.)*",
+      "explanationImage": null,
+      "tags": [
+        "Wall Segments",
+        "Apical Window",
+        "Left Ventricular Anatomy"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch03-q199",
+      "stem": "A trainee is preparing for a practical echocardiography assessment.  Using the Bull’s Eye model, how many wall segments are used in the left ventricle?",
+      "image": null,
+      "options": [
+        "18",
+        "16–17",
+        "16",
+        "17"
+      ],
+      "answer": 1,
+      "explanation": "Per ASE, the LV is described with 16 or 17 segments — 16 for wall-motion scoring, and 17 when the apical cap is added (for perfusion/nuclear correlation). “16–17” captures both. *(Practice review slide 3.)*",
+      "explanationImage": null,
+      "tags": [
+        "Wall Segments",
+        "Apical Window",
+        "Left Ventricular Anatomy"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch03-q200",
+      "stem": "A trainee is preparing for a practical echocardiography assessment.  Using the Bull’s Eye model, how many segments are used in the basal portion of the left ventricle?",
+      "image": null,
+      "options": [
+        "4",
+        "6",
+        "5",
+        "8"
+      ],
+      "answer": 1,
+      "explanation": "The basal region contains 6 segments: basal anterior, anteroseptal, inferoseptal, inferior, inferolateral, and anterolateral. *(Practice review slide 5.)*",
+      "explanationImage": null,
+      "tags": [
+        "Wall Segments",
+        "Apical Window",
+        "Left Ventricular Anatomy"
       ],
       "reference": ""
     }

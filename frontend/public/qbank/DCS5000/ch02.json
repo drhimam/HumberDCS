@@ -1,76 +1,3972 @@
 {
+  "subjectId": "DCS5000",
   "chapterId": "ch02",
-  "title": "Standard Windows & Views",
+  "title": "Optimization & Parasternal Window",
   "questions": [
     {
       "id": "DCS5000-ch02-q001",
-      "stem": "The schematic shows a standard transthoracic view. Which view is it?",
-      "image": "/qbank/DCS5000/images/a4c-schematic.svg",
+      "stem": "During a routine adult transthoracic examination, the sonographer reviews the following concept.  Heart relation to thoracic cavity. Which answer is most accurate?",
+      "image": null,
       "options": [
-        "Parasternal long axis",
-        "Apical four-chamber",
-        "Subcostal short axis",
-        "Suprasternal notch"
+        "Positioned anterior to the lungs",
+        "Positioned on the right side of the chest cavity",
+        "Positioned on the left side of the chest cavity",
+        "Positioned within the thoracic cavity beneath the sternum"
       ],
-      "answer": 1,
-      "explanation": "The apical four-chamber view shows all four chambers at once: the ventricles at the top (near the apex) and the atria at the bottom. The interventricular and interatrial septa run vertically down the middle of the image.",
+      "answer": 3,
+      "explanation": "Of the options, this best captures the heart’s retrosternal, mediastinal location — it sits in the mediastinum directly behind (beneath) the body of the sternum. *(Practice review slide 3.)*",
       "explanationImage": null,
       "tags": [
-        "views"
+        "Image Optimization",
+        "Parasternal Window",
+        "Echocardiography Views"
       ],
       "reference": ""
     },
     {
       "id": "DCS5000-ch02-q002",
-      "stem": "In the parasternal long-axis view, which cardiac structure lies closest to the transducer (top of the image)?",
+      "stem": "During a routine adult transthoracic examination, the sonographer reviews the following concept.  How is the long axis in relation to the heart?",
       "image": null,
       "options": [
-        "Left atrium",
-        "Descending aorta",
-        "Right ventricular outflow tract / RV free wall",
-        "Left ventricular posterior wall"
+        "Creates cross-sectional segments of the ventricles",
+        "Perpendicular to the short-axis plane, slicing through the left ventricle and atrium",
+        "Perpendicular to the short-axis plane, slicing through both ventricles and atria from base to apex",
+        "Aligned with the line connecting the LV apex and the centre of the aortic valve"
       ],
-      "answer": 2,
-      "explanation": "The right ventricle is anterior, so it sits nearest the transducer at the top of the image. Moving deeper you see the septum, the LV cavity, and then the posterior wall. The LA and descending aorta are posterior.",
+      "answer": 3,
+      "explanation": "The long-axis plane runs along the line joining the LV apex and the centre of the aortic valve, transecting the LV lengthwise. *(Practice review slide 5.)*",
       "explanationImage": null,
       "tags": [
-        "PLAX"
+        "Image Optimization",
+        "Parasternal Window",
+        "Echocardiography Views"
       ],
       "reference": ""
     },
     {
       "id": "DCS5000-ch02-q003",
-      "stem": "The suprasternal notch window is best used to evaluate:",
+      "stem": "During a routine adult transthoracic examination, the sonographer reviews the following concept.  How is the 4-Chamber in relation to the heart?",
       "image": null,
       "options": [
-        "Mitral valve leaflets",
-        "Aortic arch and its branches",
-        "Tricuspid regurgitation",
-        "Interatrial septum"
+        "Creates cross-sectional segments of the ventricles",
+        "Aligned with the line connecting the LV apex and the centre of the aortic valve",
+        "Perpendicular to the short-axis plane, slicing through the left ventricle and atrium",
+        "Perpendicular to the short-axis plane, slicing through both ventricles and atria from base to apex"
       ],
-      "answer": 1,
-      "explanation": "From the suprasternal notch, the beam is aimed down at the aortic arch. This shows the ascending aorta, arch, descending aorta, and the origins of the great vessels. It is key for assessing coarctation.",
+      "answer": 3,
+      "explanation": "The 4-chamber plane is perpendicular to the short axis and cuts through both ventricles and both atria from base to apex. *(Practice review slide 7.)*",
       "explanationImage": null,
       "tags": [
-        "SSN"
+        "Image Optimization",
+        "Parasternal Window",
+        "Echocardiography Views"
       ],
       "reference": ""
     },
     {
       "id": "DCS5000-ch02-q004",
-      "stem": "Which window is often the best choice for a patient with COPD and hyperinflated lungs?",
+      "stem": "During a routine adult transthoracic examination, the sonographer reviews the following concept.  How is the 2-Chamber in relation to the heart?",
       "image": null,
       "options": [
-        "Parasternal",
-        "Apical",
-        "Subcostal",
-        "Right parasternal"
+        "Creates cross-sectional segments of the ventricles",
+        "Aligned with the line connecting the LV apex and the centre of the aortic valve",
+        "Perpendicular to the short-axis plane, slicing through both ventricles and atria from base to apex",
+        "Perpendicular to the short-axis plane, slicing through the left ventricle and atrium"
       ],
-      "answer": 2,
-      "explanation": "In hyperinflated lungs, the heart sits lower and the lungs cover the parasternal and apical windows. The subcostal window uses the liver as an acoustic window, so it often gives the best images in COPD patients.",
+      "answer": 3,
+      "explanation": "The 2-chamber plane is perpendicular to the short axis but passes through only the left-sided chambers — the LV and LA. *(Practice review slide 9.)*",
       "explanationImage": null,
       "tags": [
-        "windows"
+        "Image Optimization",
+        "Parasternal Window",
+        "Echocardiography Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch02-q005",
+      "stem": "During a routine adult transthoracic examination, the sonographer reviews the following concept.  How do you optimize your image by bringing the anatomy of interest centred in the field of view?",
+      "image": null,
+      "options": [
+        "Rotation counterclockwise or clockwise",
+        "Angle inferiorly or anteriorly",
+        "Slide your transducer from side to side",
+        "Rock  your transducer from side to side"
+      ],
+      "answer": 3,
+      "explanation": "The course review identifies Rock  your transducer from side to side as the correct response. *(Practice review slide 11.)*",
+      "explanationImage": null,
+      "tags": [
+        "Image Optimization",
+        "Parasternal Window",
+        "Echocardiography Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch02-q006",
+      "stem": "During a routine adult transthoracic examination, the sonographer reviews the following concept.  Which of the following are tools to use when optimizing your image?",
+      "image": null,
+      "options": [
+        "Adjusting patient position",
+        "Breathing techniques",
+        "Contrast imaging",
+        "All of the above"
+      ],
+      "answer": 3,
+      "explanation": "Patient positioning, breathing maneuvers (e.g., held expiration), and contrast all improve image quality — so all three apply. *(Practice review slide 13.)*",
+      "explanationImage": null,
+      "tags": [
+        "Image Optimization",
+        "Parasternal Window",
+        "Echocardiography Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch02-q007",
+      "stem": "During a routine adult transthoracic examination, the sonographer reviews the following concept.  What is the patient position for the parasternal window?",
+      "image": null,
+      "options": [
+        "Supine, neck extended",
+        "Left lateral decubitus with the left arm raised under the head",
+        "Right lateral decubitus with the right arm raised under the head",
+        "Supine, knees bent"
+      ],
+      "answer": 1,
+      "explanation": "Left lateral decubitus with the left arm raised brings the heart toward the chest wall, displaces lung, and widens the intercostal spaces. *(Practice review slide 15.)*",
+      "explanationImage": null,
+      "tags": [
+        "Image Optimization",
+        "Parasternal Window",
+        "Echocardiography Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch02-q008",
+      "stem": "During a routine adult transthoracic examination, the sonographer reviews the following concept.  What intercostal space is utilized for placement of the transducer in the parasternal window?",
+      "image": null,
+      "options": [
+        "3rd – 5th intercostal space",
+        "1st – 3rd intercostal space",
+        "3rd – 4th intercostal space",
+        "2nd – 3rd intercostal space"
+      ],
+      "answer": 2,
+      "explanation": "The parasternal transducer is placed in the left 3rd–4th intercostal space, immediately adjacent to the sternum. *(Practice review slide 17.)*",
+      "explanationImage": null,
+      "tags": [
+        "Image Optimization",
+        "Parasternal Window",
+        "Echocardiography Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch02-q009",
+      "stem": "During a routine adult transthoracic examination, the sonographer reviews the following concept.  Which of the following is NOT a standard view seen in the parasternal window?",
+      "image": null,
+      "options": [
+        "RVOT",
+        "PSLAX",
+        "RVIT",
+        "5 Chamber"
+      ],
+      "answer": 3,
+      "explanation": "The 5-chamber is an apical-window view, not a parasternal one, so it is the odd one out. *(Practice review slide 19.)*",
+      "explanationImage": null,
+      "tags": [
+        "Image Optimization",
+        "Parasternal Window",
+        "Echocardiography Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch02-q010",
+      "stem": "During a routine adult transthoracic examination, the sonographer reviews the following concept.  What leaflet/s of the mitral valve are you seeing in the parasternal long-axis view?",
+      "image": null,
+      "options": [
+        "Anterior and posterior leaflet",
+        "Anterior and septal leaflet",
+        "Posterior  leaflet only",
+        "Posterior and septal leaflet"
+      ],
+      "answer": 0,
+      "explanation": "The course review identifies Anterior and posterior leaflet as the correct response. *(Practice review slide 21.)*",
+      "explanationImage": null,
+      "tags": [
+        "Image Optimization",
+        "Parasternal Window",
+        "Echocardiography Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch02-q011",
+      "stem": "During a routine adult transthoracic examination, the sonographer reviews the following concept.  Which of the following views does NOT show the pulmonic valve?",
+      "image": null,
+      "options": [
+        "RVOT",
+        "PSSAX at the level of the aortic valve",
+        "PSLAX",
+        "All of the above"
+      ],
+      "answer": 2,
+      "explanation": "The standard parasternal long-axis (of the LV) does not include the pulmonic valve — you see the LV, LA, aortic root, and mitral valve. *(Practice review slide 23.)*",
+      "explanationImage": null,
+      "tags": [
+        "Image Optimization",
+        "Parasternal Window",
+        "Echocardiography Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch02-q012",
+      "stem": "During a routine adult transthoracic examination, the sonographer reviews the following concept.  Where should the indicator be pointing in the PSSAX window?",
+      "image": null,
+      "options": [
+        "At 12 o’clock",
+        "Toward the patient’s right shoulder",
+        "Toward the patient’s left shoulder (90 degrees clockwise from PLAX view)",
+        "At 4 o’clock"
+      ],
+      "answer": 2,
+      "explanation": "In the parasternal short-axis, the orientation marker points toward the patient’s left shoulder. *(Practice review slide 25.)*",
+      "explanationImage": null,
+      "tags": [
+        "Image Optimization",
+        "Parasternal Window",
+        "Echocardiography Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch02-q013",
+      "stem": "During a routine adult transthoracic examination, the sonographer reviews the following concept.  Using Figure 1, which cusp is the Non-coronary cusp?",
+      "image": null,
+      "options": [
+        "Cusp 3",
+        "Cusp 1",
+        "Cusp 2"
+      ],
+      "answer": 0,
+      "explanation": "The non-coronary cusp (NCC) sits posteromedially, adjacent to the interatrial septum — cusp 3 in the figure. *(Practice review slide 27.)*",
+      "explanationImage": null,
+      "tags": [
+        "Image Optimization",
+        "Parasternal Window",
+        "Echocardiography Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch02-q014",
+      "stem": "During a routine adult transthoracic examination, the sonographer reviews the following concept.  Using Figure 1, which cusp is the Right coronary cusp?",
+      "image": null,
+      "options": [
+        "Cusp 2",
+        "Cusp 1",
+        "Cusp 3"
+      ],
+      "answer": 1,
+      "explanation": "The right coronary cusp (RCC) is the most anterior cusp, nearest the RVOT and the transducer — cusp 1 in the figure. *(Practice review slide 29.)*",
+      "explanationImage": null,
+      "tags": [
+        "Image Optimization",
+        "Parasternal Window",
+        "Echocardiography Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch02-q015",
+      "stem": "During a routine adult transthoracic examination, the sonographer reviews the following concept.  Using Figure 1, which cusp is the Left coronary cusp?",
+      "image": null,
+      "options": [
+        "Cusp 1",
+        "Cusp 3",
+        "Cusp 2"
+      ],
+      "answer": 2,
+      "explanation": "The left coronary cusp (LCC) lies posterolaterally, toward the left atrial appendage and pulmonary artery — cusp 2 in the figure. *(Practice review slide 31.)*",
+      "explanationImage": null,
+      "tags": [
+        "Image Optimization",
+        "Parasternal Window",
+        "Echocardiography Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch02-q016",
+      "stem": "During a routine adult transthoracic examination, the sonographer reviews the following concept.  Which of the following is NOT one of the 4 standard views acquired in the PSSAX window?",
+      "image": null,
+      "options": [
+        "Apex",
+        "Pulmonic valve",
+        "Aortic valve",
+        "Papillary muscle"
+      ],
+      "answer": 1,
+      "explanation": "The four standard short-axis levels are the aortic valve, mitral valve, papillary muscle, and apex — the pulmonic valve is not one of them. *(Practice review slide 33.)*",
+      "explanationImage": null,
+      "tags": [
+        "Image Optimization",
+        "Parasternal Window",
+        "Echocardiography Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch02-q017",
+      "stem": "During a routine adult transthoracic examination, the sonographer reviews the following concept.  From the parasternal long-axis view, how do you maneuver the transducer to acquire the RVOT?",
+      "image": null,
+      "options": [
+        "Tilt anteriorly and apply slight clockwise rotation (towards patient’s left shoulder)",
+        "Angle toward the patient’s right hip",
+        "Angle toward the patient’s left hip",
+        "Rotate the probe until the indicator points to the left shoulder"
+      ],
+      "answer": 0,
+      "explanation": "From PLAX, tilt the transducer superiorly toward the patient’s left shoulder to open the RV outflow tract and pulmonic valve. *(Practice review slide 35.)*",
+      "explanationImage": null,
+      "tags": [
+        "Image Optimization",
+        "Parasternal Window",
+        "Echocardiography Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch02-q018",
+      "stem": "During a routine adult transthoracic examination, the sonographer reviews the following concept.  From the parasternal long-axis view, how do you maneuver the transducer to acquire the RVIT?",
+      "image": null,
+      "options": [
+        "Rotate the probe until the indicator points to the left shoulder",
+        "Tilt toward the patient’s right hip",
+        "Angle toward the patient’s left shoulder",
+        "Angle toward the patient’s left hip"
+      ],
+      "answer": 1,
+      "explanation": "From PLAX, tilt inferomedially toward the patient’s right hip to bring up the RV inflow view and the tricuspid valve. *(Practice review slide 37.)*",
+      "explanationImage": null,
+      "tags": [
+        "Image Optimization",
+        "Parasternal Window",
+        "Echocardiography Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch02-q019",
+      "stem": "A trainee is preparing for a practical echocardiography assessment.  Heart relation to thoracic cavity. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "Positioned on the right side of the chest cavity",
+        "Positioned anterior to the lungs",
+        "Positioned on the left side of the chest cavity",
+        "Positioned within the thoracic cavity beneath the sternum"
+      ],
+      "answer": 3,
+      "explanation": "Of the options, this best captures the heart’s retrosternal, mediastinal location — it sits in the mediastinum directly behind (beneath) the body of the sternum. *(Practice review slide 3.)*",
+      "explanationImage": null,
+      "tags": [
+        "Image Optimization",
+        "Parasternal Window",
+        "Echocardiography Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch02-q020",
+      "stem": "A trainee is preparing for a practical echocardiography assessment.  How is the long axis in relation to the heart?",
+      "image": null,
+      "options": [
+        "Aligned with the line connecting the LV apex and the centre of the aortic valve",
+        "Perpendicular to the short-axis plane, slicing through both ventricles and atria from base to apex",
+        "Creates cross-sectional segments of the ventricles",
+        "Perpendicular to the short-axis plane, slicing through the left ventricle and atrium"
+      ],
+      "answer": 0,
+      "explanation": "The long-axis plane runs along the line joining the LV apex and the centre of the aortic valve, transecting the LV lengthwise. *(Practice review slide 5.)*",
+      "explanationImage": null,
+      "tags": [
+        "Image Optimization",
+        "Parasternal Window",
+        "Echocardiography Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch02-q021",
+      "stem": "A trainee is preparing for a practical echocardiography assessment.  How is the 4-Chamber in relation to the heart?",
+      "image": null,
+      "options": [
+        "Creates cross-sectional segments of the ventricles",
+        "Aligned with the line connecting the LV apex and the centre of the aortic valve",
+        "Perpendicular to the short-axis plane, slicing through the left ventricle and atrium",
+        "Perpendicular to the short-axis plane, slicing through both ventricles and atria from base to apex"
+      ],
+      "answer": 3,
+      "explanation": "The 4-chamber plane is perpendicular to the short axis and cuts through both ventricles and both atria from base to apex. *(Practice review slide 7.)*",
+      "explanationImage": null,
+      "tags": [
+        "Image Optimization",
+        "Parasternal Window",
+        "Echocardiography Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch02-q022",
+      "stem": "A trainee is preparing for a practical echocardiography assessment.  How is the 2-Chamber in relation to the heart?",
+      "image": null,
+      "options": [
+        "Aligned with the line connecting the LV apex and the centre of the aortic valve",
+        "Perpendicular to the short-axis plane, slicing through the left ventricle and atrium",
+        "Perpendicular to the short-axis plane, slicing through both ventricles and atria from base to apex",
+        "Creates cross-sectional segments of the ventricles"
+      ],
+      "answer": 1,
+      "explanation": "The 2-chamber plane is perpendicular to the short axis but passes through only the left-sided chambers — the LV and LA. *(Practice review slide 9.)*",
+      "explanationImage": null,
+      "tags": [
+        "Image Optimization",
+        "Parasternal Window",
+        "Echocardiography Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch02-q023",
+      "stem": "A trainee is preparing for a practical echocardiography assessment.  How do you optimize your image by bringing the anatomy of interest centred in the field of view?",
+      "image": null,
+      "options": [
+        "Slide your transducer from side to side",
+        "Rock  your transducer from side to side",
+        "Rotation counterclockwise or clockwise",
+        "Angle inferiorly or anteriorly"
+      ],
+      "answer": 1,
+      "explanation": "The course review identifies Rock  your transducer from side to side as the correct response. *(Practice review slide 11.)*",
+      "explanationImage": null,
+      "tags": [
+        "Image Optimization",
+        "Parasternal Window",
+        "Echocardiography Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch02-q024",
+      "stem": "A trainee is preparing for a practical echocardiography assessment.  Which of the following are tools to use when optimizing your image?",
+      "image": null,
+      "options": [
+        "Adjusting patient position",
+        "Breathing techniques",
+        "Contrast imaging",
+        "All of the above"
+      ],
+      "answer": 3,
+      "explanation": "Patient positioning, breathing maneuvers (e.g., held expiration), and contrast all improve image quality — so all three apply. *(Practice review slide 13.)*",
+      "explanationImage": null,
+      "tags": [
+        "Image Optimization",
+        "Parasternal Window",
+        "Echocardiography Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch02-q025",
+      "stem": "A trainee is preparing for a practical echocardiography assessment.  What is the patient position for the parasternal window?",
+      "image": null,
+      "options": [
+        "Right lateral decubitus with the right arm raised under the head",
+        "Supine, neck extended",
+        "Supine, knees bent",
+        "Left lateral decubitus with the left arm raised under the head"
+      ],
+      "answer": 3,
+      "explanation": "Left lateral decubitus with the left arm raised brings the heart toward the chest wall, displaces lung, and widens the intercostal spaces. *(Practice review slide 15.)*",
+      "explanationImage": null,
+      "tags": [
+        "Image Optimization",
+        "Parasternal Window",
+        "Echocardiography Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch02-q026",
+      "stem": "A trainee is preparing for a practical echocardiography assessment.  What intercostal space is utilized for placement of the transducer in the parasternal window?",
+      "image": null,
+      "options": [
+        "1st – 3rd intercostal space",
+        "3rd – 5th intercostal space",
+        "2nd – 3rd intercostal space",
+        "3rd – 4th intercostal space"
+      ],
+      "answer": 3,
+      "explanation": "The parasternal transducer is placed in the left 3rd–4th intercostal space, immediately adjacent to the sternum. *(Practice review slide 17.)*",
+      "explanationImage": null,
+      "tags": [
+        "Image Optimization",
+        "Parasternal Window",
+        "Echocardiography Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch02-q027",
+      "stem": "A trainee is preparing for a practical echocardiography assessment.  Which of the following is NOT a standard view seen in the parasternal window?",
+      "image": null,
+      "options": [
+        "PSLAX",
+        "RVOT",
+        "5 Chamber",
+        "RVIT"
+      ],
+      "answer": 2,
+      "explanation": "The 5-chamber is an apical-window view, not a parasternal one, so it is the odd one out. *(Practice review slide 19.)*",
+      "explanationImage": null,
+      "tags": [
+        "Image Optimization",
+        "Parasternal Window",
+        "Echocardiography Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch02-q028",
+      "stem": "A trainee is preparing for a practical echocardiography assessment.  What leaflet/s of the mitral valve are you seeing in the parasternal long-axis view?",
+      "image": null,
+      "options": [
+        "Posterior and septal leaflet",
+        "Posterior  leaflet only",
+        "Anterior and posterior leaflet",
+        "Anterior and septal leaflet"
+      ],
+      "answer": 2,
+      "explanation": "The course review identifies Anterior and posterior leaflet as the correct response. *(Practice review slide 21.)*",
+      "explanationImage": null,
+      "tags": [
+        "Image Optimization",
+        "Parasternal Window",
+        "Echocardiography Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch02-q029",
+      "stem": "A trainee is preparing for a practical echocardiography assessment.  Which of the following views does NOT show the pulmonic valve?",
+      "image": null,
+      "options": [
+        "RVOT",
+        "PSSAX at the level of the aortic valve",
+        "PSLAX",
+        "All of the above"
+      ],
+      "answer": 2,
+      "explanation": "The standard parasternal long-axis (of the LV) does not include the pulmonic valve — you see the LV, LA, aortic root, and mitral valve. *(Practice review slide 23.)*",
+      "explanationImage": null,
+      "tags": [
+        "Image Optimization",
+        "Parasternal Window",
+        "Echocardiography Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch02-q030",
+      "stem": "A trainee is preparing for a practical echocardiography assessment.  Where should the indicator be pointing in the PSSAX window?",
+      "image": null,
+      "options": [
+        "At 4 o’clock",
+        "At 12 o’clock",
+        "Toward the patient’s right shoulder",
+        "Toward the patient’s left shoulder (90 degrees clockwise from PLAX view)"
+      ],
+      "answer": 3,
+      "explanation": "In the parasternal short-axis, the orientation marker points toward the patient’s left shoulder. *(Practice review slide 25.)*",
+      "explanationImage": null,
+      "tags": [
+        "Image Optimization",
+        "Parasternal Window",
+        "Echocardiography Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch02-q031",
+      "stem": "A trainee is preparing for a practical echocardiography assessment.  Using Figure 1, which cusp is the Non-coronary cusp?",
+      "image": null,
+      "options": [
+        "Cusp 2",
+        "Cusp 3",
+        "Cusp 1"
+      ],
+      "answer": 1,
+      "explanation": "The non-coronary cusp (NCC) sits posteromedially, adjacent to the interatrial septum — cusp 3 in the figure. *(Practice review slide 27.)*",
+      "explanationImage": null,
+      "tags": [
+        "Image Optimization",
+        "Parasternal Window",
+        "Echocardiography Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch02-q032",
+      "stem": "A trainee is preparing for a practical echocardiography assessment.  Using Figure 1, which cusp is the Right coronary cusp?",
+      "image": null,
+      "options": [
+        "Cusp 2",
+        "Cusp 3",
+        "Cusp 1"
+      ],
+      "answer": 2,
+      "explanation": "The right coronary cusp (RCC) is the most anterior cusp, nearest the RVOT and the transducer — cusp 1 in the figure. *(Practice review slide 29.)*",
+      "explanationImage": null,
+      "tags": [
+        "Image Optimization",
+        "Parasternal Window",
+        "Echocardiography Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch02-q033",
+      "stem": "A trainee is preparing for a practical echocardiography assessment.  Using Figure 1, which cusp is the Left coronary cusp?",
+      "image": null,
+      "options": [
+        "Cusp 2",
+        "Cusp 1",
+        "Cusp 3"
+      ],
+      "answer": 0,
+      "explanation": "The left coronary cusp (LCC) lies posterolaterally, toward the left atrial appendage and pulmonary artery — cusp 2 in the figure. *(Practice review slide 31.)*",
+      "explanationImage": null,
+      "tags": [
+        "Image Optimization",
+        "Parasternal Window",
+        "Echocardiography Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch02-q034",
+      "stem": "A trainee is preparing for a practical echocardiography assessment.  Which of the following is NOT one of the 4 standard views acquired in the PSSAX window?",
+      "image": null,
+      "options": [
+        "Papillary muscle",
+        "Pulmonic valve",
+        "Apex",
+        "Aortic valve"
+      ],
+      "answer": 1,
+      "explanation": "The four standard short-axis levels are the aortic valve, mitral valve, papillary muscle, and apex — the pulmonic valve is not one of them. *(Practice review slide 33.)*",
+      "explanationImage": null,
+      "tags": [
+        "Image Optimization",
+        "Parasternal Window",
+        "Echocardiography Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch02-q035",
+      "stem": "A trainee is preparing for a practical echocardiography assessment.  From the parasternal long-axis view, how do you maneuver the transducer to acquire the RVOT?",
+      "image": null,
+      "options": [
+        "Rotate the probe until the indicator points to the left shoulder",
+        "Angle toward the patient’s left hip",
+        "Tilt anteriorly and apply slight clockwise rotation (towards patient’s left shoulder)",
+        "Angle toward the patient’s right hip"
+      ],
+      "answer": 2,
+      "explanation": "From PLAX, tilt the transducer superiorly toward the patient’s left shoulder to open the RV outflow tract and pulmonic valve. *(Practice review slide 35.)*",
+      "explanationImage": null,
+      "tags": [
+        "Image Optimization",
+        "Parasternal Window",
+        "Echocardiography Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch02-q036",
+      "stem": "A trainee is preparing for a practical echocardiography assessment.  From the parasternal long-axis view, how do you maneuver the transducer to acquire the RVIT?",
+      "image": null,
+      "options": [
+        "Tilt toward the patient’s right hip",
+        "Angle toward the patient’s left hip",
+        "Angle toward the patient’s left shoulder",
+        "Rotate the probe until the indicator points to the left shoulder"
+      ],
+      "answer": 0,
+      "explanation": "From PLAX, tilt inferomedially toward the patient’s right hip to bring up the RV inflow view and the tricuspid valve. *(Practice review slide 37.)*",
+      "explanationImage": null,
+      "tags": [
+        "Image Optimization",
+        "Parasternal Window",
+        "Echocardiography Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch02-q037",
+      "stem": "While reviewing a standard adult echocardiography protocol, consider this question:  Heart relation to thoracic cavity. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "Positioned on the left side of the chest cavity",
+        "Positioned anterior to the lungs",
+        "Positioned on the right side of the chest cavity",
+        "Positioned within the thoracic cavity beneath the sternum"
+      ],
+      "answer": 3,
+      "explanation": "Of the options, this best captures the heart’s retrosternal, mediastinal location — it sits in the mediastinum directly behind (beneath) the body of the sternum. *(Practice review slide 3.)*",
+      "explanationImage": null,
+      "tags": [
+        "Image Optimization",
+        "Parasternal Window",
+        "Echocardiography Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch02-q038",
+      "stem": "While reviewing a standard adult echocardiography protocol, consider this question:  How is the long axis in relation to the heart?",
+      "image": null,
+      "options": [
+        "Creates cross-sectional segments of the ventricles",
+        "Aligned with the line connecting the LV apex and the centre of the aortic valve",
+        "Perpendicular to the short-axis plane, slicing through the left ventricle and atrium",
+        "Perpendicular to the short-axis plane, slicing through both ventricles and atria from base to apex"
+      ],
+      "answer": 1,
+      "explanation": "The long-axis plane runs along the line joining the LV apex and the centre of the aortic valve, transecting the LV lengthwise. *(Practice review slide 5.)*",
+      "explanationImage": null,
+      "tags": [
+        "Image Optimization",
+        "Parasternal Window",
+        "Echocardiography Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch02-q039",
+      "stem": "While reviewing a standard adult echocardiography protocol, consider this question:  How is the 4-Chamber in relation to the heart?",
+      "image": null,
+      "options": [
+        "Perpendicular to the short-axis plane, slicing through both ventricles and atria from base to apex",
+        "Creates cross-sectional segments of the ventricles",
+        "Perpendicular to the short-axis plane, slicing through the left ventricle and atrium",
+        "Aligned with the line connecting the LV apex and the centre of the aortic valve"
+      ],
+      "answer": 0,
+      "explanation": "The 4-chamber plane is perpendicular to the short axis and cuts through both ventricles and both atria from base to apex. *(Practice review slide 7.)*",
+      "explanationImage": null,
+      "tags": [
+        "Image Optimization",
+        "Parasternal Window",
+        "Echocardiography Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch02-q040",
+      "stem": "While reviewing a standard adult echocardiography protocol, consider this question:  How is the 2-Chamber in relation to the heart?",
+      "image": null,
+      "options": [
+        "Creates cross-sectional segments of the ventricles",
+        "Aligned with the line connecting the LV apex and the centre of the aortic valve",
+        "Perpendicular to the short-axis plane, slicing through both ventricles and atria from base to apex",
+        "Perpendicular to the short-axis plane, slicing through the left ventricle and atrium"
+      ],
+      "answer": 3,
+      "explanation": "The 2-chamber plane is perpendicular to the short axis but passes through only the left-sided chambers — the LV and LA. *(Practice review slide 9.)*",
+      "explanationImage": null,
+      "tags": [
+        "Image Optimization",
+        "Parasternal Window",
+        "Echocardiography Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch02-q041",
+      "stem": "While reviewing a standard adult echocardiography protocol, consider this question:  How do you optimize your image by bringing the anatomy of interest centred in the field of view?",
+      "image": null,
+      "options": [
+        "Angle inferiorly or anteriorly",
+        "Slide your transducer from side to side",
+        "Rock  your transducer from side to side",
+        "Rotation counterclockwise or clockwise"
+      ],
+      "answer": 2,
+      "explanation": "The course review identifies Rock  your transducer from side to side as the correct response. *(Practice review slide 11.)*",
+      "explanationImage": null,
+      "tags": [
+        "Image Optimization",
+        "Parasternal Window",
+        "Echocardiography Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch02-q042",
+      "stem": "While reviewing a standard adult echocardiography protocol, consider this question:  Which of the following are tools to use when optimizing your image?",
+      "image": null,
+      "options": [
+        "Adjusting patient position",
+        "Breathing techniques",
+        "Contrast imaging",
+        "All of the above"
+      ],
+      "answer": 3,
+      "explanation": "Patient positioning, breathing maneuvers (e.g., held expiration), and contrast all improve image quality — so all three apply. *(Practice review slide 13.)*",
+      "explanationImage": null,
+      "tags": [
+        "Image Optimization",
+        "Parasternal Window",
+        "Echocardiography Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch02-q043",
+      "stem": "While reviewing a standard adult echocardiography protocol, consider this question:  What is the patient position for the parasternal window?",
+      "image": null,
+      "options": [
+        "Supine, knees bent",
+        "Right lateral decubitus with the right arm raised under the head",
+        "Left lateral decubitus with the left arm raised under the head",
+        "Supine, neck extended"
+      ],
+      "answer": 2,
+      "explanation": "Left lateral decubitus with the left arm raised brings the heart toward the chest wall, displaces lung, and widens the intercostal spaces. *(Practice review slide 15.)*",
+      "explanationImage": null,
+      "tags": [
+        "Image Optimization",
+        "Parasternal Window",
+        "Echocardiography Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch02-q044",
+      "stem": "While reviewing a standard adult echocardiography protocol, consider this question:  What intercostal space is utilized for placement of the transducer in the parasternal window?",
+      "image": null,
+      "options": [
+        "3rd – 4th intercostal space",
+        "2nd – 3rd intercostal space",
+        "1st – 3rd intercostal space",
+        "3rd – 5th intercostal space"
+      ],
+      "answer": 0,
+      "explanation": "The parasternal transducer is placed in the left 3rd–4th intercostal space, immediately adjacent to the sternum. *(Practice review slide 17.)*",
+      "explanationImage": null,
+      "tags": [
+        "Image Optimization",
+        "Parasternal Window",
+        "Echocardiography Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch02-q045",
+      "stem": "While reviewing a standard adult echocardiography protocol, consider this question:  Which of the following is NOT a standard view seen in the parasternal window?",
+      "image": null,
+      "options": [
+        "RVOT",
+        "PSLAX",
+        "5 Chamber",
+        "RVIT"
+      ],
+      "answer": 2,
+      "explanation": "The 5-chamber is an apical-window view, not a parasternal one, so it is the odd one out. *(Practice review slide 19.)*",
+      "explanationImage": null,
+      "tags": [
+        "Image Optimization",
+        "Parasternal Window",
+        "Echocardiography Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch02-q046",
+      "stem": "While reviewing a standard adult echocardiography protocol, consider this question:  What leaflet/s of the mitral valve are you seeing in the parasternal long-axis view?",
+      "image": null,
+      "options": [
+        "Anterior and septal leaflet",
+        "Posterior  leaflet only",
+        "Posterior and septal leaflet",
+        "Anterior and posterior leaflet"
+      ],
+      "answer": 3,
+      "explanation": "The course review identifies Anterior and posterior leaflet as the correct response. *(Practice review slide 21.)*",
+      "explanationImage": null,
+      "tags": [
+        "Image Optimization",
+        "Parasternal Window",
+        "Echocardiography Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch02-q047",
+      "stem": "While reviewing a standard adult echocardiography protocol, consider this question:  Which of the following views does NOT show the pulmonic valve?",
+      "image": null,
+      "options": [
+        "RVOT",
+        "PSSAX at the level of the aortic valve",
+        "PSLAX",
+        "All of the above"
+      ],
+      "answer": 2,
+      "explanation": "The standard parasternal long-axis (of the LV) does not include the pulmonic valve — you see the LV, LA, aortic root, and mitral valve. *(Practice review slide 23.)*",
+      "explanationImage": null,
+      "tags": [
+        "Image Optimization",
+        "Parasternal Window",
+        "Echocardiography Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch02-q048",
+      "stem": "While reviewing a standard adult echocardiography protocol, consider this question:  Where should the indicator be pointing in the PSSAX window?",
+      "image": null,
+      "options": [
+        "Toward the patient’s right shoulder",
+        "At 4 o’clock",
+        "Toward the patient’s left shoulder (90 degrees clockwise from PLAX view)",
+        "At 12 o’clock"
+      ],
+      "answer": 2,
+      "explanation": "In the parasternal short-axis, the orientation marker points toward the patient’s left shoulder. *(Practice review slide 25.)*",
+      "explanationImage": null,
+      "tags": [
+        "Image Optimization",
+        "Parasternal Window",
+        "Echocardiography Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch02-q049",
+      "stem": "While reviewing a standard adult echocardiography protocol, consider this question:  Using Figure 1, which cusp is the Non-coronary cusp?",
+      "image": null,
+      "options": [
+        "Cusp 2",
+        "Cusp 1",
+        "Cusp 3"
+      ],
+      "answer": 2,
+      "explanation": "The non-coronary cusp (NCC) sits posteromedially, adjacent to the interatrial septum — cusp 3 in the figure. *(Practice review slide 27.)*",
+      "explanationImage": null,
+      "tags": [
+        "Image Optimization",
+        "Parasternal Window",
+        "Echocardiography Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch02-q050",
+      "stem": "While reviewing a standard adult echocardiography protocol, consider this question:  Using Figure 1, which cusp is the Right coronary cusp?",
+      "image": null,
+      "options": [
+        "Cusp 3",
+        "Cusp 2",
+        "Cusp 1"
+      ],
+      "answer": 2,
+      "explanation": "The right coronary cusp (RCC) is the most anterior cusp, nearest the RVOT and the transducer — cusp 1 in the figure. *(Practice review slide 29.)*",
+      "explanationImage": null,
+      "tags": [
+        "Image Optimization",
+        "Parasternal Window",
+        "Echocardiography Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch02-q051",
+      "stem": "While reviewing a standard adult echocardiography protocol, consider this question:  Using Figure 1, which cusp is the Left coronary cusp?",
+      "image": null,
+      "options": [
+        "Cusp 1",
+        "Cusp 2",
+        "Cusp 3"
+      ],
+      "answer": 1,
+      "explanation": "The left coronary cusp (LCC) lies posterolaterally, toward the left atrial appendage and pulmonary artery — cusp 2 in the figure. *(Practice review slide 31.)*",
+      "explanationImage": null,
+      "tags": [
+        "Image Optimization",
+        "Parasternal Window",
+        "Echocardiography Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch02-q052",
+      "stem": "While reviewing a standard adult echocardiography protocol, consider this question:  Which of the following is NOT one of the 4 standard views acquired in the PSSAX window?",
+      "image": null,
+      "options": [
+        "Pulmonic valve",
+        "Apex",
+        "Aortic valve",
+        "Papillary muscle"
+      ],
+      "answer": 0,
+      "explanation": "The four standard short-axis levels are the aortic valve, mitral valve, papillary muscle, and apex — the pulmonic valve is not one of them. *(Practice review slide 33.)*",
+      "explanationImage": null,
+      "tags": [
+        "Image Optimization",
+        "Parasternal Window",
+        "Echocardiography Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch02-q053",
+      "stem": "While reviewing a standard adult echocardiography protocol, consider this question:  From the parasternal long-axis view, how do you maneuver the transducer to acquire the RVOT?",
+      "image": null,
+      "options": [
+        "Angle toward the patient’s right hip",
+        "Tilt anteriorly and apply slight clockwise rotation (towards patient’s left shoulder)",
+        "Rotate the probe until the indicator points to the left shoulder",
+        "Angle toward the patient’s left hip"
+      ],
+      "answer": 1,
+      "explanation": "From PLAX, tilt the transducer superiorly toward the patient’s left shoulder to open the RV outflow tract and pulmonic valve. *(Practice review slide 35.)*",
+      "explanationImage": null,
+      "tags": [
+        "Image Optimization",
+        "Parasternal Window",
+        "Echocardiography Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch02-q054",
+      "stem": "While reviewing a standard adult echocardiography protocol, consider this question:  From the parasternal long-axis view, how do you maneuver the transducer to acquire the RVIT?",
+      "image": null,
+      "options": [
+        "Angle toward the patient’s left hip",
+        "Tilt toward the patient’s right hip",
+        "Rotate the probe until the indicator points to the left shoulder",
+        "Angle toward the patient’s left shoulder"
+      ],
+      "answer": 1,
+      "explanation": "From PLAX, tilt inferomedially toward the patient’s right hip to bring up the RV inflow view and the tricuspid valve. *(Practice review slide 37.)*",
+      "explanationImage": null,
+      "tags": [
+        "Image Optimization",
+        "Parasternal Window",
+        "Echocardiography Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch02-q055",
+      "stem": "A sonographer is asked to select the most accurate response.  Heart relation to thoracic cavity. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "Positioned anterior to the lungs",
+        "Positioned on the left side of the chest cavity",
+        "Positioned on the right side of the chest cavity",
+        "Positioned within the thoracic cavity beneath the sternum"
+      ],
+      "answer": 3,
+      "explanation": "Of the options, this best captures the heart’s retrosternal, mediastinal location — it sits in the mediastinum directly behind (beneath) the body of the sternum. *(Practice review slide 3.)*",
+      "explanationImage": null,
+      "tags": [
+        "Image Optimization",
+        "Parasternal Window",
+        "Echocardiography Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch02-q056",
+      "stem": "A sonographer is asked to select the most accurate response.  How is the long axis in relation to the heart?",
+      "image": null,
+      "options": [
+        "Creates cross-sectional segments of the ventricles",
+        "Aligned with the line connecting the LV apex and the centre of the aortic valve",
+        "Perpendicular to the short-axis plane, slicing through the left ventricle and atrium",
+        "Perpendicular to the short-axis plane, slicing through both ventricles and atria from base to apex"
+      ],
+      "answer": 1,
+      "explanation": "The long-axis plane runs along the line joining the LV apex and the centre of the aortic valve, transecting the LV lengthwise. *(Practice review slide 5.)*",
+      "explanationImage": null,
+      "tags": [
+        "Image Optimization",
+        "Parasternal Window",
+        "Echocardiography Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch02-q057",
+      "stem": "A sonographer is asked to select the most accurate response.  How is the 4-Chamber in relation to the heart?",
+      "image": null,
+      "options": [
+        "Aligned with the line connecting the LV apex and the centre of the aortic valve",
+        "Perpendicular to the short-axis plane, slicing through both ventricles and atria from base to apex",
+        "Creates cross-sectional segments of the ventricles",
+        "Perpendicular to the short-axis plane, slicing through the left ventricle and atrium"
+      ],
+      "answer": 1,
+      "explanation": "The 4-chamber plane is perpendicular to the short axis and cuts through both ventricles and both atria from base to apex. *(Practice review slide 7.)*",
+      "explanationImage": null,
+      "tags": [
+        "Image Optimization",
+        "Parasternal Window",
+        "Echocardiography Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch02-q058",
+      "stem": "A sonographer is asked to select the most accurate response.  How is the 2-Chamber in relation to the heart?",
+      "image": null,
+      "options": [
+        "Creates cross-sectional segments of the ventricles",
+        "Perpendicular to the short-axis plane, slicing through the left ventricle and atrium",
+        "Aligned with the line connecting the LV apex and the centre of the aortic valve",
+        "Perpendicular to the short-axis plane, slicing through both ventricles and atria from base to apex"
+      ],
+      "answer": 1,
+      "explanation": "The 2-chamber plane is perpendicular to the short axis but passes through only the left-sided chambers — the LV and LA. *(Practice review slide 9.)*",
+      "explanationImage": null,
+      "tags": [
+        "Image Optimization",
+        "Parasternal Window",
+        "Echocardiography Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch02-q059",
+      "stem": "A sonographer is asked to select the most accurate response.  How do you optimize your image by bringing the anatomy of interest centred in the field of view?",
+      "image": null,
+      "options": [
+        "Rock  your transducer from side to side",
+        "Rotation counterclockwise or clockwise",
+        "Angle inferiorly or anteriorly",
+        "Slide your transducer from side to side"
+      ],
+      "answer": 0,
+      "explanation": "The course review identifies Rock  your transducer from side to side as the correct response. *(Practice review slide 11.)*",
+      "explanationImage": null,
+      "tags": [
+        "Image Optimization",
+        "Parasternal Window",
+        "Echocardiography Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch02-q060",
+      "stem": "A sonographer is asked to select the most accurate response.  Which of the following are tools to use when optimizing your image?",
+      "image": null,
+      "options": [
+        "Adjusting patient position",
+        "Breathing techniques",
+        "Contrast imaging",
+        "All of the above"
+      ],
+      "answer": 3,
+      "explanation": "Patient positioning, breathing maneuvers (e.g., held expiration), and contrast all improve image quality — so all three apply. *(Practice review slide 13.)*",
+      "explanationImage": null,
+      "tags": [
+        "Image Optimization",
+        "Parasternal Window",
+        "Echocardiography Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch02-q061",
+      "stem": "A sonographer is asked to select the most accurate response.  What is the patient position for the parasternal window?",
+      "image": null,
+      "options": [
+        "Left lateral decubitus with the left arm raised under the head",
+        "Right lateral decubitus with the right arm raised under the head",
+        "Supine, neck extended",
+        "Supine, knees bent"
+      ],
+      "answer": 0,
+      "explanation": "Left lateral decubitus with the left arm raised brings the heart toward the chest wall, displaces lung, and widens the intercostal spaces. *(Practice review slide 15.)*",
+      "explanationImage": null,
+      "tags": [
+        "Image Optimization",
+        "Parasternal Window",
+        "Echocardiography Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch02-q062",
+      "stem": "A sonographer is asked to select the most accurate response.  What intercostal space is utilized for placement of the transducer in the parasternal window?",
+      "image": null,
+      "options": [
+        "2nd – 3rd intercostal space",
+        "3rd – 5th intercostal space",
+        "3rd – 4th intercostal space",
+        "1st – 3rd intercostal space"
+      ],
+      "answer": 2,
+      "explanation": "The parasternal transducer is placed in the left 3rd–4th intercostal space, immediately adjacent to the sternum. *(Practice review slide 17.)*",
+      "explanationImage": null,
+      "tags": [
+        "Image Optimization",
+        "Parasternal Window",
+        "Echocardiography Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch02-q063",
+      "stem": "A sonographer is asked to select the most accurate response.  Which of the following is NOT a standard view seen in the parasternal window?",
+      "image": null,
+      "options": [
+        "5 Chamber",
+        "PSLAX",
+        "RVIT",
+        "RVOT"
+      ],
+      "answer": 0,
+      "explanation": "The 5-chamber is an apical-window view, not a parasternal one, so it is the odd one out. *(Practice review slide 19.)*",
+      "explanationImage": null,
+      "tags": [
+        "Image Optimization",
+        "Parasternal Window",
+        "Echocardiography Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch02-q064",
+      "stem": "A sonographer is asked to select the most accurate response.  What leaflet/s of the mitral valve are you seeing in the parasternal long-axis view?",
+      "image": null,
+      "options": [
+        "Anterior and septal leaflet",
+        "Anterior and posterior leaflet",
+        "Posterior  leaflet only",
+        "Posterior and septal leaflet"
+      ],
+      "answer": 1,
+      "explanation": "The course review identifies Anterior and posterior leaflet as the correct response. *(Practice review slide 21.)*",
+      "explanationImage": null,
+      "tags": [
+        "Image Optimization",
+        "Parasternal Window",
+        "Echocardiography Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch02-q065",
+      "stem": "A sonographer is asked to select the most accurate response.  Which of the following views does NOT show the pulmonic valve?",
+      "image": null,
+      "options": [
+        "RVOT",
+        "PSSAX at the level of the aortic valve",
+        "PSLAX",
+        "All of the above"
+      ],
+      "answer": 2,
+      "explanation": "The standard parasternal long-axis (of the LV) does not include the pulmonic valve — you see the LV, LA, aortic root, and mitral valve. *(Practice review slide 23.)*",
+      "explanationImage": null,
+      "tags": [
+        "Image Optimization",
+        "Parasternal Window",
+        "Echocardiography Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch02-q066",
+      "stem": "A sonographer is asked to select the most accurate response.  Where should the indicator be pointing in the PSSAX window?",
+      "image": null,
+      "options": [
+        "Toward the patient’s left shoulder (90 degrees clockwise from PLAX view)",
+        "At 4 o’clock",
+        "At 12 o’clock",
+        "Toward the patient’s right shoulder"
+      ],
+      "answer": 0,
+      "explanation": "In the parasternal short-axis, the orientation marker points toward the patient’s left shoulder. *(Practice review slide 25.)*",
+      "explanationImage": null,
+      "tags": [
+        "Image Optimization",
+        "Parasternal Window",
+        "Echocardiography Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch02-q067",
+      "stem": "A sonographer is asked to select the most accurate response.  Using Figure 1, which cusp is the Non-coronary cusp?",
+      "image": null,
+      "options": [
+        "Cusp 3",
+        "Cusp 1",
+        "Cusp 2"
+      ],
+      "answer": 0,
+      "explanation": "The non-coronary cusp (NCC) sits posteromedially, adjacent to the interatrial septum — cusp 3 in the figure. *(Practice review slide 27.)*",
+      "explanationImage": null,
+      "tags": [
+        "Image Optimization",
+        "Parasternal Window",
+        "Echocardiography Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch02-q068",
+      "stem": "A sonographer is asked to select the most accurate response.  Using Figure 1, which cusp is the Right coronary cusp?",
+      "image": null,
+      "options": [
+        "Cusp 2",
+        "Cusp 1",
+        "Cusp 3"
+      ],
+      "answer": 1,
+      "explanation": "The right coronary cusp (RCC) is the most anterior cusp, nearest the RVOT and the transducer — cusp 1 in the figure. *(Practice review slide 29.)*",
+      "explanationImage": null,
+      "tags": [
+        "Image Optimization",
+        "Parasternal Window",
+        "Echocardiography Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch02-q069",
+      "stem": "A sonographer is asked to select the most accurate response.  Using Figure 1, which cusp is the Left coronary cusp?",
+      "image": null,
+      "options": [
+        "Cusp 1",
+        "Cusp 2",
+        "Cusp 3"
+      ],
+      "answer": 1,
+      "explanation": "The left coronary cusp (LCC) lies posterolaterally, toward the left atrial appendage and pulmonary artery — cusp 2 in the figure. *(Practice review slide 31.)*",
+      "explanationImage": null,
+      "tags": [
+        "Image Optimization",
+        "Parasternal Window",
+        "Echocardiography Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch02-q070",
+      "stem": "A sonographer is asked to select the most accurate response.  Which of the following is NOT one of the 4 standard views acquired in the PSSAX window?",
+      "image": null,
+      "options": [
+        "Pulmonic valve",
+        "Aortic valve",
+        "Papillary muscle",
+        "Apex"
+      ],
+      "answer": 0,
+      "explanation": "The four standard short-axis levels are the aortic valve, mitral valve, papillary muscle, and apex — the pulmonic valve is not one of them. *(Practice review slide 33.)*",
+      "explanationImage": null,
+      "tags": [
+        "Image Optimization",
+        "Parasternal Window",
+        "Echocardiography Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch02-q071",
+      "stem": "A sonographer is asked to select the most accurate response.  From the parasternal long-axis view, how do you maneuver the transducer to acquire the RVOT?",
+      "image": null,
+      "options": [
+        "Angle toward the patient’s left hip",
+        "Angle toward the patient’s right hip",
+        "Rotate the probe until the indicator points to the left shoulder",
+        "Tilt anteriorly and apply slight clockwise rotation (towards patient’s left shoulder)"
+      ],
+      "answer": 3,
+      "explanation": "From PLAX, tilt the transducer superiorly toward the patient’s left shoulder to open the RV outflow tract and pulmonic valve. *(Practice review slide 35.)*",
+      "explanationImage": null,
+      "tags": [
+        "Image Optimization",
+        "Parasternal Window",
+        "Echocardiography Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch02-q072",
+      "stem": "A sonographer is asked to select the most accurate response.  From the parasternal long-axis view, how do you maneuver the transducer to acquire the RVIT?",
+      "image": null,
+      "options": [
+        "Angle toward the patient’s left shoulder",
+        "Angle toward the patient’s left hip",
+        "Rotate the probe until the indicator points to the left shoulder",
+        "Tilt toward the patient’s right hip"
+      ],
+      "answer": 3,
+      "explanation": "From PLAX, tilt inferomedially toward the patient’s right hip to bring up the RV inflow view and the tricuspid valve. *(Practice review slide 37.)*",
+      "explanationImage": null,
+      "tags": [
+        "Image Optimization",
+        "Parasternal Window",
+        "Echocardiography Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch02-q073",
+      "stem": "During quality review of an adult echo study, the following point is discussed.  Heart relation to thoracic cavity. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "Positioned on the right side of the chest cavity",
+        "Positioned anterior to the lungs",
+        "Positioned on the left side of the chest cavity",
+        "Positioned within the thoracic cavity beneath the sternum"
+      ],
+      "answer": 3,
+      "explanation": "Of the options, this best captures the heart’s retrosternal, mediastinal location — it sits in the mediastinum directly behind (beneath) the body of the sternum. *(Practice review slide 3.)*",
+      "explanationImage": null,
+      "tags": [
+        "Image Optimization",
+        "Parasternal Window",
+        "Echocardiography Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch02-q074",
+      "stem": "During quality review of an adult echo study, the following point is discussed.  How is the long axis in relation to the heart?",
+      "image": null,
+      "options": [
+        "Perpendicular to the short-axis plane, slicing through both ventricles and atria from base to apex",
+        "Perpendicular to the short-axis plane, slicing through the left ventricle and atrium",
+        "Aligned with the line connecting the LV apex and the centre of the aortic valve",
+        "Creates cross-sectional segments of the ventricles"
+      ],
+      "answer": 2,
+      "explanation": "The long-axis plane runs along the line joining the LV apex and the centre of the aortic valve, transecting the LV lengthwise. *(Practice review slide 5.)*",
+      "explanationImage": null,
+      "tags": [
+        "Image Optimization",
+        "Parasternal Window",
+        "Echocardiography Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch02-q075",
+      "stem": "During quality review of an adult echo study, the following point is discussed.  How is the 4-Chamber in relation to the heart?",
+      "image": null,
+      "options": [
+        "Perpendicular to the short-axis plane, slicing through both ventricles and atria from base to apex",
+        "Perpendicular to the short-axis plane, slicing through the left ventricle and atrium",
+        "Creates cross-sectional segments of the ventricles",
+        "Aligned with the line connecting the LV apex and the centre of the aortic valve"
+      ],
+      "answer": 0,
+      "explanation": "The 4-chamber plane is perpendicular to the short axis and cuts through both ventricles and both atria from base to apex. *(Practice review slide 7.)*",
+      "explanationImage": null,
+      "tags": [
+        "Image Optimization",
+        "Parasternal Window",
+        "Echocardiography Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch02-q076",
+      "stem": "During quality review of an adult echo study, the following point is discussed.  How is the 2-Chamber in relation to the heart?",
+      "image": null,
+      "options": [
+        "Aligned with the line connecting the LV apex and the centre of the aortic valve",
+        "Perpendicular to the short-axis plane, slicing through the left ventricle and atrium",
+        "Creates cross-sectional segments of the ventricles",
+        "Perpendicular to the short-axis plane, slicing through both ventricles and atria from base to apex"
+      ],
+      "answer": 1,
+      "explanation": "The 2-chamber plane is perpendicular to the short axis but passes through only the left-sided chambers — the LV and LA. *(Practice review slide 9.)*",
+      "explanationImage": null,
+      "tags": [
+        "Image Optimization",
+        "Parasternal Window",
+        "Echocardiography Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch02-q077",
+      "stem": "During quality review of an adult echo study, the following point is discussed.  How do you optimize your image by bringing the anatomy of interest centred in the field of view?",
+      "image": null,
+      "options": [
+        "Angle inferiorly or anteriorly",
+        "Rotation counterclockwise or clockwise",
+        "Rock  your transducer from side to side",
+        "Slide your transducer from side to side"
+      ],
+      "answer": 2,
+      "explanation": "The course review identifies Rock  your transducer from side to side as the correct response. *(Practice review slide 11.)*",
+      "explanationImage": null,
+      "tags": [
+        "Image Optimization",
+        "Parasternal Window",
+        "Echocardiography Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch02-q078",
+      "stem": "During quality review of an adult echo study, the following point is discussed.  Which of the following are tools to use when optimizing your image?",
+      "image": null,
+      "options": [
+        "Adjusting patient position",
+        "Breathing techniques",
+        "Contrast imaging",
+        "All of the above"
+      ],
+      "answer": 3,
+      "explanation": "Patient positioning, breathing maneuvers (e.g., held expiration), and contrast all improve image quality — so all three apply. *(Practice review slide 13.)*",
+      "explanationImage": null,
+      "tags": [
+        "Image Optimization",
+        "Parasternal Window",
+        "Echocardiography Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch02-q079",
+      "stem": "During quality review of an adult echo study, the following point is discussed.  What is the patient position for the parasternal window?",
+      "image": null,
+      "options": [
+        "Supine, knees bent",
+        "Right lateral decubitus with the right arm raised under the head",
+        "Left lateral decubitus with the left arm raised under the head",
+        "Supine, neck extended"
+      ],
+      "answer": 2,
+      "explanation": "Left lateral decubitus with the left arm raised brings the heart toward the chest wall, displaces lung, and widens the intercostal spaces. *(Practice review slide 15.)*",
+      "explanationImage": null,
+      "tags": [
+        "Image Optimization",
+        "Parasternal Window",
+        "Echocardiography Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch02-q080",
+      "stem": "During quality review of an adult echo study, the following point is discussed.  What intercostal space is utilized for placement of the transducer in the parasternal window?",
+      "image": null,
+      "options": [
+        "3rd – 5th intercostal space",
+        "2nd – 3rd intercostal space",
+        "3rd – 4th intercostal space",
+        "1st – 3rd intercostal space"
+      ],
+      "answer": 2,
+      "explanation": "The parasternal transducer is placed in the left 3rd–4th intercostal space, immediately adjacent to the sternum. *(Practice review slide 17.)*",
+      "explanationImage": null,
+      "tags": [
+        "Image Optimization",
+        "Parasternal Window",
+        "Echocardiography Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch02-q081",
+      "stem": "During quality review of an adult echo study, the following point is discussed.  Which of the following is NOT a standard view seen in the parasternal window?",
+      "image": null,
+      "options": [
+        "PSLAX",
+        "RVIT",
+        "RVOT",
+        "5 Chamber"
+      ],
+      "answer": 3,
+      "explanation": "The 5-chamber is an apical-window view, not a parasternal one, so it is the odd one out. *(Practice review slide 19.)*",
+      "explanationImage": null,
+      "tags": [
+        "Image Optimization",
+        "Parasternal Window",
+        "Echocardiography Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch02-q082",
+      "stem": "During quality review of an adult echo study, the following point is discussed.  What leaflet/s of the mitral valve are you seeing in the parasternal long-axis view?",
+      "image": null,
+      "options": [
+        "Anterior and septal leaflet",
+        "Posterior  leaflet only",
+        "Anterior and posterior leaflet",
+        "Posterior and septal leaflet"
+      ],
+      "answer": 2,
+      "explanation": "The course review identifies Anterior and posterior leaflet as the correct response. *(Practice review slide 21.)*",
+      "explanationImage": null,
+      "tags": [
+        "Image Optimization",
+        "Parasternal Window",
+        "Echocardiography Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch02-q083",
+      "stem": "During quality review of an adult echo study, the following point is discussed.  Which of the following views does NOT show the pulmonic valve?",
+      "image": null,
+      "options": [
+        "RVOT",
+        "PSSAX at the level of the aortic valve",
+        "PSLAX",
+        "All of the above"
+      ],
+      "answer": 2,
+      "explanation": "The standard parasternal long-axis (of the LV) does not include the pulmonic valve — you see the LV, LA, aortic root, and mitral valve. *(Practice review slide 23.)*",
+      "explanationImage": null,
+      "tags": [
+        "Image Optimization",
+        "Parasternal Window",
+        "Echocardiography Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch02-q084",
+      "stem": "During quality review of an adult echo study, the following point is discussed.  Where should the indicator be pointing in the PSSAX window?",
+      "image": null,
+      "options": [
+        "Toward the patient’s left shoulder (90 degrees clockwise from PLAX view)",
+        "At 4 o’clock",
+        "At 12 o’clock",
+        "Toward the patient’s right shoulder"
+      ],
+      "answer": 0,
+      "explanation": "In the parasternal short-axis, the orientation marker points toward the patient’s left shoulder. *(Practice review slide 25.)*",
+      "explanationImage": null,
+      "tags": [
+        "Image Optimization",
+        "Parasternal Window",
+        "Echocardiography Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch02-q085",
+      "stem": "During quality review of an adult echo study, the following point is discussed.  Using Figure 1, which cusp is the Non-coronary cusp?",
+      "image": null,
+      "options": [
+        "Cusp 3",
+        "Cusp 2",
+        "Cusp 1"
+      ],
+      "answer": 0,
+      "explanation": "The non-coronary cusp (NCC) sits posteromedially, adjacent to the interatrial septum — cusp 3 in the figure. *(Practice review slide 27.)*",
+      "explanationImage": null,
+      "tags": [
+        "Image Optimization",
+        "Parasternal Window",
+        "Echocardiography Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch02-q086",
+      "stem": "During quality review of an adult echo study, the following point is discussed.  Using Figure 1, which cusp is the Right coronary cusp?",
+      "image": null,
+      "options": [
+        "Cusp 1",
+        "Cusp 3",
+        "Cusp 2"
+      ],
+      "answer": 0,
+      "explanation": "The right coronary cusp (RCC) is the most anterior cusp, nearest the RVOT and the transducer — cusp 1 in the figure. *(Practice review slide 29.)*",
+      "explanationImage": null,
+      "tags": [
+        "Image Optimization",
+        "Parasternal Window",
+        "Echocardiography Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch02-q087",
+      "stem": "During quality review of an adult echo study, the following point is discussed.  Using Figure 1, which cusp is the Left coronary cusp?",
+      "image": null,
+      "options": [
+        "Cusp 1",
+        "Cusp 2",
+        "Cusp 3"
+      ],
+      "answer": 1,
+      "explanation": "The left coronary cusp (LCC) lies posterolaterally, toward the left atrial appendage and pulmonary artery — cusp 2 in the figure. *(Practice review slide 31.)*",
+      "explanationImage": null,
+      "tags": [
+        "Image Optimization",
+        "Parasternal Window",
+        "Echocardiography Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch02-q088",
+      "stem": "During quality review of an adult echo study, the following point is discussed.  Which of the following is NOT one of the 4 standard views acquired in the PSSAX window?",
+      "image": null,
+      "options": [
+        "Apex",
+        "Pulmonic valve",
+        "Papillary muscle",
+        "Aortic valve"
+      ],
+      "answer": 1,
+      "explanation": "The four standard short-axis levels are the aortic valve, mitral valve, papillary muscle, and apex — the pulmonic valve is not one of them. *(Practice review slide 33.)*",
+      "explanationImage": null,
+      "tags": [
+        "Image Optimization",
+        "Parasternal Window",
+        "Echocardiography Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch02-q089",
+      "stem": "During quality review of an adult echo study, the following point is discussed.  From the parasternal long-axis view, how do you maneuver the transducer to acquire the RVOT?",
+      "image": null,
+      "options": [
+        "Tilt anteriorly and apply slight clockwise rotation (towards patient’s left shoulder)",
+        "Angle toward the patient’s left hip",
+        "Angle toward the patient’s right hip",
+        "Rotate the probe until the indicator points to the left shoulder"
+      ],
+      "answer": 0,
+      "explanation": "From PLAX, tilt the transducer superiorly toward the patient’s left shoulder to open the RV outflow tract and pulmonic valve. *(Practice review slide 35.)*",
+      "explanationImage": null,
+      "tags": [
+        "Image Optimization",
+        "Parasternal Window",
+        "Echocardiography Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch02-q090",
+      "stem": "During quality review of an adult echo study, the following point is discussed.  From the parasternal long-axis view, how do you maneuver the transducer to acquire the RVIT?",
+      "image": null,
+      "options": [
+        "Angle toward the patient’s left shoulder",
+        "Rotate the probe until the indicator points to the left shoulder",
+        "Angle toward the patient’s left hip",
+        "Tilt toward the patient’s right hip"
+      ],
+      "answer": 3,
+      "explanation": "From PLAX, tilt inferomedially toward the patient’s right hip to bring up the RV inflow view and the tricuspid valve. *(Practice review slide 37.)*",
+      "explanationImage": null,
+      "tags": [
+        "Image Optimization",
+        "Parasternal Window",
+        "Echocardiography Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch02-q091",
+      "stem": "An adult cardiac sonography student is interpreting a teaching case.  Heart relation to thoracic cavity. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "Positioned anterior to the lungs",
+        "Positioned on the left side of the chest cavity",
+        "Positioned within the thoracic cavity beneath the sternum",
+        "Positioned on the right side of the chest cavity"
+      ],
+      "answer": 2,
+      "explanation": "Of the options, this best captures the heart’s retrosternal, mediastinal location — it sits in the mediastinum directly behind (beneath) the body of the sternum. *(Practice review slide 3.)*",
+      "explanationImage": null,
+      "tags": [
+        "Image Optimization",
+        "Parasternal Window",
+        "Echocardiography Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch02-q092",
+      "stem": "An adult cardiac sonography student is interpreting a teaching case.  How is the long axis in relation to the heart?",
+      "image": null,
+      "options": [
+        "Perpendicular to the short-axis plane, slicing through the left ventricle and atrium",
+        "Aligned with the line connecting the LV apex and the centre of the aortic valve",
+        "Creates cross-sectional segments of the ventricles",
+        "Perpendicular to the short-axis plane, slicing through both ventricles and atria from base to apex"
+      ],
+      "answer": 1,
+      "explanation": "The long-axis plane runs along the line joining the LV apex and the centre of the aortic valve, transecting the LV lengthwise. *(Practice review slide 5.)*",
+      "explanationImage": null,
+      "tags": [
+        "Image Optimization",
+        "Parasternal Window",
+        "Echocardiography Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch02-q093",
+      "stem": "An adult cardiac sonography student is interpreting a teaching case.  How is the 4-Chamber in relation to the heart?",
+      "image": null,
+      "options": [
+        "Aligned with the line connecting the LV apex and the centre of the aortic valve",
+        "Perpendicular to the short-axis plane, slicing through both ventricles and atria from base to apex",
+        "Perpendicular to the short-axis plane, slicing through the left ventricle and atrium",
+        "Creates cross-sectional segments of the ventricles"
+      ],
+      "answer": 1,
+      "explanation": "The 4-chamber plane is perpendicular to the short axis and cuts through both ventricles and both atria from base to apex. *(Practice review slide 7.)*",
+      "explanationImage": null,
+      "tags": [
+        "Image Optimization",
+        "Parasternal Window",
+        "Echocardiography Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch02-q094",
+      "stem": "An adult cardiac sonography student is interpreting a teaching case.  How is the 2-Chamber in relation to the heart?",
+      "image": null,
+      "options": [
+        "Aligned with the line connecting the LV apex and the centre of the aortic valve",
+        "Perpendicular to the short-axis plane, slicing through the left ventricle and atrium",
+        "Perpendicular to the short-axis plane, slicing through both ventricles and atria from base to apex",
+        "Creates cross-sectional segments of the ventricles"
+      ],
+      "answer": 1,
+      "explanation": "The 2-chamber plane is perpendicular to the short axis but passes through only the left-sided chambers — the LV and LA. *(Practice review slide 9.)*",
+      "explanationImage": null,
+      "tags": [
+        "Image Optimization",
+        "Parasternal Window",
+        "Echocardiography Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch02-q095",
+      "stem": "An adult cardiac sonography student is interpreting a teaching case.  How do you optimize your image by bringing the anatomy of interest centred in the field of view?",
+      "image": null,
+      "options": [
+        "Rotation counterclockwise or clockwise",
+        "Rock  your transducer from side to side",
+        "Slide your transducer from side to side",
+        "Angle inferiorly or anteriorly"
+      ],
+      "answer": 1,
+      "explanation": "The course review identifies Rock  your transducer from side to side as the correct response. *(Practice review slide 11.)*",
+      "explanationImage": null,
+      "tags": [
+        "Image Optimization",
+        "Parasternal Window",
+        "Echocardiography Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch02-q096",
+      "stem": "An adult cardiac sonography student is interpreting a teaching case.  Which of the following are tools to use when optimizing your image?",
+      "image": null,
+      "options": [
+        "Adjusting patient position",
+        "Breathing techniques",
+        "Contrast imaging",
+        "All of the above"
+      ],
+      "answer": 3,
+      "explanation": "Patient positioning, breathing maneuvers (e.g., held expiration), and contrast all improve image quality — so all three apply. *(Practice review slide 13.)*",
+      "explanationImage": null,
+      "tags": [
+        "Image Optimization",
+        "Parasternal Window",
+        "Echocardiography Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch02-q097",
+      "stem": "An adult cardiac sonography student is interpreting a teaching case.  What is the patient position for the parasternal window?",
+      "image": null,
+      "options": [
+        "Supine, neck extended",
+        "Right lateral decubitus with the right arm raised under the head",
+        "Left lateral decubitus with the left arm raised under the head",
+        "Supine, knees bent"
+      ],
+      "answer": 2,
+      "explanation": "Left lateral decubitus with the left arm raised brings the heart toward the chest wall, displaces lung, and widens the intercostal spaces. *(Practice review slide 15.)*",
+      "explanationImage": null,
+      "tags": [
+        "Image Optimization",
+        "Parasternal Window",
+        "Echocardiography Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch02-q098",
+      "stem": "An adult cardiac sonography student is interpreting a teaching case.  What intercostal space is utilized for placement of the transducer in the parasternal window?",
+      "image": null,
+      "options": [
+        "3rd – 4th intercostal space",
+        "1st – 3rd intercostal space",
+        "3rd – 5th intercostal space",
+        "2nd – 3rd intercostal space"
+      ],
+      "answer": 0,
+      "explanation": "The parasternal transducer is placed in the left 3rd–4th intercostal space, immediately adjacent to the sternum. *(Practice review slide 17.)*",
+      "explanationImage": null,
+      "tags": [
+        "Image Optimization",
+        "Parasternal Window",
+        "Echocardiography Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch02-q099",
+      "stem": "An adult cardiac sonography student is interpreting a teaching case.  Which of the following is NOT a standard view seen in the parasternal window?",
+      "image": null,
+      "options": [
+        "RVIT",
+        "RVOT",
+        "PSLAX",
+        "5 Chamber"
+      ],
+      "answer": 3,
+      "explanation": "The 5-chamber is an apical-window view, not a parasternal one, so it is the odd one out. *(Practice review slide 19.)*",
+      "explanationImage": null,
+      "tags": [
+        "Image Optimization",
+        "Parasternal Window",
+        "Echocardiography Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch02-q100",
+      "stem": "An adult cardiac sonography student is interpreting a teaching case.  What leaflet/s of the mitral valve are you seeing in the parasternal long-axis view?",
+      "image": null,
+      "options": [
+        "Anterior and septal leaflet",
+        "Posterior  leaflet only",
+        "Posterior and septal leaflet",
+        "Anterior and posterior leaflet"
+      ],
+      "answer": 3,
+      "explanation": "The course review identifies Anterior and posterior leaflet as the correct response. *(Practice review slide 21.)*",
+      "explanationImage": null,
+      "tags": [
+        "Image Optimization",
+        "Parasternal Window",
+        "Echocardiography Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch02-q101",
+      "stem": "An adult cardiac sonography student is interpreting a teaching case.  Which of the following views does NOT show the pulmonic valve?",
+      "image": null,
+      "options": [
+        "RVOT",
+        "PSSAX at the level of the aortic valve",
+        "PSLAX",
+        "All of the above"
+      ],
+      "answer": 2,
+      "explanation": "The standard parasternal long-axis (of the LV) does not include the pulmonic valve — you see the LV, LA, aortic root, and mitral valve. *(Practice review slide 23.)*",
+      "explanationImage": null,
+      "tags": [
+        "Image Optimization",
+        "Parasternal Window",
+        "Echocardiography Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch02-q102",
+      "stem": "An adult cardiac sonography student is interpreting a teaching case.  Where should the indicator be pointing in the PSSAX window?",
+      "image": null,
+      "options": [
+        "At 12 o’clock",
+        "Toward the patient’s left shoulder (90 degrees clockwise from PLAX view)",
+        "At 4 o’clock",
+        "Toward the patient’s right shoulder"
+      ],
+      "answer": 1,
+      "explanation": "In the parasternal short-axis, the orientation marker points toward the patient’s left shoulder. *(Practice review slide 25.)*",
+      "explanationImage": null,
+      "tags": [
+        "Image Optimization",
+        "Parasternal Window",
+        "Echocardiography Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch02-q103",
+      "stem": "An adult cardiac sonography student is interpreting a teaching case.  Using Figure 1, which cusp is the Non-coronary cusp?",
+      "image": null,
+      "options": [
+        "Cusp 1",
+        "Cusp 3",
+        "Cusp 2"
+      ],
+      "answer": 1,
+      "explanation": "The non-coronary cusp (NCC) sits posteromedially, adjacent to the interatrial septum — cusp 3 in the figure. *(Practice review slide 27.)*",
+      "explanationImage": null,
+      "tags": [
+        "Image Optimization",
+        "Parasternal Window",
+        "Echocardiography Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch02-q104",
+      "stem": "An adult cardiac sonography student is interpreting a teaching case.  Using Figure 1, which cusp is the Right coronary cusp?",
+      "image": null,
+      "options": [
+        "Cusp 3",
+        "Cusp 2",
+        "Cusp 1"
+      ],
+      "answer": 2,
+      "explanation": "The right coronary cusp (RCC) is the most anterior cusp, nearest the RVOT and the transducer — cusp 1 in the figure. *(Practice review slide 29.)*",
+      "explanationImage": null,
+      "tags": [
+        "Image Optimization",
+        "Parasternal Window",
+        "Echocardiography Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch02-q105",
+      "stem": "An adult cardiac sonography student is interpreting a teaching case.  Using Figure 1, which cusp is the Left coronary cusp?",
+      "image": null,
+      "options": [
+        "Cusp 3",
+        "Cusp 2",
+        "Cusp 1"
+      ],
+      "answer": 1,
+      "explanation": "The left coronary cusp (LCC) lies posterolaterally, toward the left atrial appendage and pulmonary artery — cusp 2 in the figure. *(Practice review slide 31.)*",
+      "explanationImage": null,
+      "tags": [
+        "Image Optimization",
+        "Parasternal Window",
+        "Echocardiography Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch02-q106",
+      "stem": "An adult cardiac sonography student is interpreting a teaching case.  Which of the following is NOT one of the 4 standard views acquired in the PSSAX window?",
+      "image": null,
+      "options": [
+        "Papillary muscle",
+        "Pulmonic valve",
+        "Aortic valve",
+        "Apex"
+      ],
+      "answer": 1,
+      "explanation": "The four standard short-axis levels are the aortic valve, mitral valve, papillary muscle, and apex — the pulmonic valve is not one of them. *(Practice review slide 33.)*",
+      "explanationImage": null,
+      "tags": [
+        "Image Optimization",
+        "Parasternal Window",
+        "Echocardiography Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch02-q107",
+      "stem": "An adult cardiac sonography student is interpreting a teaching case.  From the parasternal long-axis view, how do you maneuver the transducer to acquire the RVOT?",
+      "image": null,
+      "options": [
+        "Tilt anteriorly and apply slight clockwise rotation (towards patient’s left shoulder)",
+        "Angle toward the patient’s right hip",
+        "Rotate the probe until the indicator points to the left shoulder",
+        "Angle toward the patient’s left hip"
+      ],
+      "answer": 0,
+      "explanation": "From PLAX, tilt the transducer superiorly toward the patient’s left shoulder to open the RV outflow tract and pulmonic valve. *(Practice review slide 35.)*",
+      "explanationImage": null,
+      "tags": [
+        "Image Optimization",
+        "Parasternal Window",
+        "Echocardiography Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch02-q108",
+      "stem": "An adult cardiac sonography student is interpreting a teaching case.  From the parasternal long-axis view, how do you maneuver the transducer to acquire the RVIT?",
+      "image": null,
+      "options": [
+        "Angle toward the patient’s left hip",
+        "Tilt toward the patient’s right hip",
+        "Angle toward the patient’s left shoulder",
+        "Rotate the probe until the indicator points to the left shoulder"
+      ],
+      "answer": 1,
+      "explanation": "From PLAX, tilt inferomedially toward the patient’s right hip to bring up the RV inflow view and the tricuspid valve. *(Practice review slide 37.)*",
+      "explanationImage": null,
+      "tags": [
+        "Image Optimization",
+        "Parasternal Window",
+        "Echocardiography Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch02-q109",
+      "stem": "Before image acquisition, a sonographer checks their understanding of the following.  Heart relation to thoracic cavity. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "Positioned within the thoracic cavity beneath the sternum",
+        "Positioned on the left side of the chest cavity",
+        "Positioned anterior to the lungs",
+        "Positioned on the right side of the chest cavity"
+      ],
+      "answer": 0,
+      "explanation": "Of the options, this best captures the heart’s retrosternal, mediastinal location — it sits in the mediastinum directly behind (beneath) the body of the sternum. *(Practice review slide 3.)*",
+      "explanationImage": null,
+      "tags": [
+        "Image Optimization",
+        "Parasternal Window",
+        "Echocardiography Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch02-q110",
+      "stem": "Before image acquisition, a sonographer checks their understanding of the following.  How is the long axis in relation to the heart?",
+      "image": null,
+      "options": [
+        "Aligned with the line connecting the LV apex and the centre of the aortic valve",
+        "Perpendicular to the short-axis plane, slicing through the left ventricle and atrium",
+        "Creates cross-sectional segments of the ventricles",
+        "Perpendicular to the short-axis plane, slicing through both ventricles and atria from base to apex"
+      ],
+      "answer": 0,
+      "explanation": "The long-axis plane runs along the line joining the LV apex and the centre of the aortic valve, transecting the LV lengthwise. *(Practice review slide 5.)*",
+      "explanationImage": null,
+      "tags": [
+        "Image Optimization",
+        "Parasternal Window",
+        "Echocardiography Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch02-q111",
+      "stem": "Before image acquisition, a sonographer checks their understanding of the following.  How is the 4-Chamber in relation to the heart?",
+      "image": null,
+      "options": [
+        "Creates cross-sectional segments of the ventricles",
+        "Perpendicular to the short-axis plane, slicing through the left ventricle and atrium",
+        "Aligned with the line connecting the LV apex and the centre of the aortic valve",
+        "Perpendicular to the short-axis plane, slicing through both ventricles and atria from base to apex"
+      ],
+      "answer": 3,
+      "explanation": "The 4-chamber plane is perpendicular to the short axis and cuts through both ventricles and both atria from base to apex. *(Practice review slide 7.)*",
+      "explanationImage": null,
+      "tags": [
+        "Image Optimization",
+        "Parasternal Window",
+        "Echocardiography Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch02-q112",
+      "stem": "Before image acquisition, a sonographer checks their understanding of the following.  How is the 2-Chamber in relation to the heart?",
+      "image": null,
+      "options": [
+        "Aligned with the line connecting the LV apex and the centre of the aortic valve",
+        "Perpendicular to the short-axis plane, slicing through both ventricles and atria from base to apex",
+        "Creates cross-sectional segments of the ventricles",
+        "Perpendicular to the short-axis plane, slicing through the left ventricle and atrium"
+      ],
+      "answer": 3,
+      "explanation": "The 2-chamber plane is perpendicular to the short axis but passes through only the left-sided chambers — the LV and LA. *(Practice review slide 9.)*",
+      "explanationImage": null,
+      "tags": [
+        "Image Optimization",
+        "Parasternal Window",
+        "Echocardiography Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch02-q113",
+      "stem": "Before image acquisition, a sonographer checks their understanding of the following.  How do you optimize your image by bringing the anatomy of interest centred in the field of view?",
+      "image": null,
+      "options": [
+        "Slide your transducer from side to side",
+        "Rotation counterclockwise or clockwise",
+        "Rock  your transducer from side to side",
+        "Angle inferiorly or anteriorly"
+      ],
+      "answer": 2,
+      "explanation": "The course review identifies Rock  your transducer from side to side as the correct response. *(Practice review slide 11.)*",
+      "explanationImage": null,
+      "tags": [
+        "Image Optimization",
+        "Parasternal Window",
+        "Echocardiography Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch02-q114",
+      "stem": "Before image acquisition, a sonographer checks their understanding of the following.  Which of the following are tools to use when optimizing your image?",
+      "image": null,
+      "options": [
+        "Adjusting patient position",
+        "Breathing techniques",
+        "Contrast imaging",
+        "All of the above"
+      ],
+      "answer": 3,
+      "explanation": "Patient positioning, breathing maneuvers (e.g., held expiration), and contrast all improve image quality — so all three apply. *(Practice review slide 13.)*",
+      "explanationImage": null,
+      "tags": [
+        "Image Optimization",
+        "Parasternal Window",
+        "Echocardiography Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch02-q115",
+      "stem": "Before image acquisition, a sonographer checks their understanding of the following.  What is the patient position for the parasternal window?",
+      "image": null,
+      "options": [
+        "Left lateral decubitus with the left arm raised under the head",
+        "Right lateral decubitus with the right arm raised under the head",
+        "Supine, neck extended",
+        "Supine, knees bent"
+      ],
+      "answer": 0,
+      "explanation": "Left lateral decubitus with the left arm raised brings the heart toward the chest wall, displaces lung, and widens the intercostal spaces. *(Practice review slide 15.)*",
+      "explanationImage": null,
+      "tags": [
+        "Image Optimization",
+        "Parasternal Window",
+        "Echocardiography Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch02-q116",
+      "stem": "Before image acquisition, a sonographer checks their understanding of the following.  What intercostal space is utilized for placement of the transducer in the parasternal window?",
+      "image": null,
+      "options": [
+        "3rd – 4th intercostal space",
+        "2nd – 3rd intercostal space",
+        "1st – 3rd intercostal space",
+        "3rd – 5th intercostal space"
+      ],
+      "answer": 0,
+      "explanation": "The parasternal transducer is placed in the left 3rd–4th intercostal space, immediately adjacent to the sternum. *(Practice review slide 17.)*",
+      "explanationImage": null,
+      "tags": [
+        "Image Optimization",
+        "Parasternal Window",
+        "Echocardiography Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch02-q117",
+      "stem": "Before image acquisition, a sonographer checks their understanding of the following.  Which of the following is NOT a standard view seen in the parasternal window?",
+      "image": null,
+      "options": [
+        "5 Chamber",
+        "RVOT",
+        "RVIT",
+        "PSLAX"
+      ],
+      "answer": 0,
+      "explanation": "The 5-chamber is an apical-window view, not a parasternal one, so it is the odd one out. *(Practice review slide 19.)*",
+      "explanationImage": null,
+      "tags": [
+        "Image Optimization",
+        "Parasternal Window",
+        "Echocardiography Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch02-q118",
+      "stem": "Before image acquisition, a sonographer checks their understanding of the following.  What leaflet/s of the mitral valve are you seeing in the parasternal long-axis view?",
+      "image": null,
+      "options": [
+        "Posterior and septal leaflet",
+        "Anterior and septal leaflet",
+        "Anterior and posterior leaflet",
+        "Posterior  leaflet only"
+      ],
+      "answer": 2,
+      "explanation": "The course review identifies Anterior and posterior leaflet as the correct response. *(Practice review slide 21.)*",
+      "explanationImage": null,
+      "tags": [
+        "Image Optimization",
+        "Parasternal Window",
+        "Echocardiography Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch02-q119",
+      "stem": "Before image acquisition, a sonographer checks their understanding of the following.  Which of the following views does NOT show the pulmonic valve?",
+      "image": null,
+      "options": [
+        "RVOT",
+        "PSSAX at the level of the aortic valve",
+        "PSLAX",
+        "All of the above"
+      ],
+      "answer": 2,
+      "explanation": "The standard parasternal long-axis (of the LV) does not include the pulmonic valve — you see the LV, LA, aortic root, and mitral valve. *(Practice review slide 23.)*",
+      "explanationImage": null,
+      "tags": [
+        "Image Optimization",
+        "Parasternal Window",
+        "Echocardiography Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch02-q120",
+      "stem": "Before image acquisition, a sonographer checks their understanding of the following.  Where should the indicator be pointing in the PSSAX window?",
+      "image": null,
+      "options": [
+        "At 4 o’clock",
+        "Toward the patient’s left shoulder (90 degrees clockwise from PLAX view)",
+        "At 12 o’clock",
+        "Toward the patient’s right shoulder"
+      ],
+      "answer": 1,
+      "explanation": "In the parasternal short-axis, the orientation marker points toward the patient’s left shoulder. *(Practice review slide 25.)*",
+      "explanationImage": null,
+      "tags": [
+        "Image Optimization",
+        "Parasternal Window",
+        "Echocardiography Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch02-q121",
+      "stem": "Before image acquisition, a sonographer checks their understanding of the following.  Using Figure 1, which cusp is the Non-coronary cusp?",
+      "image": null,
+      "options": [
+        "Cusp 2",
+        "Cusp 3",
+        "Cusp 1"
+      ],
+      "answer": 1,
+      "explanation": "The non-coronary cusp (NCC) sits posteromedially, adjacent to the interatrial septum — cusp 3 in the figure. *(Practice review slide 27.)*",
+      "explanationImage": null,
+      "tags": [
+        "Image Optimization",
+        "Parasternal Window",
+        "Echocardiography Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch02-q122",
+      "stem": "Before image acquisition, a sonographer checks their understanding of the following.  Using Figure 1, which cusp is the Right coronary cusp?",
+      "image": null,
+      "options": [
+        "Cusp 2",
+        "Cusp 1",
+        "Cusp 3"
+      ],
+      "answer": 1,
+      "explanation": "The right coronary cusp (RCC) is the most anterior cusp, nearest the RVOT and the transducer — cusp 1 in the figure. *(Practice review slide 29.)*",
+      "explanationImage": null,
+      "tags": [
+        "Image Optimization",
+        "Parasternal Window",
+        "Echocardiography Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch02-q123",
+      "stem": "Before image acquisition, a sonographer checks their understanding of the following.  Using Figure 1, which cusp is the Left coronary cusp?",
+      "image": null,
+      "options": [
+        "Cusp 1",
+        "Cusp 3",
+        "Cusp 2"
+      ],
+      "answer": 2,
+      "explanation": "The left coronary cusp (LCC) lies posterolaterally, toward the left atrial appendage and pulmonary artery — cusp 2 in the figure. *(Practice review slide 31.)*",
+      "explanationImage": null,
+      "tags": [
+        "Image Optimization",
+        "Parasternal Window",
+        "Echocardiography Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch02-q124",
+      "stem": "Before image acquisition, a sonographer checks their understanding of the following.  Which of the following is NOT one of the 4 standard views acquired in the PSSAX window?",
+      "image": null,
+      "options": [
+        "Papillary muscle",
+        "Aortic valve",
+        "Pulmonic valve",
+        "Apex"
+      ],
+      "answer": 2,
+      "explanation": "The four standard short-axis levels are the aortic valve, mitral valve, papillary muscle, and apex — the pulmonic valve is not one of them. *(Practice review slide 33.)*",
+      "explanationImage": null,
+      "tags": [
+        "Image Optimization",
+        "Parasternal Window",
+        "Echocardiography Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch02-q125",
+      "stem": "Before image acquisition, a sonographer checks their understanding of the following.  From the parasternal long-axis view, how do you maneuver the transducer to acquire the RVOT?",
+      "image": null,
+      "options": [
+        "Angle toward the patient’s right hip",
+        "Rotate the probe until the indicator points to the left shoulder",
+        "Angle toward the patient’s left hip",
+        "Tilt anteriorly and apply slight clockwise rotation (towards patient’s left shoulder)"
+      ],
+      "answer": 3,
+      "explanation": "From PLAX, tilt the transducer superiorly toward the patient’s left shoulder to open the RV outflow tract and pulmonic valve. *(Practice review slide 35.)*",
+      "explanationImage": null,
+      "tags": [
+        "Image Optimization",
+        "Parasternal Window",
+        "Echocardiography Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch02-q126",
+      "stem": "Before image acquisition, a sonographer checks their understanding of the following.  From the parasternal long-axis view, how do you maneuver the transducer to acquire the RVIT?",
+      "image": null,
+      "options": [
+        "Rotate the probe until the indicator points to the left shoulder",
+        "Angle toward the patient’s left hip",
+        "Angle toward the patient’s left shoulder",
+        "Tilt toward the patient’s right hip"
+      ],
+      "answer": 3,
+      "explanation": "From PLAX, tilt inferomedially toward the patient’s right hip to bring up the RV inflow view and the tricuspid valve. *(Practice review slide 37.)*",
+      "explanationImage": null,
+      "tags": [
+        "Image Optimization",
+        "Parasternal Window",
+        "Echocardiography Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch02-q127",
+      "stem": "In a laboratory teaching session, the instructor asks:  Heart relation to thoracic cavity. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "Positioned within the thoracic cavity beneath the sternum",
+        "Positioned on the left side of the chest cavity",
+        "Positioned anterior to the lungs",
+        "Positioned on the right side of the chest cavity"
+      ],
+      "answer": 0,
+      "explanation": "Of the options, this best captures the heart’s retrosternal, mediastinal location — it sits in the mediastinum directly behind (beneath) the body of the sternum. *(Practice review slide 3.)*",
+      "explanationImage": null,
+      "tags": [
+        "Image Optimization",
+        "Parasternal Window",
+        "Echocardiography Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch02-q128",
+      "stem": "In a laboratory teaching session, the instructor asks:  How is the long axis in relation to the heart?",
+      "image": null,
+      "options": [
+        "Perpendicular to the short-axis plane, slicing through the left ventricle and atrium",
+        "Aligned with the line connecting the LV apex and the centre of the aortic valve",
+        "Creates cross-sectional segments of the ventricles",
+        "Perpendicular to the short-axis plane, slicing through both ventricles and atria from base to apex"
+      ],
+      "answer": 1,
+      "explanation": "The long-axis plane runs along the line joining the LV apex and the centre of the aortic valve, transecting the LV lengthwise. *(Practice review slide 5.)*",
+      "explanationImage": null,
+      "tags": [
+        "Image Optimization",
+        "Parasternal Window",
+        "Echocardiography Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch02-q129",
+      "stem": "In a laboratory teaching session, the instructor asks:  How is the 4-Chamber in relation to the heart?",
+      "image": null,
+      "options": [
+        "Perpendicular to the short-axis plane, slicing through both ventricles and atria from base to apex",
+        "Aligned with the line connecting the LV apex and the centre of the aortic valve",
+        "Perpendicular to the short-axis plane, slicing through the left ventricle and atrium",
+        "Creates cross-sectional segments of the ventricles"
+      ],
+      "answer": 0,
+      "explanation": "The 4-chamber plane is perpendicular to the short axis and cuts through both ventricles and both atria from base to apex. *(Practice review slide 7.)*",
+      "explanationImage": null,
+      "tags": [
+        "Image Optimization",
+        "Parasternal Window",
+        "Echocardiography Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch02-q130",
+      "stem": "In a laboratory teaching session, the instructor asks:  How is the 2-Chamber in relation to the heart?",
+      "image": null,
+      "options": [
+        "Aligned with the line connecting the LV apex and the centre of the aortic valve",
+        "Perpendicular to the short-axis plane, slicing through the left ventricle and atrium",
+        "Perpendicular to the short-axis plane, slicing through both ventricles and atria from base to apex",
+        "Creates cross-sectional segments of the ventricles"
+      ],
+      "answer": 1,
+      "explanation": "The 2-chamber plane is perpendicular to the short axis but passes through only the left-sided chambers — the LV and LA. *(Practice review slide 9.)*",
+      "explanationImage": null,
+      "tags": [
+        "Image Optimization",
+        "Parasternal Window",
+        "Echocardiography Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch02-q131",
+      "stem": "In a laboratory teaching session, the instructor asks:  How do you optimize your image by bringing the anatomy of interest centred in the field of view?",
+      "image": null,
+      "options": [
+        "Slide your transducer from side to side",
+        "Rotation counterclockwise or clockwise",
+        "Angle inferiorly or anteriorly",
+        "Rock  your transducer from side to side"
+      ],
+      "answer": 3,
+      "explanation": "The course review identifies Rock  your transducer from side to side as the correct response. *(Practice review slide 11.)*",
+      "explanationImage": null,
+      "tags": [
+        "Image Optimization",
+        "Parasternal Window",
+        "Echocardiography Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch02-q132",
+      "stem": "In a laboratory teaching session, the instructor asks:  Which of the following are tools to use when optimizing your image?",
+      "image": null,
+      "options": [
+        "Adjusting patient position",
+        "Breathing techniques",
+        "Contrast imaging",
+        "All of the above"
+      ],
+      "answer": 3,
+      "explanation": "Patient positioning, breathing maneuvers (e.g., held expiration), and contrast all improve image quality — so all three apply. *(Practice review slide 13.)*",
+      "explanationImage": null,
+      "tags": [
+        "Image Optimization",
+        "Parasternal Window",
+        "Echocardiography Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch02-q133",
+      "stem": "In a laboratory teaching session, the instructor asks:  What is the patient position for the parasternal window?",
+      "image": null,
+      "options": [
+        "Left lateral decubitus with the left arm raised under the head",
+        "Supine, knees bent",
+        "Right lateral decubitus with the right arm raised under the head",
+        "Supine, neck extended"
+      ],
+      "answer": 0,
+      "explanation": "Left lateral decubitus with the left arm raised brings the heart toward the chest wall, displaces lung, and widens the intercostal spaces. *(Practice review slide 15.)*",
+      "explanationImage": null,
+      "tags": [
+        "Image Optimization",
+        "Parasternal Window",
+        "Echocardiography Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch02-q134",
+      "stem": "In a laboratory teaching session, the instructor asks:  What intercostal space is utilized for placement of the transducer in the parasternal window?",
+      "image": null,
+      "options": [
+        "1st – 3rd intercostal space",
+        "3rd – 5th intercostal space",
+        "2nd – 3rd intercostal space",
+        "3rd – 4th intercostal space"
+      ],
+      "answer": 3,
+      "explanation": "The parasternal transducer is placed in the left 3rd–4th intercostal space, immediately adjacent to the sternum. *(Practice review slide 17.)*",
+      "explanationImage": null,
+      "tags": [
+        "Image Optimization",
+        "Parasternal Window",
+        "Echocardiography Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch02-q135",
+      "stem": "In a laboratory teaching session, the instructor asks:  Which of the following is NOT a standard view seen in the parasternal window?",
+      "image": null,
+      "options": [
+        "RVOT",
+        "5 Chamber",
+        "RVIT",
+        "PSLAX"
+      ],
+      "answer": 1,
+      "explanation": "The 5-chamber is an apical-window view, not a parasternal one, so it is the odd one out. *(Practice review slide 19.)*",
+      "explanationImage": null,
+      "tags": [
+        "Image Optimization",
+        "Parasternal Window",
+        "Echocardiography Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch02-q136",
+      "stem": "In a laboratory teaching session, the instructor asks:  What leaflet/s of the mitral valve are you seeing in the parasternal long-axis view?",
+      "image": null,
+      "options": [
+        "Anterior and septal leaflet",
+        "Posterior and septal leaflet",
+        "Posterior  leaflet only",
+        "Anterior and posterior leaflet"
+      ],
+      "answer": 3,
+      "explanation": "The course review identifies Anterior and posterior leaflet as the correct response. *(Practice review slide 21.)*",
+      "explanationImage": null,
+      "tags": [
+        "Image Optimization",
+        "Parasternal Window",
+        "Echocardiography Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch02-q137",
+      "stem": "In a laboratory teaching session, the instructor asks:  Which of the following views does NOT show the pulmonic valve?",
+      "image": null,
+      "options": [
+        "RVOT",
+        "PSSAX at the level of the aortic valve",
+        "PSLAX",
+        "All of the above"
+      ],
+      "answer": 2,
+      "explanation": "The standard parasternal long-axis (of the LV) does not include the pulmonic valve — you see the LV, LA, aortic root, and mitral valve. *(Practice review slide 23.)*",
+      "explanationImage": null,
+      "tags": [
+        "Image Optimization",
+        "Parasternal Window",
+        "Echocardiography Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch02-q138",
+      "stem": "In a laboratory teaching session, the instructor asks:  Where should the indicator be pointing in the PSSAX window?",
+      "image": null,
+      "options": [
+        "At 4 o’clock",
+        "Toward the patient’s left shoulder (90 degrees clockwise from PLAX view)",
+        "Toward the patient’s right shoulder",
+        "At 12 o’clock"
+      ],
+      "answer": 1,
+      "explanation": "In the parasternal short-axis, the orientation marker points toward the patient’s left shoulder. *(Practice review slide 25.)*",
+      "explanationImage": null,
+      "tags": [
+        "Image Optimization",
+        "Parasternal Window",
+        "Echocardiography Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch02-q139",
+      "stem": "In a laboratory teaching session, the instructor asks:  Using Figure 1, which cusp is the Non-coronary cusp?",
+      "image": null,
+      "options": [
+        "Cusp 2",
+        "Cusp 1",
+        "Cusp 3"
+      ],
+      "answer": 2,
+      "explanation": "The non-coronary cusp (NCC) sits posteromedially, adjacent to the interatrial septum — cusp 3 in the figure. *(Practice review slide 27.)*",
+      "explanationImage": null,
+      "tags": [
+        "Image Optimization",
+        "Parasternal Window",
+        "Echocardiography Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch02-q140",
+      "stem": "In a laboratory teaching session, the instructor asks:  Using Figure 1, which cusp is the Right coronary cusp?",
+      "image": null,
+      "options": [
+        "Cusp 1",
+        "Cusp 3",
+        "Cusp 2"
+      ],
+      "answer": 0,
+      "explanation": "The right coronary cusp (RCC) is the most anterior cusp, nearest the RVOT and the transducer — cusp 1 in the figure. *(Practice review slide 29.)*",
+      "explanationImage": null,
+      "tags": [
+        "Image Optimization",
+        "Parasternal Window",
+        "Echocardiography Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch02-q141",
+      "stem": "In a laboratory teaching session, the instructor asks:  Using Figure 1, which cusp is the Left coronary cusp?",
+      "image": null,
+      "options": [
+        "Cusp 1",
+        "Cusp 2",
+        "Cusp 3"
+      ],
+      "answer": 1,
+      "explanation": "The left coronary cusp (LCC) lies posterolaterally, toward the left atrial appendage and pulmonary artery — cusp 2 in the figure. *(Practice review slide 31.)*",
+      "explanationImage": null,
+      "tags": [
+        "Image Optimization",
+        "Parasternal Window",
+        "Echocardiography Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch02-q142",
+      "stem": "In a laboratory teaching session, the instructor asks:  Which of the following is NOT one of the 4 standard views acquired in the PSSAX window?",
+      "image": null,
+      "options": [
+        "Papillary muscle",
+        "Apex",
+        "Pulmonic valve",
+        "Aortic valve"
+      ],
+      "answer": 2,
+      "explanation": "The four standard short-axis levels are the aortic valve, mitral valve, papillary muscle, and apex — the pulmonic valve is not one of them. *(Practice review slide 33.)*",
+      "explanationImage": null,
+      "tags": [
+        "Image Optimization",
+        "Parasternal Window",
+        "Echocardiography Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch02-q143",
+      "stem": "In a laboratory teaching session, the instructor asks:  From the parasternal long-axis view, how do you maneuver the transducer to acquire the RVOT?",
+      "image": null,
+      "options": [
+        "Angle toward the patient’s left hip",
+        "Angle toward the patient’s right hip",
+        "Tilt anteriorly and apply slight clockwise rotation (towards patient’s left shoulder)",
+        "Rotate the probe until the indicator points to the left shoulder"
+      ],
+      "answer": 2,
+      "explanation": "From PLAX, tilt the transducer superiorly toward the patient’s left shoulder to open the RV outflow tract and pulmonic valve. *(Practice review slide 35.)*",
+      "explanationImage": null,
+      "tags": [
+        "Image Optimization",
+        "Parasternal Window",
+        "Echocardiography Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch02-q144",
+      "stem": "In a laboratory teaching session, the instructor asks:  From the parasternal long-axis view, how do you maneuver the transducer to acquire the RVIT?",
+      "image": null,
+      "options": [
+        "Angle toward the patient’s left shoulder",
+        "Tilt toward the patient’s right hip",
+        "Angle toward the patient’s left hip",
+        "Rotate the probe until the indicator points to the left shoulder"
+      ],
+      "answer": 1,
+      "explanation": "From PLAX, tilt inferomedially toward the patient’s right hip to bring up the RV inflow view and the tricuspid valve. *(Practice review slide 37.)*",
+      "explanationImage": null,
+      "tags": [
+        "Image Optimization",
+        "Parasternal Window",
+        "Echocardiography Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch02-q145",
+      "stem": "During a mock adult echocardiography board examination, consider the following.  Heart relation to thoracic cavity. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "Positioned on the left side of the chest cavity",
+        "Positioned within the thoracic cavity beneath the sternum",
+        "Positioned anterior to the lungs",
+        "Positioned on the right side of the chest cavity"
+      ],
+      "answer": 1,
+      "explanation": "Of the options, this best captures the heart’s retrosternal, mediastinal location — it sits in the mediastinum directly behind (beneath) the body of the sternum. *(Practice review slide 3.)*",
+      "explanationImage": null,
+      "tags": [
+        "Image Optimization",
+        "Parasternal Window",
+        "Echocardiography Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch02-q146",
+      "stem": "During a mock adult echocardiography board examination, consider the following.  How is the long axis in relation to the heart?",
+      "image": null,
+      "options": [
+        "Aligned with the line connecting the LV apex and the centre of the aortic valve",
+        "Perpendicular to the short-axis plane, slicing through the left ventricle and atrium",
+        "Creates cross-sectional segments of the ventricles",
+        "Perpendicular to the short-axis plane, slicing through both ventricles and atria from base to apex"
+      ],
+      "answer": 0,
+      "explanation": "The long-axis plane runs along the line joining the LV apex and the centre of the aortic valve, transecting the LV lengthwise. *(Practice review slide 5.)*",
+      "explanationImage": null,
+      "tags": [
+        "Image Optimization",
+        "Parasternal Window",
+        "Echocardiography Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch02-q147",
+      "stem": "During a mock adult echocardiography board examination, consider the following.  How is the 4-Chamber in relation to the heart?",
+      "image": null,
+      "options": [
+        "Aligned with the line connecting the LV apex and the centre of the aortic valve",
+        "Perpendicular to the short-axis plane, slicing through the left ventricle and atrium",
+        "Perpendicular to the short-axis plane, slicing through both ventricles and atria from base to apex",
+        "Creates cross-sectional segments of the ventricles"
+      ],
+      "answer": 2,
+      "explanation": "The 4-chamber plane is perpendicular to the short axis and cuts through both ventricles and both atria from base to apex. *(Practice review slide 7.)*",
+      "explanationImage": null,
+      "tags": [
+        "Image Optimization",
+        "Parasternal Window",
+        "Echocardiography Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch02-q148",
+      "stem": "During a mock adult echocardiography board examination, consider the following.  How is the 2-Chamber in relation to the heart?",
+      "image": null,
+      "options": [
+        "Aligned with the line connecting the LV apex and the centre of the aortic valve",
+        "Creates cross-sectional segments of the ventricles",
+        "Perpendicular to the short-axis plane, slicing through the left ventricle and atrium",
+        "Perpendicular to the short-axis plane, slicing through both ventricles and atria from base to apex"
+      ],
+      "answer": 2,
+      "explanation": "The 2-chamber plane is perpendicular to the short axis but passes through only the left-sided chambers — the LV and LA. *(Practice review slide 9.)*",
+      "explanationImage": null,
+      "tags": [
+        "Image Optimization",
+        "Parasternal Window",
+        "Echocardiography Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch02-q149",
+      "stem": "During a mock adult echocardiography board examination, consider the following.  How do you optimize your image by bringing the anatomy of interest centred in the field of view?",
+      "image": null,
+      "options": [
+        "Angle inferiorly or anteriorly",
+        "Rock  your transducer from side to side",
+        "Slide your transducer from side to side",
+        "Rotation counterclockwise or clockwise"
+      ],
+      "answer": 1,
+      "explanation": "The course review identifies Rock  your transducer from side to side as the correct response. *(Practice review slide 11.)*",
+      "explanationImage": null,
+      "tags": [
+        "Image Optimization",
+        "Parasternal Window",
+        "Echocardiography Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch02-q150",
+      "stem": "During a mock adult echocardiography board examination, consider the following.  Which of the following are tools to use when optimizing your image?",
+      "image": null,
+      "options": [
+        "Adjusting patient position",
+        "Breathing techniques",
+        "Contrast imaging",
+        "All of the above"
+      ],
+      "answer": 3,
+      "explanation": "Patient positioning, breathing maneuvers (e.g., held expiration), and contrast all improve image quality — so all three apply. *(Practice review slide 13.)*",
+      "explanationImage": null,
+      "tags": [
+        "Image Optimization",
+        "Parasternal Window",
+        "Echocardiography Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch02-q151",
+      "stem": "During a mock adult echocardiography board examination, consider the following.  What is the patient position for the parasternal window?",
+      "image": null,
+      "options": [
+        "Left lateral decubitus with the left arm raised under the head",
+        "Supine, knees bent",
+        "Right lateral decubitus with the right arm raised under the head",
+        "Supine, neck extended"
+      ],
+      "answer": 0,
+      "explanation": "Left lateral decubitus with the left arm raised brings the heart toward the chest wall, displaces lung, and widens the intercostal spaces. *(Practice review slide 15.)*",
+      "explanationImage": null,
+      "tags": [
+        "Image Optimization",
+        "Parasternal Window",
+        "Echocardiography Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch02-q152",
+      "stem": "During a mock adult echocardiography board examination, consider the following.  What intercostal space is utilized for placement of the transducer in the parasternal window?",
+      "image": null,
+      "options": [
+        "3rd – 4th intercostal space",
+        "2nd – 3rd intercostal space",
+        "1st – 3rd intercostal space",
+        "3rd – 5th intercostal space"
+      ],
+      "answer": 0,
+      "explanation": "The parasternal transducer is placed in the left 3rd–4th intercostal space, immediately adjacent to the sternum. *(Practice review slide 17.)*",
+      "explanationImage": null,
+      "tags": [
+        "Image Optimization",
+        "Parasternal Window",
+        "Echocardiography Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch02-q153",
+      "stem": "During a mock adult echocardiography board examination, consider the following.  Which of the following is NOT a standard view seen in the parasternal window?",
+      "image": null,
+      "options": [
+        "5 Chamber",
+        "PSLAX",
+        "RVIT",
+        "RVOT"
+      ],
+      "answer": 0,
+      "explanation": "The 5-chamber is an apical-window view, not a parasternal one, so it is the odd one out. *(Practice review slide 19.)*",
+      "explanationImage": null,
+      "tags": [
+        "Image Optimization",
+        "Parasternal Window",
+        "Echocardiography Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch02-q154",
+      "stem": "During a mock adult echocardiography board examination, consider the following.  What leaflet/s of the mitral valve are you seeing in the parasternal long-axis view?",
+      "image": null,
+      "options": [
+        "Posterior and septal leaflet",
+        "Anterior and posterior leaflet",
+        "Posterior  leaflet only",
+        "Anterior and septal leaflet"
+      ],
+      "answer": 1,
+      "explanation": "The course review identifies Anterior and posterior leaflet as the correct response. *(Practice review slide 21.)*",
+      "explanationImage": null,
+      "tags": [
+        "Image Optimization",
+        "Parasternal Window",
+        "Echocardiography Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch02-q155",
+      "stem": "During a mock adult echocardiography board examination, consider the following.  Which of the following views does NOT show the pulmonic valve?",
+      "image": null,
+      "options": [
+        "RVOT",
+        "PSSAX at the level of the aortic valve",
+        "PSLAX",
+        "All of the above"
+      ],
+      "answer": 2,
+      "explanation": "The standard parasternal long-axis (of the LV) does not include the pulmonic valve — you see the LV, LA, aortic root, and mitral valve. *(Practice review slide 23.)*",
+      "explanationImage": null,
+      "tags": [
+        "Image Optimization",
+        "Parasternal Window",
+        "Echocardiography Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch02-q156",
+      "stem": "During a mock adult echocardiography board examination, consider the following.  Where should the indicator be pointing in the PSSAX window?",
+      "image": null,
+      "options": [
+        "Toward the patient’s right shoulder",
+        "At 4 o’clock",
+        "At 12 o’clock",
+        "Toward the patient’s left shoulder (90 degrees clockwise from PLAX view)"
+      ],
+      "answer": 3,
+      "explanation": "In the parasternal short-axis, the orientation marker points toward the patient’s left shoulder. *(Practice review slide 25.)*",
+      "explanationImage": null,
+      "tags": [
+        "Image Optimization",
+        "Parasternal Window",
+        "Echocardiography Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch02-q157",
+      "stem": "During a mock adult echocardiography board examination, consider the following.  Using Figure 1, which cusp is the Non-coronary cusp?",
+      "image": null,
+      "options": [
+        "Cusp 2",
+        "Cusp 1",
+        "Cusp 3"
+      ],
+      "answer": 2,
+      "explanation": "The non-coronary cusp (NCC) sits posteromedially, adjacent to the interatrial septum — cusp 3 in the figure. *(Practice review slide 27.)*",
+      "explanationImage": null,
+      "tags": [
+        "Image Optimization",
+        "Parasternal Window",
+        "Echocardiography Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch02-q158",
+      "stem": "During a mock adult echocardiography board examination, consider the following.  Using Figure 1, which cusp is the Right coronary cusp?",
+      "image": null,
+      "options": [
+        "Cusp 2",
+        "Cusp 3",
+        "Cusp 1"
+      ],
+      "answer": 2,
+      "explanation": "The right coronary cusp (RCC) is the most anterior cusp, nearest the RVOT and the transducer — cusp 1 in the figure. *(Practice review slide 29.)*",
+      "explanationImage": null,
+      "tags": [
+        "Image Optimization",
+        "Parasternal Window",
+        "Echocardiography Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch02-q159",
+      "stem": "During a mock adult echocardiography board examination, consider the following.  Using Figure 1, which cusp is the Left coronary cusp?",
+      "image": null,
+      "options": [
+        "Cusp 2",
+        "Cusp 1",
+        "Cusp 3"
+      ],
+      "answer": 0,
+      "explanation": "The left coronary cusp (LCC) lies posterolaterally, toward the left atrial appendage and pulmonary artery — cusp 2 in the figure. *(Practice review slide 31.)*",
+      "explanationImage": null,
+      "tags": [
+        "Image Optimization",
+        "Parasternal Window",
+        "Echocardiography Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch02-q160",
+      "stem": "During a mock adult echocardiography board examination, consider the following.  Which of the following is NOT one of the 4 standard views acquired in the PSSAX window?",
+      "image": null,
+      "options": [
+        "Papillary muscle",
+        "Pulmonic valve",
+        "Apex",
+        "Aortic valve"
+      ],
+      "answer": 1,
+      "explanation": "The four standard short-axis levels are the aortic valve, mitral valve, papillary muscle, and apex — the pulmonic valve is not one of them. *(Practice review slide 33.)*",
+      "explanationImage": null,
+      "tags": [
+        "Image Optimization",
+        "Parasternal Window",
+        "Echocardiography Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch02-q161",
+      "stem": "During a mock adult echocardiography board examination, consider the following.  From the parasternal long-axis view, how do you maneuver the transducer to acquire the RVOT?",
+      "image": null,
+      "options": [
+        "Angle toward the patient’s left hip",
+        "Rotate the probe until the indicator points to the left shoulder",
+        "Angle toward the patient’s right hip",
+        "Tilt anteriorly and apply slight clockwise rotation (towards patient’s left shoulder)"
+      ],
+      "answer": 3,
+      "explanation": "From PLAX, tilt the transducer superiorly toward the patient’s left shoulder to open the RV outflow tract and pulmonic valve. *(Practice review slide 35.)*",
+      "explanationImage": null,
+      "tags": [
+        "Image Optimization",
+        "Parasternal Window",
+        "Echocardiography Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch02-q162",
+      "stem": "During a mock adult echocardiography board examination, consider the following.  From the parasternal long-axis view, how do you maneuver the transducer to acquire the RVIT?",
+      "image": null,
+      "options": [
+        "Angle toward the patient’s left hip",
+        "Angle toward the patient’s left shoulder",
+        "Tilt toward the patient’s right hip",
+        "Rotate the probe until the indicator points to the left shoulder"
+      ],
+      "answer": 2,
+      "explanation": "From PLAX, tilt inferomedially toward the patient’s right hip to bring up the RV inflow view and the tricuspid valve. *(Practice review slide 37.)*",
+      "explanationImage": null,
+      "tags": [
+        "Image Optimization",
+        "Parasternal Window",
+        "Echocardiography Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch02-q163",
+      "stem": "A sonographer is reviewing the relevant anatomy, technique, or physiology.  Heart relation to thoracic cavity. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "Positioned within the thoracic cavity beneath the sternum",
+        "Positioned on the left side of the chest cavity",
+        "Positioned on the right side of the chest cavity",
+        "Positioned anterior to the lungs"
+      ],
+      "answer": 0,
+      "explanation": "Of the options, this best captures the heart’s retrosternal, mediastinal location — it sits in the mediastinum directly behind (beneath) the body of the sternum. *(Practice review slide 3.)*",
+      "explanationImage": null,
+      "tags": [
+        "Image Optimization",
+        "Parasternal Window",
+        "Echocardiography Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch02-q164",
+      "stem": "A sonographer is reviewing the relevant anatomy, technique, or physiology.  How is the long axis in relation to the heart?",
+      "image": null,
+      "options": [
+        "Perpendicular to the short-axis plane, slicing through both ventricles and atria from base to apex",
+        "Perpendicular to the short-axis plane, slicing through the left ventricle and atrium",
+        "Creates cross-sectional segments of the ventricles",
+        "Aligned with the line connecting the LV apex and the centre of the aortic valve"
+      ],
+      "answer": 3,
+      "explanation": "The long-axis plane runs along the line joining the LV apex and the centre of the aortic valve, transecting the LV lengthwise. *(Practice review slide 5.)*",
+      "explanationImage": null,
+      "tags": [
+        "Image Optimization",
+        "Parasternal Window",
+        "Echocardiography Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch02-q165",
+      "stem": "A sonographer is reviewing the relevant anatomy, technique, or physiology.  How is the 4-Chamber in relation to the heart?",
+      "image": null,
+      "options": [
+        "Creates cross-sectional segments of the ventricles",
+        "Perpendicular to the short-axis plane, slicing through both ventricles and atria from base to apex",
+        "Aligned with the line connecting the LV apex and the centre of the aortic valve",
+        "Perpendicular to the short-axis plane, slicing through the left ventricle and atrium"
+      ],
+      "answer": 1,
+      "explanation": "The 4-chamber plane is perpendicular to the short axis and cuts through both ventricles and both atria from base to apex. *(Practice review slide 7.)*",
+      "explanationImage": null,
+      "tags": [
+        "Image Optimization",
+        "Parasternal Window",
+        "Echocardiography Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch02-q166",
+      "stem": "A sonographer is reviewing the relevant anatomy, technique, or physiology.  How is the 2-Chamber in relation to the heart?",
+      "image": null,
+      "options": [
+        "Aligned with the line connecting the LV apex and the centre of the aortic valve",
+        "Perpendicular to the short-axis plane, slicing through both ventricles and atria from base to apex",
+        "Perpendicular to the short-axis plane, slicing through the left ventricle and atrium",
+        "Creates cross-sectional segments of the ventricles"
+      ],
+      "answer": 2,
+      "explanation": "The 2-chamber plane is perpendicular to the short axis but passes through only the left-sided chambers — the LV and LA. *(Practice review slide 9.)*",
+      "explanationImage": null,
+      "tags": [
+        "Image Optimization",
+        "Parasternal Window",
+        "Echocardiography Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch02-q167",
+      "stem": "A sonographer is reviewing the relevant anatomy, technique, or physiology.  How do you optimize your image by bringing the anatomy of interest centred in the field of view?",
+      "image": null,
+      "options": [
+        "Rock  your transducer from side to side",
+        "Rotation counterclockwise or clockwise",
+        "Angle inferiorly or anteriorly",
+        "Slide your transducer from side to side"
+      ],
+      "answer": 0,
+      "explanation": "The course review identifies Rock  your transducer from side to side as the correct response. *(Practice review slide 11.)*",
+      "explanationImage": null,
+      "tags": [
+        "Image Optimization",
+        "Parasternal Window",
+        "Echocardiography Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch02-q168",
+      "stem": "A sonographer is reviewing the relevant anatomy, technique, or physiology.  Which of the following are tools to use when optimizing your image?",
+      "image": null,
+      "options": [
+        "Adjusting patient position",
+        "Breathing techniques",
+        "Contrast imaging",
+        "All of the above"
+      ],
+      "answer": 3,
+      "explanation": "Patient positioning, breathing maneuvers (e.g., held expiration), and contrast all improve image quality — so all three apply. *(Practice review slide 13.)*",
+      "explanationImage": null,
+      "tags": [
+        "Image Optimization",
+        "Parasternal Window",
+        "Echocardiography Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch02-q169",
+      "stem": "A sonographer is reviewing the relevant anatomy, technique, or physiology.  What is the patient position for the parasternal window?",
+      "image": null,
+      "options": [
+        "Right lateral decubitus with the right arm raised under the head",
+        "Left lateral decubitus with the left arm raised under the head",
+        "Supine, knees bent",
+        "Supine, neck extended"
+      ],
+      "answer": 1,
+      "explanation": "Left lateral decubitus with the left arm raised brings the heart toward the chest wall, displaces lung, and widens the intercostal spaces. *(Practice review slide 15.)*",
+      "explanationImage": null,
+      "tags": [
+        "Image Optimization",
+        "Parasternal Window",
+        "Echocardiography Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch02-q170",
+      "stem": "A sonographer is reviewing the relevant anatomy, technique, or physiology.  What intercostal space is utilized for placement of the transducer in the parasternal window?",
+      "image": null,
+      "options": [
+        "2nd – 3rd intercostal space",
+        "1st – 3rd intercostal space",
+        "3rd – 4th intercostal space",
+        "3rd – 5th intercostal space"
+      ],
+      "answer": 2,
+      "explanation": "The parasternal transducer is placed in the left 3rd–4th intercostal space, immediately adjacent to the sternum. *(Practice review slide 17.)*",
+      "explanationImage": null,
+      "tags": [
+        "Image Optimization",
+        "Parasternal Window",
+        "Echocardiography Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch02-q171",
+      "stem": "A sonographer is reviewing the relevant anatomy, technique, or physiology.  Which of the following is NOT a standard view seen in the parasternal window?",
+      "image": null,
+      "options": [
+        "PSLAX",
+        "RVOT",
+        "RVIT",
+        "5 Chamber"
+      ],
+      "answer": 3,
+      "explanation": "The 5-chamber is an apical-window view, not a parasternal one, so it is the odd one out. *(Practice review slide 19.)*",
+      "explanationImage": null,
+      "tags": [
+        "Image Optimization",
+        "Parasternal Window",
+        "Echocardiography Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch02-q172",
+      "stem": "A sonographer is reviewing the relevant anatomy, technique, or physiology.  What leaflet/s of the mitral valve are you seeing in the parasternal long-axis view?",
+      "image": null,
+      "options": [
+        "Posterior  leaflet only",
+        "Anterior and septal leaflet",
+        "Posterior and septal leaflet",
+        "Anterior and posterior leaflet"
+      ],
+      "answer": 3,
+      "explanation": "The course review identifies Anterior and posterior leaflet as the correct response. *(Practice review slide 21.)*",
+      "explanationImage": null,
+      "tags": [
+        "Image Optimization",
+        "Parasternal Window",
+        "Echocardiography Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch02-q173",
+      "stem": "A sonographer is reviewing the relevant anatomy, technique, or physiology.  Which of the following views does NOT show the pulmonic valve?",
+      "image": null,
+      "options": [
+        "RVOT",
+        "PSSAX at the level of the aortic valve",
+        "PSLAX",
+        "All of the above"
+      ],
+      "answer": 2,
+      "explanation": "The standard parasternal long-axis (of the LV) does not include the pulmonic valve — you see the LV, LA, aortic root, and mitral valve. *(Practice review slide 23.)*",
+      "explanationImage": null,
+      "tags": [
+        "Image Optimization",
+        "Parasternal Window",
+        "Echocardiography Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch02-q174",
+      "stem": "A sonographer is reviewing the relevant anatomy, technique, or physiology.  Where should the indicator be pointing in the PSSAX window?",
+      "image": null,
+      "options": [
+        "At 12 o’clock",
+        "Toward the patient’s right shoulder",
+        "Toward the patient’s left shoulder (90 degrees clockwise from PLAX view)",
+        "At 4 o’clock"
+      ],
+      "answer": 2,
+      "explanation": "In the parasternal short-axis, the orientation marker points toward the patient’s left shoulder. *(Practice review slide 25.)*",
+      "explanationImage": null,
+      "tags": [
+        "Image Optimization",
+        "Parasternal Window",
+        "Echocardiography Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch02-q175",
+      "stem": "A sonographer is reviewing the relevant anatomy, technique, or physiology.  Using Figure 1, which cusp is the Non-coronary cusp?",
+      "image": null,
+      "options": [
+        "Cusp 2",
+        "Cusp 1",
+        "Cusp 3"
+      ],
+      "answer": 2,
+      "explanation": "The non-coronary cusp (NCC) sits posteromedially, adjacent to the interatrial septum — cusp 3 in the figure. *(Practice review slide 27.)*",
+      "explanationImage": null,
+      "tags": [
+        "Image Optimization",
+        "Parasternal Window",
+        "Echocardiography Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch02-q176",
+      "stem": "A sonographer is reviewing the relevant anatomy, technique, or physiology.  Using Figure 1, which cusp is the Right coronary cusp?",
+      "image": null,
+      "options": [
+        "Cusp 2",
+        "Cusp 1",
+        "Cusp 3"
+      ],
+      "answer": 1,
+      "explanation": "The right coronary cusp (RCC) is the most anterior cusp, nearest the RVOT and the transducer — cusp 1 in the figure. *(Practice review slide 29.)*",
+      "explanationImage": null,
+      "tags": [
+        "Image Optimization",
+        "Parasternal Window",
+        "Echocardiography Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch02-q177",
+      "stem": "A sonographer is reviewing the relevant anatomy, technique, or physiology.  Using Figure 1, which cusp is the Left coronary cusp?",
+      "image": null,
+      "options": [
+        "Cusp 2",
+        "Cusp 1",
+        "Cusp 3"
+      ],
+      "answer": 0,
+      "explanation": "The left coronary cusp (LCC) lies posterolaterally, toward the left atrial appendage and pulmonary artery — cusp 2 in the figure. *(Practice review slide 31.)*",
+      "explanationImage": null,
+      "tags": [
+        "Image Optimization",
+        "Parasternal Window",
+        "Echocardiography Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch02-q178",
+      "stem": "A sonographer is reviewing the relevant anatomy, technique, or physiology.  Which of the following is NOT one of the 4 standard views acquired in the PSSAX window?",
+      "image": null,
+      "options": [
+        "Aortic valve",
+        "Pulmonic valve",
+        "Apex",
+        "Papillary muscle"
+      ],
+      "answer": 1,
+      "explanation": "The four standard short-axis levels are the aortic valve, mitral valve, papillary muscle, and apex — the pulmonic valve is not one of them. *(Practice review slide 33.)*",
+      "explanationImage": null,
+      "tags": [
+        "Image Optimization",
+        "Parasternal Window",
+        "Echocardiography Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch02-q179",
+      "stem": "A sonographer is reviewing the relevant anatomy, technique, or physiology.  From the parasternal long-axis view, how do you maneuver the transducer to acquire the RVOT?",
+      "image": null,
+      "options": [
+        "Angle toward the patient’s left hip",
+        "Rotate the probe until the indicator points to the left shoulder",
+        "Angle toward the patient’s right hip",
+        "Tilt anteriorly and apply slight clockwise rotation (towards patient’s left shoulder)"
+      ],
+      "answer": 3,
+      "explanation": "From PLAX, tilt the transducer superiorly toward the patient’s left shoulder to open the RV outflow tract and pulmonic valve. *(Practice review slide 35.)*",
+      "explanationImage": null,
+      "tags": [
+        "Image Optimization",
+        "Parasternal Window",
+        "Echocardiography Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch02-q180",
+      "stem": "A sonographer is reviewing the relevant anatomy, technique, or physiology.  From the parasternal long-axis view, how do you maneuver the transducer to acquire the RVIT?",
+      "image": null,
+      "options": [
+        "Angle toward the patient’s left shoulder",
+        "Angle toward the patient’s left hip",
+        "Tilt toward the patient’s right hip",
+        "Rotate the probe until the indicator points to the left shoulder"
+      ],
+      "answer": 2,
+      "explanation": "From PLAX, tilt inferomedially toward the patient’s right hip to bring up the RV inflow view and the tricuspid valve. *(Practice review slide 37.)*",
+      "explanationImage": null,
+      "tags": [
+        "Image Optimization",
+        "Parasternal Window",
+        "Echocardiography Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch02-q181",
+      "stem": "During a routine adult transthoracic examination, the sonographer reviews the following concept.  Heart relation to thoracic cavity. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "Positioned on the left side of the chest cavity",
+        "Positioned anterior to the lungs",
+        "Positioned within the thoracic cavity beneath the sternum",
+        "Positioned on the right side of the chest cavity"
+      ],
+      "answer": 2,
+      "explanation": "Of the options, this best captures the heart’s retrosternal, mediastinal location — it sits in the mediastinum directly behind (beneath) the body of the sternum. *(Practice review slide 3.)*",
+      "explanationImage": null,
+      "tags": [
+        "Image Optimization",
+        "Parasternal Window",
+        "Echocardiography Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch02-q182",
+      "stem": "During a routine adult transthoracic examination, the sonographer reviews the following concept.  How is the long axis in relation to the heart?",
+      "image": null,
+      "options": [
+        "Perpendicular to the short-axis plane, slicing through both ventricles and atria from base to apex",
+        "Perpendicular to the short-axis plane, slicing through the left ventricle and atrium",
+        "Aligned with the line connecting the LV apex and the centre of the aortic valve",
+        "Creates cross-sectional segments of the ventricles"
+      ],
+      "answer": 2,
+      "explanation": "The long-axis plane runs along the line joining the LV apex and the centre of the aortic valve, transecting the LV lengthwise. *(Practice review slide 5.)*",
+      "explanationImage": null,
+      "tags": [
+        "Image Optimization",
+        "Parasternal Window",
+        "Echocardiography Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch02-q183",
+      "stem": "During a routine adult transthoracic examination, the sonographer reviews the following concept.  How is the 4-Chamber in relation to the heart?",
+      "image": null,
+      "options": [
+        "Aligned with the line connecting the LV apex and the centre of the aortic valve",
+        "Perpendicular to the short-axis plane, slicing through the left ventricle and atrium",
+        "Creates cross-sectional segments of the ventricles",
+        "Perpendicular to the short-axis plane, slicing through both ventricles and atria from base to apex"
+      ],
+      "answer": 3,
+      "explanation": "The 4-chamber plane is perpendicular to the short axis and cuts through both ventricles and both atria from base to apex. *(Practice review slide 7.)*",
+      "explanationImage": null,
+      "tags": [
+        "Image Optimization",
+        "Parasternal Window",
+        "Echocardiography Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch02-q184",
+      "stem": "During a routine adult transthoracic examination, the sonographer reviews the following concept.  How is the 2-Chamber in relation to the heart?",
+      "image": null,
+      "options": [
+        "Perpendicular to the short-axis plane, slicing through the left ventricle and atrium",
+        "Aligned with the line connecting the LV apex and the centre of the aortic valve",
+        "Perpendicular to the short-axis plane, slicing through both ventricles and atria from base to apex",
+        "Creates cross-sectional segments of the ventricles"
+      ],
+      "answer": 0,
+      "explanation": "The 2-chamber plane is perpendicular to the short axis but passes through only the left-sided chambers — the LV and LA. *(Practice review slide 9.)*",
+      "explanationImage": null,
+      "tags": [
+        "Image Optimization",
+        "Parasternal Window",
+        "Echocardiography Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch02-q185",
+      "stem": "During a routine adult transthoracic examination, the sonographer reviews the following concept.  How do you optimize your image by bringing the anatomy of interest centred in the field of view?",
+      "image": null,
+      "options": [
+        "Slide your transducer from side to side",
+        "Angle inferiorly or anteriorly",
+        "Rock  your transducer from side to side",
+        "Rotation counterclockwise or clockwise"
+      ],
+      "answer": 2,
+      "explanation": "The course review identifies Rock  your transducer from side to side as the correct response. *(Practice review slide 11.)*",
+      "explanationImage": null,
+      "tags": [
+        "Image Optimization",
+        "Parasternal Window",
+        "Echocardiography Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch02-q186",
+      "stem": "During a routine adult transthoracic examination, the sonographer reviews the following concept.  Which of the following are tools to use when optimizing your image?",
+      "image": null,
+      "options": [
+        "Adjusting patient position",
+        "Breathing techniques",
+        "Contrast imaging",
+        "All of the above"
+      ],
+      "answer": 3,
+      "explanation": "Patient positioning, breathing maneuvers (e.g., held expiration), and contrast all improve image quality — so all three apply. *(Practice review slide 13.)*",
+      "explanationImage": null,
+      "tags": [
+        "Image Optimization",
+        "Parasternal Window",
+        "Echocardiography Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch02-q187",
+      "stem": "During a routine adult transthoracic examination, the sonographer reviews the following concept.  What is the patient position for the parasternal window?",
+      "image": null,
+      "options": [
+        "Left lateral decubitus with the left arm raised under the head",
+        "Supine, knees bent",
+        "Right lateral decubitus with the right arm raised under the head",
+        "Supine, neck extended"
+      ],
+      "answer": 0,
+      "explanation": "Left lateral decubitus with the left arm raised brings the heart toward the chest wall, displaces lung, and widens the intercostal spaces. *(Practice review slide 15.)*",
+      "explanationImage": null,
+      "tags": [
+        "Image Optimization",
+        "Parasternal Window",
+        "Echocardiography Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch02-q188",
+      "stem": "During a routine adult transthoracic examination, the sonographer reviews the following concept.  What intercostal space is utilized for placement of the transducer in the parasternal window?",
+      "image": null,
+      "options": [
+        "3rd – 5th intercostal space",
+        "2nd – 3rd intercostal space",
+        "1st – 3rd intercostal space",
+        "3rd – 4th intercostal space"
+      ],
+      "answer": 3,
+      "explanation": "The parasternal transducer is placed in the left 3rd–4th intercostal space, immediately adjacent to the sternum. *(Practice review slide 17.)*",
+      "explanationImage": null,
+      "tags": [
+        "Image Optimization",
+        "Parasternal Window",
+        "Echocardiography Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch02-q189",
+      "stem": "During a routine adult transthoracic examination, the sonographer reviews the following concept.  Which of the following is NOT a standard view seen in the parasternal window?",
+      "image": null,
+      "options": [
+        "RVIT",
+        "PSLAX",
+        "5 Chamber",
+        "RVOT"
+      ],
+      "answer": 2,
+      "explanation": "The 5-chamber is an apical-window view, not a parasternal one, so it is the odd one out. *(Practice review slide 19.)*",
+      "explanationImage": null,
+      "tags": [
+        "Image Optimization",
+        "Parasternal Window",
+        "Echocardiography Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch02-q190",
+      "stem": "During a routine adult transthoracic examination, the sonographer reviews the following concept.  What leaflet/s of the mitral valve are you seeing in the parasternal long-axis view?",
+      "image": null,
+      "options": [
+        "Anterior and posterior leaflet",
+        "Posterior and septal leaflet",
+        "Anterior and septal leaflet",
+        "Posterior  leaflet only"
+      ],
+      "answer": 0,
+      "explanation": "The course review identifies Anterior and posterior leaflet as the correct response. *(Practice review slide 21.)*",
+      "explanationImage": null,
+      "tags": [
+        "Image Optimization",
+        "Parasternal Window",
+        "Echocardiography Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch02-q191",
+      "stem": "During a routine adult transthoracic examination, the sonographer reviews the following concept.  Which of the following views does NOT show the pulmonic valve?",
+      "image": null,
+      "options": [
+        "RVOT",
+        "PSSAX at the level of the aortic valve",
+        "PSLAX",
+        "All of the above"
+      ],
+      "answer": 2,
+      "explanation": "The standard parasternal long-axis (of the LV) does not include the pulmonic valve — you see the LV, LA, aortic root, and mitral valve. *(Practice review slide 23.)*",
+      "explanationImage": null,
+      "tags": [
+        "Image Optimization",
+        "Parasternal Window",
+        "Echocardiography Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch02-q192",
+      "stem": "During a routine adult transthoracic examination, the sonographer reviews the following concept.  Where should the indicator be pointing in the PSSAX window?",
+      "image": null,
+      "options": [
+        "At 4 o’clock",
+        "At 12 o’clock",
+        "Toward the patient’s right shoulder",
+        "Toward the patient’s left shoulder (90 degrees clockwise from PLAX view)"
+      ],
+      "answer": 3,
+      "explanation": "In the parasternal short-axis, the orientation marker points toward the patient’s left shoulder. *(Practice review slide 25.)*",
+      "explanationImage": null,
+      "tags": [
+        "Image Optimization",
+        "Parasternal Window",
+        "Echocardiography Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch02-q193",
+      "stem": "During a routine adult transthoracic examination, the sonographer reviews the following concept.  Using Figure 1, which cusp is the Non-coronary cusp?",
+      "image": null,
+      "options": [
+        "Cusp 3",
+        "Cusp 2",
+        "Cusp 1"
+      ],
+      "answer": 0,
+      "explanation": "The non-coronary cusp (NCC) sits posteromedially, adjacent to the interatrial septum — cusp 3 in the figure. *(Practice review slide 27.)*",
+      "explanationImage": null,
+      "tags": [
+        "Image Optimization",
+        "Parasternal Window",
+        "Echocardiography Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch02-q194",
+      "stem": "During a routine adult transthoracic examination, the sonographer reviews the following concept.  Using Figure 1, which cusp is the Right coronary cusp?",
+      "image": null,
+      "options": [
+        "Cusp 2",
+        "Cusp 3",
+        "Cusp 1"
+      ],
+      "answer": 2,
+      "explanation": "The right coronary cusp (RCC) is the most anterior cusp, nearest the RVOT and the transducer — cusp 1 in the figure. *(Practice review slide 29.)*",
+      "explanationImage": null,
+      "tags": [
+        "Image Optimization",
+        "Parasternal Window",
+        "Echocardiography Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch02-q195",
+      "stem": "During a routine adult transthoracic examination, the sonographer reviews the following concept.  Using Figure 1, which cusp is the Left coronary cusp?",
+      "image": null,
+      "options": [
+        "Cusp 1",
+        "Cusp 2",
+        "Cusp 3"
+      ],
+      "answer": 1,
+      "explanation": "The left coronary cusp (LCC) lies posterolaterally, toward the left atrial appendage and pulmonary artery — cusp 2 in the figure. *(Practice review slide 31.)*",
+      "explanationImage": null,
+      "tags": [
+        "Image Optimization",
+        "Parasternal Window",
+        "Echocardiography Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch02-q196",
+      "stem": "During a routine adult transthoracic examination, the sonographer reviews the following concept.  Which of the following is NOT one of the 4 standard views acquired in the PSSAX window?",
+      "image": null,
+      "options": [
+        "Aortic valve",
+        "Pulmonic valve",
+        "Apex",
+        "Papillary muscle"
+      ],
+      "answer": 1,
+      "explanation": "The four standard short-axis levels are the aortic valve, mitral valve, papillary muscle, and apex — the pulmonic valve is not one of them. *(Practice review slide 33.)*",
+      "explanationImage": null,
+      "tags": [
+        "Image Optimization",
+        "Parasternal Window",
+        "Echocardiography Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch02-q197",
+      "stem": "During a routine adult transthoracic examination, the sonographer reviews the following concept.  From the parasternal long-axis view, how do you maneuver the transducer to acquire the RVOT?",
+      "image": null,
+      "options": [
+        "Rotate the probe until the indicator points to the left shoulder",
+        "Angle toward the patient’s right hip",
+        "Tilt anteriorly and apply slight clockwise rotation (towards patient’s left shoulder)",
+        "Angle toward the patient’s left hip"
+      ],
+      "answer": 2,
+      "explanation": "From PLAX, tilt the transducer superiorly toward the patient’s left shoulder to open the RV outflow tract and pulmonic valve. *(Practice review slide 35.)*",
+      "explanationImage": null,
+      "tags": [
+        "Image Optimization",
+        "Parasternal Window",
+        "Echocardiography Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch02-q198",
+      "stem": "During a routine adult transthoracic examination, the sonographer reviews the following concept.  From the parasternal long-axis view, how do you maneuver the transducer to acquire the RVIT?",
+      "image": null,
+      "options": [
+        "Angle toward the patient’s left hip",
+        "Angle toward the patient’s left shoulder",
+        "Tilt toward the patient’s right hip",
+        "Rotate the probe until the indicator points to the left shoulder"
+      ],
+      "answer": 2,
+      "explanation": "From PLAX, tilt inferomedially toward the patient’s right hip to bring up the RV inflow view and the tricuspid valve. *(Practice review slide 37.)*",
+      "explanationImage": null,
+      "tags": [
+        "Image Optimization",
+        "Parasternal Window",
+        "Echocardiography Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch02-q199",
+      "stem": "A trainee is preparing for a practical echocardiography assessment.  Heart relation to thoracic cavity. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "Positioned anterior to the lungs",
+        "Positioned within the thoracic cavity beneath the sternum",
+        "Positioned on the right side of the chest cavity",
+        "Positioned on the left side of the chest cavity"
+      ],
+      "answer": 1,
+      "explanation": "Of the options, this best captures the heart’s retrosternal, mediastinal location — it sits in the mediastinum directly behind (beneath) the body of the sternum. *(Practice review slide 3.)*",
+      "explanationImage": null,
+      "tags": [
+        "Image Optimization",
+        "Parasternal Window",
+        "Echocardiography Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch02-q200",
+      "stem": "A trainee is preparing for a practical echocardiography assessment.  How is the long axis in relation to the heart?",
+      "image": null,
+      "options": [
+        "Creates cross-sectional segments of the ventricles",
+        "Perpendicular to the short-axis plane, slicing through the left ventricle and atrium",
+        "Aligned with the line connecting the LV apex and the centre of the aortic valve",
+        "Perpendicular to the short-axis plane, slicing through both ventricles and atria from base to apex"
+      ],
+      "answer": 2,
+      "explanation": "The long-axis plane runs along the line joining the LV apex and the centre of the aortic valve, transecting the LV lengthwise. *(Practice review slide 5.)*",
+      "explanationImage": null,
+      "tags": [
+        "Image Optimization",
+        "Parasternal Window",
+        "Echocardiography Views"
       ],
       "reference": ""
     }

@@ -1,0 +1,3987 @@
+{
+  "subjectId": "DCS5000",
+  "chapterId": "ch07",
+  "title": "Indications & Quality Assurance",
+  "questions": [
+    {
+      "id": "DCS5000-ch07-q001",
+      "stem": "During a routine adult transthoracic examination, the sonographer reviews the following concept.  What is the primary purpose of establishing indications before performing an echocardiogram?",
+      "image": null,
+      "options": [
+        "Increase image resolution",
+        "Improve reporting speed",
+        "Reduce examination time",
+        "Improve patient care and clinical outcomes"
+      ],
+      "answer": 3,
+      "explanation": "A valid indication ties the study to a clinical question. The point of imaging is to improve patient care and outcomes — not to generate images for their own sake. *(Practice review slide 3.)*",
+      "explanationImage": null,
+      "tags": [
+        "Indications",
+        "Quality Assurance",
+        "Echocardiography Protocol"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch07-q002",
+      "stem": "During a routine adult transthoracic examination, the sonographer reviews the following concept.  According to Otto, the usefulness of an echocardiographic examination is best measured by:. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "Number of images acquired",
+        "Equipment used",
+        "Duration of examination",
+        "Clinical outcome of the patient"
+      ],
+      "answer": 3,
+      "explanation": "Otto frames the value of any test by its effect on the patient's clinical outcome — does it change management and improve care? *(Practice review slide 5.)*",
+      "explanationImage": null,
+      "tags": [
+        "Indications",
+        "Quality Assurance",
+        "Echocardiography Protocol"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch07-q003",
+      "stem": "During a routine adult transthoracic examination, the sonographer reviews the following concept.  A patient presents with newly developed exertional dyspnea. What is the most appropriate next step?",
+      "image": null,
+      "options": [
+        "Repeat previous ECG",
+        "Delay testing until symptoms progress",
+        "Evaluate appropriateness for echocardiography",
+        "Schedule annual follow-up imaging"
+      ],
+      "answer": 2,
+      "explanation": "Before imaging, assess whether echo is appropriate for this presentation. Exertional dyspnea is a recognized indication, but appropriateness still drives the decision. *(Practice review slide 7.)*",
+      "explanationImage": null,
+      "tags": [
+        "Indications",
+        "Quality Assurance",
+        "Echocardiography Protocol"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch07-q004",
+      "stem": "During a routine adult transthoracic examination, the sonographer reviews the following concept.  Which condition represents a common indication for echocardiography?",
+      "image": null,
+      "options": [
+        "Migraine headaches",
+        "Sternum pain",
+        "Heart murmur"
+      ],
+      "answer": 0,
+      "explanation": "The course review identifies Migraine headaches as the correct response. *(Practice review slide 9.)*",
+      "explanationImage": null,
+      "tags": [
+        "Indications",
+        "Quality Assurance",
+        "Echocardiography Protocol"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch07-q005",
+      "stem": "During a routine adult transthoracic examination, the sonographer reviews the following concept.  A patient with known valvular disease is referred for follow-up. Which principle supports repeat echocardiography?",
+      "image": null,
+      "options": [
+        "Disease monitoring",
+        "Routine surveillance without indication",
+        "General wellness",
+        "Screening"
+      ],
+      "answer": 0,
+      "explanation": "Repeat imaging in KNOWN valvular disease is justified as disease monitoring — tracking severity and the ventricle's response over time. *(Practice review slide 11.)*",
+      "explanationImage": null,
+      "tags": [
+        "Indications",
+        "Quality Assurance",
+        "Echocardiography Protocol"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch07-q006",
+      "stem": "During a routine adult transthoracic examination, the sonographer reviews the following concept.  Which category of disease is commonly evaluated using echocardiography?",
+      "image": null,
+      "options": [
+        "Cardiomyopathy",
+        "Vascular Disease",
+        "Pulmonary fibrosis",
+        "Renal insufficiency"
+      ],
+      "answer": 0,
+      "explanation": "Cardiomyopathy is a core echo target — echo assesses chamber size, wall thickness, and systolic and diastolic function. *(Practice review slide 13.)*",
+      "explanationImage": null,
+      "tags": [
+        "Indications",
+        "Quality Assurance",
+        "Echocardiography Protocol"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch07-q007",
+      "stem": "During a routine adult transthoracic examination, the sonographer reviews the following concept.  Symptoms such as dyspnea, chest pain, and syncope are considered:. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "Technical limitations",
+        "Symptom-based indications",
+        "Screening criteria",
+        "Quality indicators"
+      ],
+      "answer": 1,
+      "explanation": "The course review identifies Symptom-based indications as the correct response. *(Practice review slide 15.)*",
+      "explanationImage": null,
+      "tags": [
+        "Indications",
+        "Quality Assurance",
+        "Echocardiography Protocol"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch07-q008",
+      "stem": "During a routine adult transthoracic examination, the sonographer reviews the following concept.  Which patient presentation is most likely to justify an echocardiogram?",
+      "image": null,
+      "options": [
+        "New onset heart failure symptoms",
+        "Annual routine screening",
+        "Stable low-risk patient"
+      ],
+      "answer": 0,
+      "explanation": "The course review identifies New onset heart failure symptoms as the correct response. *(Practice review slide 17.)*",
+      "explanationImage": null,
+      "tags": [
+        "Indications",
+        "Quality Assurance",
+        "Echocardiography Protocol"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch07-q009",
+      "stem": "During a routine adult transthoracic examination, the sonographer reviews the following concept.  A patient with suspected infective endocarditis is referred for imaging. This indication aligns with:. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "Reporting standards",
+        "Expanded indications",
+        "Technical limitations",
+        "Image optimization"
+      ],
+      "answer": 1,
+      "explanation": "Suspected infective endocarditis is a recognized indication; among these options it maps to the indication category (expanded / special indications). *(Practice review slide 19.)*",
+      "explanationImage": null,
+      "tags": [
+        "Indications",
+        "Quality Assurance",
+        "Echocardiography Protocol"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch07-q010",
+      "stem": "During a routine adult transthoracic examination, the sonographer reviews the following concept.  One of the most important factors pertaining to good patient outcomes is:. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "Expertise of the Sonographer and interpreting physician",
+        "Optimized imaging",
+        "Knowledge of pathology and requirement of exam expansion",
+        "Accuracy and precision of measurements"
+      ],
+      "answer": 0,
+      "explanation": "The expertise of the sonographer and interpreting physician is foundational — skilled acquisition and interpretation underpin every downstream measurement and decision. *(Practice review slide 21.)*",
+      "explanationImage": null,
+      "tags": [
+        "Indications",
+        "Quality Assurance",
+        "Echocardiography Protocol"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch07-q011",
+      "stem": "During a routine adult transthoracic examination, the sonographer reviews the following concept.  An important part of providing a reliable examination result is having the knowledge and skill to compensate and respond for:. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "Limitations",
+        "Inappropriate indications",
+        "Timeliness",
+        "Inappropriate use of echo"
+      ],
+      "answer": 0,
+      "explanation": "Reliable results require recognizing and compensating for limitations — poor acoustic windows, body habitus, artifacts, and incomplete data. *(Practice review slide 23.)*",
+      "explanationImage": null,
+      "tags": [
+        "Indications",
+        "Quality Assurance",
+        "Echocardiography Protocol"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch07-q012",
+      "stem": "During a routine adult transthoracic examination, the sonographer reviews the following concept.  Peer review supports:. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "Continuous improvement",
+        "Shorter reporting time",
+        "Increased scan volume",
+        "Reduced pathology detection"
+      ],
+      "answer": 0,
+      "explanation": "Peer review feeds continuous quality improvement — comparing findings, catching discrepancies, and refining practice over time. *(Practice review slide 25.)*",
+      "explanationImage": null,
+      "tags": [
+        "Indications",
+        "Quality Assurance",
+        "Echocardiography Protocol"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch07-q013",
+      "stem": "During a routine adult transthoracic examination, the sonographer reviews the following concept.  Image quality, protocol adherence and equipment maintenance are components of:. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "Peer review",
+        "Quality Assurance",
+        "Reliability",
+        "Continuous improvement"
+      ],
+      "answer": 1,
+      "explanation": "These are core components of Quality Assurance — the systems that keep studies accurate and reproducible. *(Practice review slide 27.)*",
+      "explanationImage": null,
+      "tags": [
+        "Indications",
+        "Quality Assurance",
+        "Echocardiography Protocol"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch07-q014",
+      "stem": "During a routine adult transthoracic examination, the sonographer reviews the following concept.  Accuracy, consistency and structured reports ensure:. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "Reduced wait times",
+        "Review Quality",
+        "Reporting quality",
+        "Image quality"
+      ],
+      "answer": 2,
+      "explanation": "Accurate, consistent, structured reports define reporting quality — the report is the study's clinical deliverable. *(Practice review slide 29.)*",
+      "explanationImage": null,
+      "tags": [
+        "Indications",
+        "Quality Assurance",
+        "Echocardiography Protocol"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch07-q015",
+      "stem": "During a routine adult transthoracic examination, the sonographer reviews the following concept.  Missed pathology most directly impacts:. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "Diagnostic quality",
+        "Reporting time",
+        "Scheduling",
+        "Patient satisfaction"
+      ],
+      "answer": 0,
+      "explanation": "Missed pathology directly degrades diagnostic quality — the study has failed its core purpose of detecting disease. *(Practice review slide 31.)*",
+      "explanationImage": null,
+      "tags": [
+        "Indications",
+        "Quality Assurance",
+        "Echocardiography Protocol"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch07-q016",
+      "stem": "During a routine adult transthoracic examination, the sonographer reviews the following concept.  Clinical integration in echocardiography combines:. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "Measurements and reporting",
+        "Doppler and ECG",
+        "Scheduling and billing",
+        "Indications, AUC, and QA"
+      ],
+      "answer": 3,
+      "explanation": "Clinical integration brings together indications, Appropriate Use Criteria, and QA — the right test, chosen well, performed and reported to standard. *(Practice review slide 33.)*",
+      "explanationImage": null,
+      "tags": [
+        "Indications",
+        "Quality Assurance",
+        "Echocardiography Protocol"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch07-q017",
+      "stem": "During a routine adult transthoracic examination, the sonographer reviews the following concept.  The most appropriate overall approach to echocardiography practice is to:. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "Scan all referred patients identically",
+        "Focus only on image acquisition",
+        "Use echo appropriately and apply QA standards",
+        "Increase testing frequency"
+      ],
+      "answer": 2,
+      "explanation": "Best practice is to use echo appropriately (right indication and AUC) and apply QA standards throughout. *(Practice review slide 35.)*",
+      "explanationImage": null,
+      "tags": [
+        "Indications",
+        "Quality Assurance",
+        "Echocardiography Protocol"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch07-q018",
+      "stem": "During a routine adult transthoracic examination, the sonographer reviews the following concept.  QA is a responsibility of:. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "Sonographers",
+        "Accreditation",
+        "QA Coordinator",
+        "Biomedical"
+      ],
+      "answer": 0,
+      "explanation": "QA is a front-line responsibility of sonographers — the person acquiring the images is the first guardian of study quality. *(Practice review slide 37.)*",
+      "explanationImage": null,
+      "tags": [
+        "Indications",
+        "Quality Assurance",
+        "Echocardiography Protocol"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch07-q019",
+      "stem": "During a routine adult transthoracic examination, the sonographer reviews the following concept.  The ASE Appropriate Use Criteria were developed to support:. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "Cost-effective patient care",
+        "Shorter exams",
+        "Reduced measurements",
+        "Faster reporting"
+      ],
+      "answer": 0,
+      "explanation": "The ASE Appropriate Use Criteria ensure echo is used where it benefits patients — improving care while reducing low-value testing and cost. *(Practice review slide 39.)*",
+      "explanationImage": null,
+      "tags": [
+        "Indications",
+        "Quality Assurance",
+        "Echocardiography Protocol"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch07-q020",
+      "stem": "During a routine adult transthoracic examination, the sonographer reviews the following concept.  In diagnostic imaging, the person who oversees the quality assurance processes, compliance, auditing, performance improvement and metrics is the:. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "Executive director",
+        "Lead Sonographer",
+        "Manager",
+        "Quality Assurance Coordinator"
+      ],
+      "answer": 3,
+      "explanation": "The Quality Assurance Coordinator oversees QA processes, compliance, auditing, performance improvement, and metrics. *(Practice review slide 41.)*",
+      "explanationImage": null,
+      "tags": [
+        "Indications",
+        "Quality Assurance",
+        "Echocardiography Protocol"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch07-q021",
+      "stem": "A trainee is preparing for a practical echocardiography assessment.  What is the primary purpose of establishing indications before performing an echocardiogram?",
+      "image": null,
+      "options": [
+        "Improve reporting speed",
+        "Increase image resolution",
+        "Improve patient care and clinical outcomes",
+        "Reduce examination time"
+      ],
+      "answer": 2,
+      "explanation": "A valid indication ties the study to a clinical question. The point of imaging is to improve patient care and outcomes — not to generate images for their own sake. *(Practice review slide 3.)*",
+      "explanationImage": null,
+      "tags": [
+        "Indications",
+        "Quality Assurance",
+        "Echocardiography Protocol"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch07-q022",
+      "stem": "A trainee is preparing for a practical echocardiography assessment.  According to Otto, the usefulness of an echocardiographic examination is best measured by:. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "Number of images acquired",
+        "Clinical outcome of the patient",
+        "Duration of examination",
+        "Equipment used"
+      ],
+      "answer": 1,
+      "explanation": "Otto frames the value of any test by its effect on the patient's clinical outcome — does it change management and improve care? *(Practice review slide 5.)*",
+      "explanationImage": null,
+      "tags": [
+        "Indications",
+        "Quality Assurance",
+        "Echocardiography Protocol"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch07-q023",
+      "stem": "A trainee is preparing for a practical echocardiography assessment.  A patient presents with newly developed exertional dyspnea. What is the most appropriate next step?",
+      "image": null,
+      "options": [
+        "Repeat previous ECG",
+        "Schedule annual follow-up imaging",
+        "Evaluate appropriateness for echocardiography",
+        "Delay testing until symptoms progress"
+      ],
+      "answer": 2,
+      "explanation": "Before imaging, assess whether echo is appropriate for this presentation. Exertional dyspnea is a recognized indication, but appropriateness still drives the decision. *(Practice review slide 7.)*",
+      "explanationImage": null,
+      "tags": [
+        "Indications",
+        "Quality Assurance",
+        "Echocardiography Protocol"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch07-q024",
+      "stem": "A trainee is preparing for a practical echocardiography assessment.  Which condition represents a common indication for echocardiography?",
+      "image": null,
+      "options": [
+        "Sternum pain",
+        "Migraine headaches",
+        "Heart murmur"
+      ],
+      "answer": 1,
+      "explanation": "The course review identifies Migraine headaches as the correct response. *(Practice review slide 9.)*",
+      "explanationImage": null,
+      "tags": [
+        "Indications",
+        "Quality Assurance",
+        "Echocardiography Protocol"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch07-q025",
+      "stem": "A trainee is preparing for a practical echocardiography assessment.  A patient with known valvular disease is referred for follow-up. Which principle supports repeat echocardiography?",
+      "image": null,
+      "options": [
+        "Screening",
+        "Routine surveillance without indication",
+        "General wellness",
+        "Disease monitoring"
+      ],
+      "answer": 3,
+      "explanation": "Repeat imaging in KNOWN valvular disease is justified as disease monitoring — tracking severity and the ventricle's response over time. *(Practice review slide 11.)*",
+      "explanationImage": null,
+      "tags": [
+        "Indications",
+        "Quality Assurance",
+        "Echocardiography Protocol"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch07-q026",
+      "stem": "A trainee is preparing for a practical echocardiography assessment.  Which category of disease is commonly evaluated using echocardiography?",
+      "image": null,
+      "options": [
+        "Vascular Disease",
+        "Pulmonary fibrosis",
+        "Renal insufficiency",
+        "Cardiomyopathy"
+      ],
+      "answer": 3,
+      "explanation": "Cardiomyopathy is a core echo target — echo assesses chamber size, wall thickness, and systolic and diastolic function. *(Practice review slide 13.)*",
+      "explanationImage": null,
+      "tags": [
+        "Indications",
+        "Quality Assurance",
+        "Echocardiography Protocol"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch07-q027",
+      "stem": "A trainee is preparing for a practical echocardiography assessment.  Symptoms such as dyspnea, chest pain, and syncope are considered:. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "Screening criteria",
+        "Symptom-based indications",
+        "Quality indicators",
+        "Technical limitations"
+      ],
+      "answer": 1,
+      "explanation": "The course review identifies Symptom-based indications as the correct response. *(Practice review slide 15.)*",
+      "explanationImage": null,
+      "tags": [
+        "Indications",
+        "Quality Assurance",
+        "Echocardiography Protocol"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch07-q028",
+      "stem": "A trainee is preparing for a practical echocardiography assessment.  Which patient presentation is most likely to justify an echocardiogram?",
+      "image": null,
+      "options": [
+        "Stable low-risk patient",
+        "Annual routine screening",
+        "New onset heart failure symptoms"
+      ],
+      "answer": 2,
+      "explanation": "The course review identifies New onset heart failure symptoms as the correct response. *(Practice review slide 17.)*",
+      "explanationImage": null,
+      "tags": [
+        "Indications",
+        "Quality Assurance",
+        "Echocardiography Protocol"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch07-q029",
+      "stem": "A trainee is preparing for a practical echocardiography assessment.  A patient with suspected infective endocarditis is referred for imaging. This indication aligns with:. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "Expanded indications",
+        "Technical limitations",
+        "Reporting standards",
+        "Image optimization"
+      ],
+      "answer": 0,
+      "explanation": "Suspected infective endocarditis is a recognized indication; among these options it maps to the indication category (expanded / special indications). *(Practice review slide 19.)*",
+      "explanationImage": null,
+      "tags": [
+        "Indications",
+        "Quality Assurance",
+        "Echocardiography Protocol"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch07-q030",
+      "stem": "A trainee is preparing for a practical echocardiography assessment.  One of the most important factors pertaining to good patient outcomes is:. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "Accuracy and precision of measurements",
+        "Optimized imaging",
+        "Expertise of the Sonographer and interpreting physician",
+        "Knowledge of pathology and requirement of exam expansion"
+      ],
+      "answer": 2,
+      "explanation": "The expertise of the sonographer and interpreting physician is foundational — skilled acquisition and interpretation underpin every downstream measurement and decision. *(Practice review slide 21.)*",
+      "explanationImage": null,
+      "tags": [
+        "Indications",
+        "Quality Assurance",
+        "Echocardiography Protocol"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch07-q031",
+      "stem": "A trainee is preparing for a practical echocardiography assessment.  An important part of providing a reliable examination result is having the knowledge and skill to compensate and respond for:. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "Limitations",
+        "Inappropriate indications",
+        "Timeliness",
+        "Inappropriate use of echo"
+      ],
+      "answer": 0,
+      "explanation": "Reliable results require recognizing and compensating for limitations — poor acoustic windows, body habitus, artifacts, and incomplete data. *(Practice review slide 23.)*",
+      "explanationImage": null,
+      "tags": [
+        "Indications",
+        "Quality Assurance",
+        "Echocardiography Protocol"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch07-q032",
+      "stem": "A trainee is preparing for a practical echocardiography assessment.  Peer review supports:. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "Shorter reporting time",
+        "Increased scan volume",
+        "Continuous improvement",
+        "Reduced pathology detection"
+      ],
+      "answer": 2,
+      "explanation": "Peer review feeds continuous quality improvement — comparing findings, catching discrepancies, and refining practice over time. *(Practice review slide 25.)*",
+      "explanationImage": null,
+      "tags": [
+        "Indications",
+        "Quality Assurance",
+        "Echocardiography Protocol"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch07-q033",
+      "stem": "A trainee is preparing for a practical echocardiography assessment.  Image quality, protocol adherence and equipment maintenance are components of:. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "Quality Assurance",
+        "Continuous improvement",
+        "Peer review",
+        "Reliability"
+      ],
+      "answer": 0,
+      "explanation": "These are core components of Quality Assurance — the systems that keep studies accurate and reproducible. *(Practice review slide 27.)*",
+      "explanationImage": null,
+      "tags": [
+        "Indications",
+        "Quality Assurance",
+        "Echocardiography Protocol"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch07-q034",
+      "stem": "A trainee is preparing for a practical echocardiography assessment.  Accuracy, consistency and structured reports ensure:. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "Reporting quality",
+        "Review Quality",
+        "Image quality",
+        "Reduced wait times"
+      ],
+      "answer": 0,
+      "explanation": "Accurate, consistent, structured reports define reporting quality — the report is the study's clinical deliverable. *(Practice review slide 29.)*",
+      "explanationImage": null,
+      "tags": [
+        "Indications",
+        "Quality Assurance",
+        "Echocardiography Protocol"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch07-q035",
+      "stem": "A trainee is preparing for a practical echocardiography assessment.  Missed pathology most directly impacts:. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "Scheduling",
+        "Diagnostic quality",
+        "Reporting time",
+        "Patient satisfaction"
+      ],
+      "answer": 1,
+      "explanation": "Missed pathology directly degrades diagnostic quality — the study has failed its core purpose of detecting disease. *(Practice review slide 31.)*",
+      "explanationImage": null,
+      "tags": [
+        "Indications",
+        "Quality Assurance",
+        "Echocardiography Protocol"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch07-q036",
+      "stem": "A trainee is preparing for a practical echocardiography assessment.  Clinical integration in echocardiography combines:. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "Doppler and ECG",
+        "Scheduling and billing",
+        "Measurements and reporting",
+        "Indications, AUC, and QA"
+      ],
+      "answer": 3,
+      "explanation": "Clinical integration brings together indications, Appropriate Use Criteria, and QA — the right test, chosen well, performed and reported to standard. *(Practice review slide 33.)*",
+      "explanationImage": null,
+      "tags": [
+        "Indications",
+        "Quality Assurance",
+        "Echocardiography Protocol"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch07-q037",
+      "stem": "A trainee is preparing for a practical echocardiography assessment.  The most appropriate overall approach to echocardiography practice is to:. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "Scan all referred patients identically",
+        "Increase testing frequency",
+        "Use echo appropriately and apply QA standards",
+        "Focus only on image acquisition"
+      ],
+      "answer": 2,
+      "explanation": "Best practice is to use echo appropriately (right indication and AUC) and apply QA standards throughout. *(Practice review slide 35.)*",
+      "explanationImage": null,
+      "tags": [
+        "Indications",
+        "Quality Assurance",
+        "Echocardiography Protocol"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch07-q038",
+      "stem": "A trainee is preparing for a practical echocardiography assessment.  QA is a responsibility of:. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "Sonographers",
+        "Biomedical",
+        "QA Coordinator",
+        "Accreditation"
+      ],
+      "answer": 0,
+      "explanation": "QA is a front-line responsibility of sonographers — the person acquiring the images is the first guardian of study quality. *(Practice review slide 37.)*",
+      "explanationImage": null,
+      "tags": [
+        "Indications",
+        "Quality Assurance",
+        "Echocardiography Protocol"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch07-q039",
+      "stem": "A trainee is preparing for a practical echocardiography assessment.  The ASE Appropriate Use Criteria were developed to support:. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "Shorter exams",
+        "Reduced measurements",
+        "Faster reporting",
+        "Cost-effective patient care"
+      ],
+      "answer": 3,
+      "explanation": "The ASE Appropriate Use Criteria ensure echo is used where it benefits patients — improving care while reducing low-value testing and cost. *(Practice review slide 39.)*",
+      "explanationImage": null,
+      "tags": [
+        "Indications",
+        "Quality Assurance",
+        "Echocardiography Protocol"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch07-q040",
+      "stem": "A trainee is preparing for a practical echocardiography assessment.  In diagnostic imaging, the person who oversees the quality assurance processes, compliance, auditing, performance improvement and metrics is the:. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "Executive director",
+        "Quality Assurance Coordinator",
+        "Manager",
+        "Lead Sonographer"
+      ],
+      "answer": 1,
+      "explanation": "The Quality Assurance Coordinator oversees QA processes, compliance, auditing, performance improvement, and metrics. *(Practice review slide 41.)*",
+      "explanationImage": null,
+      "tags": [
+        "Indications",
+        "Quality Assurance",
+        "Echocardiography Protocol"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch07-q041",
+      "stem": "While reviewing a standard adult echocardiography protocol, consider this question:  What is the primary purpose of establishing indications before performing an echocardiogram?",
+      "image": null,
+      "options": [
+        "Reduce examination time",
+        "Increase image resolution",
+        "Improve reporting speed",
+        "Improve patient care and clinical outcomes"
+      ],
+      "answer": 3,
+      "explanation": "A valid indication ties the study to a clinical question. The point of imaging is to improve patient care and outcomes — not to generate images for their own sake. *(Practice review slide 3.)*",
+      "explanationImage": null,
+      "tags": [
+        "Indications",
+        "Quality Assurance",
+        "Echocardiography Protocol"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch07-q042",
+      "stem": "While reviewing a standard adult echocardiography protocol, consider this question:  According to Otto, the usefulness of an echocardiographic examination is best measured by:. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "Duration of examination",
+        "Equipment used",
+        "Number of images acquired",
+        "Clinical outcome of the patient"
+      ],
+      "answer": 3,
+      "explanation": "Otto frames the value of any test by its effect on the patient's clinical outcome — does it change management and improve care? *(Practice review slide 5.)*",
+      "explanationImage": null,
+      "tags": [
+        "Indications",
+        "Quality Assurance",
+        "Echocardiography Protocol"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch07-q043",
+      "stem": "While reviewing a standard adult echocardiography protocol, consider this question:  A patient presents with newly developed exertional dyspnea. What is the most appropriate next step?",
+      "image": null,
+      "options": [
+        "Evaluate appropriateness for echocardiography",
+        "Repeat previous ECG",
+        "Delay testing until symptoms progress",
+        "Schedule annual follow-up imaging"
+      ],
+      "answer": 0,
+      "explanation": "Before imaging, assess whether echo is appropriate for this presentation. Exertional dyspnea is a recognized indication, but appropriateness still drives the decision. *(Practice review slide 7.)*",
+      "explanationImage": null,
+      "tags": [
+        "Indications",
+        "Quality Assurance",
+        "Echocardiography Protocol"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch07-q044",
+      "stem": "While reviewing a standard adult echocardiography protocol, consider this question:  Which condition represents a common indication for echocardiography?",
+      "image": null,
+      "options": [
+        "Heart murmur",
+        "Sternum pain",
+        "Migraine headaches"
+      ],
+      "answer": 2,
+      "explanation": "The course review identifies Migraine headaches as the correct response. *(Practice review slide 9.)*",
+      "explanationImage": null,
+      "tags": [
+        "Indications",
+        "Quality Assurance",
+        "Echocardiography Protocol"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch07-q045",
+      "stem": "While reviewing a standard adult echocardiography protocol, consider this question:  A patient with known valvular disease is referred for follow-up. Which principle supports repeat echocardiography?",
+      "image": null,
+      "options": [
+        "Disease monitoring",
+        "General wellness",
+        "Routine surveillance without indication",
+        "Screening"
+      ],
+      "answer": 0,
+      "explanation": "Repeat imaging in KNOWN valvular disease is justified as disease monitoring — tracking severity and the ventricle's response over time. *(Practice review slide 11.)*",
+      "explanationImage": null,
+      "tags": [
+        "Indications",
+        "Quality Assurance",
+        "Echocardiography Protocol"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch07-q046",
+      "stem": "While reviewing a standard adult echocardiography protocol, consider this question:  Which category of disease is commonly evaluated using echocardiography?",
+      "image": null,
+      "options": [
+        "Pulmonary fibrosis",
+        "Renal insufficiency",
+        "Cardiomyopathy",
+        "Vascular Disease"
+      ],
+      "answer": 2,
+      "explanation": "Cardiomyopathy is a core echo target — echo assesses chamber size, wall thickness, and systolic and diastolic function. *(Practice review slide 13.)*",
+      "explanationImage": null,
+      "tags": [
+        "Indications",
+        "Quality Assurance",
+        "Echocardiography Protocol"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch07-q047",
+      "stem": "While reviewing a standard adult echocardiography protocol, consider this question:  Symptoms such as dyspnea, chest pain, and syncope are considered:. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "Symptom-based indications",
+        "Quality indicators",
+        "Screening criteria",
+        "Technical limitations"
+      ],
+      "answer": 0,
+      "explanation": "The course review identifies Symptom-based indications as the correct response. *(Practice review slide 15.)*",
+      "explanationImage": null,
+      "tags": [
+        "Indications",
+        "Quality Assurance",
+        "Echocardiography Protocol"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch07-q048",
+      "stem": "While reviewing a standard adult echocardiography protocol, consider this question:  Which patient presentation is most likely to justify an echocardiogram?",
+      "image": null,
+      "options": [
+        "Stable low-risk patient",
+        "New onset heart failure symptoms",
+        "Annual routine screening"
+      ],
+      "answer": 1,
+      "explanation": "The course review identifies New onset heart failure symptoms as the correct response. *(Practice review slide 17.)*",
+      "explanationImage": null,
+      "tags": [
+        "Indications",
+        "Quality Assurance",
+        "Echocardiography Protocol"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch07-q049",
+      "stem": "While reviewing a standard adult echocardiography protocol, consider this question:  A patient with suspected infective endocarditis is referred for imaging. This indication aligns with:. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "Reporting standards",
+        "Image optimization",
+        "Expanded indications",
+        "Technical limitations"
+      ],
+      "answer": 2,
+      "explanation": "Suspected infective endocarditis is a recognized indication; among these options it maps to the indication category (expanded / special indications). *(Practice review slide 19.)*",
+      "explanationImage": null,
+      "tags": [
+        "Indications",
+        "Quality Assurance",
+        "Echocardiography Protocol"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch07-q050",
+      "stem": "While reviewing a standard adult echocardiography protocol, consider this question:  One of the most important factors pertaining to good patient outcomes is:. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "Knowledge of pathology and requirement of exam expansion",
+        "Accuracy and precision of measurements",
+        "Expertise of the Sonographer and interpreting physician",
+        "Optimized imaging"
+      ],
+      "answer": 2,
+      "explanation": "The expertise of the sonographer and interpreting physician is foundational — skilled acquisition and interpretation underpin every downstream measurement and decision. *(Practice review slide 21.)*",
+      "explanationImage": null,
+      "tags": [
+        "Indications",
+        "Quality Assurance",
+        "Echocardiography Protocol"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch07-q051",
+      "stem": "While reviewing a standard adult echocardiography protocol, consider this question:  An important part of providing a reliable examination result is having the knowledge and skill to compensate and respond for:. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "Inappropriate use of echo",
+        "Timeliness",
+        "Inappropriate indications",
+        "Limitations"
+      ],
+      "answer": 3,
+      "explanation": "Reliable results require recognizing and compensating for limitations — poor acoustic windows, body habitus, artifacts, and incomplete data. *(Practice review slide 23.)*",
+      "explanationImage": null,
+      "tags": [
+        "Indications",
+        "Quality Assurance",
+        "Echocardiography Protocol"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch07-q052",
+      "stem": "While reviewing a standard adult echocardiography protocol, consider this question:  Peer review supports:. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "Reduced pathology detection",
+        "Shorter reporting time",
+        "Continuous improvement",
+        "Increased scan volume"
+      ],
+      "answer": 2,
+      "explanation": "Peer review feeds continuous quality improvement — comparing findings, catching discrepancies, and refining practice over time. *(Practice review slide 25.)*",
+      "explanationImage": null,
+      "tags": [
+        "Indications",
+        "Quality Assurance",
+        "Echocardiography Protocol"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch07-q053",
+      "stem": "While reviewing a standard adult echocardiography protocol, consider this question:  Image quality, protocol adherence and equipment maintenance are components of:. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "Peer review",
+        "Reliability",
+        "Continuous improvement",
+        "Quality Assurance"
+      ],
+      "answer": 3,
+      "explanation": "These are core components of Quality Assurance — the systems that keep studies accurate and reproducible. *(Practice review slide 27.)*",
+      "explanationImage": null,
+      "tags": [
+        "Indications",
+        "Quality Assurance",
+        "Echocardiography Protocol"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch07-q054",
+      "stem": "While reviewing a standard adult echocardiography protocol, consider this question:  Accuracy, consistency and structured reports ensure:. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "Reporting quality",
+        "Review Quality",
+        "Reduced wait times",
+        "Image quality"
+      ],
+      "answer": 0,
+      "explanation": "Accurate, consistent, structured reports define reporting quality — the report is the study's clinical deliverable. *(Practice review slide 29.)*",
+      "explanationImage": null,
+      "tags": [
+        "Indications",
+        "Quality Assurance",
+        "Echocardiography Protocol"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch07-q055",
+      "stem": "While reviewing a standard adult echocardiography protocol, consider this question:  Missed pathology most directly impacts:. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "Diagnostic quality",
+        "Scheduling",
+        "Reporting time",
+        "Patient satisfaction"
+      ],
+      "answer": 0,
+      "explanation": "Missed pathology directly degrades diagnostic quality — the study has failed its core purpose of detecting disease. *(Practice review slide 31.)*",
+      "explanationImage": null,
+      "tags": [
+        "Indications",
+        "Quality Assurance",
+        "Echocardiography Protocol"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch07-q056",
+      "stem": "While reviewing a standard adult echocardiography protocol, consider this question:  Clinical integration in echocardiography combines:. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "Indications, AUC, and QA",
+        "Scheduling and billing",
+        "Measurements and reporting",
+        "Doppler and ECG"
+      ],
+      "answer": 0,
+      "explanation": "Clinical integration brings together indications, Appropriate Use Criteria, and QA — the right test, chosen well, performed and reported to standard. *(Practice review slide 33.)*",
+      "explanationImage": null,
+      "tags": [
+        "Indications",
+        "Quality Assurance",
+        "Echocardiography Protocol"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch07-q057",
+      "stem": "While reviewing a standard adult echocardiography protocol, consider this question:  The most appropriate overall approach to echocardiography practice is to:. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "Use echo appropriately and apply QA standards",
+        "Increase testing frequency",
+        "Scan all referred patients identically",
+        "Focus only on image acquisition"
+      ],
+      "answer": 0,
+      "explanation": "Best practice is to use echo appropriately (right indication and AUC) and apply QA standards throughout. *(Practice review slide 35.)*",
+      "explanationImage": null,
+      "tags": [
+        "Indications",
+        "Quality Assurance",
+        "Echocardiography Protocol"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch07-q058",
+      "stem": "While reviewing a standard adult echocardiography protocol, consider this question:  QA is a responsibility of:. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "Sonographers",
+        "Accreditation",
+        "Biomedical",
+        "QA Coordinator"
+      ],
+      "answer": 0,
+      "explanation": "QA is a front-line responsibility of sonographers — the person acquiring the images is the first guardian of study quality. *(Practice review slide 37.)*",
+      "explanationImage": null,
+      "tags": [
+        "Indications",
+        "Quality Assurance",
+        "Echocardiography Protocol"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch07-q059",
+      "stem": "While reviewing a standard adult echocardiography protocol, consider this question:  The ASE Appropriate Use Criteria were developed to support:. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "Cost-effective patient care",
+        "Faster reporting",
+        "Reduced measurements",
+        "Shorter exams"
+      ],
+      "answer": 0,
+      "explanation": "The ASE Appropriate Use Criteria ensure echo is used where it benefits patients — improving care while reducing low-value testing and cost. *(Practice review slide 39.)*",
+      "explanationImage": null,
+      "tags": [
+        "Indications",
+        "Quality Assurance",
+        "Echocardiography Protocol"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch07-q060",
+      "stem": "While reviewing a standard adult echocardiography protocol, consider this question:  In diagnostic imaging, the person who oversees the quality assurance processes, compliance, auditing, performance improvement and metrics is the:. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "Manager",
+        "Executive director",
+        "Lead Sonographer",
+        "Quality Assurance Coordinator"
+      ],
+      "answer": 3,
+      "explanation": "The Quality Assurance Coordinator oversees QA processes, compliance, auditing, performance improvement, and metrics. *(Practice review slide 41.)*",
+      "explanationImage": null,
+      "tags": [
+        "Indications",
+        "Quality Assurance",
+        "Echocardiography Protocol"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch07-q061",
+      "stem": "A sonographer is asked to select the most accurate response.  What is the primary purpose of establishing indications before performing an echocardiogram?",
+      "image": null,
+      "options": [
+        "Improve reporting speed",
+        "Reduce examination time",
+        "Increase image resolution",
+        "Improve patient care and clinical outcomes"
+      ],
+      "answer": 3,
+      "explanation": "A valid indication ties the study to a clinical question. The point of imaging is to improve patient care and outcomes — not to generate images for their own sake. *(Practice review slide 3.)*",
+      "explanationImage": null,
+      "tags": [
+        "Indications",
+        "Quality Assurance",
+        "Echocardiography Protocol"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch07-q062",
+      "stem": "A sonographer is asked to select the most accurate response.  According to Otto, the usefulness of an echocardiographic examination is best measured by:. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "Clinical outcome of the patient",
+        "Duration of examination",
+        "Equipment used",
+        "Number of images acquired"
+      ],
+      "answer": 0,
+      "explanation": "Otto frames the value of any test by its effect on the patient's clinical outcome — does it change management and improve care? *(Practice review slide 5.)*",
+      "explanationImage": null,
+      "tags": [
+        "Indications",
+        "Quality Assurance",
+        "Echocardiography Protocol"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch07-q063",
+      "stem": "A sonographer is asked to select the most accurate response.  A patient presents with newly developed exertional dyspnea. What is the most appropriate next step?",
+      "image": null,
+      "options": [
+        "Evaluate appropriateness for echocardiography",
+        "Delay testing until symptoms progress",
+        "Repeat previous ECG",
+        "Schedule annual follow-up imaging"
+      ],
+      "answer": 0,
+      "explanation": "Before imaging, assess whether echo is appropriate for this presentation. Exertional dyspnea is a recognized indication, but appropriateness still drives the decision. *(Practice review slide 7.)*",
+      "explanationImage": null,
+      "tags": [
+        "Indications",
+        "Quality Assurance",
+        "Echocardiography Protocol"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch07-q064",
+      "stem": "A sonographer is asked to select the most accurate response.  Which condition represents a common indication for echocardiography?",
+      "image": null,
+      "options": [
+        "Sternum pain",
+        "Heart murmur",
+        "Migraine headaches"
+      ],
+      "answer": 2,
+      "explanation": "The course review identifies Migraine headaches as the correct response. *(Practice review slide 9.)*",
+      "explanationImage": null,
+      "tags": [
+        "Indications",
+        "Quality Assurance",
+        "Echocardiography Protocol"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch07-q065",
+      "stem": "A sonographer is asked to select the most accurate response.  A patient with known valvular disease is referred for follow-up. Which principle supports repeat echocardiography?",
+      "image": null,
+      "options": [
+        "Routine surveillance without indication",
+        "Disease monitoring",
+        "Screening",
+        "General wellness"
+      ],
+      "answer": 1,
+      "explanation": "Repeat imaging in KNOWN valvular disease is justified as disease monitoring — tracking severity and the ventricle's response over time. *(Practice review slide 11.)*",
+      "explanationImage": null,
+      "tags": [
+        "Indications",
+        "Quality Assurance",
+        "Echocardiography Protocol"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch07-q066",
+      "stem": "A sonographer is asked to select the most accurate response.  Which category of disease is commonly evaluated using echocardiography?",
+      "image": null,
+      "options": [
+        "Cardiomyopathy",
+        "Pulmonary fibrosis",
+        "Vascular Disease",
+        "Renal insufficiency"
+      ],
+      "answer": 0,
+      "explanation": "Cardiomyopathy is a core echo target — echo assesses chamber size, wall thickness, and systolic and diastolic function. *(Practice review slide 13.)*",
+      "explanationImage": null,
+      "tags": [
+        "Indications",
+        "Quality Assurance",
+        "Echocardiography Protocol"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch07-q067",
+      "stem": "A sonographer is asked to select the most accurate response.  Symptoms such as dyspnea, chest pain, and syncope are considered:. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "Quality indicators",
+        "Symptom-based indications",
+        "Technical limitations",
+        "Screening criteria"
+      ],
+      "answer": 1,
+      "explanation": "The course review identifies Symptom-based indications as the correct response. *(Practice review slide 15.)*",
+      "explanationImage": null,
+      "tags": [
+        "Indications",
+        "Quality Assurance",
+        "Echocardiography Protocol"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch07-q068",
+      "stem": "A sonographer is asked to select the most accurate response.  Which patient presentation is most likely to justify an echocardiogram?",
+      "image": null,
+      "options": [
+        "Stable low-risk patient",
+        "Annual routine screening",
+        "New onset heart failure symptoms"
+      ],
+      "answer": 2,
+      "explanation": "The course review identifies New onset heart failure symptoms as the correct response. *(Practice review slide 17.)*",
+      "explanationImage": null,
+      "tags": [
+        "Indications",
+        "Quality Assurance",
+        "Echocardiography Protocol"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch07-q069",
+      "stem": "A sonographer is asked to select the most accurate response.  A patient with suspected infective endocarditis is referred for imaging. This indication aligns with:. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "Image optimization",
+        "Reporting standards",
+        "Technical limitations",
+        "Expanded indications"
+      ],
+      "answer": 3,
+      "explanation": "Suspected infective endocarditis is a recognized indication; among these options it maps to the indication category (expanded / special indications). *(Practice review slide 19.)*",
+      "explanationImage": null,
+      "tags": [
+        "Indications",
+        "Quality Assurance",
+        "Echocardiography Protocol"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch07-q070",
+      "stem": "A sonographer is asked to select the most accurate response.  One of the most important factors pertaining to good patient outcomes is:. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "Knowledge of pathology and requirement of exam expansion",
+        "Optimized imaging",
+        "Expertise of the Sonographer and interpreting physician",
+        "Accuracy and precision of measurements"
+      ],
+      "answer": 2,
+      "explanation": "The expertise of the sonographer and interpreting physician is foundational — skilled acquisition and interpretation underpin every downstream measurement and decision. *(Practice review slide 21.)*",
+      "explanationImage": null,
+      "tags": [
+        "Indications",
+        "Quality Assurance",
+        "Echocardiography Protocol"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch07-q071",
+      "stem": "A sonographer is asked to select the most accurate response.  An important part of providing a reliable examination result is having the knowledge and skill to compensate and respond for:. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "Inappropriate indications",
+        "Limitations",
+        "Timeliness",
+        "Inappropriate use of echo"
+      ],
+      "answer": 1,
+      "explanation": "Reliable results require recognizing and compensating for limitations — poor acoustic windows, body habitus, artifacts, and incomplete data. *(Practice review slide 23.)*",
+      "explanationImage": null,
+      "tags": [
+        "Indications",
+        "Quality Assurance",
+        "Echocardiography Protocol"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch07-q072",
+      "stem": "A sonographer is asked to select the most accurate response.  Peer review supports:. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "Increased scan volume",
+        "Reduced pathology detection",
+        "Continuous improvement",
+        "Shorter reporting time"
+      ],
+      "answer": 2,
+      "explanation": "Peer review feeds continuous quality improvement — comparing findings, catching discrepancies, and refining practice over time. *(Practice review slide 25.)*",
+      "explanationImage": null,
+      "tags": [
+        "Indications",
+        "Quality Assurance",
+        "Echocardiography Protocol"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch07-q073",
+      "stem": "A sonographer is asked to select the most accurate response.  Image quality, protocol adherence and equipment maintenance are components of:. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "Reliability",
+        "Quality Assurance",
+        "Continuous improvement",
+        "Peer review"
+      ],
+      "answer": 1,
+      "explanation": "These are core components of Quality Assurance — the systems that keep studies accurate and reproducible. *(Practice review slide 27.)*",
+      "explanationImage": null,
+      "tags": [
+        "Indications",
+        "Quality Assurance",
+        "Echocardiography Protocol"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch07-q074",
+      "stem": "A sonographer is asked to select the most accurate response.  Accuracy, consistency and structured reports ensure:. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "Review Quality",
+        "Reporting quality",
+        "Reduced wait times",
+        "Image quality"
+      ],
+      "answer": 1,
+      "explanation": "Accurate, consistent, structured reports define reporting quality — the report is the study's clinical deliverable. *(Practice review slide 29.)*",
+      "explanationImage": null,
+      "tags": [
+        "Indications",
+        "Quality Assurance",
+        "Echocardiography Protocol"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch07-q075",
+      "stem": "A sonographer is asked to select the most accurate response.  Missed pathology most directly impacts:. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "Reporting time",
+        "Diagnostic quality",
+        "Scheduling",
+        "Patient satisfaction"
+      ],
+      "answer": 1,
+      "explanation": "Missed pathology directly degrades diagnostic quality — the study has failed its core purpose of detecting disease. *(Practice review slide 31.)*",
+      "explanationImage": null,
+      "tags": [
+        "Indications",
+        "Quality Assurance",
+        "Echocardiography Protocol"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch07-q076",
+      "stem": "A sonographer is asked to select the most accurate response.  Clinical integration in echocardiography combines:. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "Measurements and reporting",
+        "Doppler and ECG",
+        "Scheduling and billing",
+        "Indications, AUC, and QA"
+      ],
+      "answer": 3,
+      "explanation": "Clinical integration brings together indications, Appropriate Use Criteria, and QA — the right test, chosen well, performed and reported to standard. *(Practice review slide 33.)*",
+      "explanationImage": null,
+      "tags": [
+        "Indications",
+        "Quality Assurance",
+        "Echocardiography Protocol"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch07-q077",
+      "stem": "A sonographer is asked to select the most accurate response.  The most appropriate overall approach to echocardiography practice is to:. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "Use echo appropriately and apply QA standards",
+        "Scan all referred patients identically",
+        "Increase testing frequency",
+        "Focus only on image acquisition"
+      ],
+      "answer": 0,
+      "explanation": "Best practice is to use echo appropriately (right indication and AUC) and apply QA standards throughout. *(Practice review slide 35.)*",
+      "explanationImage": null,
+      "tags": [
+        "Indications",
+        "Quality Assurance",
+        "Echocardiography Protocol"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch07-q078",
+      "stem": "A sonographer is asked to select the most accurate response.  QA is a responsibility of:. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "Accreditation",
+        "Biomedical",
+        "QA Coordinator",
+        "Sonographers"
+      ],
+      "answer": 3,
+      "explanation": "QA is a front-line responsibility of sonographers — the person acquiring the images is the first guardian of study quality. *(Practice review slide 37.)*",
+      "explanationImage": null,
+      "tags": [
+        "Indications",
+        "Quality Assurance",
+        "Echocardiography Protocol"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch07-q079",
+      "stem": "A sonographer is asked to select the most accurate response.  The ASE Appropriate Use Criteria were developed to support:. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "Reduced measurements",
+        "Faster reporting",
+        "Shorter exams",
+        "Cost-effective patient care"
+      ],
+      "answer": 3,
+      "explanation": "The ASE Appropriate Use Criteria ensure echo is used where it benefits patients — improving care while reducing low-value testing and cost. *(Practice review slide 39.)*",
+      "explanationImage": null,
+      "tags": [
+        "Indications",
+        "Quality Assurance",
+        "Echocardiography Protocol"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch07-q080",
+      "stem": "A sonographer is asked to select the most accurate response.  In diagnostic imaging, the person who oversees the quality assurance processes, compliance, auditing, performance improvement and metrics is the:. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "Manager",
+        "Quality Assurance Coordinator",
+        "Lead Sonographer",
+        "Executive director"
+      ],
+      "answer": 1,
+      "explanation": "The Quality Assurance Coordinator oversees QA processes, compliance, auditing, performance improvement, and metrics. *(Practice review slide 41.)*",
+      "explanationImage": null,
+      "tags": [
+        "Indications",
+        "Quality Assurance",
+        "Echocardiography Protocol"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch07-q081",
+      "stem": "During quality review of an adult echo study, the following point is discussed.  What is the primary purpose of establishing indications before performing an echocardiogram?",
+      "image": null,
+      "options": [
+        "Improve reporting speed",
+        "Improve patient care and clinical outcomes",
+        "Reduce examination time",
+        "Increase image resolution"
+      ],
+      "answer": 1,
+      "explanation": "A valid indication ties the study to a clinical question. The point of imaging is to improve patient care and outcomes — not to generate images for their own sake. *(Practice review slide 3.)*",
+      "explanationImage": null,
+      "tags": [
+        "Indications",
+        "Quality Assurance",
+        "Echocardiography Protocol"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch07-q082",
+      "stem": "During quality review of an adult echo study, the following point is discussed.  According to Otto, the usefulness of an echocardiographic examination is best measured by:. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "Number of images acquired",
+        "Clinical outcome of the patient",
+        "Duration of examination",
+        "Equipment used"
+      ],
+      "answer": 1,
+      "explanation": "Otto frames the value of any test by its effect on the patient's clinical outcome — does it change management and improve care? *(Practice review slide 5.)*",
+      "explanationImage": null,
+      "tags": [
+        "Indications",
+        "Quality Assurance",
+        "Echocardiography Protocol"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch07-q083",
+      "stem": "During quality review of an adult echo study, the following point is discussed.  A patient presents with newly developed exertional dyspnea. What is the most appropriate next step?",
+      "image": null,
+      "options": [
+        "Evaluate appropriateness for echocardiography",
+        "Repeat previous ECG",
+        "Delay testing until symptoms progress",
+        "Schedule annual follow-up imaging"
+      ],
+      "answer": 0,
+      "explanation": "Before imaging, assess whether echo is appropriate for this presentation. Exertional dyspnea is a recognized indication, but appropriateness still drives the decision. *(Practice review slide 7.)*",
+      "explanationImage": null,
+      "tags": [
+        "Indications",
+        "Quality Assurance",
+        "Echocardiography Protocol"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch07-q084",
+      "stem": "During quality review of an adult echo study, the following point is discussed.  Which condition represents a common indication for echocardiography?",
+      "image": null,
+      "options": [
+        "Sternum pain",
+        "Migraine headaches",
+        "Heart murmur"
+      ],
+      "answer": 1,
+      "explanation": "The course review identifies Migraine headaches as the correct response. *(Practice review slide 9.)*",
+      "explanationImage": null,
+      "tags": [
+        "Indications",
+        "Quality Assurance",
+        "Echocardiography Protocol"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch07-q085",
+      "stem": "During quality review of an adult echo study, the following point is discussed.  A patient with known valvular disease is referred for follow-up. Which principle supports repeat echocardiography?",
+      "image": null,
+      "options": [
+        "Disease monitoring",
+        "General wellness",
+        "Routine surveillance without indication",
+        "Screening"
+      ],
+      "answer": 0,
+      "explanation": "Repeat imaging in KNOWN valvular disease is justified as disease monitoring — tracking severity and the ventricle's response over time. *(Practice review slide 11.)*",
+      "explanationImage": null,
+      "tags": [
+        "Indications",
+        "Quality Assurance",
+        "Echocardiography Protocol"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch07-q086",
+      "stem": "During quality review of an adult echo study, the following point is discussed.  Which category of disease is commonly evaluated using echocardiography?",
+      "image": null,
+      "options": [
+        "Renal insufficiency",
+        "Cardiomyopathy",
+        "Pulmonary fibrosis",
+        "Vascular Disease"
+      ],
+      "answer": 1,
+      "explanation": "Cardiomyopathy is a core echo target — echo assesses chamber size, wall thickness, and systolic and diastolic function. *(Practice review slide 13.)*",
+      "explanationImage": null,
+      "tags": [
+        "Indications",
+        "Quality Assurance",
+        "Echocardiography Protocol"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch07-q087",
+      "stem": "During quality review of an adult echo study, the following point is discussed.  Symptoms such as dyspnea, chest pain, and syncope are considered:. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "Quality indicators",
+        "Screening criteria",
+        "Symptom-based indications",
+        "Technical limitations"
+      ],
+      "answer": 2,
+      "explanation": "The course review identifies Symptom-based indications as the correct response. *(Practice review slide 15.)*",
+      "explanationImage": null,
+      "tags": [
+        "Indications",
+        "Quality Assurance",
+        "Echocardiography Protocol"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch07-q088",
+      "stem": "During quality review of an adult echo study, the following point is discussed.  Which patient presentation is most likely to justify an echocardiogram?",
+      "image": null,
+      "options": [
+        "Annual routine screening",
+        "Stable low-risk patient",
+        "New onset heart failure symptoms"
+      ],
+      "answer": 2,
+      "explanation": "The course review identifies New onset heart failure symptoms as the correct response. *(Practice review slide 17.)*",
+      "explanationImage": null,
+      "tags": [
+        "Indications",
+        "Quality Assurance",
+        "Echocardiography Protocol"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch07-q089",
+      "stem": "During quality review of an adult echo study, the following point is discussed.  A patient with suspected infective endocarditis is referred for imaging. This indication aligns with:. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "Expanded indications",
+        "Reporting standards",
+        "Technical limitations",
+        "Image optimization"
+      ],
+      "answer": 0,
+      "explanation": "Suspected infective endocarditis is a recognized indication; among these options it maps to the indication category (expanded / special indications). *(Practice review slide 19.)*",
+      "explanationImage": null,
+      "tags": [
+        "Indications",
+        "Quality Assurance",
+        "Echocardiography Protocol"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch07-q090",
+      "stem": "During quality review of an adult echo study, the following point is discussed.  One of the most important factors pertaining to good patient outcomes is:. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "Expertise of the Sonographer and interpreting physician",
+        "Knowledge of pathology and requirement of exam expansion",
+        "Accuracy and precision of measurements",
+        "Optimized imaging"
+      ],
+      "answer": 0,
+      "explanation": "The expertise of the sonographer and interpreting physician is foundational — skilled acquisition and interpretation underpin every downstream measurement and decision. *(Practice review slide 21.)*",
+      "explanationImage": null,
+      "tags": [
+        "Indications",
+        "Quality Assurance",
+        "Echocardiography Protocol"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch07-q091",
+      "stem": "During quality review of an adult echo study, the following point is discussed.  An important part of providing a reliable examination result is having the knowledge and skill to compensate and respond for:. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "Timeliness",
+        "Limitations",
+        "Inappropriate indications",
+        "Inappropriate use of echo"
+      ],
+      "answer": 1,
+      "explanation": "Reliable results require recognizing and compensating for limitations — poor acoustic windows, body habitus, artifacts, and incomplete data. *(Practice review slide 23.)*",
+      "explanationImage": null,
+      "tags": [
+        "Indications",
+        "Quality Assurance",
+        "Echocardiography Protocol"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch07-q092",
+      "stem": "During quality review of an adult echo study, the following point is discussed.  Peer review supports:. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "Shorter reporting time",
+        "Increased scan volume",
+        "Continuous improvement",
+        "Reduced pathology detection"
+      ],
+      "answer": 2,
+      "explanation": "Peer review feeds continuous quality improvement — comparing findings, catching discrepancies, and refining practice over time. *(Practice review slide 25.)*",
+      "explanationImage": null,
+      "tags": [
+        "Indications",
+        "Quality Assurance",
+        "Echocardiography Protocol"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch07-q093",
+      "stem": "During quality review of an adult echo study, the following point is discussed.  Image quality, protocol adherence and equipment maintenance are components of:. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "Quality Assurance",
+        "Peer review",
+        "Reliability",
+        "Continuous improvement"
+      ],
+      "answer": 0,
+      "explanation": "These are core components of Quality Assurance — the systems that keep studies accurate and reproducible. *(Practice review slide 27.)*",
+      "explanationImage": null,
+      "tags": [
+        "Indications",
+        "Quality Assurance",
+        "Echocardiography Protocol"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch07-q094",
+      "stem": "During quality review of an adult echo study, the following point is discussed.  Accuracy, consistency and structured reports ensure:. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "Reporting quality",
+        "Image quality",
+        "Reduced wait times",
+        "Review Quality"
+      ],
+      "answer": 0,
+      "explanation": "Accurate, consistent, structured reports define reporting quality — the report is the study's clinical deliverable. *(Practice review slide 29.)*",
+      "explanationImage": null,
+      "tags": [
+        "Indications",
+        "Quality Assurance",
+        "Echocardiography Protocol"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch07-q095",
+      "stem": "During quality review of an adult echo study, the following point is discussed.  Missed pathology most directly impacts:. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "Patient satisfaction",
+        "Scheduling",
+        "Reporting time",
+        "Diagnostic quality"
+      ],
+      "answer": 3,
+      "explanation": "Missed pathology directly degrades diagnostic quality — the study has failed its core purpose of detecting disease. *(Practice review slide 31.)*",
+      "explanationImage": null,
+      "tags": [
+        "Indications",
+        "Quality Assurance",
+        "Echocardiography Protocol"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch07-q096",
+      "stem": "During quality review of an adult echo study, the following point is discussed.  Clinical integration in echocardiography combines:. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "Scheduling and billing",
+        "Measurements and reporting",
+        "Indications, AUC, and QA",
+        "Doppler and ECG"
+      ],
+      "answer": 2,
+      "explanation": "Clinical integration brings together indications, Appropriate Use Criteria, and QA — the right test, chosen well, performed and reported to standard. *(Practice review slide 33.)*",
+      "explanationImage": null,
+      "tags": [
+        "Indications",
+        "Quality Assurance",
+        "Echocardiography Protocol"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch07-q097",
+      "stem": "During quality review of an adult echo study, the following point is discussed.  The most appropriate overall approach to echocardiography practice is to:. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "Increase testing frequency",
+        "Focus only on image acquisition",
+        "Use echo appropriately and apply QA standards",
+        "Scan all referred patients identically"
+      ],
+      "answer": 2,
+      "explanation": "Best practice is to use echo appropriately (right indication and AUC) and apply QA standards throughout. *(Practice review slide 35.)*",
+      "explanationImage": null,
+      "tags": [
+        "Indications",
+        "Quality Assurance",
+        "Echocardiography Protocol"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch07-q098",
+      "stem": "During quality review of an adult echo study, the following point is discussed.  QA is a responsibility of:. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "Sonographers",
+        "Biomedical",
+        "Accreditation",
+        "QA Coordinator"
+      ],
+      "answer": 0,
+      "explanation": "QA is a front-line responsibility of sonographers — the person acquiring the images is the first guardian of study quality. *(Practice review slide 37.)*",
+      "explanationImage": null,
+      "tags": [
+        "Indications",
+        "Quality Assurance",
+        "Echocardiography Protocol"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch07-q099",
+      "stem": "During quality review of an adult echo study, the following point is discussed.  The ASE Appropriate Use Criteria were developed to support:. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "Reduced measurements",
+        "Faster reporting",
+        "Cost-effective patient care",
+        "Shorter exams"
+      ],
+      "answer": 2,
+      "explanation": "The ASE Appropriate Use Criteria ensure echo is used where it benefits patients — improving care while reducing low-value testing and cost. *(Practice review slide 39.)*",
+      "explanationImage": null,
+      "tags": [
+        "Indications",
+        "Quality Assurance",
+        "Echocardiography Protocol"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch07-q100",
+      "stem": "During quality review of an adult echo study, the following point is discussed.  In diagnostic imaging, the person who oversees the quality assurance processes, compliance, auditing, performance improvement and metrics is the:. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "Manager",
+        "Quality Assurance Coordinator",
+        "Executive director",
+        "Lead Sonographer"
+      ],
+      "answer": 1,
+      "explanation": "The Quality Assurance Coordinator oversees QA processes, compliance, auditing, performance improvement, and metrics. *(Practice review slide 41.)*",
+      "explanationImage": null,
+      "tags": [
+        "Indications",
+        "Quality Assurance",
+        "Echocardiography Protocol"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch07-q101",
+      "stem": "An adult cardiac sonography student is interpreting a teaching case.  What is the primary purpose of establishing indications before performing an echocardiogram?",
+      "image": null,
+      "options": [
+        "Improve patient care and clinical outcomes",
+        "Reduce examination time",
+        "Increase image resolution",
+        "Improve reporting speed"
+      ],
+      "answer": 0,
+      "explanation": "A valid indication ties the study to a clinical question. The point of imaging is to improve patient care and outcomes — not to generate images for their own sake. *(Practice review slide 3.)*",
+      "explanationImage": null,
+      "tags": [
+        "Indications",
+        "Quality Assurance",
+        "Echocardiography Protocol"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch07-q102",
+      "stem": "An adult cardiac sonography student is interpreting a teaching case.  According to Otto, the usefulness of an echocardiographic examination is best measured by:. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "Equipment used",
+        "Clinical outcome of the patient",
+        "Duration of examination",
+        "Number of images acquired"
+      ],
+      "answer": 1,
+      "explanation": "Otto frames the value of any test by its effect on the patient's clinical outcome — does it change management and improve care? *(Practice review slide 5.)*",
+      "explanationImage": null,
+      "tags": [
+        "Indications",
+        "Quality Assurance",
+        "Echocardiography Protocol"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch07-q103",
+      "stem": "An adult cardiac sonography student is interpreting a teaching case.  A patient presents with newly developed exertional dyspnea. What is the most appropriate next step?",
+      "image": null,
+      "options": [
+        "Repeat previous ECG",
+        "Evaluate appropriateness for echocardiography",
+        "Schedule annual follow-up imaging",
+        "Delay testing until symptoms progress"
+      ],
+      "answer": 1,
+      "explanation": "Before imaging, assess whether echo is appropriate for this presentation. Exertional dyspnea is a recognized indication, but appropriateness still drives the decision. *(Practice review slide 7.)*",
+      "explanationImage": null,
+      "tags": [
+        "Indications",
+        "Quality Assurance",
+        "Echocardiography Protocol"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch07-q104",
+      "stem": "An adult cardiac sonography student is interpreting a teaching case.  Which condition represents a common indication for echocardiography?",
+      "image": null,
+      "options": [
+        "Heart murmur",
+        "Sternum pain",
+        "Migraine headaches"
+      ],
+      "answer": 2,
+      "explanation": "The course review identifies Migraine headaches as the correct response. *(Practice review slide 9.)*",
+      "explanationImage": null,
+      "tags": [
+        "Indications",
+        "Quality Assurance",
+        "Echocardiography Protocol"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch07-q105",
+      "stem": "An adult cardiac sonography student is interpreting a teaching case.  A patient with known valvular disease is referred for follow-up. Which principle supports repeat echocardiography?",
+      "image": null,
+      "options": [
+        "General wellness",
+        "Screening",
+        "Routine surveillance without indication",
+        "Disease monitoring"
+      ],
+      "answer": 3,
+      "explanation": "Repeat imaging in KNOWN valvular disease is justified as disease monitoring — tracking severity and the ventricle's response over time. *(Practice review slide 11.)*",
+      "explanationImage": null,
+      "tags": [
+        "Indications",
+        "Quality Assurance",
+        "Echocardiography Protocol"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch07-q106",
+      "stem": "An adult cardiac sonography student is interpreting a teaching case.  Which category of disease is commonly evaluated using echocardiography?",
+      "image": null,
+      "options": [
+        "Pulmonary fibrosis",
+        "Renal insufficiency",
+        "Cardiomyopathy",
+        "Vascular Disease"
+      ],
+      "answer": 2,
+      "explanation": "Cardiomyopathy is a core echo target — echo assesses chamber size, wall thickness, and systolic and diastolic function. *(Practice review slide 13.)*",
+      "explanationImage": null,
+      "tags": [
+        "Indications",
+        "Quality Assurance",
+        "Echocardiography Protocol"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch07-q107",
+      "stem": "An adult cardiac sonography student is interpreting a teaching case.  Symptoms such as dyspnea, chest pain, and syncope are considered:. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "Technical limitations",
+        "Screening criteria",
+        "Symptom-based indications",
+        "Quality indicators"
+      ],
+      "answer": 2,
+      "explanation": "The course review identifies Symptom-based indications as the correct response. *(Practice review slide 15.)*",
+      "explanationImage": null,
+      "tags": [
+        "Indications",
+        "Quality Assurance",
+        "Echocardiography Protocol"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch07-q108",
+      "stem": "An adult cardiac sonography student is interpreting a teaching case.  Which patient presentation is most likely to justify an echocardiogram?",
+      "image": null,
+      "options": [
+        "Stable low-risk patient",
+        "New onset heart failure symptoms",
+        "Annual routine screening"
+      ],
+      "answer": 1,
+      "explanation": "The course review identifies New onset heart failure symptoms as the correct response. *(Practice review slide 17.)*",
+      "explanationImage": null,
+      "tags": [
+        "Indications",
+        "Quality Assurance",
+        "Echocardiography Protocol"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch07-q109",
+      "stem": "An adult cardiac sonography student is interpreting a teaching case.  A patient with suspected infective endocarditis is referred for imaging. This indication aligns with:. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "Technical limitations",
+        "Expanded indications",
+        "Reporting standards",
+        "Image optimization"
+      ],
+      "answer": 1,
+      "explanation": "Suspected infective endocarditis is a recognized indication; among these options it maps to the indication category (expanded / special indications). *(Practice review slide 19.)*",
+      "explanationImage": null,
+      "tags": [
+        "Indications",
+        "Quality Assurance",
+        "Echocardiography Protocol"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch07-q110",
+      "stem": "An adult cardiac sonography student is interpreting a teaching case.  One of the most important factors pertaining to good patient outcomes is:. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "Accuracy and precision of measurements",
+        "Knowledge of pathology and requirement of exam expansion",
+        "Optimized imaging",
+        "Expertise of the Sonographer and interpreting physician"
+      ],
+      "answer": 3,
+      "explanation": "The expertise of the sonographer and interpreting physician is foundational — skilled acquisition and interpretation underpin every downstream measurement and decision. *(Practice review slide 21.)*",
+      "explanationImage": null,
+      "tags": [
+        "Indications",
+        "Quality Assurance",
+        "Echocardiography Protocol"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch07-q111",
+      "stem": "An adult cardiac sonography student is interpreting a teaching case.  An important part of providing a reliable examination result is having the knowledge and skill to compensate and respond for:. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "Inappropriate indications",
+        "Timeliness",
+        "Limitations",
+        "Inappropriate use of echo"
+      ],
+      "answer": 2,
+      "explanation": "Reliable results require recognizing and compensating for limitations — poor acoustic windows, body habitus, artifacts, and incomplete data. *(Practice review slide 23.)*",
+      "explanationImage": null,
+      "tags": [
+        "Indications",
+        "Quality Assurance",
+        "Echocardiography Protocol"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch07-q112",
+      "stem": "An adult cardiac sonography student is interpreting a teaching case.  Peer review supports:. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "Reduced pathology detection",
+        "Shorter reporting time",
+        "Continuous improvement",
+        "Increased scan volume"
+      ],
+      "answer": 2,
+      "explanation": "Peer review feeds continuous quality improvement — comparing findings, catching discrepancies, and refining practice over time. *(Practice review slide 25.)*",
+      "explanationImage": null,
+      "tags": [
+        "Indications",
+        "Quality Assurance",
+        "Echocardiography Protocol"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch07-q113",
+      "stem": "An adult cardiac sonography student is interpreting a teaching case.  Image quality, protocol adherence and equipment maintenance are components of:. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "Quality Assurance",
+        "Reliability",
+        "Continuous improvement",
+        "Peer review"
+      ],
+      "answer": 0,
+      "explanation": "These are core components of Quality Assurance — the systems that keep studies accurate and reproducible. *(Practice review slide 27.)*",
+      "explanationImage": null,
+      "tags": [
+        "Indications",
+        "Quality Assurance",
+        "Echocardiography Protocol"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch07-q114",
+      "stem": "An adult cardiac sonography student is interpreting a teaching case.  Accuracy, consistency and structured reports ensure:. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "Review Quality",
+        "Reporting quality",
+        "Image quality",
+        "Reduced wait times"
+      ],
+      "answer": 1,
+      "explanation": "Accurate, consistent, structured reports define reporting quality — the report is the study's clinical deliverable. *(Practice review slide 29.)*",
+      "explanationImage": null,
+      "tags": [
+        "Indications",
+        "Quality Assurance",
+        "Echocardiography Protocol"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch07-q115",
+      "stem": "An adult cardiac sonography student is interpreting a teaching case.  Missed pathology most directly impacts:. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "Diagnostic quality",
+        "Reporting time",
+        "Scheduling",
+        "Patient satisfaction"
+      ],
+      "answer": 0,
+      "explanation": "Missed pathology directly degrades diagnostic quality — the study has failed its core purpose of detecting disease. *(Practice review slide 31.)*",
+      "explanationImage": null,
+      "tags": [
+        "Indications",
+        "Quality Assurance",
+        "Echocardiography Protocol"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch07-q116",
+      "stem": "An adult cardiac sonography student is interpreting a teaching case.  Clinical integration in echocardiography combines:. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "Scheduling and billing",
+        "Measurements and reporting",
+        "Doppler and ECG",
+        "Indications, AUC, and QA"
+      ],
+      "answer": 3,
+      "explanation": "Clinical integration brings together indications, Appropriate Use Criteria, and QA — the right test, chosen well, performed and reported to standard. *(Practice review slide 33.)*",
+      "explanationImage": null,
+      "tags": [
+        "Indications",
+        "Quality Assurance",
+        "Echocardiography Protocol"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch07-q117",
+      "stem": "An adult cardiac sonography student is interpreting a teaching case.  The most appropriate overall approach to echocardiography practice is to:. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "Use echo appropriately and apply QA standards",
+        "Scan all referred patients identically",
+        "Increase testing frequency",
+        "Focus only on image acquisition"
+      ],
+      "answer": 0,
+      "explanation": "Best practice is to use echo appropriately (right indication and AUC) and apply QA standards throughout. *(Practice review slide 35.)*",
+      "explanationImage": null,
+      "tags": [
+        "Indications",
+        "Quality Assurance",
+        "Echocardiography Protocol"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch07-q118",
+      "stem": "An adult cardiac sonography student is interpreting a teaching case.  QA is a responsibility of:. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "Sonographers",
+        "QA Coordinator",
+        "Accreditation",
+        "Biomedical"
+      ],
+      "answer": 0,
+      "explanation": "QA is a front-line responsibility of sonographers — the person acquiring the images is the first guardian of study quality. *(Practice review slide 37.)*",
+      "explanationImage": null,
+      "tags": [
+        "Indications",
+        "Quality Assurance",
+        "Echocardiography Protocol"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch07-q119",
+      "stem": "An adult cardiac sonography student is interpreting a teaching case.  The ASE Appropriate Use Criteria were developed to support:. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "Faster reporting",
+        "Cost-effective patient care",
+        "Shorter exams",
+        "Reduced measurements"
+      ],
+      "answer": 1,
+      "explanation": "The ASE Appropriate Use Criteria ensure echo is used where it benefits patients — improving care while reducing low-value testing and cost. *(Practice review slide 39.)*",
+      "explanationImage": null,
+      "tags": [
+        "Indications",
+        "Quality Assurance",
+        "Echocardiography Protocol"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch07-q120",
+      "stem": "An adult cardiac sonography student is interpreting a teaching case.  In diagnostic imaging, the person who oversees the quality assurance processes, compliance, auditing, performance improvement and metrics is the:. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "Executive director",
+        "Manager",
+        "Lead Sonographer",
+        "Quality Assurance Coordinator"
+      ],
+      "answer": 3,
+      "explanation": "The Quality Assurance Coordinator oversees QA processes, compliance, auditing, performance improvement, and metrics. *(Practice review slide 41.)*",
+      "explanationImage": null,
+      "tags": [
+        "Indications",
+        "Quality Assurance",
+        "Echocardiography Protocol"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch07-q121",
+      "stem": "Before image acquisition, a sonographer checks their understanding of the following.  What is the primary purpose of establishing indications before performing an echocardiogram?",
+      "image": null,
+      "options": [
+        "Increase image resolution",
+        "Improve reporting speed",
+        "Reduce examination time",
+        "Improve patient care and clinical outcomes"
+      ],
+      "answer": 3,
+      "explanation": "A valid indication ties the study to a clinical question. The point of imaging is to improve patient care and outcomes — not to generate images for their own sake. *(Practice review slide 3.)*",
+      "explanationImage": null,
+      "tags": [
+        "Indications",
+        "Quality Assurance",
+        "Echocardiography Protocol"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch07-q122",
+      "stem": "Before image acquisition, a sonographer checks their understanding of the following.  According to Otto, the usefulness of an echocardiographic examination is best measured by:. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "Clinical outcome of the patient",
+        "Duration of examination",
+        "Number of images acquired",
+        "Equipment used"
+      ],
+      "answer": 0,
+      "explanation": "Otto frames the value of any test by its effect on the patient's clinical outcome — does it change management and improve care? *(Practice review slide 5.)*",
+      "explanationImage": null,
+      "tags": [
+        "Indications",
+        "Quality Assurance",
+        "Echocardiography Protocol"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch07-q123",
+      "stem": "Before image acquisition, a sonographer checks their understanding of the following.  A patient presents with newly developed exertional dyspnea. What is the most appropriate next step?",
+      "image": null,
+      "options": [
+        "Schedule annual follow-up imaging",
+        "Evaluate appropriateness for echocardiography",
+        "Repeat previous ECG",
+        "Delay testing until symptoms progress"
+      ],
+      "answer": 1,
+      "explanation": "Before imaging, assess whether echo is appropriate for this presentation. Exertional dyspnea is a recognized indication, but appropriateness still drives the decision. *(Practice review slide 7.)*",
+      "explanationImage": null,
+      "tags": [
+        "Indications",
+        "Quality Assurance",
+        "Echocardiography Protocol"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch07-q124",
+      "stem": "Before image acquisition, a sonographer checks their understanding of the following.  Which condition represents a common indication for echocardiography?",
+      "image": null,
+      "options": [
+        "Migraine headaches",
+        "Heart murmur",
+        "Sternum pain"
+      ],
+      "answer": 0,
+      "explanation": "The course review identifies Migraine headaches as the correct response. *(Practice review slide 9.)*",
+      "explanationImage": null,
+      "tags": [
+        "Indications",
+        "Quality Assurance",
+        "Echocardiography Protocol"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch07-q125",
+      "stem": "Before image acquisition, a sonographer checks their understanding of the following.  A patient with known valvular disease is referred for follow-up. Which principle supports repeat echocardiography?",
+      "image": null,
+      "options": [
+        "Screening",
+        "Disease monitoring",
+        "General wellness",
+        "Routine surveillance without indication"
+      ],
+      "answer": 1,
+      "explanation": "Repeat imaging in KNOWN valvular disease is justified as disease monitoring — tracking severity and the ventricle's response over time. *(Practice review slide 11.)*",
+      "explanationImage": null,
+      "tags": [
+        "Indications",
+        "Quality Assurance",
+        "Echocardiography Protocol"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch07-q126",
+      "stem": "Before image acquisition, a sonographer checks their understanding of the following.  Which category of disease is commonly evaluated using echocardiography?",
+      "image": null,
+      "options": [
+        "Cardiomyopathy",
+        "Vascular Disease",
+        "Pulmonary fibrosis",
+        "Renal insufficiency"
+      ],
+      "answer": 0,
+      "explanation": "Cardiomyopathy is a core echo target — echo assesses chamber size, wall thickness, and systolic and diastolic function. *(Practice review slide 13.)*",
+      "explanationImage": null,
+      "tags": [
+        "Indications",
+        "Quality Assurance",
+        "Echocardiography Protocol"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch07-q127",
+      "stem": "Before image acquisition, a sonographer checks their understanding of the following.  Symptoms such as dyspnea, chest pain, and syncope are considered:. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "Screening criteria",
+        "Symptom-based indications",
+        "Quality indicators",
+        "Technical limitations"
+      ],
+      "answer": 1,
+      "explanation": "The course review identifies Symptom-based indications as the correct response. *(Practice review slide 15.)*",
+      "explanationImage": null,
+      "tags": [
+        "Indications",
+        "Quality Assurance",
+        "Echocardiography Protocol"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch07-q128",
+      "stem": "Before image acquisition, a sonographer checks their understanding of the following.  Which patient presentation is most likely to justify an echocardiogram?",
+      "image": null,
+      "options": [
+        "Annual routine screening",
+        "New onset heart failure symptoms",
+        "Stable low-risk patient"
+      ],
+      "answer": 1,
+      "explanation": "The course review identifies New onset heart failure symptoms as the correct response. *(Practice review slide 17.)*",
+      "explanationImage": null,
+      "tags": [
+        "Indications",
+        "Quality Assurance",
+        "Echocardiography Protocol"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch07-q129",
+      "stem": "Before image acquisition, a sonographer checks their understanding of the following.  A patient with suspected infective endocarditis is referred for imaging. This indication aligns with:. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "Image optimization",
+        "Expanded indications",
+        "Reporting standards",
+        "Technical limitations"
+      ],
+      "answer": 1,
+      "explanation": "Suspected infective endocarditis is a recognized indication; among these options it maps to the indication category (expanded / special indications). *(Practice review slide 19.)*",
+      "explanationImage": null,
+      "tags": [
+        "Indications",
+        "Quality Assurance",
+        "Echocardiography Protocol"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch07-q130",
+      "stem": "Before image acquisition, a sonographer checks their understanding of the following.  One of the most important factors pertaining to good patient outcomes is:. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "Knowledge of pathology and requirement of exam expansion",
+        "Optimized imaging",
+        "Accuracy and precision of measurements",
+        "Expertise of the Sonographer and interpreting physician"
+      ],
+      "answer": 3,
+      "explanation": "The expertise of the sonographer and interpreting physician is foundational — skilled acquisition and interpretation underpin every downstream measurement and decision. *(Practice review slide 21.)*",
+      "explanationImage": null,
+      "tags": [
+        "Indications",
+        "Quality Assurance",
+        "Echocardiography Protocol"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch07-q131",
+      "stem": "Before image acquisition, a sonographer checks their understanding of the following.  An important part of providing a reliable examination result is having the knowledge and skill to compensate and respond for:. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "Inappropriate use of echo",
+        "Inappropriate indications",
+        "Timeliness",
+        "Limitations"
+      ],
+      "answer": 3,
+      "explanation": "Reliable results require recognizing and compensating for limitations — poor acoustic windows, body habitus, artifacts, and incomplete data. *(Practice review slide 23.)*",
+      "explanationImage": null,
+      "tags": [
+        "Indications",
+        "Quality Assurance",
+        "Echocardiography Protocol"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch07-q132",
+      "stem": "Before image acquisition, a sonographer checks their understanding of the following.  Peer review supports:. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "Continuous improvement",
+        "Reduced pathology detection",
+        "Shorter reporting time",
+        "Increased scan volume"
+      ],
+      "answer": 0,
+      "explanation": "Peer review feeds continuous quality improvement — comparing findings, catching discrepancies, and refining practice over time. *(Practice review slide 25.)*",
+      "explanationImage": null,
+      "tags": [
+        "Indications",
+        "Quality Assurance",
+        "Echocardiography Protocol"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch07-q133",
+      "stem": "Before image acquisition, a sonographer checks their understanding of the following.  Image quality, protocol adherence and equipment maintenance are components of:. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "Continuous improvement",
+        "Reliability",
+        "Quality Assurance",
+        "Peer review"
+      ],
+      "answer": 2,
+      "explanation": "These are core components of Quality Assurance — the systems that keep studies accurate and reproducible. *(Practice review slide 27.)*",
+      "explanationImage": null,
+      "tags": [
+        "Indications",
+        "Quality Assurance",
+        "Echocardiography Protocol"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch07-q134",
+      "stem": "Before image acquisition, a sonographer checks their understanding of the following.  Accuracy, consistency and structured reports ensure:. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "Image quality",
+        "Reporting quality",
+        "Reduced wait times",
+        "Review Quality"
+      ],
+      "answer": 1,
+      "explanation": "Accurate, consistent, structured reports define reporting quality — the report is the study's clinical deliverable. *(Practice review slide 29.)*",
+      "explanationImage": null,
+      "tags": [
+        "Indications",
+        "Quality Assurance",
+        "Echocardiography Protocol"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch07-q135",
+      "stem": "Before image acquisition, a sonographer checks their understanding of the following.  Missed pathology most directly impacts:. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "Scheduling",
+        "Reporting time",
+        "Patient satisfaction",
+        "Diagnostic quality"
+      ],
+      "answer": 3,
+      "explanation": "Missed pathology directly degrades diagnostic quality — the study has failed its core purpose of detecting disease. *(Practice review slide 31.)*",
+      "explanationImage": null,
+      "tags": [
+        "Indications",
+        "Quality Assurance",
+        "Echocardiography Protocol"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch07-q136",
+      "stem": "Before image acquisition, a sonographer checks their understanding of the following.  Clinical integration in echocardiography combines:. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "Measurements and reporting",
+        "Scheduling and billing",
+        "Indications, AUC, and QA",
+        "Doppler and ECG"
+      ],
+      "answer": 2,
+      "explanation": "Clinical integration brings together indications, Appropriate Use Criteria, and QA — the right test, chosen well, performed and reported to standard. *(Practice review slide 33.)*",
+      "explanationImage": null,
+      "tags": [
+        "Indications",
+        "Quality Assurance",
+        "Echocardiography Protocol"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch07-q137",
+      "stem": "Before image acquisition, a sonographer checks their understanding of the following.  The most appropriate overall approach to echocardiography practice is to:. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "Scan all referred patients identically",
+        "Use echo appropriately and apply QA standards",
+        "Increase testing frequency",
+        "Focus only on image acquisition"
+      ],
+      "answer": 1,
+      "explanation": "Best practice is to use echo appropriately (right indication and AUC) and apply QA standards throughout. *(Practice review slide 35.)*",
+      "explanationImage": null,
+      "tags": [
+        "Indications",
+        "Quality Assurance",
+        "Echocardiography Protocol"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch07-q138",
+      "stem": "Before image acquisition, a sonographer checks their understanding of the following.  QA is a responsibility of:. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "Biomedical",
+        "Accreditation",
+        "Sonographers",
+        "QA Coordinator"
+      ],
+      "answer": 2,
+      "explanation": "QA is a front-line responsibility of sonographers — the person acquiring the images is the first guardian of study quality. *(Practice review slide 37.)*",
+      "explanationImage": null,
+      "tags": [
+        "Indications",
+        "Quality Assurance",
+        "Echocardiography Protocol"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch07-q139",
+      "stem": "Before image acquisition, a sonographer checks their understanding of the following.  The ASE Appropriate Use Criteria were developed to support:. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "Cost-effective patient care",
+        "Faster reporting",
+        "Shorter exams",
+        "Reduced measurements"
+      ],
+      "answer": 0,
+      "explanation": "The ASE Appropriate Use Criteria ensure echo is used where it benefits patients — improving care while reducing low-value testing and cost. *(Practice review slide 39.)*",
+      "explanationImage": null,
+      "tags": [
+        "Indications",
+        "Quality Assurance",
+        "Echocardiography Protocol"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch07-q140",
+      "stem": "Before image acquisition, a sonographer checks their understanding of the following.  In diagnostic imaging, the person who oversees the quality assurance processes, compliance, auditing, performance improvement and metrics is the:. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "Executive director",
+        "Manager",
+        "Lead Sonographer",
+        "Quality Assurance Coordinator"
+      ],
+      "answer": 3,
+      "explanation": "The Quality Assurance Coordinator oversees QA processes, compliance, auditing, performance improvement, and metrics. *(Practice review slide 41.)*",
+      "explanationImage": null,
+      "tags": [
+        "Indications",
+        "Quality Assurance",
+        "Echocardiography Protocol"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch07-q141",
+      "stem": "In a laboratory teaching session, the instructor asks:  What is the primary purpose of establishing indications before performing an echocardiogram?",
+      "image": null,
+      "options": [
+        "Improve reporting speed",
+        "Reduce examination time",
+        "Improve patient care and clinical outcomes",
+        "Increase image resolution"
+      ],
+      "answer": 2,
+      "explanation": "A valid indication ties the study to a clinical question. The point of imaging is to improve patient care and outcomes — not to generate images for their own sake. *(Practice review slide 3.)*",
+      "explanationImage": null,
+      "tags": [
+        "Indications",
+        "Quality Assurance",
+        "Echocardiography Protocol"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch07-q142",
+      "stem": "In a laboratory teaching session, the instructor asks:  According to Otto, the usefulness of an echocardiographic examination is best measured by:. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "Number of images acquired",
+        "Equipment used",
+        "Duration of examination",
+        "Clinical outcome of the patient"
+      ],
+      "answer": 3,
+      "explanation": "Otto frames the value of any test by its effect on the patient's clinical outcome — does it change management and improve care? *(Practice review slide 5.)*",
+      "explanationImage": null,
+      "tags": [
+        "Indications",
+        "Quality Assurance",
+        "Echocardiography Protocol"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch07-q143",
+      "stem": "In a laboratory teaching session, the instructor asks:  A patient presents with newly developed exertional dyspnea. What is the most appropriate next step?",
+      "image": null,
+      "options": [
+        "Repeat previous ECG",
+        "Schedule annual follow-up imaging",
+        "Evaluate appropriateness for echocardiography",
+        "Delay testing until symptoms progress"
+      ],
+      "answer": 2,
+      "explanation": "Before imaging, assess whether echo is appropriate for this presentation. Exertional dyspnea is a recognized indication, but appropriateness still drives the decision. *(Practice review slide 7.)*",
+      "explanationImage": null,
+      "tags": [
+        "Indications",
+        "Quality Assurance",
+        "Echocardiography Protocol"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch07-q144",
+      "stem": "In a laboratory teaching session, the instructor asks:  Which condition represents a common indication for echocardiography?",
+      "image": null,
+      "options": [
+        "Heart murmur",
+        "Sternum pain",
+        "Migraine headaches"
+      ],
+      "answer": 2,
+      "explanation": "The course review identifies Migraine headaches as the correct response. *(Practice review slide 9.)*",
+      "explanationImage": null,
+      "tags": [
+        "Indications",
+        "Quality Assurance",
+        "Echocardiography Protocol"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch07-q145",
+      "stem": "In a laboratory teaching session, the instructor asks:  A patient with known valvular disease is referred for follow-up. Which principle supports repeat echocardiography?",
+      "image": null,
+      "options": [
+        "Screening",
+        "General wellness",
+        "Routine surveillance without indication",
+        "Disease monitoring"
+      ],
+      "answer": 3,
+      "explanation": "Repeat imaging in KNOWN valvular disease is justified as disease monitoring — tracking severity and the ventricle's response over time. *(Practice review slide 11.)*",
+      "explanationImage": null,
+      "tags": [
+        "Indications",
+        "Quality Assurance",
+        "Echocardiography Protocol"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch07-q146",
+      "stem": "In a laboratory teaching session, the instructor asks:  Which category of disease is commonly evaluated using echocardiography?",
+      "image": null,
+      "options": [
+        "Cardiomyopathy",
+        "Pulmonary fibrosis",
+        "Renal insufficiency",
+        "Vascular Disease"
+      ],
+      "answer": 0,
+      "explanation": "Cardiomyopathy is a core echo target — echo assesses chamber size, wall thickness, and systolic and diastolic function. *(Practice review slide 13.)*",
+      "explanationImage": null,
+      "tags": [
+        "Indications",
+        "Quality Assurance",
+        "Echocardiography Protocol"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch07-q147",
+      "stem": "In a laboratory teaching session, the instructor asks:  Symptoms such as dyspnea, chest pain, and syncope are considered:. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "Symptom-based indications",
+        "Quality indicators",
+        "Technical limitations",
+        "Screening criteria"
+      ],
+      "answer": 0,
+      "explanation": "The course review identifies Symptom-based indications as the correct response. *(Practice review slide 15.)*",
+      "explanationImage": null,
+      "tags": [
+        "Indications",
+        "Quality Assurance",
+        "Echocardiography Protocol"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch07-q148",
+      "stem": "In a laboratory teaching session, the instructor asks:  Which patient presentation is most likely to justify an echocardiogram?",
+      "image": null,
+      "options": [
+        "Annual routine screening",
+        "New onset heart failure symptoms",
+        "Stable low-risk patient"
+      ],
+      "answer": 1,
+      "explanation": "The course review identifies New onset heart failure symptoms as the correct response. *(Practice review slide 17.)*",
+      "explanationImage": null,
+      "tags": [
+        "Indications",
+        "Quality Assurance",
+        "Echocardiography Protocol"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch07-q149",
+      "stem": "In a laboratory teaching session, the instructor asks:  A patient with suspected infective endocarditis is referred for imaging. This indication aligns with:. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "Technical limitations",
+        "Reporting standards",
+        "Expanded indications",
+        "Image optimization"
+      ],
+      "answer": 2,
+      "explanation": "Suspected infective endocarditis is a recognized indication; among these options it maps to the indication category (expanded / special indications). *(Practice review slide 19.)*",
+      "explanationImage": null,
+      "tags": [
+        "Indications",
+        "Quality Assurance",
+        "Echocardiography Protocol"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch07-q150",
+      "stem": "In a laboratory teaching session, the instructor asks:  One of the most important factors pertaining to good patient outcomes is:. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "Expertise of the Sonographer and interpreting physician",
+        "Optimized imaging",
+        "Knowledge of pathology and requirement of exam expansion",
+        "Accuracy and precision of measurements"
+      ],
+      "answer": 0,
+      "explanation": "The expertise of the sonographer and interpreting physician is foundational — skilled acquisition and interpretation underpin every downstream measurement and decision. *(Practice review slide 21.)*",
+      "explanationImage": null,
+      "tags": [
+        "Indications",
+        "Quality Assurance",
+        "Echocardiography Protocol"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch07-q151",
+      "stem": "In a laboratory teaching session, the instructor asks:  An important part of providing a reliable examination result is having the knowledge and skill to compensate and respond for:. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "Timeliness",
+        "Inappropriate indications",
+        "Limitations",
+        "Inappropriate use of echo"
+      ],
+      "answer": 2,
+      "explanation": "Reliable results require recognizing and compensating for limitations — poor acoustic windows, body habitus, artifacts, and incomplete data. *(Practice review slide 23.)*",
+      "explanationImage": null,
+      "tags": [
+        "Indications",
+        "Quality Assurance",
+        "Echocardiography Protocol"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch07-q152",
+      "stem": "In a laboratory teaching session, the instructor asks:  Peer review supports:. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "Shorter reporting time",
+        "Reduced pathology detection",
+        "Increased scan volume",
+        "Continuous improvement"
+      ],
+      "answer": 3,
+      "explanation": "Peer review feeds continuous quality improvement — comparing findings, catching discrepancies, and refining practice over time. *(Practice review slide 25.)*",
+      "explanationImage": null,
+      "tags": [
+        "Indications",
+        "Quality Assurance",
+        "Echocardiography Protocol"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch07-q153",
+      "stem": "In a laboratory teaching session, the instructor asks:  Image quality, protocol adherence and equipment maintenance are components of:. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "Quality Assurance",
+        "Peer review",
+        "Continuous improvement",
+        "Reliability"
+      ],
+      "answer": 0,
+      "explanation": "These are core components of Quality Assurance — the systems that keep studies accurate and reproducible. *(Practice review slide 27.)*",
+      "explanationImage": null,
+      "tags": [
+        "Indications",
+        "Quality Assurance",
+        "Echocardiography Protocol"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch07-q154",
+      "stem": "In a laboratory teaching session, the instructor asks:  Accuracy, consistency and structured reports ensure:. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "Image quality",
+        "Reduced wait times",
+        "Reporting quality",
+        "Review Quality"
+      ],
+      "answer": 2,
+      "explanation": "Accurate, consistent, structured reports define reporting quality — the report is the study's clinical deliverable. *(Practice review slide 29.)*",
+      "explanationImage": null,
+      "tags": [
+        "Indications",
+        "Quality Assurance",
+        "Echocardiography Protocol"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch07-q155",
+      "stem": "In a laboratory teaching session, the instructor asks:  Missed pathology most directly impacts:. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "Patient satisfaction",
+        "Scheduling",
+        "Diagnostic quality",
+        "Reporting time"
+      ],
+      "answer": 2,
+      "explanation": "Missed pathology directly degrades diagnostic quality — the study has failed its core purpose of detecting disease. *(Practice review slide 31.)*",
+      "explanationImage": null,
+      "tags": [
+        "Indications",
+        "Quality Assurance",
+        "Echocardiography Protocol"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch07-q156",
+      "stem": "In a laboratory teaching session, the instructor asks:  Clinical integration in echocardiography combines:. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "Scheduling and billing",
+        "Doppler and ECG",
+        "Measurements and reporting",
+        "Indications, AUC, and QA"
+      ],
+      "answer": 3,
+      "explanation": "Clinical integration brings together indications, Appropriate Use Criteria, and QA — the right test, chosen well, performed and reported to standard. *(Practice review slide 33.)*",
+      "explanationImage": null,
+      "tags": [
+        "Indications",
+        "Quality Assurance",
+        "Echocardiography Protocol"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch07-q157",
+      "stem": "In a laboratory teaching session, the instructor asks:  The most appropriate overall approach to echocardiography practice is to:. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "Increase testing frequency",
+        "Focus only on image acquisition",
+        "Scan all referred patients identically",
+        "Use echo appropriately and apply QA standards"
+      ],
+      "answer": 3,
+      "explanation": "Best practice is to use echo appropriately (right indication and AUC) and apply QA standards throughout. *(Practice review slide 35.)*",
+      "explanationImage": null,
+      "tags": [
+        "Indications",
+        "Quality Assurance",
+        "Echocardiography Protocol"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch07-q158",
+      "stem": "In a laboratory teaching session, the instructor asks:  QA is a responsibility of:. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "Sonographers",
+        "Accreditation",
+        "Biomedical",
+        "QA Coordinator"
+      ],
+      "answer": 0,
+      "explanation": "QA is a front-line responsibility of sonographers — the person acquiring the images is the first guardian of study quality. *(Practice review slide 37.)*",
+      "explanationImage": null,
+      "tags": [
+        "Indications",
+        "Quality Assurance",
+        "Echocardiography Protocol"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch07-q159",
+      "stem": "In a laboratory teaching session, the instructor asks:  The ASE Appropriate Use Criteria were developed to support:. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "Faster reporting",
+        "Reduced measurements",
+        "Cost-effective patient care",
+        "Shorter exams"
+      ],
+      "answer": 2,
+      "explanation": "The ASE Appropriate Use Criteria ensure echo is used where it benefits patients — improving care while reducing low-value testing and cost. *(Practice review slide 39.)*",
+      "explanationImage": null,
+      "tags": [
+        "Indications",
+        "Quality Assurance",
+        "Echocardiography Protocol"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch07-q160",
+      "stem": "In a laboratory teaching session, the instructor asks:  In diagnostic imaging, the person who oversees the quality assurance processes, compliance, auditing, performance improvement and metrics is the:. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "Executive director",
+        "Lead Sonographer",
+        "Manager",
+        "Quality Assurance Coordinator"
+      ],
+      "answer": 3,
+      "explanation": "The Quality Assurance Coordinator oversees QA processes, compliance, auditing, performance improvement, and metrics. *(Practice review slide 41.)*",
+      "explanationImage": null,
+      "tags": [
+        "Indications",
+        "Quality Assurance",
+        "Echocardiography Protocol"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch07-q161",
+      "stem": "During a mock adult echocardiography board examination, consider the following.  What is the primary purpose of establishing indications before performing an echocardiogram?",
+      "image": null,
+      "options": [
+        "Improve reporting speed",
+        "Increase image resolution",
+        "Improve patient care and clinical outcomes",
+        "Reduce examination time"
+      ],
+      "answer": 2,
+      "explanation": "A valid indication ties the study to a clinical question. The point of imaging is to improve patient care and outcomes — not to generate images for their own sake. *(Practice review slide 3.)*",
+      "explanationImage": null,
+      "tags": [
+        "Indications",
+        "Quality Assurance",
+        "Echocardiography Protocol"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch07-q162",
+      "stem": "During a mock adult echocardiography board examination, consider the following.  According to Otto, the usefulness of an echocardiographic examination is best measured by:. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "Clinical outcome of the patient",
+        "Duration of examination",
+        "Number of images acquired",
+        "Equipment used"
+      ],
+      "answer": 0,
+      "explanation": "Otto frames the value of any test by its effect on the patient's clinical outcome — does it change management and improve care? *(Practice review slide 5.)*",
+      "explanationImage": null,
+      "tags": [
+        "Indications",
+        "Quality Assurance",
+        "Echocardiography Protocol"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch07-q163",
+      "stem": "During a mock adult echocardiography board examination, consider the following.  A patient presents with newly developed exertional dyspnea. What is the most appropriate next step?",
+      "image": null,
+      "options": [
+        "Evaluate appropriateness for echocardiography",
+        "Delay testing until symptoms progress",
+        "Schedule annual follow-up imaging",
+        "Repeat previous ECG"
+      ],
+      "answer": 0,
+      "explanation": "Before imaging, assess whether echo is appropriate for this presentation. Exertional dyspnea is a recognized indication, but appropriateness still drives the decision. *(Practice review slide 7.)*",
+      "explanationImage": null,
+      "tags": [
+        "Indications",
+        "Quality Assurance",
+        "Echocardiography Protocol"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch07-q164",
+      "stem": "During a mock adult echocardiography board examination, consider the following.  Which condition represents a common indication for echocardiography?",
+      "image": null,
+      "options": [
+        "Heart murmur",
+        "Sternum pain",
+        "Migraine headaches"
+      ],
+      "answer": 2,
+      "explanation": "The course review identifies Migraine headaches as the correct response. *(Practice review slide 9.)*",
+      "explanationImage": null,
+      "tags": [
+        "Indications",
+        "Quality Assurance",
+        "Echocardiography Protocol"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch07-q165",
+      "stem": "During a mock adult echocardiography board examination, consider the following.  A patient with known valvular disease is referred for follow-up. Which principle supports repeat echocardiography?",
+      "image": null,
+      "options": [
+        "Routine surveillance without indication",
+        "General wellness",
+        "Disease monitoring",
+        "Screening"
+      ],
+      "answer": 2,
+      "explanation": "Repeat imaging in KNOWN valvular disease is justified as disease monitoring — tracking severity and the ventricle's response over time. *(Practice review slide 11.)*",
+      "explanationImage": null,
+      "tags": [
+        "Indications",
+        "Quality Assurance",
+        "Echocardiography Protocol"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch07-q166",
+      "stem": "During a mock adult echocardiography board examination, consider the following.  Which category of disease is commonly evaluated using echocardiography?",
+      "image": null,
+      "options": [
+        "Pulmonary fibrosis",
+        "Cardiomyopathy",
+        "Renal insufficiency",
+        "Vascular Disease"
+      ],
+      "answer": 1,
+      "explanation": "Cardiomyopathy is a core echo target — echo assesses chamber size, wall thickness, and systolic and diastolic function. *(Practice review slide 13.)*",
+      "explanationImage": null,
+      "tags": [
+        "Indications",
+        "Quality Assurance",
+        "Echocardiography Protocol"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch07-q167",
+      "stem": "During a mock adult echocardiography board examination, consider the following.  Symptoms such as dyspnea, chest pain, and syncope are considered:. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "Screening criteria",
+        "Technical limitations",
+        "Quality indicators",
+        "Symptom-based indications"
+      ],
+      "answer": 3,
+      "explanation": "The course review identifies Symptom-based indications as the correct response. *(Practice review slide 15.)*",
+      "explanationImage": null,
+      "tags": [
+        "Indications",
+        "Quality Assurance",
+        "Echocardiography Protocol"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch07-q168",
+      "stem": "During a mock adult echocardiography board examination, consider the following.  Which patient presentation is most likely to justify an echocardiogram?",
+      "image": null,
+      "options": [
+        "New onset heart failure symptoms",
+        "Annual routine screening",
+        "Stable low-risk patient"
+      ],
+      "answer": 0,
+      "explanation": "The course review identifies New onset heart failure symptoms as the correct response. *(Practice review slide 17.)*",
+      "explanationImage": null,
+      "tags": [
+        "Indications",
+        "Quality Assurance",
+        "Echocardiography Protocol"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch07-q169",
+      "stem": "During a mock adult echocardiography board examination, consider the following.  A patient with suspected infective endocarditis is referred for imaging. This indication aligns with:. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "Reporting standards",
+        "Image optimization",
+        "Expanded indications",
+        "Technical limitations"
+      ],
+      "answer": 2,
+      "explanation": "Suspected infective endocarditis is a recognized indication; among these options it maps to the indication category (expanded / special indications). *(Practice review slide 19.)*",
+      "explanationImage": null,
+      "tags": [
+        "Indications",
+        "Quality Assurance",
+        "Echocardiography Protocol"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch07-q170",
+      "stem": "During a mock adult echocardiography board examination, consider the following.  One of the most important factors pertaining to good patient outcomes is:. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "Optimized imaging",
+        "Knowledge of pathology and requirement of exam expansion",
+        "Accuracy and precision of measurements",
+        "Expertise of the Sonographer and interpreting physician"
+      ],
+      "answer": 3,
+      "explanation": "The expertise of the sonographer and interpreting physician is foundational — skilled acquisition and interpretation underpin every downstream measurement and decision. *(Practice review slide 21.)*",
+      "explanationImage": null,
+      "tags": [
+        "Indications",
+        "Quality Assurance",
+        "Echocardiography Protocol"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch07-q171",
+      "stem": "During a mock adult echocardiography board examination, consider the following.  An important part of providing a reliable examination result is having the knowledge and skill to compensate and respond for:. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "Limitations",
+        "Inappropriate indications",
+        "Timeliness",
+        "Inappropriate use of echo"
+      ],
+      "answer": 0,
+      "explanation": "Reliable results require recognizing and compensating for limitations — poor acoustic windows, body habitus, artifacts, and incomplete data. *(Practice review slide 23.)*",
+      "explanationImage": null,
+      "tags": [
+        "Indications",
+        "Quality Assurance",
+        "Echocardiography Protocol"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch07-q172",
+      "stem": "During a mock adult echocardiography board examination, consider the following.  Peer review supports:. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "Shorter reporting time",
+        "Increased scan volume",
+        "Continuous improvement",
+        "Reduced pathology detection"
+      ],
+      "answer": 2,
+      "explanation": "Peer review feeds continuous quality improvement — comparing findings, catching discrepancies, and refining practice over time. *(Practice review slide 25.)*",
+      "explanationImage": null,
+      "tags": [
+        "Indications",
+        "Quality Assurance",
+        "Echocardiography Protocol"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch07-q173",
+      "stem": "During a mock adult echocardiography board examination, consider the following.  Image quality, protocol adherence and equipment maintenance are components of:. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "Peer review",
+        "Reliability",
+        "Quality Assurance",
+        "Continuous improvement"
+      ],
+      "answer": 2,
+      "explanation": "These are core components of Quality Assurance — the systems that keep studies accurate and reproducible. *(Practice review slide 27.)*",
+      "explanationImage": null,
+      "tags": [
+        "Indications",
+        "Quality Assurance",
+        "Echocardiography Protocol"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch07-q174",
+      "stem": "During a mock adult echocardiography board examination, consider the following.  Accuracy, consistency and structured reports ensure:. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "Reduced wait times",
+        "Image quality",
+        "Reporting quality",
+        "Review Quality"
+      ],
+      "answer": 2,
+      "explanation": "Accurate, consistent, structured reports define reporting quality — the report is the study's clinical deliverable. *(Practice review slide 29.)*",
+      "explanationImage": null,
+      "tags": [
+        "Indications",
+        "Quality Assurance",
+        "Echocardiography Protocol"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch07-q175",
+      "stem": "During a mock adult echocardiography board examination, consider the following.  Missed pathology most directly impacts:. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "Reporting time",
+        "Scheduling",
+        "Diagnostic quality",
+        "Patient satisfaction"
+      ],
+      "answer": 2,
+      "explanation": "Missed pathology directly degrades diagnostic quality — the study has failed its core purpose of detecting disease. *(Practice review slide 31.)*",
+      "explanationImage": null,
+      "tags": [
+        "Indications",
+        "Quality Assurance",
+        "Echocardiography Protocol"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch07-q176",
+      "stem": "During a mock adult echocardiography board examination, consider the following.  Clinical integration in echocardiography combines:. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "Measurements and reporting",
+        "Indications, AUC, and QA",
+        "Scheduling and billing",
+        "Doppler and ECG"
+      ],
+      "answer": 1,
+      "explanation": "Clinical integration brings together indications, Appropriate Use Criteria, and QA — the right test, chosen well, performed and reported to standard. *(Practice review slide 33.)*",
+      "explanationImage": null,
+      "tags": [
+        "Indications",
+        "Quality Assurance",
+        "Echocardiography Protocol"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch07-q177",
+      "stem": "During a mock adult echocardiography board examination, consider the following.  The most appropriate overall approach to echocardiography practice is to:. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "Scan all referred patients identically",
+        "Increase testing frequency",
+        "Use echo appropriately and apply QA standards",
+        "Focus only on image acquisition"
+      ],
+      "answer": 2,
+      "explanation": "Best practice is to use echo appropriately (right indication and AUC) and apply QA standards throughout. *(Practice review slide 35.)*",
+      "explanationImage": null,
+      "tags": [
+        "Indications",
+        "Quality Assurance",
+        "Echocardiography Protocol"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch07-q178",
+      "stem": "During a mock adult echocardiography board examination, consider the following.  QA is a responsibility of:. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "Sonographers",
+        "Accreditation",
+        "Biomedical",
+        "QA Coordinator"
+      ],
+      "answer": 0,
+      "explanation": "QA is a front-line responsibility of sonographers — the person acquiring the images is the first guardian of study quality. *(Practice review slide 37.)*",
+      "explanationImage": null,
+      "tags": [
+        "Indications",
+        "Quality Assurance",
+        "Echocardiography Protocol"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch07-q179",
+      "stem": "During a mock adult echocardiography board examination, consider the following.  The ASE Appropriate Use Criteria were developed to support:. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "Reduced measurements",
+        "Faster reporting",
+        "Cost-effective patient care",
+        "Shorter exams"
+      ],
+      "answer": 2,
+      "explanation": "The ASE Appropriate Use Criteria ensure echo is used where it benefits patients — improving care while reducing low-value testing and cost. *(Practice review slide 39.)*",
+      "explanationImage": null,
+      "tags": [
+        "Indications",
+        "Quality Assurance",
+        "Echocardiography Protocol"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch07-q180",
+      "stem": "During a mock adult echocardiography board examination, consider the following.  In diagnostic imaging, the person who oversees the quality assurance processes, compliance, auditing, performance improvement and metrics is the:. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "Lead Sonographer",
+        "Manager",
+        "Executive director",
+        "Quality Assurance Coordinator"
+      ],
+      "answer": 3,
+      "explanation": "The Quality Assurance Coordinator oversees QA processes, compliance, auditing, performance improvement, and metrics. *(Practice review slide 41.)*",
+      "explanationImage": null,
+      "tags": [
+        "Indications",
+        "Quality Assurance",
+        "Echocardiography Protocol"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch07-q181",
+      "stem": "A sonographer is reviewing the relevant anatomy, technique, or physiology.  What is the primary purpose of establishing indications before performing an echocardiogram?",
+      "image": null,
+      "options": [
+        "Improve patient care and clinical outcomes",
+        "Improve reporting speed",
+        "Reduce examination time",
+        "Increase image resolution"
+      ],
+      "answer": 0,
+      "explanation": "A valid indication ties the study to a clinical question. The point of imaging is to improve patient care and outcomes — not to generate images for their own sake. *(Practice review slide 3.)*",
+      "explanationImage": null,
+      "tags": [
+        "Indications",
+        "Quality Assurance",
+        "Echocardiography Protocol"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch07-q182",
+      "stem": "A sonographer is reviewing the relevant anatomy, technique, or physiology.  According to Otto, the usefulness of an echocardiographic examination is best measured by:. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "Clinical outcome of the patient",
+        "Duration of examination",
+        "Equipment used",
+        "Number of images acquired"
+      ],
+      "answer": 0,
+      "explanation": "Otto frames the value of any test by its effect on the patient's clinical outcome — does it change management and improve care? *(Practice review slide 5.)*",
+      "explanationImage": null,
+      "tags": [
+        "Indications",
+        "Quality Assurance",
+        "Echocardiography Protocol"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch07-q183",
+      "stem": "A sonographer is reviewing the relevant anatomy, technique, or physiology.  A patient presents with newly developed exertional dyspnea. What is the most appropriate next step?",
+      "image": null,
+      "options": [
+        "Evaluate appropriateness for echocardiography",
+        "Schedule annual follow-up imaging",
+        "Delay testing until symptoms progress",
+        "Repeat previous ECG"
+      ],
+      "answer": 0,
+      "explanation": "Before imaging, assess whether echo is appropriate for this presentation. Exertional dyspnea is a recognized indication, but appropriateness still drives the decision. *(Practice review slide 7.)*",
+      "explanationImage": null,
+      "tags": [
+        "Indications",
+        "Quality Assurance",
+        "Echocardiography Protocol"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch07-q184",
+      "stem": "A sonographer is reviewing the relevant anatomy, technique, or physiology.  Which condition represents a common indication for echocardiography?",
+      "image": null,
+      "options": [
+        "Sternum pain",
+        "Heart murmur",
+        "Migraine headaches"
+      ],
+      "answer": 2,
+      "explanation": "The course review identifies Migraine headaches as the correct response. *(Practice review slide 9.)*",
+      "explanationImage": null,
+      "tags": [
+        "Indications",
+        "Quality Assurance",
+        "Echocardiography Protocol"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch07-q185",
+      "stem": "A sonographer is reviewing the relevant anatomy, technique, or physiology.  A patient with known valvular disease is referred for follow-up. Which principle supports repeat echocardiography?",
+      "image": null,
+      "options": [
+        "Disease monitoring",
+        "Screening",
+        "Routine surveillance without indication",
+        "General wellness"
+      ],
+      "answer": 0,
+      "explanation": "Repeat imaging in KNOWN valvular disease is justified as disease monitoring — tracking severity and the ventricle's response over time. *(Practice review slide 11.)*",
+      "explanationImage": null,
+      "tags": [
+        "Indications",
+        "Quality Assurance",
+        "Echocardiography Protocol"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch07-q186",
+      "stem": "A sonographer is reviewing the relevant anatomy, technique, or physiology.  Which category of disease is commonly evaluated using echocardiography?",
+      "image": null,
+      "options": [
+        "Vascular Disease",
+        "Renal insufficiency",
+        "Pulmonary fibrosis",
+        "Cardiomyopathy"
+      ],
+      "answer": 3,
+      "explanation": "Cardiomyopathy is a core echo target — echo assesses chamber size, wall thickness, and systolic and diastolic function. *(Practice review slide 13.)*",
+      "explanationImage": null,
+      "tags": [
+        "Indications",
+        "Quality Assurance",
+        "Echocardiography Protocol"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch07-q187",
+      "stem": "A sonographer is reviewing the relevant anatomy, technique, or physiology.  Symptoms such as dyspnea, chest pain, and syncope are considered:. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "Screening criteria",
+        "Technical limitations",
+        "Symptom-based indications",
+        "Quality indicators"
+      ],
+      "answer": 2,
+      "explanation": "The course review identifies Symptom-based indications as the correct response. *(Practice review slide 15.)*",
+      "explanationImage": null,
+      "tags": [
+        "Indications",
+        "Quality Assurance",
+        "Echocardiography Protocol"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch07-q188",
+      "stem": "A sonographer is reviewing the relevant anatomy, technique, or physiology.  Which patient presentation is most likely to justify an echocardiogram?",
+      "image": null,
+      "options": [
+        "Stable low-risk patient",
+        "New onset heart failure symptoms",
+        "Annual routine screening"
+      ],
+      "answer": 1,
+      "explanation": "The course review identifies New onset heart failure symptoms as the correct response. *(Practice review slide 17.)*",
+      "explanationImage": null,
+      "tags": [
+        "Indications",
+        "Quality Assurance",
+        "Echocardiography Protocol"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch07-q189",
+      "stem": "A sonographer is reviewing the relevant anatomy, technique, or physiology.  A patient with suspected infective endocarditis is referred for imaging. This indication aligns with:. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "Reporting standards",
+        "Image optimization",
+        "Technical limitations",
+        "Expanded indications"
+      ],
+      "answer": 3,
+      "explanation": "Suspected infective endocarditis is a recognized indication; among these options it maps to the indication category (expanded / special indications). *(Practice review slide 19.)*",
+      "explanationImage": null,
+      "tags": [
+        "Indications",
+        "Quality Assurance",
+        "Echocardiography Protocol"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch07-q190",
+      "stem": "A sonographer is reviewing the relevant anatomy, technique, or physiology.  One of the most important factors pertaining to good patient outcomes is:. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "Accuracy and precision of measurements",
+        "Optimized imaging",
+        "Expertise of the Sonographer and interpreting physician",
+        "Knowledge of pathology and requirement of exam expansion"
+      ],
+      "answer": 2,
+      "explanation": "The expertise of the sonographer and interpreting physician is foundational — skilled acquisition and interpretation underpin every downstream measurement and decision. *(Practice review slide 21.)*",
+      "explanationImage": null,
+      "tags": [
+        "Indications",
+        "Quality Assurance",
+        "Echocardiography Protocol"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch07-q191",
+      "stem": "A sonographer is reviewing the relevant anatomy, technique, or physiology.  An important part of providing a reliable examination result is having the knowledge and skill to compensate and respond for:. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "Inappropriate indications",
+        "Limitations",
+        "Inappropriate use of echo",
+        "Timeliness"
+      ],
+      "answer": 1,
+      "explanation": "Reliable results require recognizing and compensating for limitations — poor acoustic windows, body habitus, artifacts, and incomplete data. *(Practice review slide 23.)*",
+      "explanationImage": null,
+      "tags": [
+        "Indications",
+        "Quality Assurance",
+        "Echocardiography Protocol"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch07-q192",
+      "stem": "A sonographer is reviewing the relevant anatomy, technique, or physiology.  Peer review supports:. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "Shorter reporting time",
+        "Reduced pathology detection",
+        "Increased scan volume",
+        "Continuous improvement"
+      ],
+      "answer": 3,
+      "explanation": "Peer review feeds continuous quality improvement — comparing findings, catching discrepancies, and refining practice over time. *(Practice review slide 25.)*",
+      "explanationImage": null,
+      "tags": [
+        "Indications",
+        "Quality Assurance",
+        "Echocardiography Protocol"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch07-q193",
+      "stem": "A sonographer is reviewing the relevant anatomy, technique, or physiology.  Image quality, protocol adherence and equipment maintenance are components of:. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "Continuous improvement",
+        "Reliability",
+        "Quality Assurance",
+        "Peer review"
+      ],
+      "answer": 2,
+      "explanation": "These are core components of Quality Assurance — the systems that keep studies accurate and reproducible. *(Practice review slide 27.)*",
+      "explanationImage": null,
+      "tags": [
+        "Indications",
+        "Quality Assurance",
+        "Echocardiography Protocol"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch07-q194",
+      "stem": "A sonographer is reviewing the relevant anatomy, technique, or physiology.  Accuracy, consistency and structured reports ensure:. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "Review Quality",
+        "Reduced wait times",
+        "Image quality",
+        "Reporting quality"
+      ],
+      "answer": 3,
+      "explanation": "Accurate, consistent, structured reports define reporting quality — the report is the study's clinical deliverable. *(Practice review slide 29.)*",
+      "explanationImage": null,
+      "tags": [
+        "Indications",
+        "Quality Assurance",
+        "Echocardiography Protocol"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch07-q195",
+      "stem": "A sonographer is reviewing the relevant anatomy, technique, or physiology.  Missed pathology most directly impacts:. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "Diagnostic quality",
+        "Scheduling",
+        "Reporting time",
+        "Patient satisfaction"
+      ],
+      "answer": 0,
+      "explanation": "Missed pathology directly degrades diagnostic quality — the study has failed its core purpose of detecting disease. *(Practice review slide 31.)*",
+      "explanationImage": null,
+      "tags": [
+        "Indications",
+        "Quality Assurance",
+        "Echocardiography Protocol"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch07-q196",
+      "stem": "A sonographer is reviewing the relevant anatomy, technique, or physiology.  Clinical integration in echocardiography combines:. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "Indications, AUC, and QA",
+        "Doppler and ECG",
+        "Scheduling and billing",
+        "Measurements and reporting"
+      ],
+      "answer": 0,
+      "explanation": "Clinical integration brings together indications, Appropriate Use Criteria, and QA — the right test, chosen well, performed and reported to standard. *(Practice review slide 33.)*",
+      "explanationImage": null,
+      "tags": [
+        "Indications",
+        "Quality Assurance",
+        "Echocardiography Protocol"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch07-q197",
+      "stem": "A sonographer is reviewing the relevant anatomy, technique, or physiology.  The most appropriate overall approach to echocardiography practice is to:. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "Increase testing frequency",
+        "Focus only on image acquisition",
+        "Use echo appropriately and apply QA standards",
+        "Scan all referred patients identically"
+      ],
+      "answer": 2,
+      "explanation": "Best practice is to use echo appropriately (right indication and AUC) and apply QA standards throughout. *(Practice review slide 35.)*",
+      "explanationImage": null,
+      "tags": [
+        "Indications",
+        "Quality Assurance",
+        "Echocardiography Protocol"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch07-q198",
+      "stem": "A sonographer is reviewing the relevant anatomy, technique, or physiology.  QA is a responsibility of:. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "Biomedical",
+        "QA Coordinator",
+        "Accreditation",
+        "Sonographers"
+      ],
+      "answer": 3,
+      "explanation": "QA is a front-line responsibility of sonographers — the person acquiring the images is the first guardian of study quality. *(Practice review slide 37.)*",
+      "explanationImage": null,
+      "tags": [
+        "Indications",
+        "Quality Assurance",
+        "Echocardiography Protocol"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch07-q199",
+      "stem": "A sonographer is reviewing the relevant anatomy, technique, or physiology.  The ASE Appropriate Use Criteria were developed to support:. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "Shorter exams",
+        "Faster reporting",
+        "Cost-effective patient care",
+        "Reduced measurements"
+      ],
+      "answer": 2,
+      "explanation": "The ASE Appropriate Use Criteria ensure echo is used where it benefits patients — improving care while reducing low-value testing and cost. *(Practice review slide 39.)*",
+      "explanationImage": null,
+      "tags": [
+        "Indications",
+        "Quality Assurance",
+        "Echocardiography Protocol"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch07-q200",
+      "stem": "A sonographer is reviewing the relevant anatomy, technique, or physiology.  In diagnostic imaging, the person who oversees the quality assurance processes, compliance, auditing, performance improvement and metrics is the:. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "Manager",
+        "Quality Assurance Coordinator",
+        "Lead Sonographer",
+        "Executive director"
+      ],
+      "answer": 1,
+      "explanation": "The Quality Assurance Coordinator oversees QA processes, compliance, auditing, performance improvement, and metrics. *(Practice review slide 41.)*",
+      "explanationImage": null,
+      "tags": [
+        "Indications",
+        "Quality Assurance",
+        "Echocardiography Protocol"
+      ],
+      "reference": ""
+    }
+  ]
+}

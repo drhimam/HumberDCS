@@ -1,76 +1,3805 @@
 {
+  "subjectId": "DCS5000",
   "chapterId": "ch01",
-  "title": "History & Echo Modalities",
+  "title": "Basic Echo Principles",
   "questions": [
     {
       "id": "DCS5000-ch01-q001",
-      "stem": "Which echocardiographic modality displays motion of structures along a single scan line over time?",
+      "stem": "During a routine adult transthoracic examination, the sonographer reviews the following concept.  What is Cardiac Sonography?",
       "image": null,
       "options": [
-        "2D (B-mode) imaging",
-        "M-mode",
-        "Color Doppler",
-        "Pulsed-wave Doppler"
+        "Non-invasive imaging modality",
+        "Provides real time imaging",
+        "Assess lungs and cardiac structures",
+        "Both A& B"
       ],
-      "answer": 1,
-      "explanation": "M-mode (motion mode) samples a single ultrasound line and plots depth against time. Its very high temporal resolution makes it ideal for timing rapid valve and wall motion.\n\n2D imaging shows anatomy in a plane, and the Doppler modalities show blood flow velocity, not structure motion along one line.",
+      "answer": 3,
+      "explanation": "Echocardiography is defined by being both non-invasive (probe on the body surface, no ionizing radiation) and real-time (live moving images of the beating heart). Because options A and B are each true, the best answer combines them. *(Practice review slide 3.)*",
       "explanationImage": null,
       "tags": [
-        "modalities"
+        "Basic Echo Principles",
+        "Echocardiography Fundamentals"
       ],
       "reference": ""
     },
     {
       "id": "DCS5000-ch01-q002",
-      "stem": "A transesophageal echocardiogram (TEE) is preferred over transthoracic echo (TTE) mainly when evaluating:",
+      "stem": "During a routine adult transthoracic examination, the sonographer reviews the following concept.  What is the most common modality used in Echocardiography?",
       "image": null,
       "options": [
-        "Pericardial effusion",
-        "Left atrial appendage thrombus",
-        "Left ventricular wall thickness",
-        "Inferior vena cava size"
+        "Transesophageal Echocardiogram (TEE)",
+        "Stress Echo",
+        "Transthoracic Echocardiogram (TTE)",
+        "M-mode Imaging"
       ],
-      "answer": 1,
-      "explanation": "The left atrial appendage is posterior and close to the esophagus, so TEE shows it clearly. TTE often cannot rule out an appendage thrombus. The other choices are routinely assessed with TTE.",
+      "answer": 2,
+      "explanation": "TTE is the first-line, routine echo exam: the transducer is placed on the chest wall, it requires no sedation, and it is fully non-invasive. *(Practice review slide 5.)*",
       "explanationImage": null,
       "tags": [
-        "TEE"
+        "Basic Echo Principles",
+        "Echocardiography Fundamentals"
       ],
       "reference": ""
     },
     {
       "id": "DCS5000-ch01-q003",
-      "stem": "Which Doppler modality can measure very high velocities without aliasing but cannot locate where along the beam the velocity occurs?",
+      "stem": "During a routine adult transthoracic examination, the sonographer reviews the following concept.  What do Cardiac Sonographers NOT do?",
       "image": null,
       "options": [
-        "Pulsed-wave Doppler",
-        "Color flow Doppler",
-        "Continuous-wave Doppler",
-        "Tissue Doppler imaging"
+        "Complete a final signed report",
+        "Acquire diagnostic images",
+        "Perform patient assessments",
+        "Use independent judgment to add images/measurements based on findings"
       ],
-      "answer": 2,
-      "explanation": "Continuous-wave (CW) Doppler transmits and receives continuously using separate crystals, so it has no Nyquist limit. The trade-off is range ambiguity: it cannot tell the depth where the peak velocity came from.",
+      "answer": 0,
+      "explanation": "Producing the final signed diagnostic report is the responsibility of the interpreting physician (cardiologist), not the sonographer — so this is the task outside the sonographer's scope. *(Practice review slide 7.)*",
       "explanationImage": null,
       "tags": [
-        "doppler"
+        "Basic Echo Principles",
+        "Echocardiography Fundamentals"
       ],
       "reference": ""
     },
     {
       "id": "DCS5000-ch01-q004",
-      "stem": "Stress echocardiography is primarily used to detect:",
+      "stem": "During a routine adult transthoracic examination, the sonographer reviews the following concept.  What is a characteristic of 2D imaging (TTE)?",
       "image": null,
       "options": [
-        "Congenital shunts",
-        "Inducible myocardial ischemia",
-        "Valve vegetations",
-        "Aortic dissection"
+        "Provides cross-sectional multi-planar imaging",
+        "Graphical representation of direction and velocity of blood flow",
+        "Displays depth vs time",
+        "Visual representation of hemodynamics in real time"
       ],
-      "answer": 1,
-      "explanation": "Stress echo compares wall motion at rest and under stress (exercise or dobutamine). A new or worsening regional wall motion abnormality under stress suggests inducible ischemia.",
+      "answer": 0,
+      "explanation": "2D imaging produces real-time tomographic (cross-sectional) slices of the heart from multiple standardized planes and windows — the anatomic backbone of the exam. *(Practice review slide 9.)*",
       "explanationImage": null,
       "tags": [
-        "stress echo"
+        "Basic Echo Principles",
+        "Echocardiography Fundamentals"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch01-q005",
+      "stem": "During a routine adult transthoracic examination, the sonographer reviews the following concept.  What is a characteristic of M-Mode Imaging?",
+      "image": null,
+      "options": [
+        "Direction and velocity of myocardial motion vs time",
+        "“ice pick view”",
+        "Demonstrates velocity of blood cells",
+        "Pulsed wave"
+      ],
+      "answer": 1,
+      "explanation": "M-mode samples a single ultrasound line at a very high frame rate, displaying the motion of structures along that line over time — historically called the “ice-pick” view. *(Practice review slide 11.)*",
+      "explanationImage": null,
+      "tags": [
+        "Basic Echo Principles",
+        "Echocardiography Fundamentals"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch01-q006",
+      "stem": "During a routine adult transthoracic examination, the sonographer reviews the following concept.  What is a characteristic of Colour Doppler?",
+      "image": null,
+      "options": [
+        "Blue shows blood flow travelling towards the transducer",
+        "Red shows blood flow travelling away from the transducer",
+        "Does not demonstrate velocity of blood flow",
+        "Red shows blood flow travelling towards the transducer"
+      ],
+      "answer": 3,
+      "explanation": "Color Doppler follows the BART convention — Blue Away, Red Toward — so red encodes flow moving toward the transducer. *(Practice review slide 13.)*",
+      "explanationImage": null,
+      "tags": [
+        "Basic Echo Principles",
+        "Echocardiography Fundamentals"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch01-q007",
+      "stem": "During a routine adult transthoracic examination, the sonographer reviews the following concept.  What is a characteristic of Spectral Doppler?",
+      "image": null,
+      "options": [
+        "Single perpendicular axis giving rapidly updated single-line images",
+        "Displays structure and function of cardiac anatomy",
+        "Graphical representation of direction and velocity of blood flow",
+        "3 types of spectral doppler"
+      ],
+      "answer": 2,
+      "explanation": "Spectral Doppler (PW and CW) plots blood-flow velocity against time, showing both direction (above/below baseline) and magnitude as a waveform. *(Practice review slide 15.)*",
+      "explanationImage": null,
+      "tags": [
+        "Basic Echo Principles",
+        "Echocardiography Fundamentals"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch01-q008",
+      "stem": "During a routine adult transthoracic examination, the sonographer reviews the following concept.  What is a characteristic of Tissue Doppler?",
+      "image": null,
+      "options": [
+        "Gray scale",
+        "Most accurate for timing and measurements",
+        "Direction and velocity of myocardial motion vs time",
+        "Continuous wave"
+      ],
+      "answer": 2,
+      "explanation": "Tissue Doppler imaging (TDI) measures the low-velocity, high-amplitude motion of the myocardium itself over time — for example mitral annular e′. *(Practice review slide 17.)*",
+      "explanationImage": null,
+      "tags": [
+        "Basic Echo Principles",
+        "Echocardiography Fundamentals"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch01-q009",
+      "stem": "During a routine adult transthoracic examination, the sonographer reviews the following concept.  What are the steps to perform before scanning your patient?",
+      "image": null,
+      "options": [
+        "Review patient’s clinical history",
+        "Look at the requisition for the indication for the exam",
+        "Determine if there are any clinical symptoms",
+        "All of the above"
+      ],
+      "answer": 3,
+      "explanation": "All three are essential pre-scan steps — history, requisition/indication, and current symptoms together drive an appropriate, indication-tailored protocol. *(Practice review slide 19.)*",
+      "explanationImage": null,
+      "tags": [
+        "Basic Echo Principles",
+        "Echocardiography Fundamentals"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch01-q010",
+      "stem": "During a routine adult transthoracic examination, the sonographer reviews the following concept.  Which of the following is a possible indication?",
+      "image": null,
+      "options": [
+        "Abdominal pain",
+        "B & C",
+        "Heart murmur",
+        "Angina"
+      ],
+      "answer": 1,
+      "explanation": "Both angina (chest pain of cardiac origin) and a heart murmur are recognized indications for echocardiography, so the combined answer is best. *(Practice review slide 21.)*",
+      "explanationImage": null,
+      "tags": [
+        "Basic Echo Principles",
+        "Echocardiography Fundamentals"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch01-q011",
+      "stem": "During a routine adult transthoracic examination, the sonographer reviews the following concept.  What kind of transducer is used in TTE?",
+      "image": null,
+      "options": [
+        "PEDOF",
+        "Linear",
+        "Phased array",
+        "Curvilinear"
+      ],
+      "answer": 2,
+      "explanation": "TTE uses a phased-array transducer: a small footprint fits between the ribs, and electronic beam steering forms the wide sector image of the heart. *(Practice review slide 23.)*",
+      "explanationImage": null,
+      "tags": [
+        "Basic Echo Principles",
+        "Echocardiography Fundamentals"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch01-q012",
+      "stem": "During a routine adult transthoracic examination, the sonographer reviews the following concept.  What does focus control on the image?",
+      "image": null,
+      "options": [
+        "Where the beam converges, improving resolution",
+        "Appropriate depth to display anatomy in the field of view",
+        "Width of the field of view",
+        "Increase/decrease of the overall amplitude of echoes"
+      ],
+      "answer": 0,
+      "explanation": "The focus sets the focal zone — the depth where the beam is narrowest — which optimizes lateral resolution at the region of interest. *(Practice review slide 25.)*",
+      "explanationImage": null,
+      "tags": [
+        "Basic Echo Principles",
+        "Echocardiography Fundamentals"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch01-q013",
+      "stem": "During a routine adult transthoracic examination, the sonographer reviews the following concept.  How many apical imaging planes are there?",
+      "image": null,
+      "options": [
+        "6",
+        "2",
+        "4",
+        "3"
+      ],
+      "answer": 2,
+      "explanation": "There are four standard apical planes: apical 4-chamber, 2-chamber, 3-chamber (apical long-axis) and 5-chamber. *(Practice review slide 27.)*",
+      "explanationImage": null,
+      "tags": [
+        "Basic Echo Principles",
+        "Echocardiography Fundamentals"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch01-q014",
+      "stem": "During a routine adult transthoracic examination, the sonographer reviews the following concept.  What does Time Gain Compensation control on the image?",
+      "image": null,
+      "options": [
+        "Increase/decrease of echo amplitude in a vertical segment",
+        "Increase/decrease of echo amplitude in a horizontal segment",
+        "Increase/decrease in echo amplitude in the far field only",
+        "Increase/decrease of the overall amplitude of echoes"
+      ],
+      "answer": 1,
+      "explanation": "TGC adjusts echo amplitude at a specific depth — a horizontal band of the image — to compensate for attenuation as sound travels deeper. *(Practice review slide 29.)*",
+      "explanationImage": null,
+      "tags": [
+        "Basic Echo Principles",
+        "Echocardiography Fundamentals"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch01-q015",
+      "stem": "During a routine adult transthoracic examination, the sonographer reviews the following concept.  What does Lateral Gain Compensation control on the image?",
+      "image": null,
+      "options": [
+        "Increase/decrease in echo amplitude in the far field only",
+        "Increase/decrease of echo amplitude in a vertical segment",
+        "Increase/decrease of echo amplitude in a horizontal segment",
+        "Increase/decrease of the overall amplitude of echoes"
+      ],
+      "answer": 1,
+      "explanation": "Lateral Gain Compensation adjusts echo amplitude across the side-to-side (lateral) dimension — vertical segments/columns of the sector. *(Practice review slide 31.)*",
+      "explanationImage": null,
+      "tags": [
+        "Basic Echo Principles",
+        "Echocardiography Fundamentals"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch01-q016",
+      "stem": "During a routine adult transthoracic examination, the sonographer reviews the following concept.  What position is the patient in for the Parasternal window?",
+      "image": null,
+      "options": [
+        "Right lateral decubitus",
+        "Supine, neck extended",
+        "Supine, knees bent",
+        "Left lateral decubitus"
+      ],
+      "answer": 3,
+      "explanation": "Left lateral decubitus rolls the heart toward the chest wall and displaces lung, opening the parasternal acoustic window. *(Practice review slide 33.)*",
+      "explanationImage": null,
+      "tags": [
+        "Basic Echo Principles",
+        "Echocardiography Fundamentals"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch01-q017",
+      "stem": "During a routine adult transthoracic examination, the sonographer reviews the following concept.  What position is the patient in for the apical window?",
+      "image": null,
+      "options": [
+        "Supine, neck extended",
+        "Left lateral decubitus",
+        "Right lateral decubitus",
+        "Supine, knees bent"
+      ],
+      "answer": 1,
+      "explanation": "The apical window also uses left lateral decubitus — often a steeper roll — to bring the true apex against the chest wall (or bed cut-out). *(Practice review slide 35.)*",
+      "explanationImage": null,
+      "tags": [
+        "Basic Echo Principles",
+        "Echocardiography Fundamentals"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch01-q018",
+      "stem": "During a routine adult transthoracic examination, the sonographer reviews the following concept.  What position is the patient in for the subcostal window?",
+      "image": null,
+      "options": [
+        "Right lateral decubitus",
+        "Supine, neck extended",
+        "Left lateral decubitus",
+        "Supine, knees bent"
+      ],
+      "answer": 3,
+      "explanation": "Supine with the knees bent relaxes the abdominal wall, letting the transducer angle up under the costal margin toward the heart. *(Practice review slide 37.)*",
+      "explanationImage": null,
+      "tags": [
+        "Basic Echo Principles",
+        "Echocardiography Fundamentals"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch01-q019",
+      "stem": "During a routine adult transthoracic examination, the sonographer reviews the following concept.  What position is the patient in for the suprasternal window?",
+      "image": null,
+      "options": [
+        "Right lateral decubitus",
+        "Supine, knees bent",
+        "Supine, neck extended",
+        "Left lateral decubitus"
+      ],
+      "answer": 2,
+      "explanation": "Supine with the neck extended (often a pillow under the shoulders) exposes the suprasternal notch for imaging the aortic arch. *(Practice review slide 39.)*",
+      "explanationImage": null,
+      "tags": [
+        "Basic Echo Principles",
+        "Echocardiography Fundamentals"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch01-q020",
+      "stem": "During a routine adult transthoracic examination, the sonographer reviews the following concept.  What characteristic does the PEDOF probe have?",
+      "image": null,
+      "options": [
+        "Most commonly used in adult echo",
+        "No image produced",
+        "Curvilinear",
+        "Small probe with a long arm"
+      ],
+      "answer": 1,
+      "explanation": "The PEDOF (Pedoff) probe is a dedicated continuous-wave 'pencil' Doppler transducer — it produces only a spectral Doppler trace, with no 2D image. *(Practice review slide 41.)*",
+      "explanationImage": null,
+      "tags": [
+        "Basic Echo Principles",
+        "Echocardiography Fundamentals"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch01-q021",
+      "stem": "A trainee is preparing for a practical echocardiography assessment.  What is Cardiac Sonography?",
+      "image": null,
+      "options": [
+        "Non-invasive imaging modality",
+        "Provides real time imaging",
+        "Assess lungs and cardiac structures",
+        "Both A& B"
+      ],
+      "answer": 3,
+      "explanation": "Echocardiography is defined by being both non-invasive (probe on the body surface, no ionizing radiation) and real-time (live moving images of the beating heart). Because options A and B are each true, the best answer combines them. *(Practice review slide 3.)*",
+      "explanationImage": null,
+      "tags": [
+        "Basic Echo Principles",
+        "Echocardiography Fundamentals"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch01-q022",
+      "stem": "A trainee is preparing for a practical echocardiography assessment.  What is the most common modality used in Echocardiography?",
+      "image": null,
+      "options": [
+        "Stress Echo",
+        "M-mode Imaging",
+        "Transesophageal Echocardiogram (TEE)",
+        "Transthoracic Echocardiogram (TTE)"
+      ],
+      "answer": 3,
+      "explanation": "TTE is the first-line, routine echo exam: the transducer is placed on the chest wall, it requires no sedation, and it is fully non-invasive. *(Practice review slide 5.)*",
+      "explanationImage": null,
+      "tags": [
+        "Basic Echo Principles",
+        "Echocardiography Fundamentals"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch01-q023",
+      "stem": "A trainee is preparing for a practical echocardiography assessment.  What do Cardiac Sonographers NOT do?",
+      "image": null,
+      "options": [
+        "Acquire diagnostic images",
+        "Perform patient assessments",
+        "Use independent judgment to add images/measurements based on findings",
+        "Complete a final signed report"
+      ],
+      "answer": 3,
+      "explanation": "Producing the final signed diagnostic report is the responsibility of the interpreting physician (cardiologist), not the sonographer — so this is the task outside the sonographer's scope. *(Practice review slide 7.)*",
+      "explanationImage": null,
+      "tags": [
+        "Basic Echo Principles",
+        "Echocardiography Fundamentals"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch01-q024",
+      "stem": "A trainee is preparing for a practical echocardiography assessment.  What is a characteristic of 2D imaging (TTE)?",
+      "image": null,
+      "options": [
+        "Graphical representation of direction and velocity of blood flow",
+        "Displays depth vs time",
+        "Visual representation of hemodynamics in real time",
+        "Provides cross-sectional multi-planar imaging"
+      ],
+      "answer": 3,
+      "explanation": "2D imaging produces real-time tomographic (cross-sectional) slices of the heart from multiple standardized planes and windows — the anatomic backbone of the exam. *(Practice review slide 9.)*",
+      "explanationImage": null,
+      "tags": [
+        "Basic Echo Principles",
+        "Echocardiography Fundamentals"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch01-q025",
+      "stem": "A trainee is preparing for a practical echocardiography assessment.  What is a characteristic of M-Mode Imaging?",
+      "image": null,
+      "options": [
+        "“ice pick view”",
+        "Demonstrates velocity of blood cells",
+        "Pulsed wave",
+        "Direction and velocity of myocardial motion vs time"
+      ],
+      "answer": 0,
+      "explanation": "M-mode samples a single ultrasound line at a very high frame rate, displaying the motion of structures along that line over time — historically called the “ice-pick” view. *(Practice review slide 11.)*",
+      "explanationImage": null,
+      "tags": [
+        "Basic Echo Principles",
+        "Echocardiography Fundamentals"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch01-q026",
+      "stem": "A trainee is preparing for a practical echocardiography assessment.  What is a characteristic of Colour Doppler?",
+      "image": null,
+      "options": [
+        "Red shows blood flow travelling away from the transducer",
+        "Red shows blood flow travelling towards the transducer",
+        "Does not demonstrate velocity of blood flow",
+        "Blue shows blood flow travelling towards the transducer"
+      ],
+      "answer": 1,
+      "explanation": "Color Doppler follows the BART convention — Blue Away, Red Toward — so red encodes flow moving toward the transducer. *(Practice review slide 13.)*",
+      "explanationImage": null,
+      "tags": [
+        "Basic Echo Principles",
+        "Echocardiography Fundamentals"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch01-q027",
+      "stem": "A trainee is preparing for a practical echocardiography assessment.  What is a characteristic of Spectral Doppler?",
+      "image": null,
+      "options": [
+        "Graphical representation of direction and velocity of blood flow",
+        "3 types of spectral doppler",
+        "Single perpendicular axis giving rapidly updated single-line images",
+        "Displays structure and function of cardiac anatomy"
+      ],
+      "answer": 0,
+      "explanation": "Spectral Doppler (PW and CW) plots blood-flow velocity against time, showing both direction (above/below baseline) and magnitude as a waveform. *(Practice review slide 15.)*",
+      "explanationImage": null,
+      "tags": [
+        "Basic Echo Principles",
+        "Echocardiography Fundamentals"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch01-q028",
+      "stem": "A trainee is preparing for a practical echocardiography assessment.  What is a characteristic of Tissue Doppler?",
+      "image": null,
+      "options": [
+        "Most accurate for timing and measurements",
+        "Continuous wave",
+        "Gray scale",
+        "Direction and velocity of myocardial motion vs time"
+      ],
+      "answer": 3,
+      "explanation": "Tissue Doppler imaging (TDI) measures the low-velocity, high-amplitude motion of the myocardium itself over time — for example mitral annular e′. *(Practice review slide 17.)*",
+      "explanationImage": null,
+      "tags": [
+        "Basic Echo Principles",
+        "Echocardiography Fundamentals"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch01-q029",
+      "stem": "A trainee is preparing for a practical echocardiography assessment.  What are the steps to perform before scanning your patient?",
+      "image": null,
+      "options": [
+        "Review patient’s clinical history",
+        "Look at the requisition for the indication for the exam",
+        "Determine if there are any clinical symptoms",
+        "All of the above"
+      ],
+      "answer": 3,
+      "explanation": "All three are essential pre-scan steps — history, requisition/indication, and current symptoms together drive an appropriate, indication-tailored protocol. *(Practice review slide 19.)*",
+      "explanationImage": null,
+      "tags": [
+        "Basic Echo Principles",
+        "Echocardiography Fundamentals"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch01-q030",
+      "stem": "A trainee is preparing for a practical echocardiography assessment.  Which of the following is a possible indication?",
+      "image": null,
+      "options": [
+        "Abdominal pain",
+        "B & C",
+        "Angina",
+        "Heart murmur"
+      ],
+      "answer": 1,
+      "explanation": "Both angina (chest pain of cardiac origin) and a heart murmur are recognized indications for echocardiography, so the combined answer is best. *(Practice review slide 21.)*",
+      "explanationImage": null,
+      "tags": [
+        "Basic Echo Principles",
+        "Echocardiography Fundamentals"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch01-q031",
+      "stem": "A trainee is preparing for a practical echocardiography assessment.  What kind of transducer is used in TTE?",
+      "image": null,
+      "options": [
+        "Phased array",
+        "PEDOF",
+        "Linear",
+        "Curvilinear"
+      ],
+      "answer": 0,
+      "explanation": "TTE uses a phased-array transducer: a small footprint fits between the ribs, and electronic beam steering forms the wide sector image of the heart. *(Practice review slide 23.)*",
+      "explanationImage": null,
+      "tags": [
+        "Basic Echo Principles",
+        "Echocardiography Fundamentals"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch01-q032",
+      "stem": "A trainee is preparing for a practical echocardiography assessment.  What does focus control on the image?",
+      "image": null,
+      "options": [
+        "Width of the field of view",
+        "Increase/decrease of the overall amplitude of echoes",
+        "Where the beam converges, improving resolution",
+        "Appropriate depth to display anatomy in the field of view"
+      ],
+      "answer": 2,
+      "explanation": "The focus sets the focal zone — the depth where the beam is narrowest — which optimizes lateral resolution at the region of interest. *(Practice review slide 25.)*",
+      "explanationImage": null,
+      "tags": [
+        "Basic Echo Principles",
+        "Echocardiography Fundamentals"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch01-q033",
+      "stem": "A trainee is preparing for a practical echocardiography assessment.  How many apical imaging planes are there?",
+      "image": null,
+      "options": [
+        "3",
+        "4",
+        "2",
+        "6"
+      ],
+      "answer": 1,
+      "explanation": "There are four standard apical planes: apical 4-chamber, 2-chamber, 3-chamber (apical long-axis) and 5-chamber. *(Practice review slide 27.)*",
+      "explanationImage": null,
+      "tags": [
+        "Basic Echo Principles",
+        "Echocardiography Fundamentals"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch01-q034",
+      "stem": "A trainee is preparing for a practical echocardiography assessment.  What does Time Gain Compensation control on the image?",
+      "image": null,
+      "options": [
+        "Increase/decrease in echo amplitude in the far field only",
+        "Increase/decrease of echo amplitude in a vertical segment",
+        "Increase/decrease of the overall amplitude of echoes",
+        "Increase/decrease of echo amplitude in a horizontal segment"
+      ],
+      "answer": 3,
+      "explanation": "TGC adjusts echo amplitude at a specific depth — a horizontal band of the image — to compensate for attenuation as sound travels deeper. *(Practice review slide 29.)*",
+      "explanationImage": null,
+      "tags": [
+        "Basic Echo Principles",
+        "Echocardiography Fundamentals"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch01-q035",
+      "stem": "A trainee is preparing for a practical echocardiography assessment.  What does Lateral Gain Compensation control on the image?",
+      "image": null,
+      "options": [
+        "Increase/decrease of echo amplitude in a horizontal segment",
+        "Increase/decrease of the overall amplitude of echoes",
+        "Increase/decrease of echo amplitude in a vertical segment",
+        "Increase/decrease in echo amplitude in the far field only"
+      ],
+      "answer": 2,
+      "explanation": "Lateral Gain Compensation adjusts echo amplitude across the side-to-side (lateral) dimension — vertical segments/columns of the sector. *(Practice review slide 31.)*",
+      "explanationImage": null,
+      "tags": [
+        "Basic Echo Principles",
+        "Echocardiography Fundamentals"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch01-q036",
+      "stem": "A trainee is preparing for a practical echocardiography assessment.  What position is the patient in for the Parasternal window?",
+      "image": null,
+      "options": [
+        "Left lateral decubitus",
+        "Right lateral decubitus",
+        "Supine, neck extended",
+        "Supine, knees bent"
+      ],
+      "answer": 0,
+      "explanation": "Left lateral decubitus rolls the heart toward the chest wall and displaces lung, opening the parasternal acoustic window. *(Practice review slide 33.)*",
+      "explanationImage": null,
+      "tags": [
+        "Basic Echo Principles",
+        "Echocardiography Fundamentals"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch01-q037",
+      "stem": "A trainee is preparing for a practical echocardiography assessment.  What position is the patient in for the apical window?",
+      "image": null,
+      "options": [
+        "Right lateral decubitus",
+        "Left lateral decubitus",
+        "Supine, knees bent",
+        "Supine, neck extended"
+      ],
+      "answer": 1,
+      "explanation": "The apical window also uses left lateral decubitus — often a steeper roll — to bring the true apex against the chest wall (or bed cut-out). *(Practice review slide 35.)*",
+      "explanationImage": null,
+      "tags": [
+        "Basic Echo Principles",
+        "Echocardiography Fundamentals"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch01-q038",
+      "stem": "A trainee is preparing for a practical echocardiography assessment.  What position is the patient in for the subcostal window?",
+      "image": null,
+      "options": [
+        "Left lateral decubitus",
+        "Supine, knees bent",
+        "Right lateral decubitus",
+        "Supine, neck extended"
+      ],
+      "answer": 1,
+      "explanation": "Supine with the knees bent relaxes the abdominal wall, letting the transducer angle up under the costal margin toward the heart. *(Practice review slide 37.)*",
+      "explanationImage": null,
+      "tags": [
+        "Basic Echo Principles",
+        "Echocardiography Fundamentals"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch01-q039",
+      "stem": "A trainee is preparing for a practical echocardiography assessment.  What position is the patient in for the suprasternal window?",
+      "image": null,
+      "options": [
+        "Left lateral decubitus",
+        "Right lateral decubitus",
+        "Supine, neck extended",
+        "Supine, knees bent"
+      ],
+      "answer": 2,
+      "explanation": "Supine with the neck extended (often a pillow under the shoulders) exposes the suprasternal notch for imaging the aortic arch. *(Practice review slide 39.)*",
+      "explanationImage": null,
+      "tags": [
+        "Basic Echo Principles",
+        "Echocardiography Fundamentals"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch01-q040",
+      "stem": "A trainee is preparing for a practical echocardiography assessment.  What characteristic does the PEDOF probe have?",
+      "image": null,
+      "options": [
+        "Most commonly used in adult echo",
+        "Small probe with a long arm",
+        "No image produced",
+        "Curvilinear"
+      ],
+      "answer": 2,
+      "explanation": "The PEDOF (Pedoff) probe is a dedicated continuous-wave 'pencil' Doppler transducer — it produces only a spectral Doppler trace, with no 2D image. *(Practice review slide 41.)*",
+      "explanationImage": null,
+      "tags": [
+        "Basic Echo Principles",
+        "Echocardiography Fundamentals"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch01-q041",
+      "stem": "While reviewing a standard adult echocardiography protocol, consider this question:  What is Cardiac Sonography?",
+      "image": null,
+      "options": [
+        "Non-invasive imaging modality",
+        "Provides real time imaging",
+        "Assess lungs and cardiac structures",
+        "Both A& B"
+      ],
+      "answer": 3,
+      "explanation": "Echocardiography is defined by being both non-invasive (probe on the body surface, no ionizing radiation) and real-time (live moving images of the beating heart). Because options A and B are each true, the best answer combines them. *(Practice review slide 3.)*",
+      "explanationImage": null,
+      "tags": [
+        "Basic Echo Principles",
+        "Echocardiography Fundamentals"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch01-q042",
+      "stem": "While reviewing a standard adult echocardiography protocol, consider this question:  What is the most common modality used in Echocardiography?",
+      "image": null,
+      "options": [
+        "Stress Echo",
+        "M-mode Imaging",
+        "Transesophageal Echocardiogram (TEE)",
+        "Transthoracic Echocardiogram (TTE)"
+      ],
+      "answer": 3,
+      "explanation": "TTE is the first-line, routine echo exam: the transducer is placed on the chest wall, it requires no sedation, and it is fully non-invasive. *(Practice review slide 5.)*",
+      "explanationImage": null,
+      "tags": [
+        "Basic Echo Principles",
+        "Echocardiography Fundamentals"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch01-q043",
+      "stem": "While reviewing a standard adult echocardiography protocol, consider this question:  What do Cardiac Sonographers NOT do?",
+      "image": null,
+      "options": [
+        "Perform patient assessments",
+        "Use independent judgment to add images/measurements based on findings",
+        "Complete a final signed report",
+        "Acquire diagnostic images"
+      ],
+      "answer": 2,
+      "explanation": "Producing the final signed diagnostic report is the responsibility of the interpreting physician (cardiologist), not the sonographer — so this is the task outside the sonographer's scope. *(Practice review slide 7.)*",
+      "explanationImage": null,
+      "tags": [
+        "Basic Echo Principles",
+        "Echocardiography Fundamentals"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch01-q044",
+      "stem": "While reviewing a standard adult echocardiography protocol, consider this question:  What is a characteristic of 2D imaging (TTE)?",
+      "image": null,
+      "options": [
+        "Visual representation of hemodynamics in real time",
+        "Displays depth vs time",
+        "Graphical representation of direction and velocity of blood flow",
+        "Provides cross-sectional multi-planar imaging"
+      ],
+      "answer": 3,
+      "explanation": "2D imaging produces real-time tomographic (cross-sectional) slices of the heart from multiple standardized planes and windows — the anatomic backbone of the exam. *(Practice review slide 9.)*",
+      "explanationImage": null,
+      "tags": [
+        "Basic Echo Principles",
+        "Echocardiography Fundamentals"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch01-q045",
+      "stem": "While reviewing a standard adult echocardiography protocol, consider this question:  What is a characteristic of M-Mode Imaging?",
+      "image": null,
+      "options": [
+        "Demonstrates velocity of blood cells",
+        "“ice pick view”",
+        "Direction and velocity of myocardial motion vs time",
+        "Pulsed wave"
+      ],
+      "answer": 1,
+      "explanation": "M-mode samples a single ultrasound line at a very high frame rate, displaying the motion of structures along that line over time — historically called the “ice-pick” view. *(Practice review slide 11.)*",
+      "explanationImage": null,
+      "tags": [
+        "Basic Echo Principles",
+        "Echocardiography Fundamentals"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch01-q046",
+      "stem": "While reviewing a standard adult echocardiography protocol, consider this question:  What is a characteristic of Colour Doppler?",
+      "image": null,
+      "options": [
+        "Blue shows blood flow travelling towards the transducer",
+        "Red shows blood flow travelling towards the transducer",
+        "Red shows blood flow travelling away from the transducer",
+        "Does not demonstrate velocity of blood flow"
+      ],
+      "answer": 1,
+      "explanation": "Color Doppler follows the BART convention — Blue Away, Red Toward — so red encodes flow moving toward the transducer. *(Practice review slide 13.)*",
+      "explanationImage": null,
+      "tags": [
+        "Basic Echo Principles",
+        "Echocardiography Fundamentals"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch01-q047",
+      "stem": "While reviewing a standard adult echocardiography protocol, consider this question:  What is a characteristic of Spectral Doppler?",
+      "image": null,
+      "options": [
+        "3 types of spectral doppler",
+        "Single perpendicular axis giving rapidly updated single-line images",
+        "Displays structure and function of cardiac anatomy",
+        "Graphical representation of direction and velocity of blood flow"
+      ],
+      "answer": 3,
+      "explanation": "Spectral Doppler (PW and CW) plots blood-flow velocity against time, showing both direction (above/below baseline) and magnitude as a waveform. *(Practice review slide 15.)*",
+      "explanationImage": null,
+      "tags": [
+        "Basic Echo Principles",
+        "Echocardiography Fundamentals"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch01-q048",
+      "stem": "While reviewing a standard adult echocardiography protocol, consider this question:  What is a characteristic of Tissue Doppler?",
+      "image": null,
+      "options": [
+        "Continuous wave",
+        "Most accurate for timing and measurements",
+        "Direction and velocity of myocardial motion vs time",
+        "Gray scale"
+      ],
+      "answer": 2,
+      "explanation": "Tissue Doppler imaging (TDI) measures the low-velocity, high-amplitude motion of the myocardium itself over time — for example mitral annular e′. *(Practice review slide 17.)*",
+      "explanationImage": null,
+      "tags": [
+        "Basic Echo Principles",
+        "Echocardiography Fundamentals"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch01-q049",
+      "stem": "While reviewing a standard adult echocardiography protocol, consider this question:  What are the steps to perform before scanning your patient?",
+      "image": null,
+      "options": [
+        "Review patient’s clinical history",
+        "Look at the requisition for the indication for the exam",
+        "Determine if there are any clinical symptoms",
+        "All of the above"
+      ],
+      "answer": 3,
+      "explanation": "All three are essential pre-scan steps — history, requisition/indication, and current symptoms together drive an appropriate, indication-tailored protocol. *(Practice review slide 19.)*",
+      "explanationImage": null,
+      "tags": [
+        "Basic Echo Principles",
+        "Echocardiography Fundamentals"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch01-q050",
+      "stem": "While reviewing a standard adult echocardiography protocol, consider this question:  Which of the following is a possible indication?",
+      "image": null,
+      "options": [
+        "Abdominal pain",
+        "Angina",
+        "Heart murmur",
+        "B & C"
+      ],
+      "answer": 3,
+      "explanation": "Both angina (chest pain of cardiac origin) and a heart murmur are recognized indications for echocardiography, so the combined answer is best. *(Practice review slide 21.)*",
+      "explanationImage": null,
+      "tags": [
+        "Basic Echo Principles",
+        "Echocardiography Fundamentals"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch01-q051",
+      "stem": "While reviewing a standard adult echocardiography protocol, consider this question:  What kind of transducer is used in TTE?",
+      "image": null,
+      "options": [
+        "Phased array",
+        "Curvilinear",
+        "PEDOF",
+        "Linear"
+      ],
+      "answer": 0,
+      "explanation": "TTE uses a phased-array transducer: a small footprint fits between the ribs, and electronic beam steering forms the wide sector image of the heart. *(Practice review slide 23.)*",
+      "explanationImage": null,
+      "tags": [
+        "Basic Echo Principles",
+        "Echocardiography Fundamentals"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch01-q052",
+      "stem": "While reviewing a standard adult echocardiography protocol, consider this question:  What does focus control on the image?",
+      "image": null,
+      "options": [
+        "Where the beam converges, improving resolution",
+        "Appropriate depth to display anatomy in the field of view",
+        "Increase/decrease of the overall amplitude of echoes",
+        "Width of the field of view"
+      ],
+      "answer": 0,
+      "explanation": "The focus sets the focal zone — the depth where the beam is narrowest — which optimizes lateral resolution at the region of interest. *(Practice review slide 25.)*",
+      "explanationImage": null,
+      "tags": [
+        "Basic Echo Principles",
+        "Echocardiography Fundamentals"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch01-q053",
+      "stem": "While reviewing a standard adult echocardiography protocol, consider this question:  How many apical imaging planes are there?",
+      "image": null,
+      "options": [
+        "2",
+        "6",
+        "4",
+        "3"
+      ],
+      "answer": 2,
+      "explanation": "There are four standard apical planes: apical 4-chamber, 2-chamber, 3-chamber (apical long-axis) and 5-chamber. *(Practice review slide 27.)*",
+      "explanationImage": null,
+      "tags": [
+        "Basic Echo Principles",
+        "Echocardiography Fundamentals"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch01-q054",
+      "stem": "While reviewing a standard adult echocardiography protocol, consider this question:  What does Time Gain Compensation control on the image?",
+      "image": null,
+      "options": [
+        "Increase/decrease of the overall amplitude of echoes",
+        "Increase/decrease in echo amplitude in the far field only",
+        "Increase/decrease of echo amplitude in a horizontal segment",
+        "Increase/decrease of echo amplitude in a vertical segment"
+      ],
+      "answer": 2,
+      "explanation": "TGC adjusts echo amplitude at a specific depth — a horizontal band of the image — to compensate for attenuation as sound travels deeper. *(Practice review slide 29.)*",
+      "explanationImage": null,
+      "tags": [
+        "Basic Echo Principles",
+        "Echocardiography Fundamentals"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch01-q055",
+      "stem": "While reviewing a standard adult echocardiography protocol, consider this question:  What does Lateral Gain Compensation control on the image?",
+      "image": null,
+      "options": [
+        "Increase/decrease of echo amplitude in a vertical segment",
+        "Increase/decrease of echo amplitude in a horizontal segment",
+        "Increase/decrease of the overall amplitude of echoes",
+        "Increase/decrease in echo amplitude in the far field only"
+      ],
+      "answer": 0,
+      "explanation": "Lateral Gain Compensation adjusts echo amplitude across the side-to-side (lateral) dimension — vertical segments/columns of the sector. *(Practice review slide 31.)*",
+      "explanationImage": null,
+      "tags": [
+        "Basic Echo Principles",
+        "Echocardiography Fundamentals"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch01-q056",
+      "stem": "While reviewing a standard adult echocardiography protocol, consider this question:  What position is the patient in for the Parasternal window?",
+      "image": null,
+      "options": [
+        "Right lateral decubitus",
+        "Supine, neck extended",
+        "Supine, knees bent",
+        "Left lateral decubitus"
+      ],
+      "answer": 3,
+      "explanation": "Left lateral decubitus rolls the heart toward the chest wall and displaces lung, opening the parasternal acoustic window. *(Practice review slide 33.)*",
+      "explanationImage": null,
+      "tags": [
+        "Basic Echo Principles",
+        "Echocardiography Fundamentals"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch01-q057",
+      "stem": "While reviewing a standard adult echocardiography protocol, consider this question:  What position is the patient in for the apical window?",
+      "image": null,
+      "options": [
+        "Supine, neck extended",
+        "Supine, knees bent",
+        "Right lateral decubitus",
+        "Left lateral decubitus"
+      ],
+      "answer": 3,
+      "explanation": "The apical window also uses left lateral decubitus — often a steeper roll — to bring the true apex against the chest wall (or bed cut-out). *(Practice review slide 35.)*",
+      "explanationImage": null,
+      "tags": [
+        "Basic Echo Principles",
+        "Echocardiography Fundamentals"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch01-q058",
+      "stem": "While reviewing a standard adult echocardiography protocol, consider this question:  What position is the patient in for the subcostal window?",
+      "image": null,
+      "options": [
+        "Supine, neck extended",
+        "Supine, knees bent",
+        "Right lateral decubitus",
+        "Left lateral decubitus"
+      ],
+      "answer": 1,
+      "explanation": "Supine with the knees bent relaxes the abdominal wall, letting the transducer angle up under the costal margin toward the heart. *(Practice review slide 37.)*",
+      "explanationImage": null,
+      "tags": [
+        "Basic Echo Principles",
+        "Echocardiography Fundamentals"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch01-q059",
+      "stem": "While reviewing a standard adult echocardiography protocol, consider this question:  What position is the patient in for the suprasternal window?",
+      "image": null,
+      "options": [
+        "Right lateral decubitus",
+        "Supine, neck extended",
+        "Left lateral decubitus",
+        "Supine, knees bent"
+      ],
+      "answer": 1,
+      "explanation": "Supine with the neck extended (often a pillow under the shoulders) exposes the suprasternal notch for imaging the aortic arch. *(Practice review slide 39.)*",
+      "explanationImage": null,
+      "tags": [
+        "Basic Echo Principles",
+        "Echocardiography Fundamentals"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch01-q060",
+      "stem": "While reviewing a standard adult echocardiography protocol, consider this question:  What characteristic does the PEDOF probe have?",
+      "image": null,
+      "options": [
+        "Small probe with a long arm",
+        "No image produced",
+        "Curvilinear",
+        "Most commonly used in adult echo"
+      ],
+      "answer": 1,
+      "explanation": "The PEDOF (Pedoff) probe is a dedicated continuous-wave 'pencil' Doppler transducer — it produces only a spectral Doppler trace, with no 2D image. *(Practice review slide 41.)*",
+      "explanationImage": null,
+      "tags": [
+        "Basic Echo Principles",
+        "Echocardiography Fundamentals"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch01-q061",
+      "stem": "A sonographer is asked to select the most accurate response.  What is Cardiac Sonography?",
+      "image": null,
+      "options": [
+        "Non-invasive imaging modality",
+        "Provides real time imaging",
+        "Assess lungs and cardiac structures",
+        "Both A& B"
+      ],
+      "answer": 3,
+      "explanation": "Echocardiography is defined by being both non-invasive (probe on the body surface, no ionizing radiation) and real-time (live moving images of the beating heart). Because options A and B are each true, the best answer combines them. *(Practice review slide 3.)*",
+      "explanationImage": null,
+      "tags": [
+        "Basic Echo Principles",
+        "Echocardiography Fundamentals"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch01-q062",
+      "stem": "A sonographer is asked to select the most accurate response.  What is the most common modality used in Echocardiography?",
+      "image": null,
+      "options": [
+        "Stress Echo",
+        "Transthoracic Echocardiogram (TTE)",
+        "Transesophageal Echocardiogram (TEE)",
+        "M-mode Imaging"
+      ],
+      "answer": 1,
+      "explanation": "TTE is the first-line, routine echo exam: the transducer is placed on the chest wall, it requires no sedation, and it is fully non-invasive. *(Practice review slide 5.)*",
+      "explanationImage": null,
+      "tags": [
+        "Basic Echo Principles",
+        "Echocardiography Fundamentals"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch01-q063",
+      "stem": "A sonographer is asked to select the most accurate response.  What do Cardiac Sonographers NOT do?",
+      "image": null,
+      "options": [
+        "Perform patient assessments",
+        "Acquire diagnostic images",
+        "Use independent judgment to add images/measurements based on findings",
+        "Complete a final signed report"
+      ],
+      "answer": 3,
+      "explanation": "Producing the final signed diagnostic report is the responsibility of the interpreting physician (cardiologist), not the sonographer — so this is the task outside the sonographer's scope. *(Practice review slide 7.)*",
+      "explanationImage": null,
+      "tags": [
+        "Basic Echo Principles",
+        "Echocardiography Fundamentals"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch01-q064",
+      "stem": "A sonographer is asked to select the most accurate response.  What is a characteristic of 2D imaging (TTE)?",
+      "image": null,
+      "options": [
+        "Displays depth vs time",
+        "Graphical representation of direction and velocity of blood flow",
+        "Visual representation of hemodynamics in real time",
+        "Provides cross-sectional multi-planar imaging"
+      ],
+      "answer": 3,
+      "explanation": "2D imaging produces real-time tomographic (cross-sectional) slices of the heart from multiple standardized planes and windows — the anatomic backbone of the exam. *(Practice review slide 9.)*",
+      "explanationImage": null,
+      "tags": [
+        "Basic Echo Principles",
+        "Echocardiography Fundamentals"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch01-q065",
+      "stem": "A sonographer is asked to select the most accurate response.  What is a characteristic of M-Mode Imaging?",
+      "image": null,
+      "options": [
+        "Direction and velocity of myocardial motion vs time",
+        "Demonstrates velocity of blood cells",
+        "Pulsed wave",
+        "“ice pick view”"
+      ],
+      "answer": 3,
+      "explanation": "M-mode samples a single ultrasound line at a very high frame rate, displaying the motion of structures along that line over time — historically called the “ice-pick” view. *(Practice review slide 11.)*",
+      "explanationImage": null,
+      "tags": [
+        "Basic Echo Principles",
+        "Echocardiography Fundamentals"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch01-q066",
+      "stem": "A sonographer is asked to select the most accurate response.  What is a characteristic of Colour Doppler?",
+      "image": null,
+      "options": [
+        "Blue shows blood flow travelling towards the transducer",
+        "Red shows blood flow travelling towards the transducer",
+        "Does not demonstrate velocity of blood flow",
+        "Red shows blood flow travelling away from the transducer"
+      ],
+      "answer": 1,
+      "explanation": "Color Doppler follows the BART convention — Blue Away, Red Toward — so red encodes flow moving toward the transducer. *(Practice review slide 13.)*",
+      "explanationImage": null,
+      "tags": [
+        "Basic Echo Principles",
+        "Echocardiography Fundamentals"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch01-q067",
+      "stem": "A sonographer is asked to select the most accurate response.  What is a characteristic of Spectral Doppler?",
+      "image": null,
+      "options": [
+        "Displays structure and function of cardiac anatomy",
+        "3 types of spectral doppler",
+        "Single perpendicular axis giving rapidly updated single-line images",
+        "Graphical representation of direction and velocity of blood flow"
+      ],
+      "answer": 3,
+      "explanation": "Spectral Doppler (PW and CW) plots blood-flow velocity against time, showing both direction (above/below baseline) and magnitude as a waveform. *(Practice review slide 15.)*",
+      "explanationImage": null,
+      "tags": [
+        "Basic Echo Principles",
+        "Echocardiography Fundamentals"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch01-q068",
+      "stem": "A sonographer is asked to select the most accurate response.  What is a characteristic of Tissue Doppler?",
+      "image": null,
+      "options": [
+        "Most accurate for timing and measurements",
+        "Continuous wave",
+        "Direction and velocity of myocardial motion vs time",
+        "Gray scale"
+      ],
+      "answer": 2,
+      "explanation": "Tissue Doppler imaging (TDI) measures the low-velocity, high-amplitude motion of the myocardium itself over time — for example mitral annular e′. *(Practice review slide 17.)*",
+      "explanationImage": null,
+      "tags": [
+        "Basic Echo Principles",
+        "Echocardiography Fundamentals"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch01-q069",
+      "stem": "A sonographer is asked to select the most accurate response.  What are the steps to perform before scanning your patient?",
+      "image": null,
+      "options": [
+        "Review patient’s clinical history",
+        "Look at the requisition for the indication for the exam",
+        "Determine if there are any clinical symptoms",
+        "All of the above"
+      ],
+      "answer": 3,
+      "explanation": "All three are essential pre-scan steps — history, requisition/indication, and current symptoms together drive an appropriate, indication-tailored protocol. *(Practice review slide 19.)*",
+      "explanationImage": null,
+      "tags": [
+        "Basic Echo Principles",
+        "Echocardiography Fundamentals"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch01-q070",
+      "stem": "A sonographer is asked to select the most accurate response.  Which of the following is a possible indication?",
+      "image": null,
+      "options": [
+        "Abdominal pain",
+        "Angina",
+        "B & C",
+        "Heart murmur"
+      ],
+      "answer": 2,
+      "explanation": "Both angina (chest pain of cardiac origin) and a heart murmur are recognized indications for echocardiography, so the combined answer is best. *(Practice review slide 21.)*",
+      "explanationImage": null,
+      "tags": [
+        "Basic Echo Principles",
+        "Echocardiography Fundamentals"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch01-q071",
+      "stem": "A sonographer is asked to select the most accurate response.  What kind of transducer is used in TTE?",
+      "image": null,
+      "options": [
+        "Curvilinear",
+        "Linear",
+        "PEDOF",
+        "Phased array"
+      ],
+      "answer": 3,
+      "explanation": "TTE uses a phased-array transducer: a small footprint fits between the ribs, and electronic beam steering forms the wide sector image of the heart. *(Practice review slide 23.)*",
+      "explanationImage": null,
+      "tags": [
+        "Basic Echo Principles",
+        "Echocardiography Fundamentals"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch01-q072",
+      "stem": "A sonographer is asked to select the most accurate response.  What does focus control on the image?",
+      "image": null,
+      "options": [
+        "Width of the field of view",
+        "Where the beam converges, improving resolution",
+        "Increase/decrease of the overall amplitude of echoes",
+        "Appropriate depth to display anatomy in the field of view"
+      ],
+      "answer": 1,
+      "explanation": "The focus sets the focal zone — the depth where the beam is narrowest — which optimizes lateral resolution at the region of interest. *(Practice review slide 25.)*",
+      "explanationImage": null,
+      "tags": [
+        "Basic Echo Principles",
+        "Echocardiography Fundamentals"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch01-q073",
+      "stem": "A sonographer is asked to select the most accurate response.  How many apical imaging planes are there?",
+      "image": null,
+      "options": [
+        "4",
+        "3",
+        "6",
+        "2"
+      ],
+      "answer": 0,
+      "explanation": "There are four standard apical planes: apical 4-chamber, 2-chamber, 3-chamber (apical long-axis) and 5-chamber. *(Practice review slide 27.)*",
+      "explanationImage": null,
+      "tags": [
+        "Basic Echo Principles",
+        "Echocardiography Fundamentals"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch01-q074",
+      "stem": "A sonographer is asked to select the most accurate response.  What does Time Gain Compensation control on the image?",
+      "image": null,
+      "options": [
+        "Increase/decrease in echo amplitude in the far field only",
+        "Increase/decrease of the overall amplitude of echoes",
+        "Increase/decrease of echo amplitude in a vertical segment",
+        "Increase/decrease of echo amplitude in a horizontal segment"
+      ],
+      "answer": 3,
+      "explanation": "TGC adjusts echo amplitude at a specific depth — a horizontal band of the image — to compensate for attenuation as sound travels deeper. *(Practice review slide 29.)*",
+      "explanationImage": null,
+      "tags": [
+        "Basic Echo Principles",
+        "Echocardiography Fundamentals"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch01-q075",
+      "stem": "A sonographer is asked to select the most accurate response.  What does Lateral Gain Compensation control on the image?",
+      "image": null,
+      "options": [
+        "Increase/decrease of echo amplitude in a vertical segment",
+        "Increase/decrease in echo amplitude in the far field only",
+        "Increase/decrease of the overall amplitude of echoes",
+        "Increase/decrease of echo amplitude in a horizontal segment"
+      ],
+      "answer": 0,
+      "explanation": "Lateral Gain Compensation adjusts echo amplitude across the side-to-side (lateral) dimension — vertical segments/columns of the sector. *(Practice review slide 31.)*",
+      "explanationImage": null,
+      "tags": [
+        "Basic Echo Principles",
+        "Echocardiography Fundamentals"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch01-q076",
+      "stem": "A sonographer is asked to select the most accurate response.  What position is the patient in for the Parasternal window?",
+      "image": null,
+      "options": [
+        "Left lateral decubitus",
+        "Supine, neck extended",
+        "Right lateral decubitus",
+        "Supine, knees bent"
+      ],
+      "answer": 0,
+      "explanation": "Left lateral decubitus rolls the heart toward the chest wall and displaces lung, opening the parasternal acoustic window. *(Practice review slide 33.)*",
+      "explanationImage": null,
+      "tags": [
+        "Basic Echo Principles",
+        "Echocardiography Fundamentals"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch01-q077",
+      "stem": "A sonographer is asked to select the most accurate response.  What position is the patient in for the apical window?",
+      "image": null,
+      "options": [
+        "Left lateral decubitus",
+        "Right lateral decubitus",
+        "Supine, knees bent",
+        "Supine, neck extended"
+      ],
+      "answer": 0,
+      "explanation": "The apical window also uses left lateral decubitus — often a steeper roll — to bring the true apex against the chest wall (or bed cut-out). *(Practice review slide 35.)*",
+      "explanationImage": null,
+      "tags": [
+        "Basic Echo Principles",
+        "Echocardiography Fundamentals"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch01-q078",
+      "stem": "A sonographer is asked to select the most accurate response.  What position is the patient in for the subcostal window?",
+      "image": null,
+      "options": [
+        "Supine, knees bent",
+        "Left lateral decubitus",
+        "Supine, neck extended",
+        "Right lateral decubitus"
+      ],
+      "answer": 0,
+      "explanation": "Supine with the knees bent relaxes the abdominal wall, letting the transducer angle up under the costal margin toward the heart. *(Practice review slide 37.)*",
+      "explanationImage": null,
+      "tags": [
+        "Basic Echo Principles",
+        "Echocardiography Fundamentals"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch01-q079",
+      "stem": "A sonographer is asked to select the most accurate response.  What position is the patient in for the suprasternal window?",
+      "image": null,
+      "options": [
+        "Right lateral decubitus",
+        "Supine, knees bent",
+        "Left lateral decubitus",
+        "Supine, neck extended"
+      ],
+      "answer": 3,
+      "explanation": "Supine with the neck extended (often a pillow under the shoulders) exposes the suprasternal notch for imaging the aortic arch. *(Practice review slide 39.)*",
+      "explanationImage": null,
+      "tags": [
+        "Basic Echo Principles",
+        "Echocardiography Fundamentals"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch01-q080",
+      "stem": "A sonographer is asked to select the most accurate response.  What characteristic does the PEDOF probe have?",
+      "image": null,
+      "options": [
+        "Curvilinear",
+        "No image produced",
+        "Most commonly used in adult echo",
+        "Small probe with a long arm"
+      ],
+      "answer": 1,
+      "explanation": "The PEDOF (Pedoff) probe is a dedicated continuous-wave 'pencil' Doppler transducer — it produces only a spectral Doppler trace, with no 2D image. *(Practice review slide 41.)*",
+      "explanationImage": null,
+      "tags": [
+        "Basic Echo Principles",
+        "Echocardiography Fundamentals"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch01-q081",
+      "stem": "During quality review of an adult echo study, the following point is discussed.  What is Cardiac Sonography?",
+      "image": null,
+      "options": [
+        "Non-invasive imaging modality",
+        "Provides real time imaging",
+        "Assess lungs and cardiac structures",
+        "Both A& B"
+      ],
+      "answer": 3,
+      "explanation": "Echocardiography is defined by being both non-invasive (probe on the body surface, no ionizing radiation) and real-time (live moving images of the beating heart). Because options A and B are each true, the best answer combines them. *(Practice review slide 3.)*",
+      "explanationImage": null,
+      "tags": [
+        "Basic Echo Principles",
+        "Echocardiography Fundamentals"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch01-q082",
+      "stem": "During quality review of an adult echo study, the following point is discussed.  What is the most common modality used in Echocardiography?",
+      "image": null,
+      "options": [
+        "M-mode Imaging",
+        "Transthoracic Echocardiogram (TTE)",
+        "Stress Echo",
+        "Transesophageal Echocardiogram (TEE)"
+      ],
+      "answer": 1,
+      "explanation": "TTE is the first-line, routine echo exam: the transducer is placed on the chest wall, it requires no sedation, and it is fully non-invasive. *(Practice review slide 5.)*",
+      "explanationImage": null,
+      "tags": [
+        "Basic Echo Principles",
+        "Echocardiography Fundamentals"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch01-q083",
+      "stem": "During quality review of an adult echo study, the following point is discussed.  What do Cardiac Sonographers NOT do?",
+      "image": null,
+      "options": [
+        "Use independent judgment to add images/measurements based on findings",
+        "Complete a final signed report",
+        "Acquire diagnostic images",
+        "Perform patient assessments"
+      ],
+      "answer": 1,
+      "explanation": "Producing the final signed diagnostic report is the responsibility of the interpreting physician (cardiologist), not the sonographer — so this is the task outside the sonographer's scope. *(Practice review slide 7.)*",
+      "explanationImage": null,
+      "tags": [
+        "Basic Echo Principles",
+        "Echocardiography Fundamentals"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch01-q084",
+      "stem": "During quality review of an adult echo study, the following point is discussed.  What is a characteristic of 2D imaging (TTE)?",
+      "image": null,
+      "options": [
+        "Displays depth vs time",
+        "Provides cross-sectional multi-planar imaging",
+        "Visual representation of hemodynamics in real time",
+        "Graphical representation of direction and velocity of blood flow"
+      ],
+      "answer": 1,
+      "explanation": "2D imaging produces real-time tomographic (cross-sectional) slices of the heart from multiple standardized planes and windows — the anatomic backbone of the exam. *(Practice review slide 9.)*",
+      "explanationImage": null,
+      "tags": [
+        "Basic Echo Principles",
+        "Echocardiography Fundamentals"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch01-q085",
+      "stem": "During quality review of an adult echo study, the following point is discussed.  What is a characteristic of M-Mode Imaging?",
+      "image": null,
+      "options": [
+        "“ice pick view”",
+        "Pulsed wave",
+        "Direction and velocity of myocardial motion vs time",
+        "Demonstrates velocity of blood cells"
+      ],
+      "answer": 0,
+      "explanation": "M-mode samples a single ultrasound line at a very high frame rate, displaying the motion of structures along that line over time — historically called the “ice-pick” view. *(Practice review slide 11.)*",
+      "explanationImage": null,
+      "tags": [
+        "Basic Echo Principles",
+        "Echocardiography Fundamentals"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch01-q086",
+      "stem": "During quality review of an adult echo study, the following point is discussed.  What is a characteristic of Colour Doppler?",
+      "image": null,
+      "options": [
+        "Blue shows blood flow travelling towards the transducer",
+        "Red shows blood flow travelling away from the transducer",
+        "Red shows blood flow travelling towards the transducer",
+        "Does not demonstrate velocity of blood flow"
+      ],
+      "answer": 2,
+      "explanation": "Color Doppler follows the BART convention — Blue Away, Red Toward — so red encodes flow moving toward the transducer. *(Practice review slide 13.)*",
+      "explanationImage": null,
+      "tags": [
+        "Basic Echo Principles",
+        "Echocardiography Fundamentals"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch01-q087",
+      "stem": "During quality review of an adult echo study, the following point is discussed.  What is a characteristic of Spectral Doppler?",
+      "image": null,
+      "options": [
+        "Displays structure and function of cardiac anatomy",
+        "3 types of spectral doppler",
+        "Single perpendicular axis giving rapidly updated single-line images",
+        "Graphical representation of direction and velocity of blood flow"
+      ],
+      "answer": 3,
+      "explanation": "Spectral Doppler (PW and CW) plots blood-flow velocity against time, showing both direction (above/below baseline) and magnitude as a waveform. *(Practice review slide 15.)*",
+      "explanationImage": null,
+      "tags": [
+        "Basic Echo Principles",
+        "Echocardiography Fundamentals"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch01-q088",
+      "stem": "During quality review of an adult echo study, the following point is discussed.  What is a characteristic of Tissue Doppler?",
+      "image": null,
+      "options": [
+        "Direction and velocity of myocardial motion vs time",
+        "Most accurate for timing and measurements",
+        "Continuous wave",
+        "Gray scale"
+      ],
+      "answer": 0,
+      "explanation": "Tissue Doppler imaging (TDI) measures the low-velocity, high-amplitude motion of the myocardium itself over time — for example mitral annular e′. *(Practice review slide 17.)*",
+      "explanationImage": null,
+      "tags": [
+        "Basic Echo Principles",
+        "Echocardiography Fundamentals"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch01-q089",
+      "stem": "During quality review of an adult echo study, the following point is discussed.  What are the steps to perform before scanning your patient?",
+      "image": null,
+      "options": [
+        "Review patient’s clinical history",
+        "Look at the requisition for the indication for the exam",
+        "Determine if there are any clinical symptoms",
+        "All of the above"
+      ],
+      "answer": 3,
+      "explanation": "All three are essential pre-scan steps — history, requisition/indication, and current symptoms together drive an appropriate, indication-tailored protocol. *(Practice review slide 19.)*",
+      "explanationImage": null,
+      "tags": [
+        "Basic Echo Principles",
+        "Echocardiography Fundamentals"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch01-q090",
+      "stem": "During quality review of an adult echo study, the following point is discussed.  Which of the following is a possible indication?",
+      "image": null,
+      "options": [
+        "Angina",
+        "B & C",
+        "Heart murmur",
+        "Abdominal pain"
+      ],
+      "answer": 1,
+      "explanation": "Both angina (chest pain of cardiac origin) and a heart murmur are recognized indications for echocardiography, so the combined answer is best. *(Practice review slide 21.)*",
+      "explanationImage": null,
+      "tags": [
+        "Basic Echo Principles",
+        "Echocardiography Fundamentals"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch01-q091",
+      "stem": "During quality review of an adult echo study, the following point is discussed.  What kind of transducer is used in TTE?",
+      "image": null,
+      "options": [
+        "Phased array",
+        "PEDOF",
+        "Linear",
+        "Curvilinear"
+      ],
+      "answer": 0,
+      "explanation": "TTE uses a phased-array transducer: a small footprint fits between the ribs, and electronic beam steering forms the wide sector image of the heart. *(Practice review slide 23.)*",
+      "explanationImage": null,
+      "tags": [
+        "Basic Echo Principles",
+        "Echocardiography Fundamentals"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch01-q092",
+      "stem": "During quality review of an adult echo study, the following point is discussed.  What does focus control on the image?",
+      "image": null,
+      "options": [
+        "Appropriate depth to display anatomy in the field of view",
+        "Increase/decrease of the overall amplitude of echoes",
+        "Width of the field of view",
+        "Where the beam converges, improving resolution"
+      ],
+      "answer": 3,
+      "explanation": "The focus sets the focal zone — the depth where the beam is narrowest — which optimizes lateral resolution at the region of interest. *(Practice review slide 25.)*",
+      "explanationImage": null,
+      "tags": [
+        "Basic Echo Principles",
+        "Echocardiography Fundamentals"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch01-q093",
+      "stem": "During quality review of an adult echo study, the following point is discussed.  How many apical imaging planes are there?",
+      "image": null,
+      "options": [
+        "3",
+        "2",
+        "4",
+        "6"
+      ],
+      "answer": 2,
+      "explanation": "There are four standard apical planes: apical 4-chamber, 2-chamber, 3-chamber (apical long-axis) and 5-chamber. *(Practice review slide 27.)*",
+      "explanationImage": null,
+      "tags": [
+        "Basic Echo Principles",
+        "Echocardiography Fundamentals"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch01-q094",
+      "stem": "During quality review of an adult echo study, the following point is discussed.  What does Time Gain Compensation control on the image?",
+      "image": null,
+      "options": [
+        "Increase/decrease of echo amplitude in a horizontal segment",
+        "Increase/decrease in echo amplitude in the far field only",
+        "Increase/decrease of echo amplitude in a vertical segment",
+        "Increase/decrease of the overall amplitude of echoes"
+      ],
+      "answer": 0,
+      "explanation": "TGC adjusts echo amplitude at a specific depth — a horizontal band of the image — to compensate for attenuation as sound travels deeper. *(Practice review slide 29.)*",
+      "explanationImage": null,
+      "tags": [
+        "Basic Echo Principles",
+        "Echocardiography Fundamentals"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch01-q095",
+      "stem": "During quality review of an adult echo study, the following point is discussed.  What does Lateral Gain Compensation control on the image?",
+      "image": null,
+      "options": [
+        "Increase/decrease of echo amplitude in a vertical segment",
+        "Increase/decrease in echo amplitude in the far field only",
+        "Increase/decrease of echo amplitude in a horizontal segment",
+        "Increase/decrease of the overall amplitude of echoes"
+      ],
+      "answer": 0,
+      "explanation": "Lateral Gain Compensation adjusts echo amplitude across the side-to-side (lateral) dimension — vertical segments/columns of the sector. *(Practice review slide 31.)*",
+      "explanationImage": null,
+      "tags": [
+        "Basic Echo Principles",
+        "Echocardiography Fundamentals"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch01-q096",
+      "stem": "During quality review of an adult echo study, the following point is discussed.  What position is the patient in for the Parasternal window?",
+      "image": null,
+      "options": [
+        "Right lateral decubitus",
+        "Supine, neck extended",
+        "Supine, knees bent",
+        "Left lateral decubitus"
+      ],
+      "answer": 3,
+      "explanation": "Left lateral decubitus rolls the heart toward the chest wall and displaces lung, opening the parasternal acoustic window. *(Practice review slide 33.)*",
+      "explanationImage": null,
+      "tags": [
+        "Basic Echo Principles",
+        "Echocardiography Fundamentals"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch01-q097",
+      "stem": "During quality review of an adult echo study, the following point is discussed.  What position is the patient in for the apical window?",
+      "image": null,
+      "options": [
+        "Right lateral decubitus",
+        "Supine, neck extended",
+        "Left lateral decubitus",
+        "Supine, knees bent"
+      ],
+      "answer": 2,
+      "explanation": "The apical window also uses left lateral decubitus — often a steeper roll — to bring the true apex against the chest wall (or bed cut-out). *(Practice review slide 35.)*",
+      "explanationImage": null,
+      "tags": [
+        "Basic Echo Principles",
+        "Echocardiography Fundamentals"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch01-q098",
+      "stem": "During quality review of an adult echo study, the following point is discussed.  What position is the patient in for the subcostal window?",
+      "image": null,
+      "options": [
+        "Supine, neck extended",
+        "Supine, knees bent",
+        "Left lateral decubitus",
+        "Right lateral decubitus"
+      ],
+      "answer": 1,
+      "explanation": "Supine with the knees bent relaxes the abdominal wall, letting the transducer angle up under the costal margin toward the heart. *(Practice review slide 37.)*",
+      "explanationImage": null,
+      "tags": [
+        "Basic Echo Principles",
+        "Echocardiography Fundamentals"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch01-q099",
+      "stem": "During quality review of an adult echo study, the following point is discussed.  What position is the patient in for the suprasternal window?",
+      "image": null,
+      "options": [
+        "Supine, neck extended",
+        "Supine, knees bent",
+        "Left lateral decubitus",
+        "Right lateral decubitus"
+      ],
+      "answer": 0,
+      "explanation": "Supine with the neck extended (often a pillow under the shoulders) exposes the suprasternal notch for imaging the aortic arch. *(Practice review slide 39.)*",
+      "explanationImage": null,
+      "tags": [
+        "Basic Echo Principles",
+        "Echocardiography Fundamentals"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch01-q100",
+      "stem": "During quality review of an adult echo study, the following point is discussed.  What characteristic does the PEDOF probe have?",
+      "image": null,
+      "options": [
+        "No image produced",
+        "Most commonly used in adult echo",
+        "Small probe with a long arm",
+        "Curvilinear"
+      ],
+      "answer": 0,
+      "explanation": "The PEDOF (Pedoff) probe is a dedicated continuous-wave 'pencil' Doppler transducer — it produces only a spectral Doppler trace, with no 2D image. *(Practice review slide 41.)*",
+      "explanationImage": null,
+      "tags": [
+        "Basic Echo Principles",
+        "Echocardiography Fundamentals"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch01-q101",
+      "stem": "An adult cardiac sonography student is interpreting a teaching case.  What is Cardiac Sonography?",
+      "image": null,
+      "options": [
+        "Non-invasive imaging modality",
+        "Provides real time imaging",
+        "Assess lungs and cardiac structures",
+        "Both A& B"
+      ],
+      "answer": 3,
+      "explanation": "Echocardiography is defined by being both non-invasive (probe on the body surface, no ionizing radiation) and real-time (live moving images of the beating heart). Because options A and B are each true, the best answer combines them. *(Practice review slide 3.)*",
+      "explanationImage": null,
+      "tags": [
+        "Basic Echo Principles",
+        "Echocardiography Fundamentals"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch01-q102",
+      "stem": "An adult cardiac sonography student is interpreting a teaching case.  What is the most common modality used in Echocardiography?",
+      "image": null,
+      "options": [
+        "Transesophageal Echocardiogram (TEE)",
+        "M-mode Imaging",
+        "Stress Echo",
+        "Transthoracic Echocardiogram (TTE)"
+      ],
+      "answer": 3,
+      "explanation": "TTE is the first-line, routine echo exam: the transducer is placed on the chest wall, it requires no sedation, and it is fully non-invasive. *(Practice review slide 5.)*",
+      "explanationImage": null,
+      "tags": [
+        "Basic Echo Principles",
+        "Echocardiography Fundamentals"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch01-q103",
+      "stem": "An adult cardiac sonography student is interpreting a teaching case.  What do Cardiac Sonographers NOT do?",
+      "image": null,
+      "options": [
+        "Acquire diagnostic images",
+        "Complete a final signed report",
+        "Perform patient assessments",
+        "Use independent judgment to add images/measurements based on findings"
+      ],
+      "answer": 1,
+      "explanation": "Producing the final signed diagnostic report is the responsibility of the interpreting physician (cardiologist), not the sonographer — so this is the task outside the sonographer's scope. *(Practice review slide 7.)*",
+      "explanationImage": null,
+      "tags": [
+        "Basic Echo Principles",
+        "Echocardiography Fundamentals"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch01-q104",
+      "stem": "An adult cardiac sonography student is interpreting a teaching case.  What is a characteristic of 2D imaging (TTE)?",
+      "image": null,
+      "options": [
+        "Graphical representation of direction and velocity of blood flow",
+        "Displays depth vs time",
+        "Provides cross-sectional multi-planar imaging",
+        "Visual representation of hemodynamics in real time"
+      ],
+      "answer": 2,
+      "explanation": "2D imaging produces real-time tomographic (cross-sectional) slices of the heart from multiple standardized planes and windows — the anatomic backbone of the exam. *(Practice review slide 9.)*",
+      "explanationImage": null,
+      "tags": [
+        "Basic Echo Principles",
+        "Echocardiography Fundamentals"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch01-q105",
+      "stem": "An adult cardiac sonography student is interpreting a teaching case.  What is a characteristic of M-Mode Imaging?",
+      "image": null,
+      "options": [
+        "Direction and velocity of myocardial motion vs time",
+        "“ice pick view”",
+        "Pulsed wave",
+        "Demonstrates velocity of blood cells"
+      ],
+      "answer": 1,
+      "explanation": "M-mode samples a single ultrasound line at a very high frame rate, displaying the motion of structures along that line over time — historically called the “ice-pick” view. *(Practice review slide 11.)*",
+      "explanationImage": null,
+      "tags": [
+        "Basic Echo Principles",
+        "Echocardiography Fundamentals"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch01-q106",
+      "stem": "An adult cardiac sonography student is interpreting a teaching case.  What is a characteristic of Colour Doppler?",
+      "image": null,
+      "options": [
+        "Blue shows blood flow travelling towards the transducer",
+        "Does not demonstrate velocity of blood flow",
+        "Red shows blood flow travelling towards the transducer",
+        "Red shows blood flow travelling away from the transducer"
+      ],
+      "answer": 2,
+      "explanation": "Color Doppler follows the BART convention — Blue Away, Red Toward — so red encodes flow moving toward the transducer. *(Practice review slide 13.)*",
+      "explanationImage": null,
+      "tags": [
+        "Basic Echo Principles",
+        "Echocardiography Fundamentals"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch01-q107",
+      "stem": "An adult cardiac sonography student is interpreting a teaching case.  What is a characteristic of Spectral Doppler?",
+      "image": null,
+      "options": [
+        "Graphical representation of direction and velocity of blood flow",
+        "Single perpendicular axis giving rapidly updated single-line images",
+        "Displays structure and function of cardiac anatomy",
+        "3 types of spectral doppler"
+      ],
+      "answer": 0,
+      "explanation": "Spectral Doppler (PW and CW) plots blood-flow velocity against time, showing both direction (above/below baseline) and magnitude as a waveform. *(Practice review slide 15.)*",
+      "explanationImage": null,
+      "tags": [
+        "Basic Echo Principles",
+        "Echocardiography Fundamentals"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch01-q108",
+      "stem": "An adult cardiac sonography student is interpreting a teaching case.  What is a characteristic of Tissue Doppler?",
+      "image": null,
+      "options": [
+        "Direction and velocity of myocardial motion vs time",
+        "Continuous wave",
+        "Gray scale",
+        "Most accurate for timing and measurements"
+      ],
+      "answer": 0,
+      "explanation": "Tissue Doppler imaging (TDI) measures the low-velocity, high-amplitude motion of the myocardium itself over time — for example mitral annular e′. *(Practice review slide 17.)*",
+      "explanationImage": null,
+      "tags": [
+        "Basic Echo Principles",
+        "Echocardiography Fundamentals"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch01-q109",
+      "stem": "An adult cardiac sonography student is interpreting a teaching case.  What are the steps to perform before scanning your patient?",
+      "image": null,
+      "options": [
+        "Review patient’s clinical history",
+        "Look at the requisition for the indication for the exam",
+        "Determine if there are any clinical symptoms",
+        "All of the above"
+      ],
+      "answer": 3,
+      "explanation": "All three are essential pre-scan steps — history, requisition/indication, and current symptoms together drive an appropriate, indication-tailored protocol. *(Practice review slide 19.)*",
+      "explanationImage": null,
+      "tags": [
+        "Basic Echo Principles",
+        "Echocardiography Fundamentals"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch01-q110",
+      "stem": "An adult cardiac sonography student is interpreting a teaching case.  Which of the following is a possible indication?",
+      "image": null,
+      "options": [
+        "Abdominal pain",
+        "Heart murmur",
+        "B & C",
+        "Angina"
+      ],
+      "answer": 2,
+      "explanation": "Both angina (chest pain of cardiac origin) and a heart murmur are recognized indications for echocardiography, so the combined answer is best. *(Practice review slide 21.)*",
+      "explanationImage": null,
+      "tags": [
+        "Basic Echo Principles",
+        "Echocardiography Fundamentals"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch01-q111",
+      "stem": "An adult cardiac sonography student is interpreting a teaching case.  What kind of transducer is used in TTE?",
+      "image": null,
+      "options": [
+        "Curvilinear",
+        "PEDOF",
+        "Phased array",
+        "Linear"
+      ],
+      "answer": 2,
+      "explanation": "TTE uses a phased-array transducer: a small footprint fits between the ribs, and electronic beam steering forms the wide sector image of the heart. *(Practice review slide 23.)*",
+      "explanationImage": null,
+      "tags": [
+        "Basic Echo Principles",
+        "Echocardiography Fundamentals"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch01-q112",
+      "stem": "An adult cardiac sonography student is interpreting a teaching case.  What does focus control on the image?",
+      "image": null,
+      "options": [
+        "Appropriate depth to display anatomy in the field of view",
+        "Where the beam converges, improving resolution",
+        "Increase/decrease of the overall amplitude of echoes",
+        "Width of the field of view"
+      ],
+      "answer": 1,
+      "explanation": "The focus sets the focal zone — the depth where the beam is narrowest — which optimizes lateral resolution at the region of interest. *(Practice review slide 25.)*",
+      "explanationImage": null,
+      "tags": [
+        "Basic Echo Principles",
+        "Echocardiography Fundamentals"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch01-q113",
+      "stem": "An adult cardiac sonography student is interpreting a teaching case.  How many apical imaging planes are there?",
+      "image": null,
+      "options": [
+        "2",
+        "3",
+        "6",
+        "4"
+      ],
+      "answer": 3,
+      "explanation": "There are four standard apical planes: apical 4-chamber, 2-chamber, 3-chamber (apical long-axis) and 5-chamber. *(Practice review slide 27.)*",
+      "explanationImage": null,
+      "tags": [
+        "Basic Echo Principles",
+        "Echocardiography Fundamentals"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch01-q114",
+      "stem": "An adult cardiac sonography student is interpreting a teaching case.  What does Time Gain Compensation control on the image?",
+      "image": null,
+      "options": [
+        "Increase/decrease of the overall amplitude of echoes",
+        "Increase/decrease of echo amplitude in a vertical segment",
+        "Increase/decrease of echo amplitude in a horizontal segment",
+        "Increase/decrease in echo amplitude in the far field only"
+      ],
+      "answer": 2,
+      "explanation": "TGC adjusts echo amplitude at a specific depth — a horizontal band of the image — to compensate for attenuation as sound travels deeper. *(Practice review slide 29.)*",
+      "explanationImage": null,
+      "tags": [
+        "Basic Echo Principles",
+        "Echocardiography Fundamentals"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch01-q115",
+      "stem": "An adult cardiac sonography student is interpreting a teaching case.  What does Lateral Gain Compensation control on the image?",
+      "image": null,
+      "options": [
+        "Increase/decrease of echo amplitude in a vertical segment",
+        "Increase/decrease of echo amplitude in a horizontal segment",
+        "Increase/decrease in echo amplitude in the far field only",
+        "Increase/decrease of the overall amplitude of echoes"
+      ],
+      "answer": 0,
+      "explanation": "Lateral Gain Compensation adjusts echo amplitude across the side-to-side (lateral) dimension — vertical segments/columns of the sector. *(Practice review slide 31.)*",
+      "explanationImage": null,
+      "tags": [
+        "Basic Echo Principles",
+        "Echocardiography Fundamentals"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch01-q116",
+      "stem": "An adult cardiac sonography student is interpreting a teaching case.  What position is the patient in for the Parasternal window?",
+      "image": null,
+      "options": [
+        "Supine, neck extended",
+        "Left lateral decubitus",
+        "Right lateral decubitus",
+        "Supine, knees bent"
+      ],
+      "answer": 1,
+      "explanation": "Left lateral decubitus rolls the heart toward the chest wall and displaces lung, opening the parasternal acoustic window. *(Practice review slide 33.)*",
+      "explanationImage": null,
+      "tags": [
+        "Basic Echo Principles",
+        "Echocardiography Fundamentals"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch01-q117",
+      "stem": "An adult cardiac sonography student is interpreting a teaching case.  What position is the patient in for the apical window?",
+      "image": null,
+      "options": [
+        "Supine, neck extended",
+        "Left lateral decubitus",
+        "Supine, knees bent",
+        "Right lateral decubitus"
+      ],
+      "answer": 1,
+      "explanation": "The apical window also uses left lateral decubitus — often a steeper roll — to bring the true apex against the chest wall (or bed cut-out). *(Practice review slide 35.)*",
+      "explanationImage": null,
+      "tags": [
+        "Basic Echo Principles",
+        "Echocardiography Fundamentals"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch01-q118",
+      "stem": "An adult cardiac sonography student is interpreting a teaching case.  What position is the patient in for the subcostal window?",
+      "image": null,
+      "options": [
+        "Right lateral decubitus",
+        "Supine, knees bent",
+        "Supine, neck extended",
+        "Left lateral decubitus"
+      ],
+      "answer": 1,
+      "explanation": "Supine with the knees bent relaxes the abdominal wall, letting the transducer angle up under the costal margin toward the heart. *(Practice review slide 37.)*",
+      "explanationImage": null,
+      "tags": [
+        "Basic Echo Principles",
+        "Echocardiography Fundamentals"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch01-q119",
+      "stem": "An adult cardiac sonography student is interpreting a teaching case.  What position is the patient in for the suprasternal window?",
+      "image": null,
+      "options": [
+        "Supine, neck extended",
+        "Left lateral decubitus",
+        "Supine, knees bent",
+        "Right lateral decubitus"
+      ],
+      "answer": 0,
+      "explanation": "Supine with the neck extended (often a pillow under the shoulders) exposes the suprasternal notch for imaging the aortic arch. *(Practice review slide 39.)*",
+      "explanationImage": null,
+      "tags": [
+        "Basic Echo Principles",
+        "Echocardiography Fundamentals"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch01-q120",
+      "stem": "An adult cardiac sonography student is interpreting a teaching case.  What characteristic does the PEDOF probe have?",
+      "image": null,
+      "options": [
+        "No image produced",
+        "Most commonly used in adult echo",
+        "Small probe with a long arm",
+        "Curvilinear"
+      ],
+      "answer": 0,
+      "explanation": "The PEDOF (Pedoff) probe is a dedicated continuous-wave 'pencil' Doppler transducer — it produces only a spectral Doppler trace, with no 2D image. *(Practice review slide 41.)*",
+      "explanationImage": null,
+      "tags": [
+        "Basic Echo Principles",
+        "Echocardiography Fundamentals"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch01-q121",
+      "stem": "Before image acquisition, a sonographer checks their understanding of the following.  What is Cardiac Sonography?",
+      "image": null,
+      "options": [
+        "Non-invasive imaging modality",
+        "Provides real time imaging",
+        "Assess lungs and cardiac structures",
+        "Both A& B"
+      ],
+      "answer": 3,
+      "explanation": "Echocardiography is defined by being both non-invasive (probe on the body surface, no ionizing radiation) and real-time (live moving images of the beating heart). Because options A and B are each true, the best answer combines them. *(Practice review slide 3.)*",
+      "explanationImage": null,
+      "tags": [
+        "Basic Echo Principles",
+        "Echocardiography Fundamentals"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch01-q122",
+      "stem": "Before image acquisition, a sonographer checks their understanding of the following.  What is the most common modality used in Echocardiography?",
+      "image": null,
+      "options": [
+        "Stress Echo",
+        "Transesophageal Echocardiogram (TEE)",
+        "Transthoracic Echocardiogram (TTE)",
+        "M-mode Imaging"
+      ],
+      "answer": 2,
+      "explanation": "TTE is the first-line, routine echo exam: the transducer is placed on the chest wall, it requires no sedation, and it is fully non-invasive. *(Practice review slide 5.)*",
+      "explanationImage": null,
+      "tags": [
+        "Basic Echo Principles",
+        "Echocardiography Fundamentals"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch01-q123",
+      "stem": "Before image acquisition, a sonographer checks their understanding of the following.  What do Cardiac Sonographers NOT do?",
+      "image": null,
+      "options": [
+        "Perform patient assessments",
+        "Acquire diagnostic images",
+        "Complete a final signed report",
+        "Use independent judgment to add images/measurements based on findings"
+      ],
+      "answer": 2,
+      "explanation": "Producing the final signed diagnostic report is the responsibility of the interpreting physician (cardiologist), not the sonographer — so this is the task outside the sonographer's scope. *(Practice review slide 7.)*",
+      "explanationImage": null,
+      "tags": [
+        "Basic Echo Principles",
+        "Echocardiography Fundamentals"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch01-q124",
+      "stem": "Before image acquisition, a sonographer checks their understanding of the following.  What is a characteristic of 2D imaging (TTE)?",
+      "image": null,
+      "options": [
+        "Displays depth vs time",
+        "Graphical representation of direction and velocity of blood flow",
+        "Provides cross-sectional multi-planar imaging",
+        "Visual representation of hemodynamics in real time"
+      ],
+      "answer": 2,
+      "explanation": "2D imaging produces real-time tomographic (cross-sectional) slices of the heart from multiple standardized planes and windows — the anatomic backbone of the exam. *(Practice review slide 9.)*",
+      "explanationImage": null,
+      "tags": [
+        "Basic Echo Principles",
+        "Echocardiography Fundamentals"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch01-q125",
+      "stem": "Before image acquisition, a sonographer checks their understanding of the following.  What is a characteristic of M-Mode Imaging?",
+      "image": null,
+      "options": [
+        "Demonstrates velocity of blood cells",
+        "“ice pick view”",
+        "Pulsed wave",
+        "Direction and velocity of myocardial motion vs time"
+      ],
+      "answer": 1,
+      "explanation": "M-mode samples a single ultrasound line at a very high frame rate, displaying the motion of structures along that line over time — historically called the “ice-pick” view. *(Practice review slide 11.)*",
+      "explanationImage": null,
+      "tags": [
+        "Basic Echo Principles",
+        "Echocardiography Fundamentals"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch01-q126",
+      "stem": "Before image acquisition, a sonographer checks their understanding of the following.  What is a characteristic of Colour Doppler?",
+      "image": null,
+      "options": [
+        "Blue shows blood flow travelling towards the transducer",
+        "Does not demonstrate velocity of blood flow",
+        "Red shows blood flow travelling away from the transducer",
+        "Red shows blood flow travelling towards the transducer"
+      ],
+      "answer": 3,
+      "explanation": "Color Doppler follows the BART convention — Blue Away, Red Toward — so red encodes flow moving toward the transducer. *(Practice review slide 13.)*",
+      "explanationImage": null,
+      "tags": [
+        "Basic Echo Principles",
+        "Echocardiography Fundamentals"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch01-q127",
+      "stem": "Before image acquisition, a sonographer checks their understanding of the following.  What is a characteristic of Spectral Doppler?",
+      "image": null,
+      "options": [
+        "Displays structure and function of cardiac anatomy",
+        "Graphical representation of direction and velocity of blood flow",
+        "3 types of spectral doppler",
+        "Single perpendicular axis giving rapidly updated single-line images"
+      ],
+      "answer": 1,
+      "explanation": "Spectral Doppler (PW and CW) plots blood-flow velocity against time, showing both direction (above/below baseline) and magnitude as a waveform. *(Practice review slide 15.)*",
+      "explanationImage": null,
+      "tags": [
+        "Basic Echo Principles",
+        "Echocardiography Fundamentals"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch01-q128",
+      "stem": "Before image acquisition, a sonographer checks their understanding of the following.  What is a characteristic of Tissue Doppler?",
+      "image": null,
+      "options": [
+        "Continuous wave",
+        "Most accurate for timing and measurements",
+        "Gray scale",
+        "Direction and velocity of myocardial motion vs time"
+      ],
+      "answer": 3,
+      "explanation": "Tissue Doppler imaging (TDI) measures the low-velocity, high-amplitude motion of the myocardium itself over time — for example mitral annular e′. *(Practice review slide 17.)*",
+      "explanationImage": null,
+      "tags": [
+        "Basic Echo Principles",
+        "Echocardiography Fundamentals"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch01-q129",
+      "stem": "Before image acquisition, a sonographer checks their understanding of the following.  What are the steps to perform before scanning your patient?",
+      "image": null,
+      "options": [
+        "Review patient’s clinical history",
+        "Look at the requisition for the indication for the exam",
+        "Determine if there are any clinical symptoms",
+        "All of the above"
+      ],
+      "answer": 3,
+      "explanation": "All three are essential pre-scan steps — history, requisition/indication, and current symptoms together drive an appropriate, indication-tailored protocol. *(Practice review slide 19.)*",
+      "explanationImage": null,
+      "tags": [
+        "Basic Echo Principles",
+        "Echocardiography Fundamentals"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch01-q130",
+      "stem": "Before image acquisition, a sonographer checks their understanding of the following.  Which of the following is a possible indication?",
+      "image": null,
+      "options": [
+        "Heart murmur",
+        "Angina",
+        "B & C",
+        "Abdominal pain"
+      ],
+      "answer": 2,
+      "explanation": "Both angina (chest pain of cardiac origin) and a heart murmur are recognized indications for echocardiography, so the combined answer is best. *(Practice review slide 21.)*",
+      "explanationImage": null,
+      "tags": [
+        "Basic Echo Principles",
+        "Echocardiography Fundamentals"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch01-q131",
+      "stem": "Before image acquisition, a sonographer checks their understanding of the following.  What kind of transducer is used in TTE?",
+      "image": null,
+      "options": [
+        "Phased array",
+        "PEDOF",
+        "Linear",
+        "Curvilinear"
+      ],
+      "answer": 0,
+      "explanation": "TTE uses a phased-array transducer: a small footprint fits between the ribs, and electronic beam steering forms the wide sector image of the heart. *(Practice review slide 23.)*",
+      "explanationImage": null,
+      "tags": [
+        "Basic Echo Principles",
+        "Echocardiography Fundamentals"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch01-q132",
+      "stem": "Before image acquisition, a sonographer checks their understanding of the following.  What does focus control on the image?",
+      "image": null,
+      "options": [
+        "Width of the field of view",
+        "Increase/decrease of the overall amplitude of echoes",
+        "Appropriate depth to display anatomy in the field of view",
+        "Where the beam converges, improving resolution"
+      ],
+      "answer": 3,
+      "explanation": "The focus sets the focal zone — the depth where the beam is narrowest — which optimizes lateral resolution at the region of interest. *(Practice review slide 25.)*",
+      "explanationImage": null,
+      "tags": [
+        "Basic Echo Principles",
+        "Echocardiography Fundamentals"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch01-q133",
+      "stem": "Before image acquisition, a sonographer checks their understanding of the following.  How many apical imaging planes are there?",
+      "image": null,
+      "options": [
+        "4",
+        "2",
+        "3",
+        "6"
+      ],
+      "answer": 0,
+      "explanation": "There are four standard apical planes: apical 4-chamber, 2-chamber, 3-chamber (apical long-axis) and 5-chamber. *(Practice review slide 27.)*",
+      "explanationImage": null,
+      "tags": [
+        "Basic Echo Principles",
+        "Echocardiography Fundamentals"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch01-q134",
+      "stem": "Before image acquisition, a sonographer checks their understanding of the following.  What does Time Gain Compensation control on the image?",
+      "image": null,
+      "options": [
+        "Increase/decrease of the overall amplitude of echoes",
+        "Increase/decrease of echo amplitude in a horizontal segment",
+        "Increase/decrease of echo amplitude in a vertical segment",
+        "Increase/decrease in echo amplitude in the far field only"
+      ],
+      "answer": 1,
+      "explanation": "TGC adjusts echo amplitude at a specific depth — a horizontal band of the image — to compensate for attenuation as sound travels deeper. *(Practice review slide 29.)*",
+      "explanationImage": null,
+      "tags": [
+        "Basic Echo Principles",
+        "Echocardiography Fundamentals"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch01-q135",
+      "stem": "Before image acquisition, a sonographer checks their understanding of the following.  What does Lateral Gain Compensation control on the image?",
+      "image": null,
+      "options": [
+        "Increase/decrease of echo amplitude in a horizontal segment",
+        "Increase/decrease in echo amplitude in the far field only",
+        "Increase/decrease of the overall amplitude of echoes",
+        "Increase/decrease of echo amplitude in a vertical segment"
+      ],
+      "answer": 3,
+      "explanation": "Lateral Gain Compensation adjusts echo amplitude across the side-to-side (lateral) dimension — vertical segments/columns of the sector. *(Practice review slide 31.)*",
+      "explanationImage": null,
+      "tags": [
+        "Basic Echo Principles",
+        "Echocardiography Fundamentals"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch01-q136",
+      "stem": "Before image acquisition, a sonographer checks their understanding of the following.  What position is the patient in for the Parasternal window?",
+      "image": null,
+      "options": [
+        "Left lateral decubitus",
+        "Supine, neck extended",
+        "Right lateral decubitus",
+        "Supine, knees bent"
+      ],
+      "answer": 0,
+      "explanation": "Left lateral decubitus rolls the heart toward the chest wall and displaces lung, opening the parasternal acoustic window. *(Practice review slide 33.)*",
+      "explanationImage": null,
+      "tags": [
+        "Basic Echo Principles",
+        "Echocardiography Fundamentals"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch01-q137",
+      "stem": "Before image acquisition, a sonographer checks their understanding of the following.  What position is the patient in for the apical window?",
+      "image": null,
+      "options": [
+        "Supine, neck extended",
+        "Right lateral decubitus",
+        "Supine, knees bent",
+        "Left lateral decubitus"
+      ],
+      "answer": 3,
+      "explanation": "The apical window also uses left lateral decubitus — often a steeper roll — to bring the true apex against the chest wall (or bed cut-out). *(Practice review slide 35.)*",
+      "explanationImage": null,
+      "tags": [
+        "Basic Echo Principles",
+        "Echocardiography Fundamentals"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch01-q138",
+      "stem": "Before image acquisition, a sonographer checks their understanding of the following.  What position is the patient in for the subcostal window?",
+      "image": null,
+      "options": [
+        "Left lateral decubitus",
+        "Supine, knees bent",
+        "Supine, neck extended",
+        "Right lateral decubitus"
+      ],
+      "answer": 1,
+      "explanation": "Supine with the knees bent relaxes the abdominal wall, letting the transducer angle up under the costal margin toward the heart. *(Practice review slide 37.)*",
+      "explanationImage": null,
+      "tags": [
+        "Basic Echo Principles",
+        "Echocardiography Fundamentals"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch01-q139",
+      "stem": "Before image acquisition, a sonographer checks their understanding of the following.  What position is the patient in for the suprasternal window?",
+      "image": null,
+      "options": [
+        "Left lateral decubitus",
+        "Supine, knees bent",
+        "Right lateral decubitus",
+        "Supine, neck extended"
+      ],
+      "answer": 3,
+      "explanation": "Supine with the neck extended (often a pillow under the shoulders) exposes the suprasternal notch for imaging the aortic arch. *(Practice review slide 39.)*",
+      "explanationImage": null,
+      "tags": [
+        "Basic Echo Principles",
+        "Echocardiography Fundamentals"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch01-q140",
+      "stem": "Before image acquisition, a sonographer checks their understanding of the following.  What characteristic does the PEDOF probe have?",
+      "image": null,
+      "options": [
+        "No image produced",
+        "Most commonly used in adult echo",
+        "Small probe with a long arm",
+        "Curvilinear"
+      ],
+      "answer": 0,
+      "explanation": "The PEDOF (Pedoff) probe is a dedicated continuous-wave 'pencil' Doppler transducer — it produces only a spectral Doppler trace, with no 2D image. *(Practice review slide 41.)*",
+      "explanationImage": null,
+      "tags": [
+        "Basic Echo Principles",
+        "Echocardiography Fundamentals"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch01-q141",
+      "stem": "In a laboratory teaching session, the instructor asks:  What is Cardiac Sonography?",
+      "image": null,
+      "options": [
+        "Non-invasive imaging modality",
+        "Provides real time imaging",
+        "Assess lungs and cardiac structures",
+        "Both A& B"
+      ],
+      "answer": 3,
+      "explanation": "Echocardiography is defined by being both non-invasive (probe on the body surface, no ionizing radiation) and real-time (live moving images of the beating heart). Because options A and B are each true, the best answer combines them. *(Practice review slide 3.)*",
+      "explanationImage": null,
+      "tags": [
+        "Basic Echo Principles",
+        "Echocardiography Fundamentals"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch01-q142",
+      "stem": "In a laboratory teaching session, the instructor asks:  What is the most common modality used in Echocardiography?",
+      "image": null,
+      "options": [
+        "Stress Echo",
+        "Transthoracic Echocardiogram (TTE)",
+        "M-mode Imaging",
+        "Transesophageal Echocardiogram (TEE)"
+      ],
+      "answer": 1,
+      "explanation": "TTE is the first-line, routine echo exam: the transducer is placed on the chest wall, it requires no sedation, and it is fully non-invasive. *(Practice review slide 5.)*",
+      "explanationImage": null,
+      "tags": [
+        "Basic Echo Principles",
+        "Echocardiography Fundamentals"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch01-q143",
+      "stem": "In a laboratory teaching session, the instructor asks:  What do Cardiac Sonographers NOT do?",
+      "image": null,
+      "options": [
+        "Acquire diagnostic images",
+        "Use independent judgment to add images/measurements based on findings",
+        "Perform patient assessments",
+        "Complete a final signed report"
+      ],
+      "answer": 3,
+      "explanation": "Producing the final signed diagnostic report is the responsibility of the interpreting physician (cardiologist), not the sonographer — so this is the task outside the sonographer's scope. *(Practice review slide 7.)*",
+      "explanationImage": null,
+      "tags": [
+        "Basic Echo Principles",
+        "Echocardiography Fundamentals"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch01-q144",
+      "stem": "In a laboratory teaching session, the instructor asks:  What is a characteristic of 2D imaging (TTE)?",
+      "image": null,
+      "options": [
+        "Displays depth vs time",
+        "Provides cross-sectional multi-planar imaging",
+        "Graphical representation of direction and velocity of blood flow",
+        "Visual representation of hemodynamics in real time"
+      ],
+      "answer": 1,
+      "explanation": "2D imaging produces real-time tomographic (cross-sectional) slices of the heart from multiple standardized planes and windows — the anatomic backbone of the exam. *(Practice review slide 9.)*",
+      "explanationImage": null,
+      "tags": [
+        "Basic Echo Principles",
+        "Echocardiography Fundamentals"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch01-q145",
+      "stem": "In a laboratory teaching session, the instructor asks:  What is a characteristic of M-Mode Imaging?",
+      "image": null,
+      "options": [
+        "Demonstrates velocity of blood cells",
+        "Direction and velocity of myocardial motion vs time",
+        "“ice pick view”",
+        "Pulsed wave"
+      ],
+      "answer": 2,
+      "explanation": "M-mode samples a single ultrasound line at a very high frame rate, displaying the motion of structures along that line over time — historically called the “ice-pick” view. *(Practice review slide 11.)*",
+      "explanationImage": null,
+      "tags": [
+        "Basic Echo Principles",
+        "Echocardiography Fundamentals"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch01-q146",
+      "stem": "In a laboratory teaching session, the instructor asks:  What is a characteristic of Colour Doppler?",
+      "image": null,
+      "options": [
+        "Red shows blood flow travelling away from the transducer",
+        "Blue shows blood flow travelling towards the transducer",
+        "Red shows blood flow travelling towards the transducer",
+        "Does not demonstrate velocity of blood flow"
+      ],
+      "answer": 2,
+      "explanation": "Color Doppler follows the BART convention — Blue Away, Red Toward — so red encodes flow moving toward the transducer. *(Practice review slide 13.)*",
+      "explanationImage": null,
+      "tags": [
+        "Basic Echo Principles",
+        "Echocardiography Fundamentals"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch01-q147",
+      "stem": "In a laboratory teaching session, the instructor asks:  What is a characteristic of Spectral Doppler?",
+      "image": null,
+      "options": [
+        "3 types of spectral doppler",
+        "Single perpendicular axis giving rapidly updated single-line images",
+        "Displays structure and function of cardiac anatomy",
+        "Graphical representation of direction and velocity of blood flow"
+      ],
+      "answer": 3,
+      "explanation": "Spectral Doppler (PW and CW) plots blood-flow velocity against time, showing both direction (above/below baseline) and magnitude as a waveform. *(Practice review slide 15.)*",
+      "explanationImage": null,
+      "tags": [
+        "Basic Echo Principles",
+        "Echocardiography Fundamentals"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch01-q148",
+      "stem": "In a laboratory teaching session, the instructor asks:  What is a characteristic of Tissue Doppler?",
+      "image": null,
+      "options": [
+        "Continuous wave",
+        "Gray scale",
+        "Most accurate for timing and measurements",
+        "Direction and velocity of myocardial motion vs time"
+      ],
+      "answer": 3,
+      "explanation": "Tissue Doppler imaging (TDI) measures the low-velocity, high-amplitude motion of the myocardium itself over time — for example mitral annular e′. *(Practice review slide 17.)*",
+      "explanationImage": null,
+      "tags": [
+        "Basic Echo Principles",
+        "Echocardiography Fundamentals"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch01-q149",
+      "stem": "In a laboratory teaching session, the instructor asks:  What are the steps to perform before scanning your patient?",
+      "image": null,
+      "options": [
+        "Review patient’s clinical history",
+        "Look at the requisition for the indication for the exam",
+        "Determine if there are any clinical symptoms",
+        "All of the above"
+      ],
+      "answer": 3,
+      "explanation": "All three are essential pre-scan steps — history, requisition/indication, and current symptoms together drive an appropriate, indication-tailored protocol. *(Practice review slide 19.)*",
+      "explanationImage": null,
+      "tags": [
+        "Basic Echo Principles",
+        "Echocardiography Fundamentals"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch01-q150",
+      "stem": "In a laboratory teaching session, the instructor asks:  Which of the following is a possible indication?",
+      "image": null,
+      "options": [
+        "B & C",
+        "Abdominal pain",
+        "Heart murmur",
+        "Angina"
+      ],
+      "answer": 0,
+      "explanation": "Both angina (chest pain of cardiac origin) and a heart murmur are recognized indications for echocardiography, so the combined answer is best. *(Practice review slide 21.)*",
+      "explanationImage": null,
+      "tags": [
+        "Basic Echo Principles",
+        "Echocardiography Fundamentals"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch01-q151",
+      "stem": "In a laboratory teaching session, the instructor asks:  What kind of transducer is used in TTE?",
+      "image": null,
+      "options": [
+        "Curvilinear",
+        "PEDOF",
+        "Phased array",
+        "Linear"
+      ],
+      "answer": 2,
+      "explanation": "TTE uses a phased-array transducer: a small footprint fits between the ribs, and electronic beam steering forms the wide sector image of the heart. *(Practice review slide 23.)*",
+      "explanationImage": null,
+      "tags": [
+        "Basic Echo Principles",
+        "Echocardiography Fundamentals"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch01-q152",
+      "stem": "In a laboratory teaching session, the instructor asks:  What does focus control on the image?",
+      "image": null,
+      "options": [
+        "Where the beam converges, improving resolution",
+        "Increase/decrease of the overall amplitude of echoes",
+        "Appropriate depth to display anatomy in the field of view",
+        "Width of the field of view"
+      ],
+      "answer": 0,
+      "explanation": "The focus sets the focal zone — the depth where the beam is narrowest — which optimizes lateral resolution at the region of interest. *(Practice review slide 25.)*",
+      "explanationImage": null,
+      "tags": [
+        "Basic Echo Principles",
+        "Echocardiography Fundamentals"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch01-q153",
+      "stem": "In a laboratory teaching session, the instructor asks:  How many apical imaging planes are there?",
+      "image": null,
+      "options": [
+        "4",
+        "2",
+        "6",
+        "3"
+      ],
+      "answer": 0,
+      "explanation": "There are four standard apical planes: apical 4-chamber, 2-chamber, 3-chamber (apical long-axis) and 5-chamber. *(Practice review slide 27.)*",
+      "explanationImage": null,
+      "tags": [
+        "Basic Echo Principles",
+        "Echocardiography Fundamentals"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch01-q154",
+      "stem": "In a laboratory teaching session, the instructor asks:  What does Time Gain Compensation control on the image?",
+      "image": null,
+      "options": [
+        "Increase/decrease in echo amplitude in the far field only",
+        "Increase/decrease of echo amplitude in a horizontal segment",
+        "Increase/decrease of echo amplitude in a vertical segment",
+        "Increase/decrease of the overall amplitude of echoes"
+      ],
+      "answer": 1,
+      "explanation": "TGC adjusts echo amplitude at a specific depth — a horizontal band of the image — to compensate for attenuation as sound travels deeper. *(Practice review slide 29.)*",
+      "explanationImage": null,
+      "tags": [
+        "Basic Echo Principles",
+        "Echocardiography Fundamentals"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch01-q155",
+      "stem": "In a laboratory teaching session, the instructor asks:  What does Lateral Gain Compensation control on the image?",
+      "image": null,
+      "options": [
+        "Increase/decrease in echo amplitude in the far field only",
+        "Increase/decrease of echo amplitude in a horizontal segment",
+        "Increase/decrease of echo amplitude in a vertical segment",
+        "Increase/decrease of the overall amplitude of echoes"
+      ],
+      "answer": 2,
+      "explanation": "Lateral Gain Compensation adjusts echo amplitude across the side-to-side (lateral) dimension — vertical segments/columns of the sector. *(Practice review slide 31.)*",
+      "explanationImage": null,
+      "tags": [
+        "Basic Echo Principles",
+        "Echocardiography Fundamentals"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch01-q156",
+      "stem": "In a laboratory teaching session, the instructor asks:  What position is the patient in for the Parasternal window?",
+      "image": null,
+      "options": [
+        "Right lateral decubitus",
+        "Supine, neck extended",
+        "Left lateral decubitus",
+        "Supine, knees bent"
+      ],
+      "answer": 2,
+      "explanation": "Left lateral decubitus rolls the heart toward the chest wall and displaces lung, opening the parasternal acoustic window. *(Practice review slide 33.)*",
+      "explanationImage": null,
+      "tags": [
+        "Basic Echo Principles",
+        "Echocardiography Fundamentals"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch01-q157",
+      "stem": "In a laboratory teaching session, the instructor asks:  What position is the patient in for the apical window?",
+      "image": null,
+      "options": [
+        "Supine, knees bent",
+        "Supine, neck extended",
+        "Left lateral decubitus",
+        "Right lateral decubitus"
+      ],
+      "answer": 2,
+      "explanation": "The apical window also uses left lateral decubitus — often a steeper roll — to bring the true apex against the chest wall (or bed cut-out). *(Practice review slide 35.)*",
+      "explanationImage": null,
+      "tags": [
+        "Basic Echo Principles",
+        "Echocardiography Fundamentals"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch01-q158",
+      "stem": "In a laboratory teaching session, the instructor asks:  What position is the patient in for the subcostal window?",
+      "image": null,
+      "options": [
+        "Left lateral decubitus",
+        "Right lateral decubitus",
+        "Supine, knees bent",
+        "Supine, neck extended"
+      ],
+      "answer": 2,
+      "explanation": "Supine with the knees bent relaxes the abdominal wall, letting the transducer angle up under the costal margin toward the heart. *(Practice review slide 37.)*",
+      "explanationImage": null,
+      "tags": [
+        "Basic Echo Principles",
+        "Echocardiography Fundamentals"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch01-q159",
+      "stem": "In a laboratory teaching session, the instructor asks:  What position is the patient in for the suprasternal window?",
+      "image": null,
+      "options": [
+        "Supine, knees bent",
+        "Supine, neck extended",
+        "Right lateral decubitus",
+        "Left lateral decubitus"
+      ],
+      "answer": 1,
+      "explanation": "Supine with the neck extended (often a pillow under the shoulders) exposes the suprasternal notch for imaging the aortic arch. *(Practice review slide 39.)*",
+      "explanationImage": null,
+      "tags": [
+        "Basic Echo Principles",
+        "Echocardiography Fundamentals"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch01-q160",
+      "stem": "In a laboratory teaching session, the instructor asks:  What characteristic does the PEDOF probe have?",
+      "image": null,
+      "options": [
+        "No image produced",
+        "Most commonly used in adult echo",
+        "Small probe with a long arm",
+        "Curvilinear"
+      ],
+      "answer": 0,
+      "explanation": "The PEDOF (Pedoff) probe is a dedicated continuous-wave 'pencil' Doppler transducer — it produces only a spectral Doppler trace, with no 2D image. *(Practice review slide 41.)*",
+      "explanationImage": null,
+      "tags": [
+        "Basic Echo Principles",
+        "Echocardiography Fundamentals"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch01-q161",
+      "stem": "During a mock adult echocardiography board examination, consider the following.  What is Cardiac Sonography?",
+      "image": null,
+      "options": [
+        "Non-invasive imaging modality",
+        "Provides real time imaging",
+        "Assess lungs and cardiac structures",
+        "Both A& B"
+      ],
+      "answer": 3,
+      "explanation": "Echocardiography is defined by being both non-invasive (probe on the body surface, no ionizing radiation) and real-time (live moving images of the beating heart). Because options A and B are each true, the best answer combines them. *(Practice review slide 3.)*",
+      "explanationImage": null,
+      "tags": [
+        "Basic Echo Principles",
+        "Echocardiography Fundamentals"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch01-q162",
+      "stem": "During a mock adult echocardiography board examination, consider the following.  What is the most common modality used in Echocardiography?",
+      "image": null,
+      "options": [
+        "Transthoracic Echocardiogram (TTE)",
+        "Transesophageal Echocardiogram (TEE)",
+        "Stress Echo",
+        "M-mode Imaging"
+      ],
+      "answer": 0,
+      "explanation": "TTE is the first-line, routine echo exam: the transducer is placed on the chest wall, it requires no sedation, and it is fully non-invasive. *(Practice review slide 5.)*",
+      "explanationImage": null,
+      "tags": [
+        "Basic Echo Principles",
+        "Echocardiography Fundamentals"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch01-q163",
+      "stem": "During a mock adult echocardiography board examination, consider the following.  What do Cardiac Sonographers NOT do?",
+      "image": null,
+      "options": [
+        "Complete a final signed report",
+        "Use independent judgment to add images/measurements based on findings",
+        "Acquire diagnostic images",
+        "Perform patient assessments"
+      ],
+      "answer": 0,
+      "explanation": "Producing the final signed diagnostic report is the responsibility of the interpreting physician (cardiologist), not the sonographer — so this is the task outside the sonographer's scope. *(Practice review slide 7.)*",
+      "explanationImage": null,
+      "tags": [
+        "Basic Echo Principles",
+        "Echocardiography Fundamentals"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch01-q164",
+      "stem": "During a mock adult echocardiography board examination, consider the following.  What is a characteristic of 2D imaging (TTE)?",
+      "image": null,
+      "options": [
+        "Visual representation of hemodynamics in real time",
+        "Graphical representation of direction and velocity of blood flow",
+        "Displays depth vs time",
+        "Provides cross-sectional multi-planar imaging"
+      ],
+      "answer": 3,
+      "explanation": "2D imaging produces real-time tomographic (cross-sectional) slices of the heart from multiple standardized planes and windows — the anatomic backbone of the exam. *(Practice review slide 9.)*",
+      "explanationImage": null,
+      "tags": [
+        "Basic Echo Principles",
+        "Echocardiography Fundamentals"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch01-q165",
+      "stem": "During a mock adult echocardiography board examination, consider the following.  What is a characteristic of M-Mode Imaging?",
+      "image": null,
+      "options": [
+        "Direction and velocity of myocardial motion vs time",
+        "“ice pick view”",
+        "Pulsed wave",
+        "Demonstrates velocity of blood cells"
+      ],
+      "answer": 1,
+      "explanation": "M-mode samples a single ultrasound line at a very high frame rate, displaying the motion of structures along that line over time — historically called the “ice-pick” view. *(Practice review slide 11.)*",
+      "explanationImage": null,
+      "tags": [
+        "Basic Echo Principles",
+        "Echocardiography Fundamentals"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch01-q166",
+      "stem": "During a mock adult echocardiography board examination, consider the following.  What is a characteristic of Colour Doppler?",
+      "image": null,
+      "options": [
+        "Red shows blood flow travelling away from the transducer",
+        "Red shows blood flow travelling towards the transducer",
+        "Blue shows blood flow travelling towards the transducer",
+        "Does not demonstrate velocity of blood flow"
+      ],
+      "answer": 1,
+      "explanation": "Color Doppler follows the BART convention — Blue Away, Red Toward — so red encodes flow moving toward the transducer. *(Practice review slide 13.)*",
+      "explanationImage": null,
+      "tags": [
+        "Basic Echo Principles",
+        "Echocardiography Fundamentals"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch01-q167",
+      "stem": "During a mock adult echocardiography board examination, consider the following.  What is a characteristic of Spectral Doppler?",
+      "image": null,
+      "options": [
+        "Displays structure and function of cardiac anatomy",
+        "3 types of spectral doppler",
+        "Single perpendicular axis giving rapidly updated single-line images",
+        "Graphical representation of direction and velocity of blood flow"
+      ],
+      "answer": 3,
+      "explanation": "Spectral Doppler (PW and CW) plots blood-flow velocity against time, showing both direction (above/below baseline) and magnitude as a waveform. *(Practice review slide 15.)*",
+      "explanationImage": null,
+      "tags": [
+        "Basic Echo Principles",
+        "Echocardiography Fundamentals"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch01-q168",
+      "stem": "During a mock adult echocardiography board examination, consider the following.  What is a characteristic of Tissue Doppler?",
+      "image": null,
+      "options": [
+        "Direction and velocity of myocardial motion vs time",
+        "Gray scale",
+        "Continuous wave",
+        "Most accurate for timing and measurements"
+      ],
+      "answer": 0,
+      "explanation": "Tissue Doppler imaging (TDI) measures the low-velocity, high-amplitude motion of the myocardium itself over time — for example mitral annular e′. *(Practice review slide 17.)*",
+      "explanationImage": null,
+      "tags": [
+        "Basic Echo Principles",
+        "Echocardiography Fundamentals"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch01-q169",
+      "stem": "During a mock adult echocardiography board examination, consider the following.  What are the steps to perform before scanning your patient?",
+      "image": null,
+      "options": [
+        "Review patient’s clinical history",
+        "Look at the requisition for the indication for the exam",
+        "Determine if there are any clinical symptoms",
+        "All of the above"
+      ],
+      "answer": 3,
+      "explanation": "All three are essential pre-scan steps — history, requisition/indication, and current symptoms together drive an appropriate, indication-tailored protocol. *(Practice review slide 19.)*",
+      "explanationImage": null,
+      "tags": [
+        "Basic Echo Principles",
+        "Echocardiography Fundamentals"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch01-q170",
+      "stem": "During a mock adult echocardiography board examination, consider the following.  Which of the following is a possible indication?",
+      "image": null,
+      "options": [
+        "B & C",
+        "Abdominal pain",
+        "Angina",
+        "Heart murmur"
+      ],
+      "answer": 0,
+      "explanation": "Both angina (chest pain of cardiac origin) and a heart murmur are recognized indications for echocardiography, so the combined answer is best. *(Practice review slide 21.)*",
+      "explanationImage": null,
+      "tags": [
+        "Basic Echo Principles",
+        "Echocardiography Fundamentals"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch01-q171",
+      "stem": "During a mock adult echocardiography board examination, consider the following.  What kind of transducer is used in TTE?",
+      "image": null,
+      "options": [
+        "Curvilinear",
+        "Phased array",
+        "Linear",
+        "PEDOF"
+      ],
+      "answer": 1,
+      "explanation": "TTE uses a phased-array transducer: a small footprint fits between the ribs, and electronic beam steering forms the wide sector image of the heart. *(Practice review slide 23.)*",
+      "explanationImage": null,
+      "tags": [
+        "Basic Echo Principles",
+        "Echocardiography Fundamentals"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch01-q172",
+      "stem": "During a mock adult echocardiography board examination, consider the following.  What does focus control on the image?",
+      "image": null,
+      "options": [
+        "Increase/decrease of the overall amplitude of echoes",
+        "Width of the field of view",
+        "Appropriate depth to display anatomy in the field of view",
+        "Where the beam converges, improving resolution"
+      ],
+      "answer": 3,
+      "explanation": "The focus sets the focal zone — the depth where the beam is narrowest — which optimizes lateral resolution at the region of interest. *(Practice review slide 25.)*",
+      "explanationImage": null,
+      "tags": [
+        "Basic Echo Principles",
+        "Echocardiography Fundamentals"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch01-q173",
+      "stem": "During a mock adult echocardiography board examination, consider the following.  How many apical imaging planes are there?",
+      "image": null,
+      "options": [
+        "6",
+        "4",
+        "2",
+        "3"
+      ],
+      "answer": 1,
+      "explanation": "There are four standard apical planes: apical 4-chamber, 2-chamber, 3-chamber (apical long-axis) and 5-chamber. *(Practice review slide 27.)*",
+      "explanationImage": null,
+      "tags": [
+        "Basic Echo Principles",
+        "Echocardiography Fundamentals"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch01-q174",
+      "stem": "During a mock adult echocardiography board examination, consider the following.  What does Time Gain Compensation control on the image?",
+      "image": null,
+      "options": [
+        "Increase/decrease of echo amplitude in a horizontal segment",
+        "Increase/decrease of echo amplitude in a vertical segment",
+        "Increase/decrease in echo amplitude in the far field only",
+        "Increase/decrease of the overall amplitude of echoes"
+      ],
+      "answer": 0,
+      "explanation": "TGC adjusts echo amplitude at a specific depth — a horizontal band of the image — to compensate for attenuation as sound travels deeper. *(Practice review slide 29.)*",
+      "explanationImage": null,
+      "tags": [
+        "Basic Echo Principles",
+        "Echocardiography Fundamentals"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch01-q175",
+      "stem": "During a mock adult echocardiography board examination, consider the following.  What does Lateral Gain Compensation control on the image?",
+      "image": null,
+      "options": [
+        "Increase/decrease of echo amplitude in a horizontal segment",
+        "Increase/decrease of echo amplitude in a vertical segment",
+        "Increase/decrease in echo amplitude in the far field only",
+        "Increase/decrease of the overall amplitude of echoes"
+      ],
+      "answer": 1,
+      "explanation": "Lateral Gain Compensation adjusts echo amplitude across the side-to-side (lateral) dimension — vertical segments/columns of the sector. *(Practice review slide 31.)*",
+      "explanationImage": null,
+      "tags": [
+        "Basic Echo Principles",
+        "Echocardiography Fundamentals"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch01-q176",
+      "stem": "During a mock adult echocardiography board examination, consider the following.  What position is the patient in for the Parasternal window?",
+      "image": null,
+      "options": [
+        "Right lateral decubitus",
+        "Supine, knees bent",
+        "Left lateral decubitus",
+        "Supine, neck extended"
+      ],
+      "answer": 2,
+      "explanation": "Left lateral decubitus rolls the heart toward the chest wall and displaces lung, opening the parasternal acoustic window. *(Practice review slide 33.)*",
+      "explanationImage": null,
+      "tags": [
+        "Basic Echo Principles",
+        "Echocardiography Fundamentals"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch01-q177",
+      "stem": "During a mock adult echocardiography board examination, consider the following.  What position is the patient in for the apical window?",
+      "image": null,
+      "options": [
+        "Supine, neck extended",
+        "Supine, knees bent",
+        "Left lateral decubitus",
+        "Right lateral decubitus"
+      ],
+      "answer": 2,
+      "explanation": "The apical window also uses left lateral decubitus — often a steeper roll — to bring the true apex against the chest wall (or bed cut-out). *(Practice review slide 35.)*",
+      "explanationImage": null,
+      "tags": [
+        "Basic Echo Principles",
+        "Echocardiography Fundamentals"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch01-q178",
+      "stem": "During a mock adult echocardiography board examination, consider the following.  What position is the patient in for the subcostal window?",
+      "image": null,
+      "options": [
+        "Supine, knees bent",
+        "Left lateral decubitus",
+        "Right lateral decubitus",
+        "Supine, neck extended"
+      ],
+      "answer": 0,
+      "explanation": "Supine with the knees bent relaxes the abdominal wall, letting the transducer angle up under the costal margin toward the heart. *(Practice review slide 37.)*",
+      "explanationImage": null,
+      "tags": [
+        "Basic Echo Principles",
+        "Echocardiography Fundamentals"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch01-q179",
+      "stem": "During a mock adult echocardiography board examination, consider the following.  What position is the patient in for the suprasternal window?",
+      "image": null,
+      "options": [
+        "Left lateral decubitus",
+        "Supine, knees bent",
+        "Supine, neck extended",
+        "Right lateral decubitus"
+      ],
+      "answer": 2,
+      "explanation": "Supine with the neck extended (often a pillow under the shoulders) exposes the suprasternal notch for imaging the aortic arch. *(Practice review slide 39.)*",
+      "explanationImage": null,
+      "tags": [
+        "Basic Echo Principles",
+        "Echocardiography Fundamentals"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch01-q180",
+      "stem": "During a mock adult echocardiography board examination, consider the following.  What characteristic does the PEDOF probe have?",
+      "image": null,
+      "options": [
+        "Small probe with a long arm",
+        "Most commonly used in adult echo",
+        "Curvilinear",
+        "No image produced"
+      ],
+      "answer": 3,
+      "explanation": "The PEDOF (Pedoff) probe is a dedicated continuous-wave 'pencil' Doppler transducer — it produces only a spectral Doppler trace, with no 2D image. *(Practice review slide 41.)*",
+      "explanationImage": null,
+      "tags": [
+        "Basic Echo Principles",
+        "Echocardiography Fundamentals"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch01-q181",
+      "stem": "A sonographer is reviewing the relevant anatomy, technique, or physiology.  What is Cardiac Sonography?",
+      "image": null,
+      "options": [
+        "Non-invasive imaging modality",
+        "Provides real time imaging",
+        "Assess lungs and cardiac structures",
+        "Both A& B"
+      ],
+      "answer": 3,
+      "explanation": "Echocardiography is defined by being both non-invasive (probe on the body surface, no ionizing radiation) and real-time (live moving images of the beating heart). Because options A and B are each true, the best answer combines them. *(Practice review slide 3.)*",
+      "explanationImage": null,
+      "tags": [
+        "Basic Echo Principles",
+        "Echocardiography Fundamentals"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch01-q182",
+      "stem": "A sonographer is reviewing the relevant anatomy, technique, or physiology.  What is the most common modality used in Echocardiography?",
+      "image": null,
+      "options": [
+        "Transesophageal Echocardiogram (TEE)",
+        "Transthoracic Echocardiogram (TTE)",
+        "M-mode Imaging",
+        "Stress Echo"
+      ],
+      "answer": 1,
+      "explanation": "TTE is the first-line, routine echo exam: the transducer is placed on the chest wall, it requires no sedation, and it is fully non-invasive. *(Practice review slide 5.)*",
+      "explanationImage": null,
+      "tags": [
+        "Basic Echo Principles",
+        "Echocardiography Fundamentals"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch01-q183",
+      "stem": "A sonographer is reviewing the relevant anatomy, technique, or physiology.  What do Cardiac Sonographers NOT do?",
+      "image": null,
+      "options": [
+        "Acquire diagnostic images",
+        "Use independent judgment to add images/measurements based on findings",
+        "Complete a final signed report",
+        "Perform patient assessments"
+      ],
+      "answer": 2,
+      "explanation": "Producing the final signed diagnostic report is the responsibility of the interpreting physician (cardiologist), not the sonographer — so this is the task outside the sonographer's scope. *(Practice review slide 7.)*",
+      "explanationImage": null,
+      "tags": [
+        "Basic Echo Principles",
+        "Echocardiography Fundamentals"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch01-q184",
+      "stem": "A sonographer is reviewing the relevant anatomy, technique, or physiology.  What is a characteristic of 2D imaging (TTE)?",
+      "image": null,
+      "options": [
+        "Graphical representation of direction and velocity of blood flow",
+        "Displays depth vs time",
+        "Visual representation of hemodynamics in real time",
+        "Provides cross-sectional multi-planar imaging"
+      ],
+      "answer": 3,
+      "explanation": "2D imaging produces real-time tomographic (cross-sectional) slices of the heart from multiple standardized planes and windows — the anatomic backbone of the exam. *(Practice review slide 9.)*",
+      "explanationImage": null,
+      "tags": [
+        "Basic Echo Principles",
+        "Echocardiography Fundamentals"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch01-q185",
+      "stem": "A sonographer is reviewing the relevant anatomy, technique, or physiology.  What is a characteristic of M-Mode Imaging?",
+      "image": null,
+      "options": [
+        "Direction and velocity of myocardial motion vs time",
+        "Pulsed wave",
+        "“ice pick view”",
+        "Demonstrates velocity of blood cells"
+      ],
+      "answer": 2,
+      "explanation": "M-mode samples a single ultrasound line at a very high frame rate, displaying the motion of structures along that line over time — historically called the “ice-pick” view. *(Practice review slide 11.)*",
+      "explanationImage": null,
+      "tags": [
+        "Basic Echo Principles",
+        "Echocardiography Fundamentals"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch01-q186",
+      "stem": "A sonographer is reviewing the relevant anatomy, technique, or physiology.  What is a characteristic of Colour Doppler?",
+      "image": null,
+      "options": [
+        "Red shows blood flow travelling away from the transducer",
+        "Red shows blood flow travelling towards the transducer",
+        "Does not demonstrate velocity of blood flow",
+        "Blue shows blood flow travelling towards the transducer"
+      ],
+      "answer": 1,
+      "explanation": "Color Doppler follows the BART convention — Blue Away, Red Toward — so red encodes flow moving toward the transducer. *(Practice review slide 13.)*",
+      "explanationImage": null,
+      "tags": [
+        "Basic Echo Principles",
+        "Echocardiography Fundamentals"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch01-q187",
+      "stem": "A sonographer is reviewing the relevant anatomy, technique, or physiology.  What is a characteristic of Spectral Doppler?",
+      "image": null,
+      "options": [
+        "Graphical representation of direction and velocity of blood flow",
+        "Displays structure and function of cardiac anatomy",
+        "Single perpendicular axis giving rapidly updated single-line images",
+        "3 types of spectral doppler"
+      ],
+      "answer": 0,
+      "explanation": "Spectral Doppler (PW and CW) plots blood-flow velocity against time, showing both direction (above/below baseline) and magnitude as a waveform. *(Practice review slide 15.)*",
+      "explanationImage": null,
+      "tags": [
+        "Basic Echo Principles",
+        "Echocardiography Fundamentals"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch01-q188",
+      "stem": "A sonographer is reviewing the relevant anatomy, technique, or physiology.  What is a characteristic of Tissue Doppler?",
+      "image": null,
+      "options": [
+        "Gray scale",
+        "Continuous wave",
+        "Direction and velocity of myocardial motion vs time",
+        "Most accurate for timing and measurements"
+      ],
+      "answer": 2,
+      "explanation": "Tissue Doppler imaging (TDI) measures the low-velocity, high-amplitude motion of the myocardium itself over time — for example mitral annular e′. *(Practice review slide 17.)*",
+      "explanationImage": null,
+      "tags": [
+        "Basic Echo Principles",
+        "Echocardiography Fundamentals"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch01-q189",
+      "stem": "A sonographer is reviewing the relevant anatomy, technique, or physiology.  What are the steps to perform before scanning your patient?",
+      "image": null,
+      "options": [
+        "Review patient’s clinical history",
+        "Look at the requisition for the indication for the exam",
+        "Determine if there are any clinical symptoms",
+        "All of the above"
+      ],
+      "answer": 3,
+      "explanation": "All three are essential pre-scan steps — history, requisition/indication, and current symptoms together drive an appropriate, indication-tailored protocol. *(Practice review slide 19.)*",
+      "explanationImage": null,
+      "tags": [
+        "Basic Echo Principles",
+        "Echocardiography Fundamentals"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch01-q190",
+      "stem": "A sonographer is reviewing the relevant anatomy, technique, or physiology.  Which of the following is a possible indication?",
+      "image": null,
+      "options": [
+        "Angina",
+        "Heart murmur",
+        "B & C",
+        "Abdominal pain"
+      ],
+      "answer": 2,
+      "explanation": "Both angina (chest pain of cardiac origin) and a heart murmur are recognized indications for echocardiography, so the combined answer is best. *(Practice review slide 21.)*",
+      "explanationImage": null,
+      "tags": [
+        "Basic Echo Principles",
+        "Echocardiography Fundamentals"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch01-q191",
+      "stem": "A sonographer is reviewing the relevant anatomy, technique, or physiology.  What kind of transducer is used in TTE?",
+      "image": null,
+      "options": [
+        "PEDOF",
+        "Curvilinear",
+        "Linear",
+        "Phased array"
+      ],
+      "answer": 3,
+      "explanation": "TTE uses a phased-array transducer: a small footprint fits between the ribs, and electronic beam steering forms the wide sector image of the heart. *(Practice review slide 23.)*",
+      "explanationImage": null,
+      "tags": [
+        "Basic Echo Principles",
+        "Echocardiography Fundamentals"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch01-q192",
+      "stem": "A sonographer is reviewing the relevant anatomy, technique, or physiology.  What does focus control on the image?",
+      "image": null,
+      "options": [
+        "Width of the field of view",
+        "Increase/decrease of the overall amplitude of echoes",
+        "Where the beam converges, improving resolution",
+        "Appropriate depth to display anatomy in the field of view"
+      ],
+      "answer": 2,
+      "explanation": "The focus sets the focal zone — the depth where the beam is narrowest — which optimizes lateral resolution at the region of interest. *(Practice review slide 25.)*",
+      "explanationImage": null,
+      "tags": [
+        "Basic Echo Principles",
+        "Echocardiography Fundamentals"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch01-q193",
+      "stem": "A sonographer is reviewing the relevant anatomy, technique, or physiology.  How many apical imaging planes are there?",
+      "image": null,
+      "options": [
+        "3",
+        "4",
+        "2",
+        "6"
+      ],
+      "answer": 1,
+      "explanation": "There are four standard apical planes: apical 4-chamber, 2-chamber, 3-chamber (apical long-axis) and 5-chamber. *(Practice review slide 27.)*",
+      "explanationImage": null,
+      "tags": [
+        "Basic Echo Principles",
+        "Echocardiography Fundamentals"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch01-q194",
+      "stem": "A sonographer is reviewing the relevant anatomy, technique, or physiology.  What does Time Gain Compensation control on the image?",
+      "image": null,
+      "options": [
+        "Increase/decrease of echo amplitude in a horizontal segment",
+        "Increase/decrease of echo amplitude in a vertical segment",
+        "Increase/decrease of the overall amplitude of echoes",
+        "Increase/decrease in echo amplitude in the far field only"
+      ],
+      "answer": 0,
+      "explanation": "TGC adjusts echo amplitude at a specific depth — a horizontal band of the image — to compensate for attenuation as sound travels deeper. *(Practice review slide 29.)*",
+      "explanationImage": null,
+      "tags": [
+        "Basic Echo Principles",
+        "Echocardiography Fundamentals"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch01-q195",
+      "stem": "A sonographer is reviewing the relevant anatomy, technique, or physiology.  What does Lateral Gain Compensation control on the image?",
+      "image": null,
+      "options": [
+        "Increase/decrease of echo amplitude in a horizontal segment",
+        "Increase/decrease in echo amplitude in the far field only",
+        "Increase/decrease of echo amplitude in a vertical segment",
+        "Increase/decrease of the overall amplitude of echoes"
+      ],
+      "answer": 2,
+      "explanation": "Lateral Gain Compensation adjusts echo amplitude across the side-to-side (lateral) dimension — vertical segments/columns of the sector. *(Practice review slide 31.)*",
+      "explanationImage": null,
+      "tags": [
+        "Basic Echo Principles",
+        "Echocardiography Fundamentals"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch01-q196",
+      "stem": "A sonographer is reviewing the relevant anatomy, technique, or physiology.  What position is the patient in for the Parasternal window?",
+      "image": null,
+      "options": [
+        "Right lateral decubitus",
+        "Supine, neck extended",
+        "Left lateral decubitus",
+        "Supine, knees bent"
+      ],
+      "answer": 2,
+      "explanation": "Left lateral decubitus rolls the heart toward the chest wall and displaces lung, opening the parasternal acoustic window. *(Practice review slide 33.)*",
+      "explanationImage": null,
+      "tags": [
+        "Basic Echo Principles",
+        "Echocardiography Fundamentals"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch01-q197",
+      "stem": "A sonographer is reviewing the relevant anatomy, technique, or physiology.  What position is the patient in for the apical window?",
+      "image": null,
+      "options": [
+        "Supine, neck extended",
+        "Left lateral decubitus",
+        "Right lateral decubitus",
+        "Supine, knees bent"
+      ],
+      "answer": 1,
+      "explanation": "The apical window also uses left lateral decubitus — often a steeper roll — to bring the true apex against the chest wall (or bed cut-out). *(Practice review slide 35.)*",
+      "explanationImage": null,
+      "tags": [
+        "Basic Echo Principles",
+        "Echocardiography Fundamentals"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch01-q198",
+      "stem": "A sonographer is reviewing the relevant anatomy, technique, or physiology.  What position is the patient in for the subcostal window?",
+      "image": null,
+      "options": [
+        "Supine, knees bent",
+        "Right lateral decubitus",
+        "Left lateral decubitus",
+        "Supine, neck extended"
+      ],
+      "answer": 0,
+      "explanation": "Supine with the knees bent relaxes the abdominal wall, letting the transducer angle up under the costal margin toward the heart. *(Practice review slide 37.)*",
+      "explanationImage": null,
+      "tags": [
+        "Basic Echo Principles",
+        "Echocardiography Fundamentals"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch01-q199",
+      "stem": "A sonographer is reviewing the relevant anatomy, technique, or physiology.  What position is the patient in for the suprasternal window?",
+      "image": null,
+      "options": [
+        "Left lateral decubitus",
+        "Supine, neck extended",
+        "Supine, knees bent",
+        "Right lateral decubitus"
+      ],
+      "answer": 1,
+      "explanation": "Supine with the neck extended (often a pillow under the shoulders) exposes the suprasternal notch for imaging the aortic arch. *(Practice review slide 39.)*",
+      "explanationImage": null,
+      "tags": [
+        "Basic Echo Principles",
+        "Echocardiography Fundamentals"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch01-q200",
+      "stem": "A sonographer is reviewing the relevant anatomy, technique, or physiology.  What characteristic does the PEDOF probe have?",
+      "image": null,
+      "options": [
+        "Curvilinear",
+        "Most commonly used in adult echo",
+        "Small probe with a long arm",
+        "No image produced"
+      ],
+      "answer": 3,
+      "explanation": "The PEDOF (Pedoff) probe is a dedicated continuous-wave 'pencil' Doppler transducer — it produces only a spectral Doppler trace, with no 2D image. *(Practice review slide 41.)*",
+      "explanationImage": null,
+      "tags": [
+        "Basic Echo Principles",
+        "Echocardiography Fundamentals"
       ],
       "reference": ""
     }

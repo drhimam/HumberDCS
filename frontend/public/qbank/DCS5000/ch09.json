@@ -1,0 +1,4007 @@
+{
+  "subjectId": "DCS5000",
+  "chapterId": "ch09",
+  "title": "Normal Doppler Patterns",
+  "questions": [
+    {
+      "id": "DCS5000-ch09-q001",
+      "stem": "During a routine adult transthoracic examination, the sonographer reviews the following concept.  A sonographer obtains a pulsed wave Doppler trace of the LVOT from an apical 5-chamber view. Which description accurately reflects the normal spectral appearance of this waveform?",
+      "image": null,
+      "options": [
+        "Monophasic, antegrade flow positioned entirely below the baseline",
+        "Biphasic, retrograde flow positioned entirely above the baseline",
+        "Monophasic, early diastolic flow showing a high velocity peak",
+        "Triphasic, turbulent flow displaying complete spectral broadening"
+      ],
+      "answer": 0,
+      "explanation": "The course review identifies Monophasic, antegrade flow positioned entirely below the baseline as the correct response. *(Practice review slide 3.)*",
+      "explanationImage": null,
+      "tags": [
+        "Normal Doppler Patterns",
+        "Hemodynamics",
+        "Spectral Doppler"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch09-q002",
+      "stem": "During a routine adult transthoracic examination, the sonographer reviews the following concept.  While measuring the peak systolic velocity of the LVOT in a healthy adult, which velocity range should the sonographer expect to record?",
+      "image": null,
+      "options": [
+        "0.7–1.1 m/s",
+        "3.0–4.0 m/s",
+        "1.5–2.5 m/s",
+        "0.3–0.5 m/s"
+      ],
+      "answer": 0,
+      "explanation": "The course review identifies 0.7–1.1 m/s as the correct response. *(Practice review slide 5.)*",
+      "explanationImage": null,
+      "tags": [
+        "Normal Doppler Patterns",
+        "Hemodynamics",
+        "Spectral Doppler"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch09-q003",
+      "stem": "During a routine adult transthoracic examination, the sonographer reviews the following concept.  A sonographer evaluates a normal trans-mitral flow profile from the apical 4-chamber view. Which combination correctly identifies the timing and direction of the normal E and A waves?",
+      "image": null,
+      "options": [
+        "Diastolic flow directed toward the transducer, appearing above the baseline",
+        "Systolic flow directed toward the transducer, appearing above the baseline",
+        "Diastolic flow directed away from the transducer, appearing below the baseline",
+        "Systolic flow directed away from the transducer, appearing below the baseline"
+      ],
+      "answer": 0,
+      "explanation": "The course review identifies Diastolic flow directed toward the transducer, appearing above the baseline as the correct response. *(Practice review slide 7.)*",
+      "explanationImage": null,
+      "tags": [
+        "Normal Doppler Patterns",
+        "Hemodynamics",
+        "Spectral Doppler"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch09-q004",
+      "stem": "During a routine adult transthoracic examination, the sonographer reviews the following concept.  What is the normal physiological upper velocity limit expected for blood flow passing through a healthy adult mitral valve?",
+      "image": null,
+      "options": [
+        "3.5 m/s",
+        "2.0 m/s",
+        "1.3 m/s",
+        "0.4 m/s"
+      ],
+      "answer": 2,
+      "explanation": "The course review identifies 1.3 m/s as the correct response. *(Practice review slide 9.)*",
+      "explanationImage": null,
+      "tags": [
+        "Normal Doppler Patterns",
+        "Hemodynamics",
+        "Spectral Doppler"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch09-q005",
+      "stem": "During a routine adult transthoracic examination, the sonographer reviews the following concept.  A sonographer is optimizing the spectral Doppler profile of the normal aortic valve from an apical 5-chamber view. What is the expected physiological peak velocity range for a normal adult?",
+      "image": null,
+      "options": [
+        "0.5–0.8 m/s",
+        "4.0 m/s or higher",
+        "1.0–1.7 m/s",
+        "2.5–3.5 m/s"
+      ],
+      "answer": 2,
+      "explanation": "The course review identifies 1.0–1.7 m/s as the correct response. *(Practice review slide 11.)*",
+      "explanationImage": null,
+      "tags": [
+        "Normal Doppler Patterns",
+        "Hemodynamics",
+        "Spectral Doppler"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch09-q006",
+      "stem": "During a routine adult transthoracic examination, the sonographer reviews the following concept.  What is the standard normal velocity range for blood flowing through a healthy adult pulmonic valve during ventricular ejection?",
+      "image": null,
+      "options": [
+        "1.5–2.2 m/s",
+        "0.1–0.3 m/s",
+        "0.6–0.9 m/s",
+        "1.0–1.7 m/s"
+      ],
+      "answer": 2,
+      "explanation": "The course review identifies 0.6–0.9 m/s as the correct response. *(Practice review slide 13.)*",
+      "explanationImage": null,
+      "tags": [
+        "Normal Doppler Patterns",
+        "Hemodynamics",
+        "Spectral Doppler"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch09-q007",
+      "stem": "During a routine adult transthoracic examination, the sonographer reviews the following concept.  During an evaluation of normal pulmonary venous flow, what causes the brief, below-the-baseline velocity wave known as the 'Ar' wave?",
+      "image": null,
+      "options": [
+        "The closure of the aortic valve leaflets",
+        "The rapid drop in pressure inside the chest",
+        "Left atrial contraction forcing blood backward toward the pulmonary veins",
+        "Rapid ventricular suction pulling blood forward into the ventricle"
+      ],
+      "answer": 2,
+      "explanation": "The course review identifies Left atrial contraction forcing blood backward toward the pulmonary veins as the correct response. *(Practice review slide 15.)*",
+      "explanationImage": null,
+      "tags": [
+        "Normal Doppler Patterns",
+        "Hemodynamics",
+        "Spectral Doppler"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch09-q008",
+      "stem": "During a routine adult transthoracic examination, the sonographer reviews the following concept.  A sonographer records normal hepatic vein flow from a subcostal window. Which directional pattern is considered normal during ventricular systole?",
+      "image": null,
+      "options": [
+        "Continuous, non-fluctuating flow that remains locked at 1.5 m/s",
+        "Antegrade flow moving away from the transducer, appearing below the baseline as a large systolic 'S' wave",
+        "A brief, isolated spike occurring during the isovolumic contraction phase",
+        "Retrograde flow moving toward the transducer, appearing above the baseline as an 'S' wave"
+      ],
+      "answer": 1,
+      "explanation": "The course review identifies Antegrade flow moving away from the transducer, appearing below the baseline as a large systolic 'S' wave as the correct response. *(Practice review slide 17.)*",
+      "explanationImage": null,
+      "tags": [
+        "Normal Doppler Patterns",
+        "Hemodynamics",
+        "Spectral Doppler"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch09-q009",
+      "stem": "During a routine adult transthoracic examination, the sonographer reviews the following concept.  How does the duration of the normal pulmonary vein atrial reversal wave ('Ar') compare to the duration of the trans-mitral diastolic 'A' wave?",
+      "image": null,
+      "options": [
+        "The 'Ar' wave maintains a fixed duration, unrelated to the 'A' wave",
+        "The normal 'Ar' wave duration is shorter than or equal to the trans-mitral 'A' wave duration",
+        "The 'Ar' wave duration is completely independent of ventricular filling dynamics",
+        "The normal 'Ar' wave duration is twice as long as the trans-mitral 'A' wave duration"
+      ],
+      "answer": 1,
+      "explanation": "Normally the pulmonary-vein reversal (Ar) ends before or with the mitral A wave, so Ar duration ≤ A duration. An Ar that outlasts A signals elevated LV end-diastolic pressure. *(Practice review slide 19.)*",
+      "explanationImage": null,
+      "tags": [
+        "Normal Doppler Patterns",
+        "Hemodynamics",
+        "Spectral Doppler"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch09-q010",
+      "stem": "During a routine adult transthoracic examination, the sonographer reviews the following concept.  You hear a sharp, clean 'whip' sound at the very beginning and end of the systolic waveform on the spectral Doppler audio. What is the source of this sound?",
+      "image": null,
+      "options": [
+        "The physical movement of the valve leaflets opening and closing",
+        "An artifact caused by setting the system's wall filter too high",
+        "Normal laminar flow passing smoothly through the centre of the valve",
+        "High-velocity turbulent blood flow through a narrowed opening"
+      ],
+      "answer": 0,
+      "explanation": "The course review identifies The physical movement of the valve leaflets opening and closing as the correct response. *(Practice review slide 21.)*",
+      "explanationImage": null,
+      "tags": [
+        "Normal Doppler Patterns",
+        "Hemodynamics",
+        "Spectral Doppler"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch09-q011",
+      "stem": "During a routine adult transthoracic examination, the sonographer reviews the following concept.  A sonographer captures a normal aortic valve flow profile and notes a clear space underneath the dark outer curve of the systolic waveform. What does this clear window signify?",
+      "image": null,
+      "options": [
+        "Laminar flow, indicating the red blood cells are moving at a uniform velocity",
+        "An artifact caused by raising the spectral Doppler gain control",
+        "Signal loss from positioning the transducer perpendicular to the flow",
+        "Severe spectral broadening caused by turbulent flow pathways"
+      ],
+      "answer": 0,
+      "explanation": "The course review identifies Laminar flow, indicating the red blood cells are moving at a uniform velocity as the correct response. *(Practice review slide 23.)*",
+      "explanationImage": null,
+      "tags": [
+        "Normal Doppler Patterns",
+        "Hemodynamics",
+        "Spectral Doppler"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch09-q012",
+      "stem": "During a routine adult transthoracic examination, the sonographer reviews the following concept.  A sonographer is measuring the velocity time integral (VTI) of the LVOT. What information does the VTI value provide?",
+      "image": null,
+      "options": [
+        "The global stiffness index of the ventricular myocardium",
+        "The distance the blood pool travels through the tract during a single cardiac cycle",
+        "The exact time required for the valve leaflets to close completely",
+        "The peak instantaneous pressure drop across the valve plane"
+      ],
+      "answer": 1,
+      "explanation": "The course review identifies The distance the blood pool travels through the tract during a single cardiac cycle as the correct response. *(Practice review slide 25.)*",
+      "explanationImage": null,
+      "tags": [
+        "Normal Doppler Patterns",
+        "Hemodynamics",
+        "Spectral Doppler"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch09-q013",
+      "stem": "During a routine adult transthoracic examination, the sonographer reviews the following concept.  What is the expected normal velocity range for blood flowing through a healthy adult tricuspid valve during early diastolic filling?",
+      "image": null,
+      "options": [
+        "1.2–1.8 m/s",
+        "0.05–0.1 m/s",
+        "2.0–2.5 m/s",
+        "0.3–0.7 m/s"
+      ],
+      "answer": 3,
+      "explanation": "The course review identifies 0.3–0.7 m/s as the correct response. *(Practice review slide 27.)*",
+      "explanationImage": null,
+      "tags": [
+        "Normal Doppler Patterns",
+        "Hemodynamics",
+        "Spectral Doppler"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch09-q014",
+      "stem": "During a routine adult transthoracic examination, the sonographer reviews the following concept.  A sonographer checks the colour Doppler profile of a normal mitral valve from an apical 4-chamber view. During early diastole, which colour pattern should appear across the valve plane?",
+      "image": null,
+      "options": [
+        "A thick black band indicating total signal loss from a high wall filter",
+        "A dark blue flow profile directed back into the left atrium",
+        "A mosaic mixture of green and yellow pixels covering the entire chamber",
+        "A clean, bright red flow profile directed toward the apex"
+      ],
+      "answer": 3,
+      "explanation": "The course review identifies A clean, bright red flow profile directed toward the apex as the correct response. *(Practice review slide 29.)*",
+      "explanationImage": null,
+      "tags": [
+        "Normal Doppler Patterns",
+        "Hemodynamics",
+        "Spectral Doppler"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch09-q015",
+      "stem": "During a routine adult transthoracic examination, the sonographer reviews the following concept.  Which phase of the cardiac cycle describes the brief period when all four heart valves are closed, occurring immediately after the aortic valve closes and before the mitral valve opens?",
+      "image": null,
+      "options": [
+        "Isovolumic Relaxation Time (IVRT)",
+        "Late Diastasis interval",
+        "Rapid diastolic Ejection Phase",
+        "Isovolumic Contraction Time (IVCT)"
+      ],
+      "answer": 0,
+      "explanation": "The course review identifies Isovolumic Relaxation Time (IVRT) as the correct response. *(Practice review slide 31.)*",
+      "explanationImage": null,
+      "tags": [
+        "Normal Doppler Patterns",
+        "Hemodynamics",
+        "Spectral Doppler"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch09-q016",
+      "stem": "During a routine adult transthoracic examination, the sonographer reviews the following concept.  A sonographer measures the hepatic vein reversal ('A') wave and notes it is within the normal range. What is the standard upper limit for a normal adult 'A' wave velocity in the hepatic veins?",
+      "image": null,
+      "options": [
+        "0.8 m/s",
+        "1.5 m/s",
+        "0.3 m/s",
+        "2.0 m/s"
+      ],
+      "answer": 2,
+      "explanation": "The course review identifies 0.3 m/s as the correct response. *(Practice review slide 33.)*",
+      "explanationImage": null,
+      "tags": [
+        "Normal Doppler Patterns",
+        "Hemodynamics",
+        "Spectral Doppler"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch09-q017",
+      "stem": "During a routine adult transthoracic examination, the sonographer reviews the following concept.  When checking beam alignment for an aortic valve flow profile from an apical 5-chamber window, what is the maximum acceptable intercept angle to avoid significant velocity underestimation?",
+      "image": null,
+      "options": [
+        "Between 45 and 55 degrees to minimize baseline artifact",
+        "Exactly 60 degrees, using automated angle-correction software",
+        "Precisely 90 degrees, maximizing lateral resolution",
+        "Less than 20 degrees, keeping the angle's cosine close to 1.0"
+      ],
+      "answer": 3,
+      "explanation": "Keep the beam within ~20° of parallel so cosθ stays ≥ 0.94, holding velocity underestimation under ~6%. *(Practice review slide 35.)*",
+      "explanationImage": null,
+      "tags": [
+        "Normal Doppler Patterns",
+        "Hemodynamics",
+        "Spectral Doppler"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch09-q018",
+      "stem": "During a routine adult transthoracic examination, the sonographer reviews the following concept.  A sonographer records a normal antegrade trans-aortic velocity profile from an apex-down apical 5-chamber view. Where should this waveform appear on the spectral display?",
+      "image": null,
+      "options": [
+        "Symmetrically duplicated on both sides of the baseline simultaneously",
+        "Shifted to the far-right edge of the display grid independent of the baseline",
+        "Entirely above the zero baseline as a positive frequency shift",
+        "Entirely below the zero baseline as a negative frequency shift"
+      ],
+      "answer": 3,
+      "explanation": "The course review identifies Entirely below the zero baseline as a negative frequency shift as the correct response. *(Practice review slide 37.)*",
+      "explanationImage": null,
+      "tags": [
+        "Normal Doppler Patterns",
+        "Hemodynamics",
+        "Spectral Doppler"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch09-q019",
+      "stem": "A trainee is preparing for a practical echocardiography assessment.  A sonographer obtains a pulsed wave Doppler trace of the LVOT from an apical 5-chamber view. Which description accurately reflects the normal spectral appearance of this waveform?",
+      "image": null,
+      "options": [
+        "Monophasic, early diastolic flow showing a high velocity peak",
+        "Monophasic, antegrade flow positioned entirely below the baseline",
+        "Biphasic, retrograde flow positioned entirely above the baseline",
+        "Triphasic, turbulent flow displaying complete spectral broadening"
+      ],
+      "answer": 1,
+      "explanation": "The course review identifies Monophasic, antegrade flow positioned entirely below the baseline as the correct response. *(Practice review slide 3.)*",
+      "explanationImage": null,
+      "tags": [
+        "Normal Doppler Patterns",
+        "Hemodynamics",
+        "Spectral Doppler"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch09-q020",
+      "stem": "A trainee is preparing for a practical echocardiography assessment.  While measuring the peak systolic velocity of the LVOT in a healthy adult, which velocity range should the sonographer expect to record?",
+      "image": null,
+      "options": [
+        "0.7–1.1 m/s",
+        "3.0–4.0 m/s",
+        "1.5–2.5 m/s",
+        "0.3–0.5 m/s"
+      ],
+      "answer": 0,
+      "explanation": "The course review identifies 0.7–1.1 m/s as the correct response. *(Practice review slide 5.)*",
+      "explanationImage": null,
+      "tags": [
+        "Normal Doppler Patterns",
+        "Hemodynamics",
+        "Spectral Doppler"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch09-q021",
+      "stem": "A trainee is preparing for a practical echocardiography assessment.  A sonographer evaluates a normal trans-mitral flow profile from the apical 4-chamber view. Which combination correctly identifies the timing and direction of the normal E and A waves?",
+      "image": null,
+      "options": [
+        "Systolic flow directed away from the transducer, appearing below the baseline",
+        "Diastolic flow directed away from the transducer, appearing below the baseline",
+        "Systolic flow directed toward the transducer, appearing above the baseline",
+        "Diastolic flow directed toward the transducer, appearing above the baseline"
+      ],
+      "answer": 3,
+      "explanation": "The course review identifies Diastolic flow directed toward the transducer, appearing above the baseline as the correct response. *(Practice review slide 7.)*",
+      "explanationImage": null,
+      "tags": [
+        "Normal Doppler Patterns",
+        "Hemodynamics",
+        "Spectral Doppler"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch09-q022",
+      "stem": "A trainee is preparing for a practical echocardiography assessment.  What is the normal physiological upper velocity limit expected for blood flow passing through a healthy adult mitral valve?",
+      "image": null,
+      "options": [
+        "2.0 m/s",
+        "3.5 m/s",
+        "1.3 m/s",
+        "0.4 m/s"
+      ],
+      "answer": 2,
+      "explanation": "The course review identifies 1.3 m/s as the correct response. *(Practice review slide 9.)*",
+      "explanationImage": null,
+      "tags": [
+        "Normal Doppler Patterns",
+        "Hemodynamics",
+        "Spectral Doppler"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch09-q023",
+      "stem": "A trainee is preparing for a practical echocardiography assessment.  A sonographer is optimizing the spectral Doppler profile of the normal aortic valve from an apical 5-chamber view. What is the expected physiological peak velocity range for a normal adult?",
+      "image": null,
+      "options": [
+        "0.5–0.8 m/s",
+        "2.5–3.5 m/s",
+        "1.0–1.7 m/s",
+        "4.0 m/s or higher"
+      ],
+      "answer": 2,
+      "explanation": "The course review identifies 1.0–1.7 m/s as the correct response. *(Practice review slide 11.)*",
+      "explanationImage": null,
+      "tags": [
+        "Normal Doppler Patterns",
+        "Hemodynamics",
+        "Spectral Doppler"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch09-q024",
+      "stem": "A trainee is preparing for a practical echocardiography assessment.  What is the standard normal velocity range for blood flowing through a healthy adult pulmonic valve during ventricular ejection?",
+      "image": null,
+      "options": [
+        "0.6–0.9 m/s",
+        "1.5–2.2 m/s",
+        "1.0–1.7 m/s",
+        "0.1–0.3 m/s"
+      ],
+      "answer": 0,
+      "explanation": "The course review identifies 0.6–0.9 m/s as the correct response. *(Practice review slide 13.)*",
+      "explanationImage": null,
+      "tags": [
+        "Normal Doppler Patterns",
+        "Hemodynamics",
+        "Spectral Doppler"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch09-q025",
+      "stem": "A trainee is preparing for a practical echocardiography assessment.  During an evaluation of normal pulmonary venous flow, what causes the brief, below-the-baseline velocity wave known as the 'Ar' wave?",
+      "image": null,
+      "options": [
+        "The closure of the aortic valve leaflets",
+        "Left atrial contraction forcing blood backward toward the pulmonary veins",
+        "Rapid ventricular suction pulling blood forward into the ventricle",
+        "The rapid drop in pressure inside the chest"
+      ],
+      "answer": 1,
+      "explanation": "The course review identifies Left atrial contraction forcing blood backward toward the pulmonary veins as the correct response. *(Practice review slide 15.)*",
+      "explanationImage": null,
+      "tags": [
+        "Normal Doppler Patterns",
+        "Hemodynamics",
+        "Spectral Doppler"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch09-q026",
+      "stem": "A trainee is preparing for a practical echocardiography assessment.  A sonographer records normal hepatic vein flow from a subcostal window. Which directional pattern is considered normal during ventricular systole?",
+      "image": null,
+      "options": [
+        "Continuous, non-fluctuating flow that remains locked at 1.5 m/s",
+        "Retrograde flow moving toward the transducer, appearing above the baseline as an 'S' wave",
+        "A brief, isolated spike occurring during the isovolumic contraction phase",
+        "Antegrade flow moving away from the transducer, appearing below the baseline as a large systolic 'S' wave"
+      ],
+      "answer": 3,
+      "explanation": "The course review identifies Antegrade flow moving away from the transducer, appearing below the baseline as a large systolic 'S' wave as the correct response. *(Practice review slide 17.)*",
+      "explanationImage": null,
+      "tags": [
+        "Normal Doppler Patterns",
+        "Hemodynamics",
+        "Spectral Doppler"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch09-q027",
+      "stem": "A trainee is preparing for a practical echocardiography assessment.  How does the duration of the normal pulmonary vein atrial reversal wave ('Ar') compare to the duration of the trans-mitral diastolic 'A' wave?",
+      "image": null,
+      "options": [
+        "The normal 'Ar' wave duration is twice as long as the trans-mitral 'A' wave duration",
+        "The normal 'Ar' wave duration is shorter than or equal to the trans-mitral 'A' wave duration",
+        "The 'Ar' wave maintains a fixed duration, unrelated to the 'A' wave",
+        "The 'Ar' wave duration is completely independent of ventricular filling dynamics"
+      ],
+      "answer": 1,
+      "explanation": "Normally the pulmonary-vein reversal (Ar) ends before or with the mitral A wave, so Ar duration ≤ A duration. An Ar that outlasts A signals elevated LV end-diastolic pressure. *(Practice review slide 19.)*",
+      "explanationImage": null,
+      "tags": [
+        "Normal Doppler Patterns",
+        "Hemodynamics",
+        "Spectral Doppler"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch09-q028",
+      "stem": "A trainee is preparing for a practical echocardiography assessment.  You hear a sharp, clean 'whip' sound at the very beginning and end of the systolic waveform on the spectral Doppler audio. What is the source of this sound?",
+      "image": null,
+      "options": [
+        "The physical movement of the valve leaflets opening and closing",
+        "High-velocity turbulent blood flow through a narrowed opening",
+        "An artifact caused by setting the system's wall filter too high",
+        "Normal laminar flow passing smoothly through the centre of the valve"
+      ],
+      "answer": 0,
+      "explanation": "The course review identifies The physical movement of the valve leaflets opening and closing as the correct response. *(Practice review slide 21.)*",
+      "explanationImage": null,
+      "tags": [
+        "Normal Doppler Patterns",
+        "Hemodynamics",
+        "Spectral Doppler"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch09-q029",
+      "stem": "A trainee is preparing for a practical echocardiography assessment.  A sonographer captures a normal aortic valve flow profile and notes a clear space underneath the dark outer curve of the systolic waveform. What does this clear window signify?",
+      "image": null,
+      "options": [
+        "Laminar flow, indicating the red blood cells are moving at a uniform velocity",
+        "Signal loss from positioning the transducer perpendicular to the flow",
+        "An artifact caused by raising the spectral Doppler gain control",
+        "Severe spectral broadening caused by turbulent flow pathways"
+      ],
+      "answer": 0,
+      "explanation": "The course review identifies Laminar flow, indicating the red blood cells are moving at a uniform velocity as the correct response. *(Practice review slide 23.)*",
+      "explanationImage": null,
+      "tags": [
+        "Normal Doppler Patterns",
+        "Hemodynamics",
+        "Spectral Doppler"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch09-q030",
+      "stem": "A trainee is preparing for a practical echocardiography assessment.  A sonographer is measuring the velocity time integral (VTI) of the LVOT. What information does the VTI value provide?",
+      "image": null,
+      "options": [
+        "The exact time required for the valve leaflets to close completely",
+        "The distance the blood pool travels through the tract during a single cardiac cycle",
+        "The peak instantaneous pressure drop across the valve plane",
+        "The global stiffness index of the ventricular myocardium"
+      ],
+      "answer": 1,
+      "explanation": "The course review identifies The distance the blood pool travels through the tract during a single cardiac cycle as the correct response. *(Practice review slide 25.)*",
+      "explanationImage": null,
+      "tags": [
+        "Normal Doppler Patterns",
+        "Hemodynamics",
+        "Spectral Doppler"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch09-q031",
+      "stem": "A trainee is preparing for a practical echocardiography assessment.  What is the expected normal velocity range for blood flowing through a healthy adult tricuspid valve during early diastolic filling?",
+      "image": null,
+      "options": [
+        "2.0–2.5 m/s",
+        "1.2–1.8 m/s",
+        "0.05–0.1 m/s",
+        "0.3–0.7 m/s"
+      ],
+      "answer": 3,
+      "explanation": "The course review identifies 0.3–0.7 m/s as the correct response. *(Practice review slide 27.)*",
+      "explanationImage": null,
+      "tags": [
+        "Normal Doppler Patterns",
+        "Hemodynamics",
+        "Spectral Doppler"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch09-q032",
+      "stem": "A trainee is preparing for a practical echocardiography assessment.  A sonographer checks the colour Doppler profile of a normal mitral valve from an apical 4-chamber view. During early diastole, which colour pattern should appear across the valve plane?",
+      "image": null,
+      "options": [
+        "A dark blue flow profile directed back into the left atrium",
+        "A thick black band indicating total signal loss from a high wall filter",
+        "A mosaic mixture of green and yellow pixels covering the entire chamber",
+        "A clean, bright red flow profile directed toward the apex"
+      ],
+      "answer": 3,
+      "explanation": "The course review identifies A clean, bright red flow profile directed toward the apex as the correct response. *(Practice review slide 29.)*",
+      "explanationImage": null,
+      "tags": [
+        "Normal Doppler Patterns",
+        "Hemodynamics",
+        "Spectral Doppler"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch09-q033",
+      "stem": "A trainee is preparing for a practical echocardiography assessment.  Which phase of the cardiac cycle describes the brief period when all four heart valves are closed, occurring immediately after the aortic valve closes and before the mitral valve opens?",
+      "image": null,
+      "options": [
+        "Late Diastasis interval",
+        "Rapid diastolic Ejection Phase",
+        "Isovolumic Relaxation Time (IVRT)",
+        "Isovolumic Contraction Time (IVCT)"
+      ],
+      "answer": 2,
+      "explanation": "The course review identifies Isovolumic Relaxation Time (IVRT) as the correct response. *(Practice review slide 31.)*",
+      "explanationImage": null,
+      "tags": [
+        "Normal Doppler Patterns",
+        "Hemodynamics",
+        "Spectral Doppler"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch09-q034",
+      "stem": "A trainee is preparing for a practical echocardiography assessment.  A sonographer measures the hepatic vein reversal ('A') wave and notes it is within the normal range. What is the standard upper limit for a normal adult 'A' wave velocity in the hepatic veins?",
+      "image": null,
+      "options": [
+        "0.3 m/s",
+        "1.5 m/s",
+        "0.8 m/s",
+        "2.0 m/s"
+      ],
+      "answer": 0,
+      "explanation": "The course review identifies 0.3 m/s as the correct response. *(Practice review slide 33.)*",
+      "explanationImage": null,
+      "tags": [
+        "Normal Doppler Patterns",
+        "Hemodynamics",
+        "Spectral Doppler"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch09-q035",
+      "stem": "A trainee is preparing for a practical echocardiography assessment.  When checking beam alignment for an aortic valve flow profile from an apical 5-chamber window, what is the maximum acceptable intercept angle to avoid significant velocity underestimation?",
+      "image": null,
+      "options": [
+        "Less than 20 degrees, keeping the angle's cosine close to 1.0",
+        "Exactly 60 degrees, using automated angle-correction software",
+        "Precisely 90 degrees, maximizing lateral resolution",
+        "Between 45 and 55 degrees to minimize baseline artifact"
+      ],
+      "answer": 0,
+      "explanation": "Keep the beam within ~20° of parallel so cosθ stays ≥ 0.94, holding velocity underestimation under ~6%. *(Practice review slide 35.)*",
+      "explanationImage": null,
+      "tags": [
+        "Normal Doppler Patterns",
+        "Hemodynamics",
+        "Spectral Doppler"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch09-q036",
+      "stem": "A trainee is preparing for a practical echocardiography assessment.  A sonographer records a normal antegrade trans-aortic velocity profile from an apex-down apical 5-chamber view. Where should this waveform appear on the spectral display?",
+      "image": null,
+      "options": [
+        "Symmetrically duplicated on both sides of the baseline simultaneously",
+        "Entirely below the zero baseline as a negative frequency shift",
+        "Shifted to the far-right edge of the display grid independent of the baseline",
+        "Entirely above the zero baseline as a positive frequency shift"
+      ],
+      "answer": 1,
+      "explanation": "The course review identifies Entirely below the zero baseline as a negative frequency shift as the correct response. *(Practice review slide 37.)*",
+      "explanationImage": null,
+      "tags": [
+        "Normal Doppler Patterns",
+        "Hemodynamics",
+        "Spectral Doppler"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch09-q037",
+      "stem": "While reviewing a standard adult echocardiography protocol, consider this question:  A sonographer obtains a pulsed wave Doppler trace of the LVOT from an apical 5-chamber view. Which description accurately reflects the normal spectral appearance of this waveform?",
+      "image": null,
+      "options": [
+        "Biphasic, retrograde flow positioned entirely above the baseline",
+        "Triphasic, turbulent flow displaying complete spectral broadening",
+        "Monophasic, early diastolic flow showing a high velocity peak",
+        "Monophasic, antegrade flow positioned entirely below the baseline"
+      ],
+      "answer": 3,
+      "explanation": "The course review identifies Monophasic, antegrade flow positioned entirely below the baseline as the correct response. *(Practice review slide 3.)*",
+      "explanationImage": null,
+      "tags": [
+        "Normal Doppler Patterns",
+        "Hemodynamics",
+        "Spectral Doppler"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch09-q038",
+      "stem": "While reviewing a standard adult echocardiography protocol, consider this question:  While measuring the peak systolic velocity of the LVOT in a healthy adult, which velocity range should the sonographer expect to record?",
+      "image": null,
+      "options": [
+        "0.7–1.1 m/s",
+        "1.5–2.5 m/s",
+        "3.0–4.0 m/s",
+        "0.3–0.5 m/s"
+      ],
+      "answer": 0,
+      "explanation": "The course review identifies 0.7–1.1 m/s as the correct response. *(Practice review slide 5.)*",
+      "explanationImage": null,
+      "tags": [
+        "Normal Doppler Patterns",
+        "Hemodynamics",
+        "Spectral Doppler"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch09-q039",
+      "stem": "While reviewing a standard adult echocardiography protocol, consider this question:  A sonographer evaluates a normal trans-mitral flow profile from the apical 4-chamber view. Which combination correctly identifies the timing and direction of the normal E and A waves?",
+      "image": null,
+      "options": [
+        "Systolic flow directed toward the transducer, appearing above the baseline",
+        "Systolic flow directed away from the transducer, appearing below the baseline",
+        "Diastolic flow directed away from the transducer, appearing below the baseline",
+        "Diastolic flow directed toward the transducer, appearing above the baseline"
+      ],
+      "answer": 3,
+      "explanation": "The course review identifies Diastolic flow directed toward the transducer, appearing above the baseline as the correct response. *(Practice review slide 7.)*",
+      "explanationImage": null,
+      "tags": [
+        "Normal Doppler Patterns",
+        "Hemodynamics",
+        "Spectral Doppler"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch09-q040",
+      "stem": "While reviewing a standard adult echocardiography protocol, consider this question:  What is the normal physiological upper velocity limit expected for blood flow passing through a healthy adult mitral valve?",
+      "image": null,
+      "options": [
+        "2.0 m/s",
+        "3.5 m/s",
+        "1.3 m/s",
+        "0.4 m/s"
+      ],
+      "answer": 2,
+      "explanation": "The course review identifies 1.3 m/s as the correct response. *(Practice review slide 9.)*",
+      "explanationImage": null,
+      "tags": [
+        "Normal Doppler Patterns",
+        "Hemodynamics",
+        "Spectral Doppler"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch09-q041",
+      "stem": "While reviewing a standard adult echocardiography protocol, consider this question:  A sonographer is optimizing the spectral Doppler profile of the normal aortic valve from an apical 5-chamber view. What is the expected physiological peak velocity range for a normal adult?",
+      "image": null,
+      "options": [
+        "4.0 m/s or higher",
+        "2.5–3.5 m/s",
+        "0.5–0.8 m/s",
+        "1.0–1.7 m/s"
+      ],
+      "answer": 3,
+      "explanation": "The course review identifies 1.0–1.7 m/s as the correct response. *(Practice review slide 11.)*",
+      "explanationImage": null,
+      "tags": [
+        "Normal Doppler Patterns",
+        "Hemodynamics",
+        "Spectral Doppler"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch09-q042",
+      "stem": "While reviewing a standard adult echocardiography protocol, consider this question:  What is the standard normal velocity range for blood flowing through a healthy adult pulmonic valve during ventricular ejection?",
+      "image": null,
+      "options": [
+        "1.5–2.2 m/s",
+        "0.6–0.9 m/s",
+        "1.0–1.7 m/s",
+        "0.1–0.3 m/s"
+      ],
+      "answer": 1,
+      "explanation": "The course review identifies 0.6–0.9 m/s as the correct response. *(Practice review slide 13.)*",
+      "explanationImage": null,
+      "tags": [
+        "Normal Doppler Patterns",
+        "Hemodynamics",
+        "Spectral Doppler"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch09-q043",
+      "stem": "While reviewing a standard adult echocardiography protocol, consider this question:  During an evaluation of normal pulmonary venous flow, what causes the brief, below-the-baseline velocity wave known as the 'Ar' wave?",
+      "image": null,
+      "options": [
+        "Rapid ventricular suction pulling blood forward into the ventricle",
+        "The rapid drop in pressure inside the chest",
+        "Left atrial contraction forcing blood backward toward the pulmonary veins",
+        "The closure of the aortic valve leaflets"
+      ],
+      "answer": 2,
+      "explanation": "The course review identifies Left atrial contraction forcing blood backward toward the pulmonary veins as the correct response. *(Practice review slide 15.)*",
+      "explanationImage": null,
+      "tags": [
+        "Normal Doppler Patterns",
+        "Hemodynamics",
+        "Spectral Doppler"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch09-q044",
+      "stem": "While reviewing a standard adult echocardiography protocol, consider this question:  A sonographer records normal hepatic vein flow from a subcostal window. Which directional pattern is considered normal during ventricular systole?",
+      "image": null,
+      "options": [
+        "A brief, isolated spike occurring during the isovolumic contraction phase",
+        "Antegrade flow moving away from the transducer, appearing below the baseline as a large systolic 'S' wave",
+        "Retrograde flow moving toward the transducer, appearing above the baseline as an 'S' wave",
+        "Continuous, non-fluctuating flow that remains locked at 1.5 m/s"
+      ],
+      "answer": 1,
+      "explanation": "The course review identifies Antegrade flow moving away from the transducer, appearing below the baseline as a large systolic 'S' wave as the correct response. *(Practice review slide 17.)*",
+      "explanationImage": null,
+      "tags": [
+        "Normal Doppler Patterns",
+        "Hemodynamics",
+        "Spectral Doppler"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch09-q045",
+      "stem": "While reviewing a standard adult echocardiography protocol, consider this question:  How does the duration of the normal pulmonary vein atrial reversal wave ('Ar') compare to the duration of the trans-mitral diastolic 'A' wave?",
+      "image": null,
+      "options": [
+        "The 'Ar' wave maintains a fixed duration, unrelated to the 'A' wave",
+        "The 'Ar' wave duration is completely independent of ventricular filling dynamics",
+        "The normal 'Ar' wave duration is shorter than or equal to the trans-mitral 'A' wave duration",
+        "The normal 'Ar' wave duration is twice as long as the trans-mitral 'A' wave duration"
+      ],
+      "answer": 2,
+      "explanation": "Normally the pulmonary-vein reversal (Ar) ends before or with the mitral A wave, so Ar duration ≤ A duration. An Ar that outlasts A signals elevated LV end-diastolic pressure. *(Practice review slide 19.)*",
+      "explanationImage": null,
+      "tags": [
+        "Normal Doppler Patterns",
+        "Hemodynamics",
+        "Spectral Doppler"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch09-q046",
+      "stem": "While reviewing a standard adult echocardiography protocol, consider this question:  You hear a sharp, clean 'whip' sound at the very beginning and end of the systolic waveform on the spectral Doppler audio. What is the source of this sound?",
+      "image": null,
+      "options": [
+        "High-velocity turbulent blood flow through a narrowed opening",
+        "An artifact caused by setting the system's wall filter too high",
+        "The physical movement of the valve leaflets opening and closing",
+        "Normal laminar flow passing smoothly through the centre of the valve"
+      ],
+      "answer": 2,
+      "explanation": "The course review identifies The physical movement of the valve leaflets opening and closing as the correct response. *(Practice review slide 21.)*",
+      "explanationImage": null,
+      "tags": [
+        "Normal Doppler Patterns",
+        "Hemodynamics",
+        "Spectral Doppler"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch09-q047",
+      "stem": "While reviewing a standard adult echocardiography protocol, consider this question:  A sonographer captures a normal aortic valve flow profile and notes a clear space underneath the dark outer curve of the systolic waveform. What does this clear window signify?",
+      "image": null,
+      "options": [
+        "An artifact caused by raising the spectral Doppler gain control",
+        "Signal loss from positioning the transducer perpendicular to the flow",
+        "Laminar flow, indicating the red blood cells are moving at a uniform velocity",
+        "Severe spectral broadening caused by turbulent flow pathways"
+      ],
+      "answer": 2,
+      "explanation": "The course review identifies Laminar flow, indicating the red blood cells are moving at a uniform velocity as the correct response. *(Practice review slide 23.)*",
+      "explanationImage": null,
+      "tags": [
+        "Normal Doppler Patterns",
+        "Hemodynamics",
+        "Spectral Doppler"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch09-q048",
+      "stem": "While reviewing a standard adult echocardiography protocol, consider this question:  A sonographer is measuring the velocity time integral (VTI) of the LVOT. What information does the VTI value provide?",
+      "image": null,
+      "options": [
+        "The exact time required for the valve leaflets to close completely",
+        "The peak instantaneous pressure drop across the valve plane",
+        "The distance the blood pool travels through the tract during a single cardiac cycle",
+        "The global stiffness index of the ventricular myocardium"
+      ],
+      "answer": 2,
+      "explanation": "The course review identifies The distance the blood pool travels through the tract during a single cardiac cycle as the correct response. *(Practice review slide 25.)*",
+      "explanationImage": null,
+      "tags": [
+        "Normal Doppler Patterns",
+        "Hemodynamics",
+        "Spectral Doppler"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch09-q049",
+      "stem": "While reviewing a standard adult echocardiography protocol, consider this question:  What is the expected normal velocity range for blood flowing through a healthy adult tricuspid valve during early diastolic filling?",
+      "image": null,
+      "options": [
+        "0.05–0.1 m/s",
+        "1.2–1.8 m/s",
+        "2.0–2.5 m/s",
+        "0.3–0.7 m/s"
+      ],
+      "answer": 3,
+      "explanation": "The course review identifies 0.3–0.7 m/s as the correct response. *(Practice review slide 27.)*",
+      "explanationImage": null,
+      "tags": [
+        "Normal Doppler Patterns",
+        "Hemodynamics",
+        "Spectral Doppler"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch09-q050",
+      "stem": "While reviewing a standard adult echocardiography protocol, consider this question:  A sonographer checks the colour Doppler profile of a normal mitral valve from an apical 4-chamber view. During early diastole, which colour pattern should appear across the valve plane?",
+      "image": null,
+      "options": [
+        "A dark blue flow profile directed back into the left atrium",
+        "A mosaic mixture of green and yellow pixels covering the entire chamber",
+        "A clean, bright red flow profile directed toward the apex",
+        "A thick black band indicating total signal loss from a high wall filter"
+      ],
+      "answer": 2,
+      "explanation": "The course review identifies A clean, bright red flow profile directed toward the apex as the correct response. *(Practice review slide 29.)*",
+      "explanationImage": null,
+      "tags": [
+        "Normal Doppler Patterns",
+        "Hemodynamics",
+        "Spectral Doppler"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch09-q051",
+      "stem": "While reviewing a standard adult echocardiography protocol, consider this question:  Which phase of the cardiac cycle describes the brief period when all four heart valves are closed, occurring immediately after the aortic valve closes and before the mitral valve opens?",
+      "image": null,
+      "options": [
+        "Rapid diastolic Ejection Phase",
+        "Late Diastasis interval",
+        "Isovolumic Relaxation Time (IVRT)",
+        "Isovolumic Contraction Time (IVCT)"
+      ],
+      "answer": 2,
+      "explanation": "The course review identifies Isovolumic Relaxation Time (IVRT) as the correct response. *(Practice review slide 31.)*",
+      "explanationImage": null,
+      "tags": [
+        "Normal Doppler Patterns",
+        "Hemodynamics",
+        "Spectral Doppler"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch09-q052",
+      "stem": "While reviewing a standard adult echocardiography protocol, consider this question:  A sonographer measures the hepatic vein reversal ('A') wave and notes it is within the normal range. What is the standard upper limit for a normal adult 'A' wave velocity in the hepatic veins?",
+      "image": null,
+      "options": [
+        "2.0 m/s",
+        "0.3 m/s",
+        "0.8 m/s",
+        "1.5 m/s"
+      ],
+      "answer": 1,
+      "explanation": "The course review identifies 0.3 m/s as the correct response. *(Practice review slide 33.)*",
+      "explanationImage": null,
+      "tags": [
+        "Normal Doppler Patterns",
+        "Hemodynamics",
+        "Spectral Doppler"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch09-q053",
+      "stem": "While reviewing a standard adult echocardiography protocol, consider this question:  When checking beam alignment for an aortic valve flow profile from an apical 5-chamber window, what is the maximum acceptable intercept angle to avoid significant velocity underestimation?",
+      "image": null,
+      "options": [
+        "Precisely 90 degrees, maximizing lateral resolution",
+        "Exactly 60 degrees, using automated angle-correction software",
+        "Between 45 and 55 degrees to minimize baseline artifact",
+        "Less than 20 degrees, keeping the angle's cosine close to 1.0"
+      ],
+      "answer": 3,
+      "explanation": "Keep the beam within ~20° of parallel so cosθ stays ≥ 0.94, holding velocity underestimation under ~6%. *(Practice review slide 35.)*",
+      "explanationImage": null,
+      "tags": [
+        "Normal Doppler Patterns",
+        "Hemodynamics",
+        "Spectral Doppler"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch09-q054",
+      "stem": "While reviewing a standard adult echocardiography protocol, consider this question:  A sonographer records a normal antegrade trans-aortic velocity profile from an apex-down apical 5-chamber view. Where should this waveform appear on the spectral display?",
+      "image": null,
+      "options": [
+        "Shifted to the far-right edge of the display grid independent of the baseline",
+        "Symmetrically duplicated on both sides of the baseline simultaneously",
+        "Entirely above the zero baseline as a positive frequency shift",
+        "Entirely below the zero baseline as a negative frequency shift"
+      ],
+      "answer": 3,
+      "explanation": "The course review identifies Entirely below the zero baseline as a negative frequency shift as the correct response. *(Practice review slide 37.)*",
+      "explanationImage": null,
+      "tags": [
+        "Normal Doppler Patterns",
+        "Hemodynamics",
+        "Spectral Doppler"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch09-q055",
+      "stem": "A sonographer is asked to select the most accurate response.  A sonographer obtains a pulsed wave Doppler trace of the LVOT from an apical 5-chamber view. Which description accurately reflects the normal spectral appearance of this waveform?",
+      "image": null,
+      "options": [
+        "Biphasic, retrograde flow positioned entirely above the baseline",
+        "Triphasic, turbulent flow displaying complete spectral broadening",
+        "Monophasic, antegrade flow positioned entirely below the baseline",
+        "Monophasic, early diastolic flow showing a high velocity peak"
+      ],
+      "answer": 2,
+      "explanation": "The course review identifies Monophasic, antegrade flow positioned entirely below the baseline as the correct response. *(Practice review slide 3.)*",
+      "explanationImage": null,
+      "tags": [
+        "Normal Doppler Patterns",
+        "Hemodynamics",
+        "Spectral Doppler"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch09-q056",
+      "stem": "A sonographer is asked to select the most accurate response.  While measuring the peak systolic velocity of the LVOT in a healthy adult, which velocity range should the sonographer expect to record?",
+      "image": null,
+      "options": [
+        "0.7–1.1 m/s",
+        "0.3–0.5 m/s",
+        "1.5–2.5 m/s",
+        "3.0–4.0 m/s"
+      ],
+      "answer": 0,
+      "explanation": "The course review identifies 0.7–1.1 m/s as the correct response. *(Practice review slide 5.)*",
+      "explanationImage": null,
+      "tags": [
+        "Normal Doppler Patterns",
+        "Hemodynamics",
+        "Spectral Doppler"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch09-q057",
+      "stem": "A sonographer is asked to select the most accurate response.  A sonographer evaluates a normal trans-mitral flow profile from the apical 4-chamber view. Which combination correctly identifies the timing and direction of the normal E and A waves?",
+      "image": null,
+      "options": [
+        "Systolic flow directed away from the transducer, appearing below the baseline",
+        "Systolic flow directed toward the transducer, appearing above the baseline",
+        "Diastolic flow directed away from the transducer, appearing below the baseline",
+        "Diastolic flow directed toward the transducer, appearing above the baseline"
+      ],
+      "answer": 3,
+      "explanation": "The course review identifies Diastolic flow directed toward the transducer, appearing above the baseline as the correct response. *(Practice review slide 7.)*",
+      "explanationImage": null,
+      "tags": [
+        "Normal Doppler Patterns",
+        "Hemodynamics",
+        "Spectral Doppler"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch09-q058",
+      "stem": "A sonographer is asked to select the most accurate response.  What is the normal physiological upper velocity limit expected for blood flow passing through a healthy adult mitral valve?",
+      "image": null,
+      "options": [
+        "0.4 m/s",
+        "1.3 m/s",
+        "3.5 m/s",
+        "2.0 m/s"
+      ],
+      "answer": 1,
+      "explanation": "The course review identifies 1.3 m/s as the correct response. *(Practice review slide 9.)*",
+      "explanationImage": null,
+      "tags": [
+        "Normal Doppler Patterns",
+        "Hemodynamics",
+        "Spectral Doppler"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch09-q059",
+      "stem": "A sonographer is asked to select the most accurate response.  A sonographer is optimizing the spectral Doppler profile of the normal aortic valve from an apical 5-chamber view. What is the expected physiological peak velocity range for a normal adult?",
+      "image": null,
+      "options": [
+        "4.0 m/s or higher",
+        "2.5–3.5 m/s",
+        "1.0–1.7 m/s",
+        "0.5–0.8 m/s"
+      ],
+      "answer": 2,
+      "explanation": "The course review identifies 1.0–1.7 m/s as the correct response. *(Practice review slide 11.)*",
+      "explanationImage": null,
+      "tags": [
+        "Normal Doppler Patterns",
+        "Hemodynamics",
+        "Spectral Doppler"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch09-q060",
+      "stem": "A sonographer is asked to select the most accurate response.  What is the standard normal velocity range for blood flowing through a healthy adult pulmonic valve during ventricular ejection?",
+      "image": null,
+      "options": [
+        "0.1–0.3 m/s",
+        "1.5–2.2 m/s",
+        "1.0–1.7 m/s",
+        "0.6–0.9 m/s"
+      ],
+      "answer": 3,
+      "explanation": "The course review identifies 0.6–0.9 m/s as the correct response. *(Practice review slide 13.)*",
+      "explanationImage": null,
+      "tags": [
+        "Normal Doppler Patterns",
+        "Hemodynamics",
+        "Spectral Doppler"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch09-q061",
+      "stem": "A sonographer is asked to select the most accurate response.  During an evaluation of normal pulmonary venous flow, what causes the brief, below-the-baseline velocity wave known as the 'Ar' wave?",
+      "image": null,
+      "options": [
+        "Left atrial contraction forcing blood backward toward the pulmonary veins",
+        "Rapid ventricular suction pulling blood forward into the ventricle",
+        "The closure of the aortic valve leaflets",
+        "The rapid drop in pressure inside the chest"
+      ],
+      "answer": 0,
+      "explanation": "The course review identifies Left atrial contraction forcing blood backward toward the pulmonary veins as the correct response. *(Practice review slide 15.)*",
+      "explanationImage": null,
+      "tags": [
+        "Normal Doppler Patterns",
+        "Hemodynamics",
+        "Spectral Doppler"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch09-q062",
+      "stem": "A sonographer is asked to select the most accurate response.  A sonographer records normal hepatic vein flow from a subcostal window. Which directional pattern is considered normal during ventricular systole?",
+      "image": null,
+      "options": [
+        "A brief, isolated spike occurring during the isovolumic contraction phase",
+        "Antegrade flow moving away from the transducer, appearing below the baseline as a large systolic 'S' wave",
+        "Continuous, non-fluctuating flow that remains locked at 1.5 m/s",
+        "Retrograde flow moving toward the transducer, appearing above the baseline as an 'S' wave"
+      ],
+      "answer": 1,
+      "explanation": "The course review identifies Antegrade flow moving away from the transducer, appearing below the baseline as a large systolic 'S' wave as the correct response. *(Practice review slide 17.)*",
+      "explanationImage": null,
+      "tags": [
+        "Normal Doppler Patterns",
+        "Hemodynamics",
+        "Spectral Doppler"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch09-q063",
+      "stem": "A sonographer is asked to select the most accurate response.  How does the duration of the normal pulmonary vein atrial reversal wave ('Ar') compare to the duration of the trans-mitral diastolic 'A' wave?",
+      "image": null,
+      "options": [
+        "The 'Ar' wave maintains a fixed duration, unrelated to the 'A' wave",
+        "The normal 'Ar' wave duration is shorter than or equal to the trans-mitral 'A' wave duration",
+        "The normal 'Ar' wave duration is twice as long as the trans-mitral 'A' wave duration",
+        "The 'Ar' wave duration is completely independent of ventricular filling dynamics"
+      ],
+      "answer": 1,
+      "explanation": "Normally the pulmonary-vein reversal (Ar) ends before or with the mitral A wave, so Ar duration ≤ A duration. An Ar that outlasts A signals elevated LV end-diastolic pressure. *(Practice review slide 19.)*",
+      "explanationImage": null,
+      "tags": [
+        "Normal Doppler Patterns",
+        "Hemodynamics",
+        "Spectral Doppler"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch09-q064",
+      "stem": "A sonographer is asked to select the most accurate response.  You hear a sharp, clean 'whip' sound at the very beginning and end of the systolic waveform on the spectral Doppler audio. What is the source of this sound?",
+      "image": null,
+      "options": [
+        "High-velocity turbulent blood flow through a narrowed opening",
+        "An artifact caused by setting the system's wall filter too high",
+        "Normal laminar flow passing smoothly through the centre of the valve",
+        "The physical movement of the valve leaflets opening and closing"
+      ],
+      "answer": 3,
+      "explanation": "The course review identifies The physical movement of the valve leaflets opening and closing as the correct response. *(Practice review slide 21.)*",
+      "explanationImage": null,
+      "tags": [
+        "Normal Doppler Patterns",
+        "Hemodynamics",
+        "Spectral Doppler"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch09-q065",
+      "stem": "A sonographer is asked to select the most accurate response.  A sonographer captures a normal aortic valve flow profile and notes a clear space underneath the dark outer curve of the systolic waveform. What does this clear window signify?",
+      "image": null,
+      "options": [
+        "Laminar flow, indicating the red blood cells are moving at a uniform velocity",
+        "Signal loss from positioning the transducer perpendicular to the flow",
+        "An artifact caused by raising the spectral Doppler gain control",
+        "Severe spectral broadening caused by turbulent flow pathways"
+      ],
+      "answer": 0,
+      "explanation": "The course review identifies Laminar flow, indicating the red blood cells are moving at a uniform velocity as the correct response. *(Practice review slide 23.)*",
+      "explanationImage": null,
+      "tags": [
+        "Normal Doppler Patterns",
+        "Hemodynamics",
+        "Spectral Doppler"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch09-q066",
+      "stem": "A sonographer is asked to select the most accurate response.  A sonographer is measuring the velocity time integral (VTI) of the LVOT. What information does the VTI value provide?",
+      "image": null,
+      "options": [
+        "The distance the blood pool travels through the tract during a single cardiac cycle",
+        "The global stiffness index of the ventricular myocardium",
+        "The peak instantaneous pressure drop across the valve plane",
+        "The exact time required for the valve leaflets to close completely"
+      ],
+      "answer": 0,
+      "explanation": "The course review identifies The distance the blood pool travels through the tract during a single cardiac cycle as the correct response. *(Practice review slide 25.)*",
+      "explanationImage": null,
+      "tags": [
+        "Normal Doppler Patterns",
+        "Hemodynamics",
+        "Spectral Doppler"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch09-q067",
+      "stem": "A sonographer is asked to select the most accurate response.  What is the expected normal velocity range for blood flowing through a healthy adult tricuspid valve during early diastolic filling?",
+      "image": null,
+      "options": [
+        "2.0–2.5 m/s",
+        "0.3–0.7 m/s",
+        "1.2–1.8 m/s",
+        "0.05–0.1 m/s"
+      ],
+      "answer": 1,
+      "explanation": "The course review identifies 0.3–0.7 m/s as the correct response. *(Practice review slide 27.)*",
+      "explanationImage": null,
+      "tags": [
+        "Normal Doppler Patterns",
+        "Hemodynamics",
+        "Spectral Doppler"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch09-q068",
+      "stem": "A sonographer is asked to select the most accurate response.  A sonographer checks the colour Doppler profile of a normal mitral valve from an apical 4-chamber view. During early diastole, which colour pattern should appear across the valve plane?",
+      "image": null,
+      "options": [
+        "A mosaic mixture of green and yellow pixels covering the entire chamber",
+        "A thick black band indicating total signal loss from a high wall filter",
+        "A clean, bright red flow profile directed toward the apex",
+        "A dark blue flow profile directed back into the left atrium"
+      ],
+      "answer": 2,
+      "explanation": "The course review identifies A clean, bright red flow profile directed toward the apex as the correct response. *(Practice review slide 29.)*",
+      "explanationImage": null,
+      "tags": [
+        "Normal Doppler Patterns",
+        "Hemodynamics",
+        "Spectral Doppler"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch09-q069",
+      "stem": "A sonographer is asked to select the most accurate response.  Which phase of the cardiac cycle describes the brief period when all four heart valves are closed, occurring immediately after the aortic valve closes and before the mitral valve opens?",
+      "image": null,
+      "options": [
+        "Late Diastasis interval",
+        "Isovolumic Contraction Time (IVCT)",
+        "Isovolumic Relaxation Time (IVRT)",
+        "Rapid diastolic Ejection Phase"
+      ],
+      "answer": 2,
+      "explanation": "The course review identifies Isovolumic Relaxation Time (IVRT) as the correct response. *(Practice review slide 31.)*",
+      "explanationImage": null,
+      "tags": [
+        "Normal Doppler Patterns",
+        "Hemodynamics",
+        "Spectral Doppler"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch09-q070",
+      "stem": "A sonographer is asked to select the most accurate response.  A sonographer measures the hepatic vein reversal ('A') wave and notes it is within the normal range. What is the standard upper limit for a normal adult 'A' wave velocity in the hepatic veins?",
+      "image": null,
+      "options": [
+        "0.8 m/s",
+        "2.0 m/s",
+        "0.3 m/s",
+        "1.5 m/s"
+      ],
+      "answer": 2,
+      "explanation": "The course review identifies 0.3 m/s as the correct response. *(Practice review slide 33.)*",
+      "explanationImage": null,
+      "tags": [
+        "Normal Doppler Patterns",
+        "Hemodynamics",
+        "Spectral Doppler"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch09-q071",
+      "stem": "A sonographer is asked to select the most accurate response.  When checking beam alignment for an aortic valve flow profile from an apical 5-chamber window, what is the maximum acceptable intercept angle to avoid significant velocity underestimation?",
+      "image": null,
+      "options": [
+        "Between 45 and 55 degrees to minimize baseline artifact",
+        "Less than 20 degrees, keeping the angle's cosine close to 1.0",
+        "Exactly 60 degrees, using automated angle-correction software",
+        "Precisely 90 degrees, maximizing lateral resolution"
+      ],
+      "answer": 1,
+      "explanation": "Keep the beam within ~20° of parallel so cosθ stays ≥ 0.94, holding velocity underestimation under ~6%. *(Practice review slide 35.)*",
+      "explanationImage": null,
+      "tags": [
+        "Normal Doppler Patterns",
+        "Hemodynamics",
+        "Spectral Doppler"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch09-q072",
+      "stem": "A sonographer is asked to select the most accurate response.  A sonographer records a normal antegrade trans-aortic velocity profile from an apex-down apical 5-chamber view. Where should this waveform appear on the spectral display?",
+      "image": null,
+      "options": [
+        "Entirely above the zero baseline as a positive frequency shift",
+        "Symmetrically duplicated on both sides of the baseline simultaneously",
+        "Entirely below the zero baseline as a negative frequency shift",
+        "Shifted to the far-right edge of the display grid independent of the baseline"
+      ],
+      "answer": 2,
+      "explanation": "The course review identifies Entirely below the zero baseline as a negative frequency shift as the correct response. *(Practice review slide 37.)*",
+      "explanationImage": null,
+      "tags": [
+        "Normal Doppler Patterns",
+        "Hemodynamics",
+        "Spectral Doppler"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch09-q073",
+      "stem": "During quality review of an adult echo study, the following point is discussed.  A sonographer obtains a pulsed wave Doppler trace of the LVOT from an apical 5-chamber view. Which description accurately reflects the normal spectral appearance of this waveform?",
+      "image": null,
+      "options": [
+        "Biphasic, retrograde flow positioned entirely above the baseline",
+        "Triphasic, turbulent flow displaying complete spectral broadening",
+        "Monophasic, early diastolic flow showing a high velocity peak",
+        "Monophasic, antegrade flow positioned entirely below the baseline"
+      ],
+      "answer": 3,
+      "explanation": "The course review identifies Monophasic, antegrade flow positioned entirely below the baseline as the correct response. *(Practice review slide 3.)*",
+      "explanationImage": null,
+      "tags": [
+        "Normal Doppler Patterns",
+        "Hemodynamics",
+        "Spectral Doppler"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch09-q074",
+      "stem": "During quality review of an adult echo study, the following point is discussed.  While measuring the peak systolic velocity of the LVOT in a healthy adult, which velocity range should the sonographer expect to record?",
+      "image": null,
+      "options": [
+        "1.5–2.5 m/s",
+        "0.7–1.1 m/s",
+        "0.3–0.5 m/s",
+        "3.0–4.0 m/s"
+      ],
+      "answer": 1,
+      "explanation": "The course review identifies 0.7–1.1 m/s as the correct response. *(Practice review slide 5.)*",
+      "explanationImage": null,
+      "tags": [
+        "Normal Doppler Patterns",
+        "Hemodynamics",
+        "Spectral Doppler"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch09-q075",
+      "stem": "During quality review of an adult echo study, the following point is discussed.  A sonographer evaluates a normal trans-mitral flow profile from the apical 4-chamber view. Which combination correctly identifies the timing and direction of the normal E and A waves?",
+      "image": null,
+      "options": [
+        "Diastolic flow directed away from the transducer, appearing below the baseline",
+        "Systolic flow directed away from the transducer, appearing below the baseline",
+        "Diastolic flow directed toward the transducer, appearing above the baseline",
+        "Systolic flow directed toward the transducer, appearing above the baseline"
+      ],
+      "answer": 2,
+      "explanation": "The course review identifies Diastolic flow directed toward the transducer, appearing above the baseline as the correct response. *(Practice review slide 7.)*",
+      "explanationImage": null,
+      "tags": [
+        "Normal Doppler Patterns",
+        "Hemodynamics",
+        "Spectral Doppler"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch09-q076",
+      "stem": "During quality review of an adult echo study, the following point is discussed.  What is the normal physiological upper velocity limit expected for blood flow passing through a healthy adult mitral valve?",
+      "image": null,
+      "options": [
+        "3.5 m/s",
+        "0.4 m/s",
+        "2.0 m/s",
+        "1.3 m/s"
+      ],
+      "answer": 3,
+      "explanation": "The course review identifies 1.3 m/s as the correct response. *(Practice review slide 9.)*",
+      "explanationImage": null,
+      "tags": [
+        "Normal Doppler Patterns",
+        "Hemodynamics",
+        "Spectral Doppler"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch09-q077",
+      "stem": "During quality review of an adult echo study, the following point is discussed.  A sonographer is optimizing the spectral Doppler profile of the normal aortic valve from an apical 5-chamber view. What is the expected physiological peak velocity range for a normal adult?",
+      "image": null,
+      "options": [
+        "2.5–3.5 m/s",
+        "4.0 m/s or higher",
+        "0.5–0.8 m/s",
+        "1.0–1.7 m/s"
+      ],
+      "answer": 3,
+      "explanation": "The course review identifies 1.0–1.7 m/s as the correct response. *(Practice review slide 11.)*",
+      "explanationImage": null,
+      "tags": [
+        "Normal Doppler Patterns",
+        "Hemodynamics",
+        "Spectral Doppler"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch09-q078",
+      "stem": "During quality review of an adult echo study, the following point is discussed.  What is the standard normal velocity range for blood flowing through a healthy adult pulmonic valve during ventricular ejection?",
+      "image": null,
+      "options": [
+        "0.1–0.3 m/s",
+        "1.0–1.7 m/s",
+        "0.6–0.9 m/s",
+        "1.5–2.2 m/s"
+      ],
+      "answer": 2,
+      "explanation": "The course review identifies 0.6–0.9 m/s as the correct response. *(Practice review slide 13.)*",
+      "explanationImage": null,
+      "tags": [
+        "Normal Doppler Patterns",
+        "Hemodynamics",
+        "Spectral Doppler"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch09-q079",
+      "stem": "During quality review of an adult echo study, the following point is discussed.  During an evaluation of normal pulmonary venous flow, what causes the brief, below-the-baseline velocity wave known as the 'Ar' wave?",
+      "image": null,
+      "options": [
+        "Rapid ventricular suction pulling blood forward into the ventricle",
+        "The rapid drop in pressure inside the chest",
+        "Left atrial contraction forcing blood backward toward the pulmonary veins",
+        "The closure of the aortic valve leaflets"
+      ],
+      "answer": 2,
+      "explanation": "The course review identifies Left atrial contraction forcing blood backward toward the pulmonary veins as the correct response. *(Practice review slide 15.)*",
+      "explanationImage": null,
+      "tags": [
+        "Normal Doppler Patterns",
+        "Hemodynamics",
+        "Spectral Doppler"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch09-q080",
+      "stem": "During quality review of an adult echo study, the following point is discussed.  A sonographer records normal hepatic vein flow from a subcostal window. Which directional pattern is considered normal during ventricular systole?",
+      "image": null,
+      "options": [
+        "Continuous, non-fluctuating flow that remains locked at 1.5 m/s",
+        "Retrograde flow moving toward the transducer, appearing above the baseline as an 'S' wave",
+        "Antegrade flow moving away from the transducer, appearing below the baseline as a large systolic 'S' wave",
+        "A brief, isolated spike occurring during the isovolumic contraction phase"
+      ],
+      "answer": 2,
+      "explanation": "The course review identifies Antegrade flow moving away from the transducer, appearing below the baseline as a large systolic 'S' wave as the correct response. *(Practice review slide 17.)*",
+      "explanationImage": null,
+      "tags": [
+        "Normal Doppler Patterns",
+        "Hemodynamics",
+        "Spectral Doppler"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch09-q081",
+      "stem": "During quality review of an adult echo study, the following point is discussed.  How does the duration of the normal pulmonary vein atrial reversal wave ('Ar') compare to the duration of the trans-mitral diastolic 'A' wave?",
+      "image": null,
+      "options": [
+        "The 'Ar' wave maintains a fixed duration, unrelated to the 'A' wave",
+        "The normal 'Ar' wave duration is shorter than or equal to the trans-mitral 'A' wave duration",
+        "The 'Ar' wave duration is completely independent of ventricular filling dynamics",
+        "The normal 'Ar' wave duration is twice as long as the trans-mitral 'A' wave duration"
+      ],
+      "answer": 1,
+      "explanation": "Normally the pulmonary-vein reversal (Ar) ends before or with the mitral A wave, so Ar duration ≤ A duration. An Ar that outlasts A signals elevated LV end-diastolic pressure. *(Practice review slide 19.)*",
+      "explanationImage": null,
+      "tags": [
+        "Normal Doppler Patterns",
+        "Hemodynamics",
+        "Spectral Doppler"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch09-q082",
+      "stem": "During quality review of an adult echo study, the following point is discussed.  You hear a sharp, clean 'whip' sound at the very beginning and end of the systolic waveform on the spectral Doppler audio. What is the source of this sound?",
+      "image": null,
+      "options": [
+        "Normal laminar flow passing smoothly through the centre of the valve",
+        "The physical movement of the valve leaflets opening and closing",
+        "High-velocity turbulent blood flow through a narrowed opening",
+        "An artifact caused by setting the system's wall filter too high"
+      ],
+      "answer": 1,
+      "explanation": "The course review identifies The physical movement of the valve leaflets opening and closing as the correct response. *(Practice review slide 21.)*",
+      "explanationImage": null,
+      "tags": [
+        "Normal Doppler Patterns",
+        "Hemodynamics",
+        "Spectral Doppler"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch09-q083",
+      "stem": "During quality review of an adult echo study, the following point is discussed.  A sonographer captures a normal aortic valve flow profile and notes a clear space underneath the dark outer curve of the systolic waveform. What does this clear window signify?",
+      "image": null,
+      "options": [
+        "Severe spectral broadening caused by turbulent flow pathways",
+        "Signal loss from positioning the transducer perpendicular to the flow",
+        "An artifact caused by raising the spectral Doppler gain control",
+        "Laminar flow, indicating the red blood cells are moving at a uniform velocity"
+      ],
+      "answer": 3,
+      "explanation": "The course review identifies Laminar flow, indicating the red blood cells are moving at a uniform velocity as the correct response. *(Practice review slide 23.)*",
+      "explanationImage": null,
+      "tags": [
+        "Normal Doppler Patterns",
+        "Hemodynamics",
+        "Spectral Doppler"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch09-q084",
+      "stem": "During quality review of an adult echo study, the following point is discussed.  A sonographer is measuring the velocity time integral (VTI) of the LVOT. What information does the VTI value provide?",
+      "image": null,
+      "options": [
+        "The peak instantaneous pressure drop across the valve plane",
+        "The global stiffness index of the ventricular myocardium",
+        "The exact time required for the valve leaflets to close completely",
+        "The distance the blood pool travels through the tract during a single cardiac cycle"
+      ],
+      "answer": 3,
+      "explanation": "The course review identifies The distance the blood pool travels through the tract during a single cardiac cycle as the correct response. *(Practice review slide 25.)*",
+      "explanationImage": null,
+      "tags": [
+        "Normal Doppler Patterns",
+        "Hemodynamics",
+        "Spectral Doppler"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch09-q085",
+      "stem": "During quality review of an adult echo study, the following point is discussed.  What is the expected normal velocity range for blood flowing through a healthy adult tricuspid valve during early diastolic filling?",
+      "image": null,
+      "options": [
+        "2.0–2.5 m/s",
+        "0.3–0.7 m/s",
+        "1.2–1.8 m/s",
+        "0.05–0.1 m/s"
+      ],
+      "answer": 1,
+      "explanation": "The course review identifies 0.3–0.7 m/s as the correct response. *(Practice review slide 27.)*",
+      "explanationImage": null,
+      "tags": [
+        "Normal Doppler Patterns",
+        "Hemodynamics",
+        "Spectral Doppler"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch09-q086",
+      "stem": "During quality review of an adult echo study, the following point is discussed.  A sonographer checks the colour Doppler profile of a normal mitral valve from an apical 4-chamber view. During early diastole, which colour pattern should appear across the valve plane?",
+      "image": null,
+      "options": [
+        "A dark blue flow profile directed back into the left atrium",
+        "A clean, bright red flow profile directed toward the apex",
+        "A thick black band indicating total signal loss from a high wall filter",
+        "A mosaic mixture of green and yellow pixels covering the entire chamber"
+      ],
+      "answer": 1,
+      "explanation": "The course review identifies A clean, bright red flow profile directed toward the apex as the correct response. *(Practice review slide 29.)*",
+      "explanationImage": null,
+      "tags": [
+        "Normal Doppler Patterns",
+        "Hemodynamics",
+        "Spectral Doppler"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch09-q087",
+      "stem": "During quality review of an adult echo study, the following point is discussed.  Which phase of the cardiac cycle describes the brief period when all four heart valves are closed, occurring immediately after the aortic valve closes and before the mitral valve opens?",
+      "image": null,
+      "options": [
+        "Late Diastasis interval",
+        "Isovolumic Relaxation Time (IVRT)",
+        "Isovolumic Contraction Time (IVCT)",
+        "Rapid diastolic Ejection Phase"
+      ],
+      "answer": 1,
+      "explanation": "The course review identifies Isovolumic Relaxation Time (IVRT) as the correct response. *(Practice review slide 31.)*",
+      "explanationImage": null,
+      "tags": [
+        "Normal Doppler Patterns",
+        "Hemodynamics",
+        "Spectral Doppler"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch09-q088",
+      "stem": "During quality review of an adult echo study, the following point is discussed.  A sonographer measures the hepatic vein reversal ('A') wave and notes it is within the normal range. What is the standard upper limit for a normal adult 'A' wave velocity in the hepatic veins?",
+      "image": null,
+      "options": [
+        "1.5 m/s",
+        "0.3 m/s",
+        "0.8 m/s",
+        "2.0 m/s"
+      ],
+      "answer": 1,
+      "explanation": "The course review identifies 0.3 m/s as the correct response. *(Practice review slide 33.)*",
+      "explanationImage": null,
+      "tags": [
+        "Normal Doppler Patterns",
+        "Hemodynamics",
+        "Spectral Doppler"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch09-q089",
+      "stem": "During quality review of an adult echo study, the following point is discussed.  When checking beam alignment for an aortic valve flow profile from an apical 5-chamber window, what is the maximum acceptable intercept angle to avoid significant velocity underestimation?",
+      "image": null,
+      "options": [
+        "Less than 20 degrees, keeping the angle's cosine close to 1.0",
+        "Precisely 90 degrees, maximizing lateral resolution",
+        "Between 45 and 55 degrees to minimize baseline artifact",
+        "Exactly 60 degrees, using automated angle-correction software"
+      ],
+      "answer": 0,
+      "explanation": "Keep the beam within ~20° of parallel so cosθ stays ≥ 0.94, holding velocity underestimation under ~6%. *(Practice review slide 35.)*",
+      "explanationImage": null,
+      "tags": [
+        "Normal Doppler Patterns",
+        "Hemodynamics",
+        "Spectral Doppler"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch09-q090",
+      "stem": "During quality review of an adult echo study, the following point is discussed.  A sonographer records a normal antegrade trans-aortic velocity profile from an apex-down apical 5-chamber view. Where should this waveform appear on the spectral display?",
+      "image": null,
+      "options": [
+        "Entirely below the zero baseline as a negative frequency shift",
+        "Entirely above the zero baseline as a positive frequency shift",
+        "Symmetrically duplicated on both sides of the baseline simultaneously",
+        "Shifted to the far-right edge of the display grid independent of the baseline"
+      ],
+      "answer": 0,
+      "explanation": "The course review identifies Entirely below the zero baseline as a negative frequency shift as the correct response. *(Practice review slide 37.)*",
+      "explanationImage": null,
+      "tags": [
+        "Normal Doppler Patterns",
+        "Hemodynamics",
+        "Spectral Doppler"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch09-q091",
+      "stem": "An adult cardiac sonography student is interpreting a teaching case.  A sonographer obtains a pulsed wave Doppler trace of the LVOT from an apical 5-chamber view. Which description accurately reflects the normal spectral appearance of this waveform?",
+      "image": null,
+      "options": [
+        "Triphasic, turbulent flow displaying complete spectral broadening",
+        "Monophasic, antegrade flow positioned entirely below the baseline",
+        "Monophasic, early diastolic flow showing a high velocity peak",
+        "Biphasic, retrograde flow positioned entirely above the baseline"
+      ],
+      "answer": 1,
+      "explanation": "The course review identifies Monophasic, antegrade flow positioned entirely below the baseline as the correct response. *(Practice review slide 3.)*",
+      "explanationImage": null,
+      "tags": [
+        "Normal Doppler Patterns",
+        "Hemodynamics",
+        "Spectral Doppler"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch09-q092",
+      "stem": "An adult cardiac sonography student is interpreting a teaching case.  While measuring the peak systolic velocity of the LVOT in a healthy adult, which velocity range should the sonographer expect to record?",
+      "image": null,
+      "options": [
+        "0.3–0.5 m/s",
+        "0.7–1.1 m/s",
+        "1.5–2.5 m/s",
+        "3.0–4.0 m/s"
+      ],
+      "answer": 1,
+      "explanation": "The course review identifies 0.7–1.1 m/s as the correct response. *(Practice review slide 5.)*",
+      "explanationImage": null,
+      "tags": [
+        "Normal Doppler Patterns",
+        "Hemodynamics",
+        "Spectral Doppler"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch09-q093",
+      "stem": "An adult cardiac sonography student is interpreting a teaching case.  A sonographer evaluates a normal trans-mitral flow profile from the apical 4-chamber view. Which combination correctly identifies the timing and direction of the normal E and A waves?",
+      "image": null,
+      "options": [
+        "Systolic flow directed away from the transducer, appearing below the baseline",
+        "Systolic flow directed toward the transducer, appearing above the baseline",
+        "Diastolic flow directed toward the transducer, appearing above the baseline",
+        "Diastolic flow directed away from the transducer, appearing below the baseline"
+      ],
+      "answer": 2,
+      "explanation": "The course review identifies Diastolic flow directed toward the transducer, appearing above the baseline as the correct response. *(Practice review slide 7.)*",
+      "explanationImage": null,
+      "tags": [
+        "Normal Doppler Patterns",
+        "Hemodynamics",
+        "Spectral Doppler"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch09-q094",
+      "stem": "An adult cardiac sonography student is interpreting a teaching case.  What is the normal physiological upper velocity limit expected for blood flow passing through a healthy adult mitral valve?",
+      "image": null,
+      "options": [
+        "2.0 m/s",
+        "0.4 m/s",
+        "1.3 m/s",
+        "3.5 m/s"
+      ],
+      "answer": 2,
+      "explanation": "The course review identifies 1.3 m/s as the correct response. *(Practice review slide 9.)*",
+      "explanationImage": null,
+      "tags": [
+        "Normal Doppler Patterns",
+        "Hemodynamics",
+        "Spectral Doppler"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch09-q095",
+      "stem": "An adult cardiac sonography student is interpreting a teaching case.  A sonographer is optimizing the spectral Doppler profile of the normal aortic valve from an apical 5-chamber view. What is the expected physiological peak velocity range for a normal adult?",
+      "image": null,
+      "options": [
+        "2.5–3.5 m/s",
+        "4.0 m/s or higher",
+        "1.0–1.7 m/s",
+        "0.5–0.8 m/s"
+      ],
+      "answer": 2,
+      "explanation": "The course review identifies 1.0–1.7 m/s as the correct response. *(Practice review slide 11.)*",
+      "explanationImage": null,
+      "tags": [
+        "Normal Doppler Patterns",
+        "Hemodynamics",
+        "Spectral Doppler"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch09-q096",
+      "stem": "An adult cardiac sonography student is interpreting a teaching case.  What is the standard normal velocity range for blood flowing through a healthy adult pulmonic valve during ventricular ejection?",
+      "image": null,
+      "options": [
+        "1.5–2.2 m/s",
+        "0.1–0.3 m/s",
+        "0.6–0.9 m/s",
+        "1.0–1.7 m/s"
+      ],
+      "answer": 2,
+      "explanation": "The course review identifies 0.6–0.9 m/s as the correct response. *(Practice review slide 13.)*",
+      "explanationImage": null,
+      "tags": [
+        "Normal Doppler Patterns",
+        "Hemodynamics",
+        "Spectral Doppler"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch09-q097",
+      "stem": "An adult cardiac sonography student is interpreting a teaching case.  During an evaluation of normal pulmonary venous flow, what causes the brief, below-the-baseline velocity wave known as the 'Ar' wave?",
+      "image": null,
+      "options": [
+        "Left atrial contraction forcing blood backward toward the pulmonary veins",
+        "The rapid drop in pressure inside the chest",
+        "Rapid ventricular suction pulling blood forward into the ventricle",
+        "The closure of the aortic valve leaflets"
+      ],
+      "answer": 0,
+      "explanation": "The course review identifies Left atrial contraction forcing blood backward toward the pulmonary veins as the correct response. *(Practice review slide 15.)*",
+      "explanationImage": null,
+      "tags": [
+        "Normal Doppler Patterns",
+        "Hemodynamics",
+        "Spectral Doppler"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch09-q098",
+      "stem": "An adult cardiac sonography student is interpreting a teaching case.  A sonographer records normal hepatic vein flow from a subcostal window. Which directional pattern is considered normal during ventricular systole?",
+      "image": null,
+      "options": [
+        "Retrograde flow moving toward the transducer, appearing above the baseline as an 'S' wave",
+        "A brief, isolated spike occurring during the isovolumic contraction phase",
+        "Continuous, non-fluctuating flow that remains locked at 1.5 m/s",
+        "Antegrade flow moving away from the transducer, appearing below the baseline as a large systolic 'S' wave"
+      ],
+      "answer": 3,
+      "explanation": "The course review identifies Antegrade flow moving away from the transducer, appearing below the baseline as a large systolic 'S' wave as the correct response. *(Practice review slide 17.)*",
+      "explanationImage": null,
+      "tags": [
+        "Normal Doppler Patterns",
+        "Hemodynamics",
+        "Spectral Doppler"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch09-q099",
+      "stem": "An adult cardiac sonography student is interpreting a teaching case.  How does the duration of the normal pulmonary vein atrial reversal wave ('Ar') compare to the duration of the trans-mitral diastolic 'A' wave?",
+      "image": null,
+      "options": [
+        "The 'Ar' wave maintains a fixed duration, unrelated to the 'A' wave",
+        "The normal 'Ar' wave duration is shorter than or equal to the trans-mitral 'A' wave duration",
+        "The normal 'Ar' wave duration is twice as long as the trans-mitral 'A' wave duration",
+        "The 'Ar' wave duration is completely independent of ventricular filling dynamics"
+      ],
+      "answer": 1,
+      "explanation": "Normally the pulmonary-vein reversal (Ar) ends before or with the mitral A wave, so Ar duration ≤ A duration. An Ar that outlasts A signals elevated LV end-diastolic pressure. *(Practice review slide 19.)*",
+      "explanationImage": null,
+      "tags": [
+        "Normal Doppler Patterns",
+        "Hemodynamics",
+        "Spectral Doppler"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch09-q100",
+      "stem": "An adult cardiac sonography student is interpreting a teaching case.  You hear a sharp, clean 'whip' sound at the very beginning and end of the systolic waveform on the spectral Doppler audio. What is the source of this sound?",
+      "image": null,
+      "options": [
+        "An artifact caused by setting the system's wall filter too high",
+        "The physical movement of the valve leaflets opening and closing",
+        "High-velocity turbulent blood flow through a narrowed opening",
+        "Normal laminar flow passing smoothly through the centre of the valve"
+      ],
+      "answer": 1,
+      "explanation": "The course review identifies The physical movement of the valve leaflets opening and closing as the correct response. *(Practice review slide 21.)*",
+      "explanationImage": null,
+      "tags": [
+        "Normal Doppler Patterns",
+        "Hemodynamics",
+        "Spectral Doppler"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch09-q101",
+      "stem": "An adult cardiac sonography student is interpreting a teaching case.  A sonographer captures a normal aortic valve flow profile and notes a clear space underneath the dark outer curve of the systolic waveform. What does this clear window signify?",
+      "image": null,
+      "options": [
+        "An artifact caused by raising the spectral Doppler gain control",
+        "Laminar flow, indicating the red blood cells are moving at a uniform velocity",
+        "Severe spectral broadening caused by turbulent flow pathways",
+        "Signal loss from positioning the transducer perpendicular to the flow"
+      ],
+      "answer": 1,
+      "explanation": "The course review identifies Laminar flow, indicating the red blood cells are moving at a uniform velocity as the correct response. *(Practice review slide 23.)*",
+      "explanationImage": null,
+      "tags": [
+        "Normal Doppler Patterns",
+        "Hemodynamics",
+        "Spectral Doppler"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch09-q102",
+      "stem": "An adult cardiac sonography student is interpreting a teaching case.  A sonographer is measuring the velocity time integral (VTI) of the LVOT. What information does the VTI value provide?",
+      "image": null,
+      "options": [
+        "The global stiffness index of the ventricular myocardium",
+        "The peak instantaneous pressure drop across the valve plane",
+        "The distance the blood pool travels through the tract during a single cardiac cycle",
+        "The exact time required for the valve leaflets to close completely"
+      ],
+      "answer": 2,
+      "explanation": "The course review identifies The distance the blood pool travels through the tract during a single cardiac cycle as the correct response. *(Practice review slide 25.)*",
+      "explanationImage": null,
+      "tags": [
+        "Normal Doppler Patterns",
+        "Hemodynamics",
+        "Spectral Doppler"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch09-q103",
+      "stem": "An adult cardiac sonography student is interpreting a teaching case.  What is the expected normal velocity range for blood flowing through a healthy adult tricuspid valve during early diastolic filling?",
+      "image": null,
+      "options": [
+        "1.2–1.8 m/s",
+        "2.0–2.5 m/s",
+        "0.05–0.1 m/s",
+        "0.3–0.7 m/s"
+      ],
+      "answer": 3,
+      "explanation": "The course review identifies 0.3–0.7 m/s as the correct response. *(Practice review slide 27.)*",
+      "explanationImage": null,
+      "tags": [
+        "Normal Doppler Patterns",
+        "Hemodynamics",
+        "Spectral Doppler"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch09-q104",
+      "stem": "An adult cardiac sonography student is interpreting a teaching case.  A sonographer checks the colour Doppler profile of a normal mitral valve from an apical 4-chamber view. During early diastole, which colour pattern should appear across the valve plane?",
+      "image": null,
+      "options": [
+        "A thick black band indicating total signal loss from a high wall filter",
+        "A mosaic mixture of green and yellow pixels covering the entire chamber",
+        "A dark blue flow profile directed back into the left atrium",
+        "A clean, bright red flow profile directed toward the apex"
+      ],
+      "answer": 3,
+      "explanation": "The course review identifies A clean, bright red flow profile directed toward the apex as the correct response. *(Practice review slide 29.)*",
+      "explanationImage": null,
+      "tags": [
+        "Normal Doppler Patterns",
+        "Hemodynamics",
+        "Spectral Doppler"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch09-q105",
+      "stem": "An adult cardiac sonography student is interpreting a teaching case.  Which phase of the cardiac cycle describes the brief period when all four heart valves are closed, occurring immediately after the aortic valve closes and before the mitral valve opens?",
+      "image": null,
+      "options": [
+        "Rapid diastolic Ejection Phase",
+        "Isovolumic Relaxation Time (IVRT)",
+        "Isovolumic Contraction Time (IVCT)",
+        "Late Diastasis interval"
+      ],
+      "answer": 1,
+      "explanation": "The course review identifies Isovolumic Relaxation Time (IVRT) as the correct response. *(Practice review slide 31.)*",
+      "explanationImage": null,
+      "tags": [
+        "Normal Doppler Patterns",
+        "Hemodynamics",
+        "Spectral Doppler"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch09-q106",
+      "stem": "An adult cardiac sonography student is interpreting a teaching case.  A sonographer measures the hepatic vein reversal ('A') wave and notes it is within the normal range. What is the standard upper limit for a normal adult 'A' wave velocity in the hepatic veins?",
+      "image": null,
+      "options": [
+        "2.0 m/s",
+        "0.3 m/s",
+        "0.8 m/s",
+        "1.5 m/s"
+      ],
+      "answer": 1,
+      "explanation": "The course review identifies 0.3 m/s as the correct response. *(Practice review slide 33.)*",
+      "explanationImage": null,
+      "tags": [
+        "Normal Doppler Patterns",
+        "Hemodynamics",
+        "Spectral Doppler"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch09-q107",
+      "stem": "An adult cardiac sonography student is interpreting a teaching case.  When checking beam alignment for an aortic valve flow profile from an apical 5-chamber window, what is the maximum acceptable intercept angle to avoid significant velocity underestimation?",
+      "image": null,
+      "options": [
+        "Between 45 and 55 degrees to minimize baseline artifact",
+        "Less than 20 degrees, keeping the angle's cosine close to 1.0",
+        "Exactly 60 degrees, using automated angle-correction software",
+        "Precisely 90 degrees, maximizing lateral resolution"
+      ],
+      "answer": 1,
+      "explanation": "Keep the beam within ~20° of parallel so cosθ stays ≥ 0.94, holding velocity underestimation under ~6%. *(Practice review slide 35.)*",
+      "explanationImage": null,
+      "tags": [
+        "Normal Doppler Patterns",
+        "Hemodynamics",
+        "Spectral Doppler"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch09-q108",
+      "stem": "An adult cardiac sonography student is interpreting a teaching case.  A sonographer records a normal antegrade trans-aortic velocity profile from an apex-down apical 5-chamber view. Where should this waveform appear on the spectral display?",
+      "image": null,
+      "options": [
+        "Entirely above the zero baseline as a positive frequency shift",
+        "Entirely below the zero baseline as a negative frequency shift",
+        "Shifted to the far-right edge of the display grid independent of the baseline",
+        "Symmetrically duplicated on both sides of the baseline simultaneously"
+      ],
+      "answer": 1,
+      "explanation": "The course review identifies Entirely below the zero baseline as a negative frequency shift as the correct response. *(Practice review slide 37.)*",
+      "explanationImage": null,
+      "tags": [
+        "Normal Doppler Patterns",
+        "Hemodynamics",
+        "Spectral Doppler"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch09-q109",
+      "stem": "Before image acquisition, a sonographer checks their understanding of the following.  A sonographer obtains a pulsed wave Doppler trace of the LVOT from an apical 5-chamber view. Which description accurately reflects the normal spectral appearance of this waveform?",
+      "image": null,
+      "options": [
+        "Triphasic, turbulent flow displaying complete spectral broadening",
+        "Biphasic, retrograde flow positioned entirely above the baseline",
+        "Monophasic, early diastolic flow showing a high velocity peak",
+        "Monophasic, antegrade flow positioned entirely below the baseline"
+      ],
+      "answer": 3,
+      "explanation": "The course review identifies Monophasic, antegrade flow positioned entirely below the baseline as the correct response. *(Practice review slide 3.)*",
+      "explanationImage": null,
+      "tags": [
+        "Normal Doppler Patterns",
+        "Hemodynamics",
+        "Spectral Doppler"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch09-q110",
+      "stem": "Before image acquisition, a sonographer checks their understanding of the following.  While measuring the peak systolic velocity of the LVOT in a healthy adult, which velocity range should the sonographer expect to record?",
+      "image": null,
+      "options": [
+        "0.7–1.1 m/s",
+        "1.5–2.5 m/s",
+        "3.0–4.0 m/s",
+        "0.3–0.5 m/s"
+      ],
+      "answer": 0,
+      "explanation": "The course review identifies 0.7–1.1 m/s as the correct response. *(Practice review slide 5.)*",
+      "explanationImage": null,
+      "tags": [
+        "Normal Doppler Patterns",
+        "Hemodynamics",
+        "Spectral Doppler"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch09-q111",
+      "stem": "Before image acquisition, a sonographer checks their understanding of the following.  A sonographer evaluates a normal trans-mitral flow profile from the apical 4-chamber view. Which combination correctly identifies the timing and direction of the normal E and A waves?",
+      "image": null,
+      "options": [
+        "Diastolic flow directed away from the transducer, appearing below the baseline",
+        "Diastolic flow directed toward the transducer, appearing above the baseline",
+        "Systolic flow directed toward the transducer, appearing above the baseline",
+        "Systolic flow directed away from the transducer, appearing below the baseline"
+      ],
+      "answer": 1,
+      "explanation": "The course review identifies Diastolic flow directed toward the transducer, appearing above the baseline as the correct response. *(Practice review slide 7.)*",
+      "explanationImage": null,
+      "tags": [
+        "Normal Doppler Patterns",
+        "Hemodynamics",
+        "Spectral Doppler"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch09-q112",
+      "stem": "Before image acquisition, a sonographer checks their understanding of the following.  What is the normal physiological upper velocity limit expected for blood flow passing through a healthy adult mitral valve?",
+      "image": null,
+      "options": [
+        "2.0 m/s",
+        "0.4 m/s",
+        "3.5 m/s",
+        "1.3 m/s"
+      ],
+      "answer": 3,
+      "explanation": "The course review identifies 1.3 m/s as the correct response. *(Practice review slide 9.)*",
+      "explanationImage": null,
+      "tags": [
+        "Normal Doppler Patterns",
+        "Hemodynamics",
+        "Spectral Doppler"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch09-q113",
+      "stem": "Before image acquisition, a sonographer checks their understanding of the following.  A sonographer is optimizing the spectral Doppler profile of the normal aortic valve from an apical 5-chamber view. What is the expected physiological peak velocity range for a normal adult?",
+      "image": null,
+      "options": [
+        "1.0–1.7 m/s",
+        "0.5–0.8 m/s",
+        "4.0 m/s or higher",
+        "2.5–3.5 m/s"
+      ],
+      "answer": 0,
+      "explanation": "The course review identifies 1.0–1.7 m/s as the correct response. *(Practice review slide 11.)*",
+      "explanationImage": null,
+      "tags": [
+        "Normal Doppler Patterns",
+        "Hemodynamics",
+        "Spectral Doppler"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch09-q114",
+      "stem": "Before image acquisition, a sonographer checks their understanding of the following.  What is the standard normal velocity range for blood flowing through a healthy adult pulmonic valve during ventricular ejection?",
+      "image": null,
+      "options": [
+        "0.1–0.3 m/s",
+        "1.5–2.2 m/s",
+        "1.0–1.7 m/s",
+        "0.6–0.9 m/s"
+      ],
+      "answer": 3,
+      "explanation": "The course review identifies 0.6–0.9 m/s as the correct response. *(Practice review slide 13.)*",
+      "explanationImage": null,
+      "tags": [
+        "Normal Doppler Patterns",
+        "Hemodynamics",
+        "Spectral Doppler"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch09-q115",
+      "stem": "Before image acquisition, a sonographer checks their understanding of the following.  During an evaluation of normal pulmonary venous flow, what causes the brief, below-the-baseline velocity wave known as the 'Ar' wave?",
+      "image": null,
+      "options": [
+        "The rapid drop in pressure inside the chest",
+        "Left atrial contraction forcing blood backward toward the pulmonary veins",
+        "Rapid ventricular suction pulling blood forward into the ventricle",
+        "The closure of the aortic valve leaflets"
+      ],
+      "answer": 1,
+      "explanation": "The course review identifies Left atrial contraction forcing blood backward toward the pulmonary veins as the correct response. *(Practice review slide 15.)*",
+      "explanationImage": null,
+      "tags": [
+        "Normal Doppler Patterns",
+        "Hemodynamics",
+        "Spectral Doppler"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch09-q116",
+      "stem": "Before image acquisition, a sonographer checks their understanding of the following.  A sonographer records normal hepatic vein flow from a subcostal window. Which directional pattern is considered normal during ventricular systole?",
+      "image": null,
+      "options": [
+        "Continuous, non-fluctuating flow that remains locked at 1.5 m/s",
+        "A brief, isolated spike occurring during the isovolumic contraction phase",
+        "Retrograde flow moving toward the transducer, appearing above the baseline as an 'S' wave",
+        "Antegrade flow moving away from the transducer, appearing below the baseline as a large systolic 'S' wave"
+      ],
+      "answer": 3,
+      "explanation": "The course review identifies Antegrade flow moving away from the transducer, appearing below the baseline as a large systolic 'S' wave as the correct response. *(Practice review slide 17.)*",
+      "explanationImage": null,
+      "tags": [
+        "Normal Doppler Patterns",
+        "Hemodynamics",
+        "Spectral Doppler"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch09-q117",
+      "stem": "Before image acquisition, a sonographer checks their understanding of the following.  How does the duration of the normal pulmonary vein atrial reversal wave ('Ar') compare to the duration of the trans-mitral diastolic 'A' wave?",
+      "image": null,
+      "options": [
+        "The 'Ar' wave duration is completely independent of ventricular filling dynamics",
+        "The normal 'Ar' wave duration is shorter than or equal to the trans-mitral 'A' wave duration",
+        "The 'Ar' wave maintains a fixed duration, unrelated to the 'A' wave",
+        "The normal 'Ar' wave duration is twice as long as the trans-mitral 'A' wave duration"
+      ],
+      "answer": 1,
+      "explanation": "Normally the pulmonary-vein reversal (Ar) ends before or with the mitral A wave, so Ar duration ≤ A duration. An Ar that outlasts A signals elevated LV end-diastolic pressure. *(Practice review slide 19.)*",
+      "explanationImage": null,
+      "tags": [
+        "Normal Doppler Patterns",
+        "Hemodynamics",
+        "Spectral Doppler"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch09-q118",
+      "stem": "Before image acquisition, a sonographer checks their understanding of the following.  You hear a sharp, clean 'whip' sound at the very beginning and end of the systolic waveform on the spectral Doppler audio. What is the source of this sound?",
+      "image": null,
+      "options": [
+        "High-velocity turbulent blood flow through a narrowed opening",
+        "Normal laminar flow passing smoothly through the centre of the valve",
+        "The physical movement of the valve leaflets opening and closing",
+        "An artifact caused by setting the system's wall filter too high"
+      ],
+      "answer": 2,
+      "explanation": "The course review identifies The physical movement of the valve leaflets opening and closing as the correct response. *(Practice review slide 21.)*",
+      "explanationImage": null,
+      "tags": [
+        "Normal Doppler Patterns",
+        "Hemodynamics",
+        "Spectral Doppler"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch09-q119",
+      "stem": "Before image acquisition, a sonographer checks their understanding of the following.  A sonographer captures a normal aortic valve flow profile and notes a clear space underneath the dark outer curve of the systolic waveform. What does this clear window signify?",
+      "image": null,
+      "options": [
+        "Severe spectral broadening caused by turbulent flow pathways",
+        "Laminar flow, indicating the red blood cells are moving at a uniform velocity",
+        "An artifact caused by raising the spectral Doppler gain control",
+        "Signal loss from positioning the transducer perpendicular to the flow"
+      ],
+      "answer": 1,
+      "explanation": "The course review identifies Laminar flow, indicating the red blood cells are moving at a uniform velocity as the correct response. *(Practice review slide 23.)*",
+      "explanationImage": null,
+      "tags": [
+        "Normal Doppler Patterns",
+        "Hemodynamics",
+        "Spectral Doppler"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch09-q120",
+      "stem": "Before image acquisition, a sonographer checks their understanding of the following.  A sonographer is measuring the velocity time integral (VTI) of the LVOT. What information does the VTI value provide?",
+      "image": null,
+      "options": [
+        "The distance the blood pool travels through the tract during a single cardiac cycle",
+        "The peak instantaneous pressure drop across the valve plane",
+        "The global stiffness index of the ventricular myocardium",
+        "The exact time required for the valve leaflets to close completely"
+      ],
+      "answer": 0,
+      "explanation": "The course review identifies The distance the blood pool travels through the tract during a single cardiac cycle as the correct response. *(Practice review slide 25.)*",
+      "explanationImage": null,
+      "tags": [
+        "Normal Doppler Patterns",
+        "Hemodynamics",
+        "Spectral Doppler"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch09-q121",
+      "stem": "Before image acquisition, a sonographer checks their understanding of the following.  What is the expected normal velocity range for blood flowing through a healthy adult tricuspid valve during early diastolic filling?",
+      "image": null,
+      "options": [
+        "0.3–0.7 m/s",
+        "1.2–1.8 m/s",
+        "2.0–2.5 m/s",
+        "0.05–0.1 m/s"
+      ],
+      "answer": 0,
+      "explanation": "The course review identifies 0.3–0.7 m/s as the correct response. *(Practice review slide 27.)*",
+      "explanationImage": null,
+      "tags": [
+        "Normal Doppler Patterns",
+        "Hemodynamics",
+        "Spectral Doppler"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch09-q122",
+      "stem": "Before image acquisition, a sonographer checks their understanding of the following.  A sonographer checks the colour Doppler profile of a normal mitral valve from an apical 4-chamber view. During early diastole, which colour pattern should appear across the valve plane?",
+      "image": null,
+      "options": [
+        "A mosaic mixture of green and yellow pixels covering the entire chamber",
+        "A dark blue flow profile directed back into the left atrium",
+        "A thick black band indicating total signal loss from a high wall filter",
+        "A clean, bright red flow profile directed toward the apex"
+      ],
+      "answer": 3,
+      "explanation": "The course review identifies A clean, bright red flow profile directed toward the apex as the correct response. *(Practice review slide 29.)*",
+      "explanationImage": null,
+      "tags": [
+        "Normal Doppler Patterns",
+        "Hemodynamics",
+        "Spectral Doppler"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch09-q123",
+      "stem": "Before image acquisition, a sonographer checks their understanding of the following.  Which phase of the cardiac cycle describes the brief period when all four heart valves are closed, occurring immediately after the aortic valve closes and before the mitral valve opens?",
+      "image": null,
+      "options": [
+        "Isovolumic Contraction Time (IVCT)",
+        "Late Diastasis interval",
+        "Rapid diastolic Ejection Phase",
+        "Isovolumic Relaxation Time (IVRT)"
+      ],
+      "answer": 3,
+      "explanation": "The course review identifies Isovolumic Relaxation Time (IVRT) as the correct response. *(Practice review slide 31.)*",
+      "explanationImage": null,
+      "tags": [
+        "Normal Doppler Patterns",
+        "Hemodynamics",
+        "Spectral Doppler"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch09-q124",
+      "stem": "Before image acquisition, a sonographer checks their understanding of the following.  A sonographer measures the hepatic vein reversal ('A') wave and notes it is within the normal range. What is the standard upper limit for a normal adult 'A' wave velocity in the hepatic veins?",
+      "image": null,
+      "options": [
+        "1.5 m/s",
+        "0.8 m/s",
+        "2.0 m/s",
+        "0.3 m/s"
+      ],
+      "answer": 3,
+      "explanation": "The course review identifies 0.3 m/s as the correct response. *(Practice review slide 33.)*",
+      "explanationImage": null,
+      "tags": [
+        "Normal Doppler Patterns",
+        "Hemodynamics",
+        "Spectral Doppler"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch09-q125",
+      "stem": "Before image acquisition, a sonographer checks their understanding of the following.  When checking beam alignment for an aortic valve flow profile from an apical 5-chamber window, what is the maximum acceptable intercept angle to avoid significant velocity underestimation?",
+      "image": null,
+      "options": [
+        "Precisely 90 degrees, maximizing lateral resolution",
+        "Exactly 60 degrees, using automated angle-correction software",
+        "Less than 20 degrees, keeping the angle's cosine close to 1.0",
+        "Between 45 and 55 degrees to minimize baseline artifact"
+      ],
+      "answer": 2,
+      "explanation": "Keep the beam within ~20° of parallel so cosθ stays ≥ 0.94, holding velocity underestimation under ~6%. *(Practice review slide 35.)*",
+      "explanationImage": null,
+      "tags": [
+        "Normal Doppler Patterns",
+        "Hemodynamics",
+        "Spectral Doppler"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch09-q126",
+      "stem": "Before image acquisition, a sonographer checks their understanding of the following.  A sonographer records a normal antegrade trans-aortic velocity profile from an apex-down apical 5-chamber view. Where should this waveform appear on the spectral display?",
+      "image": null,
+      "options": [
+        "Entirely below the zero baseline as a negative frequency shift",
+        "Symmetrically duplicated on both sides of the baseline simultaneously",
+        "Entirely above the zero baseline as a positive frequency shift",
+        "Shifted to the far-right edge of the display grid independent of the baseline"
+      ],
+      "answer": 0,
+      "explanation": "The course review identifies Entirely below the zero baseline as a negative frequency shift as the correct response. *(Practice review slide 37.)*",
+      "explanationImage": null,
+      "tags": [
+        "Normal Doppler Patterns",
+        "Hemodynamics",
+        "Spectral Doppler"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch09-q127",
+      "stem": "In a laboratory teaching session, the instructor asks:  A sonographer obtains a pulsed wave Doppler trace of the LVOT from an apical 5-chamber view. Which description accurately reflects the normal spectral appearance of this waveform?",
+      "image": null,
+      "options": [
+        "Triphasic, turbulent flow displaying complete spectral broadening",
+        "Monophasic, early diastolic flow showing a high velocity peak",
+        "Biphasic, retrograde flow positioned entirely above the baseline",
+        "Monophasic, antegrade flow positioned entirely below the baseline"
+      ],
+      "answer": 3,
+      "explanation": "The course review identifies Monophasic, antegrade flow positioned entirely below the baseline as the correct response. *(Practice review slide 3.)*",
+      "explanationImage": null,
+      "tags": [
+        "Normal Doppler Patterns",
+        "Hemodynamics",
+        "Spectral Doppler"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch09-q128",
+      "stem": "In a laboratory teaching session, the instructor asks:  While measuring the peak systolic velocity of the LVOT in a healthy adult, which velocity range should the sonographer expect to record?",
+      "image": null,
+      "options": [
+        "0.3–0.5 m/s",
+        "1.5–2.5 m/s",
+        "3.0–4.0 m/s",
+        "0.7–1.1 m/s"
+      ],
+      "answer": 3,
+      "explanation": "The course review identifies 0.7–1.1 m/s as the correct response. *(Practice review slide 5.)*",
+      "explanationImage": null,
+      "tags": [
+        "Normal Doppler Patterns",
+        "Hemodynamics",
+        "Spectral Doppler"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch09-q129",
+      "stem": "In a laboratory teaching session, the instructor asks:  A sonographer evaluates a normal trans-mitral flow profile from the apical 4-chamber view. Which combination correctly identifies the timing and direction of the normal E and A waves?",
+      "image": null,
+      "options": [
+        "Diastolic flow directed away from the transducer, appearing below the baseline",
+        "Systolic flow directed toward the transducer, appearing above the baseline",
+        "Diastolic flow directed toward the transducer, appearing above the baseline",
+        "Systolic flow directed away from the transducer, appearing below the baseline"
+      ],
+      "answer": 2,
+      "explanation": "The course review identifies Diastolic flow directed toward the transducer, appearing above the baseline as the correct response. *(Practice review slide 7.)*",
+      "explanationImage": null,
+      "tags": [
+        "Normal Doppler Patterns",
+        "Hemodynamics",
+        "Spectral Doppler"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch09-q130",
+      "stem": "In a laboratory teaching session, the instructor asks:  What is the normal physiological upper velocity limit expected for blood flow passing through a healthy adult mitral valve?",
+      "image": null,
+      "options": [
+        "0.4 m/s",
+        "1.3 m/s",
+        "3.5 m/s",
+        "2.0 m/s"
+      ],
+      "answer": 1,
+      "explanation": "The course review identifies 1.3 m/s as the correct response. *(Practice review slide 9.)*",
+      "explanationImage": null,
+      "tags": [
+        "Normal Doppler Patterns",
+        "Hemodynamics",
+        "Spectral Doppler"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch09-q131",
+      "stem": "In a laboratory teaching session, the instructor asks:  A sonographer is optimizing the spectral Doppler profile of the normal aortic valve from an apical 5-chamber view. What is the expected physiological peak velocity range for a normal adult?",
+      "image": null,
+      "options": [
+        "0.5–0.8 m/s",
+        "1.0–1.7 m/s",
+        "2.5–3.5 m/s",
+        "4.0 m/s or higher"
+      ],
+      "answer": 1,
+      "explanation": "The course review identifies 1.0–1.7 m/s as the correct response. *(Practice review slide 11.)*",
+      "explanationImage": null,
+      "tags": [
+        "Normal Doppler Patterns",
+        "Hemodynamics",
+        "Spectral Doppler"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch09-q132",
+      "stem": "In a laboratory teaching session, the instructor asks:  What is the standard normal velocity range for blood flowing through a healthy adult pulmonic valve during ventricular ejection?",
+      "image": null,
+      "options": [
+        "1.5–2.2 m/s",
+        "0.6–0.9 m/s",
+        "0.1–0.3 m/s",
+        "1.0–1.7 m/s"
+      ],
+      "answer": 1,
+      "explanation": "The course review identifies 0.6–0.9 m/s as the correct response. *(Practice review slide 13.)*",
+      "explanationImage": null,
+      "tags": [
+        "Normal Doppler Patterns",
+        "Hemodynamics",
+        "Spectral Doppler"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch09-q133",
+      "stem": "In a laboratory teaching session, the instructor asks:  During an evaluation of normal pulmonary venous flow, what causes the brief, below-the-baseline velocity wave known as the 'Ar' wave?",
+      "image": null,
+      "options": [
+        "The closure of the aortic valve leaflets",
+        "Rapid ventricular suction pulling blood forward into the ventricle",
+        "The rapid drop in pressure inside the chest",
+        "Left atrial contraction forcing blood backward toward the pulmonary veins"
+      ],
+      "answer": 3,
+      "explanation": "The course review identifies Left atrial contraction forcing blood backward toward the pulmonary veins as the correct response. *(Practice review slide 15.)*",
+      "explanationImage": null,
+      "tags": [
+        "Normal Doppler Patterns",
+        "Hemodynamics",
+        "Spectral Doppler"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch09-q134",
+      "stem": "In a laboratory teaching session, the instructor asks:  A sonographer records normal hepatic vein flow from a subcostal window. Which directional pattern is considered normal during ventricular systole?",
+      "image": null,
+      "options": [
+        "Retrograde flow moving toward the transducer, appearing above the baseline as an 'S' wave",
+        "Antegrade flow moving away from the transducer, appearing below the baseline as a large systolic 'S' wave",
+        "Continuous, non-fluctuating flow that remains locked at 1.5 m/s",
+        "A brief, isolated spike occurring during the isovolumic contraction phase"
+      ],
+      "answer": 1,
+      "explanation": "The course review identifies Antegrade flow moving away from the transducer, appearing below the baseline as a large systolic 'S' wave as the correct response. *(Practice review slide 17.)*",
+      "explanationImage": null,
+      "tags": [
+        "Normal Doppler Patterns",
+        "Hemodynamics",
+        "Spectral Doppler"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch09-q135",
+      "stem": "In a laboratory teaching session, the instructor asks:  How does the duration of the normal pulmonary vein atrial reversal wave ('Ar') compare to the duration of the trans-mitral diastolic 'A' wave?",
+      "image": null,
+      "options": [
+        "The 'Ar' wave maintains a fixed duration, unrelated to the 'A' wave",
+        "The 'Ar' wave duration is completely independent of ventricular filling dynamics",
+        "The normal 'Ar' wave duration is twice as long as the trans-mitral 'A' wave duration",
+        "The normal 'Ar' wave duration is shorter than or equal to the trans-mitral 'A' wave duration"
+      ],
+      "answer": 3,
+      "explanation": "Normally the pulmonary-vein reversal (Ar) ends before or with the mitral A wave, so Ar duration ≤ A duration. An Ar that outlasts A signals elevated LV end-diastolic pressure. *(Practice review slide 19.)*",
+      "explanationImage": null,
+      "tags": [
+        "Normal Doppler Patterns",
+        "Hemodynamics",
+        "Spectral Doppler"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch09-q136",
+      "stem": "In a laboratory teaching session, the instructor asks:  You hear a sharp, clean 'whip' sound at the very beginning and end of the systolic waveform on the spectral Doppler audio. What is the source of this sound?",
+      "image": null,
+      "options": [
+        "High-velocity turbulent blood flow through a narrowed opening",
+        "The physical movement of the valve leaflets opening and closing",
+        "An artifact caused by setting the system's wall filter too high",
+        "Normal laminar flow passing smoothly through the centre of the valve"
+      ],
+      "answer": 1,
+      "explanation": "The course review identifies The physical movement of the valve leaflets opening and closing as the correct response. *(Practice review slide 21.)*",
+      "explanationImage": null,
+      "tags": [
+        "Normal Doppler Patterns",
+        "Hemodynamics",
+        "Spectral Doppler"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch09-q137",
+      "stem": "In a laboratory teaching session, the instructor asks:  A sonographer captures a normal aortic valve flow profile and notes a clear space underneath the dark outer curve of the systolic waveform. What does this clear window signify?",
+      "image": null,
+      "options": [
+        "Severe spectral broadening caused by turbulent flow pathways",
+        "An artifact caused by raising the spectral Doppler gain control",
+        "Laminar flow, indicating the red blood cells are moving at a uniform velocity",
+        "Signal loss from positioning the transducer perpendicular to the flow"
+      ],
+      "answer": 2,
+      "explanation": "The course review identifies Laminar flow, indicating the red blood cells are moving at a uniform velocity as the correct response. *(Practice review slide 23.)*",
+      "explanationImage": null,
+      "tags": [
+        "Normal Doppler Patterns",
+        "Hemodynamics",
+        "Spectral Doppler"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch09-q138",
+      "stem": "In a laboratory teaching session, the instructor asks:  A sonographer is measuring the velocity time integral (VTI) of the LVOT. What information does the VTI value provide?",
+      "image": null,
+      "options": [
+        "The distance the blood pool travels through the tract during a single cardiac cycle",
+        "The exact time required for the valve leaflets to close completely",
+        "The peak instantaneous pressure drop across the valve plane",
+        "The global stiffness index of the ventricular myocardium"
+      ],
+      "answer": 0,
+      "explanation": "The course review identifies The distance the blood pool travels through the tract during a single cardiac cycle as the correct response. *(Practice review slide 25.)*",
+      "explanationImage": null,
+      "tags": [
+        "Normal Doppler Patterns",
+        "Hemodynamics",
+        "Spectral Doppler"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch09-q139",
+      "stem": "In a laboratory teaching session, the instructor asks:  What is the expected normal velocity range for blood flowing through a healthy adult tricuspid valve during early diastolic filling?",
+      "image": null,
+      "options": [
+        "2.0–2.5 m/s",
+        "0.05–0.1 m/s",
+        "0.3–0.7 m/s",
+        "1.2–1.8 m/s"
+      ],
+      "answer": 2,
+      "explanation": "The course review identifies 0.3–0.7 m/s as the correct response. *(Practice review slide 27.)*",
+      "explanationImage": null,
+      "tags": [
+        "Normal Doppler Patterns",
+        "Hemodynamics",
+        "Spectral Doppler"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch09-q140",
+      "stem": "In a laboratory teaching session, the instructor asks:  A sonographer checks the colour Doppler profile of a normal mitral valve from an apical 4-chamber view. During early diastole, which colour pattern should appear across the valve plane?",
+      "image": null,
+      "options": [
+        "A clean, bright red flow profile directed toward the apex",
+        "A dark blue flow profile directed back into the left atrium",
+        "A thick black band indicating total signal loss from a high wall filter",
+        "A mosaic mixture of green and yellow pixels covering the entire chamber"
+      ],
+      "answer": 0,
+      "explanation": "The course review identifies A clean, bright red flow profile directed toward the apex as the correct response. *(Practice review slide 29.)*",
+      "explanationImage": null,
+      "tags": [
+        "Normal Doppler Patterns",
+        "Hemodynamics",
+        "Spectral Doppler"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch09-q141",
+      "stem": "In a laboratory teaching session, the instructor asks:  Which phase of the cardiac cycle describes the brief period when all four heart valves are closed, occurring immediately after the aortic valve closes and before the mitral valve opens?",
+      "image": null,
+      "options": [
+        "Rapid diastolic Ejection Phase",
+        "Late Diastasis interval",
+        "Isovolumic Relaxation Time (IVRT)",
+        "Isovolumic Contraction Time (IVCT)"
+      ],
+      "answer": 2,
+      "explanation": "The course review identifies Isovolumic Relaxation Time (IVRT) as the correct response. *(Practice review slide 31.)*",
+      "explanationImage": null,
+      "tags": [
+        "Normal Doppler Patterns",
+        "Hemodynamics",
+        "Spectral Doppler"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch09-q142",
+      "stem": "In a laboratory teaching session, the instructor asks:  A sonographer measures the hepatic vein reversal ('A') wave and notes it is within the normal range. What is the standard upper limit for a normal adult 'A' wave velocity in the hepatic veins?",
+      "image": null,
+      "options": [
+        "1.5 m/s",
+        "0.8 m/s",
+        "0.3 m/s",
+        "2.0 m/s"
+      ],
+      "answer": 2,
+      "explanation": "The course review identifies 0.3 m/s as the correct response. *(Practice review slide 33.)*",
+      "explanationImage": null,
+      "tags": [
+        "Normal Doppler Patterns",
+        "Hemodynamics",
+        "Spectral Doppler"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch09-q143",
+      "stem": "In a laboratory teaching session, the instructor asks:  When checking beam alignment for an aortic valve flow profile from an apical 5-chamber window, what is the maximum acceptable intercept angle to avoid significant velocity underestimation?",
+      "image": null,
+      "options": [
+        "Precisely 90 degrees, maximizing lateral resolution",
+        "Between 45 and 55 degrees to minimize baseline artifact",
+        "Exactly 60 degrees, using automated angle-correction software",
+        "Less than 20 degrees, keeping the angle's cosine close to 1.0"
+      ],
+      "answer": 3,
+      "explanation": "Keep the beam within ~20° of parallel so cosθ stays ≥ 0.94, holding velocity underestimation under ~6%. *(Practice review slide 35.)*",
+      "explanationImage": null,
+      "tags": [
+        "Normal Doppler Patterns",
+        "Hemodynamics",
+        "Spectral Doppler"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch09-q144",
+      "stem": "In a laboratory teaching session, the instructor asks:  A sonographer records a normal antegrade trans-aortic velocity profile from an apex-down apical 5-chamber view. Where should this waveform appear on the spectral display?",
+      "image": null,
+      "options": [
+        "Symmetrically duplicated on both sides of the baseline simultaneously",
+        "Entirely below the zero baseline as a negative frequency shift",
+        "Entirely above the zero baseline as a positive frequency shift",
+        "Shifted to the far-right edge of the display grid independent of the baseline"
+      ],
+      "answer": 1,
+      "explanation": "The course review identifies Entirely below the zero baseline as a negative frequency shift as the correct response. *(Practice review slide 37.)*",
+      "explanationImage": null,
+      "tags": [
+        "Normal Doppler Patterns",
+        "Hemodynamics",
+        "Spectral Doppler"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch09-q145",
+      "stem": "During a mock adult echocardiography board examination, consider the following.  A sonographer obtains a pulsed wave Doppler trace of the LVOT from an apical 5-chamber view. Which description accurately reflects the normal spectral appearance of this waveform?",
+      "image": null,
+      "options": [
+        "Triphasic, turbulent flow displaying complete spectral broadening",
+        "Biphasic, retrograde flow positioned entirely above the baseline",
+        "Monophasic, antegrade flow positioned entirely below the baseline",
+        "Monophasic, early diastolic flow showing a high velocity peak"
+      ],
+      "answer": 2,
+      "explanation": "The course review identifies Monophasic, antegrade flow positioned entirely below the baseline as the correct response. *(Practice review slide 3.)*",
+      "explanationImage": null,
+      "tags": [
+        "Normal Doppler Patterns",
+        "Hemodynamics",
+        "Spectral Doppler"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch09-q146",
+      "stem": "During a mock adult echocardiography board examination, consider the following.  While measuring the peak systolic velocity of the LVOT in a healthy adult, which velocity range should the sonographer expect to record?",
+      "image": null,
+      "options": [
+        "0.7–1.1 m/s",
+        "3.0–4.0 m/s",
+        "0.3–0.5 m/s",
+        "1.5–2.5 m/s"
+      ],
+      "answer": 0,
+      "explanation": "The course review identifies 0.7–1.1 m/s as the correct response. *(Practice review slide 5.)*",
+      "explanationImage": null,
+      "tags": [
+        "Normal Doppler Patterns",
+        "Hemodynamics",
+        "Spectral Doppler"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch09-q147",
+      "stem": "During a mock adult echocardiography board examination, consider the following.  A sonographer evaluates a normal trans-mitral flow profile from the apical 4-chamber view. Which combination correctly identifies the timing and direction of the normal E and A waves?",
+      "image": null,
+      "options": [
+        "Systolic flow directed away from the transducer, appearing below the baseline",
+        "Diastolic flow directed toward the transducer, appearing above the baseline",
+        "Diastolic flow directed away from the transducer, appearing below the baseline",
+        "Systolic flow directed toward the transducer, appearing above the baseline"
+      ],
+      "answer": 1,
+      "explanation": "The course review identifies Diastolic flow directed toward the transducer, appearing above the baseline as the correct response. *(Practice review slide 7.)*",
+      "explanationImage": null,
+      "tags": [
+        "Normal Doppler Patterns",
+        "Hemodynamics",
+        "Spectral Doppler"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch09-q148",
+      "stem": "During a mock adult echocardiography board examination, consider the following.  What is the normal physiological upper velocity limit expected for blood flow passing through a healthy adult mitral valve?",
+      "image": null,
+      "options": [
+        "0.4 m/s",
+        "1.3 m/s",
+        "3.5 m/s",
+        "2.0 m/s"
+      ],
+      "answer": 1,
+      "explanation": "The course review identifies 1.3 m/s as the correct response. *(Practice review slide 9.)*",
+      "explanationImage": null,
+      "tags": [
+        "Normal Doppler Patterns",
+        "Hemodynamics",
+        "Spectral Doppler"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch09-q149",
+      "stem": "During a mock adult echocardiography board examination, consider the following.  A sonographer is optimizing the spectral Doppler profile of the normal aortic valve from an apical 5-chamber view. What is the expected physiological peak velocity range for a normal adult?",
+      "image": null,
+      "options": [
+        "2.5–3.5 m/s",
+        "4.0 m/s or higher",
+        "0.5–0.8 m/s",
+        "1.0–1.7 m/s"
+      ],
+      "answer": 3,
+      "explanation": "The course review identifies 1.0–1.7 m/s as the correct response. *(Practice review slide 11.)*",
+      "explanationImage": null,
+      "tags": [
+        "Normal Doppler Patterns",
+        "Hemodynamics",
+        "Spectral Doppler"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch09-q150",
+      "stem": "During a mock adult echocardiography board examination, consider the following.  What is the standard normal velocity range for blood flowing through a healthy adult pulmonic valve during ventricular ejection?",
+      "image": null,
+      "options": [
+        "0.1–0.3 m/s",
+        "1.0–1.7 m/s",
+        "0.6–0.9 m/s",
+        "1.5–2.2 m/s"
+      ],
+      "answer": 2,
+      "explanation": "The course review identifies 0.6–0.9 m/s as the correct response. *(Practice review slide 13.)*",
+      "explanationImage": null,
+      "tags": [
+        "Normal Doppler Patterns",
+        "Hemodynamics",
+        "Spectral Doppler"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch09-q151",
+      "stem": "During a mock adult echocardiography board examination, consider the following.  During an evaluation of normal pulmonary venous flow, what causes the brief, below-the-baseline velocity wave known as the 'Ar' wave?",
+      "image": null,
+      "options": [
+        "Left atrial contraction forcing blood backward toward the pulmonary veins",
+        "The rapid drop in pressure inside the chest",
+        "The closure of the aortic valve leaflets",
+        "Rapid ventricular suction pulling blood forward into the ventricle"
+      ],
+      "answer": 0,
+      "explanation": "The course review identifies Left atrial contraction forcing blood backward toward the pulmonary veins as the correct response. *(Practice review slide 15.)*",
+      "explanationImage": null,
+      "tags": [
+        "Normal Doppler Patterns",
+        "Hemodynamics",
+        "Spectral Doppler"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch09-q152",
+      "stem": "During a mock adult echocardiography board examination, consider the following.  A sonographer records normal hepatic vein flow from a subcostal window. Which directional pattern is considered normal during ventricular systole?",
+      "image": null,
+      "options": [
+        "Continuous, non-fluctuating flow that remains locked at 1.5 m/s",
+        "Retrograde flow moving toward the transducer, appearing above the baseline as an 'S' wave",
+        "A brief, isolated spike occurring during the isovolumic contraction phase",
+        "Antegrade flow moving away from the transducer, appearing below the baseline as a large systolic 'S' wave"
+      ],
+      "answer": 3,
+      "explanation": "The course review identifies Antegrade flow moving away from the transducer, appearing below the baseline as a large systolic 'S' wave as the correct response. *(Practice review slide 17.)*",
+      "explanationImage": null,
+      "tags": [
+        "Normal Doppler Patterns",
+        "Hemodynamics",
+        "Spectral Doppler"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch09-q153",
+      "stem": "During a mock adult echocardiography board examination, consider the following.  How does the duration of the normal pulmonary vein atrial reversal wave ('Ar') compare to the duration of the trans-mitral diastolic 'A' wave?",
+      "image": null,
+      "options": [
+        "The 'Ar' wave duration is completely independent of ventricular filling dynamics",
+        "The normal 'Ar' wave duration is shorter than or equal to the trans-mitral 'A' wave duration",
+        "The 'Ar' wave maintains a fixed duration, unrelated to the 'A' wave",
+        "The normal 'Ar' wave duration is twice as long as the trans-mitral 'A' wave duration"
+      ],
+      "answer": 1,
+      "explanation": "Normally the pulmonary-vein reversal (Ar) ends before or with the mitral A wave, so Ar duration ≤ A duration. An Ar that outlasts A signals elevated LV end-diastolic pressure. *(Practice review slide 19.)*",
+      "explanationImage": null,
+      "tags": [
+        "Normal Doppler Patterns",
+        "Hemodynamics",
+        "Spectral Doppler"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch09-q154",
+      "stem": "During a mock adult echocardiography board examination, consider the following.  You hear a sharp, clean 'whip' sound at the very beginning and end of the systolic waveform on the spectral Doppler audio. What is the source of this sound?",
+      "image": null,
+      "options": [
+        "An artifact caused by setting the system's wall filter too high",
+        "The physical movement of the valve leaflets opening and closing",
+        "High-velocity turbulent blood flow through a narrowed opening",
+        "Normal laminar flow passing smoothly through the centre of the valve"
+      ],
+      "answer": 1,
+      "explanation": "The course review identifies The physical movement of the valve leaflets opening and closing as the correct response. *(Practice review slide 21.)*",
+      "explanationImage": null,
+      "tags": [
+        "Normal Doppler Patterns",
+        "Hemodynamics",
+        "Spectral Doppler"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch09-q155",
+      "stem": "During a mock adult echocardiography board examination, consider the following.  A sonographer captures a normal aortic valve flow profile and notes a clear space underneath the dark outer curve of the systolic waveform. What does this clear window signify?",
+      "image": null,
+      "options": [
+        "Severe spectral broadening caused by turbulent flow pathways",
+        "An artifact caused by raising the spectral Doppler gain control",
+        "Signal loss from positioning the transducer perpendicular to the flow",
+        "Laminar flow, indicating the red blood cells are moving at a uniform velocity"
+      ],
+      "answer": 3,
+      "explanation": "The course review identifies Laminar flow, indicating the red blood cells are moving at a uniform velocity as the correct response. *(Practice review slide 23.)*",
+      "explanationImage": null,
+      "tags": [
+        "Normal Doppler Patterns",
+        "Hemodynamics",
+        "Spectral Doppler"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch09-q156",
+      "stem": "During a mock adult echocardiography board examination, consider the following.  A sonographer is measuring the velocity time integral (VTI) of the LVOT. What information does the VTI value provide?",
+      "image": null,
+      "options": [
+        "The global stiffness index of the ventricular myocardium",
+        "The exact time required for the valve leaflets to close completely",
+        "The peak instantaneous pressure drop across the valve plane",
+        "The distance the blood pool travels through the tract during a single cardiac cycle"
+      ],
+      "answer": 3,
+      "explanation": "The course review identifies The distance the blood pool travels through the tract during a single cardiac cycle as the correct response. *(Practice review slide 25.)*",
+      "explanationImage": null,
+      "tags": [
+        "Normal Doppler Patterns",
+        "Hemodynamics",
+        "Spectral Doppler"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch09-q157",
+      "stem": "During a mock adult echocardiography board examination, consider the following.  What is the expected normal velocity range for blood flowing through a healthy adult tricuspid valve during early diastolic filling?",
+      "image": null,
+      "options": [
+        "0.05–0.1 m/s",
+        "0.3–0.7 m/s",
+        "1.2–1.8 m/s",
+        "2.0–2.5 m/s"
+      ],
+      "answer": 1,
+      "explanation": "The course review identifies 0.3–0.7 m/s as the correct response. *(Practice review slide 27.)*",
+      "explanationImage": null,
+      "tags": [
+        "Normal Doppler Patterns",
+        "Hemodynamics",
+        "Spectral Doppler"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch09-q158",
+      "stem": "During a mock adult echocardiography board examination, consider the following.  A sonographer checks the colour Doppler profile of a normal mitral valve from an apical 4-chamber view. During early diastole, which colour pattern should appear across the valve plane?",
+      "image": null,
+      "options": [
+        "A clean, bright red flow profile directed toward the apex",
+        "A mosaic mixture of green and yellow pixels covering the entire chamber",
+        "A thick black band indicating total signal loss from a high wall filter",
+        "A dark blue flow profile directed back into the left atrium"
+      ],
+      "answer": 0,
+      "explanation": "The course review identifies A clean, bright red flow profile directed toward the apex as the correct response. *(Practice review slide 29.)*",
+      "explanationImage": null,
+      "tags": [
+        "Normal Doppler Patterns",
+        "Hemodynamics",
+        "Spectral Doppler"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch09-q159",
+      "stem": "During a mock adult echocardiography board examination, consider the following.  Which phase of the cardiac cycle describes the brief period when all four heart valves are closed, occurring immediately after the aortic valve closes and before the mitral valve opens?",
+      "image": null,
+      "options": [
+        "Late Diastasis interval",
+        "Isovolumic Relaxation Time (IVRT)",
+        "Isovolumic Contraction Time (IVCT)",
+        "Rapid diastolic Ejection Phase"
+      ],
+      "answer": 1,
+      "explanation": "The course review identifies Isovolumic Relaxation Time (IVRT) as the correct response. *(Practice review slide 31.)*",
+      "explanationImage": null,
+      "tags": [
+        "Normal Doppler Patterns",
+        "Hemodynamics",
+        "Spectral Doppler"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch09-q160",
+      "stem": "During a mock adult echocardiography board examination, consider the following.  A sonographer measures the hepatic vein reversal ('A') wave and notes it is within the normal range. What is the standard upper limit for a normal adult 'A' wave velocity in the hepatic veins?",
+      "image": null,
+      "options": [
+        "0.3 m/s",
+        "0.8 m/s",
+        "1.5 m/s",
+        "2.0 m/s"
+      ],
+      "answer": 0,
+      "explanation": "The course review identifies 0.3 m/s as the correct response. *(Practice review slide 33.)*",
+      "explanationImage": null,
+      "tags": [
+        "Normal Doppler Patterns",
+        "Hemodynamics",
+        "Spectral Doppler"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch09-q161",
+      "stem": "During a mock adult echocardiography board examination, consider the following.  When checking beam alignment for an aortic valve flow profile from an apical 5-chamber window, what is the maximum acceptable intercept angle to avoid significant velocity underestimation?",
+      "image": null,
+      "options": [
+        "Between 45 and 55 degrees to minimize baseline artifact",
+        "Exactly 60 degrees, using automated angle-correction software",
+        "Precisely 90 degrees, maximizing lateral resolution",
+        "Less than 20 degrees, keeping the angle's cosine close to 1.0"
+      ],
+      "answer": 3,
+      "explanation": "Keep the beam within ~20° of parallel so cosθ stays ≥ 0.94, holding velocity underestimation under ~6%. *(Practice review slide 35.)*",
+      "explanationImage": null,
+      "tags": [
+        "Normal Doppler Patterns",
+        "Hemodynamics",
+        "Spectral Doppler"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch09-q162",
+      "stem": "During a mock adult echocardiography board examination, consider the following.  A sonographer records a normal antegrade trans-aortic velocity profile from an apex-down apical 5-chamber view. Where should this waveform appear on the spectral display?",
+      "image": null,
+      "options": [
+        "Entirely below the zero baseline as a negative frequency shift",
+        "Shifted to the far-right edge of the display grid independent of the baseline",
+        "Symmetrically duplicated on both sides of the baseline simultaneously",
+        "Entirely above the zero baseline as a positive frequency shift"
+      ],
+      "answer": 0,
+      "explanation": "The course review identifies Entirely below the zero baseline as a negative frequency shift as the correct response. *(Practice review slide 37.)*",
+      "explanationImage": null,
+      "tags": [
+        "Normal Doppler Patterns",
+        "Hemodynamics",
+        "Spectral Doppler"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch09-q163",
+      "stem": "A sonographer is reviewing the relevant anatomy, technique, or physiology.  A sonographer obtains a pulsed wave Doppler trace of the LVOT from an apical 5-chamber view. Which description accurately reflects the normal spectral appearance of this waveform?",
+      "image": null,
+      "options": [
+        "Monophasic, early diastolic flow showing a high velocity peak",
+        "Biphasic, retrograde flow positioned entirely above the baseline",
+        "Triphasic, turbulent flow displaying complete spectral broadening",
+        "Monophasic, antegrade flow positioned entirely below the baseline"
+      ],
+      "answer": 3,
+      "explanation": "The course review identifies Monophasic, antegrade flow positioned entirely below the baseline as the correct response. *(Practice review slide 3.)*",
+      "explanationImage": null,
+      "tags": [
+        "Normal Doppler Patterns",
+        "Hemodynamics",
+        "Spectral Doppler"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch09-q164",
+      "stem": "A sonographer is reviewing the relevant anatomy, technique, or physiology.  While measuring the peak systolic velocity of the LVOT in a healthy adult, which velocity range should the sonographer expect to record?",
+      "image": null,
+      "options": [
+        "0.3–0.5 m/s",
+        "3.0–4.0 m/s",
+        "0.7–1.1 m/s",
+        "1.5–2.5 m/s"
+      ],
+      "answer": 2,
+      "explanation": "The course review identifies 0.7–1.1 m/s as the correct response. *(Practice review slide 5.)*",
+      "explanationImage": null,
+      "tags": [
+        "Normal Doppler Patterns",
+        "Hemodynamics",
+        "Spectral Doppler"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch09-q165",
+      "stem": "A sonographer is reviewing the relevant anatomy, technique, or physiology.  A sonographer evaluates a normal trans-mitral flow profile from the apical 4-chamber view. Which combination correctly identifies the timing and direction of the normal E and A waves?",
+      "image": null,
+      "options": [
+        "Systolic flow directed away from the transducer, appearing below the baseline",
+        "Diastolic flow directed toward the transducer, appearing above the baseline",
+        "Systolic flow directed toward the transducer, appearing above the baseline",
+        "Diastolic flow directed away from the transducer, appearing below the baseline"
+      ],
+      "answer": 1,
+      "explanation": "The course review identifies Diastolic flow directed toward the transducer, appearing above the baseline as the correct response. *(Practice review slide 7.)*",
+      "explanationImage": null,
+      "tags": [
+        "Normal Doppler Patterns",
+        "Hemodynamics",
+        "Spectral Doppler"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch09-q166",
+      "stem": "A sonographer is reviewing the relevant anatomy, technique, or physiology.  What is the normal physiological upper velocity limit expected for blood flow passing through a healthy adult mitral valve?",
+      "image": null,
+      "options": [
+        "3.5 m/s",
+        "1.3 m/s",
+        "2.0 m/s",
+        "0.4 m/s"
+      ],
+      "answer": 1,
+      "explanation": "The course review identifies 1.3 m/s as the correct response. *(Practice review slide 9.)*",
+      "explanationImage": null,
+      "tags": [
+        "Normal Doppler Patterns",
+        "Hemodynamics",
+        "Spectral Doppler"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch09-q167",
+      "stem": "A sonographer is reviewing the relevant anatomy, technique, or physiology.  A sonographer is optimizing the spectral Doppler profile of the normal aortic valve from an apical 5-chamber view. What is the expected physiological peak velocity range for a normal adult?",
+      "image": null,
+      "options": [
+        "0.5–0.8 m/s",
+        "1.0–1.7 m/s",
+        "2.5–3.5 m/s",
+        "4.0 m/s or higher"
+      ],
+      "answer": 1,
+      "explanation": "The course review identifies 1.0–1.7 m/s as the correct response. *(Practice review slide 11.)*",
+      "explanationImage": null,
+      "tags": [
+        "Normal Doppler Patterns",
+        "Hemodynamics",
+        "Spectral Doppler"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch09-q168",
+      "stem": "A sonographer is reviewing the relevant anatomy, technique, or physiology.  What is the standard normal velocity range for blood flowing through a healthy adult pulmonic valve during ventricular ejection?",
+      "image": null,
+      "options": [
+        "1.0–1.7 m/s",
+        "0.1–0.3 m/s",
+        "0.6–0.9 m/s",
+        "1.5–2.2 m/s"
+      ],
+      "answer": 2,
+      "explanation": "The course review identifies 0.6–0.9 m/s as the correct response. *(Practice review slide 13.)*",
+      "explanationImage": null,
+      "tags": [
+        "Normal Doppler Patterns",
+        "Hemodynamics",
+        "Spectral Doppler"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch09-q169",
+      "stem": "A sonographer is reviewing the relevant anatomy, technique, or physiology.  During an evaluation of normal pulmonary venous flow, what causes the brief, below-the-baseline velocity wave known as the 'Ar' wave?",
+      "image": null,
+      "options": [
+        "Rapid ventricular suction pulling blood forward into the ventricle",
+        "Left atrial contraction forcing blood backward toward the pulmonary veins",
+        "The rapid drop in pressure inside the chest",
+        "The closure of the aortic valve leaflets"
+      ],
+      "answer": 1,
+      "explanation": "The course review identifies Left atrial contraction forcing blood backward toward the pulmonary veins as the correct response. *(Practice review slide 15.)*",
+      "explanationImage": null,
+      "tags": [
+        "Normal Doppler Patterns",
+        "Hemodynamics",
+        "Spectral Doppler"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch09-q170",
+      "stem": "A sonographer is reviewing the relevant anatomy, technique, or physiology.  A sonographer records normal hepatic vein flow from a subcostal window. Which directional pattern is considered normal during ventricular systole?",
+      "image": null,
+      "options": [
+        "A brief, isolated spike occurring during the isovolumic contraction phase",
+        "Continuous, non-fluctuating flow that remains locked at 1.5 m/s",
+        "Antegrade flow moving away from the transducer, appearing below the baseline as a large systolic 'S' wave",
+        "Retrograde flow moving toward the transducer, appearing above the baseline as an 'S' wave"
+      ],
+      "answer": 2,
+      "explanation": "The course review identifies Antegrade flow moving away from the transducer, appearing below the baseline as a large systolic 'S' wave as the correct response. *(Practice review slide 17.)*",
+      "explanationImage": null,
+      "tags": [
+        "Normal Doppler Patterns",
+        "Hemodynamics",
+        "Spectral Doppler"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch09-q171",
+      "stem": "A sonographer is reviewing the relevant anatomy, technique, or physiology.  How does the duration of the normal pulmonary vein atrial reversal wave ('Ar') compare to the duration of the trans-mitral diastolic 'A' wave?",
+      "image": null,
+      "options": [
+        "The normal 'Ar' wave duration is twice as long as the trans-mitral 'A' wave duration",
+        "The 'Ar' wave duration is completely independent of ventricular filling dynamics",
+        "The normal 'Ar' wave duration is shorter than or equal to the trans-mitral 'A' wave duration",
+        "The 'Ar' wave maintains a fixed duration, unrelated to the 'A' wave"
+      ],
+      "answer": 2,
+      "explanation": "Normally the pulmonary-vein reversal (Ar) ends before or with the mitral A wave, so Ar duration ≤ A duration. An Ar that outlasts A signals elevated LV end-diastolic pressure. *(Practice review slide 19.)*",
+      "explanationImage": null,
+      "tags": [
+        "Normal Doppler Patterns",
+        "Hemodynamics",
+        "Spectral Doppler"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch09-q172",
+      "stem": "A sonographer is reviewing the relevant anatomy, technique, or physiology.  You hear a sharp, clean 'whip' sound at the very beginning and end of the systolic waveform on the spectral Doppler audio. What is the source of this sound?",
+      "image": null,
+      "options": [
+        "The physical movement of the valve leaflets opening and closing",
+        "High-velocity turbulent blood flow through a narrowed opening",
+        "Normal laminar flow passing smoothly through the centre of the valve",
+        "An artifact caused by setting the system's wall filter too high"
+      ],
+      "answer": 0,
+      "explanation": "The course review identifies The physical movement of the valve leaflets opening and closing as the correct response. *(Practice review slide 21.)*",
+      "explanationImage": null,
+      "tags": [
+        "Normal Doppler Patterns",
+        "Hemodynamics",
+        "Spectral Doppler"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch09-q173",
+      "stem": "A sonographer is reviewing the relevant anatomy, technique, or physiology.  A sonographer captures a normal aortic valve flow profile and notes a clear space underneath the dark outer curve of the systolic waveform. What does this clear window signify?",
+      "image": null,
+      "options": [
+        "Severe spectral broadening caused by turbulent flow pathways",
+        "Signal loss from positioning the transducer perpendicular to the flow",
+        "Laminar flow, indicating the red blood cells are moving at a uniform velocity",
+        "An artifact caused by raising the spectral Doppler gain control"
+      ],
+      "answer": 2,
+      "explanation": "The course review identifies Laminar flow, indicating the red blood cells are moving at a uniform velocity as the correct response. *(Practice review slide 23.)*",
+      "explanationImage": null,
+      "tags": [
+        "Normal Doppler Patterns",
+        "Hemodynamics",
+        "Spectral Doppler"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch09-q174",
+      "stem": "A sonographer is reviewing the relevant anatomy, technique, or physiology.  A sonographer is measuring the velocity time integral (VTI) of the LVOT. What information does the VTI value provide?",
+      "image": null,
+      "options": [
+        "The exact time required for the valve leaflets to close completely",
+        "The peak instantaneous pressure drop across the valve plane",
+        "The global stiffness index of the ventricular myocardium",
+        "The distance the blood pool travels through the tract during a single cardiac cycle"
+      ],
+      "answer": 3,
+      "explanation": "The course review identifies The distance the blood pool travels through the tract during a single cardiac cycle as the correct response. *(Practice review slide 25.)*",
+      "explanationImage": null,
+      "tags": [
+        "Normal Doppler Patterns",
+        "Hemodynamics",
+        "Spectral Doppler"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch09-q175",
+      "stem": "A sonographer is reviewing the relevant anatomy, technique, or physiology.  What is the expected normal velocity range for blood flowing through a healthy adult tricuspid valve during early diastolic filling?",
+      "image": null,
+      "options": [
+        "0.05–0.1 m/s",
+        "0.3–0.7 m/s",
+        "1.2–1.8 m/s",
+        "2.0–2.5 m/s"
+      ],
+      "answer": 1,
+      "explanation": "The course review identifies 0.3–0.7 m/s as the correct response. *(Practice review slide 27.)*",
+      "explanationImage": null,
+      "tags": [
+        "Normal Doppler Patterns",
+        "Hemodynamics",
+        "Spectral Doppler"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch09-q176",
+      "stem": "A sonographer is reviewing the relevant anatomy, technique, or physiology.  A sonographer checks the colour Doppler profile of a normal mitral valve from an apical 4-chamber view. During early diastole, which colour pattern should appear across the valve plane?",
+      "image": null,
+      "options": [
+        "A clean, bright red flow profile directed toward the apex",
+        "A mosaic mixture of green and yellow pixels covering the entire chamber",
+        "A dark blue flow profile directed back into the left atrium",
+        "A thick black band indicating total signal loss from a high wall filter"
+      ],
+      "answer": 0,
+      "explanation": "The course review identifies A clean, bright red flow profile directed toward the apex as the correct response. *(Practice review slide 29.)*",
+      "explanationImage": null,
+      "tags": [
+        "Normal Doppler Patterns",
+        "Hemodynamics",
+        "Spectral Doppler"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch09-q177",
+      "stem": "A sonographer is reviewing the relevant anatomy, technique, or physiology.  Which phase of the cardiac cycle describes the brief period when all four heart valves are closed, occurring immediately after the aortic valve closes and before the mitral valve opens?",
+      "image": null,
+      "options": [
+        "Rapid diastolic Ejection Phase",
+        "Isovolumic Relaxation Time (IVRT)",
+        "Late Diastasis interval",
+        "Isovolumic Contraction Time (IVCT)"
+      ],
+      "answer": 1,
+      "explanation": "The course review identifies Isovolumic Relaxation Time (IVRT) as the correct response. *(Practice review slide 31.)*",
+      "explanationImage": null,
+      "tags": [
+        "Normal Doppler Patterns",
+        "Hemodynamics",
+        "Spectral Doppler"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch09-q178",
+      "stem": "A sonographer is reviewing the relevant anatomy, technique, or physiology.  A sonographer measures the hepatic vein reversal ('A') wave and notes it is within the normal range. What is the standard upper limit for a normal adult 'A' wave velocity in the hepatic veins?",
+      "image": null,
+      "options": [
+        "2.0 m/s",
+        "1.5 m/s",
+        "0.8 m/s",
+        "0.3 m/s"
+      ],
+      "answer": 3,
+      "explanation": "The course review identifies 0.3 m/s as the correct response. *(Practice review slide 33.)*",
+      "explanationImage": null,
+      "tags": [
+        "Normal Doppler Patterns",
+        "Hemodynamics",
+        "Spectral Doppler"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch09-q179",
+      "stem": "A sonographer is reviewing the relevant anatomy, technique, or physiology.  When checking beam alignment for an aortic valve flow profile from an apical 5-chamber window, what is the maximum acceptable intercept angle to avoid significant velocity underestimation?",
+      "image": null,
+      "options": [
+        "Precisely 90 degrees, maximizing lateral resolution",
+        "Less than 20 degrees, keeping the angle's cosine close to 1.0",
+        "Exactly 60 degrees, using automated angle-correction software",
+        "Between 45 and 55 degrees to minimize baseline artifact"
+      ],
+      "answer": 1,
+      "explanation": "Keep the beam within ~20° of parallel so cosθ stays ≥ 0.94, holding velocity underestimation under ~6%. *(Practice review slide 35.)*",
+      "explanationImage": null,
+      "tags": [
+        "Normal Doppler Patterns",
+        "Hemodynamics",
+        "Spectral Doppler"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch09-q180",
+      "stem": "A sonographer is reviewing the relevant anatomy, technique, or physiology.  A sonographer records a normal antegrade trans-aortic velocity profile from an apex-down apical 5-chamber view. Where should this waveform appear on the spectral display?",
+      "image": null,
+      "options": [
+        "Entirely below the zero baseline as a negative frequency shift",
+        "Entirely above the zero baseline as a positive frequency shift",
+        "Symmetrically duplicated on both sides of the baseline simultaneously",
+        "Shifted to the far-right edge of the display grid independent of the baseline"
+      ],
+      "answer": 0,
+      "explanation": "The course review identifies Entirely below the zero baseline as a negative frequency shift as the correct response. *(Practice review slide 37.)*",
+      "explanationImage": null,
+      "tags": [
+        "Normal Doppler Patterns",
+        "Hemodynamics",
+        "Spectral Doppler"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch09-q181",
+      "stem": "During a routine adult transthoracic examination, the sonographer reviews the following concept.  A sonographer obtains a pulsed wave Doppler trace of the LVOT from an apical 5-chamber view. Which description accurately reflects the normal spectral appearance of this waveform?",
+      "image": null,
+      "options": [
+        "Monophasic, early diastolic flow showing a high velocity peak",
+        "Monophasic, antegrade flow positioned entirely below the baseline",
+        "Biphasic, retrograde flow positioned entirely above the baseline",
+        "Triphasic, turbulent flow displaying complete spectral broadening"
+      ],
+      "answer": 1,
+      "explanation": "The course review identifies Monophasic, antegrade flow positioned entirely below the baseline as the correct response. *(Practice review slide 3.)*",
+      "explanationImage": null,
+      "tags": [
+        "Normal Doppler Patterns",
+        "Hemodynamics",
+        "Spectral Doppler"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch09-q182",
+      "stem": "During a routine adult transthoracic examination, the sonographer reviews the following concept.  While measuring the peak systolic velocity of the LVOT in a healthy adult, which velocity range should the sonographer expect to record?",
+      "image": null,
+      "options": [
+        "3.0–4.0 m/s",
+        "0.3–0.5 m/s",
+        "0.7–1.1 m/s",
+        "1.5–2.5 m/s"
+      ],
+      "answer": 2,
+      "explanation": "The course review identifies 0.7–1.1 m/s as the correct response. *(Practice review slide 5.)*",
+      "explanationImage": null,
+      "tags": [
+        "Normal Doppler Patterns",
+        "Hemodynamics",
+        "Spectral Doppler"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch09-q183",
+      "stem": "During a routine adult transthoracic examination, the sonographer reviews the following concept.  A sonographer evaluates a normal trans-mitral flow profile from the apical 4-chamber view. Which combination correctly identifies the timing and direction of the normal E and A waves?",
+      "image": null,
+      "options": [
+        "Diastolic flow directed away from the transducer, appearing below the baseline",
+        "Diastolic flow directed toward the transducer, appearing above the baseline",
+        "Systolic flow directed toward the transducer, appearing above the baseline",
+        "Systolic flow directed away from the transducer, appearing below the baseline"
+      ],
+      "answer": 1,
+      "explanation": "The course review identifies Diastolic flow directed toward the transducer, appearing above the baseline as the correct response. *(Practice review slide 7.)*",
+      "explanationImage": null,
+      "tags": [
+        "Normal Doppler Patterns",
+        "Hemodynamics",
+        "Spectral Doppler"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch09-q184",
+      "stem": "During a routine adult transthoracic examination, the sonographer reviews the following concept.  What is the normal physiological upper velocity limit expected for blood flow passing through a healthy adult mitral valve?",
+      "image": null,
+      "options": [
+        "2.0 m/s",
+        "0.4 m/s",
+        "1.3 m/s",
+        "3.5 m/s"
+      ],
+      "answer": 2,
+      "explanation": "The course review identifies 1.3 m/s as the correct response. *(Practice review slide 9.)*",
+      "explanationImage": null,
+      "tags": [
+        "Normal Doppler Patterns",
+        "Hemodynamics",
+        "Spectral Doppler"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch09-q185",
+      "stem": "During a routine adult transthoracic examination, the sonographer reviews the following concept.  A sonographer is optimizing the spectral Doppler profile of the normal aortic valve from an apical 5-chamber view. What is the expected physiological peak velocity range for a normal adult?",
+      "image": null,
+      "options": [
+        "1.0–1.7 m/s",
+        "0.5–0.8 m/s",
+        "4.0 m/s or higher",
+        "2.5–3.5 m/s"
+      ],
+      "answer": 0,
+      "explanation": "The course review identifies 1.0–1.7 m/s as the correct response. *(Practice review slide 11.)*",
+      "explanationImage": null,
+      "tags": [
+        "Normal Doppler Patterns",
+        "Hemodynamics",
+        "Spectral Doppler"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch09-q186",
+      "stem": "During a routine adult transthoracic examination, the sonographer reviews the following concept.  What is the standard normal velocity range for blood flowing through a healthy adult pulmonic valve during ventricular ejection?",
+      "image": null,
+      "options": [
+        "0.6–0.9 m/s",
+        "0.1–0.3 m/s",
+        "1.0–1.7 m/s",
+        "1.5–2.2 m/s"
+      ],
+      "answer": 0,
+      "explanation": "The course review identifies 0.6–0.9 m/s as the correct response. *(Practice review slide 13.)*",
+      "explanationImage": null,
+      "tags": [
+        "Normal Doppler Patterns",
+        "Hemodynamics",
+        "Spectral Doppler"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch09-q187",
+      "stem": "During a routine adult transthoracic examination, the sonographer reviews the following concept.  During an evaluation of normal pulmonary venous flow, what causes the brief, below-the-baseline velocity wave known as the 'Ar' wave?",
+      "image": null,
+      "options": [
+        "The closure of the aortic valve leaflets",
+        "The rapid drop in pressure inside the chest",
+        "Rapid ventricular suction pulling blood forward into the ventricle",
+        "Left atrial contraction forcing blood backward toward the pulmonary veins"
+      ],
+      "answer": 3,
+      "explanation": "The course review identifies Left atrial contraction forcing blood backward toward the pulmonary veins as the correct response. *(Practice review slide 15.)*",
+      "explanationImage": null,
+      "tags": [
+        "Normal Doppler Patterns",
+        "Hemodynamics",
+        "Spectral Doppler"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch09-q188",
+      "stem": "During a routine adult transthoracic examination, the sonographer reviews the following concept.  A sonographer records normal hepatic vein flow from a subcostal window. Which directional pattern is considered normal during ventricular systole?",
+      "image": null,
+      "options": [
+        "A brief, isolated spike occurring during the isovolumic contraction phase",
+        "Antegrade flow moving away from the transducer, appearing below the baseline as a large systolic 'S' wave",
+        "Continuous, non-fluctuating flow that remains locked at 1.5 m/s",
+        "Retrograde flow moving toward the transducer, appearing above the baseline as an 'S' wave"
+      ],
+      "answer": 1,
+      "explanation": "The course review identifies Antegrade flow moving away from the transducer, appearing below the baseline as a large systolic 'S' wave as the correct response. *(Practice review slide 17.)*",
+      "explanationImage": null,
+      "tags": [
+        "Normal Doppler Patterns",
+        "Hemodynamics",
+        "Spectral Doppler"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch09-q189",
+      "stem": "During a routine adult transthoracic examination, the sonographer reviews the following concept.  How does the duration of the normal pulmonary vein atrial reversal wave ('Ar') compare to the duration of the trans-mitral diastolic 'A' wave?",
+      "image": null,
+      "options": [
+        "The 'Ar' wave duration is completely independent of ventricular filling dynamics",
+        "The 'Ar' wave maintains a fixed duration, unrelated to the 'A' wave",
+        "The normal 'Ar' wave duration is twice as long as the trans-mitral 'A' wave duration",
+        "The normal 'Ar' wave duration is shorter than or equal to the trans-mitral 'A' wave duration"
+      ],
+      "answer": 3,
+      "explanation": "Normally the pulmonary-vein reversal (Ar) ends before or with the mitral A wave, so Ar duration ≤ A duration. An Ar that outlasts A signals elevated LV end-diastolic pressure. *(Practice review slide 19.)*",
+      "explanationImage": null,
+      "tags": [
+        "Normal Doppler Patterns",
+        "Hemodynamics",
+        "Spectral Doppler"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch09-q190",
+      "stem": "During a routine adult transthoracic examination, the sonographer reviews the following concept.  You hear a sharp, clean 'whip' sound at the very beginning and end of the systolic waveform on the spectral Doppler audio. What is the source of this sound?",
+      "image": null,
+      "options": [
+        "Normal laminar flow passing smoothly through the centre of the valve",
+        "High-velocity turbulent blood flow through a narrowed opening",
+        "An artifact caused by setting the system's wall filter too high",
+        "The physical movement of the valve leaflets opening and closing"
+      ],
+      "answer": 3,
+      "explanation": "The course review identifies The physical movement of the valve leaflets opening and closing as the correct response. *(Practice review slide 21.)*",
+      "explanationImage": null,
+      "tags": [
+        "Normal Doppler Patterns",
+        "Hemodynamics",
+        "Spectral Doppler"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch09-q191",
+      "stem": "During a routine adult transthoracic examination, the sonographer reviews the following concept.  A sonographer captures a normal aortic valve flow profile and notes a clear space underneath the dark outer curve of the systolic waveform. What does this clear window signify?",
+      "image": null,
+      "options": [
+        "Signal loss from positioning the transducer perpendicular to the flow",
+        "Severe spectral broadening caused by turbulent flow pathways",
+        "Laminar flow, indicating the red blood cells are moving at a uniform velocity",
+        "An artifact caused by raising the spectral Doppler gain control"
+      ],
+      "answer": 2,
+      "explanation": "The course review identifies Laminar flow, indicating the red blood cells are moving at a uniform velocity as the correct response. *(Practice review slide 23.)*",
+      "explanationImage": null,
+      "tags": [
+        "Normal Doppler Patterns",
+        "Hemodynamics",
+        "Spectral Doppler"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch09-q192",
+      "stem": "During a routine adult transthoracic examination, the sonographer reviews the following concept.  A sonographer is measuring the velocity time integral (VTI) of the LVOT. What information does the VTI value provide?",
+      "image": null,
+      "options": [
+        "The peak instantaneous pressure drop across the valve plane",
+        "The exact time required for the valve leaflets to close completely",
+        "The global stiffness index of the ventricular myocardium",
+        "The distance the blood pool travels through the tract during a single cardiac cycle"
+      ],
+      "answer": 3,
+      "explanation": "The course review identifies The distance the blood pool travels through the tract during a single cardiac cycle as the correct response. *(Practice review slide 25.)*",
+      "explanationImage": null,
+      "tags": [
+        "Normal Doppler Patterns",
+        "Hemodynamics",
+        "Spectral Doppler"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch09-q193",
+      "stem": "During a routine adult transthoracic examination, the sonographer reviews the following concept.  What is the expected normal velocity range for blood flowing through a healthy adult tricuspid valve during early diastolic filling?",
+      "image": null,
+      "options": [
+        "2.0–2.5 m/s",
+        "0.3–0.7 m/s",
+        "1.2–1.8 m/s",
+        "0.05–0.1 m/s"
+      ],
+      "answer": 1,
+      "explanation": "The course review identifies 0.3–0.7 m/s as the correct response. *(Practice review slide 27.)*",
+      "explanationImage": null,
+      "tags": [
+        "Normal Doppler Patterns",
+        "Hemodynamics",
+        "Spectral Doppler"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch09-q194",
+      "stem": "During a routine adult transthoracic examination, the sonographer reviews the following concept.  A sonographer checks the colour Doppler profile of a normal mitral valve from an apical 4-chamber view. During early diastole, which colour pattern should appear across the valve plane?",
+      "image": null,
+      "options": [
+        "A thick black band indicating total signal loss from a high wall filter",
+        "A mosaic mixture of green and yellow pixels covering the entire chamber",
+        "A dark blue flow profile directed back into the left atrium",
+        "A clean, bright red flow profile directed toward the apex"
+      ],
+      "answer": 3,
+      "explanation": "The course review identifies A clean, bright red flow profile directed toward the apex as the correct response. *(Practice review slide 29.)*",
+      "explanationImage": null,
+      "tags": [
+        "Normal Doppler Patterns",
+        "Hemodynamics",
+        "Spectral Doppler"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch09-q195",
+      "stem": "During a routine adult transthoracic examination, the sonographer reviews the following concept.  Which phase of the cardiac cycle describes the brief period when all four heart valves are closed, occurring immediately after the aortic valve closes and before the mitral valve opens?",
+      "image": null,
+      "options": [
+        "Rapid diastolic Ejection Phase",
+        "Late Diastasis interval",
+        "Isovolumic Relaxation Time (IVRT)",
+        "Isovolumic Contraction Time (IVCT)"
+      ],
+      "answer": 2,
+      "explanation": "The course review identifies Isovolumic Relaxation Time (IVRT) as the correct response. *(Practice review slide 31.)*",
+      "explanationImage": null,
+      "tags": [
+        "Normal Doppler Patterns",
+        "Hemodynamics",
+        "Spectral Doppler"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch09-q196",
+      "stem": "During a routine adult transthoracic examination, the sonographer reviews the following concept.  A sonographer measures the hepatic vein reversal ('A') wave and notes it is within the normal range. What is the standard upper limit for a normal adult 'A' wave velocity in the hepatic veins?",
+      "image": null,
+      "options": [
+        "1.5 m/s",
+        "0.3 m/s",
+        "2.0 m/s",
+        "0.8 m/s"
+      ],
+      "answer": 1,
+      "explanation": "The course review identifies 0.3 m/s as the correct response. *(Practice review slide 33.)*",
+      "explanationImage": null,
+      "tags": [
+        "Normal Doppler Patterns",
+        "Hemodynamics",
+        "Spectral Doppler"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch09-q197",
+      "stem": "During a routine adult transthoracic examination, the sonographer reviews the following concept.  When checking beam alignment for an aortic valve flow profile from an apical 5-chamber window, what is the maximum acceptable intercept angle to avoid significant velocity underestimation?",
+      "image": null,
+      "options": [
+        "Less than 20 degrees, keeping the angle's cosine close to 1.0",
+        "Between 45 and 55 degrees to minimize baseline artifact",
+        "Precisely 90 degrees, maximizing lateral resolution",
+        "Exactly 60 degrees, using automated angle-correction software"
+      ],
+      "answer": 0,
+      "explanation": "Keep the beam within ~20° of parallel so cosθ stays ≥ 0.94, holding velocity underestimation under ~6%. *(Practice review slide 35.)*",
+      "explanationImage": null,
+      "tags": [
+        "Normal Doppler Patterns",
+        "Hemodynamics",
+        "Spectral Doppler"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch09-q198",
+      "stem": "During a routine adult transthoracic examination, the sonographer reviews the following concept.  A sonographer records a normal antegrade trans-aortic velocity profile from an apex-down apical 5-chamber view. Where should this waveform appear on the spectral display?",
+      "image": null,
+      "options": [
+        "Entirely above the zero baseline as a positive frequency shift",
+        "Symmetrically duplicated on both sides of the baseline simultaneously",
+        "Entirely below the zero baseline as a negative frequency shift",
+        "Shifted to the far-right edge of the display grid independent of the baseline"
+      ],
+      "answer": 2,
+      "explanation": "The course review identifies Entirely below the zero baseline as a negative frequency shift as the correct response. *(Practice review slide 37.)*",
+      "explanationImage": null,
+      "tags": [
+        "Normal Doppler Patterns",
+        "Hemodynamics",
+        "Spectral Doppler"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch09-q199",
+      "stem": "A trainee is preparing for a practical echocardiography assessment.  A sonographer obtains a pulsed wave Doppler trace of the LVOT from an apical 5-chamber view. Which description accurately reflects the normal spectral appearance of this waveform?",
+      "image": null,
+      "options": [
+        "Monophasic, antegrade flow positioned entirely below the baseline",
+        "Triphasic, turbulent flow displaying complete spectral broadening",
+        "Biphasic, retrograde flow positioned entirely above the baseline",
+        "Monophasic, early diastolic flow showing a high velocity peak"
+      ],
+      "answer": 0,
+      "explanation": "The course review identifies Monophasic, antegrade flow positioned entirely below the baseline as the correct response. *(Practice review slide 3.)*",
+      "explanationImage": null,
+      "tags": [
+        "Normal Doppler Patterns",
+        "Hemodynamics",
+        "Spectral Doppler"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch09-q200",
+      "stem": "A trainee is preparing for a practical echocardiography assessment.  While measuring the peak systolic velocity of the LVOT in a healthy adult, which velocity range should the sonographer expect to record?",
+      "image": null,
+      "options": [
+        "3.0–4.0 m/s",
+        "0.3–0.5 m/s",
+        "1.5–2.5 m/s",
+        "0.7–1.1 m/s"
+      ],
+      "answer": 3,
+      "explanation": "The course review identifies 0.7–1.1 m/s as the correct response. *(Practice review slide 5.)*",
+      "explanationImage": null,
+      "tags": [
+        "Normal Doppler Patterns",
+        "Hemodynamics",
+        "Spectral Doppler"
+      ],
+      "reference": ""
+    }
+  ]
+}

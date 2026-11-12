@@ -6,23 +6,48 @@
   "chapters": [
     {
       "id": "ch01",
-      "title": "History & Echo Modalities",
+      "title": "Basic Echo Principles",
       "file": "ch01.json"
     },
     {
       "id": "ch02",
-      "title": "Standard Windows & Views",
+      "title": "Optimization & Parasternal Window",
       "file": "ch02.json"
     },
     {
       "id": "ch03",
-      "title": "Transducer Selection & Ergonomics",
+      "title": "Wall Segments & Apical Window",
       "file": "ch03.json"
     },
     {
       "id": "ch04",
-      "title": "Basic Image Optimization",
+      "title": "Subcostal & Suprasternal Windows",
       "file": "ch04.json"
+    },
+    {
+      "id": "ch05",
+      "title": "M-Mode",
+      "file": "ch05.json"
+    },
+    {
+      "id": "ch06",
+      "title": "Measurements",
+      "file": "ch06.json"
+    },
+    {
+      "id": "ch07",
+      "title": "Indications & Quality Assurance",
+      "file": "ch07.json"
+    },
+    {
+      "id": "ch08",
+      "title": "Doppler Types, Instrumentation & Optimization",
+      "file": "ch08.json"
+    },
+    {
+      "id": "ch09",
+      "title": "Normal Doppler Patterns",
+      "file": "ch09.json"
     }
   ]
 }

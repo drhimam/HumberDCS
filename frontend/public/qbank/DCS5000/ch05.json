@@ -1,0 +1,4007 @@
+{
+  "subjectId": "DCS5000",
+  "chapterId": "ch05",
+  "title": "M-Mode",
+  "questions": [
+    {
+      "id": "DCS5000-ch05-q001",
+      "stem": "During a routine adult transthoracic examination, the sonographer reviews the following concept.  M-mode was the first modality in echocardiography. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "Cannot be determined from the image alone",
+        "False",
+        "Only true for pediatric echocardiography",
+        "True"
+      ],
+      "answer": 3,
+      "explanation": "M-mode (motion mode) was the earliest echocardiographic display, predating cross-sectional 2D imaging. Otto traces echo's origins to these single-line motion tracings. *(Practice review slide 3.)*",
+      "explanationImage": null,
+      "tags": [
+        "M-Mode",
+        "Echocardiography Modalities",
+        "Measurements"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch05-q002",
+      "stem": "During a routine adult transthoracic examination, the sonographer reviews the following concept.  What is the sampling rate of M-mode imaging?",
+      "image": null,
+      "options": [
+        "1800 frames/sec",
+        "60–100 frames/sec",
+        "1000 frames/sec",
+        "30–60 frames/sec"
+      ],
+      "answer": 0,
+      "explanation": "M-mode interrogates a single scan line, so pulses aren't shared across a sector. Sampling reaches roughly 1000–2000 frames/s (≈1800), giving outstanding temporal resolution. *(Practice review slide 5.)*",
+      "explanationImage": null,
+      "tags": [
+        "M-Mode",
+        "Echocardiography Modalities",
+        "Measurements"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch05-q003",
+      "stem": "During a routine adult transthoracic examination, the sonographer reviews the following concept.  M-mode is the gold standard for measurements. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "Cannot be determined from the image alone",
+        "False",
+        "True",
+        "Only true for pediatric echocardiography"
+      ],
+      "answer": 1,
+      "explanation": "Current ASE/Otto guidance favours direct 2D (or 2D-guided) linear measurements. A fixed M-mode cursor often can't stay perpendicular to the walls, which overestimates dimensions. *(Practice review slide 7.)*",
+      "explanationImage": null,
+      "tags": [
+        "M-Mode",
+        "Echocardiography Modalities",
+        "Measurements"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch05-q004",
+      "stem": "During a routine adult transthoracic examination, the sonographer reviews the following concept.  What is a characteristic of M-mode imaging?",
+      "image": null,
+      "options": [
+        "Gives a visual representation of the anatomy",
+        "Excellent temporal resolution",
+        "‘Ice-pick’ view",
+        "Both b & c"
+      ],
+      "answer": 3,
+      "explanation": "M-mode's hallmarks are outstanding temporal resolution and a narrow single-line ‘ice-pick’ sample — so both b and c are correct. *(Practice review slide 9.)*",
+      "explanationImage": null,
+      "tags": [
+        "M-Mode",
+        "Echocardiography Modalities",
+        "Measurements"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch05-q005",
+      "stem": "During a routine adult transthoracic examination, the sonographer reviews the following concept.  Time is represented on the y-axis. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "True",
+        "False",
+        "Cannot be determined from the image alone",
+        "Only true for pediatric echocardiography"
+      ],
+      "answer": 1,
+      "explanation": "On an M-mode tracing, time runs along the horizontal X-axis; depth (distance from the transducer) is on the vertical Y-axis. *(Practice review slide 11.)*",
+      "explanationImage": null,
+      "tags": [
+        "M-Mode",
+        "Echocardiography Modalities",
+        "Measurements"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch05-q006",
+      "stem": "During a routine adult transthoracic examination, the sonographer reviews the following concept.  The cursor needs to be perpendicular to the structure of interest for best practice. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "True",
+        "Only true for pediatric echocardiography",
+        "Cannot be determined from the image alone",
+        "False"
+      ],
+      "answer": 0,
+      "explanation": "Perpendicular insonation yields the truest dimension and the strongest specular reflection from walls and valves. *(Practice review slide 13.)*",
+      "explanationImage": null,
+      "tags": [
+        "M-Mode",
+        "Echocardiography Modalities",
+        "Measurements"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch05-q007",
+      "stem": "During a routine adult transthoracic examination, the sonographer reviews the following concept.  Sweep speed can be adjusted on M-mode imaging to adjust for clinical situations and heart rate. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "Only true for pediatric echocardiography",
+        "Cannot be determined from the image alone",
+        "False",
+        "True"
+      ],
+      "answer": 3,
+      "explanation": "Sweep speed is an operator-adjustable control that spreads or compresses the trace to suit the patient's heart rate and the event being studied. *(Practice review slide 15.)*",
+      "explanationImage": null,
+      "tags": [
+        "M-Mode",
+        "Echocardiography Modalities",
+        "Measurements"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch05-q008",
+      "stem": "During a routine adult transthoracic examination, the sonographer reviews the following concept.  Where is end-diastole marked on the ECG?",
+      "image": null,
+      "options": [
+        "At the beginning of the QRS complex",
+        "At the peak of the R wave",
+        "At the end of the T wave",
+        "At the P wave"
+      ],
+      "answer": 1,
+      "explanation": "By the classic M-mode convention, end-diastole is taken at the peak of the R wave — the onset of ventricular contraction, when the LV is maximally filled. *(Practice review slide 17.)*",
+      "explanationImage": null,
+      "tags": [
+        "M-Mode",
+        "Echocardiography Modalities",
+        "Measurements"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch05-q009",
+      "stem": "During a routine adult transthoracic examination, the sonographer reviews the following concept.  Where is end-systole marked on the ECG?",
+      "image": null,
+      "options": [
+        "At the P wave",
+        "At the beginning of the QRS complex",
+        "At the peak of the R wave",
+        "At the end of the T wave"
+      ],
+      "answer": 3,
+      "explanation": "End-systole coincides with aortic valve closure, occurring around the end of the T wave (completion of ventricular repolarization). *(Practice review slide 19.)*",
+      "explanationImage": null,
+      "tags": [
+        "M-Mode",
+        "Echocardiography Modalities",
+        "Measurements"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch05-q010",
+      "stem": "During a routine adult transthoracic examination, the sonographer reviews the following concept.  What does A represent in this M-mode image?",
+      "image": null,
+      "options": [
+        "Closure line",
+        "Non-coronary cusp",
+        "Right coronary cusp",
+        "Aorta"
+      ],
+      "answer": 0,
+      "explanation": "The single central line where the cusps coapt during diastole is the aortic valve closure line. *(Practice review slide 21.)*",
+      "explanationImage": null,
+      "tags": [
+        "M-Mode",
+        "Echocardiography Modalities",
+        "Measurements"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch05-q011",
+      "stem": "During a routine adult transthoracic examination, the sonographer reviews the following concept.  What does B represent in this M-mode image?",
+      "image": null,
+      "options": [
+        "Right coronary cusp",
+        "Closure line",
+        "Non-coronary cusp",
+        "Aorta"
+      ],
+      "answer": 0,
+      "explanation": "The cusp that swings anteriorly (upward) to form the top edge of the systolic box is the right coronary cusp. *(Practice review slide 23.)*",
+      "explanationImage": null,
+      "tags": [
+        "M-Mode",
+        "Echocardiography Modalities",
+        "Measurements"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch05-q012",
+      "stem": "During a routine adult transthoracic examination, the sonographer reviews the following concept.  What does C represent in this M-mode image?",
+      "image": null,
+      "options": [
+        "Non-coronary cusp",
+        "Closure line",
+        "Aorta",
+        "Right coronary cusp"
+      ],
+      "answer": 2,
+      "explanation": "The course review identifies Aorta as the correct response. *(Practice review slide 25.)*",
+      "explanationImage": null,
+      "tags": [
+        "M-Mode",
+        "Echocardiography Modalities",
+        "Measurements"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch05-q013",
+      "stem": "During a routine adult transthoracic examination, the sonographer reviews the following concept.  What does D represent in this M-mode image?",
+      "image": null,
+      "options": [
+        "Non-coronary cusp",
+        "Closure line",
+        "Aorta",
+        "Right coronary cusp"
+      ],
+      "answer": 0,
+      "explanation": "The course review identifies Non-coronary cusp as the correct response. *(Practice review slide 27.)*",
+      "explanationImage": null,
+      "tags": [
+        "M-Mode",
+        "Echocardiography Modalities",
+        "Measurements"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch05-q014",
+      "stem": "During a routine adult transthoracic examination, the sonographer reviews the following concept.  In the M-mode parasternal view at the level of the aortic valve, which direction does the anterior wall of the LA move during LA filling?",
+      "image": null,
+      "options": [
+        "Medially",
+        "Anteriorly",
+        "Posteriorly",
+        "Laterally"
+      ],
+      "answer": 1,
+      "explanation": "The course review identifies Anteriorly as the correct response. *(Practice review slide 29.)*",
+      "explanationImage": null,
+      "tags": [
+        "M-Mode",
+        "Echocardiography Modalities",
+        "Measurements"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch05-q015",
+      "stem": "During a routine adult transthoracic examination, the sonographer reviews the following concept.  In the M-mode parasternal view at the level of the aortic valve, which direction does the anterior wall of the LA move during LA emptying?",
+      "image": null,
+      "options": [
+        "Laterally",
+        "Anteriorly",
+        "Posteriorly",
+        "Medially"
+      ],
+      "answer": 2,
+      "explanation": "During LA emptying (diastole, with the mitral valve open), the wall recoils posteriorly as atrial volume falls. *(Practice review slide 31.)*",
+      "explanationImage": null,
+      "tags": [
+        "M-Mode",
+        "Echocardiography Modalities",
+        "Measurements"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch05-q016",
+      "stem": "During a routine adult transthoracic examination, the sonographer reviews the following concept.  In the M-mode parasternal view at the level of the mitral valve, what shape does the anterior mitral valve leaflet represent?",
+      "image": null,
+      "options": [
+        "Sideways P appearance",
+        "Box appearance",
+        "W appearance",
+        "M appearance"
+      ],
+      "answer": 3,
+      "explanation": "The anterior mitral leaflet inscribes the classic ‘M’, with the E and A peaks of early diastolic and atrial filling. *(Practice review slide 33.)*",
+      "explanationImage": null,
+      "tags": [
+        "M-Mode",
+        "Echocardiography Modalities",
+        "Measurements"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch05-q017",
+      "stem": "During a routine adult transthoracic examination, the sonographer reviews the following concept.  In the M-mode parasternal view at the level of the mitral valve, what shape does the posterior mitral valve leaflet represent?",
+      "image": null,
+      "options": [
+        "W appearance",
+        "M appearance",
+        "Sideways P appearance",
+        "Box appearance"
+      ],
+      "answer": 0,
+      "explanation": "The posterior leaflet moves opposite the anterior leaflet, tracing a mirror-image ‘W’. *(Practice review slide 35.)*",
+      "explanationImage": null,
+      "tags": [
+        "M-Mode",
+        "Echocardiography Modalities",
+        "Measurements"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch05-q018",
+      "stem": "During a routine adult transthoracic examination, the sonographer reviews the following concept.  What does fluttering of the mitral valve leaflets seen on an M-mode tracing represent?",
+      "image": null,
+      "options": [
+        "Normal pathology",
+        "Mitral regurgitation",
+        "Aortic regurgitation",
+        "Increased LV pressures"
+      ],
+      "answer": 2,
+      "explanation": "High-frequency DIASTOLIC fluttering of the anterior mitral leaflet is the classic M-mode sign of aortic regurgitation — the AR jet vibrates the leaflet. 37 *(Practice review slide 37.)*",
+      "explanationImage": null,
+      "tags": [
+        "M-Mode",
+        "Echocardiography Modalities",
+        "Measurements"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch05-q019",
+      "stem": "During a routine adult transthoracic examination, the sonographer reviews the following concept.  How is the aortic root measured?",
+      "image": null,
+      "options": [
+        "Tissue/blood interface to tissue/blood interface",
+        "At the end of the T wave",
+        "At the beginning of the QRS complex",
+        "Leading edge to leading edge"
+      ],
+      "answer": 3,
+      "explanation": "The classic ASE M-mode convention measures the aortic root leading-edge to leading-edge, at end-diastole. 39 *(Practice review slide 39.)*",
+      "explanationImage": null,
+      "tags": [
+        "M-Mode",
+        "Echocardiography Modalities",
+        "Measurements"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch05-q020",
+      "stem": "During a routine adult transthoracic examination, the sonographer reviews the following concept.  How is the left atrium measured?",
+      "image": null,
+      "options": [
+        "At the beginning of the QRS complex",
+        "Tissue/blood interface to tissue/blood interface",
+        "At the end of the T wave",
+        "Leading edge to leading edge"
+      ],
+      "answer": 3,
+      "explanation": "The LA antero-posterior dimension uses the same leading-edge-to-leading-edge convention, measured at end-systole when the LA is largest. . 41 *(Practice review slide 41.)*",
+      "explanationImage": null,
+      "tags": [
+        "M-Mode",
+        "Echocardiography Modalities",
+        "Measurements"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch05-q021",
+      "stem": "A trainee is preparing for a practical echocardiography assessment.  M-mode was the first modality in echocardiography. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "Cannot be determined from the image alone",
+        "True",
+        "False",
+        "Only true for pediatric echocardiography"
+      ],
+      "answer": 1,
+      "explanation": "M-mode (motion mode) was the earliest echocardiographic display, predating cross-sectional 2D imaging. Otto traces echo's origins to these single-line motion tracings. *(Practice review slide 3.)*",
+      "explanationImage": null,
+      "tags": [
+        "M-Mode",
+        "Echocardiography Modalities",
+        "Measurements"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch05-q022",
+      "stem": "A trainee is preparing for a practical echocardiography assessment.  What is the sampling rate of M-mode imaging?",
+      "image": null,
+      "options": [
+        "60–100 frames/sec",
+        "1000 frames/sec",
+        "1800 frames/sec",
+        "30–60 frames/sec"
+      ],
+      "answer": 2,
+      "explanation": "M-mode interrogates a single scan line, so pulses aren't shared across a sector. Sampling reaches roughly 1000–2000 frames/s (≈1800), giving outstanding temporal resolution. *(Practice review slide 5.)*",
+      "explanationImage": null,
+      "tags": [
+        "M-Mode",
+        "Echocardiography Modalities",
+        "Measurements"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch05-q023",
+      "stem": "A trainee is preparing for a practical echocardiography assessment.  M-mode is the gold standard for measurements. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "Cannot be determined from the image alone",
+        "True",
+        "False",
+        "Only true for pediatric echocardiography"
+      ],
+      "answer": 2,
+      "explanation": "Current ASE/Otto guidance favours direct 2D (or 2D-guided) linear measurements. A fixed M-mode cursor often can't stay perpendicular to the walls, which overestimates dimensions. *(Practice review slide 7.)*",
+      "explanationImage": null,
+      "tags": [
+        "M-Mode",
+        "Echocardiography Modalities",
+        "Measurements"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch05-q024",
+      "stem": "A trainee is preparing for a practical echocardiography assessment.  What is a characteristic of M-mode imaging?",
+      "image": null,
+      "options": [
+        "Gives a visual representation of the anatomy",
+        "Excellent temporal resolution",
+        "‘Ice-pick’ view",
+        "Both b & c"
+      ],
+      "answer": 3,
+      "explanation": "M-mode's hallmarks are outstanding temporal resolution and a narrow single-line ‘ice-pick’ sample — so both b and c are correct. *(Practice review slide 9.)*",
+      "explanationImage": null,
+      "tags": [
+        "M-Mode",
+        "Echocardiography Modalities",
+        "Measurements"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch05-q025",
+      "stem": "A trainee is preparing for a practical echocardiography assessment.  Time is represented on the y-axis. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "True",
+        "Only true for pediatric echocardiography",
+        "False",
+        "Cannot be determined from the image alone"
+      ],
+      "answer": 2,
+      "explanation": "On an M-mode tracing, time runs along the horizontal X-axis; depth (distance from the transducer) is on the vertical Y-axis. *(Practice review slide 11.)*",
+      "explanationImage": null,
+      "tags": [
+        "M-Mode",
+        "Echocardiography Modalities",
+        "Measurements"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch05-q026",
+      "stem": "A trainee is preparing for a practical echocardiography assessment.  The cursor needs to be perpendicular to the structure of interest for best practice. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "True",
+        "Cannot be determined from the image alone",
+        "Only true for pediatric echocardiography",
+        "False"
+      ],
+      "answer": 0,
+      "explanation": "Perpendicular insonation yields the truest dimension and the strongest specular reflection from walls and valves. *(Practice review slide 13.)*",
+      "explanationImage": null,
+      "tags": [
+        "M-Mode",
+        "Echocardiography Modalities",
+        "Measurements"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch05-q027",
+      "stem": "A trainee is preparing for a practical echocardiography assessment.  Sweep speed can be adjusted on M-mode imaging to adjust for clinical situations and heart rate. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "Cannot be determined from the image alone",
+        "True",
+        "Only true for pediatric echocardiography",
+        "False"
+      ],
+      "answer": 1,
+      "explanation": "Sweep speed is an operator-adjustable control that spreads or compresses the trace to suit the patient's heart rate and the event being studied. *(Practice review slide 15.)*",
+      "explanationImage": null,
+      "tags": [
+        "M-Mode",
+        "Echocardiography Modalities",
+        "Measurements"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch05-q028",
+      "stem": "A trainee is preparing for a practical echocardiography assessment.  Where is end-diastole marked on the ECG?",
+      "image": null,
+      "options": [
+        "At the P wave",
+        "At the peak of the R wave",
+        "At the end of the T wave",
+        "At the beginning of the QRS complex"
+      ],
+      "answer": 1,
+      "explanation": "By the classic M-mode convention, end-diastole is taken at the peak of the R wave — the onset of ventricular contraction, when the LV is maximally filled. *(Practice review slide 17.)*",
+      "explanationImage": null,
+      "tags": [
+        "M-Mode",
+        "Echocardiography Modalities",
+        "Measurements"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch05-q029",
+      "stem": "A trainee is preparing for a practical echocardiography assessment.  Where is end-systole marked on the ECG?",
+      "image": null,
+      "options": [
+        "At the peak of the R wave",
+        "At the end of the T wave",
+        "At the beginning of the QRS complex",
+        "At the P wave"
+      ],
+      "answer": 1,
+      "explanation": "End-systole coincides with aortic valve closure, occurring around the end of the T wave (completion of ventricular repolarization). *(Practice review slide 19.)*",
+      "explanationImage": null,
+      "tags": [
+        "M-Mode",
+        "Echocardiography Modalities",
+        "Measurements"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch05-q030",
+      "stem": "A trainee is preparing for a practical echocardiography assessment.  What does A represent in this M-mode image?",
+      "image": null,
+      "options": [
+        "Right coronary cusp",
+        "Aorta",
+        "Non-coronary cusp",
+        "Closure line"
+      ],
+      "answer": 3,
+      "explanation": "The single central line where the cusps coapt during diastole is the aortic valve closure line. *(Practice review slide 21.)*",
+      "explanationImage": null,
+      "tags": [
+        "M-Mode",
+        "Echocardiography Modalities",
+        "Measurements"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch05-q031",
+      "stem": "A trainee is preparing for a practical echocardiography assessment.  What does B represent in this M-mode image?",
+      "image": null,
+      "options": [
+        "Right coronary cusp",
+        "Aorta",
+        "Closure line",
+        "Non-coronary cusp"
+      ],
+      "answer": 0,
+      "explanation": "The cusp that swings anteriorly (upward) to form the top edge of the systolic box is the right coronary cusp. *(Practice review slide 23.)*",
+      "explanationImage": null,
+      "tags": [
+        "M-Mode",
+        "Echocardiography Modalities",
+        "Measurements"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch05-q032",
+      "stem": "A trainee is preparing for a practical echocardiography assessment.  What does C represent in this M-mode image?",
+      "image": null,
+      "options": [
+        "Aorta",
+        "Non-coronary cusp",
+        "Right coronary cusp",
+        "Closure line"
+      ],
+      "answer": 0,
+      "explanation": "The course review identifies Aorta as the correct response. *(Practice review slide 25.)*",
+      "explanationImage": null,
+      "tags": [
+        "M-Mode",
+        "Echocardiography Modalities",
+        "Measurements"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch05-q033",
+      "stem": "A trainee is preparing for a practical echocardiography assessment.  What does D represent in this M-mode image?",
+      "image": null,
+      "options": [
+        "Closure line",
+        "Right coronary cusp",
+        "Aorta",
+        "Non-coronary cusp"
+      ],
+      "answer": 3,
+      "explanation": "The course review identifies Non-coronary cusp as the correct response. *(Practice review slide 27.)*",
+      "explanationImage": null,
+      "tags": [
+        "M-Mode",
+        "Echocardiography Modalities",
+        "Measurements"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch05-q034",
+      "stem": "A trainee is preparing for a practical echocardiography assessment.  In the M-mode parasternal view at the level of the aortic valve, which direction does the anterior wall of the LA move during LA filling?",
+      "image": null,
+      "options": [
+        "Laterally",
+        "Medially",
+        "Posteriorly",
+        "Anteriorly"
+      ],
+      "answer": 3,
+      "explanation": "The course review identifies Anteriorly as the correct response. *(Practice review slide 29.)*",
+      "explanationImage": null,
+      "tags": [
+        "M-Mode",
+        "Echocardiography Modalities",
+        "Measurements"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch05-q035",
+      "stem": "A trainee is preparing for a practical echocardiography assessment.  In the M-mode parasternal view at the level of the aortic valve, which direction does the anterior wall of the LA move during LA emptying?",
+      "image": null,
+      "options": [
+        "Laterally",
+        "Medially",
+        "Posteriorly",
+        "Anteriorly"
+      ],
+      "answer": 2,
+      "explanation": "During LA emptying (diastole, with the mitral valve open), the wall recoils posteriorly as atrial volume falls. *(Practice review slide 31.)*",
+      "explanationImage": null,
+      "tags": [
+        "M-Mode",
+        "Echocardiography Modalities",
+        "Measurements"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch05-q036",
+      "stem": "A trainee is preparing for a practical echocardiography assessment.  In the M-mode parasternal view at the level of the mitral valve, what shape does the anterior mitral valve leaflet represent?",
+      "image": null,
+      "options": [
+        "Box appearance",
+        "M appearance",
+        "Sideways P appearance",
+        "W appearance"
+      ],
+      "answer": 1,
+      "explanation": "The anterior mitral leaflet inscribes the classic ‘M’, with the E and A peaks of early diastolic and atrial filling. *(Practice review slide 33.)*",
+      "explanationImage": null,
+      "tags": [
+        "M-Mode",
+        "Echocardiography Modalities",
+        "Measurements"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch05-q037",
+      "stem": "A trainee is preparing for a practical echocardiography assessment.  In the M-mode parasternal view at the level of the mitral valve, what shape does the posterior mitral valve leaflet represent?",
+      "image": null,
+      "options": [
+        "W appearance",
+        "Sideways P appearance",
+        "M appearance",
+        "Box appearance"
+      ],
+      "answer": 0,
+      "explanation": "The posterior leaflet moves opposite the anterior leaflet, tracing a mirror-image ‘W’. *(Practice review slide 35.)*",
+      "explanationImage": null,
+      "tags": [
+        "M-Mode",
+        "Echocardiography Modalities",
+        "Measurements"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch05-q038",
+      "stem": "A trainee is preparing for a practical echocardiography assessment.  What does fluttering of the mitral valve leaflets seen on an M-mode tracing represent?",
+      "image": null,
+      "options": [
+        "Increased LV pressures",
+        "Mitral regurgitation",
+        "Normal pathology",
+        "Aortic regurgitation"
+      ],
+      "answer": 3,
+      "explanation": "High-frequency DIASTOLIC fluttering of the anterior mitral leaflet is the classic M-mode sign of aortic regurgitation — the AR jet vibrates the leaflet. 37 *(Practice review slide 37.)*",
+      "explanationImage": null,
+      "tags": [
+        "M-Mode",
+        "Echocardiography Modalities",
+        "Measurements"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch05-q039",
+      "stem": "A trainee is preparing for a practical echocardiography assessment.  How is the aortic root measured?",
+      "image": null,
+      "options": [
+        "At the beginning of the QRS complex",
+        "Leading edge to leading edge",
+        "At the end of the T wave",
+        "Tissue/blood interface to tissue/blood interface"
+      ],
+      "answer": 1,
+      "explanation": "The classic ASE M-mode convention measures the aortic root leading-edge to leading-edge, at end-diastole. 39 *(Practice review slide 39.)*",
+      "explanationImage": null,
+      "tags": [
+        "M-Mode",
+        "Echocardiography Modalities",
+        "Measurements"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch05-q040",
+      "stem": "A trainee is preparing for a practical echocardiography assessment.  How is the left atrium measured?",
+      "image": null,
+      "options": [
+        "At the beginning of the QRS complex",
+        "At the end of the T wave",
+        "Tissue/blood interface to tissue/blood interface",
+        "Leading edge to leading edge"
+      ],
+      "answer": 3,
+      "explanation": "The LA antero-posterior dimension uses the same leading-edge-to-leading-edge convention, measured at end-systole when the LA is largest. . 41 *(Practice review slide 41.)*",
+      "explanationImage": null,
+      "tags": [
+        "M-Mode",
+        "Echocardiography Modalities",
+        "Measurements"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch05-q041",
+      "stem": "While reviewing a standard adult echocardiography protocol, consider this question:  M-mode was the first modality in echocardiography. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "Cannot be determined from the image alone",
+        "False",
+        "Only true for pediatric echocardiography",
+        "True"
+      ],
+      "answer": 3,
+      "explanation": "M-mode (motion mode) was the earliest echocardiographic display, predating cross-sectional 2D imaging. Otto traces echo's origins to these single-line motion tracings. *(Practice review slide 3.)*",
+      "explanationImage": null,
+      "tags": [
+        "M-Mode",
+        "Echocardiography Modalities",
+        "Measurements"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch05-q042",
+      "stem": "While reviewing a standard adult echocardiography protocol, consider this question:  What is the sampling rate of M-mode imaging?",
+      "image": null,
+      "options": [
+        "1000 frames/sec",
+        "30–60 frames/sec",
+        "60–100 frames/sec",
+        "1800 frames/sec"
+      ],
+      "answer": 3,
+      "explanation": "M-mode interrogates a single scan line, so pulses aren't shared across a sector. Sampling reaches roughly 1000–2000 frames/s (≈1800), giving outstanding temporal resolution. *(Practice review slide 5.)*",
+      "explanationImage": null,
+      "tags": [
+        "M-Mode",
+        "Echocardiography Modalities",
+        "Measurements"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch05-q043",
+      "stem": "While reviewing a standard adult echocardiography protocol, consider this question:  M-mode is the gold standard for measurements. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "Cannot be determined from the image alone",
+        "False",
+        "Only true for pediatric echocardiography",
+        "True"
+      ],
+      "answer": 1,
+      "explanation": "Current ASE/Otto guidance favours direct 2D (or 2D-guided) linear measurements. A fixed M-mode cursor often can't stay perpendicular to the walls, which overestimates dimensions. *(Practice review slide 7.)*",
+      "explanationImage": null,
+      "tags": [
+        "M-Mode",
+        "Echocardiography Modalities",
+        "Measurements"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch05-q044",
+      "stem": "While reviewing a standard adult echocardiography protocol, consider this question:  What is a characteristic of M-mode imaging?",
+      "image": null,
+      "options": [
+        "Gives a visual representation of the anatomy",
+        "Excellent temporal resolution",
+        "‘Ice-pick’ view",
+        "Both b & c"
+      ],
+      "answer": 3,
+      "explanation": "M-mode's hallmarks are outstanding temporal resolution and a narrow single-line ‘ice-pick’ sample — so both b and c are correct. *(Practice review slide 9.)*",
+      "explanationImage": null,
+      "tags": [
+        "M-Mode",
+        "Echocardiography Modalities",
+        "Measurements"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch05-q045",
+      "stem": "While reviewing a standard adult echocardiography protocol, consider this question:  Time is represented on the y-axis. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "True",
+        "Only true for pediatric echocardiography",
+        "False",
+        "Cannot be determined from the image alone"
+      ],
+      "answer": 2,
+      "explanation": "On an M-mode tracing, time runs along the horizontal X-axis; depth (distance from the transducer) is on the vertical Y-axis. *(Practice review slide 11.)*",
+      "explanationImage": null,
+      "tags": [
+        "M-Mode",
+        "Echocardiography Modalities",
+        "Measurements"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch05-q046",
+      "stem": "While reviewing a standard adult echocardiography protocol, consider this question:  The cursor needs to be perpendicular to the structure of interest for best practice. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "False",
+        "Cannot be determined from the image alone",
+        "True",
+        "Only true for pediatric echocardiography"
+      ],
+      "answer": 2,
+      "explanation": "Perpendicular insonation yields the truest dimension and the strongest specular reflection from walls and valves. *(Practice review slide 13.)*",
+      "explanationImage": null,
+      "tags": [
+        "M-Mode",
+        "Echocardiography Modalities",
+        "Measurements"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch05-q047",
+      "stem": "While reviewing a standard adult echocardiography protocol, consider this question:  Sweep speed can be adjusted on M-mode imaging to adjust for clinical situations and heart rate. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "Cannot be determined from the image alone",
+        "False",
+        "True",
+        "Only true for pediatric echocardiography"
+      ],
+      "answer": 2,
+      "explanation": "Sweep speed is an operator-adjustable control that spreads or compresses the trace to suit the patient's heart rate and the event being studied. *(Practice review slide 15.)*",
+      "explanationImage": null,
+      "tags": [
+        "M-Mode",
+        "Echocardiography Modalities",
+        "Measurements"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch05-q048",
+      "stem": "While reviewing a standard adult echocardiography protocol, consider this question:  Where is end-diastole marked on the ECG?",
+      "image": null,
+      "options": [
+        "At the beginning of the QRS complex",
+        "At the end of the T wave",
+        "At the peak of the R wave",
+        "At the P wave"
+      ],
+      "answer": 2,
+      "explanation": "By the classic M-mode convention, end-diastole is taken at the peak of the R wave — the onset of ventricular contraction, when the LV is maximally filled. *(Practice review slide 17.)*",
+      "explanationImage": null,
+      "tags": [
+        "M-Mode",
+        "Echocardiography Modalities",
+        "Measurements"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch05-q049",
+      "stem": "While reviewing a standard adult echocardiography protocol, consider this question:  Where is end-systole marked on the ECG?",
+      "image": null,
+      "options": [
+        "At the end of the T wave",
+        "At the peak of the R wave",
+        "At the P wave",
+        "At the beginning of the QRS complex"
+      ],
+      "answer": 0,
+      "explanation": "End-systole coincides with aortic valve closure, occurring around the end of the T wave (completion of ventricular repolarization). *(Practice review slide 19.)*",
+      "explanationImage": null,
+      "tags": [
+        "M-Mode",
+        "Echocardiography Modalities",
+        "Measurements"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch05-q050",
+      "stem": "While reviewing a standard adult echocardiography protocol, consider this question:  What does A represent in this M-mode image?",
+      "image": null,
+      "options": [
+        "Non-coronary cusp",
+        "Closure line",
+        "Right coronary cusp",
+        "Aorta"
+      ],
+      "answer": 1,
+      "explanation": "The single central line where the cusps coapt during diastole is the aortic valve closure line. *(Practice review slide 21.)*",
+      "explanationImage": null,
+      "tags": [
+        "M-Mode",
+        "Echocardiography Modalities",
+        "Measurements"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch05-q051",
+      "stem": "While reviewing a standard adult echocardiography protocol, consider this question:  What does B represent in this M-mode image?",
+      "image": null,
+      "options": [
+        "Right coronary cusp",
+        "Non-coronary cusp",
+        "Aorta",
+        "Closure line"
+      ],
+      "answer": 0,
+      "explanation": "The cusp that swings anteriorly (upward) to form the top edge of the systolic box is the right coronary cusp. *(Practice review slide 23.)*",
+      "explanationImage": null,
+      "tags": [
+        "M-Mode",
+        "Echocardiography Modalities",
+        "Measurements"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch05-q052",
+      "stem": "While reviewing a standard adult echocardiography protocol, consider this question:  What does C represent in this M-mode image?",
+      "image": null,
+      "options": [
+        "Aorta",
+        "Closure line",
+        "Non-coronary cusp",
+        "Right coronary cusp"
+      ],
+      "answer": 0,
+      "explanation": "The course review identifies Aorta as the correct response. *(Practice review slide 25.)*",
+      "explanationImage": null,
+      "tags": [
+        "M-Mode",
+        "Echocardiography Modalities",
+        "Measurements"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch05-q053",
+      "stem": "While reviewing a standard adult echocardiography protocol, consider this question:  What does D represent in this M-mode image?",
+      "image": null,
+      "options": [
+        "Non-coronary cusp",
+        "Right coronary cusp",
+        "Aorta",
+        "Closure line"
+      ],
+      "answer": 0,
+      "explanation": "The course review identifies Non-coronary cusp as the correct response. *(Practice review slide 27.)*",
+      "explanationImage": null,
+      "tags": [
+        "M-Mode",
+        "Echocardiography Modalities",
+        "Measurements"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch05-q054",
+      "stem": "While reviewing a standard adult echocardiography protocol, consider this question:  In the M-mode parasternal view at the level of the aortic valve, which direction does the anterior wall of the LA move during LA filling?",
+      "image": null,
+      "options": [
+        "Medially",
+        "Posteriorly",
+        "Laterally",
+        "Anteriorly"
+      ],
+      "answer": 3,
+      "explanation": "The course review identifies Anteriorly as the correct response. *(Practice review slide 29.)*",
+      "explanationImage": null,
+      "tags": [
+        "M-Mode",
+        "Echocardiography Modalities",
+        "Measurements"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch05-q055",
+      "stem": "While reviewing a standard adult echocardiography protocol, consider this question:  In the M-mode parasternal view at the level of the aortic valve, which direction does the anterior wall of the LA move during LA emptying?",
+      "image": null,
+      "options": [
+        "Anteriorly",
+        "Medially",
+        "Posteriorly",
+        "Laterally"
+      ],
+      "answer": 2,
+      "explanation": "During LA emptying (diastole, with the mitral valve open), the wall recoils posteriorly as atrial volume falls. *(Practice review slide 31.)*",
+      "explanationImage": null,
+      "tags": [
+        "M-Mode",
+        "Echocardiography Modalities",
+        "Measurements"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch05-q056",
+      "stem": "While reviewing a standard adult echocardiography protocol, consider this question:  In the M-mode parasternal view at the level of the mitral valve, what shape does the anterior mitral valve leaflet represent?",
+      "image": null,
+      "options": [
+        "Box appearance",
+        "M appearance",
+        "W appearance",
+        "Sideways P appearance"
+      ],
+      "answer": 1,
+      "explanation": "The anterior mitral leaflet inscribes the classic ‘M’, with the E and A peaks of early diastolic and atrial filling. *(Practice review slide 33.)*",
+      "explanationImage": null,
+      "tags": [
+        "M-Mode",
+        "Echocardiography Modalities",
+        "Measurements"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch05-q057",
+      "stem": "While reviewing a standard adult echocardiography protocol, consider this question:  In the M-mode parasternal view at the level of the mitral valve, what shape does the posterior mitral valve leaflet represent?",
+      "image": null,
+      "options": [
+        "W appearance",
+        "Box appearance",
+        "M appearance",
+        "Sideways P appearance"
+      ],
+      "answer": 0,
+      "explanation": "The posterior leaflet moves opposite the anterior leaflet, tracing a mirror-image ‘W’. *(Practice review slide 35.)*",
+      "explanationImage": null,
+      "tags": [
+        "M-Mode",
+        "Echocardiography Modalities",
+        "Measurements"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch05-q058",
+      "stem": "While reviewing a standard adult echocardiography protocol, consider this question:  What does fluttering of the mitral valve leaflets seen on an M-mode tracing represent?",
+      "image": null,
+      "options": [
+        "Increased LV pressures",
+        "Normal pathology",
+        "Aortic regurgitation",
+        "Mitral regurgitation"
+      ],
+      "answer": 2,
+      "explanation": "High-frequency DIASTOLIC fluttering of the anterior mitral leaflet is the classic M-mode sign of aortic regurgitation — the AR jet vibrates the leaflet. 37 *(Practice review slide 37.)*",
+      "explanationImage": null,
+      "tags": [
+        "M-Mode",
+        "Echocardiography Modalities",
+        "Measurements"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch05-q059",
+      "stem": "While reviewing a standard adult echocardiography protocol, consider this question:  How is the aortic root measured?",
+      "image": null,
+      "options": [
+        "At the beginning of the QRS complex",
+        "At the end of the T wave",
+        "Leading edge to leading edge",
+        "Tissue/blood interface to tissue/blood interface"
+      ],
+      "answer": 2,
+      "explanation": "The classic ASE M-mode convention measures the aortic root leading-edge to leading-edge, at end-diastole. 39 *(Practice review slide 39.)*",
+      "explanationImage": null,
+      "tags": [
+        "M-Mode",
+        "Echocardiography Modalities",
+        "Measurements"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch05-q060",
+      "stem": "While reviewing a standard adult echocardiography protocol, consider this question:  How is the left atrium measured?",
+      "image": null,
+      "options": [
+        "Leading edge to leading edge",
+        "Tissue/blood interface to tissue/blood interface",
+        "At the end of the T wave",
+        "At the beginning of the QRS complex"
+      ],
+      "answer": 0,
+      "explanation": "The LA antero-posterior dimension uses the same leading-edge-to-leading-edge convention, measured at end-systole when the LA is largest. . 41 *(Practice review slide 41.)*",
+      "explanationImage": null,
+      "tags": [
+        "M-Mode",
+        "Echocardiography Modalities",
+        "Measurements"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch05-q061",
+      "stem": "A sonographer is asked to select the most accurate response.  M-mode was the first modality in echocardiography. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "True",
+        "False",
+        "Cannot be determined from the image alone",
+        "Only true for pediatric echocardiography"
+      ],
+      "answer": 0,
+      "explanation": "M-mode (motion mode) was the earliest echocardiographic display, predating cross-sectional 2D imaging. Otto traces echo's origins to these single-line motion tracings. *(Practice review slide 3.)*",
+      "explanationImage": null,
+      "tags": [
+        "M-Mode",
+        "Echocardiography Modalities",
+        "Measurements"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch05-q062",
+      "stem": "A sonographer is asked to select the most accurate response.  What is the sampling rate of M-mode imaging?",
+      "image": null,
+      "options": [
+        "30–60 frames/sec",
+        "60–100 frames/sec",
+        "1800 frames/sec",
+        "1000 frames/sec"
+      ],
+      "answer": 2,
+      "explanation": "M-mode interrogates a single scan line, so pulses aren't shared across a sector. Sampling reaches roughly 1000–2000 frames/s (≈1800), giving outstanding temporal resolution. *(Practice review slide 5.)*",
+      "explanationImage": null,
+      "tags": [
+        "M-Mode",
+        "Echocardiography Modalities",
+        "Measurements"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch05-q063",
+      "stem": "A sonographer is asked to select the most accurate response.  M-mode is the gold standard for measurements. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "Cannot be determined from the image alone",
+        "True",
+        "Only true for pediatric echocardiography",
+        "False"
+      ],
+      "answer": 3,
+      "explanation": "Current ASE/Otto guidance favours direct 2D (or 2D-guided) linear measurements. A fixed M-mode cursor often can't stay perpendicular to the walls, which overestimates dimensions. *(Practice review slide 7.)*",
+      "explanationImage": null,
+      "tags": [
+        "M-Mode",
+        "Echocardiography Modalities",
+        "Measurements"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch05-q064",
+      "stem": "A sonographer is asked to select the most accurate response.  What is a characteristic of M-mode imaging?",
+      "image": null,
+      "options": [
+        "Gives a visual representation of the anatomy",
+        "Excellent temporal resolution",
+        "‘Ice-pick’ view",
+        "Both b & c"
+      ],
+      "answer": 3,
+      "explanation": "M-mode's hallmarks are outstanding temporal resolution and a narrow single-line ‘ice-pick’ sample — so both b and c are correct. *(Practice review slide 9.)*",
+      "explanationImage": null,
+      "tags": [
+        "M-Mode",
+        "Echocardiography Modalities",
+        "Measurements"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch05-q065",
+      "stem": "A sonographer is asked to select the most accurate response.  Time is represented on the y-axis. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "False",
+        "Only true for pediatric echocardiography",
+        "True",
+        "Cannot be determined from the image alone"
+      ],
+      "answer": 0,
+      "explanation": "On an M-mode tracing, time runs along the horizontal X-axis; depth (distance from the transducer) is on the vertical Y-axis. *(Practice review slide 11.)*",
+      "explanationImage": null,
+      "tags": [
+        "M-Mode",
+        "Echocardiography Modalities",
+        "Measurements"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch05-q066",
+      "stem": "A sonographer is asked to select the most accurate response.  The cursor needs to be perpendicular to the structure of interest for best practice. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "Only true for pediatric echocardiography",
+        "False",
+        "True",
+        "Cannot be determined from the image alone"
+      ],
+      "answer": 2,
+      "explanation": "Perpendicular insonation yields the truest dimension and the strongest specular reflection from walls and valves. *(Practice review slide 13.)*",
+      "explanationImage": null,
+      "tags": [
+        "M-Mode",
+        "Echocardiography Modalities",
+        "Measurements"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch05-q067",
+      "stem": "A sonographer is asked to select the most accurate response.  Sweep speed can be adjusted on M-mode imaging to adjust for clinical situations and heart rate. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "True",
+        "Only true for pediatric echocardiography",
+        "False",
+        "Cannot be determined from the image alone"
+      ],
+      "answer": 0,
+      "explanation": "Sweep speed is an operator-adjustable control that spreads or compresses the trace to suit the patient's heart rate and the event being studied. *(Practice review slide 15.)*",
+      "explanationImage": null,
+      "tags": [
+        "M-Mode",
+        "Echocardiography Modalities",
+        "Measurements"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch05-q068",
+      "stem": "A sonographer is asked to select the most accurate response.  Where is end-diastole marked on the ECG?",
+      "image": null,
+      "options": [
+        "At the peak of the R wave",
+        "At the beginning of the QRS complex",
+        "At the end of the T wave",
+        "At the P wave"
+      ],
+      "answer": 0,
+      "explanation": "By the classic M-mode convention, end-diastole is taken at the peak of the R wave — the onset of ventricular contraction, when the LV is maximally filled. *(Practice review slide 17.)*",
+      "explanationImage": null,
+      "tags": [
+        "M-Mode",
+        "Echocardiography Modalities",
+        "Measurements"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch05-q069",
+      "stem": "A sonographer is asked to select the most accurate response.  Where is end-systole marked on the ECG?",
+      "image": null,
+      "options": [
+        "At the P wave",
+        "At the peak of the R wave",
+        "At the end of the T wave",
+        "At the beginning of the QRS complex"
+      ],
+      "answer": 2,
+      "explanation": "End-systole coincides with aortic valve closure, occurring around the end of the T wave (completion of ventricular repolarization). *(Practice review slide 19.)*",
+      "explanationImage": null,
+      "tags": [
+        "M-Mode",
+        "Echocardiography Modalities",
+        "Measurements"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch05-q070",
+      "stem": "A sonographer is asked to select the most accurate response.  What does A represent in this M-mode image?",
+      "image": null,
+      "options": [
+        "Closure line",
+        "Non-coronary cusp",
+        "Aorta",
+        "Right coronary cusp"
+      ],
+      "answer": 0,
+      "explanation": "The single central line where the cusps coapt during diastole is the aortic valve closure line. *(Practice review slide 21.)*",
+      "explanationImage": null,
+      "tags": [
+        "M-Mode",
+        "Echocardiography Modalities",
+        "Measurements"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch05-q071",
+      "stem": "A sonographer is asked to select the most accurate response.  What does B represent in this M-mode image?",
+      "image": null,
+      "options": [
+        "Right coronary cusp",
+        "Aorta",
+        "Closure line",
+        "Non-coronary cusp"
+      ],
+      "answer": 0,
+      "explanation": "The cusp that swings anteriorly (upward) to form the top edge of the systolic box is the right coronary cusp. *(Practice review slide 23.)*",
+      "explanationImage": null,
+      "tags": [
+        "M-Mode",
+        "Echocardiography Modalities",
+        "Measurements"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch05-q072",
+      "stem": "A sonographer is asked to select the most accurate response.  What does C represent in this M-mode image?",
+      "image": null,
+      "options": [
+        "Right coronary cusp",
+        "Non-coronary cusp",
+        "Aorta",
+        "Closure line"
+      ],
+      "answer": 2,
+      "explanation": "The course review identifies Aorta as the correct response. *(Practice review slide 25.)*",
+      "explanationImage": null,
+      "tags": [
+        "M-Mode",
+        "Echocardiography Modalities",
+        "Measurements"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch05-q073",
+      "stem": "A sonographer is asked to select the most accurate response.  What does D represent in this M-mode image?",
+      "image": null,
+      "options": [
+        "Closure line",
+        "Non-coronary cusp",
+        "Aorta",
+        "Right coronary cusp"
+      ],
+      "answer": 1,
+      "explanation": "The course review identifies Non-coronary cusp as the correct response. *(Practice review slide 27.)*",
+      "explanationImage": null,
+      "tags": [
+        "M-Mode",
+        "Echocardiography Modalities",
+        "Measurements"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch05-q074",
+      "stem": "A sonographer is asked to select the most accurate response.  In the M-mode parasternal view at the level of the aortic valve, which direction does the anterior wall of the LA move during LA filling?",
+      "image": null,
+      "options": [
+        "Medially",
+        "Laterally",
+        "Anteriorly",
+        "Posteriorly"
+      ],
+      "answer": 2,
+      "explanation": "The course review identifies Anteriorly as the correct response. *(Practice review slide 29.)*",
+      "explanationImage": null,
+      "tags": [
+        "M-Mode",
+        "Echocardiography Modalities",
+        "Measurements"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch05-q075",
+      "stem": "A sonographer is asked to select the most accurate response.  In the M-mode parasternal view at the level of the aortic valve, which direction does the anterior wall of the LA move during LA emptying?",
+      "image": null,
+      "options": [
+        "Posteriorly",
+        "Medially",
+        "Anteriorly",
+        "Laterally"
+      ],
+      "answer": 0,
+      "explanation": "During LA emptying (diastole, with the mitral valve open), the wall recoils posteriorly as atrial volume falls. *(Practice review slide 31.)*",
+      "explanationImage": null,
+      "tags": [
+        "M-Mode",
+        "Echocardiography Modalities",
+        "Measurements"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch05-q076",
+      "stem": "A sonographer is asked to select the most accurate response.  In the M-mode parasternal view at the level of the mitral valve, what shape does the anterior mitral valve leaflet represent?",
+      "image": null,
+      "options": [
+        "W appearance",
+        "Box appearance",
+        "Sideways P appearance",
+        "M appearance"
+      ],
+      "answer": 3,
+      "explanation": "The anterior mitral leaflet inscribes the classic ‘M’, with the E and A peaks of early diastolic and atrial filling. *(Practice review slide 33.)*",
+      "explanationImage": null,
+      "tags": [
+        "M-Mode",
+        "Echocardiography Modalities",
+        "Measurements"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch05-q077",
+      "stem": "A sonographer is asked to select the most accurate response.  In the M-mode parasternal view at the level of the mitral valve, what shape does the posterior mitral valve leaflet represent?",
+      "image": null,
+      "options": [
+        "M appearance",
+        "W appearance",
+        "Box appearance",
+        "Sideways P appearance"
+      ],
+      "answer": 1,
+      "explanation": "The posterior leaflet moves opposite the anterior leaflet, tracing a mirror-image ‘W’. *(Practice review slide 35.)*",
+      "explanationImage": null,
+      "tags": [
+        "M-Mode",
+        "Echocardiography Modalities",
+        "Measurements"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch05-q078",
+      "stem": "A sonographer is asked to select the most accurate response.  What does fluttering of the mitral valve leaflets seen on an M-mode tracing represent?",
+      "image": null,
+      "options": [
+        "Mitral regurgitation",
+        "Normal pathology",
+        "Aortic regurgitation",
+        "Increased LV pressures"
+      ],
+      "answer": 2,
+      "explanation": "High-frequency DIASTOLIC fluttering of the anterior mitral leaflet is the classic M-mode sign of aortic regurgitation — the AR jet vibrates the leaflet. 37 *(Practice review slide 37.)*",
+      "explanationImage": null,
+      "tags": [
+        "M-Mode",
+        "Echocardiography Modalities",
+        "Measurements"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch05-q079",
+      "stem": "A sonographer is asked to select the most accurate response.  How is the aortic root measured?",
+      "image": null,
+      "options": [
+        "At the end of the T wave",
+        "Leading edge to leading edge",
+        "At the beginning of the QRS complex",
+        "Tissue/blood interface to tissue/blood interface"
+      ],
+      "answer": 1,
+      "explanation": "The classic ASE M-mode convention measures the aortic root leading-edge to leading-edge, at end-diastole. 39 *(Practice review slide 39.)*",
+      "explanationImage": null,
+      "tags": [
+        "M-Mode",
+        "Echocardiography Modalities",
+        "Measurements"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch05-q080",
+      "stem": "A sonographer is asked to select the most accurate response.  How is the left atrium measured?",
+      "image": null,
+      "options": [
+        "Tissue/blood interface to tissue/blood interface",
+        "Leading edge to leading edge",
+        "At the end of the T wave",
+        "At the beginning of the QRS complex"
+      ],
+      "answer": 1,
+      "explanation": "The LA antero-posterior dimension uses the same leading-edge-to-leading-edge convention, measured at end-systole when the LA is largest. . 41 *(Practice review slide 41.)*",
+      "explanationImage": null,
+      "tags": [
+        "M-Mode",
+        "Echocardiography Modalities",
+        "Measurements"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch05-q081",
+      "stem": "During quality review of an adult echo study, the following point is discussed.  M-mode was the first modality in echocardiography. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "False",
+        "True",
+        "Only true for pediatric echocardiography",
+        "Cannot be determined from the image alone"
+      ],
+      "answer": 1,
+      "explanation": "M-mode (motion mode) was the earliest echocardiographic display, predating cross-sectional 2D imaging. Otto traces echo's origins to these single-line motion tracings. *(Practice review slide 3.)*",
+      "explanationImage": null,
+      "tags": [
+        "M-Mode",
+        "Echocardiography Modalities",
+        "Measurements"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch05-q082",
+      "stem": "During quality review of an adult echo study, the following point is discussed.  What is the sampling rate of M-mode imaging?",
+      "image": null,
+      "options": [
+        "1800 frames/sec",
+        "60–100 frames/sec",
+        "30–60 frames/sec",
+        "1000 frames/sec"
+      ],
+      "answer": 0,
+      "explanation": "M-mode interrogates a single scan line, so pulses aren't shared across a sector. Sampling reaches roughly 1000–2000 frames/s (≈1800), giving outstanding temporal resolution. *(Practice review slide 5.)*",
+      "explanationImage": null,
+      "tags": [
+        "M-Mode",
+        "Echocardiography Modalities",
+        "Measurements"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch05-q083",
+      "stem": "During quality review of an adult echo study, the following point is discussed.  M-mode is the gold standard for measurements. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "Only true for pediatric echocardiography",
+        "True",
+        "False",
+        "Cannot be determined from the image alone"
+      ],
+      "answer": 2,
+      "explanation": "Current ASE/Otto guidance favours direct 2D (or 2D-guided) linear measurements. A fixed M-mode cursor often can't stay perpendicular to the walls, which overestimates dimensions. *(Practice review slide 7.)*",
+      "explanationImage": null,
+      "tags": [
+        "M-Mode",
+        "Echocardiography Modalities",
+        "Measurements"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch05-q084",
+      "stem": "During quality review of an adult echo study, the following point is discussed.  What is a characteristic of M-mode imaging?",
+      "image": null,
+      "options": [
+        "Gives a visual representation of the anatomy",
+        "Excellent temporal resolution",
+        "‘Ice-pick’ view",
+        "Both b & c"
+      ],
+      "answer": 3,
+      "explanation": "M-mode's hallmarks are outstanding temporal resolution and a narrow single-line ‘ice-pick’ sample — so both b and c are correct. *(Practice review slide 9.)*",
+      "explanationImage": null,
+      "tags": [
+        "M-Mode",
+        "Echocardiography Modalities",
+        "Measurements"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch05-q085",
+      "stem": "During quality review of an adult echo study, the following point is discussed.  Time is represented on the y-axis. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "True",
+        "False",
+        "Cannot be determined from the image alone",
+        "Only true for pediatric echocardiography"
+      ],
+      "answer": 1,
+      "explanation": "On an M-mode tracing, time runs along the horizontal X-axis; depth (distance from the transducer) is on the vertical Y-axis. *(Practice review slide 11.)*",
+      "explanationImage": null,
+      "tags": [
+        "M-Mode",
+        "Echocardiography Modalities",
+        "Measurements"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch05-q086",
+      "stem": "During quality review of an adult echo study, the following point is discussed.  The cursor needs to be perpendicular to the structure of interest for best practice. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "False",
+        "Cannot be determined from the image alone",
+        "True",
+        "Only true for pediatric echocardiography"
+      ],
+      "answer": 2,
+      "explanation": "Perpendicular insonation yields the truest dimension and the strongest specular reflection from walls and valves. *(Practice review slide 13.)*",
+      "explanationImage": null,
+      "tags": [
+        "M-Mode",
+        "Echocardiography Modalities",
+        "Measurements"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch05-q087",
+      "stem": "During quality review of an adult echo study, the following point is discussed.  Sweep speed can be adjusted on M-mode imaging to adjust for clinical situations and heart rate. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "False",
+        "Only true for pediatric echocardiography",
+        "True",
+        "Cannot be determined from the image alone"
+      ],
+      "answer": 2,
+      "explanation": "Sweep speed is an operator-adjustable control that spreads or compresses the trace to suit the patient's heart rate and the event being studied. *(Practice review slide 15.)*",
+      "explanationImage": null,
+      "tags": [
+        "M-Mode",
+        "Echocardiography Modalities",
+        "Measurements"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch05-q088",
+      "stem": "During quality review of an adult echo study, the following point is discussed.  Where is end-diastole marked on the ECG?",
+      "image": null,
+      "options": [
+        "At the P wave",
+        "At the beginning of the QRS complex",
+        "At the end of the T wave",
+        "At the peak of the R wave"
+      ],
+      "answer": 3,
+      "explanation": "By the classic M-mode convention, end-diastole is taken at the peak of the R wave — the onset of ventricular contraction, when the LV is maximally filled. *(Practice review slide 17.)*",
+      "explanationImage": null,
+      "tags": [
+        "M-Mode",
+        "Echocardiography Modalities",
+        "Measurements"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch05-q089",
+      "stem": "During quality review of an adult echo study, the following point is discussed.  Where is end-systole marked on the ECG?",
+      "image": null,
+      "options": [
+        "At the peak of the R wave",
+        "At the beginning of the QRS complex",
+        "At the end of the T wave",
+        "At the P wave"
+      ],
+      "answer": 2,
+      "explanation": "End-systole coincides with aortic valve closure, occurring around the end of the T wave (completion of ventricular repolarization). *(Practice review slide 19.)*",
+      "explanationImage": null,
+      "tags": [
+        "M-Mode",
+        "Echocardiography Modalities",
+        "Measurements"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch05-q090",
+      "stem": "During quality review of an adult echo study, the following point is discussed.  What does A represent in this M-mode image?",
+      "image": null,
+      "options": [
+        "Closure line",
+        "Non-coronary cusp",
+        "Right coronary cusp",
+        "Aorta"
+      ],
+      "answer": 0,
+      "explanation": "The single central line where the cusps coapt during diastole is the aortic valve closure line. *(Practice review slide 21.)*",
+      "explanationImage": null,
+      "tags": [
+        "M-Mode",
+        "Echocardiography Modalities",
+        "Measurements"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch05-q091",
+      "stem": "During quality review of an adult echo study, the following point is discussed.  What does B represent in this M-mode image?",
+      "image": null,
+      "options": [
+        "Aorta",
+        "Right coronary cusp",
+        "Closure line",
+        "Non-coronary cusp"
+      ],
+      "answer": 1,
+      "explanation": "The cusp that swings anteriorly (upward) to form the top edge of the systolic box is the right coronary cusp. *(Practice review slide 23.)*",
+      "explanationImage": null,
+      "tags": [
+        "M-Mode",
+        "Echocardiography Modalities",
+        "Measurements"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch05-q092",
+      "stem": "During quality review of an adult echo study, the following point is discussed.  What does C represent in this M-mode image?",
+      "image": null,
+      "options": [
+        "Non-coronary cusp",
+        "Aorta",
+        "Closure line",
+        "Right coronary cusp"
+      ],
+      "answer": 1,
+      "explanation": "The course review identifies Aorta as the correct response. *(Practice review slide 25.)*",
+      "explanationImage": null,
+      "tags": [
+        "M-Mode",
+        "Echocardiography Modalities",
+        "Measurements"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch05-q093",
+      "stem": "During quality review of an adult echo study, the following point is discussed.  What does D represent in this M-mode image?",
+      "image": null,
+      "options": [
+        "Closure line",
+        "Right coronary cusp",
+        "Aorta",
+        "Non-coronary cusp"
+      ],
+      "answer": 3,
+      "explanation": "The course review identifies Non-coronary cusp as the correct response. *(Practice review slide 27.)*",
+      "explanationImage": null,
+      "tags": [
+        "M-Mode",
+        "Echocardiography Modalities",
+        "Measurements"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch05-q094",
+      "stem": "During quality review of an adult echo study, the following point is discussed.  In the M-mode parasternal view at the level of the aortic valve, which direction does the anterior wall of the LA move during LA filling?",
+      "image": null,
+      "options": [
+        "Medially",
+        "Posteriorly",
+        "Anteriorly",
+        "Laterally"
+      ],
+      "answer": 2,
+      "explanation": "The course review identifies Anteriorly as the correct response. *(Practice review slide 29.)*",
+      "explanationImage": null,
+      "tags": [
+        "M-Mode",
+        "Echocardiography Modalities",
+        "Measurements"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch05-q095",
+      "stem": "During quality review of an adult echo study, the following point is discussed.  In the M-mode parasternal view at the level of the aortic valve, which direction does the anterior wall of the LA move during LA emptying?",
+      "image": null,
+      "options": [
+        "Medially",
+        "Laterally",
+        "Posteriorly",
+        "Anteriorly"
+      ],
+      "answer": 2,
+      "explanation": "During LA emptying (diastole, with the mitral valve open), the wall recoils posteriorly as atrial volume falls. *(Practice review slide 31.)*",
+      "explanationImage": null,
+      "tags": [
+        "M-Mode",
+        "Echocardiography Modalities",
+        "Measurements"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch05-q096",
+      "stem": "During quality review of an adult echo study, the following point is discussed.  In the M-mode parasternal view at the level of the mitral valve, what shape does the anterior mitral valve leaflet represent?",
+      "image": null,
+      "options": [
+        "Box appearance",
+        "Sideways P appearance",
+        "M appearance",
+        "W appearance"
+      ],
+      "answer": 2,
+      "explanation": "The anterior mitral leaflet inscribes the classic ‘M’, with the E and A peaks of early diastolic and atrial filling. *(Practice review slide 33.)*",
+      "explanationImage": null,
+      "tags": [
+        "M-Mode",
+        "Echocardiography Modalities",
+        "Measurements"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch05-q097",
+      "stem": "During quality review of an adult echo study, the following point is discussed.  In the M-mode parasternal view at the level of the mitral valve, what shape does the posterior mitral valve leaflet represent?",
+      "image": null,
+      "options": [
+        "Sideways P appearance",
+        "M appearance",
+        "W appearance",
+        "Box appearance"
+      ],
+      "answer": 2,
+      "explanation": "The posterior leaflet moves opposite the anterior leaflet, tracing a mirror-image ‘W’. *(Practice review slide 35.)*",
+      "explanationImage": null,
+      "tags": [
+        "M-Mode",
+        "Echocardiography Modalities",
+        "Measurements"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch05-q098",
+      "stem": "During quality review of an adult echo study, the following point is discussed.  What does fluttering of the mitral valve leaflets seen on an M-mode tracing represent?",
+      "image": null,
+      "options": [
+        "Normal pathology",
+        "Mitral regurgitation",
+        "Increased LV pressures",
+        "Aortic regurgitation"
+      ],
+      "answer": 3,
+      "explanation": "High-frequency DIASTOLIC fluttering of the anterior mitral leaflet is the classic M-mode sign of aortic regurgitation — the AR jet vibrates the leaflet. 37 *(Practice review slide 37.)*",
+      "explanationImage": null,
+      "tags": [
+        "M-Mode",
+        "Echocardiography Modalities",
+        "Measurements"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch05-q099",
+      "stem": "During quality review of an adult echo study, the following point is discussed.  How is the aortic root measured?",
+      "image": null,
+      "options": [
+        "At the beginning of the QRS complex",
+        "Tissue/blood interface to tissue/blood interface",
+        "Leading edge to leading edge",
+        "At the end of the T wave"
+      ],
+      "answer": 2,
+      "explanation": "The classic ASE M-mode convention measures the aortic root leading-edge to leading-edge, at end-diastole. 39 *(Practice review slide 39.)*",
+      "explanationImage": null,
+      "tags": [
+        "M-Mode",
+        "Echocardiography Modalities",
+        "Measurements"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch05-q100",
+      "stem": "During quality review of an adult echo study, the following point is discussed.  How is the left atrium measured?",
+      "image": null,
+      "options": [
+        "At the end of the T wave",
+        "Leading edge to leading edge",
+        "At the beginning of the QRS complex",
+        "Tissue/blood interface to tissue/blood interface"
+      ],
+      "answer": 1,
+      "explanation": "The LA antero-posterior dimension uses the same leading-edge-to-leading-edge convention, measured at end-systole when the LA is largest. . 41 *(Practice review slide 41.)*",
+      "explanationImage": null,
+      "tags": [
+        "M-Mode",
+        "Echocardiography Modalities",
+        "Measurements"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch05-q101",
+      "stem": "An adult cardiac sonography student is interpreting a teaching case.  M-mode was the first modality in echocardiography. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "Only true for pediatric echocardiography",
+        "True",
+        "Cannot be determined from the image alone",
+        "False"
+      ],
+      "answer": 1,
+      "explanation": "M-mode (motion mode) was the earliest echocardiographic display, predating cross-sectional 2D imaging. Otto traces echo's origins to these single-line motion tracings. *(Practice review slide 3.)*",
+      "explanationImage": null,
+      "tags": [
+        "M-Mode",
+        "Echocardiography Modalities",
+        "Measurements"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch05-q102",
+      "stem": "An adult cardiac sonography student is interpreting a teaching case.  What is the sampling rate of M-mode imaging?",
+      "image": null,
+      "options": [
+        "30–60 frames/sec",
+        "1000 frames/sec",
+        "1800 frames/sec",
+        "60–100 frames/sec"
+      ],
+      "answer": 2,
+      "explanation": "M-mode interrogates a single scan line, so pulses aren't shared across a sector. Sampling reaches roughly 1000–2000 frames/s (≈1800), giving outstanding temporal resolution. *(Practice review slide 5.)*",
+      "explanationImage": null,
+      "tags": [
+        "M-Mode",
+        "Echocardiography Modalities",
+        "Measurements"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch05-q103",
+      "stem": "An adult cardiac sonography student is interpreting a teaching case.  M-mode is the gold standard for measurements. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "Only true for pediatric echocardiography",
+        "Cannot be determined from the image alone",
+        "True",
+        "False"
+      ],
+      "answer": 3,
+      "explanation": "Current ASE/Otto guidance favours direct 2D (or 2D-guided) linear measurements. A fixed M-mode cursor often can't stay perpendicular to the walls, which overestimates dimensions. *(Practice review slide 7.)*",
+      "explanationImage": null,
+      "tags": [
+        "M-Mode",
+        "Echocardiography Modalities",
+        "Measurements"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch05-q104",
+      "stem": "An adult cardiac sonography student is interpreting a teaching case.  What is a characteristic of M-mode imaging?",
+      "image": null,
+      "options": [
+        "Gives a visual representation of the anatomy",
+        "Excellent temporal resolution",
+        "‘Ice-pick’ view",
+        "Both b & c"
+      ],
+      "answer": 3,
+      "explanation": "M-mode's hallmarks are outstanding temporal resolution and a narrow single-line ‘ice-pick’ sample — so both b and c are correct. *(Practice review slide 9.)*",
+      "explanationImage": null,
+      "tags": [
+        "M-Mode",
+        "Echocardiography Modalities",
+        "Measurements"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch05-q105",
+      "stem": "An adult cardiac sonography student is interpreting a teaching case.  Time is represented on the y-axis. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "Cannot be determined from the image alone",
+        "False",
+        "True",
+        "Only true for pediatric echocardiography"
+      ],
+      "answer": 1,
+      "explanation": "On an M-mode tracing, time runs along the horizontal X-axis; depth (distance from the transducer) is on the vertical Y-axis. *(Practice review slide 11.)*",
+      "explanationImage": null,
+      "tags": [
+        "M-Mode",
+        "Echocardiography Modalities",
+        "Measurements"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch05-q106",
+      "stem": "An adult cardiac sonography student is interpreting a teaching case.  The cursor needs to be perpendicular to the structure of interest for best practice. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "True",
+        "False",
+        "Only true for pediatric echocardiography",
+        "Cannot be determined from the image alone"
+      ],
+      "answer": 0,
+      "explanation": "Perpendicular insonation yields the truest dimension and the strongest specular reflection from walls and valves. *(Practice review slide 13.)*",
+      "explanationImage": null,
+      "tags": [
+        "M-Mode",
+        "Echocardiography Modalities",
+        "Measurements"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch05-q107",
+      "stem": "An adult cardiac sonography student is interpreting a teaching case.  Sweep speed can be adjusted on M-mode imaging to adjust for clinical situations and heart rate. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "Cannot be determined from the image alone",
+        "True",
+        "False",
+        "Only true for pediatric echocardiography"
+      ],
+      "answer": 1,
+      "explanation": "Sweep speed is an operator-adjustable control that spreads or compresses the trace to suit the patient's heart rate and the event being studied. *(Practice review slide 15.)*",
+      "explanationImage": null,
+      "tags": [
+        "M-Mode",
+        "Echocardiography Modalities",
+        "Measurements"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch05-q108",
+      "stem": "An adult cardiac sonography student is interpreting a teaching case.  Where is end-diastole marked on the ECG?",
+      "image": null,
+      "options": [
+        "At the peak of the R wave",
+        "At the end of the T wave",
+        "At the P wave",
+        "At the beginning of the QRS complex"
+      ],
+      "answer": 0,
+      "explanation": "By the classic M-mode convention, end-diastole is taken at the peak of the R wave — the onset of ventricular contraction, when the LV is maximally filled. *(Practice review slide 17.)*",
+      "explanationImage": null,
+      "tags": [
+        "M-Mode",
+        "Echocardiography Modalities",
+        "Measurements"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch05-q109",
+      "stem": "An adult cardiac sonography student is interpreting a teaching case.  Where is end-systole marked on the ECG?",
+      "image": null,
+      "options": [
+        "At the end of the T wave",
+        "At the P wave",
+        "At the beginning of the QRS complex",
+        "At the peak of the R wave"
+      ],
+      "answer": 0,
+      "explanation": "End-systole coincides with aortic valve closure, occurring around the end of the T wave (completion of ventricular repolarization). *(Practice review slide 19.)*",
+      "explanationImage": null,
+      "tags": [
+        "M-Mode",
+        "Echocardiography Modalities",
+        "Measurements"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch05-q110",
+      "stem": "An adult cardiac sonography student is interpreting a teaching case.  What does A represent in this M-mode image?",
+      "image": null,
+      "options": [
+        "Aorta",
+        "Closure line",
+        "Non-coronary cusp",
+        "Right coronary cusp"
+      ],
+      "answer": 1,
+      "explanation": "The single central line where the cusps coapt during diastole is the aortic valve closure line. *(Practice review slide 21.)*",
+      "explanationImage": null,
+      "tags": [
+        "M-Mode",
+        "Echocardiography Modalities",
+        "Measurements"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch05-q111",
+      "stem": "An adult cardiac sonography student is interpreting a teaching case.  What does B represent in this M-mode image?",
+      "image": null,
+      "options": [
+        "Non-coronary cusp",
+        "Closure line",
+        "Right coronary cusp",
+        "Aorta"
+      ],
+      "answer": 2,
+      "explanation": "The cusp that swings anteriorly (upward) to form the top edge of the systolic box is the right coronary cusp. *(Practice review slide 23.)*",
+      "explanationImage": null,
+      "tags": [
+        "M-Mode",
+        "Echocardiography Modalities",
+        "Measurements"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch05-q112",
+      "stem": "An adult cardiac sonography student is interpreting a teaching case.  What does C represent in this M-mode image?",
+      "image": null,
+      "options": [
+        "Closure line",
+        "Right coronary cusp",
+        "Non-coronary cusp",
+        "Aorta"
+      ],
+      "answer": 3,
+      "explanation": "The course review identifies Aorta as the correct response. *(Practice review slide 25.)*",
+      "explanationImage": null,
+      "tags": [
+        "M-Mode",
+        "Echocardiography Modalities",
+        "Measurements"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch05-q113",
+      "stem": "An adult cardiac sonography student is interpreting a teaching case.  What does D represent in this M-mode image?",
+      "image": null,
+      "options": [
+        "Aorta",
+        "Right coronary cusp",
+        "Closure line",
+        "Non-coronary cusp"
+      ],
+      "answer": 3,
+      "explanation": "The course review identifies Non-coronary cusp as the correct response. *(Practice review slide 27.)*",
+      "explanationImage": null,
+      "tags": [
+        "M-Mode",
+        "Echocardiography Modalities",
+        "Measurements"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch05-q114",
+      "stem": "An adult cardiac sonography student is interpreting a teaching case.  In the M-mode parasternal view at the level of the aortic valve, which direction does the anterior wall of the LA move during LA filling?",
+      "image": null,
+      "options": [
+        "Anteriorly",
+        "Laterally",
+        "Posteriorly",
+        "Medially"
+      ],
+      "answer": 0,
+      "explanation": "The course review identifies Anteriorly as the correct response. *(Practice review slide 29.)*",
+      "explanationImage": null,
+      "tags": [
+        "M-Mode",
+        "Echocardiography Modalities",
+        "Measurements"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch05-q115",
+      "stem": "An adult cardiac sonography student is interpreting a teaching case.  In the M-mode parasternal view at the level of the aortic valve, which direction does the anterior wall of the LA move during LA emptying?",
+      "image": null,
+      "options": [
+        "Laterally",
+        "Posteriorly",
+        "Anteriorly",
+        "Medially"
+      ],
+      "answer": 1,
+      "explanation": "During LA emptying (diastole, with the mitral valve open), the wall recoils posteriorly as atrial volume falls. *(Practice review slide 31.)*",
+      "explanationImage": null,
+      "tags": [
+        "M-Mode",
+        "Echocardiography Modalities",
+        "Measurements"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch05-q116",
+      "stem": "An adult cardiac sonography student is interpreting a teaching case.  In the M-mode parasternal view at the level of the mitral valve, what shape does the anterior mitral valve leaflet represent?",
+      "image": null,
+      "options": [
+        "Sideways P appearance",
+        "W appearance",
+        "M appearance",
+        "Box appearance"
+      ],
+      "answer": 2,
+      "explanation": "The anterior mitral leaflet inscribes the classic ‘M’, with the E and A peaks of early diastolic and atrial filling. *(Practice review slide 33.)*",
+      "explanationImage": null,
+      "tags": [
+        "M-Mode",
+        "Echocardiography Modalities",
+        "Measurements"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch05-q117",
+      "stem": "An adult cardiac sonography student is interpreting a teaching case.  In the M-mode parasternal view at the level of the mitral valve, what shape does the posterior mitral valve leaflet represent?",
+      "image": null,
+      "options": [
+        "W appearance",
+        "M appearance",
+        "Box appearance",
+        "Sideways P appearance"
+      ],
+      "answer": 0,
+      "explanation": "The posterior leaflet moves opposite the anterior leaflet, tracing a mirror-image ‘W’. *(Practice review slide 35.)*",
+      "explanationImage": null,
+      "tags": [
+        "M-Mode",
+        "Echocardiography Modalities",
+        "Measurements"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch05-q118",
+      "stem": "An adult cardiac sonography student is interpreting a teaching case.  What does fluttering of the mitral valve leaflets seen on an M-mode tracing represent?",
+      "image": null,
+      "options": [
+        "Increased LV pressures",
+        "Mitral regurgitation",
+        "Normal pathology",
+        "Aortic regurgitation"
+      ],
+      "answer": 3,
+      "explanation": "High-frequency DIASTOLIC fluttering of the anterior mitral leaflet is the classic M-mode sign of aortic regurgitation — the AR jet vibrates the leaflet. 37 *(Practice review slide 37.)*",
+      "explanationImage": null,
+      "tags": [
+        "M-Mode",
+        "Echocardiography Modalities",
+        "Measurements"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch05-q119",
+      "stem": "An adult cardiac sonography student is interpreting a teaching case.  How is the aortic root measured?",
+      "image": null,
+      "options": [
+        "At the end of the T wave",
+        "Leading edge to leading edge",
+        "At the beginning of the QRS complex",
+        "Tissue/blood interface to tissue/blood interface"
+      ],
+      "answer": 1,
+      "explanation": "The classic ASE M-mode convention measures the aortic root leading-edge to leading-edge, at end-diastole. 39 *(Practice review slide 39.)*",
+      "explanationImage": null,
+      "tags": [
+        "M-Mode",
+        "Echocardiography Modalities",
+        "Measurements"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch05-q120",
+      "stem": "An adult cardiac sonography student is interpreting a teaching case.  How is the left atrium measured?",
+      "image": null,
+      "options": [
+        "Tissue/blood interface to tissue/blood interface",
+        "At the beginning of the QRS complex",
+        "Leading edge to leading edge",
+        "At the end of the T wave"
+      ],
+      "answer": 2,
+      "explanation": "The LA antero-posterior dimension uses the same leading-edge-to-leading-edge convention, measured at end-systole when the LA is largest. . 41 *(Practice review slide 41.)*",
+      "explanationImage": null,
+      "tags": [
+        "M-Mode",
+        "Echocardiography Modalities",
+        "Measurements"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch05-q121",
+      "stem": "Before image acquisition, a sonographer checks their understanding of the following.  M-mode was the first modality in echocardiography. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "True",
+        "Only true for pediatric echocardiography",
+        "False",
+        "Cannot be determined from the image alone"
+      ],
+      "answer": 0,
+      "explanation": "M-mode (motion mode) was the earliest echocardiographic display, predating cross-sectional 2D imaging. Otto traces echo's origins to these single-line motion tracings. *(Practice review slide 3.)*",
+      "explanationImage": null,
+      "tags": [
+        "M-Mode",
+        "Echocardiography Modalities",
+        "Measurements"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch05-q122",
+      "stem": "Before image acquisition, a sonographer checks their understanding of the following.  What is the sampling rate of M-mode imaging?",
+      "image": null,
+      "options": [
+        "60–100 frames/sec",
+        "1000 frames/sec",
+        "1800 frames/sec",
+        "30–60 frames/sec"
+      ],
+      "answer": 2,
+      "explanation": "M-mode interrogates a single scan line, so pulses aren't shared across a sector. Sampling reaches roughly 1000–2000 frames/s (≈1800), giving outstanding temporal resolution. *(Practice review slide 5.)*",
+      "explanationImage": null,
+      "tags": [
+        "M-Mode",
+        "Echocardiography Modalities",
+        "Measurements"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch05-q123",
+      "stem": "Before image acquisition, a sonographer checks their understanding of the following.  M-mode is the gold standard for measurements. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "Cannot be determined from the image alone",
+        "Only true for pediatric echocardiography",
+        "True",
+        "False"
+      ],
+      "answer": 3,
+      "explanation": "Current ASE/Otto guidance favours direct 2D (or 2D-guided) linear measurements. A fixed M-mode cursor often can't stay perpendicular to the walls, which overestimates dimensions. *(Practice review slide 7.)*",
+      "explanationImage": null,
+      "tags": [
+        "M-Mode",
+        "Echocardiography Modalities",
+        "Measurements"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch05-q124",
+      "stem": "Before image acquisition, a sonographer checks their understanding of the following.  What is a characteristic of M-mode imaging?",
+      "image": null,
+      "options": [
+        "Gives a visual representation of the anatomy",
+        "Excellent temporal resolution",
+        "‘Ice-pick’ view",
+        "Both b & c"
+      ],
+      "answer": 3,
+      "explanation": "M-mode's hallmarks are outstanding temporal resolution and a narrow single-line ‘ice-pick’ sample — so both b and c are correct. *(Practice review slide 9.)*",
+      "explanationImage": null,
+      "tags": [
+        "M-Mode",
+        "Echocardiography Modalities",
+        "Measurements"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch05-q125",
+      "stem": "Before image acquisition, a sonographer checks their understanding of the following.  Time is represented on the y-axis. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "Cannot be determined from the image alone",
+        "True",
+        "Only true for pediatric echocardiography",
+        "False"
+      ],
+      "answer": 3,
+      "explanation": "On an M-mode tracing, time runs along the horizontal X-axis; depth (distance from the transducer) is on the vertical Y-axis. *(Practice review slide 11.)*",
+      "explanationImage": null,
+      "tags": [
+        "M-Mode",
+        "Echocardiography Modalities",
+        "Measurements"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch05-q126",
+      "stem": "Before image acquisition, a sonographer checks their understanding of the following.  The cursor needs to be perpendicular to the structure of interest for best practice. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "True",
+        "False",
+        "Cannot be determined from the image alone",
+        "Only true for pediatric echocardiography"
+      ],
+      "answer": 0,
+      "explanation": "Perpendicular insonation yields the truest dimension and the strongest specular reflection from walls and valves. *(Practice review slide 13.)*",
+      "explanationImage": null,
+      "tags": [
+        "M-Mode",
+        "Echocardiography Modalities",
+        "Measurements"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch05-q127",
+      "stem": "Before image acquisition, a sonographer checks their understanding of the following.  Sweep speed can be adjusted on M-mode imaging to adjust for clinical situations and heart rate. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "False",
+        "Only true for pediatric echocardiography",
+        "Cannot be determined from the image alone",
+        "True"
+      ],
+      "answer": 3,
+      "explanation": "Sweep speed is an operator-adjustable control that spreads or compresses the trace to suit the patient's heart rate and the event being studied. *(Practice review slide 15.)*",
+      "explanationImage": null,
+      "tags": [
+        "M-Mode",
+        "Echocardiography Modalities",
+        "Measurements"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch05-q128",
+      "stem": "Before image acquisition, a sonographer checks their understanding of the following.  Where is end-diastole marked on the ECG?",
+      "image": null,
+      "options": [
+        "At the end of the T wave",
+        "At the peak of the R wave",
+        "At the P wave",
+        "At the beginning of the QRS complex"
+      ],
+      "answer": 1,
+      "explanation": "By the classic M-mode convention, end-diastole is taken at the peak of the R wave — the onset of ventricular contraction, when the LV is maximally filled. *(Practice review slide 17.)*",
+      "explanationImage": null,
+      "tags": [
+        "M-Mode",
+        "Echocardiography Modalities",
+        "Measurements"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch05-q129",
+      "stem": "Before image acquisition, a sonographer checks their understanding of the following.  Where is end-systole marked on the ECG?",
+      "image": null,
+      "options": [
+        "At the peak of the R wave",
+        "At the end of the T wave",
+        "At the P wave",
+        "At the beginning of the QRS complex"
+      ],
+      "answer": 1,
+      "explanation": "End-systole coincides with aortic valve closure, occurring around the end of the T wave (completion of ventricular repolarization). *(Practice review slide 19.)*",
+      "explanationImage": null,
+      "tags": [
+        "M-Mode",
+        "Echocardiography Modalities",
+        "Measurements"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch05-q130",
+      "stem": "Before image acquisition, a sonographer checks their understanding of the following.  What does A represent in this M-mode image?",
+      "image": null,
+      "options": [
+        "Non-coronary cusp",
+        "Aorta",
+        "Right coronary cusp",
+        "Closure line"
+      ],
+      "answer": 3,
+      "explanation": "The single central line where the cusps coapt during diastole is the aortic valve closure line. *(Practice review slide 21.)*",
+      "explanationImage": null,
+      "tags": [
+        "M-Mode",
+        "Echocardiography Modalities",
+        "Measurements"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch05-q131",
+      "stem": "Before image acquisition, a sonographer checks their understanding of the following.  What does B represent in this M-mode image?",
+      "image": null,
+      "options": [
+        "Aorta",
+        "Right coronary cusp",
+        "Closure line",
+        "Non-coronary cusp"
+      ],
+      "answer": 1,
+      "explanation": "The cusp that swings anteriorly (upward) to form the top edge of the systolic box is the right coronary cusp. *(Practice review slide 23.)*",
+      "explanationImage": null,
+      "tags": [
+        "M-Mode",
+        "Echocardiography Modalities",
+        "Measurements"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch05-q132",
+      "stem": "Before image acquisition, a sonographer checks their understanding of the following.  What does C represent in this M-mode image?",
+      "image": null,
+      "options": [
+        "Non-coronary cusp",
+        "Closure line",
+        "Aorta",
+        "Right coronary cusp"
+      ],
+      "answer": 2,
+      "explanation": "The course review identifies Aorta as the correct response. *(Practice review slide 25.)*",
+      "explanationImage": null,
+      "tags": [
+        "M-Mode",
+        "Echocardiography Modalities",
+        "Measurements"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch05-q133",
+      "stem": "Before image acquisition, a sonographer checks their understanding of the following.  What does D represent in this M-mode image?",
+      "image": null,
+      "options": [
+        "Non-coronary cusp",
+        "Aorta",
+        "Right coronary cusp",
+        "Closure line"
+      ],
+      "answer": 0,
+      "explanation": "The course review identifies Non-coronary cusp as the correct response. *(Practice review slide 27.)*",
+      "explanationImage": null,
+      "tags": [
+        "M-Mode",
+        "Echocardiography Modalities",
+        "Measurements"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch05-q134",
+      "stem": "Before image acquisition, a sonographer checks their understanding of the following.  In the M-mode parasternal view at the level of the aortic valve, which direction does the anterior wall of the LA move during LA filling?",
+      "image": null,
+      "options": [
+        "Laterally",
+        "Medially",
+        "Anteriorly",
+        "Posteriorly"
+      ],
+      "answer": 2,
+      "explanation": "The course review identifies Anteriorly as the correct response. *(Practice review slide 29.)*",
+      "explanationImage": null,
+      "tags": [
+        "M-Mode",
+        "Echocardiography Modalities",
+        "Measurements"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch05-q135",
+      "stem": "Before image acquisition, a sonographer checks their understanding of the following.  In the M-mode parasternal view at the level of the aortic valve, which direction does the anterior wall of the LA move during LA emptying?",
+      "image": null,
+      "options": [
+        "Medially",
+        "Laterally",
+        "Posteriorly",
+        "Anteriorly"
+      ],
+      "answer": 2,
+      "explanation": "During LA emptying (diastole, with the mitral valve open), the wall recoils posteriorly as atrial volume falls. *(Practice review slide 31.)*",
+      "explanationImage": null,
+      "tags": [
+        "M-Mode",
+        "Echocardiography Modalities",
+        "Measurements"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch05-q136",
+      "stem": "Before image acquisition, a sonographer checks their understanding of the following.  In the M-mode parasternal view at the level of the mitral valve, what shape does the anterior mitral valve leaflet represent?",
+      "image": null,
+      "options": [
+        "Box appearance",
+        "M appearance",
+        "W appearance",
+        "Sideways P appearance"
+      ],
+      "answer": 1,
+      "explanation": "The anterior mitral leaflet inscribes the classic ‘M’, with the E and A peaks of early diastolic and atrial filling. *(Practice review slide 33.)*",
+      "explanationImage": null,
+      "tags": [
+        "M-Mode",
+        "Echocardiography Modalities",
+        "Measurements"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch05-q137",
+      "stem": "Before image acquisition, a sonographer checks their understanding of the following.  In the M-mode parasternal view at the level of the mitral valve, what shape does the posterior mitral valve leaflet represent?",
+      "image": null,
+      "options": [
+        "M appearance",
+        "W appearance",
+        "Sideways P appearance",
+        "Box appearance"
+      ],
+      "answer": 1,
+      "explanation": "The posterior leaflet moves opposite the anterior leaflet, tracing a mirror-image ‘W’. *(Practice review slide 35.)*",
+      "explanationImage": null,
+      "tags": [
+        "M-Mode",
+        "Echocardiography Modalities",
+        "Measurements"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch05-q138",
+      "stem": "Before image acquisition, a sonographer checks their understanding of the following.  What does fluttering of the mitral valve leaflets seen on an M-mode tracing represent?",
+      "image": null,
+      "options": [
+        "Mitral regurgitation",
+        "Increased LV pressures",
+        "Normal pathology",
+        "Aortic regurgitation"
+      ],
+      "answer": 3,
+      "explanation": "High-frequency DIASTOLIC fluttering of the anterior mitral leaflet is the classic M-mode sign of aortic regurgitation — the AR jet vibrates the leaflet. 37 *(Practice review slide 37.)*",
+      "explanationImage": null,
+      "tags": [
+        "M-Mode",
+        "Echocardiography Modalities",
+        "Measurements"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch05-q139",
+      "stem": "Before image acquisition, a sonographer checks their understanding of the following.  How is the aortic root measured?",
+      "image": null,
+      "options": [
+        "At the beginning of the QRS complex",
+        "At the end of the T wave",
+        "Tissue/blood interface to tissue/blood interface",
+        "Leading edge to leading edge"
+      ],
+      "answer": 3,
+      "explanation": "The classic ASE M-mode convention measures the aortic root leading-edge to leading-edge, at end-diastole. 39 *(Practice review slide 39.)*",
+      "explanationImage": null,
+      "tags": [
+        "M-Mode",
+        "Echocardiography Modalities",
+        "Measurements"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch05-q140",
+      "stem": "Before image acquisition, a sonographer checks their understanding of the following.  How is the left atrium measured?",
+      "image": null,
+      "options": [
+        "At the beginning of the QRS complex",
+        "Tissue/blood interface to tissue/blood interface",
+        "Leading edge to leading edge",
+        "At the end of the T wave"
+      ],
+      "answer": 2,
+      "explanation": "The LA antero-posterior dimension uses the same leading-edge-to-leading-edge convention, measured at end-systole when the LA is largest. . 41 *(Practice review slide 41.)*",
+      "explanationImage": null,
+      "tags": [
+        "M-Mode",
+        "Echocardiography Modalities",
+        "Measurements"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch05-q141",
+      "stem": "In a laboratory teaching session, the instructor asks:  M-mode was the first modality in echocardiography. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "Only true for pediatric echocardiography",
+        "True",
+        "False",
+        "Cannot be determined from the image alone"
+      ],
+      "answer": 1,
+      "explanation": "M-mode (motion mode) was the earliest echocardiographic display, predating cross-sectional 2D imaging. Otto traces echo's origins to these single-line motion tracings. *(Practice review slide 3.)*",
+      "explanationImage": null,
+      "tags": [
+        "M-Mode",
+        "Echocardiography Modalities",
+        "Measurements"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch05-q142",
+      "stem": "In a laboratory teaching session, the instructor asks:  What is the sampling rate of M-mode imaging?",
+      "image": null,
+      "options": [
+        "60–100 frames/sec",
+        "1800 frames/sec",
+        "30–60 frames/sec",
+        "1000 frames/sec"
+      ],
+      "answer": 1,
+      "explanation": "M-mode interrogates a single scan line, so pulses aren't shared across a sector. Sampling reaches roughly 1000–2000 frames/s (≈1800), giving outstanding temporal resolution. *(Practice review slide 5.)*",
+      "explanationImage": null,
+      "tags": [
+        "M-Mode",
+        "Echocardiography Modalities",
+        "Measurements"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch05-q143",
+      "stem": "In a laboratory teaching session, the instructor asks:  M-mode is the gold standard for measurements. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "False",
+        "True",
+        "Cannot be determined from the image alone",
+        "Only true for pediatric echocardiography"
+      ],
+      "answer": 0,
+      "explanation": "Current ASE/Otto guidance favours direct 2D (or 2D-guided) linear measurements. A fixed M-mode cursor often can't stay perpendicular to the walls, which overestimates dimensions. *(Practice review slide 7.)*",
+      "explanationImage": null,
+      "tags": [
+        "M-Mode",
+        "Echocardiography Modalities",
+        "Measurements"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch05-q144",
+      "stem": "In a laboratory teaching session, the instructor asks:  What is a characteristic of M-mode imaging?",
+      "image": null,
+      "options": [
+        "Gives a visual representation of the anatomy",
+        "Excellent temporal resolution",
+        "‘Ice-pick’ view",
+        "Both b & c"
+      ],
+      "answer": 3,
+      "explanation": "M-mode's hallmarks are outstanding temporal resolution and a narrow single-line ‘ice-pick’ sample — so both b and c are correct. *(Practice review slide 9.)*",
+      "explanationImage": null,
+      "tags": [
+        "M-Mode",
+        "Echocardiography Modalities",
+        "Measurements"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch05-q145",
+      "stem": "In a laboratory teaching session, the instructor asks:  Time is represented on the y-axis. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "False",
+        "True",
+        "Cannot be determined from the image alone",
+        "Only true for pediatric echocardiography"
+      ],
+      "answer": 0,
+      "explanation": "On an M-mode tracing, time runs along the horizontal X-axis; depth (distance from the transducer) is on the vertical Y-axis. *(Practice review slide 11.)*",
+      "explanationImage": null,
+      "tags": [
+        "M-Mode",
+        "Echocardiography Modalities",
+        "Measurements"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch05-q146",
+      "stem": "In a laboratory teaching session, the instructor asks:  The cursor needs to be perpendicular to the structure of interest for best practice. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "Cannot be determined from the image alone",
+        "True",
+        "Only true for pediatric echocardiography",
+        "False"
+      ],
+      "answer": 1,
+      "explanation": "Perpendicular insonation yields the truest dimension and the strongest specular reflection from walls and valves. *(Practice review slide 13.)*",
+      "explanationImage": null,
+      "tags": [
+        "M-Mode",
+        "Echocardiography Modalities",
+        "Measurements"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch05-q147",
+      "stem": "In a laboratory teaching session, the instructor asks:  Sweep speed can be adjusted on M-mode imaging to adjust for clinical situations and heart rate. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "False",
+        "True",
+        "Cannot be determined from the image alone",
+        "Only true for pediatric echocardiography"
+      ],
+      "answer": 1,
+      "explanation": "Sweep speed is an operator-adjustable control that spreads or compresses the trace to suit the patient's heart rate and the event being studied. *(Practice review slide 15.)*",
+      "explanationImage": null,
+      "tags": [
+        "M-Mode",
+        "Echocardiography Modalities",
+        "Measurements"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch05-q148",
+      "stem": "In a laboratory teaching session, the instructor asks:  Where is end-diastole marked on the ECG?",
+      "image": null,
+      "options": [
+        "At the beginning of the QRS complex",
+        "At the end of the T wave",
+        "At the peak of the R wave",
+        "At the P wave"
+      ],
+      "answer": 2,
+      "explanation": "By the classic M-mode convention, end-diastole is taken at the peak of the R wave — the onset of ventricular contraction, when the LV is maximally filled. *(Practice review slide 17.)*",
+      "explanationImage": null,
+      "tags": [
+        "M-Mode",
+        "Echocardiography Modalities",
+        "Measurements"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch05-q149",
+      "stem": "In a laboratory teaching session, the instructor asks:  Where is end-systole marked on the ECG?",
+      "image": null,
+      "options": [
+        "At the end of the T wave",
+        "At the beginning of the QRS complex",
+        "At the peak of the R wave",
+        "At the P wave"
+      ],
+      "answer": 0,
+      "explanation": "End-systole coincides with aortic valve closure, occurring around the end of the T wave (completion of ventricular repolarization). *(Practice review slide 19.)*",
+      "explanationImage": null,
+      "tags": [
+        "M-Mode",
+        "Echocardiography Modalities",
+        "Measurements"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch05-q150",
+      "stem": "In a laboratory teaching session, the instructor asks:  What does A represent in this M-mode image?",
+      "image": null,
+      "options": [
+        "Non-coronary cusp",
+        "Closure line",
+        "Aorta",
+        "Right coronary cusp"
+      ],
+      "answer": 1,
+      "explanation": "The single central line where the cusps coapt during diastole is the aortic valve closure line. *(Practice review slide 21.)*",
+      "explanationImage": null,
+      "tags": [
+        "M-Mode",
+        "Echocardiography Modalities",
+        "Measurements"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch05-q151",
+      "stem": "In a laboratory teaching session, the instructor asks:  What does B represent in this M-mode image?",
+      "image": null,
+      "options": [
+        "Closure line",
+        "Right coronary cusp",
+        "Non-coronary cusp",
+        "Aorta"
+      ],
+      "answer": 1,
+      "explanation": "The cusp that swings anteriorly (upward) to form the top edge of the systolic box is the right coronary cusp. *(Practice review slide 23.)*",
+      "explanationImage": null,
+      "tags": [
+        "M-Mode",
+        "Echocardiography Modalities",
+        "Measurements"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch05-q152",
+      "stem": "In a laboratory teaching session, the instructor asks:  What does C represent in this M-mode image?",
+      "image": null,
+      "options": [
+        "Right coronary cusp",
+        "Aorta",
+        "Non-coronary cusp",
+        "Closure line"
+      ],
+      "answer": 1,
+      "explanation": "The course review identifies Aorta as the correct response. *(Practice review slide 25.)*",
+      "explanationImage": null,
+      "tags": [
+        "M-Mode",
+        "Echocardiography Modalities",
+        "Measurements"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch05-q153",
+      "stem": "In a laboratory teaching session, the instructor asks:  What does D represent in this M-mode image?",
+      "image": null,
+      "options": [
+        "Closure line",
+        "Aorta",
+        "Right coronary cusp",
+        "Non-coronary cusp"
+      ],
+      "answer": 3,
+      "explanation": "The course review identifies Non-coronary cusp as the correct response. *(Practice review slide 27.)*",
+      "explanationImage": null,
+      "tags": [
+        "M-Mode",
+        "Echocardiography Modalities",
+        "Measurements"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch05-q154",
+      "stem": "In a laboratory teaching session, the instructor asks:  In the M-mode parasternal view at the level of the aortic valve, which direction does the anterior wall of the LA move during LA filling?",
+      "image": null,
+      "options": [
+        "Medially",
+        "Posteriorly",
+        "Anteriorly",
+        "Laterally"
+      ],
+      "answer": 2,
+      "explanation": "The course review identifies Anteriorly as the correct response. *(Practice review slide 29.)*",
+      "explanationImage": null,
+      "tags": [
+        "M-Mode",
+        "Echocardiography Modalities",
+        "Measurements"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch05-q155",
+      "stem": "In a laboratory teaching session, the instructor asks:  In the M-mode parasternal view at the level of the aortic valve, which direction does the anterior wall of the LA move during LA emptying?",
+      "image": null,
+      "options": [
+        "Posteriorly",
+        "Medially",
+        "Anteriorly",
+        "Laterally"
+      ],
+      "answer": 0,
+      "explanation": "During LA emptying (diastole, with the mitral valve open), the wall recoils posteriorly as atrial volume falls. *(Practice review slide 31.)*",
+      "explanationImage": null,
+      "tags": [
+        "M-Mode",
+        "Echocardiography Modalities",
+        "Measurements"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch05-q156",
+      "stem": "In a laboratory teaching session, the instructor asks:  In the M-mode parasternal view at the level of the mitral valve, what shape does the anterior mitral valve leaflet represent?",
+      "image": null,
+      "options": [
+        "M appearance",
+        "Sideways P appearance",
+        "W appearance",
+        "Box appearance"
+      ],
+      "answer": 0,
+      "explanation": "The anterior mitral leaflet inscribes the classic ‘M’, with the E and A peaks of early diastolic and atrial filling. *(Practice review slide 33.)*",
+      "explanationImage": null,
+      "tags": [
+        "M-Mode",
+        "Echocardiography Modalities",
+        "Measurements"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch05-q157",
+      "stem": "In a laboratory teaching session, the instructor asks:  In the M-mode parasternal view at the level of the mitral valve, what shape does the posterior mitral valve leaflet represent?",
+      "image": null,
+      "options": [
+        "Box appearance",
+        "Sideways P appearance",
+        "W appearance",
+        "M appearance"
+      ],
+      "answer": 2,
+      "explanation": "The posterior leaflet moves opposite the anterior leaflet, tracing a mirror-image ‘W’. *(Practice review slide 35.)*",
+      "explanationImage": null,
+      "tags": [
+        "M-Mode",
+        "Echocardiography Modalities",
+        "Measurements"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch05-q158",
+      "stem": "In a laboratory teaching session, the instructor asks:  What does fluttering of the mitral valve leaflets seen on an M-mode tracing represent?",
+      "image": null,
+      "options": [
+        "Mitral regurgitation",
+        "Increased LV pressures",
+        "Normal pathology",
+        "Aortic regurgitation"
+      ],
+      "answer": 3,
+      "explanation": "High-frequency DIASTOLIC fluttering of the anterior mitral leaflet is the classic M-mode sign of aortic regurgitation — the AR jet vibrates the leaflet. 37 *(Practice review slide 37.)*",
+      "explanationImage": null,
+      "tags": [
+        "M-Mode",
+        "Echocardiography Modalities",
+        "Measurements"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch05-q159",
+      "stem": "In a laboratory teaching session, the instructor asks:  How is the aortic root measured?",
+      "image": null,
+      "options": [
+        "Tissue/blood interface to tissue/blood interface",
+        "At the end of the T wave",
+        "At the beginning of the QRS complex",
+        "Leading edge to leading edge"
+      ],
+      "answer": 3,
+      "explanation": "The classic ASE M-mode convention measures the aortic root leading-edge to leading-edge, at end-diastole. 39 *(Practice review slide 39.)*",
+      "explanationImage": null,
+      "tags": [
+        "M-Mode",
+        "Echocardiography Modalities",
+        "Measurements"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch05-q160",
+      "stem": "In a laboratory teaching session, the instructor asks:  How is the left atrium measured?",
+      "image": null,
+      "options": [
+        "Tissue/blood interface to tissue/blood interface",
+        "Leading edge to leading edge",
+        "At the end of the T wave",
+        "At the beginning of the QRS complex"
+      ],
+      "answer": 1,
+      "explanation": "The LA antero-posterior dimension uses the same leading-edge-to-leading-edge convention, measured at end-systole when the LA is largest. . 41 *(Practice review slide 41.)*",
+      "explanationImage": null,
+      "tags": [
+        "M-Mode",
+        "Echocardiography Modalities",
+        "Measurements"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch05-q161",
+      "stem": "During a mock adult echocardiography board examination, consider the following.  M-mode was the first modality in echocardiography. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "Cannot be determined from the image alone",
+        "False",
+        "True",
+        "Only true for pediatric echocardiography"
+      ],
+      "answer": 2,
+      "explanation": "M-mode (motion mode) was the earliest echocardiographic display, predating cross-sectional 2D imaging. Otto traces echo's origins to these single-line motion tracings. *(Practice review slide 3.)*",
+      "explanationImage": null,
+      "tags": [
+        "M-Mode",
+        "Echocardiography Modalities",
+        "Measurements"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch05-q162",
+      "stem": "During a mock adult echocardiography board examination, consider the following.  What is the sampling rate of M-mode imaging?",
+      "image": null,
+      "options": [
+        "1000 frames/sec",
+        "60–100 frames/sec",
+        "30–60 frames/sec",
+        "1800 frames/sec"
+      ],
+      "answer": 3,
+      "explanation": "M-mode interrogates a single scan line, so pulses aren't shared across a sector. Sampling reaches roughly 1000–2000 frames/s (≈1800), giving outstanding temporal resolution. *(Practice review slide 5.)*",
+      "explanationImage": null,
+      "tags": [
+        "M-Mode",
+        "Echocardiography Modalities",
+        "Measurements"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch05-q163",
+      "stem": "During a mock adult echocardiography board examination, consider the following.  M-mode is the gold standard for measurements. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "False",
+        "Cannot be determined from the image alone",
+        "Only true for pediatric echocardiography",
+        "True"
+      ],
+      "answer": 0,
+      "explanation": "Current ASE/Otto guidance favours direct 2D (or 2D-guided) linear measurements. A fixed M-mode cursor often can't stay perpendicular to the walls, which overestimates dimensions. *(Practice review slide 7.)*",
+      "explanationImage": null,
+      "tags": [
+        "M-Mode",
+        "Echocardiography Modalities",
+        "Measurements"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch05-q164",
+      "stem": "During a mock adult echocardiography board examination, consider the following.  What is a characteristic of M-mode imaging?",
+      "image": null,
+      "options": [
+        "Gives a visual representation of the anatomy",
+        "Excellent temporal resolution",
+        "‘Ice-pick’ view",
+        "Both b & c"
+      ],
+      "answer": 3,
+      "explanation": "M-mode's hallmarks are outstanding temporal resolution and a narrow single-line ‘ice-pick’ sample — so both b and c are correct. *(Practice review slide 9.)*",
+      "explanationImage": null,
+      "tags": [
+        "M-Mode",
+        "Echocardiography Modalities",
+        "Measurements"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch05-q165",
+      "stem": "During a mock adult echocardiography board examination, consider the following.  Time is represented on the y-axis. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "True",
+        "Cannot be determined from the image alone",
+        "False",
+        "Only true for pediatric echocardiography"
+      ],
+      "answer": 2,
+      "explanation": "On an M-mode tracing, time runs along the horizontal X-axis; depth (distance from the transducer) is on the vertical Y-axis. *(Practice review slide 11.)*",
+      "explanationImage": null,
+      "tags": [
+        "M-Mode",
+        "Echocardiography Modalities",
+        "Measurements"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch05-q166",
+      "stem": "During a mock adult echocardiography board examination, consider the following.  The cursor needs to be perpendicular to the structure of interest for best practice. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "True",
+        "False",
+        "Only true for pediatric echocardiography",
+        "Cannot be determined from the image alone"
+      ],
+      "answer": 0,
+      "explanation": "Perpendicular insonation yields the truest dimension and the strongest specular reflection from walls and valves. *(Practice review slide 13.)*",
+      "explanationImage": null,
+      "tags": [
+        "M-Mode",
+        "Echocardiography Modalities",
+        "Measurements"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch05-q167",
+      "stem": "During a mock adult echocardiography board examination, consider the following.  Sweep speed can be adjusted on M-mode imaging to adjust for clinical situations and heart rate. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "True",
+        "Only true for pediatric echocardiography",
+        "False",
+        "Cannot be determined from the image alone"
+      ],
+      "answer": 0,
+      "explanation": "Sweep speed is an operator-adjustable control that spreads or compresses the trace to suit the patient's heart rate and the event being studied. *(Practice review slide 15.)*",
+      "explanationImage": null,
+      "tags": [
+        "M-Mode",
+        "Echocardiography Modalities",
+        "Measurements"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch05-q168",
+      "stem": "During a mock adult echocardiography board examination, consider the following.  Where is end-diastole marked on the ECG?",
+      "image": null,
+      "options": [
+        "At the end of the T wave",
+        "At the peak of the R wave",
+        "At the beginning of the QRS complex",
+        "At the P wave"
+      ],
+      "answer": 1,
+      "explanation": "By the classic M-mode convention, end-diastole is taken at the peak of the R wave — the onset of ventricular contraction, when the LV is maximally filled. *(Practice review slide 17.)*",
+      "explanationImage": null,
+      "tags": [
+        "M-Mode",
+        "Echocardiography Modalities",
+        "Measurements"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch05-q169",
+      "stem": "During a mock adult echocardiography board examination, consider the following.  Where is end-systole marked on the ECG?",
+      "image": null,
+      "options": [
+        "At the end of the T wave",
+        "At the P wave",
+        "At the beginning of the QRS complex",
+        "At the peak of the R wave"
+      ],
+      "answer": 0,
+      "explanation": "End-systole coincides with aortic valve closure, occurring around the end of the T wave (completion of ventricular repolarization). *(Practice review slide 19.)*",
+      "explanationImage": null,
+      "tags": [
+        "M-Mode",
+        "Echocardiography Modalities",
+        "Measurements"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch05-q170",
+      "stem": "During a mock adult echocardiography board examination, consider the following.  What does A represent in this M-mode image?",
+      "image": null,
+      "options": [
+        "Non-coronary cusp",
+        "Aorta",
+        "Right coronary cusp",
+        "Closure line"
+      ],
+      "answer": 3,
+      "explanation": "The single central line where the cusps coapt during diastole is the aortic valve closure line. *(Practice review slide 21.)*",
+      "explanationImage": null,
+      "tags": [
+        "M-Mode",
+        "Echocardiography Modalities",
+        "Measurements"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch05-q171",
+      "stem": "During a mock adult echocardiography board examination, consider the following.  What does B represent in this M-mode image?",
+      "image": null,
+      "options": [
+        "Right coronary cusp",
+        "Non-coronary cusp",
+        "Closure line",
+        "Aorta"
+      ],
+      "answer": 0,
+      "explanation": "The cusp that swings anteriorly (upward) to form the top edge of the systolic box is the right coronary cusp. *(Practice review slide 23.)*",
+      "explanationImage": null,
+      "tags": [
+        "M-Mode",
+        "Echocardiography Modalities",
+        "Measurements"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch05-q172",
+      "stem": "During a mock adult echocardiography board examination, consider the following.  What does C represent in this M-mode image?",
+      "image": null,
+      "options": [
+        "Non-coronary cusp",
+        "Closure line",
+        "Aorta",
+        "Right coronary cusp"
+      ],
+      "answer": 2,
+      "explanation": "The course review identifies Aorta as the correct response. *(Practice review slide 25.)*",
+      "explanationImage": null,
+      "tags": [
+        "M-Mode",
+        "Echocardiography Modalities",
+        "Measurements"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch05-q173",
+      "stem": "During a mock adult echocardiography board examination, consider the following.  What does D represent in this M-mode image?",
+      "image": null,
+      "options": [
+        "Non-coronary cusp",
+        "Right coronary cusp",
+        "Aorta",
+        "Closure line"
+      ],
+      "answer": 0,
+      "explanation": "The course review identifies Non-coronary cusp as the correct response. *(Practice review slide 27.)*",
+      "explanationImage": null,
+      "tags": [
+        "M-Mode",
+        "Echocardiography Modalities",
+        "Measurements"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch05-q174",
+      "stem": "During a mock adult echocardiography board examination, consider the following.  In the M-mode parasternal view at the level of the aortic valve, which direction does the anterior wall of the LA move during LA filling?",
+      "image": null,
+      "options": [
+        "Laterally",
+        "Anteriorly",
+        "Medially",
+        "Posteriorly"
+      ],
+      "answer": 1,
+      "explanation": "The course review identifies Anteriorly as the correct response. *(Practice review slide 29.)*",
+      "explanationImage": null,
+      "tags": [
+        "M-Mode",
+        "Echocardiography Modalities",
+        "Measurements"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch05-q175",
+      "stem": "During a mock adult echocardiography board examination, consider the following.  In the M-mode parasternal view at the level of the aortic valve, which direction does the anterior wall of the LA move during LA emptying?",
+      "image": null,
+      "options": [
+        "Anteriorly",
+        "Posteriorly",
+        "Laterally",
+        "Medially"
+      ],
+      "answer": 1,
+      "explanation": "During LA emptying (diastole, with the mitral valve open), the wall recoils posteriorly as atrial volume falls. *(Practice review slide 31.)*",
+      "explanationImage": null,
+      "tags": [
+        "M-Mode",
+        "Echocardiography Modalities",
+        "Measurements"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch05-q176",
+      "stem": "During a mock adult echocardiography board examination, consider the following.  In the M-mode parasternal view at the level of the mitral valve, what shape does the anterior mitral valve leaflet represent?",
+      "image": null,
+      "options": [
+        "Sideways P appearance",
+        "W appearance",
+        "Box appearance",
+        "M appearance"
+      ],
+      "answer": 3,
+      "explanation": "The anterior mitral leaflet inscribes the classic ‘M’, with the E and A peaks of early diastolic and atrial filling. *(Practice review slide 33.)*",
+      "explanationImage": null,
+      "tags": [
+        "M-Mode",
+        "Echocardiography Modalities",
+        "Measurements"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch05-q177",
+      "stem": "During a mock adult echocardiography board examination, consider the following.  In the M-mode parasternal view at the level of the mitral valve, what shape does the posterior mitral valve leaflet represent?",
+      "image": null,
+      "options": [
+        "M appearance",
+        "Box appearance",
+        "Sideways P appearance",
+        "W appearance"
+      ],
+      "answer": 3,
+      "explanation": "The posterior leaflet moves opposite the anterior leaflet, tracing a mirror-image ‘W’. *(Practice review slide 35.)*",
+      "explanationImage": null,
+      "tags": [
+        "M-Mode",
+        "Echocardiography Modalities",
+        "Measurements"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch05-q178",
+      "stem": "During a mock adult echocardiography board examination, consider the following.  What does fluttering of the mitral valve leaflets seen on an M-mode tracing represent?",
+      "image": null,
+      "options": [
+        "Mitral regurgitation",
+        "Aortic regurgitation",
+        "Increased LV pressures",
+        "Normal pathology"
+      ],
+      "answer": 1,
+      "explanation": "High-frequency DIASTOLIC fluttering of the anterior mitral leaflet is the classic M-mode sign of aortic regurgitation — the AR jet vibrates the leaflet. 37 *(Practice review slide 37.)*",
+      "explanationImage": null,
+      "tags": [
+        "M-Mode",
+        "Echocardiography Modalities",
+        "Measurements"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch05-q179",
+      "stem": "During a mock adult echocardiography board examination, consider the following.  How is the aortic root measured?",
+      "image": null,
+      "options": [
+        "Tissue/blood interface to tissue/blood interface",
+        "Leading edge to leading edge",
+        "At the beginning of the QRS complex",
+        "At the end of the T wave"
+      ],
+      "answer": 1,
+      "explanation": "The classic ASE M-mode convention measures the aortic root leading-edge to leading-edge, at end-diastole. 39 *(Practice review slide 39.)*",
+      "explanationImage": null,
+      "tags": [
+        "M-Mode",
+        "Echocardiography Modalities",
+        "Measurements"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch05-q180",
+      "stem": "During a mock adult echocardiography board examination, consider the following.  How is the left atrium measured?",
+      "image": null,
+      "options": [
+        "Leading edge to leading edge",
+        "At the end of the T wave",
+        "Tissue/blood interface to tissue/blood interface",
+        "At the beginning of the QRS complex"
+      ],
+      "answer": 0,
+      "explanation": "The LA antero-posterior dimension uses the same leading-edge-to-leading-edge convention, measured at end-systole when the LA is largest. . 41 *(Practice review slide 41.)*",
+      "explanationImage": null,
+      "tags": [
+        "M-Mode",
+        "Echocardiography Modalities",
+        "Measurements"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch05-q181",
+      "stem": "A sonographer is reviewing the relevant anatomy, technique, or physiology.  M-mode was the first modality in echocardiography. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "False",
+        "Only true for pediatric echocardiography",
+        "Cannot be determined from the image alone",
+        "True"
+      ],
+      "answer": 3,
+      "explanation": "M-mode (motion mode) was the earliest echocardiographic display, predating cross-sectional 2D imaging. Otto traces echo's origins to these single-line motion tracings. *(Practice review slide 3.)*",
+      "explanationImage": null,
+      "tags": [
+        "M-Mode",
+        "Echocardiography Modalities",
+        "Measurements"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch05-q182",
+      "stem": "A sonographer is reviewing the relevant anatomy, technique, or physiology.  What is the sampling rate of M-mode imaging?",
+      "image": null,
+      "options": [
+        "1800 frames/sec",
+        "60–100 frames/sec",
+        "30–60 frames/sec",
+        "1000 frames/sec"
+      ],
+      "answer": 0,
+      "explanation": "M-mode interrogates a single scan line, so pulses aren't shared across a sector. Sampling reaches roughly 1000–2000 frames/s (≈1800), giving outstanding temporal resolution. *(Practice review slide 5.)*",
+      "explanationImage": null,
+      "tags": [
+        "M-Mode",
+        "Echocardiography Modalities",
+        "Measurements"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch05-q183",
+      "stem": "A sonographer is reviewing the relevant anatomy, technique, or physiology.  M-mode is the gold standard for measurements. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "Cannot be determined from the image alone",
+        "True",
+        "Only true for pediatric echocardiography",
+        "False"
+      ],
+      "answer": 3,
+      "explanation": "Current ASE/Otto guidance favours direct 2D (or 2D-guided) linear measurements. A fixed M-mode cursor often can't stay perpendicular to the walls, which overestimates dimensions. *(Practice review slide 7.)*",
+      "explanationImage": null,
+      "tags": [
+        "M-Mode",
+        "Echocardiography Modalities",
+        "Measurements"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch05-q184",
+      "stem": "A sonographer is reviewing the relevant anatomy, technique, or physiology.  What is a characteristic of M-mode imaging?",
+      "image": null,
+      "options": [
+        "Gives a visual representation of the anatomy",
+        "Excellent temporal resolution",
+        "‘Ice-pick’ view",
+        "Both b & c"
+      ],
+      "answer": 3,
+      "explanation": "M-mode's hallmarks are outstanding temporal resolution and a narrow single-line ‘ice-pick’ sample — so both b and c are correct. *(Practice review slide 9.)*",
+      "explanationImage": null,
+      "tags": [
+        "M-Mode",
+        "Echocardiography Modalities",
+        "Measurements"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch05-q185",
+      "stem": "A sonographer is reviewing the relevant anatomy, technique, or physiology.  Time is represented on the y-axis. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "Cannot be determined from the image alone",
+        "True",
+        "Only true for pediatric echocardiography",
+        "False"
+      ],
+      "answer": 3,
+      "explanation": "On an M-mode tracing, time runs along the horizontal X-axis; depth (distance from the transducer) is on the vertical Y-axis. *(Practice review slide 11.)*",
+      "explanationImage": null,
+      "tags": [
+        "M-Mode",
+        "Echocardiography Modalities",
+        "Measurements"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch05-q186",
+      "stem": "A sonographer is reviewing the relevant anatomy, technique, or physiology.  The cursor needs to be perpendicular to the structure of interest for best practice. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "True",
+        "False",
+        "Only true for pediatric echocardiography",
+        "Cannot be determined from the image alone"
+      ],
+      "answer": 0,
+      "explanation": "Perpendicular insonation yields the truest dimension and the strongest specular reflection from walls and valves. *(Practice review slide 13.)*",
+      "explanationImage": null,
+      "tags": [
+        "M-Mode",
+        "Echocardiography Modalities",
+        "Measurements"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch05-q187",
+      "stem": "A sonographer is reviewing the relevant anatomy, technique, or physiology.  Sweep speed can be adjusted on M-mode imaging to adjust for clinical situations and heart rate. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "False",
+        "Only true for pediatric echocardiography",
+        "Cannot be determined from the image alone",
+        "True"
+      ],
+      "answer": 3,
+      "explanation": "Sweep speed is an operator-adjustable control that spreads or compresses the trace to suit the patient's heart rate and the event being studied. *(Practice review slide 15.)*",
+      "explanationImage": null,
+      "tags": [
+        "M-Mode",
+        "Echocardiography Modalities",
+        "Measurements"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch05-q188",
+      "stem": "A sonographer is reviewing the relevant anatomy, technique, or physiology.  Where is end-diastole marked on the ECG?",
+      "image": null,
+      "options": [
+        "At the beginning of the QRS complex",
+        "At the P wave",
+        "At the peak of the R wave",
+        "At the end of the T wave"
+      ],
+      "answer": 2,
+      "explanation": "By the classic M-mode convention, end-diastole is taken at the peak of the R wave — the onset of ventricular contraction, when the LV is maximally filled. *(Practice review slide 17.)*",
+      "explanationImage": null,
+      "tags": [
+        "M-Mode",
+        "Echocardiography Modalities",
+        "Measurements"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch05-q189",
+      "stem": "A sonographer is reviewing the relevant anatomy, technique, or physiology.  Where is end-systole marked on the ECG?",
+      "image": null,
+      "options": [
+        "At the peak of the R wave",
+        "At the P wave",
+        "At the end of the T wave",
+        "At the beginning of the QRS complex"
+      ],
+      "answer": 2,
+      "explanation": "End-systole coincides with aortic valve closure, occurring around the end of the T wave (completion of ventricular repolarization). *(Practice review slide 19.)*",
+      "explanationImage": null,
+      "tags": [
+        "M-Mode",
+        "Echocardiography Modalities",
+        "Measurements"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch05-q190",
+      "stem": "A sonographer is reviewing the relevant anatomy, technique, or physiology.  What does A represent in this M-mode image?",
+      "image": null,
+      "options": [
+        "Right coronary cusp",
+        "Aorta",
+        "Closure line",
+        "Non-coronary cusp"
+      ],
+      "answer": 2,
+      "explanation": "The single central line where the cusps coapt during diastole is the aortic valve closure line. *(Practice review slide 21.)*",
+      "explanationImage": null,
+      "tags": [
+        "M-Mode",
+        "Echocardiography Modalities",
+        "Measurements"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch05-q191",
+      "stem": "A sonographer is reviewing the relevant anatomy, technique, or physiology.  What does B represent in this M-mode image?",
+      "image": null,
+      "options": [
+        "Closure line",
+        "Non-coronary cusp",
+        "Right coronary cusp",
+        "Aorta"
+      ],
+      "answer": 2,
+      "explanation": "The cusp that swings anteriorly (upward) to form the top edge of the systolic box is the right coronary cusp. *(Practice review slide 23.)*",
+      "explanationImage": null,
+      "tags": [
+        "M-Mode",
+        "Echocardiography Modalities",
+        "Measurements"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch05-q192",
+      "stem": "A sonographer is reviewing the relevant anatomy, technique, or physiology.  What does C represent in this M-mode image?",
+      "image": null,
+      "options": [
+        "Non-coronary cusp",
+        "Closure line",
+        "Right coronary cusp",
+        "Aorta"
+      ],
+      "answer": 3,
+      "explanation": "The course review identifies Aorta as the correct response. *(Practice review slide 25.)*",
+      "explanationImage": null,
+      "tags": [
+        "M-Mode",
+        "Echocardiography Modalities",
+        "Measurements"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch05-q193",
+      "stem": "A sonographer is reviewing the relevant anatomy, technique, or physiology.  What does D represent in this M-mode image?",
+      "image": null,
+      "options": [
+        "Closure line",
+        "Aorta",
+        "Non-coronary cusp",
+        "Right coronary cusp"
+      ],
+      "answer": 2,
+      "explanation": "The course review identifies Non-coronary cusp as the correct response. *(Practice review slide 27.)*",
+      "explanationImage": null,
+      "tags": [
+        "M-Mode",
+        "Echocardiography Modalities",
+        "Measurements"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch05-q194",
+      "stem": "A sonographer is reviewing the relevant anatomy, technique, or physiology.  In the M-mode parasternal view at the level of the aortic valve, which direction does the anterior wall of the LA move during LA filling?",
+      "image": null,
+      "options": [
+        "Laterally",
+        "Medially",
+        "Anteriorly",
+        "Posteriorly"
+      ],
+      "answer": 2,
+      "explanation": "The course review identifies Anteriorly as the correct response. *(Practice review slide 29.)*",
+      "explanationImage": null,
+      "tags": [
+        "M-Mode",
+        "Echocardiography Modalities",
+        "Measurements"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch05-q195",
+      "stem": "A sonographer is reviewing the relevant anatomy, technique, or physiology.  In the M-mode parasternal view at the level of the aortic valve, which direction does the anterior wall of the LA move during LA emptying?",
+      "image": null,
+      "options": [
+        "Laterally",
+        "Medially",
+        "Posteriorly",
+        "Anteriorly"
+      ],
+      "answer": 2,
+      "explanation": "During LA emptying (diastole, with the mitral valve open), the wall recoils posteriorly as atrial volume falls. *(Practice review slide 31.)*",
+      "explanationImage": null,
+      "tags": [
+        "M-Mode",
+        "Echocardiography Modalities",
+        "Measurements"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch05-q196",
+      "stem": "A sonographer is reviewing the relevant anatomy, technique, or physiology.  In the M-mode parasternal view at the level of the mitral valve, what shape does the anterior mitral valve leaflet represent?",
+      "image": null,
+      "options": [
+        "Sideways P appearance",
+        "Box appearance",
+        "W appearance",
+        "M appearance"
+      ],
+      "answer": 3,
+      "explanation": "The anterior mitral leaflet inscribes the classic ‘M’, with the E and A peaks of early diastolic and atrial filling. *(Practice review slide 33.)*",
+      "explanationImage": null,
+      "tags": [
+        "M-Mode",
+        "Echocardiography Modalities",
+        "Measurements"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch05-q197",
+      "stem": "A sonographer is reviewing the relevant anatomy, technique, or physiology.  In the M-mode parasternal view at the level of the mitral valve, what shape does the posterior mitral valve leaflet represent?",
+      "image": null,
+      "options": [
+        "M appearance",
+        "Box appearance",
+        "W appearance",
+        "Sideways P appearance"
+      ],
+      "answer": 2,
+      "explanation": "The posterior leaflet moves opposite the anterior leaflet, tracing a mirror-image ‘W’. *(Practice review slide 35.)*",
+      "explanationImage": null,
+      "tags": [
+        "M-Mode",
+        "Echocardiography Modalities",
+        "Measurements"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch05-q198",
+      "stem": "A sonographer is reviewing the relevant anatomy, technique, or physiology.  What does fluttering of the mitral valve leaflets seen on an M-mode tracing represent?",
+      "image": null,
+      "options": [
+        "Aortic regurgitation",
+        "Increased LV pressures",
+        "Normal pathology",
+        "Mitral regurgitation"
+      ],
+      "answer": 0,
+      "explanation": "High-frequency DIASTOLIC fluttering of the anterior mitral leaflet is the classic M-mode sign of aortic regurgitation — the AR jet vibrates the leaflet. 37 *(Practice review slide 37.)*",
+      "explanationImage": null,
+      "tags": [
+        "M-Mode",
+        "Echocardiography Modalities",
+        "Measurements"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch05-q199",
+      "stem": "A sonographer is reviewing the relevant anatomy, technique, or physiology.  How is the aortic root measured?",
+      "image": null,
+      "options": [
+        "Leading edge to leading edge",
+        "At the end of the T wave",
+        "Tissue/blood interface to tissue/blood interface",
+        "At the beginning of the QRS complex"
+      ],
+      "answer": 0,
+      "explanation": "The classic ASE M-mode convention measures the aortic root leading-edge to leading-edge, at end-diastole. 39 *(Practice review slide 39.)*",
+      "explanationImage": null,
+      "tags": [
+        "M-Mode",
+        "Echocardiography Modalities",
+        "Measurements"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch05-q200",
+      "stem": "A sonographer is reviewing the relevant anatomy, technique, or physiology.  How is the left atrium measured?",
+      "image": null,
+      "options": [
+        "Leading edge to leading edge",
+        "At the end of the T wave",
+        "At the beginning of the QRS complex",
+        "Tissue/blood interface to tissue/blood interface"
+      ],
+      "answer": 0,
+      "explanation": "The LA antero-posterior dimension uses the same leading-edge-to-leading-edge convention, measured at end-systole when the LA is largest. . 41 *(Practice review slide 41.)*",
+      "explanationImage": null,
+      "tags": [
+        "M-Mode",
+        "Echocardiography Modalities",
+        "Measurements"
+      ],
+      "reference": ""
+    }
+  ]
+}

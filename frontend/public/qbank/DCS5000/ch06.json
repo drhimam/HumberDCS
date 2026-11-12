@@ -1,0 +1,3982 @@
+{
+  "subjectId": "DCS5000",
+  "chapterId": "ch06",
+  "title": "Measurements",
+  "questions": [
+    {
+      "id": "DCS5000-ch06-q001",
+      "stem": "During a routine adult transthoracic examination, the sonographer reviews the following concept.  2D measuring is the golden standard for measurements. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "Only true for pediatric echocardiography",
+        "Cannot be determined from the image alone",
+        "True",
+        "False"
+      ],
+      "answer": 2,
+      "explanation": "Current ASE/Otto guidance makes 2D (and 2D-guided) imaging the reference standard for linear and volumetric chamber measurements, because the caliper sits on a true cross-section. *(Practice review slide 3.)*",
+      "explanationImage": null,
+      "tags": [
+        "Measurements",
+        "Cardiac Dimensions",
+        "Echocardiography Quantification"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch06-q002",
+      "stem": "During a routine adult transthoracic examination, the sonographer reviews the following concept.  What measurement is done in End-Diastole?",
+      "image": null,
+      "options": [
+        "Left atrium",
+        "LVIDs",
+        "Interventricular septum"
+      ],
+      "answer": 2,
+      "explanation": "The course review identifies Interventricular septum as the correct response. *(Practice review slide 5.)*",
+      "explanationImage": null,
+      "tags": [
+        "Measurements",
+        "Cardiac Dimensions",
+        "Echocardiography Quantification"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch06-q003",
+      "stem": "During a routine adult transthoracic examination, the sonographer reviews the following concept.  What measurement is done in End-Systole?",
+      "image": null,
+      "options": [
+        "Posterior wall",
+        "LVIDd",
+        "LVIDs",
+        "LVOT"
+      ],
+      "answer": 2,
+      "explanation": "The course review identifies LVIDs as the correct response. *(Practice review slide 7.)*",
+      "explanationImage": null,
+      "tags": [
+        "Measurements",
+        "Cardiac Dimensions",
+        "Echocardiography Quantification"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch06-q004",
+      "stem": "During a routine adult transthoracic examination, the sonographer reviews the following concept.  What measurement is done mid-systole?",
+      "image": null,
+      "options": [
+        "LVOT",
+        "Ascending aorta",
+        "Sinotubular junction",
+        "Aortic root"
+      ],
+      "answer": 0,
+      "explanation": "The course review identifies LVOT as the correct response. *(Practice review slide 9.)*",
+      "explanationImage": null,
+      "tags": [
+        "Measurements",
+        "Cardiac Dimensions",
+        "Echocardiography Quantification"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch06-q005",
+      "stem": "During a routine adult transthoracic examination, the sonographer reviews the following concept.  RV linear measurement is done at end-diastole. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "Only true for pediatric echocardiography",
+        "False",
+        "Cannot be determined from the image alone",
+        "True"
+      ],
+      "answer": 3,
+      "explanation": "The course review identifies True as the correct response. *(Practice review slide 11.)*",
+      "explanationImage": null,
+      "tags": [
+        "Measurements",
+        "Cardiac Dimensions",
+        "Echocardiography Quantification"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch06-q006",
+      "stem": "During a routine adult transthoracic examination, the sonographer reviews the following concept.  RVOT can be measured in the parasternal long axis view and the parasternal short axis view. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "Cannot be determined from the image alone",
+        "True",
+        "Only true for pediatric echocardiography",
+        "False"
+      ],
+      "answer": 1,
+      "explanation": "The course review identifies True as the correct response. *(Practice review slide 13.)*",
+      "explanationImage": null,
+      "tags": [
+        "Measurements",
+        "Cardiac Dimensions",
+        "Echocardiography Quantification"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch06-q007",
+      "stem": "During a routine adult transthoracic examination, the sonographer reviews the following concept.  How is the RVOT measured?",
+      "image": null,
+      "options": [
+        "Leading edge to leading edge",
+        "At the end of the T wave",
+        "At the beginning of the QRS complex",
+        "Tissue/blood interface to tissue/blood interface"
+      ],
+      "answer": 3,
+      "explanation": "Current ASE convention measures the RVOT inner-edge to inner-edge — that is, tissue/blood interface to tissue/blood interface. *(Practice review slide 15.)*",
+      "explanationImage": null,
+      "tags": [
+        "Measurements",
+        "Cardiac Dimensions",
+        "Echocardiography Quantification"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch06-q008",
+      "stem": "During a routine adult transthoracic examination, the sonographer reviews the following concept.  The RVOT is measured at end diastole. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "True",
+        "Cannot be determined from the image alone",
+        "Only true for pediatric echocardiography",
+        "False"
+      ],
+      "answer": 0,
+      "explanation": "RVOT diameters are measured at end-diastole, consistent with the other RV chamber dimensions. 17 *(Practice review slide 17.)*",
+      "explanationImage": null,
+      "tags": [
+        "Measurements",
+        "Cardiac Dimensions",
+        "Echocardiography Quantification"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch06-q009",
+      "stem": "During a routine adult transthoracic examination, the sonographer reviews the following concept.  Main Pulmonary Artery is measured in end-diastole. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "True",
+        "False",
+        "Only true for pediatric echocardiography",
+        "Cannot be determined from the image alone"
+      ],
+      "answer": 0,
+      "explanation": "The course review identifies True as the correct response. *(Practice review slide 19.)*",
+      "explanationImage": null,
+      "tags": [
+        "Measurements",
+        "Cardiac Dimensions",
+        "Echocardiography Quantification"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch06-q010",
+      "stem": "During a routine adult transthoracic examination, the sonographer reviews the following concept.  Main Pulmonary Artery can be measured in the RVOT in the PSLAX view only. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "Cannot be determined from the image alone",
+        "True",
+        "Only true for pediatric echocardiography",
+        "False"
+      ],
+      "answer": 3,
+      "explanation": "The MPA is best imaged in the parasternal SHORT-axis at the pulmonary-valve/great-vessel level, so “PSLAX only” is false. *(Practice review slide 21.)*",
+      "explanationImage": null,
+      "tags": [
+        "Measurements",
+        "Cardiac Dimensions",
+        "Echocardiography Quantification"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch06-q011",
+      "stem": "During a routine adult transthoracic examination, the sonographer reviews the following concept.  How is the Main Pulmonary Artery measured?",
+      "image": null,
+      "options": [
+        "Leading edge to leading edge",
+        "Tissue/blood interface to tissue/blood interface",
+        "At the end of the T wave"
+      ],
+      "answer": 1,
+      "explanation": "The course review identifies Tissue/blood interface to tissue/blood interface as the correct response. *(Practice review slide 23.)*",
+      "explanationImage": null,
+      "tags": [
+        "Measurements",
+        "Cardiac Dimensions",
+        "Echocardiography Quantification"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch06-q012",
+      "stem": "During a routine adult transthoracic examination, the sonographer reviews the following concept.  When is LA volume measured?",
+      "image": null,
+      "options": [
+        "End-Diastole",
+        "End-Systole",
+        "Mid-Diastole",
+        "Mid-Systole"
+      ],
+      "answer": 1,
+      "explanation": "LA volume is measured at end-systole — the frame just before mitral valve opening, when the LA is at its maximum size. *(Practice review slide 25.)*",
+      "explanationImage": null,
+      "tags": [
+        "Measurements",
+        "Cardiac Dimensions",
+        "Echocardiography Quantification"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch06-q013",
+      "stem": "During a routine adult transthoracic examination, the sonographer reviews the following concept.  LA linear measurement is preferred over LA volume. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "False",
+        "True",
+        "Cannot be determined from the image alone",
+        "Only true for pediatric echocardiography"
+      ],
+      "answer": 0,
+      "explanation": "The course review identifies False as the correct response. *(Practice review slide 27.)*",
+      "explanationImage": null,
+      "tags": [
+        "Measurements",
+        "Cardiac Dimensions",
+        "Echocardiography Quantification"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch06-q014",
+      "stem": "During a routine adult transthoracic examination, the sonographer reviews the following concept.  Exclude LA appendage during planimetry of LA volume. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "True",
+        "False",
+        "Cannot be determined from the image alone",
+        "Only true for pediatric echocardiography"
+      ],
+      "answer": 0,
+      "explanation": "The course review identifies True as the correct response. *(Practice review slide 29.)*",
+      "explanationImage": null,
+      "tags": [
+        "Measurements",
+        "Cardiac Dimensions",
+        "Echocardiography Quantification"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch06-q015",
+      "stem": "During a routine adult transthoracic examination, the sonographer reviews the following concept.  What two apical views are used to perform LA volume?",
+      "image": null,
+      "options": [
+        "Apical 4 & 2 Chamber",
+        "Apical 5 & 3 Chamber",
+        "Apical 2 & 3 Chamber",
+        "Apical 4 & 3 Chamber"
+      ],
+      "answer": 0,
+      "explanation": "The course review identifies Apical 4 & 2 Chamber as the correct response. *(Practice review slide 31.)*",
+      "explanationImage": null,
+      "tags": [
+        "Measurements",
+        "Cardiac Dimensions",
+        "Echocardiography Quantification"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch06-q016",
+      "stem": "During a routine adult transthoracic examination, the sonographer reviews the following concept.  LA volume is indexed to body surface area. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "Only true for pediatric echocardiography",
+        "Cannot be determined from the image alone",
+        "True",
+        "False"
+      ],
+      "answer": 2,
+      "explanation": "The course review identifies True as the correct response. *(Practice review slide 33.)*",
+      "explanationImage": null,
+      "tags": [
+        "Measurements",
+        "Cardiac Dimensions",
+        "Echocardiography Quantification"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch06-q017",
+      "stem": "A trainee is preparing for a practical echocardiography assessment.  2D measuring is the golden standard for measurements. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "Cannot be determined from the image alone",
+        "True",
+        "Only true for pediatric echocardiography",
+        "False"
+      ],
+      "answer": 1,
+      "explanation": "Current ASE/Otto guidance makes 2D (and 2D-guided) imaging the reference standard for linear and volumetric chamber measurements, because the caliper sits on a true cross-section. *(Practice review slide 3.)*",
+      "explanationImage": null,
+      "tags": [
+        "Measurements",
+        "Cardiac Dimensions",
+        "Echocardiography Quantification"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch06-q018",
+      "stem": "A trainee is preparing for a practical echocardiography assessment.  What measurement is done in End-Diastole?",
+      "image": null,
+      "options": [
+        "Left atrium",
+        "LVIDs",
+        "Interventricular septum"
+      ],
+      "answer": 2,
+      "explanation": "The course review identifies Interventricular septum as the correct response. *(Practice review slide 5.)*",
+      "explanationImage": null,
+      "tags": [
+        "Measurements",
+        "Cardiac Dimensions",
+        "Echocardiography Quantification"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch06-q019",
+      "stem": "A trainee is preparing for a practical echocardiography assessment.  What measurement is done in End-Systole?",
+      "image": null,
+      "options": [
+        "LVIDs",
+        "LVIDd",
+        "LVOT",
+        "Posterior wall"
+      ],
+      "answer": 0,
+      "explanation": "The course review identifies LVIDs as the correct response. *(Practice review slide 7.)*",
+      "explanationImage": null,
+      "tags": [
+        "Measurements",
+        "Cardiac Dimensions",
+        "Echocardiography Quantification"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch06-q020",
+      "stem": "A trainee is preparing for a practical echocardiography assessment.  What measurement is done mid-systole?",
+      "image": null,
+      "options": [
+        "LVOT",
+        "Aortic root",
+        "Ascending aorta",
+        "Sinotubular junction"
+      ],
+      "answer": 0,
+      "explanation": "The course review identifies LVOT as the correct response. *(Practice review slide 9.)*",
+      "explanationImage": null,
+      "tags": [
+        "Measurements",
+        "Cardiac Dimensions",
+        "Echocardiography Quantification"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch06-q021",
+      "stem": "A trainee is preparing for a practical echocardiography assessment.  RV linear measurement is done at end-diastole. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "Cannot be determined from the image alone",
+        "False",
+        "True",
+        "Only true for pediatric echocardiography"
+      ],
+      "answer": 2,
+      "explanation": "The course review identifies True as the correct response. *(Practice review slide 11.)*",
+      "explanationImage": null,
+      "tags": [
+        "Measurements",
+        "Cardiac Dimensions",
+        "Echocardiography Quantification"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch06-q022",
+      "stem": "A trainee is preparing for a practical echocardiography assessment.  RVOT can be measured in the parasternal long axis view and the parasternal short axis view. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "True",
+        "Cannot be determined from the image alone",
+        "False",
+        "Only true for pediatric echocardiography"
+      ],
+      "answer": 0,
+      "explanation": "The course review identifies True as the correct response. *(Practice review slide 13.)*",
+      "explanationImage": null,
+      "tags": [
+        "Measurements",
+        "Cardiac Dimensions",
+        "Echocardiography Quantification"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch06-q023",
+      "stem": "A trainee is preparing for a practical echocardiography assessment.  How is the RVOT measured?",
+      "image": null,
+      "options": [
+        "Leading edge to leading edge",
+        "At the end of the T wave",
+        "At the beginning of the QRS complex",
+        "Tissue/blood interface to tissue/blood interface"
+      ],
+      "answer": 3,
+      "explanation": "Current ASE convention measures the RVOT inner-edge to inner-edge — that is, tissue/blood interface to tissue/blood interface. *(Practice review slide 15.)*",
+      "explanationImage": null,
+      "tags": [
+        "Measurements",
+        "Cardiac Dimensions",
+        "Echocardiography Quantification"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch06-q024",
+      "stem": "A trainee is preparing for a practical echocardiography assessment.  The RVOT is measured at end diastole. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "True",
+        "Cannot be determined from the image alone",
+        "Only true for pediatric echocardiography",
+        "False"
+      ],
+      "answer": 0,
+      "explanation": "RVOT diameters are measured at end-diastole, consistent with the other RV chamber dimensions. 17 *(Practice review slide 17.)*",
+      "explanationImage": null,
+      "tags": [
+        "Measurements",
+        "Cardiac Dimensions",
+        "Echocardiography Quantification"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch06-q025",
+      "stem": "A trainee is preparing for a practical echocardiography assessment.  Main Pulmonary Artery is measured in end-diastole. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "False",
+        "Cannot be determined from the image alone",
+        "True",
+        "Only true for pediatric echocardiography"
+      ],
+      "answer": 2,
+      "explanation": "The course review identifies True as the correct response. *(Practice review slide 19.)*",
+      "explanationImage": null,
+      "tags": [
+        "Measurements",
+        "Cardiac Dimensions",
+        "Echocardiography Quantification"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch06-q026",
+      "stem": "A trainee is preparing for a practical echocardiography assessment.  Main Pulmonary Artery can be measured in the RVOT in the PSLAX view only. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "True",
+        "Cannot be determined from the image alone",
+        "False",
+        "Only true for pediatric echocardiography"
+      ],
+      "answer": 2,
+      "explanation": "The MPA is best imaged in the parasternal SHORT-axis at the pulmonary-valve/great-vessel level, so “PSLAX only” is false. *(Practice review slide 21.)*",
+      "explanationImage": null,
+      "tags": [
+        "Measurements",
+        "Cardiac Dimensions",
+        "Echocardiography Quantification"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch06-q027",
+      "stem": "A trainee is preparing for a practical echocardiography assessment.  How is the Main Pulmonary Artery measured?",
+      "image": null,
+      "options": [
+        "At the end of the T wave",
+        "Leading edge to leading edge",
+        "Tissue/blood interface to tissue/blood interface"
+      ],
+      "answer": 2,
+      "explanation": "The course review identifies Tissue/blood interface to tissue/blood interface as the correct response. *(Practice review slide 23.)*",
+      "explanationImage": null,
+      "tags": [
+        "Measurements",
+        "Cardiac Dimensions",
+        "Echocardiography Quantification"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch06-q028",
+      "stem": "A trainee is preparing for a practical echocardiography assessment.  When is LA volume measured?",
+      "image": null,
+      "options": [
+        "End-Systole",
+        "End-Diastole",
+        "Mid-Diastole",
+        "Mid-Systole"
+      ],
+      "answer": 0,
+      "explanation": "LA volume is measured at end-systole — the frame just before mitral valve opening, when the LA is at its maximum size. *(Practice review slide 25.)*",
+      "explanationImage": null,
+      "tags": [
+        "Measurements",
+        "Cardiac Dimensions",
+        "Echocardiography Quantification"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch06-q029",
+      "stem": "A trainee is preparing for a practical echocardiography assessment.  LA linear measurement is preferred over LA volume. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "False",
+        "True",
+        "Cannot be determined from the image alone",
+        "Only true for pediatric echocardiography"
+      ],
+      "answer": 0,
+      "explanation": "The course review identifies False as the correct response. *(Practice review slide 27.)*",
+      "explanationImage": null,
+      "tags": [
+        "Measurements",
+        "Cardiac Dimensions",
+        "Echocardiography Quantification"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch06-q030",
+      "stem": "A trainee is preparing for a practical echocardiography assessment.  Exclude LA appendage during planimetry of LA volume. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "True",
+        "Only true for pediatric echocardiography",
+        "False",
+        "Cannot be determined from the image alone"
+      ],
+      "answer": 0,
+      "explanation": "The course review identifies True as the correct response. *(Practice review slide 29.)*",
+      "explanationImage": null,
+      "tags": [
+        "Measurements",
+        "Cardiac Dimensions",
+        "Echocardiography Quantification"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch06-q031",
+      "stem": "A trainee is preparing for a practical echocardiography assessment.  What two apical views are used to perform LA volume?",
+      "image": null,
+      "options": [
+        "Apical 5 & 3 Chamber",
+        "Apical 4 & 2 Chamber",
+        "Apical 2 & 3 Chamber",
+        "Apical 4 & 3 Chamber"
+      ],
+      "answer": 1,
+      "explanation": "The course review identifies Apical 4 & 2 Chamber as the correct response. *(Practice review slide 31.)*",
+      "explanationImage": null,
+      "tags": [
+        "Measurements",
+        "Cardiac Dimensions",
+        "Echocardiography Quantification"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch06-q032",
+      "stem": "A trainee is preparing for a practical echocardiography assessment.  LA volume is indexed to body surface area. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "False",
+        "Cannot be determined from the image alone",
+        "True",
+        "Only true for pediatric echocardiography"
+      ],
+      "answer": 2,
+      "explanation": "The course review identifies True as the correct response. *(Practice review slide 33.)*",
+      "explanationImage": null,
+      "tags": [
+        "Measurements",
+        "Cardiac Dimensions",
+        "Echocardiography Quantification"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch06-q033",
+      "stem": "While reviewing a standard adult echocardiography protocol, consider this question:  2D measuring is the golden standard for measurements. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "True",
+        "Only true for pediatric echocardiography",
+        "False",
+        "Cannot be determined from the image alone"
+      ],
+      "answer": 0,
+      "explanation": "Current ASE/Otto guidance makes 2D (and 2D-guided) imaging the reference standard for linear and volumetric chamber measurements, because the caliper sits on a true cross-section. *(Practice review slide 3.)*",
+      "explanationImage": null,
+      "tags": [
+        "Measurements",
+        "Cardiac Dimensions",
+        "Echocardiography Quantification"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch06-q034",
+      "stem": "While reviewing a standard adult echocardiography protocol, consider this question:  What measurement is done in End-Diastole?",
+      "image": null,
+      "options": [
+        "Left atrium",
+        "Interventricular septum",
+        "LVIDs"
+      ],
+      "answer": 1,
+      "explanation": "The course review identifies Interventricular septum as the correct response. *(Practice review slide 5.)*",
+      "explanationImage": null,
+      "tags": [
+        "Measurements",
+        "Cardiac Dimensions",
+        "Echocardiography Quantification"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch06-q035",
+      "stem": "While reviewing a standard adult echocardiography protocol, consider this question:  What measurement is done in End-Systole?",
+      "image": null,
+      "options": [
+        "LVIDd",
+        "LVIDs",
+        "Posterior wall",
+        "LVOT"
+      ],
+      "answer": 1,
+      "explanation": "The course review identifies LVIDs as the correct response. *(Practice review slide 7.)*",
+      "explanationImage": null,
+      "tags": [
+        "Measurements",
+        "Cardiac Dimensions",
+        "Echocardiography Quantification"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch06-q036",
+      "stem": "While reviewing a standard adult echocardiography protocol, consider this question:  What measurement is done mid-systole?",
+      "image": null,
+      "options": [
+        "Sinotubular junction",
+        "Aortic root",
+        "LVOT",
+        "Ascending aorta"
+      ],
+      "answer": 2,
+      "explanation": "The course review identifies LVOT as the correct response. *(Practice review slide 9.)*",
+      "explanationImage": null,
+      "tags": [
+        "Measurements",
+        "Cardiac Dimensions",
+        "Echocardiography Quantification"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch06-q037",
+      "stem": "While reviewing a standard adult echocardiography protocol, consider this question:  RV linear measurement is done at end-diastole. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "Cannot be determined from the image alone",
+        "Only true for pediatric echocardiography",
+        "False",
+        "True"
+      ],
+      "answer": 3,
+      "explanation": "The course review identifies True as the correct response. *(Practice review slide 11.)*",
+      "explanationImage": null,
+      "tags": [
+        "Measurements",
+        "Cardiac Dimensions",
+        "Echocardiography Quantification"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch06-q038",
+      "stem": "While reviewing a standard adult echocardiography protocol, consider this question:  RVOT can be measured in the parasternal long axis view and the parasternal short axis view. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "False",
+        "Only true for pediatric echocardiography",
+        "Cannot be determined from the image alone",
+        "True"
+      ],
+      "answer": 3,
+      "explanation": "The course review identifies True as the correct response. *(Practice review slide 13.)*",
+      "explanationImage": null,
+      "tags": [
+        "Measurements",
+        "Cardiac Dimensions",
+        "Echocardiography Quantification"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch06-q039",
+      "stem": "While reviewing a standard adult echocardiography protocol, consider this question:  How is the RVOT measured?",
+      "image": null,
+      "options": [
+        "At the end of the T wave",
+        "At the beginning of the QRS complex",
+        "Leading edge to leading edge",
+        "Tissue/blood interface to tissue/blood interface"
+      ],
+      "answer": 3,
+      "explanation": "Current ASE convention measures the RVOT inner-edge to inner-edge — that is, tissue/blood interface to tissue/blood interface. *(Practice review slide 15.)*",
+      "explanationImage": null,
+      "tags": [
+        "Measurements",
+        "Cardiac Dimensions",
+        "Echocardiography Quantification"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch06-q040",
+      "stem": "While reviewing a standard adult echocardiography protocol, consider this question:  The RVOT is measured at end diastole. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "Only true for pediatric echocardiography",
+        "True",
+        "False",
+        "Cannot be determined from the image alone"
+      ],
+      "answer": 1,
+      "explanation": "RVOT diameters are measured at end-diastole, consistent with the other RV chamber dimensions. 17 *(Practice review slide 17.)*",
+      "explanationImage": null,
+      "tags": [
+        "Measurements",
+        "Cardiac Dimensions",
+        "Echocardiography Quantification"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch06-q041",
+      "stem": "While reviewing a standard adult echocardiography protocol, consider this question:  Main Pulmonary Artery is measured in end-diastole. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "False",
+        "Only true for pediatric echocardiography",
+        "Cannot be determined from the image alone",
+        "True"
+      ],
+      "answer": 3,
+      "explanation": "The course review identifies True as the correct response. *(Practice review slide 19.)*",
+      "explanationImage": null,
+      "tags": [
+        "Measurements",
+        "Cardiac Dimensions",
+        "Echocardiography Quantification"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch06-q042",
+      "stem": "While reviewing a standard adult echocardiography protocol, consider this question:  Main Pulmonary Artery can be measured in the RVOT in the PSLAX view only. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "True",
+        "False",
+        "Cannot be determined from the image alone",
+        "Only true for pediatric echocardiography"
+      ],
+      "answer": 1,
+      "explanation": "The MPA is best imaged in the parasternal SHORT-axis at the pulmonary-valve/great-vessel level, so “PSLAX only” is false. *(Practice review slide 21.)*",
+      "explanationImage": null,
+      "tags": [
+        "Measurements",
+        "Cardiac Dimensions",
+        "Echocardiography Quantification"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch06-q043",
+      "stem": "While reviewing a standard adult echocardiography protocol, consider this question:  How is the Main Pulmonary Artery measured?",
+      "image": null,
+      "options": [
+        "Leading edge to leading edge",
+        "Tissue/blood interface to tissue/blood interface",
+        "At the end of the T wave"
+      ],
+      "answer": 1,
+      "explanation": "The course review identifies Tissue/blood interface to tissue/blood interface as the correct response. *(Practice review slide 23.)*",
+      "explanationImage": null,
+      "tags": [
+        "Measurements",
+        "Cardiac Dimensions",
+        "Echocardiography Quantification"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch06-q044",
+      "stem": "While reviewing a standard adult echocardiography protocol, consider this question:  When is LA volume measured?",
+      "image": null,
+      "options": [
+        "Mid-Diastole",
+        "End-Diastole",
+        "End-Systole",
+        "Mid-Systole"
+      ],
+      "answer": 2,
+      "explanation": "LA volume is measured at end-systole — the frame just before mitral valve opening, when the LA is at its maximum size. *(Practice review slide 25.)*",
+      "explanationImage": null,
+      "tags": [
+        "Measurements",
+        "Cardiac Dimensions",
+        "Echocardiography Quantification"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch06-q045",
+      "stem": "While reviewing a standard adult echocardiography protocol, consider this question:  LA linear measurement is preferred over LA volume. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "Only true for pediatric echocardiography",
+        "False",
+        "True",
+        "Cannot be determined from the image alone"
+      ],
+      "answer": 1,
+      "explanation": "The course review identifies False as the correct response. *(Practice review slide 27.)*",
+      "explanationImage": null,
+      "tags": [
+        "Measurements",
+        "Cardiac Dimensions",
+        "Echocardiography Quantification"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch06-q046",
+      "stem": "While reviewing a standard adult echocardiography protocol, consider this question:  Exclude LA appendage during planimetry of LA volume. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "False",
+        "True",
+        "Only true for pediatric echocardiography",
+        "Cannot be determined from the image alone"
+      ],
+      "answer": 1,
+      "explanation": "The course review identifies True as the correct response. *(Practice review slide 29.)*",
+      "explanationImage": null,
+      "tags": [
+        "Measurements",
+        "Cardiac Dimensions",
+        "Echocardiography Quantification"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch06-q047",
+      "stem": "While reviewing a standard adult echocardiography protocol, consider this question:  What two apical views are used to perform LA volume?",
+      "image": null,
+      "options": [
+        "Apical 5 & 3 Chamber",
+        "Apical 4 & 3 Chamber",
+        "Apical 4 & 2 Chamber",
+        "Apical 2 & 3 Chamber"
+      ],
+      "answer": 2,
+      "explanation": "The course review identifies Apical 4 & 2 Chamber as the correct response. *(Practice review slide 31.)*",
+      "explanationImage": null,
+      "tags": [
+        "Measurements",
+        "Cardiac Dimensions",
+        "Echocardiography Quantification"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch06-q048",
+      "stem": "While reviewing a standard adult echocardiography protocol, consider this question:  LA volume is indexed to body surface area. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "Cannot be determined from the image alone",
+        "Only true for pediatric echocardiography",
+        "False",
+        "True"
+      ],
+      "answer": 3,
+      "explanation": "The course review identifies True as the correct response. *(Practice review slide 33.)*",
+      "explanationImage": null,
+      "tags": [
+        "Measurements",
+        "Cardiac Dimensions",
+        "Echocardiography Quantification"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch06-q049",
+      "stem": "A sonographer is asked to select the most accurate response.  2D measuring is the golden standard for measurements. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "False",
+        "Cannot be determined from the image alone",
+        "Only true for pediatric echocardiography",
+        "True"
+      ],
+      "answer": 3,
+      "explanation": "Current ASE/Otto guidance makes 2D (and 2D-guided) imaging the reference standard for linear and volumetric chamber measurements, because the caliper sits on a true cross-section. *(Practice review slide 3.)*",
+      "explanationImage": null,
+      "tags": [
+        "Measurements",
+        "Cardiac Dimensions",
+        "Echocardiography Quantification"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch06-q050",
+      "stem": "A sonographer is asked to select the most accurate response.  What measurement is done in End-Diastole?",
+      "image": null,
+      "options": [
+        "LVIDs",
+        "Interventricular septum",
+        "Left atrium"
+      ],
+      "answer": 1,
+      "explanation": "The course review identifies Interventricular septum as the correct response. *(Practice review slide 5.)*",
+      "explanationImage": null,
+      "tags": [
+        "Measurements",
+        "Cardiac Dimensions",
+        "Echocardiography Quantification"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch06-q051",
+      "stem": "A sonographer is asked to select the most accurate response.  What measurement is done in End-Systole?",
+      "image": null,
+      "options": [
+        "LVOT",
+        "LVIDs",
+        "Posterior wall",
+        "LVIDd"
+      ],
+      "answer": 1,
+      "explanation": "The course review identifies LVIDs as the correct response. *(Practice review slide 7.)*",
+      "explanationImage": null,
+      "tags": [
+        "Measurements",
+        "Cardiac Dimensions",
+        "Echocardiography Quantification"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch06-q052",
+      "stem": "A sonographer is asked to select the most accurate response.  What measurement is done mid-systole?",
+      "image": null,
+      "options": [
+        "Ascending aorta",
+        "LVOT",
+        "Aortic root",
+        "Sinotubular junction"
+      ],
+      "answer": 1,
+      "explanation": "The course review identifies LVOT as the correct response. *(Practice review slide 9.)*",
+      "explanationImage": null,
+      "tags": [
+        "Measurements",
+        "Cardiac Dimensions",
+        "Echocardiography Quantification"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch06-q053",
+      "stem": "A sonographer is asked to select the most accurate response.  RV linear measurement is done at end-diastole. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "False",
+        "True",
+        "Cannot be determined from the image alone",
+        "Only true for pediatric echocardiography"
+      ],
+      "answer": 1,
+      "explanation": "The course review identifies True as the correct response. *(Practice review slide 11.)*",
+      "explanationImage": null,
+      "tags": [
+        "Measurements",
+        "Cardiac Dimensions",
+        "Echocardiography Quantification"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch06-q054",
+      "stem": "A sonographer is asked to select the most accurate response.  RVOT can be measured in the parasternal long axis view and the parasternal short axis view. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "True",
+        "Cannot be determined from the image alone",
+        "False",
+        "Only true for pediatric echocardiography"
+      ],
+      "answer": 0,
+      "explanation": "The course review identifies True as the correct response. *(Practice review slide 13.)*",
+      "explanationImage": null,
+      "tags": [
+        "Measurements",
+        "Cardiac Dimensions",
+        "Echocardiography Quantification"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch06-q055",
+      "stem": "A sonographer is asked to select the most accurate response.  How is the RVOT measured?",
+      "image": null,
+      "options": [
+        "Tissue/blood interface to tissue/blood interface",
+        "At the beginning of the QRS complex",
+        "At the end of the T wave",
+        "Leading edge to leading edge"
+      ],
+      "answer": 0,
+      "explanation": "Current ASE convention measures the RVOT inner-edge to inner-edge — that is, tissue/blood interface to tissue/blood interface. *(Practice review slide 15.)*",
+      "explanationImage": null,
+      "tags": [
+        "Measurements",
+        "Cardiac Dimensions",
+        "Echocardiography Quantification"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch06-q056",
+      "stem": "A sonographer is asked to select the most accurate response.  The RVOT is measured at end diastole. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "Only true for pediatric echocardiography",
+        "Cannot be determined from the image alone",
+        "False",
+        "True"
+      ],
+      "answer": 3,
+      "explanation": "RVOT diameters are measured at end-diastole, consistent with the other RV chamber dimensions. 17 *(Practice review slide 17.)*",
+      "explanationImage": null,
+      "tags": [
+        "Measurements",
+        "Cardiac Dimensions",
+        "Echocardiography Quantification"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch06-q057",
+      "stem": "A sonographer is asked to select the most accurate response.  Main Pulmonary Artery is measured in end-diastole. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "Cannot be determined from the image alone",
+        "True",
+        "Only true for pediatric echocardiography",
+        "False"
+      ],
+      "answer": 1,
+      "explanation": "The course review identifies True as the correct response. *(Practice review slide 19.)*",
+      "explanationImage": null,
+      "tags": [
+        "Measurements",
+        "Cardiac Dimensions",
+        "Echocardiography Quantification"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch06-q058",
+      "stem": "A sonographer is asked to select the most accurate response.  Main Pulmonary Artery can be measured in the RVOT in the PSLAX view only. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "True",
+        "Cannot be determined from the image alone",
+        "False",
+        "Only true for pediatric echocardiography"
+      ],
+      "answer": 2,
+      "explanation": "The MPA is best imaged in the parasternal SHORT-axis at the pulmonary-valve/great-vessel level, so “PSLAX only” is false. *(Practice review slide 21.)*",
+      "explanationImage": null,
+      "tags": [
+        "Measurements",
+        "Cardiac Dimensions",
+        "Echocardiography Quantification"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch06-q059",
+      "stem": "A sonographer is asked to select the most accurate response.  How is the Main Pulmonary Artery measured?",
+      "image": null,
+      "options": [
+        "Leading edge to leading edge",
+        "At the end of the T wave",
+        "Tissue/blood interface to tissue/blood interface"
+      ],
+      "answer": 2,
+      "explanation": "The course review identifies Tissue/blood interface to tissue/blood interface as the correct response. *(Practice review slide 23.)*",
+      "explanationImage": null,
+      "tags": [
+        "Measurements",
+        "Cardiac Dimensions",
+        "Echocardiography Quantification"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch06-q060",
+      "stem": "A sonographer is asked to select the most accurate response.  When is LA volume measured?",
+      "image": null,
+      "options": [
+        "End-Diastole",
+        "Mid-Systole",
+        "End-Systole",
+        "Mid-Diastole"
+      ],
+      "answer": 2,
+      "explanation": "LA volume is measured at end-systole — the frame just before mitral valve opening, when the LA is at its maximum size. *(Practice review slide 25.)*",
+      "explanationImage": null,
+      "tags": [
+        "Measurements",
+        "Cardiac Dimensions",
+        "Echocardiography Quantification"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch06-q061",
+      "stem": "A sonographer is asked to select the most accurate response.  LA linear measurement is preferred over LA volume. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "True",
+        "False",
+        "Cannot be determined from the image alone",
+        "Only true for pediatric echocardiography"
+      ],
+      "answer": 1,
+      "explanation": "The course review identifies False as the correct response. *(Practice review slide 27.)*",
+      "explanationImage": null,
+      "tags": [
+        "Measurements",
+        "Cardiac Dimensions",
+        "Echocardiography Quantification"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch06-q062",
+      "stem": "A sonographer is asked to select the most accurate response.  Exclude LA appendage during planimetry of LA volume. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "Cannot be determined from the image alone",
+        "Only true for pediatric echocardiography",
+        "False",
+        "True"
+      ],
+      "answer": 3,
+      "explanation": "The course review identifies True as the correct response. *(Practice review slide 29.)*",
+      "explanationImage": null,
+      "tags": [
+        "Measurements",
+        "Cardiac Dimensions",
+        "Echocardiography Quantification"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch06-q063",
+      "stem": "A sonographer is asked to select the most accurate response.  What two apical views are used to perform LA volume?",
+      "image": null,
+      "options": [
+        "Apical 4 & 3 Chamber",
+        "Apical 4 & 2 Chamber",
+        "Apical 5 & 3 Chamber",
+        "Apical 2 & 3 Chamber"
+      ],
+      "answer": 1,
+      "explanation": "The course review identifies Apical 4 & 2 Chamber as the correct response. *(Practice review slide 31.)*",
+      "explanationImage": null,
+      "tags": [
+        "Measurements",
+        "Cardiac Dimensions",
+        "Echocardiography Quantification"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch06-q064",
+      "stem": "A sonographer is asked to select the most accurate response.  LA volume is indexed to body surface area. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "False",
+        "Only true for pediatric echocardiography",
+        "Cannot be determined from the image alone",
+        "True"
+      ],
+      "answer": 3,
+      "explanation": "The course review identifies True as the correct response. *(Practice review slide 33.)*",
+      "explanationImage": null,
+      "tags": [
+        "Measurements",
+        "Cardiac Dimensions",
+        "Echocardiography Quantification"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch06-q065",
+      "stem": "During quality review of an adult echo study, the following point is discussed.  2D measuring is the golden standard for measurements. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "False",
+        "Cannot be determined from the image alone",
+        "Only true for pediatric echocardiography",
+        "True"
+      ],
+      "answer": 3,
+      "explanation": "Current ASE/Otto guidance makes 2D (and 2D-guided) imaging the reference standard for linear and volumetric chamber measurements, because the caliper sits on a true cross-section. *(Practice review slide 3.)*",
+      "explanationImage": null,
+      "tags": [
+        "Measurements",
+        "Cardiac Dimensions",
+        "Echocardiography Quantification"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch06-q066",
+      "stem": "During quality review of an adult echo study, the following point is discussed.  What measurement is done in End-Diastole?",
+      "image": null,
+      "options": [
+        "Interventricular septum",
+        "LVIDs",
+        "Left atrium"
+      ],
+      "answer": 0,
+      "explanation": "The course review identifies Interventricular septum as the correct response. *(Practice review slide 5.)*",
+      "explanationImage": null,
+      "tags": [
+        "Measurements",
+        "Cardiac Dimensions",
+        "Echocardiography Quantification"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch06-q067",
+      "stem": "During quality review of an adult echo study, the following point is discussed.  What measurement is done in End-Systole?",
+      "image": null,
+      "options": [
+        "Posterior wall",
+        "LVIDs",
+        "LVOT",
+        "LVIDd"
+      ],
+      "answer": 1,
+      "explanation": "The course review identifies LVIDs as the correct response. *(Practice review slide 7.)*",
+      "explanationImage": null,
+      "tags": [
+        "Measurements",
+        "Cardiac Dimensions",
+        "Echocardiography Quantification"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch06-q068",
+      "stem": "During quality review of an adult echo study, the following point is discussed.  What measurement is done mid-systole?",
+      "image": null,
+      "options": [
+        "Ascending aorta",
+        "Aortic root",
+        "Sinotubular junction",
+        "LVOT"
+      ],
+      "answer": 3,
+      "explanation": "The course review identifies LVOT as the correct response. *(Practice review slide 9.)*",
+      "explanationImage": null,
+      "tags": [
+        "Measurements",
+        "Cardiac Dimensions",
+        "Echocardiography Quantification"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch06-q069",
+      "stem": "During quality review of an adult echo study, the following point is discussed.  RV linear measurement is done at end-diastole. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "Cannot be determined from the image alone",
+        "False",
+        "Only true for pediatric echocardiography",
+        "True"
+      ],
+      "answer": 3,
+      "explanation": "The course review identifies True as the correct response. *(Practice review slide 11.)*",
+      "explanationImage": null,
+      "tags": [
+        "Measurements",
+        "Cardiac Dimensions",
+        "Echocardiography Quantification"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch06-q070",
+      "stem": "During quality review of an adult echo study, the following point is discussed.  RVOT can be measured in the parasternal long axis view and the parasternal short axis view. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "Only true for pediatric echocardiography",
+        "Cannot be determined from the image alone",
+        "False",
+        "True"
+      ],
+      "answer": 3,
+      "explanation": "The course review identifies True as the correct response. *(Practice review slide 13.)*",
+      "explanationImage": null,
+      "tags": [
+        "Measurements",
+        "Cardiac Dimensions",
+        "Echocardiography Quantification"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch06-q071",
+      "stem": "During quality review of an adult echo study, the following point is discussed.  How is the RVOT measured?",
+      "image": null,
+      "options": [
+        "Leading edge to leading edge",
+        "Tissue/blood interface to tissue/blood interface",
+        "At the beginning of the QRS complex",
+        "At the end of the T wave"
+      ],
+      "answer": 1,
+      "explanation": "Current ASE convention measures the RVOT inner-edge to inner-edge — that is, tissue/blood interface to tissue/blood interface. *(Practice review slide 15.)*",
+      "explanationImage": null,
+      "tags": [
+        "Measurements",
+        "Cardiac Dimensions",
+        "Echocardiography Quantification"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch06-q072",
+      "stem": "During quality review of an adult echo study, the following point is discussed.  The RVOT is measured at end diastole. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "Only true for pediatric echocardiography",
+        "False",
+        "True",
+        "Cannot be determined from the image alone"
+      ],
+      "answer": 2,
+      "explanation": "RVOT diameters are measured at end-diastole, consistent with the other RV chamber dimensions. 17 *(Practice review slide 17.)*",
+      "explanationImage": null,
+      "tags": [
+        "Measurements",
+        "Cardiac Dimensions",
+        "Echocardiography Quantification"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch06-q073",
+      "stem": "During quality review of an adult echo study, the following point is discussed.  Main Pulmonary Artery is measured in end-diastole. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "Only true for pediatric echocardiography",
+        "True",
+        "False",
+        "Cannot be determined from the image alone"
+      ],
+      "answer": 1,
+      "explanation": "The course review identifies True as the correct response. *(Practice review slide 19.)*",
+      "explanationImage": null,
+      "tags": [
+        "Measurements",
+        "Cardiac Dimensions",
+        "Echocardiography Quantification"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch06-q074",
+      "stem": "During quality review of an adult echo study, the following point is discussed.  Main Pulmonary Artery can be measured in the RVOT in the PSLAX view only. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "Only true for pediatric echocardiography",
+        "True",
+        "Cannot be determined from the image alone",
+        "False"
+      ],
+      "answer": 3,
+      "explanation": "The MPA is best imaged in the parasternal SHORT-axis at the pulmonary-valve/great-vessel level, so “PSLAX only” is false. *(Practice review slide 21.)*",
+      "explanationImage": null,
+      "tags": [
+        "Measurements",
+        "Cardiac Dimensions",
+        "Echocardiography Quantification"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch06-q075",
+      "stem": "During quality review of an adult echo study, the following point is discussed.  How is the Main Pulmonary Artery measured?",
+      "image": null,
+      "options": [
+        "Tissue/blood interface to tissue/blood interface",
+        "At the end of the T wave",
+        "Leading edge to leading edge"
+      ],
+      "answer": 0,
+      "explanation": "The course review identifies Tissue/blood interface to tissue/blood interface as the correct response. *(Practice review slide 23.)*",
+      "explanationImage": null,
+      "tags": [
+        "Measurements",
+        "Cardiac Dimensions",
+        "Echocardiography Quantification"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch06-q076",
+      "stem": "During quality review of an adult echo study, the following point is discussed.  When is LA volume measured?",
+      "image": null,
+      "options": [
+        "End-Diastole",
+        "Mid-Systole",
+        "End-Systole",
+        "Mid-Diastole"
+      ],
+      "answer": 2,
+      "explanation": "LA volume is measured at end-systole — the frame just before mitral valve opening, when the LA is at its maximum size. *(Practice review slide 25.)*",
+      "explanationImage": null,
+      "tags": [
+        "Measurements",
+        "Cardiac Dimensions",
+        "Echocardiography Quantification"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch06-q077",
+      "stem": "During quality review of an adult echo study, the following point is discussed.  LA linear measurement is preferred over LA volume. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "True",
+        "Cannot be determined from the image alone",
+        "False",
+        "Only true for pediatric echocardiography"
+      ],
+      "answer": 2,
+      "explanation": "The course review identifies False as the correct response. *(Practice review slide 27.)*",
+      "explanationImage": null,
+      "tags": [
+        "Measurements",
+        "Cardiac Dimensions",
+        "Echocardiography Quantification"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch06-q078",
+      "stem": "During quality review of an adult echo study, the following point is discussed.  Exclude LA appendage during planimetry of LA volume. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "Only true for pediatric echocardiography",
+        "Cannot be determined from the image alone",
+        "True",
+        "False"
+      ],
+      "answer": 2,
+      "explanation": "The course review identifies True as the correct response. *(Practice review slide 29.)*",
+      "explanationImage": null,
+      "tags": [
+        "Measurements",
+        "Cardiac Dimensions",
+        "Echocardiography Quantification"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch06-q079",
+      "stem": "During quality review of an adult echo study, the following point is discussed.  What two apical views are used to perform LA volume?",
+      "image": null,
+      "options": [
+        "Apical 5 & 3 Chamber",
+        "Apical 4 & 2 Chamber",
+        "Apical 2 & 3 Chamber",
+        "Apical 4 & 3 Chamber"
+      ],
+      "answer": 1,
+      "explanation": "The course review identifies Apical 4 & 2 Chamber as the correct response. *(Practice review slide 31.)*",
+      "explanationImage": null,
+      "tags": [
+        "Measurements",
+        "Cardiac Dimensions",
+        "Echocardiography Quantification"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch06-q080",
+      "stem": "During quality review of an adult echo study, the following point is discussed.  LA volume is indexed to body surface area. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "Only true for pediatric echocardiography",
+        "True",
+        "Cannot be determined from the image alone",
+        "False"
+      ],
+      "answer": 1,
+      "explanation": "The course review identifies True as the correct response. *(Practice review slide 33.)*",
+      "explanationImage": null,
+      "tags": [
+        "Measurements",
+        "Cardiac Dimensions",
+        "Echocardiography Quantification"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch06-q081",
+      "stem": "An adult cardiac sonography student is interpreting a teaching case.  2D measuring is the golden standard for measurements. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "False",
+        "True",
+        "Cannot be determined from the image alone",
+        "Only true for pediatric echocardiography"
+      ],
+      "answer": 1,
+      "explanation": "Current ASE/Otto guidance makes 2D (and 2D-guided) imaging the reference standard for linear and volumetric chamber measurements, because the caliper sits on a true cross-section. *(Practice review slide 3.)*",
+      "explanationImage": null,
+      "tags": [
+        "Measurements",
+        "Cardiac Dimensions",
+        "Echocardiography Quantification"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch06-q082",
+      "stem": "An adult cardiac sonography student is interpreting a teaching case.  What measurement is done in End-Diastole?",
+      "image": null,
+      "options": [
+        "Interventricular septum",
+        "Left atrium",
+        "LVIDs"
+      ],
+      "answer": 0,
+      "explanation": "The course review identifies Interventricular septum as the correct response. *(Practice review slide 5.)*",
+      "explanationImage": null,
+      "tags": [
+        "Measurements",
+        "Cardiac Dimensions",
+        "Echocardiography Quantification"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch06-q083",
+      "stem": "An adult cardiac sonography student is interpreting a teaching case.  What measurement is done in End-Systole?",
+      "image": null,
+      "options": [
+        "LVIDs",
+        "Posterior wall",
+        "LVIDd",
+        "LVOT"
+      ],
+      "answer": 0,
+      "explanation": "The course review identifies LVIDs as the correct response. *(Practice review slide 7.)*",
+      "explanationImage": null,
+      "tags": [
+        "Measurements",
+        "Cardiac Dimensions",
+        "Echocardiography Quantification"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch06-q084",
+      "stem": "An adult cardiac sonography student is interpreting a teaching case.  What measurement is done mid-systole?",
+      "image": null,
+      "options": [
+        "LVOT",
+        "Ascending aorta",
+        "Aortic root",
+        "Sinotubular junction"
+      ],
+      "answer": 0,
+      "explanation": "The course review identifies LVOT as the correct response. *(Practice review slide 9.)*",
+      "explanationImage": null,
+      "tags": [
+        "Measurements",
+        "Cardiac Dimensions",
+        "Echocardiography Quantification"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch06-q085",
+      "stem": "An adult cardiac sonography student is interpreting a teaching case.  RV linear measurement is done at end-diastole. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "True",
+        "Cannot be determined from the image alone",
+        "False",
+        "Only true for pediatric echocardiography"
+      ],
+      "answer": 0,
+      "explanation": "The course review identifies True as the correct response. *(Practice review slide 11.)*",
+      "explanationImage": null,
+      "tags": [
+        "Measurements",
+        "Cardiac Dimensions",
+        "Echocardiography Quantification"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch06-q086",
+      "stem": "An adult cardiac sonography student is interpreting a teaching case.  RVOT can be measured in the parasternal long axis view and the parasternal short axis view. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "True",
+        "Only true for pediatric echocardiography",
+        "Cannot be determined from the image alone",
+        "False"
+      ],
+      "answer": 0,
+      "explanation": "The course review identifies True as the correct response. *(Practice review slide 13.)*",
+      "explanationImage": null,
+      "tags": [
+        "Measurements",
+        "Cardiac Dimensions",
+        "Echocardiography Quantification"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch06-q087",
+      "stem": "An adult cardiac sonography student is interpreting a teaching case.  How is the RVOT measured?",
+      "image": null,
+      "options": [
+        "Leading edge to leading edge",
+        "At the beginning of the QRS complex",
+        "Tissue/blood interface to tissue/blood interface",
+        "At the end of the T wave"
+      ],
+      "answer": 2,
+      "explanation": "Current ASE convention measures the RVOT inner-edge to inner-edge — that is, tissue/blood interface to tissue/blood interface. *(Practice review slide 15.)*",
+      "explanationImage": null,
+      "tags": [
+        "Measurements",
+        "Cardiac Dimensions",
+        "Echocardiography Quantification"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch06-q088",
+      "stem": "An adult cardiac sonography student is interpreting a teaching case.  The RVOT is measured at end diastole. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "Only true for pediatric echocardiography",
+        "False",
+        "Cannot be determined from the image alone",
+        "True"
+      ],
+      "answer": 3,
+      "explanation": "RVOT diameters are measured at end-diastole, consistent with the other RV chamber dimensions. 17 *(Practice review slide 17.)*",
+      "explanationImage": null,
+      "tags": [
+        "Measurements",
+        "Cardiac Dimensions",
+        "Echocardiography Quantification"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch06-q089",
+      "stem": "An adult cardiac sonography student is interpreting a teaching case.  Main Pulmonary Artery is measured in end-diastole. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "False",
+        "True",
+        "Cannot be determined from the image alone",
+        "Only true for pediatric echocardiography"
+      ],
+      "answer": 1,
+      "explanation": "The course review identifies True as the correct response. *(Practice review slide 19.)*",
+      "explanationImage": null,
+      "tags": [
+        "Measurements",
+        "Cardiac Dimensions",
+        "Echocardiography Quantification"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch06-q090",
+      "stem": "An adult cardiac sonography student is interpreting a teaching case.  Main Pulmonary Artery can be measured in the RVOT in the PSLAX view only. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "Only true for pediatric echocardiography",
+        "True",
+        "False",
+        "Cannot be determined from the image alone"
+      ],
+      "answer": 2,
+      "explanation": "The MPA is best imaged in the parasternal SHORT-axis at the pulmonary-valve/great-vessel level, so “PSLAX only” is false. *(Practice review slide 21.)*",
+      "explanationImage": null,
+      "tags": [
+        "Measurements",
+        "Cardiac Dimensions",
+        "Echocardiography Quantification"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch06-q091",
+      "stem": "An adult cardiac sonography student is interpreting a teaching case.  How is the Main Pulmonary Artery measured?",
+      "image": null,
+      "options": [
+        "At the end of the T wave",
+        "Leading edge to leading edge",
+        "Tissue/blood interface to tissue/blood interface"
+      ],
+      "answer": 2,
+      "explanation": "The course review identifies Tissue/blood interface to tissue/blood interface as the correct response. *(Practice review slide 23.)*",
+      "explanationImage": null,
+      "tags": [
+        "Measurements",
+        "Cardiac Dimensions",
+        "Echocardiography Quantification"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch06-q092",
+      "stem": "An adult cardiac sonography student is interpreting a teaching case.  When is LA volume measured?",
+      "image": null,
+      "options": [
+        "End-Systole",
+        "End-Diastole",
+        "Mid-Systole",
+        "Mid-Diastole"
+      ],
+      "answer": 0,
+      "explanation": "LA volume is measured at end-systole — the frame just before mitral valve opening, when the LA is at its maximum size. *(Practice review slide 25.)*",
+      "explanationImage": null,
+      "tags": [
+        "Measurements",
+        "Cardiac Dimensions",
+        "Echocardiography Quantification"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch06-q093",
+      "stem": "An adult cardiac sonography student is interpreting a teaching case.  LA linear measurement is preferred over LA volume. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "Only true for pediatric echocardiography",
+        "Cannot be determined from the image alone",
+        "False",
+        "True"
+      ],
+      "answer": 2,
+      "explanation": "The course review identifies False as the correct response. *(Practice review slide 27.)*",
+      "explanationImage": null,
+      "tags": [
+        "Measurements",
+        "Cardiac Dimensions",
+        "Echocardiography Quantification"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch06-q094",
+      "stem": "An adult cardiac sonography student is interpreting a teaching case.  Exclude LA appendage during planimetry of LA volume. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "True",
+        "Only true for pediatric echocardiography",
+        "False",
+        "Cannot be determined from the image alone"
+      ],
+      "answer": 0,
+      "explanation": "The course review identifies True as the correct response. *(Practice review slide 29.)*",
+      "explanationImage": null,
+      "tags": [
+        "Measurements",
+        "Cardiac Dimensions",
+        "Echocardiography Quantification"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch06-q095",
+      "stem": "An adult cardiac sonography student is interpreting a teaching case.  What two apical views are used to perform LA volume?",
+      "image": null,
+      "options": [
+        "Apical 5 & 3 Chamber",
+        "Apical 4 & 2 Chamber",
+        "Apical 4 & 3 Chamber",
+        "Apical 2 & 3 Chamber"
+      ],
+      "answer": 1,
+      "explanation": "The course review identifies Apical 4 & 2 Chamber as the correct response. *(Practice review slide 31.)*",
+      "explanationImage": null,
+      "tags": [
+        "Measurements",
+        "Cardiac Dimensions",
+        "Echocardiography Quantification"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch06-q096",
+      "stem": "An adult cardiac sonography student is interpreting a teaching case.  LA volume is indexed to body surface area. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "Only true for pediatric echocardiography",
+        "Cannot be determined from the image alone",
+        "True",
+        "False"
+      ],
+      "answer": 2,
+      "explanation": "The course review identifies True as the correct response. *(Practice review slide 33.)*",
+      "explanationImage": null,
+      "tags": [
+        "Measurements",
+        "Cardiac Dimensions",
+        "Echocardiography Quantification"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch06-q097",
+      "stem": "Before image acquisition, a sonographer checks their understanding of the following.  2D measuring is the golden standard for measurements. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "True",
+        "Only true for pediatric echocardiography",
+        "False",
+        "Cannot be determined from the image alone"
+      ],
+      "answer": 0,
+      "explanation": "Current ASE/Otto guidance makes 2D (and 2D-guided) imaging the reference standard for linear and volumetric chamber measurements, because the caliper sits on a true cross-section. *(Practice review slide 3.)*",
+      "explanationImage": null,
+      "tags": [
+        "Measurements",
+        "Cardiac Dimensions",
+        "Echocardiography Quantification"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch06-q098",
+      "stem": "Before image acquisition, a sonographer checks their understanding of the following.  What measurement is done in End-Diastole?",
+      "image": null,
+      "options": [
+        "LVIDs",
+        "Interventricular septum",
+        "Left atrium"
+      ],
+      "answer": 1,
+      "explanation": "The course review identifies Interventricular septum as the correct response. *(Practice review slide 5.)*",
+      "explanationImage": null,
+      "tags": [
+        "Measurements",
+        "Cardiac Dimensions",
+        "Echocardiography Quantification"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch06-q099",
+      "stem": "Before image acquisition, a sonographer checks their understanding of the following.  What measurement is done in End-Systole?",
+      "image": null,
+      "options": [
+        "LVOT",
+        "LVIDd",
+        "LVIDs",
+        "Posterior wall"
+      ],
+      "answer": 2,
+      "explanation": "The course review identifies LVIDs as the correct response. *(Practice review slide 7.)*",
+      "explanationImage": null,
+      "tags": [
+        "Measurements",
+        "Cardiac Dimensions",
+        "Echocardiography Quantification"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch06-q100",
+      "stem": "Before image acquisition, a sonographer checks their understanding of the following.  What measurement is done mid-systole?",
+      "image": null,
+      "options": [
+        "LVOT",
+        "Aortic root",
+        "Sinotubular junction",
+        "Ascending aorta"
+      ],
+      "answer": 0,
+      "explanation": "The course review identifies LVOT as the correct response. *(Practice review slide 9.)*",
+      "explanationImage": null,
+      "tags": [
+        "Measurements",
+        "Cardiac Dimensions",
+        "Echocardiography Quantification"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch06-q101",
+      "stem": "Before image acquisition, a sonographer checks their understanding of the following.  RV linear measurement is done at end-diastole. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "True",
+        "Cannot be determined from the image alone",
+        "Only true for pediatric echocardiography",
+        "False"
+      ],
+      "answer": 0,
+      "explanation": "The course review identifies True as the correct response. *(Practice review slide 11.)*",
+      "explanationImage": null,
+      "tags": [
+        "Measurements",
+        "Cardiac Dimensions",
+        "Echocardiography Quantification"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch06-q102",
+      "stem": "Before image acquisition, a sonographer checks their understanding of the following.  RVOT can be measured in the parasternal long axis view and the parasternal short axis view. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "False",
+        "Cannot be determined from the image alone",
+        "Only true for pediatric echocardiography",
+        "True"
+      ],
+      "answer": 3,
+      "explanation": "The course review identifies True as the correct response. *(Practice review slide 13.)*",
+      "explanationImage": null,
+      "tags": [
+        "Measurements",
+        "Cardiac Dimensions",
+        "Echocardiography Quantification"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch06-q103",
+      "stem": "Before image acquisition, a sonographer checks their understanding of the following.  How is the RVOT measured?",
+      "image": null,
+      "options": [
+        "At the beginning of the QRS complex",
+        "Leading edge to leading edge",
+        "At the end of the T wave",
+        "Tissue/blood interface to tissue/blood interface"
+      ],
+      "answer": 3,
+      "explanation": "Current ASE convention measures the RVOT inner-edge to inner-edge — that is, tissue/blood interface to tissue/blood interface. *(Practice review slide 15.)*",
+      "explanationImage": null,
+      "tags": [
+        "Measurements",
+        "Cardiac Dimensions",
+        "Echocardiography Quantification"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch06-q104",
+      "stem": "Before image acquisition, a sonographer checks their understanding of the following.  The RVOT is measured at end diastole. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "True",
+        "False",
+        "Cannot be determined from the image alone",
+        "Only true for pediatric echocardiography"
+      ],
+      "answer": 0,
+      "explanation": "RVOT diameters are measured at end-diastole, consistent with the other RV chamber dimensions. 17 *(Practice review slide 17.)*",
+      "explanationImage": null,
+      "tags": [
+        "Measurements",
+        "Cardiac Dimensions",
+        "Echocardiography Quantification"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch06-q105",
+      "stem": "Before image acquisition, a sonographer checks their understanding of the following.  Main Pulmonary Artery is measured in end-diastole. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "False",
+        "Cannot be determined from the image alone",
+        "True",
+        "Only true for pediatric echocardiography"
+      ],
+      "answer": 2,
+      "explanation": "The course review identifies True as the correct response. *(Practice review slide 19.)*",
+      "explanationImage": null,
+      "tags": [
+        "Measurements",
+        "Cardiac Dimensions",
+        "Echocardiography Quantification"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch06-q106",
+      "stem": "Before image acquisition, a sonographer checks their understanding of the following.  Main Pulmonary Artery can be measured in the RVOT in the PSLAX view only. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "True",
+        "Only true for pediatric echocardiography",
+        "Cannot be determined from the image alone",
+        "False"
+      ],
+      "answer": 3,
+      "explanation": "The MPA is best imaged in the parasternal SHORT-axis at the pulmonary-valve/great-vessel level, so “PSLAX only” is false. *(Practice review slide 21.)*",
+      "explanationImage": null,
+      "tags": [
+        "Measurements",
+        "Cardiac Dimensions",
+        "Echocardiography Quantification"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch06-q107",
+      "stem": "Before image acquisition, a sonographer checks their understanding of the following.  How is the Main Pulmonary Artery measured?",
+      "image": null,
+      "options": [
+        "At the end of the T wave",
+        "Tissue/blood interface to tissue/blood interface",
+        "Leading edge to leading edge"
+      ],
+      "answer": 1,
+      "explanation": "The course review identifies Tissue/blood interface to tissue/blood interface as the correct response. *(Practice review slide 23.)*",
+      "explanationImage": null,
+      "tags": [
+        "Measurements",
+        "Cardiac Dimensions",
+        "Echocardiography Quantification"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch06-q108",
+      "stem": "Before image acquisition, a sonographer checks their understanding of the following.  When is LA volume measured?",
+      "image": null,
+      "options": [
+        "End-Systole",
+        "End-Diastole",
+        "Mid-Diastole",
+        "Mid-Systole"
+      ],
+      "answer": 0,
+      "explanation": "LA volume is measured at end-systole — the frame just before mitral valve opening, when the LA is at its maximum size. *(Practice review slide 25.)*",
+      "explanationImage": null,
+      "tags": [
+        "Measurements",
+        "Cardiac Dimensions",
+        "Echocardiography Quantification"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch06-q109",
+      "stem": "Before image acquisition, a sonographer checks their understanding of the following.  LA linear measurement is preferred over LA volume. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "Cannot be determined from the image alone",
+        "Only true for pediatric echocardiography",
+        "True",
+        "False"
+      ],
+      "answer": 3,
+      "explanation": "The course review identifies False as the correct response. *(Practice review slide 27.)*",
+      "explanationImage": null,
+      "tags": [
+        "Measurements",
+        "Cardiac Dimensions",
+        "Echocardiography Quantification"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch06-q110",
+      "stem": "Before image acquisition, a sonographer checks their understanding of the following.  Exclude LA appendage during planimetry of LA volume. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "Cannot be determined from the image alone",
+        "Only true for pediatric echocardiography",
+        "True",
+        "False"
+      ],
+      "answer": 2,
+      "explanation": "The course review identifies True as the correct response. *(Practice review slide 29.)*",
+      "explanationImage": null,
+      "tags": [
+        "Measurements",
+        "Cardiac Dimensions",
+        "Echocardiography Quantification"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch06-q111",
+      "stem": "Before image acquisition, a sonographer checks their understanding of the following.  What two apical views are used to perform LA volume?",
+      "image": null,
+      "options": [
+        "Apical 4 & 3 Chamber",
+        "Apical 5 & 3 Chamber",
+        "Apical 4 & 2 Chamber",
+        "Apical 2 & 3 Chamber"
+      ],
+      "answer": 2,
+      "explanation": "The course review identifies Apical 4 & 2 Chamber as the correct response. *(Practice review slide 31.)*",
+      "explanationImage": null,
+      "tags": [
+        "Measurements",
+        "Cardiac Dimensions",
+        "Echocardiography Quantification"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch06-q112",
+      "stem": "Before image acquisition, a sonographer checks their understanding of the following.  LA volume is indexed to body surface area. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "False",
+        "True",
+        "Cannot be determined from the image alone",
+        "Only true for pediatric echocardiography"
+      ],
+      "answer": 1,
+      "explanation": "The course review identifies True as the correct response. *(Practice review slide 33.)*",
+      "explanationImage": null,
+      "tags": [
+        "Measurements",
+        "Cardiac Dimensions",
+        "Echocardiography Quantification"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch06-q113",
+      "stem": "In a laboratory teaching session, the instructor asks:  2D measuring is the golden standard for measurements. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "True",
+        "Only true for pediatric echocardiography",
+        "False",
+        "Cannot be determined from the image alone"
+      ],
+      "answer": 0,
+      "explanation": "Current ASE/Otto guidance makes 2D (and 2D-guided) imaging the reference standard for linear and volumetric chamber measurements, because the caliper sits on a true cross-section. *(Practice review slide 3.)*",
+      "explanationImage": null,
+      "tags": [
+        "Measurements",
+        "Cardiac Dimensions",
+        "Echocardiography Quantification"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch06-q114",
+      "stem": "In a laboratory teaching session, the instructor asks:  What measurement is done in End-Diastole?",
+      "image": null,
+      "options": [
+        "Left atrium",
+        "Interventricular septum",
+        "LVIDs"
+      ],
+      "answer": 1,
+      "explanation": "The course review identifies Interventricular septum as the correct response. *(Practice review slide 5.)*",
+      "explanationImage": null,
+      "tags": [
+        "Measurements",
+        "Cardiac Dimensions",
+        "Echocardiography Quantification"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch06-q115",
+      "stem": "In a laboratory teaching session, the instructor asks:  What measurement is done in End-Systole?",
+      "image": null,
+      "options": [
+        "LVIDd",
+        "LVOT",
+        "Posterior wall",
+        "LVIDs"
+      ],
+      "answer": 3,
+      "explanation": "The course review identifies LVIDs as the correct response. *(Practice review slide 7.)*",
+      "explanationImage": null,
+      "tags": [
+        "Measurements",
+        "Cardiac Dimensions",
+        "Echocardiography Quantification"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch06-q116",
+      "stem": "In a laboratory teaching session, the instructor asks:  What measurement is done mid-systole?",
+      "image": null,
+      "options": [
+        "Aortic root",
+        "Sinotubular junction",
+        "LVOT",
+        "Ascending aorta"
+      ],
+      "answer": 2,
+      "explanation": "The course review identifies LVOT as the correct response. *(Practice review slide 9.)*",
+      "explanationImage": null,
+      "tags": [
+        "Measurements",
+        "Cardiac Dimensions",
+        "Echocardiography Quantification"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch06-q117",
+      "stem": "In a laboratory teaching session, the instructor asks:  RV linear measurement is done at end-diastole. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "False",
+        "Only true for pediatric echocardiography",
+        "True",
+        "Cannot be determined from the image alone"
+      ],
+      "answer": 2,
+      "explanation": "The course review identifies True as the correct response. *(Practice review slide 11.)*",
+      "explanationImage": null,
+      "tags": [
+        "Measurements",
+        "Cardiac Dimensions",
+        "Echocardiography Quantification"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch06-q118",
+      "stem": "In a laboratory teaching session, the instructor asks:  RVOT can be measured in the parasternal long axis view and the parasternal short axis view. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "Cannot be determined from the image alone",
+        "True",
+        "Only true for pediatric echocardiography",
+        "False"
+      ],
+      "answer": 1,
+      "explanation": "The course review identifies True as the correct response. *(Practice review slide 13.)*",
+      "explanationImage": null,
+      "tags": [
+        "Measurements",
+        "Cardiac Dimensions",
+        "Echocardiography Quantification"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch06-q119",
+      "stem": "In a laboratory teaching session, the instructor asks:  How is the RVOT measured?",
+      "image": null,
+      "options": [
+        "At the beginning of the QRS complex",
+        "Tissue/blood interface to tissue/blood interface",
+        "At the end of the T wave",
+        "Leading edge to leading edge"
+      ],
+      "answer": 1,
+      "explanation": "Current ASE convention measures the RVOT inner-edge to inner-edge — that is, tissue/blood interface to tissue/blood interface. *(Practice review slide 15.)*",
+      "explanationImage": null,
+      "tags": [
+        "Measurements",
+        "Cardiac Dimensions",
+        "Echocardiography Quantification"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch06-q120",
+      "stem": "In a laboratory teaching session, the instructor asks:  The RVOT is measured at end diastole. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "Only true for pediatric echocardiography",
+        "Cannot be determined from the image alone",
+        "True",
+        "False"
+      ],
+      "answer": 2,
+      "explanation": "RVOT diameters are measured at end-diastole, consistent with the other RV chamber dimensions. 17 *(Practice review slide 17.)*",
+      "explanationImage": null,
+      "tags": [
+        "Measurements",
+        "Cardiac Dimensions",
+        "Echocardiography Quantification"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch06-q121",
+      "stem": "In a laboratory teaching session, the instructor asks:  Main Pulmonary Artery is measured in end-diastole. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "True",
+        "False",
+        "Only true for pediatric echocardiography",
+        "Cannot be determined from the image alone"
+      ],
+      "answer": 0,
+      "explanation": "The course review identifies True as the correct response. *(Practice review slide 19.)*",
+      "explanationImage": null,
+      "tags": [
+        "Measurements",
+        "Cardiac Dimensions",
+        "Echocardiography Quantification"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch06-q122",
+      "stem": "In a laboratory teaching session, the instructor asks:  Main Pulmonary Artery can be measured in the RVOT in the PSLAX view only. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "Only true for pediatric echocardiography",
+        "Cannot be determined from the image alone",
+        "False",
+        "True"
+      ],
+      "answer": 2,
+      "explanation": "The MPA is best imaged in the parasternal SHORT-axis at the pulmonary-valve/great-vessel level, so “PSLAX only” is false. *(Practice review slide 21.)*",
+      "explanationImage": null,
+      "tags": [
+        "Measurements",
+        "Cardiac Dimensions",
+        "Echocardiography Quantification"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch06-q123",
+      "stem": "In a laboratory teaching session, the instructor asks:  How is the Main Pulmonary Artery measured?",
+      "image": null,
+      "options": [
+        "Tissue/blood interface to tissue/blood interface",
+        "At the end of the T wave",
+        "Leading edge to leading edge"
+      ],
+      "answer": 0,
+      "explanation": "The course review identifies Tissue/blood interface to tissue/blood interface as the correct response. *(Practice review slide 23.)*",
+      "explanationImage": null,
+      "tags": [
+        "Measurements",
+        "Cardiac Dimensions",
+        "Echocardiography Quantification"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch06-q124",
+      "stem": "In a laboratory teaching session, the instructor asks:  When is LA volume measured?",
+      "image": null,
+      "options": [
+        "End-Diastole",
+        "Mid-Systole",
+        "End-Systole",
+        "Mid-Diastole"
+      ],
+      "answer": 2,
+      "explanation": "LA volume is measured at end-systole — the frame just before mitral valve opening, when the LA is at its maximum size. *(Practice review slide 25.)*",
+      "explanationImage": null,
+      "tags": [
+        "Measurements",
+        "Cardiac Dimensions",
+        "Echocardiography Quantification"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch06-q125",
+      "stem": "In a laboratory teaching session, the instructor asks:  LA linear measurement is preferred over LA volume. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "Only true for pediatric echocardiography",
+        "False",
+        "Cannot be determined from the image alone",
+        "True"
+      ],
+      "answer": 1,
+      "explanation": "The course review identifies False as the correct response. *(Practice review slide 27.)*",
+      "explanationImage": null,
+      "tags": [
+        "Measurements",
+        "Cardiac Dimensions",
+        "Echocardiography Quantification"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch06-q126",
+      "stem": "In a laboratory teaching session, the instructor asks:  Exclude LA appendage during planimetry of LA volume. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "Only true for pediatric echocardiography",
+        "True",
+        "Cannot be determined from the image alone",
+        "False"
+      ],
+      "answer": 1,
+      "explanation": "The course review identifies True as the correct response. *(Practice review slide 29.)*",
+      "explanationImage": null,
+      "tags": [
+        "Measurements",
+        "Cardiac Dimensions",
+        "Echocardiography Quantification"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch06-q127",
+      "stem": "In a laboratory teaching session, the instructor asks:  What two apical views are used to perform LA volume?",
+      "image": null,
+      "options": [
+        "Apical 4 & 3 Chamber",
+        "Apical 4 & 2 Chamber",
+        "Apical 5 & 3 Chamber",
+        "Apical 2 & 3 Chamber"
+      ],
+      "answer": 1,
+      "explanation": "The course review identifies Apical 4 & 2 Chamber as the correct response. *(Practice review slide 31.)*",
+      "explanationImage": null,
+      "tags": [
+        "Measurements",
+        "Cardiac Dimensions",
+        "Echocardiography Quantification"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch06-q128",
+      "stem": "In a laboratory teaching session, the instructor asks:  LA volume is indexed to body surface area. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "Only true for pediatric echocardiography",
+        "Cannot be determined from the image alone",
+        "True",
+        "False"
+      ],
+      "answer": 2,
+      "explanation": "The course review identifies True as the correct response. *(Practice review slide 33.)*",
+      "explanationImage": null,
+      "tags": [
+        "Measurements",
+        "Cardiac Dimensions",
+        "Echocardiography Quantification"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch06-q129",
+      "stem": "During a mock adult echocardiography board examination, consider the following.  2D measuring is the golden standard for measurements. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "False",
+        "True",
+        "Cannot be determined from the image alone",
+        "Only true for pediatric echocardiography"
+      ],
+      "answer": 1,
+      "explanation": "Current ASE/Otto guidance makes 2D (and 2D-guided) imaging the reference standard for linear and volumetric chamber measurements, because the caliper sits on a true cross-section. *(Practice review slide 3.)*",
+      "explanationImage": null,
+      "tags": [
+        "Measurements",
+        "Cardiac Dimensions",
+        "Echocardiography Quantification"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch06-q130",
+      "stem": "During a mock adult echocardiography board examination, consider the following.  What measurement is done in End-Diastole?",
+      "image": null,
+      "options": [
+        "Left atrium",
+        "LVIDs",
+        "Interventricular septum"
+      ],
+      "answer": 2,
+      "explanation": "The course review identifies Interventricular septum as the correct response. *(Practice review slide 5.)*",
+      "explanationImage": null,
+      "tags": [
+        "Measurements",
+        "Cardiac Dimensions",
+        "Echocardiography Quantification"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch06-q131",
+      "stem": "During a mock adult echocardiography board examination, consider the following.  What measurement is done in End-Systole?",
+      "image": null,
+      "options": [
+        "Posterior wall",
+        "LVIDd",
+        "LVIDs",
+        "LVOT"
+      ],
+      "answer": 2,
+      "explanation": "The course review identifies LVIDs as the correct response. *(Practice review slide 7.)*",
+      "explanationImage": null,
+      "tags": [
+        "Measurements",
+        "Cardiac Dimensions",
+        "Echocardiography Quantification"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch06-q132",
+      "stem": "During a mock adult echocardiography board examination, consider the following.  What measurement is done mid-systole?",
+      "image": null,
+      "options": [
+        "Ascending aorta",
+        "Aortic root",
+        "LVOT",
+        "Sinotubular junction"
+      ],
+      "answer": 2,
+      "explanation": "The course review identifies LVOT as the correct response. *(Practice review slide 9.)*",
+      "explanationImage": null,
+      "tags": [
+        "Measurements",
+        "Cardiac Dimensions",
+        "Echocardiography Quantification"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch06-q133",
+      "stem": "During a mock adult echocardiography board examination, consider the following.  RV linear measurement is done at end-diastole. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "False",
+        "True",
+        "Only true for pediatric echocardiography",
+        "Cannot be determined from the image alone"
+      ],
+      "answer": 1,
+      "explanation": "The course review identifies True as the correct response. *(Practice review slide 11.)*",
+      "explanationImage": null,
+      "tags": [
+        "Measurements",
+        "Cardiac Dimensions",
+        "Echocardiography Quantification"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch06-q134",
+      "stem": "During a mock adult echocardiography board examination, consider the following.  RVOT can be measured in the parasternal long axis view and the parasternal short axis view. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "Only true for pediatric echocardiography",
+        "True",
+        "Cannot be determined from the image alone",
+        "False"
+      ],
+      "answer": 1,
+      "explanation": "The course review identifies True as the correct response. *(Practice review slide 13.)*",
+      "explanationImage": null,
+      "tags": [
+        "Measurements",
+        "Cardiac Dimensions",
+        "Echocardiography Quantification"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch06-q135",
+      "stem": "During a mock adult echocardiography board examination, consider the following.  How is the RVOT measured?",
+      "image": null,
+      "options": [
+        "At the beginning of the QRS complex",
+        "At the end of the T wave",
+        "Tissue/blood interface to tissue/blood interface",
+        "Leading edge to leading edge"
+      ],
+      "answer": 2,
+      "explanation": "Current ASE convention measures the RVOT inner-edge to inner-edge — that is, tissue/blood interface to tissue/blood interface. *(Practice review slide 15.)*",
+      "explanationImage": null,
+      "tags": [
+        "Measurements",
+        "Cardiac Dimensions",
+        "Echocardiography Quantification"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch06-q136",
+      "stem": "During a mock adult echocardiography board examination, consider the following.  The RVOT is measured at end diastole. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "False",
+        "True",
+        "Only true for pediatric echocardiography",
+        "Cannot be determined from the image alone"
+      ],
+      "answer": 1,
+      "explanation": "RVOT diameters are measured at end-diastole, consistent with the other RV chamber dimensions. 17 *(Practice review slide 17.)*",
+      "explanationImage": null,
+      "tags": [
+        "Measurements",
+        "Cardiac Dimensions",
+        "Echocardiography Quantification"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch06-q137",
+      "stem": "During a mock adult echocardiography board examination, consider the following.  Main Pulmonary Artery is measured in end-diastole. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "True",
+        "False",
+        "Cannot be determined from the image alone",
+        "Only true for pediatric echocardiography"
+      ],
+      "answer": 0,
+      "explanation": "The course review identifies True as the correct response. *(Practice review slide 19.)*",
+      "explanationImage": null,
+      "tags": [
+        "Measurements",
+        "Cardiac Dimensions",
+        "Echocardiography Quantification"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch06-q138",
+      "stem": "During a mock adult echocardiography board examination, consider the following.  Main Pulmonary Artery can be measured in the RVOT in the PSLAX view only. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "False",
+        "Cannot be determined from the image alone",
+        "True",
+        "Only true for pediatric echocardiography"
+      ],
+      "answer": 0,
+      "explanation": "The MPA is best imaged in the parasternal SHORT-axis at the pulmonary-valve/great-vessel level, so “PSLAX only” is false. *(Practice review slide 21.)*",
+      "explanationImage": null,
+      "tags": [
+        "Measurements",
+        "Cardiac Dimensions",
+        "Echocardiography Quantification"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch06-q139",
+      "stem": "During a mock adult echocardiography board examination, consider the following.  How is the Main Pulmonary Artery measured?",
+      "image": null,
+      "options": [
+        "At the end of the T wave",
+        "Tissue/blood interface to tissue/blood interface",
+        "Leading edge to leading edge"
+      ],
+      "answer": 1,
+      "explanation": "The course review identifies Tissue/blood interface to tissue/blood interface as the correct response. *(Practice review slide 23.)*",
+      "explanationImage": null,
+      "tags": [
+        "Measurements",
+        "Cardiac Dimensions",
+        "Echocardiography Quantification"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch06-q140",
+      "stem": "During a mock adult echocardiography board examination, consider the following.  When is LA volume measured?",
+      "image": null,
+      "options": [
+        "End-Diastole",
+        "Mid-Systole",
+        "End-Systole",
+        "Mid-Diastole"
+      ],
+      "answer": 2,
+      "explanation": "LA volume is measured at end-systole — the frame just before mitral valve opening, when the LA is at its maximum size. *(Practice review slide 25.)*",
+      "explanationImage": null,
+      "tags": [
+        "Measurements",
+        "Cardiac Dimensions",
+        "Echocardiography Quantification"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch06-q141",
+      "stem": "During a mock adult echocardiography board examination, consider the following.  LA linear measurement is preferred over LA volume. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "False",
+        "True",
+        "Only true for pediatric echocardiography",
+        "Cannot be determined from the image alone"
+      ],
+      "answer": 0,
+      "explanation": "The course review identifies False as the correct response. *(Practice review slide 27.)*",
+      "explanationImage": null,
+      "tags": [
+        "Measurements",
+        "Cardiac Dimensions",
+        "Echocardiography Quantification"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch06-q142",
+      "stem": "During a mock adult echocardiography board examination, consider the following.  Exclude LA appendage during planimetry of LA volume. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "Cannot be determined from the image alone",
+        "False",
+        "True",
+        "Only true for pediatric echocardiography"
+      ],
+      "answer": 2,
+      "explanation": "The course review identifies True as the correct response. *(Practice review slide 29.)*",
+      "explanationImage": null,
+      "tags": [
+        "Measurements",
+        "Cardiac Dimensions",
+        "Echocardiography Quantification"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch06-q143",
+      "stem": "During a mock adult echocardiography board examination, consider the following.  What two apical views are used to perform LA volume?",
+      "image": null,
+      "options": [
+        "Apical 2 & 3 Chamber",
+        "Apical 5 & 3 Chamber",
+        "Apical 4 & 3 Chamber",
+        "Apical 4 & 2 Chamber"
+      ],
+      "answer": 3,
+      "explanation": "The course review identifies Apical 4 & 2 Chamber as the correct response. *(Practice review slide 31.)*",
+      "explanationImage": null,
+      "tags": [
+        "Measurements",
+        "Cardiac Dimensions",
+        "Echocardiography Quantification"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch06-q144",
+      "stem": "During a mock adult echocardiography board examination, consider the following.  LA volume is indexed to body surface area. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "Only true for pediatric echocardiography",
+        "True",
+        "Cannot be determined from the image alone",
+        "False"
+      ],
+      "answer": 1,
+      "explanation": "The course review identifies True as the correct response. *(Practice review slide 33.)*",
+      "explanationImage": null,
+      "tags": [
+        "Measurements",
+        "Cardiac Dimensions",
+        "Echocardiography Quantification"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch06-q145",
+      "stem": "A sonographer is reviewing the relevant anatomy, technique, or physiology.  2D measuring is the golden standard for measurements. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "Only true for pediatric echocardiography",
+        "Cannot be determined from the image alone",
+        "False",
+        "True"
+      ],
+      "answer": 3,
+      "explanation": "Current ASE/Otto guidance makes 2D (and 2D-guided) imaging the reference standard for linear and volumetric chamber measurements, because the caliper sits on a true cross-section. *(Practice review slide 3.)*",
+      "explanationImage": null,
+      "tags": [
+        "Measurements",
+        "Cardiac Dimensions",
+        "Echocardiography Quantification"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch06-q146",
+      "stem": "A sonographer is reviewing the relevant anatomy, technique, or physiology.  What measurement is done in End-Diastole?",
+      "image": null,
+      "options": [
+        "Interventricular septum",
+        "LVIDs",
+        "Left atrium"
+      ],
+      "answer": 0,
+      "explanation": "The course review identifies Interventricular septum as the correct response. *(Practice review slide 5.)*",
+      "explanationImage": null,
+      "tags": [
+        "Measurements",
+        "Cardiac Dimensions",
+        "Echocardiography Quantification"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch06-q147",
+      "stem": "A sonographer is reviewing the relevant anatomy, technique, or physiology.  What measurement is done in End-Systole?",
+      "image": null,
+      "options": [
+        "LVIDd",
+        "Posterior wall",
+        "LVIDs",
+        "LVOT"
+      ],
+      "answer": 2,
+      "explanation": "The course review identifies LVIDs as the correct response. *(Practice review slide 7.)*",
+      "explanationImage": null,
+      "tags": [
+        "Measurements",
+        "Cardiac Dimensions",
+        "Echocardiography Quantification"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch06-q148",
+      "stem": "A sonographer is reviewing the relevant anatomy, technique, or physiology.  What measurement is done mid-systole?",
+      "image": null,
+      "options": [
+        "Sinotubular junction",
+        "LVOT",
+        "Aortic root",
+        "Ascending aorta"
+      ],
+      "answer": 1,
+      "explanation": "The course review identifies LVOT as the correct response. *(Practice review slide 9.)*",
+      "explanationImage": null,
+      "tags": [
+        "Measurements",
+        "Cardiac Dimensions",
+        "Echocardiography Quantification"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch06-q149",
+      "stem": "A sonographer is reviewing the relevant anatomy, technique, or physiology.  RV linear measurement is done at end-diastole. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "True",
+        "False",
+        "Only true for pediatric echocardiography",
+        "Cannot be determined from the image alone"
+      ],
+      "answer": 0,
+      "explanation": "The course review identifies True as the correct response. *(Practice review slide 11.)*",
+      "explanationImage": null,
+      "tags": [
+        "Measurements",
+        "Cardiac Dimensions",
+        "Echocardiography Quantification"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch06-q150",
+      "stem": "A sonographer is reviewing the relevant anatomy, technique, or physiology.  RVOT can be measured in the parasternal long axis view and the parasternal short axis view. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "False",
+        "Cannot be determined from the image alone",
+        "True",
+        "Only true for pediatric echocardiography"
+      ],
+      "answer": 2,
+      "explanation": "The course review identifies True as the correct response. *(Practice review slide 13.)*",
+      "explanationImage": null,
+      "tags": [
+        "Measurements",
+        "Cardiac Dimensions",
+        "Echocardiography Quantification"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch06-q151",
+      "stem": "A sonographer is reviewing the relevant anatomy, technique, or physiology.  How is the RVOT measured?",
+      "image": null,
+      "options": [
+        "Tissue/blood interface to tissue/blood interface",
+        "At the end of the T wave",
+        "Leading edge to leading edge",
+        "At the beginning of the QRS complex"
+      ],
+      "answer": 0,
+      "explanation": "Current ASE convention measures the RVOT inner-edge to inner-edge — that is, tissue/blood interface to tissue/blood interface. *(Practice review slide 15.)*",
+      "explanationImage": null,
+      "tags": [
+        "Measurements",
+        "Cardiac Dimensions",
+        "Echocardiography Quantification"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch06-q152",
+      "stem": "A sonographer is reviewing the relevant anatomy, technique, or physiology.  The RVOT is measured at end diastole. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "Cannot be determined from the image alone",
+        "True",
+        "Only true for pediatric echocardiography",
+        "False"
+      ],
+      "answer": 1,
+      "explanation": "RVOT diameters are measured at end-diastole, consistent with the other RV chamber dimensions. 17 *(Practice review slide 17.)*",
+      "explanationImage": null,
+      "tags": [
+        "Measurements",
+        "Cardiac Dimensions",
+        "Echocardiography Quantification"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch06-q153",
+      "stem": "A sonographer is reviewing the relevant anatomy, technique, or physiology.  Main Pulmonary Artery is measured in end-diastole. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "False",
+        "True",
+        "Only true for pediatric echocardiography",
+        "Cannot be determined from the image alone"
+      ],
+      "answer": 1,
+      "explanation": "The course review identifies True as the correct response. *(Practice review slide 19.)*",
+      "explanationImage": null,
+      "tags": [
+        "Measurements",
+        "Cardiac Dimensions",
+        "Echocardiography Quantification"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch06-q154",
+      "stem": "A sonographer is reviewing the relevant anatomy, technique, or physiology.  Main Pulmonary Artery can be measured in the RVOT in the PSLAX view only. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "True",
+        "False",
+        "Only true for pediatric echocardiography",
+        "Cannot be determined from the image alone"
+      ],
+      "answer": 1,
+      "explanation": "The MPA is best imaged in the parasternal SHORT-axis at the pulmonary-valve/great-vessel level, so “PSLAX only” is false. *(Practice review slide 21.)*",
+      "explanationImage": null,
+      "tags": [
+        "Measurements",
+        "Cardiac Dimensions",
+        "Echocardiography Quantification"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch06-q155",
+      "stem": "A sonographer is reviewing the relevant anatomy, technique, or physiology.  How is the Main Pulmonary Artery measured?",
+      "image": null,
+      "options": [
+        "Leading edge to leading edge",
+        "Tissue/blood interface to tissue/blood interface",
+        "At the end of the T wave"
+      ],
+      "answer": 1,
+      "explanation": "The course review identifies Tissue/blood interface to tissue/blood interface as the correct response. *(Practice review slide 23.)*",
+      "explanationImage": null,
+      "tags": [
+        "Measurements",
+        "Cardiac Dimensions",
+        "Echocardiography Quantification"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch06-q156",
+      "stem": "A sonographer is reviewing the relevant anatomy, technique, or physiology.  When is LA volume measured?",
+      "image": null,
+      "options": [
+        "End-Systole",
+        "End-Diastole",
+        "Mid-Systole",
+        "Mid-Diastole"
+      ],
+      "answer": 0,
+      "explanation": "LA volume is measured at end-systole — the frame just before mitral valve opening, when the LA is at its maximum size. *(Practice review slide 25.)*",
+      "explanationImage": null,
+      "tags": [
+        "Measurements",
+        "Cardiac Dimensions",
+        "Echocardiography Quantification"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch06-q157",
+      "stem": "A sonographer is reviewing the relevant anatomy, technique, or physiology.  LA linear measurement is preferred over LA volume. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "True",
+        "Only true for pediatric echocardiography",
+        "False",
+        "Cannot be determined from the image alone"
+      ],
+      "answer": 2,
+      "explanation": "The course review identifies False as the correct response. *(Practice review slide 27.)*",
+      "explanationImage": null,
+      "tags": [
+        "Measurements",
+        "Cardiac Dimensions",
+        "Echocardiography Quantification"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch06-q158",
+      "stem": "A sonographer is reviewing the relevant anatomy, technique, or physiology.  Exclude LA appendage during planimetry of LA volume. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "True",
+        "False",
+        "Cannot be determined from the image alone",
+        "Only true for pediatric echocardiography"
+      ],
+      "answer": 0,
+      "explanation": "The course review identifies True as the correct response. *(Practice review slide 29.)*",
+      "explanationImage": null,
+      "tags": [
+        "Measurements",
+        "Cardiac Dimensions",
+        "Echocardiography Quantification"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch06-q159",
+      "stem": "A sonographer is reviewing the relevant anatomy, technique, or physiology.  What two apical views are used to perform LA volume?",
+      "image": null,
+      "options": [
+        "Apical 5 & 3 Chamber",
+        "Apical 4 & 3 Chamber",
+        "Apical 4 & 2 Chamber",
+        "Apical 2 & 3 Chamber"
+      ],
+      "answer": 2,
+      "explanation": "The course review identifies Apical 4 & 2 Chamber as the correct response. *(Practice review slide 31.)*",
+      "explanationImage": null,
+      "tags": [
+        "Measurements",
+        "Cardiac Dimensions",
+        "Echocardiography Quantification"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch06-q160",
+      "stem": "A sonographer is reviewing the relevant anatomy, technique, or physiology.  LA volume is indexed to body surface area. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "True",
+        "Cannot be determined from the image alone",
+        "False",
+        "Only true for pediatric echocardiography"
+      ],
+      "answer": 0,
+      "explanation": "The course review identifies True as the correct response. *(Practice review slide 33.)*",
+      "explanationImage": null,
+      "tags": [
+        "Measurements",
+        "Cardiac Dimensions",
+        "Echocardiography Quantification"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch06-q161",
+      "stem": "During a routine adult transthoracic examination, the sonographer reviews the following concept.  2D measuring is the golden standard for measurements. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "Only true for pediatric echocardiography",
+        "False",
+        "True",
+        "Cannot be determined from the image alone"
+      ],
+      "answer": 2,
+      "explanation": "Current ASE/Otto guidance makes 2D (and 2D-guided) imaging the reference standard for linear and volumetric chamber measurements, because the caliper sits on a true cross-section. *(Practice review slide 3.)*",
+      "explanationImage": null,
+      "tags": [
+        "Measurements",
+        "Cardiac Dimensions",
+        "Echocardiography Quantification"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch06-q162",
+      "stem": "During a routine adult transthoracic examination, the sonographer reviews the following concept.  What measurement is done in End-Diastole?",
+      "image": null,
+      "options": [
+        "Interventricular septum",
+        "LVIDs",
+        "Left atrium"
+      ],
+      "answer": 0,
+      "explanation": "The course review identifies Interventricular septum as the correct response. *(Practice review slide 5.)*",
+      "explanationImage": null,
+      "tags": [
+        "Measurements",
+        "Cardiac Dimensions",
+        "Echocardiography Quantification"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch06-q163",
+      "stem": "During a routine adult transthoracic examination, the sonographer reviews the following concept.  What measurement is done in End-Systole?",
+      "image": null,
+      "options": [
+        "LVIDs",
+        "LVIDd",
+        "LVOT",
+        "Posterior wall"
+      ],
+      "answer": 0,
+      "explanation": "The course review identifies LVIDs as the correct response. *(Practice review slide 7.)*",
+      "explanationImage": null,
+      "tags": [
+        "Measurements",
+        "Cardiac Dimensions",
+        "Echocardiography Quantification"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch06-q164",
+      "stem": "During a routine adult transthoracic examination, the sonographer reviews the following concept.  What measurement is done mid-systole?",
+      "image": null,
+      "options": [
+        "LVOT",
+        "Ascending aorta",
+        "Aortic root",
+        "Sinotubular junction"
+      ],
+      "answer": 0,
+      "explanation": "The course review identifies LVOT as the correct response. *(Practice review slide 9.)*",
+      "explanationImage": null,
+      "tags": [
+        "Measurements",
+        "Cardiac Dimensions",
+        "Echocardiography Quantification"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch06-q165",
+      "stem": "During a routine adult transthoracic examination, the sonographer reviews the following concept.  RV linear measurement is done at end-diastole. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "Cannot be determined from the image alone",
+        "True",
+        "False",
+        "Only true for pediatric echocardiography"
+      ],
+      "answer": 1,
+      "explanation": "The course review identifies True as the correct response. *(Practice review slide 11.)*",
+      "explanationImage": null,
+      "tags": [
+        "Measurements",
+        "Cardiac Dimensions",
+        "Echocardiography Quantification"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch06-q166",
+      "stem": "During a routine adult transthoracic examination, the sonographer reviews the following concept.  RVOT can be measured in the parasternal long axis view and the parasternal short axis view. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "False",
+        "True",
+        "Cannot be determined from the image alone",
+        "Only true for pediatric echocardiography"
+      ],
+      "answer": 1,
+      "explanation": "The course review identifies True as the correct response. *(Practice review slide 13.)*",
+      "explanationImage": null,
+      "tags": [
+        "Measurements",
+        "Cardiac Dimensions",
+        "Echocardiography Quantification"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch06-q167",
+      "stem": "During a routine adult transthoracic examination, the sonographer reviews the following concept.  How is the RVOT measured?",
+      "image": null,
+      "options": [
+        "At the beginning of the QRS complex",
+        "At the end of the T wave",
+        "Tissue/blood interface to tissue/blood interface",
+        "Leading edge to leading edge"
+      ],
+      "answer": 2,
+      "explanation": "Current ASE convention measures the RVOT inner-edge to inner-edge — that is, tissue/blood interface to tissue/blood interface. *(Practice review slide 15.)*",
+      "explanationImage": null,
+      "tags": [
+        "Measurements",
+        "Cardiac Dimensions",
+        "Echocardiography Quantification"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch06-q168",
+      "stem": "During a routine adult transthoracic examination, the sonographer reviews the following concept.  The RVOT is measured at end diastole. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "Only true for pediatric echocardiography",
+        "False",
+        "Cannot be determined from the image alone",
+        "True"
+      ],
+      "answer": 3,
+      "explanation": "RVOT diameters are measured at end-diastole, consistent with the other RV chamber dimensions. 17 *(Practice review slide 17.)*",
+      "explanationImage": null,
+      "tags": [
+        "Measurements",
+        "Cardiac Dimensions",
+        "Echocardiography Quantification"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch06-q169",
+      "stem": "During a routine adult transthoracic examination, the sonographer reviews the following concept.  Main Pulmonary Artery is measured in end-diastole. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "False",
+        "Only true for pediatric echocardiography",
+        "Cannot be determined from the image alone",
+        "True"
+      ],
+      "answer": 3,
+      "explanation": "The course review identifies True as the correct response. *(Practice review slide 19.)*",
+      "explanationImage": null,
+      "tags": [
+        "Measurements",
+        "Cardiac Dimensions",
+        "Echocardiography Quantification"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch06-q170",
+      "stem": "During a routine adult transthoracic examination, the sonographer reviews the following concept.  Main Pulmonary Artery can be measured in the RVOT in the PSLAX view only. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "Only true for pediatric echocardiography",
+        "True",
+        "False",
+        "Cannot be determined from the image alone"
+      ],
+      "answer": 2,
+      "explanation": "The MPA is best imaged in the parasternal SHORT-axis at the pulmonary-valve/great-vessel level, so “PSLAX only” is false. *(Practice review slide 21.)*",
+      "explanationImage": null,
+      "tags": [
+        "Measurements",
+        "Cardiac Dimensions",
+        "Echocardiography Quantification"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch06-q171",
+      "stem": "During a routine adult transthoracic examination, the sonographer reviews the following concept.  How is the Main Pulmonary Artery measured?",
+      "image": null,
+      "options": [
+        "Tissue/blood interface to tissue/blood interface",
+        "Leading edge to leading edge",
+        "At the end of the T wave"
+      ],
+      "answer": 0,
+      "explanation": "The course review identifies Tissue/blood interface to tissue/blood interface as the correct response. *(Practice review slide 23.)*",
+      "explanationImage": null,
+      "tags": [
+        "Measurements",
+        "Cardiac Dimensions",
+        "Echocardiography Quantification"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch06-q172",
+      "stem": "During a routine adult transthoracic examination, the sonographer reviews the following concept.  When is LA volume measured?",
+      "image": null,
+      "options": [
+        "Mid-Diastole",
+        "Mid-Systole",
+        "End-Diastole",
+        "End-Systole"
+      ],
+      "answer": 3,
+      "explanation": "LA volume is measured at end-systole — the frame just before mitral valve opening, when the LA is at its maximum size. *(Practice review slide 25.)*",
+      "explanationImage": null,
+      "tags": [
+        "Measurements",
+        "Cardiac Dimensions",
+        "Echocardiography Quantification"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch06-q173",
+      "stem": "During a routine adult transthoracic examination, the sonographer reviews the following concept.  LA linear measurement is preferred over LA volume. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "Only true for pediatric echocardiography",
+        "False",
+        "True",
+        "Cannot be determined from the image alone"
+      ],
+      "answer": 1,
+      "explanation": "The course review identifies False as the correct response. *(Practice review slide 27.)*",
+      "explanationImage": null,
+      "tags": [
+        "Measurements",
+        "Cardiac Dimensions",
+        "Echocardiography Quantification"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch06-q174",
+      "stem": "During a routine adult transthoracic examination, the sonographer reviews the following concept.  Exclude LA appendage during planimetry of LA volume. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "True",
+        "Only true for pediatric echocardiography",
+        "Cannot be determined from the image alone",
+        "False"
+      ],
+      "answer": 0,
+      "explanation": "The course review identifies True as the correct response. *(Practice review slide 29.)*",
+      "explanationImage": null,
+      "tags": [
+        "Measurements",
+        "Cardiac Dimensions",
+        "Echocardiography Quantification"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch06-q175",
+      "stem": "During a routine adult transthoracic examination, the sonographer reviews the following concept.  What two apical views are used to perform LA volume?",
+      "image": null,
+      "options": [
+        "Apical 4 & 2 Chamber",
+        "Apical 4 & 3 Chamber",
+        "Apical 2 & 3 Chamber",
+        "Apical 5 & 3 Chamber"
+      ],
+      "answer": 0,
+      "explanation": "The course review identifies Apical 4 & 2 Chamber as the correct response. *(Practice review slide 31.)*",
+      "explanationImage": null,
+      "tags": [
+        "Measurements",
+        "Cardiac Dimensions",
+        "Echocardiography Quantification"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch06-q176",
+      "stem": "During a routine adult transthoracic examination, the sonographer reviews the following concept.  LA volume is indexed to body surface area. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "Only true for pediatric echocardiography",
+        "True",
+        "False",
+        "Cannot be determined from the image alone"
+      ],
+      "answer": 1,
+      "explanation": "The course review identifies True as the correct response. *(Practice review slide 33.)*",
+      "explanationImage": null,
+      "tags": [
+        "Measurements",
+        "Cardiac Dimensions",
+        "Echocardiography Quantification"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch06-q177",
+      "stem": "A trainee is preparing for a practical echocardiography assessment.  2D measuring is the golden standard for measurements. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "Only true for pediatric echocardiography",
+        "False",
+        "Cannot be determined from the image alone",
+        "True"
+      ],
+      "answer": 3,
+      "explanation": "Current ASE/Otto guidance makes 2D (and 2D-guided) imaging the reference standard for linear and volumetric chamber measurements, because the caliper sits on a true cross-section. *(Practice review slide 3.)*",
+      "explanationImage": null,
+      "tags": [
+        "Measurements",
+        "Cardiac Dimensions",
+        "Echocardiography Quantification"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch06-q178",
+      "stem": "A trainee is preparing for a practical echocardiography assessment.  What measurement is done in End-Diastole?",
+      "image": null,
+      "options": [
+        "Interventricular septum",
+        "Left atrium",
+        "LVIDs"
+      ],
+      "answer": 0,
+      "explanation": "The course review identifies Interventricular septum as the correct response. *(Practice review slide 5.)*",
+      "explanationImage": null,
+      "tags": [
+        "Measurements",
+        "Cardiac Dimensions",
+        "Echocardiography Quantification"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch06-q179",
+      "stem": "A trainee is preparing for a practical echocardiography assessment.  What measurement is done in End-Systole?",
+      "image": null,
+      "options": [
+        "LVIDd",
+        "Posterior wall",
+        "LVIDs",
+        "LVOT"
+      ],
+      "answer": 2,
+      "explanation": "The course review identifies LVIDs as the correct response. *(Practice review slide 7.)*",
+      "explanationImage": null,
+      "tags": [
+        "Measurements",
+        "Cardiac Dimensions",
+        "Echocardiography Quantification"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch06-q180",
+      "stem": "A trainee is preparing for a practical echocardiography assessment.  What measurement is done mid-systole?",
+      "image": null,
+      "options": [
+        "Sinotubular junction",
+        "Ascending aorta",
+        "LVOT",
+        "Aortic root"
+      ],
+      "answer": 2,
+      "explanation": "The course review identifies LVOT as the correct response. *(Practice review slide 9.)*",
+      "explanationImage": null,
+      "tags": [
+        "Measurements",
+        "Cardiac Dimensions",
+        "Echocardiography Quantification"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch06-q181",
+      "stem": "A trainee is preparing for a practical echocardiography assessment.  RV linear measurement is done at end-diastole. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "False",
+        "Cannot be determined from the image alone",
+        "Only true for pediatric echocardiography",
+        "True"
+      ],
+      "answer": 3,
+      "explanation": "The course review identifies True as the correct response. *(Practice review slide 11.)*",
+      "explanationImage": null,
+      "tags": [
+        "Measurements",
+        "Cardiac Dimensions",
+        "Echocardiography Quantification"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch06-q182",
+      "stem": "A trainee is preparing for a practical echocardiography assessment.  RVOT can be measured in the parasternal long axis view and the parasternal short axis view. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "False",
+        "True",
+        "Cannot be determined from the image alone",
+        "Only true for pediatric echocardiography"
+      ],
+      "answer": 1,
+      "explanation": "The course review identifies True as the correct response. *(Practice review slide 13.)*",
+      "explanationImage": null,
+      "tags": [
+        "Measurements",
+        "Cardiac Dimensions",
+        "Echocardiography Quantification"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch06-q183",
+      "stem": "A trainee is preparing for a practical echocardiography assessment.  How is the RVOT measured?",
+      "image": null,
+      "options": [
+        "At the end of the T wave",
+        "At the beginning of the QRS complex",
+        "Leading edge to leading edge",
+        "Tissue/blood interface to tissue/blood interface"
+      ],
+      "answer": 3,
+      "explanation": "Current ASE convention measures the RVOT inner-edge to inner-edge — that is, tissue/blood interface to tissue/blood interface. *(Practice review slide 15.)*",
+      "explanationImage": null,
+      "tags": [
+        "Measurements",
+        "Cardiac Dimensions",
+        "Echocardiography Quantification"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch06-q184",
+      "stem": "A trainee is preparing for a practical echocardiography assessment.  The RVOT is measured at end diastole. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "Only true for pediatric echocardiography",
+        "Cannot be determined from the image alone",
+        "False",
+        "True"
+      ],
+      "answer": 3,
+      "explanation": "RVOT diameters are measured at end-diastole, consistent with the other RV chamber dimensions. 17 *(Practice review slide 17.)*",
+      "explanationImage": null,
+      "tags": [
+        "Measurements",
+        "Cardiac Dimensions",
+        "Echocardiography Quantification"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch06-q185",
+      "stem": "A trainee is preparing for a practical echocardiography assessment.  Main Pulmonary Artery is measured in end-diastole. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "Cannot be determined from the image alone",
+        "False",
+        "Only true for pediatric echocardiography",
+        "True"
+      ],
+      "answer": 3,
+      "explanation": "The course review identifies True as the correct response. *(Practice review slide 19.)*",
+      "explanationImage": null,
+      "tags": [
+        "Measurements",
+        "Cardiac Dimensions",
+        "Echocardiography Quantification"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch06-q186",
+      "stem": "A trainee is preparing for a practical echocardiography assessment.  Main Pulmonary Artery can be measured in the RVOT in the PSLAX view only. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "True",
+        "Cannot be determined from the image alone",
+        "False",
+        "Only true for pediatric echocardiography"
+      ],
+      "answer": 2,
+      "explanation": "The MPA is best imaged in the parasternal SHORT-axis at the pulmonary-valve/great-vessel level, so “PSLAX only” is false. *(Practice review slide 21.)*",
+      "explanationImage": null,
+      "tags": [
+        "Measurements",
+        "Cardiac Dimensions",
+        "Echocardiography Quantification"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch06-q187",
+      "stem": "A trainee is preparing for a practical echocardiography assessment.  How is the Main Pulmonary Artery measured?",
+      "image": null,
+      "options": [
+        "Tissue/blood interface to tissue/blood interface",
+        "At the end of the T wave",
+        "Leading edge to leading edge"
+      ],
+      "answer": 0,
+      "explanation": "The course review identifies Tissue/blood interface to tissue/blood interface as the correct response. *(Practice review slide 23.)*",
+      "explanationImage": null,
+      "tags": [
+        "Measurements",
+        "Cardiac Dimensions",
+        "Echocardiography Quantification"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch06-q188",
+      "stem": "A trainee is preparing for a practical echocardiography assessment.  When is LA volume measured?",
+      "image": null,
+      "options": [
+        "End-Diastole",
+        "End-Systole",
+        "Mid-Diastole",
+        "Mid-Systole"
+      ],
+      "answer": 1,
+      "explanation": "LA volume is measured at end-systole — the frame just before mitral valve opening, when the LA is at its maximum size. *(Practice review slide 25.)*",
+      "explanationImage": null,
+      "tags": [
+        "Measurements",
+        "Cardiac Dimensions",
+        "Echocardiography Quantification"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch06-q189",
+      "stem": "A trainee is preparing for a practical echocardiography assessment.  LA linear measurement is preferred over LA volume. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "False",
+        "Only true for pediatric echocardiography",
+        "True",
+        "Cannot be determined from the image alone"
+      ],
+      "answer": 0,
+      "explanation": "The course review identifies False as the correct response. *(Practice review slide 27.)*",
+      "explanationImage": null,
+      "tags": [
+        "Measurements",
+        "Cardiac Dimensions",
+        "Echocardiography Quantification"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch06-q190",
+      "stem": "A trainee is preparing for a practical echocardiography assessment.  Exclude LA appendage during planimetry of LA volume. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "True",
+        "Cannot be determined from the image alone",
+        "False",
+        "Only true for pediatric echocardiography"
+      ],
+      "answer": 0,
+      "explanation": "The course review identifies True as the correct response. *(Practice review slide 29.)*",
+      "explanationImage": null,
+      "tags": [
+        "Measurements",
+        "Cardiac Dimensions",
+        "Echocardiography Quantification"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch06-q191",
+      "stem": "A trainee is preparing for a practical echocardiography assessment.  What two apical views are used to perform LA volume?",
+      "image": null,
+      "options": [
+        "Apical 2 & 3 Chamber",
+        "Apical 4 & 2 Chamber",
+        "Apical 4 & 3 Chamber",
+        "Apical 5 & 3 Chamber"
+      ],
+      "answer": 1,
+      "explanation": "The course review identifies Apical 4 & 2 Chamber as the correct response. *(Practice review slide 31.)*",
+      "explanationImage": null,
+      "tags": [
+        "Measurements",
+        "Cardiac Dimensions",
+        "Echocardiography Quantification"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch06-q192",
+      "stem": "A trainee is preparing for a practical echocardiography assessment.  LA volume is indexed to body surface area. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "False",
+        "Cannot be determined from the image alone",
+        "True",
+        "Only true for pediatric echocardiography"
+      ],
+      "answer": 2,
+      "explanation": "The course review identifies True as the correct response. *(Practice review slide 33.)*",
+      "explanationImage": null,
+      "tags": [
+        "Measurements",
+        "Cardiac Dimensions",
+        "Echocardiography Quantification"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch06-q193",
+      "stem": "While reviewing a standard adult echocardiography protocol, consider this question:  2D measuring is the golden standard for measurements. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "Only true for pediatric echocardiography",
+        "Cannot be determined from the image alone",
+        "True",
+        "False"
+      ],
+      "answer": 2,
+      "explanation": "Current ASE/Otto guidance makes 2D (and 2D-guided) imaging the reference standard for linear and volumetric chamber measurements, because the caliper sits on a true cross-section. *(Practice review slide 3.)*",
+      "explanationImage": null,
+      "tags": [
+        "Measurements",
+        "Cardiac Dimensions",
+        "Echocardiography Quantification"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch06-q194",
+      "stem": "While reviewing a standard adult echocardiography protocol, consider this question:  What measurement is done in End-Diastole?",
+      "image": null,
+      "options": [
+        "LVIDs",
+        "Interventricular septum",
+        "Left atrium"
+      ],
+      "answer": 1,
+      "explanation": "The course review identifies Interventricular septum as the correct response. *(Practice review slide 5.)*",
+      "explanationImage": null,
+      "tags": [
+        "Measurements",
+        "Cardiac Dimensions",
+        "Echocardiography Quantification"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch06-q195",
+      "stem": "While reviewing a standard adult echocardiography protocol, consider this question:  What measurement is done in End-Systole?",
+      "image": null,
+      "options": [
+        "LVIDs",
+        "Posterior wall",
+        "LVOT",
+        "LVIDd"
+      ],
+      "answer": 0,
+      "explanation": "The course review identifies LVIDs as the correct response. *(Practice review slide 7.)*",
+      "explanationImage": null,
+      "tags": [
+        "Measurements",
+        "Cardiac Dimensions",
+        "Echocardiography Quantification"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch06-q196",
+      "stem": "While reviewing a standard adult echocardiography protocol, consider this question:  What measurement is done mid-systole?",
+      "image": null,
+      "options": [
+        "LVOT",
+        "Aortic root",
+        "Ascending aorta",
+        "Sinotubular junction"
+      ],
+      "answer": 0,
+      "explanation": "The course review identifies LVOT as the correct response. *(Practice review slide 9.)*",
+      "explanationImage": null,
+      "tags": [
+        "Measurements",
+        "Cardiac Dimensions",
+        "Echocardiography Quantification"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch06-q197",
+      "stem": "While reviewing a standard adult echocardiography protocol, consider this question:  RV linear measurement is done at end-diastole. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "False",
+        "True",
+        "Cannot be determined from the image alone",
+        "Only true for pediatric echocardiography"
+      ],
+      "answer": 1,
+      "explanation": "The course review identifies True as the correct response. *(Practice review slide 11.)*",
+      "explanationImage": null,
+      "tags": [
+        "Measurements",
+        "Cardiac Dimensions",
+        "Echocardiography Quantification"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch06-q198",
+      "stem": "While reviewing a standard adult echocardiography protocol, consider this question:  RVOT can be measured in the parasternal long axis view and the parasternal short axis view. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "True",
+        "Cannot be determined from the image alone",
+        "Only true for pediatric echocardiography",
+        "False"
+      ],
+      "answer": 0,
+      "explanation": "The course review identifies True as the correct response. *(Practice review slide 13.)*",
+      "explanationImage": null,
+      "tags": [
+        "Measurements",
+        "Cardiac Dimensions",
+        "Echocardiography Quantification"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch06-q199",
+      "stem": "While reviewing a standard adult echocardiography protocol, consider this question:  How is the RVOT measured?",
+      "image": null,
+      "options": [
+        "Tissue/blood interface to tissue/blood interface",
+        "Leading edge to leading edge",
+        "At the end of the T wave",
+        "At the beginning of the QRS complex"
+      ],
+      "answer": 0,
+      "explanation": "Current ASE convention measures the RVOT inner-edge to inner-edge — that is, tissue/blood interface to tissue/blood interface. *(Practice review slide 15.)*",
+      "explanationImage": null,
+      "tags": [
+        "Measurements",
+        "Cardiac Dimensions",
+        "Echocardiography Quantification"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch06-q200",
+      "stem": "While reviewing a standard adult echocardiography protocol, consider this question:  The RVOT is measured at end diastole. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "True",
+        "Cannot be determined from the image alone",
+        "Only true for pediatric echocardiography",
+        "False"
+      ],
+      "answer": 0,
+      "explanation": "RVOT diameters are measured at end-diastole, consistent with the other RV chamber dimensions. 17 *(Practice review slide 17.)*",
+      "explanationImage": null,
+      "tags": [
+        "Measurements",
+        "Cardiac Dimensions",
+        "Echocardiography Quantification"
+      ],
+      "reference": ""
+    }
+  ]
+}

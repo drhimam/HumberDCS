@@ -1,76 +1,4005 @@
 {
+  "subjectId": "DCS5000",
   "chapterId": "ch04",
-  "title": "Basic Image Optimization",
+  "title": "Subcostal & Suprasternal Windows",
   "questions": [
     {
       "id": "DCS5000-ch04-q001",
-      "stem": "Increasing the overall gain affects the image by:",
+      "stem": "During a routine adult transthoracic examination, the sonographer reviews the following concept.  What position is the patient in for Subcostal imaging?",
       "image": null,
       "options": [
-        "Increasing transmitted acoustic power",
-        "Amplifying all received echoes equally",
-        "Improving axial resolution",
-        "Changing the frame rate"
+        "Right lateral decubitus with the right arm raised above and resting under the head",
+        "Supine with the knees bent",
+        "Supine with the neck extended",
+        "Left lateral decubitus with the left arm raised above and resting under the head"
       ],
       "answer": 1,
-      "explanation": "Gain is a receiver function. It amplifies all returning signals equally, making the whole image brighter. It does not change output power, so patient exposure stays the same.",
+      "explanation": "Subcostal imaging uses a supine position with the knees bent, which relaxes the abdominal wall and lets the transducer angle up under the costal margin toward the heart. *(Practice review slide 3.)*",
       "explanationImage": null,
       "tags": [
-        "knobology"
+        "Subcostal Window",
+        "Suprasternal Window",
+        "Echocardiography Windows"
       ],
       "reference": ""
     },
     {
       "id": "DCS5000-ch04-q002",
-      "stem": "Time gain compensation (TGC) is used to correct for:",
+      "stem": "During a routine adult transthoracic examination, the sonographer reviews the following concept.  Where is the probe placed for the subcostal window?",
       "image": null,
       "options": [
-        "Refraction artifacts",
-        "Attenuation with depth",
-        "Doppler aliasing",
-        "Low frame rate"
+        "Mid-chest on the patient’s left side at the 2nd–4th intercostal space",
+        "At the suprasternal notch with the indicator pointing toward 1–2 o’clock",
+        "At the level of the 5th or 6th intercostal space, mid-axillary line",
+        "Midline on the patient, located inferior to the xiphoid process"
       ],
-      "answer": 1,
-      "explanation": "Echoes from deeper structures are weaker because of attenuation. TGC applies more amplification at greater depths, so similar tissues look equally bright from top to bottom.",
+      "answer": 3,
+      "explanation": "The subcostal probe is placed in the midline just inferior to the xiphoid process, then angled up toward the left shoulder and heart. *(Practice review slide 5.)*",
       "explanationImage": null,
       "tags": [
-        "TGC"
+        "Subcostal Window",
+        "Suprasternal Window",
+        "Echocardiography Windows"
       ],
       "reference": ""
     },
     {
       "id": "DCS5000-ch04-q003",
-      "stem": "Which adjustment will increase the 2D frame rate?",
+      "stem": "During a routine adult transthoracic examination, the sonographer reviews the following concept.  The same anatomy will be demonstrated in the apical 4-chamber compared to the subcostal 4-chamber. Which answer is most accurate?",
       "image": null,
       "options": [
-        "Increasing the imaging depth",
-        "Widening the sector",
-        "Narrowing the sector width",
-        "Adding more focal zones"
+        "False",
+        "Cannot be determined from the image alone",
+        "True",
+        "Only true for pediatric echocardiography"
       ],
       "answer": 2,
-      "explanation": "Frame rate depends on how many scan lines are needed and how long each takes. A narrower sector, shallower depth, and fewer focal zones all increase the frame rate.",
+      "explanation": "True — the subcostal 4-chamber displays the same four chambers, valves, and septa as the apical 4-chamber, just acquired from an inferior window with a different beam orientation. *(Practice review slide 7.)*",
       "explanationImage": null,
       "tags": [
-        "temporal resolution"
+        "Subcostal Window",
+        "Suprasternal Window",
+        "Echocardiography Windows"
       ],
       "reference": ""
     },
     {
       "id": "DCS5000-ch04-q004",
-      "stem": "Where should the transmit focal zone be placed for best lateral resolution of a structure?",
+      "stem": "During a routine adult transthoracic examination, the sonographer reviews the following concept.  What is the right atrial pressure if the IVC is ≤2.1 cm and collapses more than 50%?",
       "image": null,
       "options": [
-        "Well above the structure",
-        "At or slightly below the level of the structure",
-        "At the maximum depth",
-        "Focus position has no effect"
+        "4 mmHg",
+        "8 mmHg",
+        "3 mmHg",
+        "15 mmHg"
       ],
-      "answer": 1,
-      "explanation": "The beam is narrowest at the focus, and that is where lateral resolution is best. Place the focal zone at the level of the structure of interest, or just below it.",
+      "answer": 2,
+      "explanation": "An IVC ≤2.1 cm that collapses >50% with a sniff indicates a normal RA pressure, estimated at 3 mmHg (range 0–5). *(Practice review slide 9.)*",
       "explanationImage": null,
       "tags": [
-        "focus"
+        "Subcostal Window",
+        "Suprasternal Window",
+        "Echocardiography Windows"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch04-q005",
+      "stem": "During a routine adult transthoracic examination, the sonographer reviews the following concept.  What is the right atrial pressure if the IVC is ≤2.1 cm and collapses less than 50%?",
+      "image": null,
+      "options": [
+        "4 mmHg",
+        "8 mmHg",
+        "15 mmHg",
+        "3 mmHg"
+      ],
+      "answer": 1,
+      "explanation": "A small IVC (≤2.1 cm) that collapses <50% is a discordant pattern, giving the intermediate RA pressure estimate of 8 mmHg (range 5–10). *(Practice review slide 11.)*",
+      "explanationImage": null,
+      "tags": [
+        "Subcostal Window",
+        "Suprasternal Window",
+        "Echocardiography Windows"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch04-q006",
+      "stem": "During a routine adult transthoracic examination, the sonographer reviews the following concept.  What is the right atrial pressure if the IVC is ≥2.1 cm and collapses less than 50%?",
+      "image": null,
+      "options": [
+        "4 mmHg",
+        "8 mmHg",
+        "3 mmHg",
+        "15 mmHg"
+      ],
+      "answer": 3,
+      "explanation": "A dilated IVC (≥2.1 cm) that collapses <50% indicates a high RA pressure, estimated at 15 mmHg (range 10–20). *(Practice review slide 13.)*",
+      "explanationImage": null,
+      "tags": [
+        "Subcostal Window",
+        "Suprasternal Window",
+        "Echocardiography Windows"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch04-q007",
+      "stem": "During a routine adult transthoracic examination, the sonographer reviews the following concept.  From the subcostal 4-chamber, how do you maneuver the probe to acquire the subcostal short axis showing the long axis of the IVC?",
+      "image": null,
+      "options": [
+        "Rotate the probe clockwise ~90° to place the indicator at 6 o’clock",
+        "Rotate the probe counterclockwise ~90° to place the indicator at 12 o’clock",
+        "Angle the probe toward the patient’s left shoulder",
+        "Angle the probe toward the patient’s right hip"
+      ],
+      "answer": 1,
+      "explanation": "From the subcostal 4-chamber, rotate the probe counterclockwise ~90° (indicator toward 12 o’clock) to obtain the sagittal plane that shows the IVC in long axis entering the right atrium. *(Practice review slide 15.)*",
+      "explanationImage": null,
+      "tags": [
+        "Subcostal Window",
+        "Suprasternal Window",
+        "Echocardiography Windows"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch04-q008",
+      "stem": "During a routine adult transthoracic examination, the sonographer reviews the following concept.  From the subcostal short axis showing the long axis of the IVC, how do you maneuver the probe to acquire the descending aorta?",
+      "image": null,
+      "options": [
+        "Rotate the probe clockwise until the descending aorta is in view",
+        "Rotate the probe counterclockwise until the descending aorta is in view",
+        "Angle the probe anteriorly",
+        "Angle and slide slightly left ward"
+      ],
+      "answer": 3,
+      "explanation": "The course review identifies Angle and slide slightly left ward as the correct response. *(Practice review slide 17.)*",
+      "explanationImage": null,
+      "tags": [
+        "Subcostal Window",
+        "Suprasternal Window",
+        "Echocardiography Windows"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch04-q009",
+      "stem": "During a routine adult transthoracic examination, the sonographer reviews the following concept.  What position is the patient in for Suprasternal imaging?",
+      "image": null,
+      "options": [
+        "Right lateral decubitus with the right arm raised above and resting under the head",
+        "Supine with the knees bent",
+        "Supine with the neck extended",
+        "Left lateral decubitus with the left arm raised above and resting under the head"
+      ],
+      "answer": 2,
+      "explanation": "Suprasternal imaging uses a supine position with the neck extended (often a pillow under the shoulders) to expose the suprasternal notch for the aortic arch. *(Practice review slide 19.)*",
+      "explanationImage": null,
+      "tags": [
+        "Subcostal Window",
+        "Suprasternal Window",
+        "Echocardiography Windows"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch04-q010",
+      "stem": "During a routine adult transthoracic examination, the sonographer reviews the following concept.  What portion of the aorta is seen in the suprasternal notch view?",
+      "image": null,
+      "options": [
+        "Ascending aorta",
+        "Transverse arch",
+        "Descending aorta",
+        "All of the above"
+      ],
+      "answer": 3,
+      "explanation": "The suprasternal long-axis view displays the ascending aorta, the transverse (arch) segment, and the proximal descending aorta together. *(Practice review slide 21.)*",
+      "explanationImage": null,
+      "tags": [
+        "Subcostal Window",
+        "Suprasternal Window",
+        "Echocardiography Windows"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch04-q011",
+      "stem": "A trainee is preparing for a practical echocardiography assessment.  What position is the patient in for Subcostal imaging?",
+      "image": null,
+      "options": [
+        "Supine with the knees bent",
+        "Left lateral decubitus with the left arm raised above and resting under the head",
+        "Supine with the neck extended",
+        "Right lateral decubitus with the right arm raised above and resting under the head"
+      ],
+      "answer": 0,
+      "explanation": "Subcostal imaging uses a supine position with the knees bent, which relaxes the abdominal wall and lets the transducer angle up under the costal margin toward the heart. *(Practice review slide 3.)*",
+      "explanationImage": null,
+      "tags": [
+        "Subcostal Window",
+        "Suprasternal Window",
+        "Echocardiography Windows"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch04-q012",
+      "stem": "A trainee is preparing for a practical echocardiography assessment.  Where is the probe placed for the subcostal window?",
+      "image": null,
+      "options": [
+        "At the level of the 5th or 6th intercostal space, mid-axillary line",
+        "At the suprasternal notch with the indicator pointing toward 1–2 o’clock",
+        "Mid-chest on the patient’s left side at the 2nd–4th intercostal space",
+        "Midline on the patient, located inferior to the xiphoid process"
+      ],
+      "answer": 3,
+      "explanation": "The subcostal probe is placed in the midline just inferior to the xiphoid process, then angled up toward the left shoulder and heart. *(Practice review slide 5.)*",
+      "explanationImage": null,
+      "tags": [
+        "Subcostal Window",
+        "Suprasternal Window",
+        "Echocardiography Windows"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch04-q013",
+      "stem": "A trainee is preparing for a practical echocardiography assessment.  The same anatomy will be demonstrated in the apical 4-chamber compared to the subcostal 4-chamber. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "Only true for pediatric echocardiography",
+        "Cannot be determined from the image alone",
+        "True",
+        "False"
+      ],
+      "answer": 2,
+      "explanation": "True — the subcostal 4-chamber displays the same four chambers, valves, and septa as the apical 4-chamber, just acquired from an inferior window with a different beam orientation. *(Practice review slide 7.)*",
+      "explanationImage": null,
+      "tags": [
+        "Subcostal Window",
+        "Suprasternal Window",
+        "Echocardiography Windows"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch04-q014",
+      "stem": "A trainee is preparing for a practical echocardiography assessment.  What is the right atrial pressure if the IVC is ≤2.1 cm and collapses more than 50%?",
+      "image": null,
+      "options": [
+        "4 mmHg",
+        "3 mmHg",
+        "8 mmHg",
+        "15 mmHg"
+      ],
+      "answer": 1,
+      "explanation": "An IVC ≤2.1 cm that collapses >50% with a sniff indicates a normal RA pressure, estimated at 3 mmHg (range 0–5). *(Practice review slide 9.)*",
+      "explanationImage": null,
+      "tags": [
+        "Subcostal Window",
+        "Suprasternal Window",
+        "Echocardiography Windows"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch04-q015",
+      "stem": "A trainee is preparing for a practical echocardiography assessment.  What is the right atrial pressure if the IVC is ≤2.1 cm and collapses less than 50%?",
+      "image": null,
+      "options": [
+        "8 mmHg",
+        "4 mmHg",
+        "15 mmHg",
+        "3 mmHg"
+      ],
+      "answer": 0,
+      "explanation": "A small IVC (≤2.1 cm) that collapses <50% is a discordant pattern, giving the intermediate RA pressure estimate of 8 mmHg (range 5–10). *(Practice review slide 11.)*",
+      "explanationImage": null,
+      "tags": [
+        "Subcostal Window",
+        "Suprasternal Window",
+        "Echocardiography Windows"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch04-q016",
+      "stem": "A trainee is preparing for a practical echocardiography assessment.  What is the right atrial pressure if the IVC is ≥2.1 cm and collapses less than 50%?",
+      "image": null,
+      "options": [
+        "15 mmHg",
+        "8 mmHg",
+        "4 mmHg",
+        "3 mmHg"
+      ],
+      "answer": 0,
+      "explanation": "A dilated IVC (≥2.1 cm) that collapses <50% indicates a high RA pressure, estimated at 15 mmHg (range 10–20). *(Practice review slide 13.)*",
+      "explanationImage": null,
+      "tags": [
+        "Subcostal Window",
+        "Suprasternal Window",
+        "Echocardiography Windows"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch04-q017",
+      "stem": "A trainee is preparing for a practical echocardiography assessment.  From the subcostal 4-chamber, how do you maneuver the probe to acquire the subcostal short axis showing the long axis of the IVC?",
+      "image": null,
+      "options": [
+        "Angle the probe toward the patient’s left shoulder",
+        "Rotate the probe counterclockwise ~90° to place the indicator at 12 o’clock",
+        "Angle the probe toward the patient’s right hip",
+        "Rotate the probe clockwise ~90° to place the indicator at 6 o’clock"
+      ],
+      "answer": 1,
+      "explanation": "From the subcostal 4-chamber, rotate the probe counterclockwise ~90° (indicator toward 12 o’clock) to obtain the sagittal plane that shows the IVC in long axis entering the right atrium. *(Practice review slide 15.)*",
+      "explanationImage": null,
+      "tags": [
+        "Subcostal Window",
+        "Suprasternal Window",
+        "Echocardiography Windows"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch04-q018",
+      "stem": "A trainee is preparing for a practical echocardiography assessment.  From the subcostal short axis showing the long axis of the IVC, how do you maneuver the probe to acquire the descending aorta?",
+      "image": null,
+      "options": [
+        "Angle the probe anteriorly",
+        "Angle and slide slightly left ward",
+        "Rotate the probe clockwise until the descending aorta is in view",
+        "Rotate the probe counterclockwise until the descending aorta is in view"
+      ],
+      "answer": 1,
+      "explanation": "The course review identifies Angle and slide slightly left ward as the correct response. *(Practice review slide 17.)*",
+      "explanationImage": null,
+      "tags": [
+        "Subcostal Window",
+        "Suprasternal Window",
+        "Echocardiography Windows"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch04-q019",
+      "stem": "A trainee is preparing for a practical echocardiography assessment.  What position is the patient in for Suprasternal imaging?",
+      "image": null,
+      "options": [
+        "Supine with the neck extended",
+        "Right lateral decubitus with the right arm raised above and resting under the head",
+        "Left lateral decubitus with the left arm raised above and resting under the head",
+        "Supine with the knees bent"
+      ],
+      "answer": 0,
+      "explanation": "Suprasternal imaging uses a supine position with the neck extended (often a pillow under the shoulders) to expose the suprasternal notch for the aortic arch. *(Practice review slide 19.)*",
+      "explanationImage": null,
+      "tags": [
+        "Subcostal Window",
+        "Suprasternal Window",
+        "Echocardiography Windows"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch04-q020",
+      "stem": "A trainee is preparing for a practical echocardiography assessment.  What portion of the aorta is seen in the suprasternal notch view?",
+      "image": null,
+      "options": [
+        "Ascending aorta",
+        "Transverse arch",
+        "Descending aorta",
+        "All of the above"
+      ],
+      "answer": 3,
+      "explanation": "The suprasternal long-axis view displays the ascending aorta, the transverse (arch) segment, and the proximal descending aorta together. *(Practice review slide 21.)*",
+      "explanationImage": null,
+      "tags": [
+        "Subcostal Window",
+        "Suprasternal Window",
+        "Echocardiography Windows"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch04-q021",
+      "stem": "While reviewing a standard adult echocardiography protocol, consider this question:  What position is the patient in for Subcostal imaging?",
+      "image": null,
+      "options": [
+        "Supine with the neck extended",
+        "Left lateral decubitus with the left arm raised above and resting under the head",
+        "Right lateral decubitus with the right arm raised above and resting under the head",
+        "Supine with the knees bent"
+      ],
+      "answer": 3,
+      "explanation": "Subcostal imaging uses a supine position with the knees bent, which relaxes the abdominal wall and lets the transducer angle up under the costal margin toward the heart. *(Practice review slide 3.)*",
+      "explanationImage": null,
+      "tags": [
+        "Subcostal Window",
+        "Suprasternal Window",
+        "Echocardiography Windows"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch04-q022",
+      "stem": "While reviewing a standard adult echocardiography protocol, consider this question:  Where is the probe placed for the subcostal window?",
+      "image": null,
+      "options": [
+        "At the suprasternal notch with the indicator pointing toward 1–2 o’clock",
+        "At the level of the 5th or 6th intercostal space, mid-axillary line",
+        "Midline on the patient, located inferior to the xiphoid process",
+        "Mid-chest on the patient’s left side at the 2nd–4th intercostal space"
+      ],
+      "answer": 2,
+      "explanation": "The subcostal probe is placed in the midline just inferior to the xiphoid process, then angled up toward the left shoulder and heart. *(Practice review slide 5.)*",
+      "explanationImage": null,
+      "tags": [
+        "Subcostal Window",
+        "Suprasternal Window",
+        "Echocardiography Windows"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch04-q023",
+      "stem": "While reviewing a standard adult echocardiography protocol, consider this question:  The same anatomy will be demonstrated in the apical 4-chamber compared to the subcostal 4-chamber. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "Only true for pediatric echocardiography",
+        "True",
+        "Cannot be determined from the image alone",
+        "False"
+      ],
+      "answer": 1,
+      "explanation": "True — the subcostal 4-chamber displays the same four chambers, valves, and septa as the apical 4-chamber, just acquired from an inferior window with a different beam orientation. *(Practice review slide 7.)*",
+      "explanationImage": null,
+      "tags": [
+        "Subcostal Window",
+        "Suprasternal Window",
+        "Echocardiography Windows"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch04-q024",
+      "stem": "While reviewing a standard adult echocardiography protocol, consider this question:  What is the right atrial pressure if the IVC is ≤2.1 cm and collapses more than 50%?",
+      "image": null,
+      "options": [
+        "4 mmHg",
+        "15 mmHg",
+        "8 mmHg",
+        "3 mmHg"
+      ],
+      "answer": 3,
+      "explanation": "An IVC ≤2.1 cm that collapses >50% with a sniff indicates a normal RA pressure, estimated at 3 mmHg (range 0–5). *(Practice review slide 9.)*",
+      "explanationImage": null,
+      "tags": [
+        "Subcostal Window",
+        "Suprasternal Window",
+        "Echocardiography Windows"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch04-q025",
+      "stem": "While reviewing a standard adult echocardiography protocol, consider this question:  What is the right atrial pressure if the IVC is ≤2.1 cm and collapses less than 50%?",
+      "image": null,
+      "options": [
+        "4 mmHg",
+        "8 mmHg",
+        "3 mmHg",
+        "15 mmHg"
+      ],
+      "answer": 1,
+      "explanation": "A small IVC (≤2.1 cm) that collapses <50% is a discordant pattern, giving the intermediate RA pressure estimate of 8 mmHg (range 5–10). *(Practice review slide 11.)*",
+      "explanationImage": null,
+      "tags": [
+        "Subcostal Window",
+        "Suprasternal Window",
+        "Echocardiography Windows"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch04-q026",
+      "stem": "While reviewing a standard adult echocardiography protocol, consider this question:  What is the right atrial pressure if the IVC is ≥2.1 cm and collapses less than 50%?",
+      "image": null,
+      "options": [
+        "3 mmHg",
+        "15 mmHg",
+        "8 mmHg",
+        "4 mmHg"
+      ],
+      "answer": 1,
+      "explanation": "A dilated IVC (≥2.1 cm) that collapses <50% indicates a high RA pressure, estimated at 15 mmHg (range 10–20). *(Practice review slide 13.)*",
+      "explanationImage": null,
+      "tags": [
+        "Subcostal Window",
+        "Suprasternal Window",
+        "Echocardiography Windows"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch04-q027",
+      "stem": "While reviewing a standard adult echocardiography protocol, consider this question:  From the subcostal 4-chamber, how do you maneuver the probe to acquire the subcostal short axis showing the long axis of the IVC?",
+      "image": null,
+      "options": [
+        "Rotate the probe counterclockwise ~90° to place the indicator at 12 o’clock",
+        "Angle the probe toward the patient’s right hip",
+        "Rotate the probe clockwise ~90° to place the indicator at 6 o’clock",
+        "Angle the probe toward the patient’s left shoulder"
+      ],
+      "answer": 0,
+      "explanation": "From the subcostal 4-chamber, rotate the probe counterclockwise ~90° (indicator toward 12 o’clock) to obtain the sagittal plane that shows the IVC in long axis entering the right atrium. *(Practice review slide 15.)*",
+      "explanationImage": null,
+      "tags": [
+        "Subcostal Window",
+        "Suprasternal Window",
+        "Echocardiography Windows"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch04-q028",
+      "stem": "While reviewing a standard adult echocardiography protocol, consider this question:  From the subcostal short axis showing the long axis of the IVC, how do you maneuver the probe to acquire the descending aorta?",
+      "image": null,
+      "options": [
+        "Rotate the probe clockwise until the descending aorta is in view",
+        "Angle the probe anteriorly",
+        "Angle and slide slightly left ward",
+        "Rotate the probe counterclockwise until the descending aorta is in view"
+      ],
+      "answer": 2,
+      "explanation": "The course review identifies Angle and slide slightly left ward as the correct response. *(Practice review slide 17.)*",
+      "explanationImage": null,
+      "tags": [
+        "Subcostal Window",
+        "Suprasternal Window",
+        "Echocardiography Windows"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch04-q029",
+      "stem": "While reviewing a standard adult echocardiography protocol, consider this question:  What position is the patient in for Suprasternal imaging?",
+      "image": null,
+      "options": [
+        "Right lateral decubitus with the right arm raised above and resting under the head",
+        "Left lateral decubitus with the left arm raised above and resting under the head",
+        "Supine with the knees bent",
+        "Supine with the neck extended"
+      ],
+      "answer": 3,
+      "explanation": "Suprasternal imaging uses a supine position with the neck extended (often a pillow under the shoulders) to expose the suprasternal notch for the aortic arch. *(Practice review slide 19.)*",
+      "explanationImage": null,
+      "tags": [
+        "Subcostal Window",
+        "Suprasternal Window",
+        "Echocardiography Windows"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch04-q030",
+      "stem": "While reviewing a standard adult echocardiography protocol, consider this question:  What portion of the aorta is seen in the suprasternal notch view?",
+      "image": null,
+      "options": [
+        "Ascending aorta",
+        "Transverse arch",
+        "Descending aorta",
+        "All of the above"
+      ],
+      "answer": 3,
+      "explanation": "The suprasternal long-axis view displays the ascending aorta, the transverse (arch) segment, and the proximal descending aorta together. *(Practice review slide 21.)*",
+      "explanationImage": null,
+      "tags": [
+        "Subcostal Window",
+        "Suprasternal Window",
+        "Echocardiography Windows"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch04-q031",
+      "stem": "A sonographer is asked to select the most accurate response.  What position is the patient in for Subcostal imaging?",
+      "image": null,
+      "options": [
+        "Left lateral decubitus with the left arm raised above and resting under the head",
+        "Supine with the knees bent",
+        "Supine with the neck extended",
+        "Right lateral decubitus with the right arm raised above and resting under the head"
+      ],
+      "answer": 1,
+      "explanation": "Subcostal imaging uses a supine position with the knees bent, which relaxes the abdominal wall and lets the transducer angle up under the costal margin toward the heart. *(Practice review slide 3.)*",
+      "explanationImage": null,
+      "tags": [
+        "Subcostal Window",
+        "Suprasternal Window",
+        "Echocardiography Windows"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch04-q032",
+      "stem": "A sonographer is asked to select the most accurate response.  Where is the probe placed for the subcostal window?",
+      "image": null,
+      "options": [
+        "At the level of the 5th or 6th intercostal space, mid-axillary line",
+        "At the suprasternal notch with the indicator pointing toward 1–2 o’clock",
+        "Mid-chest on the patient’s left side at the 2nd–4th intercostal space",
+        "Midline on the patient, located inferior to the xiphoid process"
+      ],
+      "answer": 3,
+      "explanation": "The subcostal probe is placed in the midline just inferior to the xiphoid process, then angled up toward the left shoulder and heart. *(Practice review slide 5.)*",
+      "explanationImage": null,
+      "tags": [
+        "Subcostal Window",
+        "Suprasternal Window",
+        "Echocardiography Windows"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch04-q033",
+      "stem": "A sonographer is asked to select the most accurate response.  The same anatomy will be demonstrated in the apical 4-chamber compared to the subcostal 4-chamber. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "True",
+        "Cannot be determined from the image alone",
+        "False",
+        "Only true for pediatric echocardiography"
+      ],
+      "answer": 0,
+      "explanation": "True — the subcostal 4-chamber displays the same four chambers, valves, and septa as the apical 4-chamber, just acquired from an inferior window with a different beam orientation. *(Practice review slide 7.)*",
+      "explanationImage": null,
+      "tags": [
+        "Subcostal Window",
+        "Suprasternal Window",
+        "Echocardiography Windows"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch04-q034",
+      "stem": "A sonographer is asked to select the most accurate response.  What is the right atrial pressure if the IVC is ≤2.1 cm and collapses more than 50%?",
+      "image": null,
+      "options": [
+        "3 mmHg",
+        "15 mmHg",
+        "8 mmHg",
+        "4 mmHg"
+      ],
+      "answer": 0,
+      "explanation": "An IVC ≤2.1 cm that collapses >50% with a sniff indicates a normal RA pressure, estimated at 3 mmHg (range 0–5). *(Practice review slide 9.)*",
+      "explanationImage": null,
+      "tags": [
+        "Subcostal Window",
+        "Suprasternal Window",
+        "Echocardiography Windows"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch04-q035",
+      "stem": "A sonographer is asked to select the most accurate response.  What is the right atrial pressure if the IVC is ≤2.1 cm and collapses less than 50%?",
+      "image": null,
+      "options": [
+        "8 mmHg",
+        "3 mmHg",
+        "4 mmHg",
+        "15 mmHg"
+      ],
+      "answer": 0,
+      "explanation": "A small IVC (≤2.1 cm) that collapses <50% is a discordant pattern, giving the intermediate RA pressure estimate of 8 mmHg (range 5–10). *(Practice review slide 11.)*",
+      "explanationImage": null,
+      "tags": [
+        "Subcostal Window",
+        "Suprasternal Window",
+        "Echocardiography Windows"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch04-q036",
+      "stem": "A sonographer is asked to select the most accurate response.  What is the right atrial pressure if the IVC is ≥2.1 cm and collapses less than 50%?",
+      "image": null,
+      "options": [
+        "3 mmHg",
+        "15 mmHg",
+        "8 mmHg",
+        "4 mmHg"
+      ],
+      "answer": 1,
+      "explanation": "A dilated IVC (≥2.1 cm) that collapses <50% indicates a high RA pressure, estimated at 15 mmHg (range 10–20). *(Practice review slide 13.)*",
+      "explanationImage": null,
+      "tags": [
+        "Subcostal Window",
+        "Suprasternal Window",
+        "Echocardiography Windows"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch04-q037",
+      "stem": "A sonographer is asked to select the most accurate response.  From the subcostal 4-chamber, how do you maneuver the probe to acquire the subcostal short axis showing the long axis of the IVC?",
+      "image": null,
+      "options": [
+        "Rotate the probe counterclockwise ~90° to place the indicator at 12 o’clock",
+        "Rotate the probe clockwise ~90° to place the indicator at 6 o’clock",
+        "Angle the probe toward the patient’s right hip",
+        "Angle the probe toward the patient’s left shoulder"
+      ],
+      "answer": 0,
+      "explanation": "From the subcostal 4-chamber, rotate the probe counterclockwise ~90° (indicator toward 12 o’clock) to obtain the sagittal plane that shows the IVC in long axis entering the right atrium. *(Practice review slide 15.)*",
+      "explanationImage": null,
+      "tags": [
+        "Subcostal Window",
+        "Suprasternal Window",
+        "Echocardiography Windows"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch04-q038",
+      "stem": "A sonographer is asked to select the most accurate response.  From the subcostal short axis showing the long axis of the IVC, how do you maneuver the probe to acquire the descending aorta?",
+      "image": null,
+      "options": [
+        "Rotate the probe clockwise until the descending aorta is in view",
+        "Angle and slide slightly left ward",
+        "Angle the probe anteriorly",
+        "Rotate the probe counterclockwise until the descending aorta is in view"
+      ],
+      "answer": 1,
+      "explanation": "The course review identifies Angle and slide slightly left ward as the correct response. *(Practice review slide 17.)*",
+      "explanationImage": null,
+      "tags": [
+        "Subcostal Window",
+        "Suprasternal Window",
+        "Echocardiography Windows"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch04-q039",
+      "stem": "A sonographer is asked to select the most accurate response.  What position is the patient in for Suprasternal imaging?",
+      "image": null,
+      "options": [
+        "Right lateral decubitus with the right arm raised above and resting under the head",
+        "Supine with the neck extended",
+        "Left lateral decubitus with the left arm raised above and resting under the head",
+        "Supine with the knees bent"
+      ],
+      "answer": 1,
+      "explanation": "Suprasternal imaging uses a supine position with the neck extended (often a pillow under the shoulders) to expose the suprasternal notch for the aortic arch. *(Practice review slide 19.)*",
+      "explanationImage": null,
+      "tags": [
+        "Subcostal Window",
+        "Suprasternal Window",
+        "Echocardiography Windows"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch04-q040",
+      "stem": "A sonographer is asked to select the most accurate response.  What portion of the aorta is seen in the suprasternal notch view?",
+      "image": null,
+      "options": [
+        "Ascending aorta",
+        "Transverse arch",
+        "Descending aorta",
+        "All of the above"
+      ],
+      "answer": 3,
+      "explanation": "The suprasternal long-axis view displays the ascending aorta, the transverse (arch) segment, and the proximal descending aorta together. *(Practice review slide 21.)*",
+      "explanationImage": null,
+      "tags": [
+        "Subcostal Window",
+        "Suprasternal Window",
+        "Echocardiography Windows"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch04-q041",
+      "stem": "During quality review of an adult echo study, the following point is discussed.  What position is the patient in for Subcostal imaging?",
+      "image": null,
+      "options": [
+        "Right lateral decubitus with the right arm raised above and resting under the head",
+        "Supine with the neck extended",
+        "Supine with the knees bent",
+        "Left lateral decubitus with the left arm raised above and resting under the head"
+      ],
+      "answer": 2,
+      "explanation": "Subcostal imaging uses a supine position with the knees bent, which relaxes the abdominal wall and lets the transducer angle up under the costal margin toward the heart. *(Practice review slide 3.)*",
+      "explanationImage": null,
+      "tags": [
+        "Subcostal Window",
+        "Suprasternal Window",
+        "Echocardiography Windows"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch04-q042",
+      "stem": "During quality review of an adult echo study, the following point is discussed.  Where is the probe placed for the subcostal window?",
+      "image": null,
+      "options": [
+        "At the level of the 5th or 6th intercostal space, mid-axillary line",
+        "At the suprasternal notch with the indicator pointing toward 1–2 o’clock",
+        "Mid-chest on the patient’s left side at the 2nd–4th intercostal space",
+        "Midline on the patient, located inferior to the xiphoid process"
+      ],
+      "answer": 3,
+      "explanation": "The subcostal probe is placed in the midline just inferior to the xiphoid process, then angled up toward the left shoulder and heart. *(Practice review slide 5.)*",
+      "explanationImage": null,
+      "tags": [
+        "Subcostal Window",
+        "Suprasternal Window",
+        "Echocardiography Windows"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch04-q043",
+      "stem": "During quality review of an adult echo study, the following point is discussed.  The same anatomy will be demonstrated in the apical 4-chamber compared to the subcostal 4-chamber. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "False",
+        "True",
+        "Only true for pediatric echocardiography",
+        "Cannot be determined from the image alone"
+      ],
+      "answer": 1,
+      "explanation": "True — the subcostal 4-chamber displays the same four chambers, valves, and septa as the apical 4-chamber, just acquired from an inferior window with a different beam orientation. *(Practice review slide 7.)*",
+      "explanationImage": null,
+      "tags": [
+        "Subcostal Window",
+        "Suprasternal Window",
+        "Echocardiography Windows"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch04-q044",
+      "stem": "During quality review of an adult echo study, the following point is discussed.  What is the right atrial pressure if the IVC is ≤2.1 cm and collapses more than 50%?",
+      "image": null,
+      "options": [
+        "8 mmHg",
+        "3 mmHg",
+        "15 mmHg",
+        "4 mmHg"
+      ],
+      "answer": 1,
+      "explanation": "An IVC ≤2.1 cm that collapses >50% with a sniff indicates a normal RA pressure, estimated at 3 mmHg (range 0–5). *(Practice review slide 9.)*",
+      "explanationImage": null,
+      "tags": [
+        "Subcostal Window",
+        "Suprasternal Window",
+        "Echocardiography Windows"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch04-q045",
+      "stem": "During quality review of an adult echo study, the following point is discussed.  What is the right atrial pressure if the IVC is ≤2.1 cm and collapses less than 50%?",
+      "image": null,
+      "options": [
+        "3 mmHg",
+        "8 mmHg",
+        "4 mmHg",
+        "15 mmHg"
+      ],
+      "answer": 1,
+      "explanation": "A small IVC (≤2.1 cm) that collapses <50% is a discordant pattern, giving the intermediate RA pressure estimate of 8 mmHg (range 5–10). *(Practice review slide 11.)*",
+      "explanationImage": null,
+      "tags": [
+        "Subcostal Window",
+        "Suprasternal Window",
+        "Echocardiography Windows"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch04-q046",
+      "stem": "During quality review of an adult echo study, the following point is discussed.  What is the right atrial pressure if the IVC is ≥2.1 cm and collapses less than 50%?",
+      "image": null,
+      "options": [
+        "3 mmHg",
+        "4 mmHg",
+        "8 mmHg",
+        "15 mmHg"
+      ],
+      "answer": 3,
+      "explanation": "A dilated IVC (≥2.1 cm) that collapses <50% indicates a high RA pressure, estimated at 15 mmHg (range 10–20). *(Practice review slide 13.)*",
+      "explanationImage": null,
+      "tags": [
+        "Subcostal Window",
+        "Suprasternal Window",
+        "Echocardiography Windows"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch04-q047",
+      "stem": "During quality review of an adult echo study, the following point is discussed.  From the subcostal 4-chamber, how do you maneuver the probe to acquire the subcostal short axis showing the long axis of the IVC?",
+      "image": null,
+      "options": [
+        "Angle the probe toward the patient’s right hip",
+        "Angle the probe toward the patient’s left shoulder",
+        "Rotate the probe counterclockwise ~90° to place the indicator at 12 o’clock",
+        "Rotate the probe clockwise ~90° to place the indicator at 6 o’clock"
+      ],
+      "answer": 2,
+      "explanation": "From the subcostal 4-chamber, rotate the probe counterclockwise ~90° (indicator toward 12 o’clock) to obtain the sagittal plane that shows the IVC in long axis entering the right atrium. *(Practice review slide 15.)*",
+      "explanationImage": null,
+      "tags": [
+        "Subcostal Window",
+        "Suprasternal Window",
+        "Echocardiography Windows"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch04-q048",
+      "stem": "During quality review of an adult echo study, the following point is discussed.  From the subcostal short axis showing the long axis of the IVC, how do you maneuver the probe to acquire the descending aorta?",
+      "image": null,
+      "options": [
+        "Angle and slide slightly left ward",
+        "Rotate the probe counterclockwise until the descending aorta is in view",
+        "Rotate the probe clockwise until the descending aorta is in view",
+        "Angle the probe anteriorly"
+      ],
+      "answer": 0,
+      "explanation": "The course review identifies Angle and slide slightly left ward as the correct response. *(Practice review slide 17.)*",
+      "explanationImage": null,
+      "tags": [
+        "Subcostal Window",
+        "Suprasternal Window",
+        "Echocardiography Windows"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch04-q049",
+      "stem": "During quality review of an adult echo study, the following point is discussed.  What position is the patient in for Suprasternal imaging?",
+      "image": null,
+      "options": [
+        "Right lateral decubitus with the right arm raised above and resting under the head",
+        "Supine with the neck extended",
+        "Supine with the knees bent",
+        "Left lateral decubitus with the left arm raised above and resting under the head"
+      ],
+      "answer": 1,
+      "explanation": "Suprasternal imaging uses a supine position with the neck extended (often a pillow under the shoulders) to expose the suprasternal notch for the aortic arch. *(Practice review slide 19.)*",
+      "explanationImage": null,
+      "tags": [
+        "Subcostal Window",
+        "Suprasternal Window",
+        "Echocardiography Windows"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch04-q050",
+      "stem": "During quality review of an adult echo study, the following point is discussed.  What portion of the aorta is seen in the suprasternal notch view?",
+      "image": null,
+      "options": [
+        "Ascending aorta",
+        "Transverse arch",
+        "Descending aorta",
+        "All of the above"
+      ],
+      "answer": 3,
+      "explanation": "The suprasternal long-axis view displays the ascending aorta, the transverse (arch) segment, and the proximal descending aorta together. *(Practice review slide 21.)*",
+      "explanationImage": null,
+      "tags": [
+        "Subcostal Window",
+        "Suprasternal Window",
+        "Echocardiography Windows"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch04-q051",
+      "stem": "An adult cardiac sonography student is interpreting a teaching case.  What position is the patient in for Subcostal imaging?",
+      "image": null,
+      "options": [
+        "Supine with the knees bent",
+        "Left lateral decubitus with the left arm raised above and resting under the head",
+        "Supine with the neck extended",
+        "Right lateral decubitus with the right arm raised above and resting under the head"
+      ],
+      "answer": 0,
+      "explanation": "Subcostal imaging uses a supine position with the knees bent, which relaxes the abdominal wall and lets the transducer angle up under the costal margin toward the heart. *(Practice review slide 3.)*",
+      "explanationImage": null,
+      "tags": [
+        "Subcostal Window",
+        "Suprasternal Window",
+        "Echocardiography Windows"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch04-q052",
+      "stem": "An adult cardiac sonography student is interpreting a teaching case.  Where is the probe placed for the subcostal window?",
+      "image": null,
+      "options": [
+        "At the suprasternal notch with the indicator pointing toward 1–2 o’clock",
+        "Midline on the patient, located inferior to the xiphoid process",
+        "Mid-chest on the patient’s left side at the 2nd–4th intercostal space",
+        "At the level of the 5th or 6th intercostal space, mid-axillary line"
+      ],
+      "answer": 1,
+      "explanation": "The subcostal probe is placed in the midline just inferior to the xiphoid process, then angled up toward the left shoulder and heart. *(Practice review slide 5.)*",
+      "explanationImage": null,
+      "tags": [
+        "Subcostal Window",
+        "Suprasternal Window",
+        "Echocardiography Windows"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch04-q053",
+      "stem": "An adult cardiac sonography student is interpreting a teaching case.  The same anatomy will be demonstrated in the apical 4-chamber compared to the subcostal 4-chamber. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "Only true for pediatric echocardiography",
+        "True",
+        "Cannot be determined from the image alone",
+        "False"
+      ],
+      "answer": 1,
+      "explanation": "True — the subcostal 4-chamber displays the same four chambers, valves, and septa as the apical 4-chamber, just acquired from an inferior window with a different beam orientation. *(Practice review slide 7.)*",
+      "explanationImage": null,
+      "tags": [
+        "Subcostal Window",
+        "Suprasternal Window",
+        "Echocardiography Windows"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch04-q054",
+      "stem": "An adult cardiac sonography student is interpreting a teaching case.  What is the right atrial pressure if the IVC is ≤2.1 cm and collapses more than 50%?",
+      "image": null,
+      "options": [
+        "8 mmHg",
+        "3 mmHg",
+        "4 mmHg",
+        "15 mmHg"
+      ],
+      "answer": 1,
+      "explanation": "An IVC ≤2.1 cm that collapses >50% with a sniff indicates a normal RA pressure, estimated at 3 mmHg (range 0–5). *(Practice review slide 9.)*",
+      "explanationImage": null,
+      "tags": [
+        "Subcostal Window",
+        "Suprasternal Window",
+        "Echocardiography Windows"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch04-q055",
+      "stem": "An adult cardiac sonography student is interpreting a teaching case.  What is the right atrial pressure if the IVC is ≤2.1 cm and collapses less than 50%?",
+      "image": null,
+      "options": [
+        "15 mmHg",
+        "8 mmHg",
+        "3 mmHg",
+        "4 mmHg"
+      ],
+      "answer": 1,
+      "explanation": "A small IVC (≤2.1 cm) that collapses <50% is a discordant pattern, giving the intermediate RA pressure estimate of 8 mmHg (range 5–10). *(Practice review slide 11.)*",
+      "explanationImage": null,
+      "tags": [
+        "Subcostal Window",
+        "Suprasternal Window",
+        "Echocardiography Windows"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch04-q056",
+      "stem": "An adult cardiac sonography student is interpreting a teaching case.  What is the right atrial pressure if the IVC is ≥2.1 cm and collapses less than 50%?",
+      "image": null,
+      "options": [
+        "15 mmHg",
+        "8 mmHg",
+        "3 mmHg",
+        "4 mmHg"
+      ],
+      "answer": 0,
+      "explanation": "A dilated IVC (≥2.1 cm) that collapses <50% indicates a high RA pressure, estimated at 15 mmHg (range 10–20). *(Practice review slide 13.)*",
+      "explanationImage": null,
+      "tags": [
+        "Subcostal Window",
+        "Suprasternal Window",
+        "Echocardiography Windows"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch04-q057",
+      "stem": "An adult cardiac sonography student is interpreting a teaching case.  From the subcostal 4-chamber, how do you maneuver the probe to acquire the subcostal short axis showing the long axis of the IVC?",
+      "image": null,
+      "options": [
+        "Rotate the probe counterclockwise ~90° to place the indicator at 12 o’clock",
+        "Rotate the probe clockwise ~90° to place the indicator at 6 o’clock",
+        "Angle the probe toward the patient’s right hip",
+        "Angle the probe toward the patient’s left shoulder"
+      ],
+      "answer": 0,
+      "explanation": "From the subcostal 4-chamber, rotate the probe counterclockwise ~90° (indicator toward 12 o’clock) to obtain the sagittal plane that shows the IVC in long axis entering the right atrium. *(Practice review slide 15.)*",
+      "explanationImage": null,
+      "tags": [
+        "Subcostal Window",
+        "Suprasternal Window",
+        "Echocardiography Windows"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch04-q058",
+      "stem": "An adult cardiac sonography student is interpreting a teaching case.  From the subcostal short axis showing the long axis of the IVC, how do you maneuver the probe to acquire the descending aorta?",
+      "image": null,
+      "options": [
+        "Rotate the probe counterclockwise until the descending aorta is in view",
+        "Angle the probe anteriorly",
+        "Rotate the probe clockwise until the descending aorta is in view",
+        "Angle and slide slightly left ward"
+      ],
+      "answer": 3,
+      "explanation": "The course review identifies Angle and slide slightly left ward as the correct response. *(Practice review slide 17.)*",
+      "explanationImage": null,
+      "tags": [
+        "Subcostal Window",
+        "Suprasternal Window",
+        "Echocardiography Windows"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch04-q059",
+      "stem": "An adult cardiac sonography student is interpreting a teaching case.  What position is the patient in for Suprasternal imaging?",
+      "image": null,
+      "options": [
+        "Supine with the neck extended",
+        "Supine with the knees bent",
+        "Left lateral decubitus with the left arm raised above and resting under the head",
+        "Right lateral decubitus with the right arm raised above and resting under the head"
+      ],
+      "answer": 0,
+      "explanation": "Suprasternal imaging uses a supine position with the neck extended (often a pillow under the shoulders) to expose the suprasternal notch for the aortic arch. *(Practice review slide 19.)*",
+      "explanationImage": null,
+      "tags": [
+        "Subcostal Window",
+        "Suprasternal Window",
+        "Echocardiography Windows"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch04-q060",
+      "stem": "An adult cardiac sonography student is interpreting a teaching case.  What portion of the aorta is seen in the suprasternal notch view?",
+      "image": null,
+      "options": [
+        "Ascending aorta",
+        "Transverse arch",
+        "Descending aorta",
+        "All of the above"
+      ],
+      "answer": 3,
+      "explanation": "The suprasternal long-axis view displays the ascending aorta, the transverse (arch) segment, and the proximal descending aorta together. *(Practice review slide 21.)*",
+      "explanationImage": null,
+      "tags": [
+        "Subcostal Window",
+        "Suprasternal Window",
+        "Echocardiography Windows"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch04-q061",
+      "stem": "Before image acquisition, a sonographer checks their understanding of the following.  What position is the patient in for Subcostal imaging?",
+      "image": null,
+      "options": [
+        "Right lateral decubitus with the right arm raised above and resting under the head",
+        "Supine with the knees bent",
+        "Left lateral decubitus with the left arm raised above and resting under the head",
+        "Supine with the neck extended"
+      ],
+      "answer": 1,
+      "explanation": "Subcostal imaging uses a supine position with the knees bent, which relaxes the abdominal wall and lets the transducer angle up under the costal margin toward the heart. *(Practice review slide 3.)*",
+      "explanationImage": null,
+      "tags": [
+        "Subcostal Window",
+        "Suprasternal Window",
+        "Echocardiography Windows"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch04-q062",
+      "stem": "Before image acquisition, a sonographer checks their understanding of the following.  Where is the probe placed for the subcostal window?",
+      "image": null,
+      "options": [
+        "At the suprasternal notch with the indicator pointing toward 1–2 o’clock",
+        "Midline on the patient, located inferior to the xiphoid process",
+        "At the level of the 5th or 6th intercostal space, mid-axillary line",
+        "Mid-chest on the patient’s left side at the 2nd–4th intercostal space"
+      ],
+      "answer": 1,
+      "explanation": "The subcostal probe is placed in the midline just inferior to the xiphoid process, then angled up toward the left shoulder and heart. *(Practice review slide 5.)*",
+      "explanationImage": null,
+      "tags": [
+        "Subcostal Window",
+        "Suprasternal Window",
+        "Echocardiography Windows"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch04-q063",
+      "stem": "Before image acquisition, a sonographer checks their understanding of the following.  The same anatomy will be demonstrated in the apical 4-chamber compared to the subcostal 4-chamber. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "Cannot be determined from the image alone",
+        "True",
+        "False",
+        "Only true for pediatric echocardiography"
+      ],
+      "answer": 1,
+      "explanation": "True — the subcostal 4-chamber displays the same four chambers, valves, and septa as the apical 4-chamber, just acquired from an inferior window with a different beam orientation. *(Practice review slide 7.)*",
+      "explanationImage": null,
+      "tags": [
+        "Subcostal Window",
+        "Suprasternal Window",
+        "Echocardiography Windows"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch04-q064",
+      "stem": "Before image acquisition, a sonographer checks their understanding of the following.  What is the right atrial pressure if the IVC is ≤2.1 cm and collapses more than 50%?",
+      "image": null,
+      "options": [
+        "4 mmHg",
+        "15 mmHg",
+        "3 mmHg",
+        "8 mmHg"
+      ],
+      "answer": 2,
+      "explanation": "An IVC ≤2.1 cm that collapses >50% with a sniff indicates a normal RA pressure, estimated at 3 mmHg (range 0–5). *(Practice review slide 9.)*",
+      "explanationImage": null,
+      "tags": [
+        "Subcostal Window",
+        "Suprasternal Window",
+        "Echocardiography Windows"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch04-q065",
+      "stem": "Before image acquisition, a sonographer checks their understanding of the following.  What is the right atrial pressure if the IVC is ≤2.1 cm and collapses less than 50%?",
+      "image": null,
+      "options": [
+        "15 mmHg",
+        "3 mmHg",
+        "8 mmHg",
+        "4 mmHg"
+      ],
+      "answer": 2,
+      "explanation": "A small IVC (≤2.1 cm) that collapses <50% is a discordant pattern, giving the intermediate RA pressure estimate of 8 mmHg (range 5–10). *(Practice review slide 11.)*",
+      "explanationImage": null,
+      "tags": [
+        "Subcostal Window",
+        "Suprasternal Window",
+        "Echocardiography Windows"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch04-q066",
+      "stem": "Before image acquisition, a sonographer checks their understanding of the following.  What is the right atrial pressure if the IVC is ≥2.1 cm and collapses less than 50%?",
+      "image": null,
+      "options": [
+        "4 mmHg",
+        "3 mmHg",
+        "8 mmHg",
+        "15 mmHg"
+      ],
+      "answer": 3,
+      "explanation": "A dilated IVC (≥2.1 cm) that collapses <50% indicates a high RA pressure, estimated at 15 mmHg (range 10–20). *(Practice review slide 13.)*",
+      "explanationImage": null,
+      "tags": [
+        "Subcostal Window",
+        "Suprasternal Window",
+        "Echocardiography Windows"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch04-q067",
+      "stem": "Before image acquisition, a sonographer checks their understanding of the following.  From the subcostal 4-chamber, how do you maneuver the probe to acquire the subcostal short axis showing the long axis of the IVC?",
+      "image": null,
+      "options": [
+        "Rotate the probe counterclockwise ~90° to place the indicator at 12 o’clock",
+        "Angle the probe toward the patient’s left shoulder",
+        "Angle the probe toward the patient’s right hip",
+        "Rotate the probe clockwise ~90° to place the indicator at 6 o’clock"
+      ],
+      "answer": 0,
+      "explanation": "From the subcostal 4-chamber, rotate the probe counterclockwise ~90° (indicator toward 12 o’clock) to obtain the sagittal plane that shows the IVC in long axis entering the right atrium. *(Practice review slide 15.)*",
+      "explanationImage": null,
+      "tags": [
+        "Subcostal Window",
+        "Suprasternal Window",
+        "Echocardiography Windows"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch04-q068",
+      "stem": "Before image acquisition, a sonographer checks their understanding of the following.  From the subcostal short axis showing the long axis of the IVC, how do you maneuver the probe to acquire the descending aorta?",
+      "image": null,
+      "options": [
+        "Rotate the probe counterclockwise until the descending aorta is in view",
+        "Angle and slide slightly left ward",
+        "Angle the probe anteriorly",
+        "Rotate the probe clockwise until the descending aorta is in view"
+      ],
+      "answer": 1,
+      "explanation": "The course review identifies Angle and slide slightly left ward as the correct response. *(Practice review slide 17.)*",
+      "explanationImage": null,
+      "tags": [
+        "Subcostal Window",
+        "Suprasternal Window",
+        "Echocardiography Windows"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch04-q069",
+      "stem": "Before image acquisition, a sonographer checks their understanding of the following.  What position is the patient in for Suprasternal imaging?",
+      "image": null,
+      "options": [
+        "Right lateral decubitus with the right arm raised above and resting under the head",
+        "Supine with the knees bent",
+        "Supine with the neck extended",
+        "Left lateral decubitus with the left arm raised above and resting under the head"
+      ],
+      "answer": 2,
+      "explanation": "Suprasternal imaging uses a supine position with the neck extended (often a pillow under the shoulders) to expose the suprasternal notch for the aortic arch. *(Practice review slide 19.)*",
+      "explanationImage": null,
+      "tags": [
+        "Subcostal Window",
+        "Suprasternal Window",
+        "Echocardiography Windows"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch04-q070",
+      "stem": "Before image acquisition, a sonographer checks their understanding of the following.  What portion of the aorta is seen in the suprasternal notch view?",
+      "image": null,
+      "options": [
+        "Ascending aorta",
+        "Transverse arch",
+        "Descending aorta",
+        "All of the above"
+      ],
+      "answer": 3,
+      "explanation": "The suprasternal long-axis view displays the ascending aorta, the transverse (arch) segment, and the proximal descending aorta together. *(Practice review slide 21.)*",
+      "explanationImage": null,
+      "tags": [
+        "Subcostal Window",
+        "Suprasternal Window",
+        "Echocardiography Windows"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch04-q071",
+      "stem": "In a laboratory teaching session, the instructor asks:  What position is the patient in for Subcostal imaging?",
+      "image": null,
+      "options": [
+        "Left lateral decubitus with the left arm raised above and resting under the head",
+        "Right lateral decubitus with the right arm raised above and resting under the head",
+        "Supine with the knees bent",
+        "Supine with the neck extended"
+      ],
+      "answer": 2,
+      "explanation": "Subcostal imaging uses a supine position with the knees bent, which relaxes the abdominal wall and lets the transducer angle up under the costal margin toward the heart. *(Practice review slide 3.)*",
+      "explanationImage": null,
+      "tags": [
+        "Subcostal Window",
+        "Suprasternal Window",
+        "Echocardiography Windows"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch04-q072",
+      "stem": "In a laboratory teaching session, the instructor asks:  Where is the probe placed for the subcostal window?",
+      "image": null,
+      "options": [
+        "At the suprasternal notch with the indicator pointing toward 1–2 o’clock",
+        "Midline on the patient, located inferior to the xiphoid process",
+        "Mid-chest on the patient’s left side at the 2nd–4th intercostal space",
+        "At the level of the 5th or 6th intercostal space, mid-axillary line"
+      ],
+      "answer": 1,
+      "explanation": "The subcostal probe is placed in the midline just inferior to the xiphoid process, then angled up toward the left shoulder and heart. *(Practice review slide 5.)*",
+      "explanationImage": null,
+      "tags": [
+        "Subcostal Window",
+        "Suprasternal Window",
+        "Echocardiography Windows"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch04-q073",
+      "stem": "In a laboratory teaching session, the instructor asks:  The same anatomy will be demonstrated in the apical 4-chamber compared to the subcostal 4-chamber. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "Cannot be determined from the image alone",
+        "True",
+        "False",
+        "Only true for pediatric echocardiography"
+      ],
+      "answer": 1,
+      "explanation": "True — the subcostal 4-chamber displays the same four chambers, valves, and septa as the apical 4-chamber, just acquired from an inferior window with a different beam orientation. *(Practice review slide 7.)*",
+      "explanationImage": null,
+      "tags": [
+        "Subcostal Window",
+        "Suprasternal Window",
+        "Echocardiography Windows"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch04-q074",
+      "stem": "In a laboratory teaching session, the instructor asks:  What is the right atrial pressure if the IVC is ≤2.1 cm and collapses more than 50%?",
+      "image": null,
+      "options": [
+        "4 mmHg",
+        "15 mmHg",
+        "3 mmHg",
+        "8 mmHg"
+      ],
+      "answer": 2,
+      "explanation": "An IVC ≤2.1 cm that collapses >50% with a sniff indicates a normal RA pressure, estimated at 3 mmHg (range 0–5). *(Practice review slide 9.)*",
+      "explanationImage": null,
+      "tags": [
+        "Subcostal Window",
+        "Suprasternal Window",
+        "Echocardiography Windows"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch04-q075",
+      "stem": "In a laboratory teaching session, the instructor asks:  What is the right atrial pressure if the IVC is ≤2.1 cm and collapses less than 50%?",
+      "image": null,
+      "options": [
+        "3 mmHg",
+        "4 mmHg",
+        "15 mmHg",
+        "8 mmHg"
+      ],
+      "answer": 3,
+      "explanation": "A small IVC (≤2.1 cm) that collapses <50% is a discordant pattern, giving the intermediate RA pressure estimate of 8 mmHg (range 5–10). *(Practice review slide 11.)*",
+      "explanationImage": null,
+      "tags": [
+        "Subcostal Window",
+        "Suprasternal Window",
+        "Echocardiography Windows"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch04-q076",
+      "stem": "In a laboratory teaching session, the instructor asks:  What is the right atrial pressure if the IVC is ≥2.1 cm and collapses less than 50%?",
+      "image": null,
+      "options": [
+        "15 mmHg",
+        "4 mmHg",
+        "3 mmHg",
+        "8 mmHg"
+      ],
+      "answer": 0,
+      "explanation": "A dilated IVC (≥2.1 cm) that collapses <50% indicates a high RA pressure, estimated at 15 mmHg (range 10–20). *(Practice review slide 13.)*",
+      "explanationImage": null,
+      "tags": [
+        "Subcostal Window",
+        "Suprasternal Window",
+        "Echocardiography Windows"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch04-q077",
+      "stem": "In a laboratory teaching session, the instructor asks:  From the subcostal 4-chamber, how do you maneuver the probe to acquire the subcostal short axis showing the long axis of the IVC?",
+      "image": null,
+      "options": [
+        "Rotate the probe clockwise ~90° to place the indicator at 6 o’clock",
+        "Angle the probe toward the patient’s left shoulder",
+        "Rotate the probe counterclockwise ~90° to place the indicator at 12 o’clock",
+        "Angle the probe toward the patient’s right hip"
+      ],
+      "answer": 2,
+      "explanation": "From the subcostal 4-chamber, rotate the probe counterclockwise ~90° (indicator toward 12 o’clock) to obtain the sagittal plane that shows the IVC in long axis entering the right atrium. *(Practice review slide 15.)*",
+      "explanationImage": null,
+      "tags": [
+        "Subcostal Window",
+        "Suprasternal Window",
+        "Echocardiography Windows"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch04-q078",
+      "stem": "In a laboratory teaching session, the instructor asks:  From the subcostal short axis showing the long axis of the IVC, how do you maneuver the probe to acquire the descending aorta?",
+      "image": null,
+      "options": [
+        "Angle and slide slightly left ward",
+        "Rotate the probe counterclockwise until the descending aorta is in view",
+        "Angle the probe anteriorly",
+        "Rotate the probe clockwise until the descending aorta is in view"
+      ],
+      "answer": 0,
+      "explanation": "The course review identifies Angle and slide slightly left ward as the correct response. *(Practice review slide 17.)*",
+      "explanationImage": null,
+      "tags": [
+        "Subcostal Window",
+        "Suprasternal Window",
+        "Echocardiography Windows"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch04-q079",
+      "stem": "In a laboratory teaching session, the instructor asks:  What position is the patient in for Suprasternal imaging?",
+      "image": null,
+      "options": [
+        "Right lateral decubitus with the right arm raised above and resting under the head",
+        "Supine with the neck extended",
+        "Supine with the knees bent",
+        "Left lateral decubitus with the left arm raised above and resting under the head"
+      ],
+      "answer": 1,
+      "explanation": "Suprasternal imaging uses a supine position with the neck extended (often a pillow under the shoulders) to expose the suprasternal notch for the aortic arch. *(Practice review slide 19.)*",
+      "explanationImage": null,
+      "tags": [
+        "Subcostal Window",
+        "Suprasternal Window",
+        "Echocardiography Windows"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch04-q080",
+      "stem": "In a laboratory teaching session, the instructor asks:  What portion of the aorta is seen in the suprasternal notch view?",
+      "image": null,
+      "options": [
+        "Ascending aorta",
+        "Transverse arch",
+        "Descending aorta",
+        "All of the above"
+      ],
+      "answer": 3,
+      "explanation": "The suprasternal long-axis view displays the ascending aorta, the transverse (arch) segment, and the proximal descending aorta together. *(Practice review slide 21.)*",
+      "explanationImage": null,
+      "tags": [
+        "Subcostal Window",
+        "Suprasternal Window",
+        "Echocardiography Windows"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch04-q081",
+      "stem": "During a mock adult echocardiography board examination, consider the following.  What position is the patient in for Subcostal imaging?",
+      "image": null,
+      "options": [
+        "Left lateral decubitus with the left arm raised above and resting under the head",
+        "Supine with the neck extended",
+        "Right lateral decubitus with the right arm raised above and resting under the head",
+        "Supine with the knees bent"
+      ],
+      "answer": 3,
+      "explanation": "Subcostal imaging uses a supine position with the knees bent, which relaxes the abdominal wall and lets the transducer angle up under the costal margin toward the heart. *(Practice review slide 3.)*",
+      "explanationImage": null,
+      "tags": [
+        "Subcostal Window",
+        "Suprasternal Window",
+        "Echocardiography Windows"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch04-q082",
+      "stem": "During a mock adult echocardiography board examination, consider the following.  Where is the probe placed for the subcostal window?",
+      "image": null,
+      "options": [
+        "Midline on the patient, located inferior to the xiphoid process",
+        "Mid-chest on the patient’s left side at the 2nd–4th intercostal space",
+        "At the suprasternal notch with the indicator pointing toward 1–2 o’clock",
+        "At the level of the 5th or 6th intercostal space, mid-axillary line"
+      ],
+      "answer": 0,
+      "explanation": "The subcostal probe is placed in the midline just inferior to the xiphoid process, then angled up toward the left shoulder and heart. *(Practice review slide 5.)*",
+      "explanationImage": null,
+      "tags": [
+        "Subcostal Window",
+        "Suprasternal Window",
+        "Echocardiography Windows"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch04-q083",
+      "stem": "During a mock adult echocardiography board examination, consider the following.  The same anatomy will be demonstrated in the apical 4-chamber compared to the subcostal 4-chamber. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "Only true for pediatric echocardiography",
+        "False",
+        "Cannot be determined from the image alone",
+        "True"
+      ],
+      "answer": 3,
+      "explanation": "True — the subcostal 4-chamber displays the same four chambers, valves, and septa as the apical 4-chamber, just acquired from an inferior window with a different beam orientation. *(Practice review slide 7.)*",
+      "explanationImage": null,
+      "tags": [
+        "Subcostal Window",
+        "Suprasternal Window",
+        "Echocardiography Windows"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch04-q084",
+      "stem": "During a mock adult echocardiography board examination, consider the following.  What is the right atrial pressure if the IVC is ≤2.1 cm and collapses more than 50%?",
+      "image": null,
+      "options": [
+        "4 mmHg",
+        "8 mmHg",
+        "15 mmHg",
+        "3 mmHg"
+      ],
+      "answer": 3,
+      "explanation": "An IVC ≤2.1 cm that collapses >50% with a sniff indicates a normal RA pressure, estimated at 3 mmHg (range 0–5). *(Practice review slide 9.)*",
+      "explanationImage": null,
+      "tags": [
+        "Subcostal Window",
+        "Suprasternal Window",
+        "Echocardiography Windows"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch04-q085",
+      "stem": "During a mock adult echocardiography board examination, consider the following.  What is the right atrial pressure if the IVC is ≤2.1 cm and collapses less than 50%?",
+      "image": null,
+      "options": [
+        "8 mmHg",
+        "3 mmHg",
+        "4 mmHg",
+        "15 mmHg"
+      ],
+      "answer": 0,
+      "explanation": "A small IVC (≤2.1 cm) that collapses <50% is a discordant pattern, giving the intermediate RA pressure estimate of 8 mmHg (range 5–10). *(Practice review slide 11.)*",
+      "explanationImage": null,
+      "tags": [
+        "Subcostal Window",
+        "Suprasternal Window",
+        "Echocardiography Windows"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch04-q086",
+      "stem": "During a mock adult echocardiography board examination, consider the following.  What is the right atrial pressure if the IVC is ≥2.1 cm and collapses less than 50%?",
+      "image": null,
+      "options": [
+        "15 mmHg",
+        "3 mmHg",
+        "8 mmHg",
+        "4 mmHg"
+      ],
+      "answer": 0,
+      "explanation": "A dilated IVC (≥2.1 cm) that collapses <50% indicates a high RA pressure, estimated at 15 mmHg (range 10–20). *(Practice review slide 13.)*",
+      "explanationImage": null,
+      "tags": [
+        "Subcostal Window",
+        "Suprasternal Window",
+        "Echocardiography Windows"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch04-q087",
+      "stem": "During a mock adult echocardiography board examination, consider the following.  From the subcostal 4-chamber, how do you maneuver the probe to acquire the subcostal short axis showing the long axis of the IVC?",
+      "image": null,
+      "options": [
+        "Angle the probe toward the patient’s right hip",
+        "Angle the probe toward the patient’s left shoulder",
+        "Rotate the probe clockwise ~90° to place the indicator at 6 o’clock",
+        "Rotate the probe counterclockwise ~90° to place the indicator at 12 o’clock"
+      ],
+      "answer": 3,
+      "explanation": "From the subcostal 4-chamber, rotate the probe counterclockwise ~90° (indicator toward 12 o’clock) to obtain the sagittal plane that shows the IVC in long axis entering the right atrium. *(Practice review slide 15.)*",
+      "explanationImage": null,
+      "tags": [
+        "Subcostal Window",
+        "Suprasternal Window",
+        "Echocardiography Windows"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch04-q088",
+      "stem": "During a mock adult echocardiography board examination, consider the following.  From the subcostal short axis showing the long axis of the IVC, how do you maneuver the probe to acquire the descending aorta?",
+      "image": null,
+      "options": [
+        "Rotate the probe counterclockwise until the descending aorta is in view",
+        "Rotate the probe clockwise until the descending aorta is in view",
+        "Angle the probe anteriorly",
+        "Angle and slide slightly left ward"
+      ],
+      "answer": 3,
+      "explanation": "The course review identifies Angle and slide slightly left ward as the correct response. *(Practice review slide 17.)*",
+      "explanationImage": null,
+      "tags": [
+        "Subcostal Window",
+        "Suprasternal Window",
+        "Echocardiography Windows"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch04-q089",
+      "stem": "During a mock adult echocardiography board examination, consider the following.  What position is the patient in for Suprasternal imaging?",
+      "image": null,
+      "options": [
+        "Supine with the neck extended",
+        "Left lateral decubitus with the left arm raised above and resting under the head",
+        "Right lateral decubitus with the right arm raised above and resting under the head",
+        "Supine with the knees bent"
+      ],
+      "answer": 0,
+      "explanation": "Suprasternal imaging uses a supine position with the neck extended (often a pillow under the shoulders) to expose the suprasternal notch for the aortic arch. *(Practice review slide 19.)*",
+      "explanationImage": null,
+      "tags": [
+        "Subcostal Window",
+        "Suprasternal Window",
+        "Echocardiography Windows"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch04-q090",
+      "stem": "During a mock adult echocardiography board examination, consider the following.  What portion of the aorta is seen in the suprasternal notch view?",
+      "image": null,
+      "options": [
+        "Ascending aorta",
+        "Transverse arch",
+        "Descending aorta",
+        "All of the above"
+      ],
+      "answer": 3,
+      "explanation": "The suprasternal long-axis view displays the ascending aorta, the transverse (arch) segment, and the proximal descending aorta together. *(Practice review slide 21.)*",
+      "explanationImage": null,
+      "tags": [
+        "Subcostal Window",
+        "Suprasternal Window",
+        "Echocardiography Windows"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch04-q091",
+      "stem": "A sonographer is reviewing the relevant anatomy, technique, or physiology.  What position is the patient in for Subcostal imaging?",
+      "image": null,
+      "options": [
+        "Left lateral decubitus with the left arm raised above and resting under the head",
+        "Supine with the knees bent",
+        "Right lateral decubitus with the right arm raised above and resting under the head",
+        "Supine with the neck extended"
+      ],
+      "answer": 1,
+      "explanation": "Subcostal imaging uses a supine position with the knees bent, which relaxes the abdominal wall and lets the transducer angle up under the costal margin toward the heart. *(Practice review slide 3.)*",
+      "explanationImage": null,
+      "tags": [
+        "Subcostal Window",
+        "Suprasternal Window",
+        "Echocardiography Windows"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch04-q092",
+      "stem": "A sonographer is reviewing the relevant anatomy, technique, or physiology.  Where is the probe placed for the subcostal window?",
+      "image": null,
+      "options": [
+        "At the level of the 5th or 6th intercostal space, mid-axillary line",
+        "Mid-chest on the patient’s left side at the 2nd–4th intercostal space",
+        "At the suprasternal notch with the indicator pointing toward 1–2 o’clock",
+        "Midline on the patient, located inferior to the xiphoid process"
+      ],
+      "answer": 3,
+      "explanation": "The subcostal probe is placed in the midline just inferior to the xiphoid process, then angled up toward the left shoulder and heart. *(Practice review slide 5.)*",
+      "explanationImage": null,
+      "tags": [
+        "Subcostal Window",
+        "Suprasternal Window",
+        "Echocardiography Windows"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch04-q093",
+      "stem": "A sonographer is reviewing the relevant anatomy, technique, or physiology.  The same anatomy will be demonstrated in the apical 4-chamber compared to the subcostal 4-chamber. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "Only true for pediatric echocardiography",
+        "False",
+        "Cannot be determined from the image alone",
+        "True"
+      ],
+      "answer": 3,
+      "explanation": "True — the subcostal 4-chamber displays the same four chambers, valves, and septa as the apical 4-chamber, just acquired from an inferior window with a different beam orientation. *(Practice review slide 7.)*",
+      "explanationImage": null,
+      "tags": [
+        "Subcostal Window",
+        "Suprasternal Window",
+        "Echocardiography Windows"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch04-q094",
+      "stem": "A sonographer is reviewing the relevant anatomy, technique, or physiology.  What is the right atrial pressure if the IVC is ≤2.1 cm and collapses more than 50%?",
+      "image": null,
+      "options": [
+        "15 mmHg",
+        "8 mmHg",
+        "3 mmHg",
+        "4 mmHg"
+      ],
+      "answer": 2,
+      "explanation": "An IVC ≤2.1 cm that collapses >50% with a sniff indicates a normal RA pressure, estimated at 3 mmHg (range 0–5). *(Practice review slide 9.)*",
+      "explanationImage": null,
+      "tags": [
+        "Subcostal Window",
+        "Suprasternal Window",
+        "Echocardiography Windows"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch04-q095",
+      "stem": "A sonographer is reviewing the relevant anatomy, technique, or physiology.  What is the right atrial pressure if the IVC is ≤2.1 cm and collapses less than 50%?",
+      "image": null,
+      "options": [
+        "3 mmHg",
+        "15 mmHg",
+        "4 mmHg",
+        "8 mmHg"
+      ],
+      "answer": 3,
+      "explanation": "A small IVC (≤2.1 cm) that collapses <50% is a discordant pattern, giving the intermediate RA pressure estimate of 8 mmHg (range 5–10). *(Practice review slide 11.)*",
+      "explanationImage": null,
+      "tags": [
+        "Subcostal Window",
+        "Suprasternal Window",
+        "Echocardiography Windows"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch04-q096",
+      "stem": "A sonographer is reviewing the relevant anatomy, technique, or physiology.  What is the right atrial pressure if the IVC is ≥2.1 cm and collapses less than 50%?",
+      "image": null,
+      "options": [
+        "15 mmHg",
+        "3 mmHg",
+        "8 mmHg",
+        "4 mmHg"
+      ],
+      "answer": 0,
+      "explanation": "A dilated IVC (≥2.1 cm) that collapses <50% indicates a high RA pressure, estimated at 15 mmHg (range 10–20). *(Practice review slide 13.)*",
+      "explanationImage": null,
+      "tags": [
+        "Subcostal Window",
+        "Suprasternal Window",
+        "Echocardiography Windows"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch04-q097",
+      "stem": "A sonographer is reviewing the relevant anatomy, technique, or physiology.  From the subcostal 4-chamber, how do you maneuver the probe to acquire the subcostal short axis showing the long axis of the IVC?",
+      "image": null,
+      "options": [
+        "Rotate the probe counterclockwise ~90° to place the indicator at 12 o’clock",
+        "Angle the probe toward the patient’s right hip",
+        "Rotate the probe clockwise ~90° to place the indicator at 6 o’clock",
+        "Angle the probe toward the patient’s left shoulder"
+      ],
+      "answer": 0,
+      "explanation": "From the subcostal 4-chamber, rotate the probe counterclockwise ~90° (indicator toward 12 o’clock) to obtain the sagittal plane that shows the IVC in long axis entering the right atrium. *(Practice review slide 15.)*",
+      "explanationImage": null,
+      "tags": [
+        "Subcostal Window",
+        "Suprasternal Window",
+        "Echocardiography Windows"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch04-q098",
+      "stem": "A sonographer is reviewing the relevant anatomy, technique, or physiology.  From the subcostal short axis showing the long axis of the IVC, how do you maneuver the probe to acquire the descending aorta?",
+      "image": null,
+      "options": [
+        "Angle the probe anteriorly",
+        "Rotate the probe counterclockwise until the descending aorta is in view",
+        "Rotate the probe clockwise until the descending aorta is in view",
+        "Angle and slide slightly left ward"
+      ],
+      "answer": 3,
+      "explanation": "The course review identifies Angle and slide slightly left ward as the correct response. *(Practice review slide 17.)*",
+      "explanationImage": null,
+      "tags": [
+        "Subcostal Window",
+        "Suprasternal Window",
+        "Echocardiography Windows"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch04-q099",
+      "stem": "A sonographer is reviewing the relevant anatomy, technique, or physiology.  What position is the patient in for Suprasternal imaging?",
+      "image": null,
+      "options": [
+        "Left lateral decubitus with the left arm raised above and resting under the head",
+        "Right lateral decubitus with the right arm raised above and resting under the head",
+        "Supine with the knees bent",
+        "Supine with the neck extended"
+      ],
+      "answer": 3,
+      "explanation": "Suprasternal imaging uses a supine position with the neck extended (often a pillow under the shoulders) to expose the suprasternal notch for the aortic arch. *(Practice review slide 19.)*",
+      "explanationImage": null,
+      "tags": [
+        "Subcostal Window",
+        "Suprasternal Window",
+        "Echocardiography Windows"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch04-q100",
+      "stem": "A sonographer is reviewing the relevant anatomy, technique, or physiology.  What portion of the aorta is seen in the suprasternal notch view?",
+      "image": null,
+      "options": [
+        "Ascending aorta",
+        "Transverse arch",
+        "Descending aorta",
+        "All of the above"
+      ],
+      "answer": 3,
+      "explanation": "The suprasternal long-axis view displays the ascending aorta, the transverse (arch) segment, and the proximal descending aorta together. *(Practice review slide 21.)*",
+      "explanationImage": null,
+      "tags": [
+        "Subcostal Window",
+        "Suprasternal Window",
+        "Echocardiography Windows"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch04-q101",
+      "stem": "During a routine adult transthoracic examination, the sonographer reviews the following concept.  What position is the patient in for Subcostal imaging?",
+      "image": null,
+      "options": [
+        "Right lateral decubitus with the right arm raised above and resting under the head",
+        "Left lateral decubitus with the left arm raised above and resting under the head",
+        "Supine with the neck extended",
+        "Supine with the knees bent"
+      ],
+      "answer": 3,
+      "explanation": "Subcostal imaging uses a supine position with the knees bent, which relaxes the abdominal wall and lets the transducer angle up under the costal margin toward the heart. *(Practice review slide 3.)*",
+      "explanationImage": null,
+      "tags": [
+        "Subcostal Window",
+        "Suprasternal Window",
+        "Echocardiography Windows"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch04-q102",
+      "stem": "During a routine adult transthoracic examination, the sonographer reviews the following concept.  Where is the probe placed for the subcostal window?",
+      "image": null,
+      "options": [
+        "At the level of the 5th or 6th intercostal space, mid-axillary line",
+        "Midline on the patient, located inferior to the xiphoid process",
+        "At the suprasternal notch with the indicator pointing toward 1–2 o’clock",
+        "Mid-chest on the patient’s left side at the 2nd–4th intercostal space"
+      ],
+      "answer": 1,
+      "explanation": "The subcostal probe is placed in the midline just inferior to the xiphoid process, then angled up toward the left shoulder and heart. *(Practice review slide 5.)*",
+      "explanationImage": null,
+      "tags": [
+        "Subcostal Window",
+        "Suprasternal Window",
+        "Echocardiography Windows"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch04-q103",
+      "stem": "During a routine adult transthoracic examination, the sonographer reviews the following concept.  The same anatomy will be demonstrated in the apical 4-chamber compared to the subcostal 4-chamber. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "Cannot be determined from the image alone",
+        "Only true for pediatric echocardiography",
+        "True",
+        "False"
+      ],
+      "answer": 2,
+      "explanation": "True — the subcostal 4-chamber displays the same four chambers, valves, and septa as the apical 4-chamber, just acquired from an inferior window with a different beam orientation. *(Practice review slide 7.)*",
+      "explanationImage": null,
+      "tags": [
+        "Subcostal Window",
+        "Suprasternal Window",
+        "Echocardiography Windows"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch04-q104",
+      "stem": "During a routine adult transthoracic examination, the sonographer reviews the following concept.  What is the right atrial pressure if the IVC is ≤2.1 cm and collapses more than 50%?",
+      "image": null,
+      "options": [
+        "3 mmHg",
+        "8 mmHg",
+        "15 mmHg",
+        "4 mmHg"
+      ],
+      "answer": 0,
+      "explanation": "An IVC ≤2.1 cm that collapses >50% with a sniff indicates a normal RA pressure, estimated at 3 mmHg (range 0–5). *(Practice review slide 9.)*",
+      "explanationImage": null,
+      "tags": [
+        "Subcostal Window",
+        "Suprasternal Window",
+        "Echocardiography Windows"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch04-q105",
+      "stem": "During a routine adult transthoracic examination, the sonographer reviews the following concept.  What is the right atrial pressure if the IVC is ≤2.1 cm and collapses less than 50%?",
+      "image": null,
+      "options": [
+        "4 mmHg",
+        "3 mmHg",
+        "15 mmHg",
+        "8 mmHg"
+      ],
+      "answer": 3,
+      "explanation": "A small IVC (≤2.1 cm) that collapses <50% is a discordant pattern, giving the intermediate RA pressure estimate of 8 mmHg (range 5–10). *(Practice review slide 11.)*",
+      "explanationImage": null,
+      "tags": [
+        "Subcostal Window",
+        "Suprasternal Window",
+        "Echocardiography Windows"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch04-q106",
+      "stem": "During a routine adult transthoracic examination, the sonographer reviews the following concept.  What is the right atrial pressure if the IVC is ≥2.1 cm and collapses less than 50%?",
+      "image": null,
+      "options": [
+        "15 mmHg",
+        "3 mmHg",
+        "8 mmHg",
+        "4 mmHg"
+      ],
+      "answer": 0,
+      "explanation": "A dilated IVC (≥2.1 cm) that collapses <50% indicates a high RA pressure, estimated at 15 mmHg (range 10–20). *(Practice review slide 13.)*",
+      "explanationImage": null,
+      "tags": [
+        "Subcostal Window",
+        "Suprasternal Window",
+        "Echocardiography Windows"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch04-q107",
+      "stem": "During a routine adult transthoracic examination, the sonographer reviews the following concept.  From the subcostal 4-chamber, how do you maneuver the probe to acquire the subcostal short axis showing the long axis of the IVC?",
+      "image": null,
+      "options": [
+        "Angle the probe toward the patient’s left shoulder",
+        "Angle the probe toward the patient’s right hip",
+        "Rotate the probe counterclockwise ~90° to place the indicator at 12 o’clock",
+        "Rotate the probe clockwise ~90° to place the indicator at 6 o’clock"
+      ],
+      "answer": 2,
+      "explanation": "From the subcostal 4-chamber, rotate the probe counterclockwise ~90° (indicator toward 12 o’clock) to obtain the sagittal plane that shows the IVC in long axis entering the right atrium. *(Practice review slide 15.)*",
+      "explanationImage": null,
+      "tags": [
+        "Subcostal Window",
+        "Suprasternal Window",
+        "Echocardiography Windows"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch04-q108",
+      "stem": "During a routine adult transthoracic examination, the sonographer reviews the following concept.  From the subcostal short axis showing the long axis of the IVC, how do you maneuver the probe to acquire the descending aorta?",
+      "image": null,
+      "options": [
+        "Angle and slide slightly left ward",
+        "Rotate the probe counterclockwise until the descending aorta is in view",
+        "Angle the probe anteriorly",
+        "Rotate the probe clockwise until the descending aorta is in view"
+      ],
+      "answer": 0,
+      "explanation": "The course review identifies Angle and slide slightly left ward as the correct response. *(Practice review slide 17.)*",
+      "explanationImage": null,
+      "tags": [
+        "Subcostal Window",
+        "Suprasternal Window",
+        "Echocardiography Windows"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch04-q109",
+      "stem": "During a routine adult transthoracic examination, the sonographer reviews the following concept.  What position is the patient in for Suprasternal imaging?",
+      "image": null,
+      "options": [
+        "Right lateral decubitus with the right arm raised above and resting under the head",
+        "Left lateral decubitus with the left arm raised above and resting under the head",
+        "Supine with the knees bent",
+        "Supine with the neck extended"
+      ],
+      "answer": 3,
+      "explanation": "Suprasternal imaging uses a supine position with the neck extended (often a pillow under the shoulders) to expose the suprasternal notch for the aortic arch. *(Practice review slide 19.)*",
+      "explanationImage": null,
+      "tags": [
+        "Subcostal Window",
+        "Suprasternal Window",
+        "Echocardiography Windows"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch04-q110",
+      "stem": "During a routine adult transthoracic examination, the sonographer reviews the following concept.  What portion of the aorta is seen in the suprasternal notch view?",
+      "image": null,
+      "options": [
+        "Ascending aorta",
+        "Transverse arch",
+        "Descending aorta",
+        "All of the above"
+      ],
+      "answer": 3,
+      "explanation": "The suprasternal long-axis view displays the ascending aorta, the transverse (arch) segment, and the proximal descending aorta together. *(Practice review slide 21.)*",
+      "explanationImage": null,
+      "tags": [
+        "Subcostal Window",
+        "Suprasternal Window",
+        "Echocardiography Windows"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch04-q111",
+      "stem": "A trainee is preparing for a practical echocardiography assessment.  What position is the patient in for Subcostal imaging?",
+      "image": null,
+      "options": [
+        "Supine with the neck extended",
+        "Left lateral decubitus with the left arm raised above and resting under the head",
+        "Right lateral decubitus with the right arm raised above and resting under the head",
+        "Supine with the knees bent"
+      ],
+      "answer": 3,
+      "explanation": "Subcostal imaging uses a supine position with the knees bent, which relaxes the abdominal wall and lets the transducer angle up under the costal margin toward the heart. *(Practice review slide 3.)*",
+      "explanationImage": null,
+      "tags": [
+        "Subcostal Window",
+        "Suprasternal Window",
+        "Echocardiography Windows"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch04-q112",
+      "stem": "A trainee is preparing for a practical echocardiography assessment.  Where is the probe placed for the subcostal window?",
+      "image": null,
+      "options": [
+        "Mid-chest on the patient’s left side at the 2nd–4th intercostal space",
+        "Midline on the patient, located inferior to the xiphoid process",
+        "At the level of the 5th or 6th intercostal space, mid-axillary line",
+        "At the suprasternal notch with the indicator pointing toward 1–2 o’clock"
+      ],
+      "answer": 1,
+      "explanation": "The subcostal probe is placed in the midline just inferior to the xiphoid process, then angled up toward the left shoulder and heart. *(Practice review slide 5.)*",
+      "explanationImage": null,
+      "tags": [
+        "Subcostal Window",
+        "Suprasternal Window",
+        "Echocardiography Windows"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch04-q113",
+      "stem": "A trainee is preparing for a practical echocardiography assessment.  The same anatomy will be demonstrated in the apical 4-chamber compared to the subcostal 4-chamber. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "False",
+        "Only true for pediatric echocardiography",
+        "True",
+        "Cannot be determined from the image alone"
+      ],
+      "answer": 2,
+      "explanation": "True — the subcostal 4-chamber displays the same four chambers, valves, and septa as the apical 4-chamber, just acquired from an inferior window with a different beam orientation. *(Practice review slide 7.)*",
+      "explanationImage": null,
+      "tags": [
+        "Subcostal Window",
+        "Suprasternal Window",
+        "Echocardiography Windows"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch04-q114",
+      "stem": "A trainee is preparing for a practical echocardiography assessment.  What is the right atrial pressure if the IVC is ≤2.1 cm and collapses more than 50%?",
+      "image": null,
+      "options": [
+        "4 mmHg",
+        "3 mmHg",
+        "15 mmHg",
+        "8 mmHg"
+      ],
+      "answer": 1,
+      "explanation": "An IVC ≤2.1 cm that collapses >50% with a sniff indicates a normal RA pressure, estimated at 3 mmHg (range 0–5). *(Practice review slide 9.)*",
+      "explanationImage": null,
+      "tags": [
+        "Subcostal Window",
+        "Suprasternal Window",
+        "Echocardiography Windows"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch04-q115",
+      "stem": "A trainee is preparing for a practical echocardiography assessment.  What is the right atrial pressure if the IVC is ≤2.1 cm and collapses less than 50%?",
+      "image": null,
+      "options": [
+        "8 mmHg",
+        "15 mmHg",
+        "3 mmHg",
+        "4 mmHg"
+      ],
+      "answer": 0,
+      "explanation": "A small IVC (≤2.1 cm) that collapses <50% is a discordant pattern, giving the intermediate RA pressure estimate of 8 mmHg (range 5–10). *(Practice review slide 11.)*",
+      "explanationImage": null,
+      "tags": [
+        "Subcostal Window",
+        "Suprasternal Window",
+        "Echocardiography Windows"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch04-q116",
+      "stem": "A trainee is preparing for a practical echocardiography assessment.  What is the right atrial pressure if the IVC is ≥2.1 cm and collapses less than 50%?",
+      "image": null,
+      "options": [
+        "4 mmHg",
+        "8 mmHg",
+        "3 mmHg",
+        "15 mmHg"
+      ],
+      "answer": 3,
+      "explanation": "A dilated IVC (≥2.1 cm) that collapses <50% indicates a high RA pressure, estimated at 15 mmHg (range 10–20). *(Practice review slide 13.)*",
+      "explanationImage": null,
+      "tags": [
+        "Subcostal Window",
+        "Suprasternal Window",
+        "Echocardiography Windows"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch04-q117",
+      "stem": "A trainee is preparing for a practical echocardiography assessment.  From the subcostal 4-chamber, how do you maneuver the probe to acquire the subcostal short axis showing the long axis of the IVC?",
+      "image": null,
+      "options": [
+        "Angle the probe toward the patient’s left shoulder",
+        "Angle the probe toward the patient’s right hip",
+        "Rotate the probe counterclockwise ~90° to place the indicator at 12 o’clock",
+        "Rotate the probe clockwise ~90° to place the indicator at 6 o’clock"
+      ],
+      "answer": 2,
+      "explanation": "From the subcostal 4-chamber, rotate the probe counterclockwise ~90° (indicator toward 12 o’clock) to obtain the sagittal plane that shows the IVC in long axis entering the right atrium. *(Practice review slide 15.)*",
+      "explanationImage": null,
+      "tags": [
+        "Subcostal Window",
+        "Suprasternal Window",
+        "Echocardiography Windows"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch04-q118",
+      "stem": "A trainee is preparing for a practical echocardiography assessment.  From the subcostal short axis showing the long axis of the IVC, how do you maneuver the probe to acquire the descending aorta?",
+      "image": null,
+      "options": [
+        "Rotate the probe clockwise until the descending aorta is in view",
+        "Rotate the probe counterclockwise until the descending aorta is in view",
+        "Angle the probe anteriorly",
+        "Angle and slide slightly left ward"
+      ],
+      "answer": 3,
+      "explanation": "The course review identifies Angle and slide slightly left ward as the correct response. *(Practice review slide 17.)*",
+      "explanationImage": null,
+      "tags": [
+        "Subcostal Window",
+        "Suprasternal Window",
+        "Echocardiography Windows"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch04-q119",
+      "stem": "A trainee is preparing for a practical echocardiography assessment.  What position is the patient in for Suprasternal imaging?",
+      "image": null,
+      "options": [
+        "Left lateral decubitus with the left arm raised above and resting under the head",
+        "Supine with the knees bent",
+        "Supine with the neck extended",
+        "Right lateral decubitus with the right arm raised above and resting under the head"
+      ],
+      "answer": 2,
+      "explanation": "Suprasternal imaging uses a supine position with the neck extended (often a pillow under the shoulders) to expose the suprasternal notch for the aortic arch. *(Practice review slide 19.)*",
+      "explanationImage": null,
+      "tags": [
+        "Subcostal Window",
+        "Suprasternal Window",
+        "Echocardiography Windows"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch04-q120",
+      "stem": "A trainee is preparing for a practical echocardiography assessment.  What portion of the aorta is seen in the suprasternal notch view?",
+      "image": null,
+      "options": [
+        "Ascending aorta",
+        "Transverse arch",
+        "Descending aorta",
+        "All of the above"
+      ],
+      "answer": 3,
+      "explanation": "The suprasternal long-axis view displays the ascending aorta, the transverse (arch) segment, and the proximal descending aorta together. *(Practice review slide 21.)*",
+      "explanationImage": null,
+      "tags": [
+        "Subcostal Window",
+        "Suprasternal Window",
+        "Echocardiography Windows"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch04-q121",
+      "stem": "While reviewing a standard adult echocardiography protocol, consider this question:  What position is the patient in for Subcostal imaging?",
+      "image": null,
+      "options": [
+        "Supine with the knees bent",
+        "Supine with the neck extended",
+        "Right lateral decubitus with the right arm raised above and resting under the head",
+        "Left lateral decubitus with the left arm raised above and resting under the head"
+      ],
+      "answer": 0,
+      "explanation": "Subcostal imaging uses a supine position with the knees bent, which relaxes the abdominal wall and lets the transducer angle up under the costal margin toward the heart. *(Practice review slide 3.)*",
+      "explanationImage": null,
+      "tags": [
+        "Subcostal Window",
+        "Suprasternal Window",
+        "Echocardiography Windows"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch04-q122",
+      "stem": "While reviewing a standard adult echocardiography protocol, consider this question:  Where is the probe placed for the subcostal window?",
+      "image": null,
+      "options": [
+        "At the suprasternal notch with the indicator pointing toward 1–2 o’clock",
+        "Mid-chest on the patient’s left side at the 2nd–4th intercostal space",
+        "Midline on the patient, located inferior to the xiphoid process",
+        "At the level of the 5th or 6th intercostal space, mid-axillary line"
+      ],
+      "answer": 2,
+      "explanation": "The subcostal probe is placed in the midline just inferior to the xiphoid process, then angled up toward the left shoulder and heart. *(Practice review slide 5.)*",
+      "explanationImage": null,
+      "tags": [
+        "Subcostal Window",
+        "Suprasternal Window",
+        "Echocardiography Windows"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch04-q123",
+      "stem": "While reviewing a standard adult echocardiography protocol, consider this question:  The same anatomy will be demonstrated in the apical 4-chamber compared to the subcostal 4-chamber. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "False",
+        "Only true for pediatric echocardiography",
+        "Cannot be determined from the image alone",
+        "True"
+      ],
+      "answer": 3,
+      "explanation": "True — the subcostal 4-chamber displays the same four chambers, valves, and septa as the apical 4-chamber, just acquired from an inferior window with a different beam orientation. *(Practice review slide 7.)*",
+      "explanationImage": null,
+      "tags": [
+        "Subcostal Window",
+        "Suprasternal Window",
+        "Echocardiography Windows"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch04-q124",
+      "stem": "While reviewing a standard adult echocardiography protocol, consider this question:  What is the right atrial pressure if the IVC is ≤2.1 cm and collapses more than 50%?",
+      "image": null,
+      "options": [
+        "3 mmHg",
+        "15 mmHg",
+        "8 mmHg",
+        "4 mmHg"
+      ],
+      "answer": 0,
+      "explanation": "An IVC ≤2.1 cm that collapses >50% with a sniff indicates a normal RA pressure, estimated at 3 mmHg (range 0–5). *(Practice review slide 9.)*",
+      "explanationImage": null,
+      "tags": [
+        "Subcostal Window",
+        "Suprasternal Window",
+        "Echocardiography Windows"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch04-q125",
+      "stem": "While reviewing a standard adult echocardiography protocol, consider this question:  What is the right atrial pressure if the IVC is ≤2.1 cm and collapses less than 50%?",
+      "image": null,
+      "options": [
+        "3 mmHg",
+        "15 mmHg",
+        "8 mmHg",
+        "4 mmHg"
+      ],
+      "answer": 2,
+      "explanation": "A small IVC (≤2.1 cm) that collapses <50% is a discordant pattern, giving the intermediate RA pressure estimate of 8 mmHg (range 5–10). *(Practice review slide 11.)*",
+      "explanationImage": null,
+      "tags": [
+        "Subcostal Window",
+        "Suprasternal Window",
+        "Echocardiography Windows"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch04-q126",
+      "stem": "While reviewing a standard adult echocardiography protocol, consider this question:  What is the right atrial pressure if the IVC is ≥2.1 cm and collapses less than 50%?",
+      "image": null,
+      "options": [
+        "3 mmHg",
+        "4 mmHg",
+        "8 mmHg",
+        "15 mmHg"
+      ],
+      "answer": 3,
+      "explanation": "A dilated IVC (≥2.1 cm) that collapses <50% indicates a high RA pressure, estimated at 15 mmHg (range 10–20). *(Practice review slide 13.)*",
+      "explanationImage": null,
+      "tags": [
+        "Subcostal Window",
+        "Suprasternal Window",
+        "Echocardiography Windows"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch04-q127",
+      "stem": "While reviewing a standard adult echocardiography protocol, consider this question:  From the subcostal 4-chamber, how do you maneuver the probe to acquire the subcostal short axis showing the long axis of the IVC?",
+      "image": null,
+      "options": [
+        "Angle the probe toward the patient’s right hip",
+        "Rotate the probe clockwise ~90° to place the indicator at 6 o’clock",
+        "Rotate the probe counterclockwise ~90° to place the indicator at 12 o’clock",
+        "Angle the probe toward the patient’s left shoulder"
+      ],
+      "answer": 2,
+      "explanation": "From the subcostal 4-chamber, rotate the probe counterclockwise ~90° (indicator toward 12 o’clock) to obtain the sagittal plane that shows the IVC in long axis entering the right atrium. *(Practice review slide 15.)*",
+      "explanationImage": null,
+      "tags": [
+        "Subcostal Window",
+        "Suprasternal Window",
+        "Echocardiography Windows"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch04-q128",
+      "stem": "While reviewing a standard adult echocardiography protocol, consider this question:  From the subcostal short axis showing the long axis of the IVC, how do you maneuver the probe to acquire the descending aorta?",
+      "image": null,
+      "options": [
+        "Rotate the probe counterclockwise until the descending aorta is in view",
+        "Angle the probe anteriorly",
+        "Angle and slide slightly left ward",
+        "Rotate the probe clockwise until the descending aorta is in view"
+      ],
+      "answer": 2,
+      "explanation": "The course review identifies Angle and slide slightly left ward as the correct response. *(Practice review slide 17.)*",
+      "explanationImage": null,
+      "tags": [
+        "Subcostal Window",
+        "Suprasternal Window",
+        "Echocardiography Windows"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch04-q129",
+      "stem": "While reviewing a standard adult echocardiography protocol, consider this question:  What position is the patient in for Suprasternal imaging?",
+      "image": null,
+      "options": [
+        "Supine with the neck extended",
+        "Right lateral decubitus with the right arm raised above and resting under the head",
+        "Left lateral decubitus with the left arm raised above and resting under the head",
+        "Supine with the knees bent"
+      ],
+      "answer": 0,
+      "explanation": "Suprasternal imaging uses a supine position with the neck extended (often a pillow under the shoulders) to expose the suprasternal notch for the aortic arch. *(Practice review slide 19.)*",
+      "explanationImage": null,
+      "tags": [
+        "Subcostal Window",
+        "Suprasternal Window",
+        "Echocardiography Windows"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch04-q130",
+      "stem": "While reviewing a standard adult echocardiography protocol, consider this question:  What portion of the aorta is seen in the suprasternal notch view?",
+      "image": null,
+      "options": [
+        "Ascending aorta",
+        "Transverse arch",
+        "Descending aorta",
+        "All of the above"
+      ],
+      "answer": 3,
+      "explanation": "The suprasternal long-axis view displays the ascending aorta, the transverse (arch) segment, and the proximal descending aorta together. *(Practice review slide 21.)*",
+      "explanationImage": null,
+      "tags": [
+        "Subcostal Window",
+        "Suprasternal Window",
+        "Echocardiography Windows"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch04-q131",
+      "stem": "A sonographer is asked to select the most accurate response.  What position is the patient in for Subcostal imaging?",
+      "image": null,
+      "options": [
+        "Left lateral decubitus with the left arm raised above and resting under the head",
+        "Right lateral decubitus with the right arm raised above and resting under the head",
+        "Supine with the neck extended",
+        "Supine with the knees bent"
+      ],
+      "answer": 3,
+      "explanation": "Subcostal imaging uses a supine position with the knees bent, which relaxes the abdominal wall and lets the transducer angle up under the costal margin toward the heart. *(Practice review slide 3.)*",
+      "explanationImage": null,
+      "tags": [
+        "Subcostal Window",
+        "Suprasternal Window",
+        "Echocardiography Windows"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch04-q132",
+      "stem": "A sonographer is asked to select the most accurate response.  Where is the probe placed for the subcostal window?",
+      "image": null,
+      "options": [
+        "Mid-chest on the patient’s left side at the 2nd–4th intercostal space",
+        "At the suprasternal notch with the indicator pointing toward 1–2 o’clock",
+        "At the level of the 5th or 6th intercostal space, mid-axillary line",
+        "Midline on the patient, located inferior to the xiphoid process"
+      ],
+      "answer": 3,
+      "explanation": "The subcostal probe is placed in the midline just inferior to the xiphoid process, then angled up toward the left shoulder and heart. *(Practice review slide 5.)*",
+      "explanationImage": null,
+      "tags": [
+        "Subcostal Window",
+        "Suprasternal Window",
+        "Echocardiography Windows"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch04-q133",
+      "stem": "A sonographer is asked to select the most accurate response.  The same anatomy will be demonstrated in the apical 4-chamber compared to the subcostal 4-chamber. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "Cannot be determined from the image alone",
+        "False",
+        "True",
+        "Only true for pediatric echocardiography"
+      ],
+      "answer": 2,
+      "explanation": "True — the subcostal 4-chamber displays the same four chambers, valves, and septa as the apical 4-chamber, just acquired from an inferior window with a different beam orientation. *(Practice review slide 7.)*",
+      "explanationImage": null,
+      "tags": [
+        "Subcostal Window",
+        "Suprasternal Window",
+        "Echocardiography Windows"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch04-q134",
+      "stem": "A sonographer is asked to select the most accurate response.  What is the right atrial pressure if the IVC is ≤2.1 cm and collapses more than 50%?",
+      "image": null,
+      "options": [
+        "15 mmHg",
+        "4 mmHg",
+        "8 mmHg",
+        "3 mmHg"
+      ],
+      "answer": 3,
+      "explanation": "An IVC ≤2.1 cm that collapses >50% with a sniff indicates a normal RA pressure, estimated at 3 mmHg (range 0–5). *(Practice review slide 9.)*",
+      "explanationImage": null,
+      "tags": [
+        "Subcostal Window",
+        "Suprasternal Window",
+        "Echocardiography Windows"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch04-q135",
+      "stem": "A sonographer is asked to select the most accurate response.  What is the right atrial pressure if the IVC is ≤2.1 cm and collapses less than 50%?",
+      "image": null,
+      "options": [
+        "15 mmHg",
+        "3 mmHg",
+        "8 mmHg",
+        "4 mmHg"
+      ],
+      "answer": 2,
+      "explanation": "A small IVC (≤2.1 cm) that collapses <50% is a discordant pattern, giving the intermediate RA pressure estimate of 8 mmHg (range 5–10). *(Practice review slide 11.)*",
+      "explanationImage": null,
+      "tags": [
+        "Subcostal Window",
+        "Suprasternal Window",
+        "Echocardiography Windows"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch04-q136",
+      "stem": "A sonographer is asked to select the most accurate response.  What is the right atrial pressure if the IVC is ≥2.1 cm and collapses less than 50%?",
+      "image": null,
+      "options": [
+        "8 mmHg",
+        "3 mmHg",
+        "4 mmHg",
+        "15 mmHg"
+      ],
+      "answer": 3,
+      "explanation": "A dilated IVC (≥2.1 cm) that collapses <50% indicates a high RA pressure, estimated at 15 mmHg (range 10–20). *(Practice review slide 13.)*",
+      "explanationImage": null,
+      "tags": [
+        "Subcostal Window",
+        "Suprasternal Window",
+        "Echocardiography Windows"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch04-q137",
+      "stem": "A sonographer is asked to select the most accurate response.  From the subcostal 4-chamber, how do you maneuver the probe to acquire the subcostal short axis showing the long axis of the IVC?",
+      "image": null,
+      "options": [
+        "Rotate the probe counterclockwise ~90° to place the indicator at 12 o’clock",
+        "Angle the probe toward the patient’s right hip",
+        "Angle the probe toward the patient’s left shoulder",
+        "Rotate the probe clockwise ~90° to place the indicator at 6 o’clock"
+      ],
+      "answer": 0,
+      "explanation": "From the subcostal 4-chamber, rotate the probe counterclockwise ~90° (indicator toward 12 o’clock) to obtain the sagittal plane that shows the IVC in long axis entering the right atrium. *(Practice review slide 15.)*",
+      "explanationImage": null,
+      "tags": [
+        "Subcostal Window",
+        "Suprasternal Window",
+        "Echocardiography Windows"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch04-q138",
+      "stem": "A sonographer is asked to select the most accurate response.  From the subcostal short axis showing the long axis of the IVC, how do you maneuver the probe to acquire the descending aorta?",
+      "image": null,
+      "options": [
+        "Angle and slide slightly left ward",
+        "Rotate the probe clockwise until the descending aorta is in view",
+        "Angle the probe anteriorly",
+        "Rotate the probe counterclockwise until the descending aorta is in view"
+      ],
+      "answer": 0,
+      "explanation": "The course review identifies Angle and slide slightly left ward as the correct response. *(Practice review slide 17.)*",
+      "explanationImage": null,
+      "tags": [
+        "Subcostal Window",
+        "Suprasternal Window",
+        "Echocardiography Windows"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch04-q139",
+      "stem": "A sonographer is asked to select the most accurate response.  What position is the patient in for Suprasternal imaging?",
+      "image": null,
+      "options": [
+        "Right lateral decubitus with the right arm raised above and resting under the head",
+        "Left lateral decubitus with the left arm raised above and resting under the head",
+        "Supine with the neck extended",
+        "Supine with the knees bent"
+      ],
+      "answer": 2,
+      "explanation": "Suprasternal imaging uses a supine position with the neck extended (often a pillow under the shoulders) to expose the suprasternal notch for the aortic arch. *(Practice review slide 19.)*",
+      "explanationImage": null,
+      "tags": [
+        "Subcostal Window",
+        "Suprasternal Window",
+        "Echocardiography Windows"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch04-q140",
+      "stem": "A sonographer is asked to select the most accurate response.  What portion of the aorta is seen in the suprasternal notch view?",
+      "image": null,
+      "options": [
+        "Ascending aorta",
+        "Transverse arch",
+        "Descending aorta",
+        "All of the above"
+      ],
+      "answer": 3,
+      "explanation": "The suprasternal long-axis view displays the ascending aorta, the transverse (arch) segment, and the proximal descending aorta together. *(Practice review slide 21.)*",
+      "explanationImage": null,
+      "tags": [
+        "Subcostal Window",
+        "Suprasternal Window",
+        "Echocardiography Windows"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch04-q141",
+      "stem": "During quality review of an adult echo study, the following point is discussed.  What position is the patient in for Subcostal imaging?",
+      "image": null,
+      "options": [
+        "Left lateral decubitus with the left arm raised above and resting under the head",
+        "Right lateral decubitus with the right arm raised above and resting under the head",
+        "Supine with the knees bent",
+        "Supine with the neck extended"
+      ],
+      "answer": 2,
+      "explanation": "Subcostal imaging uses a supine position with the knees bent, which relaxes the abdominal wall and lets the transducer angle up under the costal margin toward the heart. *(Practice review slide 3.)*",
+      "explanationImage": null,
+      "tags": [
+        "Subcostal Window",
+        "Suprasternal Window",
+        "Echocardiography Windows"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch04-q142",
+      "stem": "During quality review of an adult echo study, the following point is discussed.  Where is the probe placed for the subcostal window?",
+      "image": null,
+      "options": [
+        "At the level of the 5th or 6th intercostal space, mid-axillary line",
+        "Mid-chest on the patient’s left side at the 2nd–4th intercostal space",
+        "Midline on the patient, located inferior to the xiphoid process",
+        "At the suprasternal notch with the indicator pointing toward 1–2 o’clock"
+      ],
+      "answer": 2,
+      "explanation": "The subcostal probe is placed in the midline just inferior to the xiphoid process, then angled up toward the left shoulder and heart. *(Practice review slide 5.)*",
+      "explanationImage": null,
+      "tags": [
+        "Subcostal Window",
+        "Suprasternal Window",
+        "Echocardiography Windows"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch04-q143",
+      "stem": "During quality review of an adult echo study, the following point is discussed.  The same anatomy will be demonstrated in the apical 4-chamber compared to the subcostal 4-chamber. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "False",
+        "Only true for pediatric echocardiography",
+        "True",
+        "Cannot be determined from the image alone"
+      ],
+      "answer": 2,
+      "explanation": "True — the subcostal 4-chamber displays the same four chambers, valves, and septa as the apical 4-chamber, just acquired from an inferior window with a different beam orientation. *(Practice review slide 7.)*",
+      "explanationImage": null,
+      "tags": [
+        "Subcostal Window",
+        "Suprasternal Window",
+        "Echocardiography Windows"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch04-q144",
+      "stem": "During quality review of an adult echo study, the following point is discussed.  What is the right atrial pressure if the IVC is ≤2.1 cm and collapses more than 50%?",
+      "image": null,
+      "options": [
+        "15 mmHg",
+        "8 mmHg",
+        "4 mmHg",
+        "3 mmHg"
+      ],
+      "answer": 3,
+      "explanation": "An IVC ≤2.1 cm that collapses >50% with a sniff indicates a normal RA pressure, estimated at 3 mmHg (range 0–5). *(Practice review slide 9.)*",
+      "explanationImage": null,
+      "tags": [
+        "Subcostal Window",
+        "Suprasternal Window",
+        "Echocardiography Windows"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch04-q145",
+      "stem": "During quality review of an adult echo study, the following point is discussed.  What is the right atrial pressure if the IVC is ≤2.1 cm and collapses less than 50%?",
+      "image": null,
+      "options": [
+        "15 mmHg",
+        "3 mmHg",
+        "8 mmHg",
+        "4 mmHg"
+      ],
+      "answer": 2,
+      "explanation": "A small IVC (≤2.1 cm) that collapses <50% is a discordant pattern, giving the intermediate RA pressure estimate of 8 mmHg (range 5–10). *(Practice review slide 11.)*",
+      "explanationImage": null,
+      "tags": [
+        "Subcostal Window",
+        "Suprasternal Window",
+        "Echocardiography Windows"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch04-q146",
+      "stem": "During quality review of an adult echo study, the following point is discussed.  What is the right atrial pressure if the IVC is ≥2.1 cm and collapses less than 50%?",
+      "image": null,
+      "options": [
+        "4 mmHg",
+        "15 mmHg",
+        "3 mmHg",
+        "8 mmHg"
+      ],
+      "answer": 1,
+      "explanation": "A dilated IVC (≥2.1 cm) that collapses <50% indicates a high RA pressure, estimated at 15 mmHg (range 10–20). *(Practice review slide 13.)*",
+      "explanationImage": null,
+      "tags": [
+        "Subcostal Window",
+        "Suprasternal Window",
+        "Echocardiography Windows"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch04-q147",
+      "stem": "During quality review of an adult echo study, the following point is discussed.  From the subcostal 4-chamber, how do you maneuver the probe to acquire the subcostal short axis showing the long axis of the IVC?",
+      "image": null,
+      "options": [
+        "Rotate the probe clockwise ~90° to place the indicator at 6 o’clock",
+        "Angle the probe toward the patient’s right hip",
+        "Rotate the probe counterclockwise ~90° to place the indicator at 12 o’clock",
+        "Angle the probe toward the patient’s left shoulder"
+      ],
+      "answer": 2,
+      "explanation": "From the subcostal 4-chamber, rotate the probe counterclockwise ~90° (indicator toward 12 o’clock) to obtain the sagittal plane that shows the IVC in long axis entering the right atrium. *(Practice review slide 15.)*",
+      "explanationImage": null,
+      "tags": [
+        "Subcostal Window",
+        "Suprasternal Window",
+        "Echocardiography Windows"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch04-q148",
+      "stem": "During quality review of an adult echo study, the following point is discussed.  From the subcostal short axis showing the long axis of the IVC, how do you maneuver the probe to acquire the descending aorta?",
+      "image": null,
+      "options": [
+        "Rotate the probe counterclockwise until the descending aorta is in view",
+        "Rotate the probe clockwise until the descending aorta is in view",
+        "Angle the probe anteriorly",
+        "Angle and slide slightly left ward"
+      ],
+      "answer": 3,
+      "explanation": "The course review identifies Angle and slide slightly left ward as the correct response. *(Practice review slide 17.)*",
+      "explanationImage": null,
+      "tags": [
+        "Subcostal Window",
+        "Suprasternal Window",
+        "Echocardiography Windows"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch04-q149",
+      "stem": "During quality review of an adult echo study, the following point is discussed.  What position is the patient in for Suprasternal imaging?",
+      "image": null,
+      "options": [
+        "Supine with the neck extended",
+        "Supine with the knees bent",
+        "Right lateral decubitus with the right arm raised above and resting under the head",
+        "Left lateral decubitus with the left arm raised above and resting under the head"
+      ],
+      "answer": 0,
+      "explanation": "Suprasternal imaging uses a supine position with the neck extended (often a pillow under the shoulders) to expose the suprasternal notch for the aortic arch. *(Practice review slide 19.)*",
+      "explanationImage": null,
+      "tags": [
+        "Subcostal Window",
+        "Suprasternal Window",
+        "Echocardiography Windows"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch04-q150",
+      "stem": "During quality review of an adult echo study, the following point is discussed.  What portion of the aorta is seen in the suprasternal notch view?",
+      "image": null,
+      "options": [
+        "Ascending aorta",
+        "Transverse arch",
+        "Descending aorta",
+        "All of the above"
+      ],
+      "answer": 3,
+      "explanation": "The suprasternal long-axis view displays the ascending aorta, the transverse (arch) segment, and the proximal descending aorta together. *(Practice review slide 21.)*",
+      "explanationImage": null,
+      "tags": [
+        "Subcostal Window",
+        "Suprasternal Window",
+        "Echocardiography Windows"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch04-q151",
+      "stem": "An adult cardiac sonography student is interpreting a teaching case.  What position is the patient in for Subcostal imaging?",
+      "image": null,
+      "options": [
+        "Left lateral decubitus with the left arm raised above and resting under the head",
+        "Supine with the knees bent",
+        "Supine with the neck extended",
+        "Right lateral decubitus with the right arm raised above and resting under the head"
+      ],
+      "answer": 1,
+      "explanation": "Subcostal imaging uses a supine position with the knees bent, which relaxes the abdominal wall and lets the transducer angle up under the costal margin toward the heart. *(Practice review slide 3.)*",
+      "explanationImage": null,
+      "tags": [
+        "Subcostal Window",
+        "Suprasternal Window",
+        "Echocardiography Windows"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch04-q152",
+      "stem": "An adult cardiac sonography student is interpreting a teaching case.  Where is the probe placed for the subcostal window?",
+      "image": null,
+      "options": [
+        "Midline on the patient, located inferior to the xiphoid process",
+        "At the suprasternal notch with the indicator pointing toward 1–2 o’clock",
+        "At the level of the 5th or 6th intercostal space, mid-axillary line",
+        "Mid-chest on the patient’s left side at the 2nd–4th intercostal space"
+      ],
+      "answer": 0,
+      "explanation": "The subcostal probe is placed in the midline just inferior to the xiphoid process, then angled up toward the left shoulder and heart. *(Practice review slide 5.)*",
+      "explanationImage": null,
+      "tags": [
+        "Subcostal Window",
+        "Suprasternal Window",
+        "Echocardiography Windows"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch04-q153",
+      "stem": "An adult cardiac sonography student is interpreting a teaching case.  The same anatomy will be demonstrated in the apical 4-chamber compared to the subcostal 4-chamber. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "True",
+        "Cannot be determined from the image alone",
+        "Only true for pediatric echocardiography",
+        "False"
+      ],
+      "answer": 0,
+      "explanation": "True — the subcostal 4-chamber displays the same four chambers, valves, and septa as the apical 4-chamber, just acquired from an inferior window with a different beam orientation. *(Practice review slide 7.)*",
+      "explanationImage": null,
+      "tags": [
+        "Subcostal Window",
+        "Suprasternal Window",
+        "Echocardiography Windows"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch04-q154",
+      "stem": "An adult cardiac sonography student is interpreting a teaching case.  What is the right atrial pressure if the IVC is ≤2.1 cm and collapses more than 50%?",
+      "image": null,
+      "options": [
+        "4 mmHg",
+        "15 mmHg",
+        "3 mmHg",
+        "8 mmHg"
+      ],
+      "answer": 2,
+      "explanation": "An IVC ≤2.1 cm that collapses >50% with a sniff indicates a normal RA pressure, estimated at 3 mmHg (range 0–5). *(Practice review slide 9.)*",
+      "explanationImage": null,
+      "tags": [
+        "Subcostal Window",
+        "Suprasternal Window",
+        "Echocardiography Windows"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch04-q155",
+      "stem": "An adult cardiac sonography student is interpreting a teaching case.  What is the right atrial pressure if the IVC is ≤2.1 cm and collapses less than 50%?",
+      "image": null,
+      "options": [
+        "3 mmHg",
+        "4 mmHg",
+        "15 mmHg",
+        "8 mmHg"
+      ],
+      "answer": 3,
+      "explanation": "A small IVC (≤2.1 cm) that collapses <50% is a discordant pattern, giving the intermediate RA pressure estimate of 8 mmHg (range 5–10). *(Practice review slide 11.)*",
+      "explanationImage": null,
+      "tags": [
+        "Subcostal Window",
+        "Suprasternal Window",
+        "Echocardiography Windows"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch04-q156",
+      "stem": "An adult cardiac sonography student is interpreting a teaching case.  What is the right atrial pressure if the IVC is ≥2.1 cm and collapses less than 50%?",
+      "image": null,
+      "options": [
+        "15 mmHg",
+        "8 mmHg",
+        "3 mmHg",
+        "4 mmHg"
+      ],
+      "answer": 0,
+      "explanation": "A dilated IVC (≥2.1 cm) that collapses <50% indicates a high RA pressure, estimated at 15 mmHg (range 10–20). *(Practice review slide 13.)*",
+      "explanationImage": null,
+      "tags": [
+        "Subcostal Window",
+        "Suprasternal Window",
+        "Echocardiography Windows"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch04-q157",
+      "stem": "An adult cardiac sonography student is interpreting a teaching case.  From the subcostal 4-chamber, how do you maneuver the probe to acquire the subcostal short axis showing the long axis of the IVC?",
+      "image": null,
+      "options": [
+        "Rotate the probe counterclockwise ~90° to place the indicator at 12 o’clock",
+        "Angle the probe toward the patient’s right hip",
+        "Angle the probe toward the patient’s left shoulder",
+        "Rotate the probe clockwise ~90° to place the indicator at 6 o’clock"
+      ],
+      "answer": 0,
+      "explanation": "From the subcostal 4-chamber, rotate the probe counterclockwise ~90° (indicator toward 12 o’clock) to obtain the sagittal plane that shows the IVC in long axis entering the right atrium. *(Practice review slide 15.)*",
+      "explanationImage": null,
+      "tags": [
+        "Subcostal Window",
+        "Suprasternal Window",
+        "Echocardiography Windows"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch04-q158",
+      "stem": "An adult cardiac sonography student is interpreting a teaching case.  From the subcostal short axis showing the long axis of the IVC, how do you maneuver the probe to acquire the descending aorta?",
+      "image": null,
+      "options": [
+        "Rotate the probe counterclockwise until the descending aorta is in view",
+        "Angle and slide slightly left ward",
+        "Rotate the probe clockwise until the descending aorta is in view",
+        "Angle the probe anteriorly"
+      ],
+      "answer": 1,
+      "explanation": "The course review identifies Angle and slide slightly left ward as the correct response. *(Practice review slide 17.)*",
+      "explanationImage": null,
+      "tags": [
+        "Subcostal Window",
+        "Suprasternal Window",
+        "Echocardiography Windows"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch04-q159",
+      "stem": "An adult cardiac sonography student is interpreting a teaching case.  What position is the patient in for Suprasternal imaging?",
+      "image": null,
+      "options": [
+        "Supine with the knees bent",
+        "Left lateral decubitus with the left arm raised above and resting under the head",
+        "Right lateral decubitus with the right arm raised above and resting under the head",
+        "Supine with the neck extended"
+      ],
+      "answer": 3,
+      "explanation": "Suprasternal imaging uses a supine position with the neck extended (often a pillow under the shoulders) to expose the suprasternal notch for the aortic arch. *(Practice review slide 19.)*",
+      "explanationImage": null,
+      "tags": [
+        "Subcostal Window",
+        "Suprasternal Window",
+        "Echocardiography Windows"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch04-q160",
+      "stem": "An adult cardiac sonography student is interpreting a teaching case.  What portion of the aorta is seen in the suprasternal notch view?",
+      "image": null,
+      "options": [
+        "Ascending aorta",
+        "Transverse arch",
+        "Descending aorta",
+        "All of the above"
+      ],
+      "answer": 3,
+      "explanation": "The suprasternal long-axis view displays the ascending aorta, the transverse (arch) segment, and the proximal descending aorta together. *(Practice review slide 21.)*",
+      "explanationImage": null,
+      "tags": [
+        "Subcostal Window",
+        "Suprasternal Window",
+        "Echocardiography Windows"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch04-q161",
+      "stem": "Before image acquisition, a sonographer checks their understanding of the following.  What position is the patient in for Subcostal imaging?",
+      "image": null,
+      "options": [
+        "Supine with the neck extended",
+        "Right lateral decubitus with the right arm raised above and resting under the head",
+        "Supine with the knees bent",
+        "Left lateral decubitus with the left arm raised above and resting under the head"
+      ],
+      "answer": 2,
+      "explanation": "Subcostal imaging uses a supine position with the knees bent, which relaxes the abdominal wall and lets the transducer angle up under the costal margin toward the heart. *(Practice review slide 3.)*",
+      "explanationImage": null,
+      "tags": [
+        "Subcostal Window",
+        "Suprasternal Window",
+        "Echocardiography Windows"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch04-q162",
+      "stem": "Before image acquisition, a sonographer checks their understanding of the following.  Where is the probe placed for the subcostal window?",
+      "image": null,
+      "options": [
+        "Midline on the patient, located inferior to the xiphoid process",
+        "At the suprasternal notch with the indicator pointing toward 1–2 o’clock",
+        "Mid-chest on the patient’s left side at the 2nd–4th intercostal space",
+        "At the level of the 5th or 6th intercostal space, mid-axillary line"
+      ],
+      "answer": 0,
+      "explanation": "The subcostal probe is placed in the midline just inferior to the xiphoid process, then angled up toward the left shoulder and heart. *(Practice review slide 5.)*",
+      "explanationImage": null,
+      "tags": [
+        "Subcostal Window",
+        "Suprasternal Window",
+        "Echocardiography Windows"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch04-q163",
+      "stem": "Before image acquisition, a sonographer checks their understanding of the following.  The same anatomy will be demonstrated in the apical 4-chamber compared to the subcostal 4-chamber. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "Cannot be determined from the image alone",
+        "False",
+        "Only true for pediatric echocardiography",
+        "True"
+      ],
+      "answer": 3,
+      "explanation": "True — the subcostal 4-chamber displays the same four chambers, valves, and septa as the apical 4-chamber, just acquired from an inferior window with a different beam orientation. *(Practice review slide 7.)*",
+      "explanationImage": null,
+      "tags": [
+        "Subcostal Window",
+        "Suprasternal Window",
+        "Echocardiography Windows"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch04-q164",
+      "stem": "Before image acquisition, a sonographer checks their understanding of the following.  What is the right atrial pressure if the IVC is ≤2.1 cm and collapses more than 50%?",
+      "image": null,
+      "options": [
+        "15 mmHg",
+        "8 mmHg",
+        "4 mmHg",
+        "3 mmHg"
+      ],
+      "answer": 3,
+      "explanation": "An IVC ≤2.1 cm that collapses >50% with a sniff indicates a normal RA pressure, estimated at 3 mmHg (range 0–5). *(Practice review slide 9.)*",
+      "explanationImage": null,
+      "tags": [
+        "Subcostal Window",
+        "Suprasternal Window",
+        "Echocardiography Windows"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch04-q165",
+      "stem": "Before image acquisition, a sonographer checks their understanding of the following.  What is the right atrial pressure if the IVC is ≤2.1 cm and collapses less than 50%?",
+      "image": null,
+      "options": [
+        "15 mmHg",
+        "3 mmHg",
+        "8 mmHg",
+        "4 mmHg"
+      ],
+      "answer": 2,
+      "explanation": "A small IVC (≤2.1 cm) that collapses <50% is a discordant pattern, giving the intermediate RA pressure estimate of 8 mmHg (range 5–10). *(Practice review slide 11.)*",
+      "explanationImage": null,
+      "tags": [
+        "Subcostal Window",
+        "Suprasternal Window",
+        "Echocardiography Windows"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch04-q166",
+      "stem": "Before image acquisition, a sonographer checks their understanding of the following.  What is the right atrial pressure if the IVC is ≥2.1 cm and collapses less than 50%?",
+      "image": null,
+      "options": [
+        "4 mmHg",
+        "8 mmHg",
+        "15 mmHg",
+        "3 mmHg"
+      ],
+      "answer": 2,
+      "explanation": "A dilated IVC (≥2.1 cm) that collapses <50% indicates a high RA pressure, estimated at 15 mmHg (range 10–20). *(Practice review slide 13.)*",
+      "explanationImage": null,
+      "tags": [
+        "Subcostal Window",
+        "Suprasternal Window",
+        "Echocardiography Windows"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch04-q167",
+      "stem": "Before image acquisition, a sonographer checks their understanding of the following.  From the subcostal 4-chamber, how do you maneuver the probe to acquire the subcostal short axis showing the long axis of the IVC?",
+      "image": null,
+      "options": [
+        "Rotate the probe counterclockwise ~90° to place the indicator at 12 o’clock",
+        "Angle the probe toward the patient’s right hip",
+        "Angle the probe toward the patient’s left shoulder",
+        "Rotate the probe clockwise ~90° to place the indicator at 6 o’clock"
+      ],
+      "answer": 0,
+      "explanation": "From the subcostal 4-chamber, rotate the probe counterclockwise ~90° (indicator toward 12 o’clock) to obtain the sagittal plane that shows the IVC in long axis entering the right atrium. *(Practice review slide 15.)*",
+      "explanationImage": null,
+      "tags": [
+        "Subcostal Window",
+        "Suprasternal Window",
+        "Echocardiography Windows"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch04-q168",
+      "stem": "Before image acquisition, a sonographer checks their understanding of the following.  From the subcostal short axis showing the long axis of the IVC, how do you maneuver the probe to acquire the descending aorta?",
+      "image": null,
+      "options": [
+        "Angle and slide slightly left ward",
+        "Angle the probe anteriorly",
+        "Rotate the probe counterclockwise until the descending aorta is in view",
+        "Rotate the probe clockwise until the descending aorta is in view"
+      ],
+      "answer": 0,
+      "explanation": "The course review identifies Angle and slide slightly left ward as the correct response. *(Practice review slide 17.)*",
+      "explanationImage": null,
+      "tags": [
+        "Subcostal Window",
+        "Suprasternal Window",
+        "Echocardiography Windows"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch04-q169",
+      "stem": "Before image acquisition, a sonographer checks their understanding of the following.  What position is the patient in for Suprasternal imaging?",
+      "image": null,
+      "options": [
+        "Supine with the knees bent",
+        "Left lateral decubitus with the left arm raised above and resting under the head",
+        "Supine with the neck extended",
+        "Right lateral decubitus with the right arm raised above and resting under the head"
+      ],
+      "answer": 2,
+      "explanation": "Suprasternal imaging uses a supine position with the neck extended (often a pillow under the shoulders) to expose the suprasternal notch for the aortic arch. *(Practice review slide 19.)*",
+      "explanationImage": null,
+      "tags": [
+        "Subcostal Window",
+        "Suprasternal Window",
+        "Echocardiography Windows"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch04-q170",
+      "stem": "Before image acquisition, a sonographer checks their understanding of the following.  What portion of the aorta is seen in the suprasternal notch view?",
+      "image": null,
+      "options": [
+        "Ascending aorta",
+        "Transverse arch",
+        "Descending aorta",
+        "All of the above"
+      ],
+      "answer": 3,
+      "explanation": "The suprasternal long-axis view displays the ascending aorta, the transverse (arch) segment, and the proximal descending aorta together. *(Practice review slide 21.)*",
+      "explanationImage": null,
+      "tags": [
+        "Subcostal Window",
+        "Suprasternal Window",
+        "Echocardiography Windows"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch04-q171",
+      "stem": "In a laboratory teaching session, the instructor asks:  What position is the patient in for Subcostal imaging?",
+      "image": null,
+      "options": [
+        "Left lateral decubitus with the left arm raised above and resting under the head",
+        "Supine with the knees bent",
+        "Right lateral decubitus with the right arm raised above and resting under the head",
+        "Supine with the neck extended"
+      ],
+      "answer": 1,
+      "explanation": "Subcostal imaging uses a supine position with the knees bent, which relaxes the abdominal wall and lets the transducer angle up under the costal margin toward the heart. *(Practice review slide 3.)*",
+      "explanationImage": null,
+      "tags": [
+        "Subcostal Window",
+        "Suprasternal Window",
+        "Echocardiography Windows"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch04-q172",
+      "stem": "In a laboratory teaching session, the instructor asks:  Where is the probe placed for the subcostal window?",
+      "image": null,
+      "options": [
+        "Midline on the patient, located inferior to the xiphoid process",
+        "At the suprasternal notch with the indicator pointing toward 1–2 o’clock",
+        "At the level of the 5th or 6th intercostal space, mid-axillary line",
+        "Mid-chest on the patient’s left side at the 2nd–4th intercostal space"
+      ],
+      "answer": 0,
+      "explanation": "The subcostal probe is placed in the midline just inferior to the xiphoid process, then angled up toward the left shoulder and heart. *(Practice review slide 5.)*",
+      "explanationImage": null,
+      "tags": [
+        "Subcostal Window",
+        "Suprasternal Window",
+        "Echocardiography Windows"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch04-q173",
+      "stem": "In a laboratory teaching session, the instructor asks:  The same anatomy will be demonstrated in the apical 4-chamber compared to the subcostal 4-chamber. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "Cannot be determined from the image alone",
+        "True",
+        "Only true for pediatric echocardiography",
+        "False"
+      ],
+      "answer": 1,
+      "explanation": "True — the subcostal 4-chamber displays the same four chambers, valves, and septa as the apical 4-chamber, just acquired from an inferior window with a different beam orientation. *(Practice review slide 7.)*",
+      "explanationImage": null,
+      "tags": [
+        "Subcostal Window",
+        "Suprasternal Window",
+        "Echocardiography Windows"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch04-q174",
+      "stem": "In a laboratory teaching session, the instructor asks:  What is the right atrial pressure if the IVC is ≤2.1 cm and collapses more than 50%?",
+      "image": null,
+      "options": [
+        "3 mmHg",
+        "8 mmHg",
+        "15 mmHg",
+        "4 mmHg"
+      ],
+      "answer": 0,
+      "explanation": "An IVC ≤2.1 cm that collapses >50% with a sniff indicates a normal RA pressure, estimated at 3 mmHg (range 0–5). *(Practice review slide 9.)*",
+      "explanationImage": null,
+      "tags": [
+        "Subcostal Window",
+        "Suprasternal Window",
+        "Echocardiography Windows"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch04-q175",
+      "stem": "In a laboratory teaching session, the instructor asks:  What is the right atrial pressure if the IVC is ≤2.1 cm and collapses less than 50%?",
+      "image": null,
+      "options": [
+        "3 mmHg",
+        "8 mmHg",
+        "4 mmHg",
+        "15 mmHg"
+      ],
+      "answer": 1,
+      "explanation": "A small IVC (≤2.1 cm) that collapses <50% is a discordant pattern, giving the intermediate RA pressure estimate of 8 mmHg (range 5–10). *(Practice review slide 11.)*",
+      "explanationImage": null,
+      "tags": [
+        "Subcostal Window",
+        "Suprasternal Window",
+        "Echocardiography Windows"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch04-q176",
+      "stem": "In a laboratory teaching session, the instructor asks:  What is the right atrial pressure if the IVC is ≥2.1 cm and collapses less than 50%?",
+      "image": null,
+      "options": [
+        "8 mmHg",
+        "15 mmHg",
+        "3 mmHg",
+        "4 mmHg"
+      ],
+      "answer": 1,
+      "explanation": "A dilated IVC (≥2.1 cm) that collapses <50% indicates a high RA pressure, estimated at 15 mmHg (range 10–20). *(Practice review slide 13.)*",
+      "explanationImage": null,
+      "tags": [
+        "Subcostal Window",
+        "Suprasternal Window",
+        "Echocardiography Windows"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch04-q177",
+      "stem": "In a laboratory teaching session, the instructor asks:  From the subcostal 4-chamber, how do you maneuver the probe to acquire the subcostal short axis showing the long axis of the IVC?",
+      "image": null,
+      "options": [
+        "Angle the probe toward the patient’s left shoulder",
+        "Rotate the probe counterclockwise ~90° to place the indicator at 12 o’clock",
+        "Angle the probe toward the patient’s right hip",
+        "Rotate the probe clockwise ~90° to place the indicator at 6 o’clock"
+      ],
+      "answer": 1,
+      "explanation": "From the subcostal 4-chamber, rotate the probe counterclockwise ~90° (indicator toward 12 o’clock) to obtain the sagittal plane that shows the IVC in long axis entering the right atrium. *(Practice review slide 15.)*",
+      "explanationImage": null,
+      "tags": [
+        "Subcostal Window",
+        "Suprasternal Window",
+        "Echocardiography Windows"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch04-q178",
+      "stem": "In a laboratory teaching session, the instructor asks:  From the subcostal short axis showing the long axis of the IVC, how do you maneuver the probe to acquire the descending aorta?",
+      "image": null,
+      "options": [
+        "Rotate the probe clockwise until the descending aorta is in view",
+        "Angle the probe anteriorly",
+        "Rotate the probe counterclockwise until the descending aorta is in view",
+        "Angle and slide slightly left ward"
+      ],
+      "answer": 3,
+      "explanation": "The course review identifies Angle and slide slightly left ward as the correct response. *(Practice review slide 17.)*",
+      "explanationImage": null,
+      "tags": [
+        "Subcostal Window",
+        "Suprasternal Window",
+        "Echocardiography Windows"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch04-q179",
+      "stem": "In a laboratory teaching session, the instructor asks:  What position is the patient in for Suprasternal imaging?",
+      "image": null,
+      "options": [
+        "Supine with the knees bent",
+        "Right lateral decubitus with the right arm raised above and resting under the head",
+        "Supine with the neck extended",
+        "Left lateral decubitus with the left arm raised above and resting under the head"
+      ],
+      "answer": 2,
+      "explanation": "Suprasternal imaging uses a supine position with the neck extended (often a pillow under the shoulders) to expose the suprasternal notch for the aortic arch. *(Practice review slide 19.)*",
+      "explanationImage": null,
+      "tags": [
+        "Subcostal Window",
+        "Suprasternal Window",
+        "Echocardiography Windows"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch04-q180",
+      "stem": "In a laboratory teaching session, the instructor asks:  What portion of the aorta is seen in the suprasternal notch view?",
+      "image": null,
+      "options": [
+        "Ascending aorta",
+        "Transverse arch",
+        "Descending aorta",
+        "All of the above"
+      ],
+      "answer": 3,
+      "explanation": "The suprasternal long-axis view displays the ascending aorta, the transverse (arch) segment, and the proximal descending aorta together. *(Practice review slide 21.)*",
+      "explanationImage": null,
+      "tags": [
+        "Subcostal Window",
+        "Suprasternal Window",
+        "Echocardiography Windows"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch04-q181",
+      "stem": "During a mock adult echocardiography board examination, consider the following.  What position is the patient in for Subcostal imaging?",
+      "image": null,
+      "options": [
+        "Left lateral decubitus with the left arm raised above and resting under the head",
+        "Supine with the knees bent",
+        "Right lateral decubitus with the right arm raised above and resting under the head",
+        "Supine with the neck extended"
+      ],
+      "answer": 1,
+      "explanation": "Subcostal imaging uses a supine position with the knees bent, which relaxes the abdominal wall and lets the transducer angle up under the costal margin toward the heart. *(Practice review slide 3.)*",
+      "explanationImage": null,
+      "tags": [
+        "Subcostal Window",
+        "Suprasternal Window",
+        "Echocardiography Windows"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch04-q182",
+      "stem": "During a mock adult echocardiography board examination, consider the following.  Where is the probe placed for the subcostal window?",
+      "image": null,
+      "options": [
+        "Midline on the patient, located inferior to the xiphoid process",
+        "At the suprasternal notch with the indicator pointing toward 1–2 o’clock",
+        "Mid-chest on the patient’s left side at the 2nd–4th intercostal space",
+        "At the level of the 5th or 6th intercostal space, mid-axillary line"
+      ],
+      "answer": 0,
+      "explanation": "The subcostal probe is placed in the midline just inferior to the xiphoid process, then angled up toward the left shoulder and heart. *(Practice review slide 5.)*",
+      "explanationImage": null,
+      "tags": [
+        "Subcostal Window",
+        "Suprasternal Window",
+        "Echocardiography Windows"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch04-q183",
+      "stem": "During a mock adult echocardiography board examination, consider the following.  The same anatomy will be demonstrated in the apical 4-chamber compared to the subcostal 4-chamber. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "True",
+        "Cannot be determined from the image alone",
+        "Only true for pediatric echocardiography",
+        "False"
+      ],
+      "answer": 0,
+      "explanation": "True — the subcostal 4-chamber displays the same four chambers, valves, and septa as the apical 4-chamber, just acquired from an inferior window with a different beam orientation. *(Practice review slide 7.)*",
+      "explanationImage": null,
+      "tags": [
+        "Subcostal Window",
+        "Suprasternal Window",
+        "Echocardiography Windows"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch04-q184",
+      "stem": "During a mock adult echocardiography board examination, consider the following.  What is the right atrial pressure if the IVC is ≤2.1 cm and collapses more than 50%?",
+      "image": null,
+      "options": [
+        "4 mmHg",
+        "3 mmHg",
+        "15 mmHg",
+        "8 mmHg"
+      ],
+      "answer": 1,
+      "explanation": "An IVC ≤2.1 cm that collapses >50% with a sniff indicates a normal RA pressure, estimated at 3 mmHg (range 0–5). *(Practice review slide 9.)*",
+      "explanationImage": null,
+      "tags": [
+        "Subcostal Window",
+        "Suprasternal Window",
+        "Echocardiography Windows"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch04-q185",
+      "stem": "During a mock adult echocardiography board examination, consider the following.  What is the right atrial pressure if the IVC is ≤2.1 cm and collapses less than 50%?",
+      "image": null,
+      "options": [
+        "8 mmHg",
+        "4 mmHg",
+        "15 mmHg",
+        "3 mmHg"
+      ],
+      "answer": 0,
+      "explanation": "A small IVC (≤2.1 cm) that collapses <50% is a discordant pattern, giving the intermediate RA pressure estimate of 8 mmHg (range 5–10). *(Practice review slide 11.)*",
+      "explanationImage": null,
+      "tags": [
+        "Subcostal Window",
+        "Suprasternal Window",
+        "Echocardiography Windows"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch04-q186",
+      "stem": "During a mock adult echocardiography board examination, consider the following.  What is the right atrial pressure if the IVC is ≥2.1 cm and collapses less than 50%?",
+      "image": null,
+      "options": [
+        "4 mmHg",
+        "15 mmHg",
+        "8 mmHg",
+        "3 mmHg"
+      ],
+      "answer": 1,
+      "explanation": "A dilated IVC (≥2.1 cm) that collapses <50% indicates a high RA pressure, estimated at 15 mmHg (range 10–20). *(Practice review slide 13.)*",
+      "explanationImage": null,
+      "tags": [
+        "Subcostal Window",
+        "Suprasternal Window",
+        "Echocardiography Windows"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch04-q187",
+      "stem": "During a mock adult echocardiography board examination, consider the following.  From the subcostal 4-chamber, how do you maneuver the probe to acquire the subcostal short axis showing the long axis of the IVC?",
+      "image": null,
+      "options": [
+        "Rotate the probe counterclockwise ~90° to place the indicator at 12 o’clock",
+        "Rotate the probe clockwise ~90° to place the indicator at 6 o’clock",
+        "Angle the probe toward the patient’s left shoulder",
+        "Angle the probe toward the patient’s right hip"
+      ],
+      "answer": 0,
+      "explanation": "From the subcostal 4-chamber, rotate the probe counterclockwise ~90° (indicator toward 12 o’clock) to obtain the sagittal plane that shows the IVC in long axis entering the right atrium. *(Practice review slide 15.)*",
+      "explanationImage": null,
+      "tags": [
+        "Subcostal Window",
+        "Suprasternal Window",
+        "Echocardiography Windows"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch04-q188",
+      "stem": "During a mock adult echocardiography board examination, consider the following.  From the subcostal short axis showing the long axis of the IVC, how do you maneuver the probe to acquire the descending aorta?",
+      "image": null,
+      "options": [
+        "Rotate the probe clockwise until the descending aorta is in view",
+        "Rotate the probe counterclockwise until the descending aorta is in view",
+        "Angle the probe anteriorly",
+        "Angle and slide slightly left ward"
+      ],
+      "answer": 3,
+      "explanation": "The course review identifies Angle and slide slightly left ward as the correct response. *(Practice review slide 17.)*",
+      "explanationImage": null,
+      "tags": [
+        "Subcostal Window",
+        "Suprasternal Window",
+        "Echocardiography Windows"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch04-q189",
+      "stem": "During a mock adult echocardiography board examination, consider the following.  What position is the patient in for Suprasternal imaging?",
+      "image": null,
+      "options": [
+        "Right lateral decubitus with the right arm raised above and resting under the head",
+        "Supine with the neck extended",
+        "Supine with the knees bent",
+        "Left lateral decubitus with the left arm raised above and resting under the head"
+      ],
+      "answer": 1,
+      "explanation": "Suprasternal imaging uses a supine position with the neck extended (often a pillow under the shoulders) to expose the suprasternal notch for the aortic arch. *(Practice review slide 19.)*",
+      "explanationImage": null,
+      "tags": [
+        "Subcostal Window",
+        "Suprasternal Window",
+        "Echocardiography Windows"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch04-q190",
+      "stem": "During a mock adult echocardiography board examination, consider the following.  What portion of the aorta is seen in the suprasternal notch view?",
+      "image": null,
+      "options": [
+        "Ascending aorta",
+        "Transverse arch",
+        "Descending aorta",
+        "All of the above"
+      ],
+      "answer": 3,
+      "explanation": "The suprasternal long-axis view displays the ascending aorta, the transverse (arch) segment, and the proximal descending aorta together. *(Practice review slide 21.)*",
+      "explanationImage": null,
+      "tags": [
+        "Subcostal Window",
+        "Suprasternal Window",
+        "Echocardiography Windows"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch04-q191",
+      "stem": "A sonographer is reviewing the relevant anatomy, technique, or physiology.  What position is the patient in for Subcostal imaging?",
+      "image": null,
+      "options": [
+        "Supine with the neck extended",
+        "Right lateral decubitus with the right arm raised above and resting under the head",
+        "Supine with the knees bent",
+        "Left lateral decubitus with the left arm raised above and resting under the head"
+      ],
+      "answer": 2,
+      "explanation": "Subcostal imaging uses a supine position with the knees bent, which relaxes the abdominal wall and lets the transducer angle up under the costal margin toward the heart. *(Practice review slide 3.)*",
+      "explanationImage": null,
+      "tags": [
+        "Subcostal Window",
+        "Suprasternal Window",
+        "Echocardiography Windows"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch04-q192",
+      "stem": "A sonographer is reviewing the relevant anatomy, technique, or physiology.  Where is the probe placed for the subcostal window?",
+      "image": null,
+      "options": [
+        "Midline on the patient, located inferior to the xiphoid process",
+        "At the suprasternal notch with the indicator pointing toward 1–2 o’clock",
+        "At the level of the 5th or 6th intercostal space, mid-axillary line",
+        "Mid-chest on the patient’s left side at the 2nd–4th intercostal space"
+      ],
+      "answer": 0,
+      "explanation": "The subcostal probe is placed in the midline just inferior to the xiphoid process, then angled up toward the left shoulder and heart. *(Practice review slide 5.)*",
+      "explanationImage": null,
+      "tags": [
+        "Subcostal Window",
+        "Suprasternal Window",
+        "Echocardiography Windows"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch04-q193",
+      "stem": "A sonographer is reviewing the relevant anatomy, technique, or physiology.  The same anatomy will be demonstrated in the apical 4-chamber compared to the subcostal 4-chamber. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "Cannot be determined from the image alone",
+        "True",
+        "Only true for pediatric echocardiography",
+        "False"
+      ],
+      "answer": 1,
+      "explanation": "True — the subcostal 4-chamber displays the same four chambers, valves, and septa as the apical 4-chamber, just acquired from an inferior window with a different beam orientation. *(Practice review slide 7.)*",
+      "explanationImage": null,
+      "tags": [
+        "Subcostal Window",
+        "Suprasternal Window",
+        "Echocardiography Windows"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch04-q194",
+      "stem": "A sonographer is reviewing the relevant anatomy, technique, or physiology.  What is the right atrial pressure if the IVC is ≤2.1 cm and collapses more than 50%?",
+      "image": null,
+      "options": [
+        "4 mmHg",
+        "8 mmHg",
+        "15 mmHg",
+        "3 mmHg"
+      ],
+      "answer": 3,
+      "explanation": "An IVC ≤2.1 cm that collapses >50% with a sniff indicates a normal RA pressure, estimated at 3 mmHg (range 0–5). *(Practice review slide 9.)*",
+      "explanationImage": null,
+      "tags": [
+        "Subcostal Window",
+        "Suprasternal Window",
+        "Echocardiography Windows"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch04-q195",
+      "stem": "A sonographer is reviewing the relevant anatomy, technique, or physiology.  What is the right atrial pressure if the IVC is ≤2.1 cm and collapses less than 50%?",
+      "image": null,
+      "options": [
+        "3 mmHg",
+        "15 mmHg",
+        "8 mmHg",
+        "4 mmHg"
+      ],
+      "answer": 2,
+      "explanation": "A small IVC (≤2.1 cm) that collapses <50% is a discordant pattern, giving the intermediate RA pressure estimate of 8 mmHg (range 5–10). *(Practice review slide 11.)*",
+      "explanationImage": null,
+      "tags": [
+        "Subcostal Window",
+        "Suprasternal Window",
+        "Echocardiography Windows"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch04-q196",
+      "stem": "A sonographer is reviewing the relevant anatomy, technique, or physiology.  What is the right atrial pressure if the IVC is ≥2.1 cm and collapses less than 50%?",
+      "image": null,
+      "options": [
+        "8 mmHg",
+        "15 mmHg",
+        "4 mmHg",
+        "3 mmHg"
+      ],
+      "answer": 1,
+      "explanation": "A dilated IVC (≥2.1 cm) that collapses <50% indicates a high RA pressure, estimated at 15 mmHg (range 10–20). *(Practice review slide 13.)*",
+      "explanationImage": null,
+      "tags": [
+        "Subcostal Window",
+        "Suprasternal Window",
+        "Echocardiography Windows"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch04-q197",
+      "stem": "A sonographer is reviewing the relevant anatomy, technique, or physiology.  From the subcostal 4-chamber, how do you maneuver the probe to acquire the subcostal short axis showing the long axis of the IVC?",
+      "image": null,
+      "options": [
+        "Angle the probe toward the patient’s right hip",
+        "Angle the probe toward the patient’s left shoulder",
+        "Rotate the probe counterclockwise ~90° to place the indicator at 12 o’clock",
+        "Rotate the probe clockwise ~90° to place the indicator at 6 o’clock"
+      ],
+      "answer": 2,
+      "explanation": "From the subcostal 4-chamber, rotate the probe counterclockwise ~90° (indicator toward 12 o’clock) to obtain the sagittal plane that shows the IVC in long axis entering the right atrium. *(Practice review slide 15.)*",
+      "explanationImage": null,
+      "tags": [
+        "Subcostal Window",
+        "Suprasternal Window",
+        "Echocardiography Windows"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch04-q198",
+      "stem": "A sonographer is reviewing the relevant anatomy, technique, or physiology.  From the subcostal short axis showing the long axis of the IVC, how do you maneuver the probe to acquire the descending aorta?",
+      "image": null,
+      "options": [
+        "Angle the probe anteriorly",
+        "Angle and slide slightly left ward",
+        "Rotate the probe counterclockwise until the descending aorta is in view",
+        "Rotate the probe clockwise until the descending aorta is in view"
+      ],
+      "answer": 1,
+      "explanation": "The course review identifies Angle and slide slightly left ward as the correct response. *(Practice review slide 17.)*",
+      "explanationImage": null,
+      "tags": [
+        "Subcostal Window",
+        "Suprasternal Window",
+        "Echocardiography Windows"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch04-q199",
+      "stem": "A sonographer is reviewing the relevant anatomy, technique, or physiology.  What position is the patient in for Suprasternal imaging?",
+      "image": null,
+      "options": [
+        "Supine with the neck extended",
+        "Left lateral decubitus with the left arm raised above and resting under the head",
+        "Right lateral decubitus with the right arm raised above and resting under the head",
+        "Supine with the knees bent"
+      ],
+      "answer": 0,
+      "explanation": "Suprasternal imaging uses a supine position with the neck extended (often a pillow under the shoulders) to expose the suprasternal notch for the aortic arch. *(Practice review slide 19.)*",
+      "explanationImage": null,
+      "tags": [
+        "Subcostal Window",
+        "Suprasternal Window",
+        "Echocardiography Windows"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch04-q200",
+      "stem": "A sonographer is reviewing the relevant anatomy, technique, or physiology.  What portion of the aorta is seen in the suprasternal notch view?",
+      "image": null,
+      "options": [
+        "Ascending aorta",
+        "Transverse arch",
+        "Descending aorta",
+        "All of the above"
+      ],
+      "answer": 3,
+      "explanation": "The suprasternal long-axis view displays the ascending aorta, the transverse (arch) segment, and the proximal descending aorta together. *(Practice review slide 21.)*",
+      "explanationImage": null,
+      "tags": [
+        "Subcostal Window",
+        "Suprasternal Window",
+        "Echocardiography Windows"
       ],
       "reference": ""
     }

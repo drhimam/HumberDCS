@@ -1,0 +1,4007 @@
+{
+  "subjectId": "DCS5000",
+  "chapterId": "ch08",
+  "title": "Doppler Types, Instrumentation & Optimization",
+  "questions": [
+    {
+      "id": "DCS5000-ch08-q001",
+      "stem": "During a routine adult transthoracic examination, the sonographer reviews the following concept.  Based on the fundamental Doppler principle, what occurs to the detected frequency shift when blood flows directly away from the ultrasound transducer?",
+      "image": null,
+      "options": [
+        "The frequency shift fluctuates dynamically regardless of direction",
+        "The frequency shift decreases",
+        "The frequency shift remains identical to the transmit frequency",
+        "The frequency shift increases"
+      ],
+      "answer": 1,
+      "explanation": "The course review identifies The frequency shift decreases as the correct response. *(Practice review slide 3.)*",
+      "explanationImage": null,
+      "tags": [
+        "Doppler Types",
+        "Instrumentation",
+        "Doppler Optimization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch08-q002",
+      "stem": "During a routine adult transthoracic examination, the sonographer reviews the following concept.  Which variable in the conceptual Doppler equation (ΔF = 2·Ft·V·CosΘ / C) represents the speed of sound in human soft tissue?",
+      "image": null,
+      "options": [
+        "Ft",
+        "Δf",
+        "C",
+        "V"
+      ],
+      "answer": 2,
+      "explanation": "The course review identifies C as the correct response. *(Practice review slide 5.)*",
+      "explanationImage": null,
+      "tags": [
+        "Doppler Types",
+        "Instrumentation",
+        "Doppler Optimization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch08-q003",
+      "stem": "During a routine adult transthoracic examination, the sonographer reviews the following concept.  When assessing high-velocity blood flow through a severely stenotic aortic valve, what is the primary diagnostic advantage of Continuous Wave (CW) Doppler over Pulsed Wave (PW) Doppler?",
+      "image": null,
+      "options": [
+        "Immunity to the aliasing phenomenon, allowing accurate measurement of maximum high velocities",
+        "Enhanced measurement of low-velocity tissue displacements within the myocardium",
+        "Incorporation of colour-coded velocity variances across a broad sector region",
+        "Superior range resolution at a specific sample volume depth"
+      ],
+      "answer": 0,
+      "explanation": "The course review identifies Immunity to the aliasing phenomenon, allowing accurate measurement of maximum high velocities as the correct response. *(Practice review slide 7.)*",
+      "explanationImage": null,
+      "tags": [
+        "Doppler Types",
+        "Instrumentation",
+        "Doppler Optimization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch08-q004",
+      "stem": "During a routine adult transthoracic examination, the sonographer reviews the following concept.  Out of following options, what is the best angle of insonation to achieve most accuracy (measurement error) when calculating blood flow velocities?",
+      "image": null,
+      "options": [
+        "10 degrees",
+        "20 degrees",
+        "30 degrees",
+        "60 degrees"
+      ],
+      "answer": 0,
+      "explanation": "Among the options offered, 10° is closest to parallel, so it carries the least cosine error. *(Practice review slide 9.)*",
+      "explanationImage": null,
+      "tags": [
+        "Doppler Types",
+        "Instrumentation",
+        "Doppler Optimization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch08-q005",
+      "stem": "During a routine adult transthoracic examination, the sonographer reviews the following concept.  The maximum measurable velocity limit without experiencing signal wrap-around in Pulsed Wave Doppler is strictly governed by which boundary?",
+      "image": null,
+      "options": [
+        "The Thermal Index (TI)",
+        "The Mechanical Index (MI)",
+        "The Wall Filter threshold",
+        "The Nyquist Limit"
+      ],
+      "answer": 3,
+      "explanation": "The course review identifies The Nyquist Limit as the correct response. *(Practice review slide 11.)*",
+      "explanationImage": null,
+      "tags": [
+        "Doppler Types",
+        "Instrumentation",
+        "Doppler Optimization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch08-q006",
+      "stem": "During a routine adult transthoracic examination, the sonographer reviews the following concept.  While performing a spectral Doppler assessment, you observe a smooth, rhythmic audio output from the system speakers. This auditory characteristic typically signifies which type of blood flow?",
+      "image": null,
+      "options": [
+        "Highly stenotic restrictive flow",
+        "Normal, laminar flow",
+        "Turbulent flow",
+        "Severe regurgitant jet flow"
+      ],
+      "answer": 1,
+      "explanation": "The course review identifies Normal, laminar flow as the correct response. *(Practice review slide 13.)*",
+      "explanationImage": null,
+      "tags": [
+        "Doppler Types",
+        "Instrumentation",
+        "Doppler Optimization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch08-q007",
+      "stem": "During a routine adult transthoracic examination, the sonographer reviews the following concept.  Which system control should be carefully adjusted if low-amplitude, high-velocity signals are obscured by intense, low-frequency background noise originating from adjacent cardiac wall movements?",
+      "image": null,
+      "options": [
+        "Wall Filter",
+        "Sample Volume size",
+        "Sweep Speed",
+        "Colour Doppler Gain"
+      ],
+      "answer": 0,
+      "explanation": "The course review identifies Wall Filter as the correct response. *(Practice review slide 15.)*",
+      "explanationImage": null,
+      "tags": [
+        "Doppler Types",
+        "Instrumentation",
+        "Doppler Optimization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch08-q008",
+      "stem": "During a routine adult transthoracic examination, the sonographer reviews the following concept.  Why must an echocardiographer use caution when adjusting the Spectral Doppler Gain control during clinical quantification?",
+      "image": null,
+      "options": [
+        "It alters the underlying Pulse Repetition Frequency (PRF) of the transducer crystals",
+        "High gain settings cause immediate, unrectifiable aliasing artifacts",
+        "It directly artifactually shifts the established zero-velocity baseline position",
+        "Over-gaining can falsely increase spectral broadening, masking or mimicking turbulent flow profiles"
+      ],
+      "answer": 3,
+      "explanation": "The course review identifies Over-gaining can falsely increase spectral broadening, masking or mimicking turbulent flow profiles as the correct response. *(Practice review slide 17.)*",
+      "explanationImage": null,
+      "tags": [
+        "Doppler Types",
+        "Instrumentation",
+        "Doppler Optimization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch08-q009",
+      "stem": "During a routine adult transthoracic examination, the sonographer reviews the following concept.  You notice that your spectral waveform display compresses too many cardiac cycles closely together, making individual velocity waveform analysis impossible. To spread the cycles out across the horizontal time axis, you should:. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "Shift the zero-velocity baseline downward",
+        "Decrease the systemic Pulse Repetition Frequency (PRF)",
+        "Decrease the overall Spectral Doppler Gain",
+        "Increase the Sweep Speed"
+      ],
+      "answer": 3,
+      "explanation": "The course review identifies Increase the Sweep Speed as the correct response. *(Practice review slide 19.)*",
+      "explanationImage": null,
+      "tags": [
+        "Doppler Types",
+        "Instrumentation",
+        "Doppler Optimization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch08-q010",
+      "stem": "During a routine adult transthoracic examination, the sonographer reviews the following concept.  A sonographer increases the intercept angle between the ultrasound beam and the left ventricular outflow tract (LVOT) flow from 10 degrees to 41 degrees. What is the direct consequence of this shift on the calculated velocity shown on the spectral display?",
+      "image": null,
+      "options": [
+        "The calculated velocity significantly overestimates the true physiological velocity",
+        "The calculated velocity accurately reflects the true physiological velocity",
+        "The calculated velocity becomes entirely dependent on the tissue wall filter setting",
+        "The calculated velocity significantly underestimates the true physiological velocity"
+      ],
+      "answer": 3,
+      "explanation": "The course review identifies The calculated velocity significantly underestimates the true physiological velocity as the correct response. *(Practice review slide 21.)*",
+      "explanationImage": null,
+      "tags": [
+        "Doppler Types",
+        "Instrumentation",
+        "Doppler Optimization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch08-q011",
+      "stem": "During a routine adult transthoracic examination, the sonographer reviews the following concept.  During a spectral Doppler examination of the mitral valve, the peak velocity of the E-wave wraps around the bottom of the display and appears at the top. Which instrument modification is most effective to resolve this specific spectral artifact?",
+      "image": null,
+      "options": [
+        "Increasing the spectral Doppler gain setting",
+        "Increasing the spectral Doppler baseline setting upward",
+        "Increasing the velocity scale or pulse repetition frequency setting",
+        "Decreasing the sample volume length to minimum"
+      ],
+      "answer": 2,
+      "explanation": "The course review identifies Increasing the velocity scale or pulse repetition frequency setting as the correct response. *(Practice review slide 23.)*",
+      "explanationImage": null,
+      "tags": [
+        "Doppler Types",
+        "Instrumentation",
+        "Doppler Optimization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch08-q012",
+      "stem": "During a routine adult transthoracic examination, the sonographer reviews the following concept.  A sonographer is evaluating a patient with severe aortic stenosis. To accurately measure the peak systolic jet velocity, which Doppler modality must be selected?",
+      "image": null,
+      "options": [
+        "Pulsed Wave Doppler",
+        "Continuous Wave Doppler",
+        "Tissue Doppler Imaging",
+        "Colour Flow Imaging"
+      ],
+      "answer": 1,
+      "explanation": "The course review identifies Continuous Wave Doppler as the correct response. *(Practice review slide 25.)*",
+      "explanationImage": null,
+      "tags": [
+        "Doppler Types",
+        "Instrumentation",
+        "Doppler Optimization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch08-q013",
+      "stem": "During a routine adult transthoracic examination, the sonographer reviews the following concept.  When adjusting the spectral Doppler gain to optimize a pulsed wave waveform, the sonographer notices the appearance of vertical gray smearing filling the normally clear window under the peak envelope. Which condition does this recreate?",
+      "image": null,
+      "options": [
+        "Mirror image artifact",
+        "Artificial spectral broadening",
+        "Wall filter truncation",
+        "True laminar flow pattern"
+      ],
+      "answer": 1,
+      "explanation": "The course review identifies Artificial spectral broadening as the correct response. *(Practice review slide 27.)*",
+      "explanationImage": null,
+      "tags": [
+        "Doppler Types",
+        "Instrumentation",
+        "Doppler Optimization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch08-q014",
+      "stem": "During a routine adult transthoracic examination, the sonographer reviews the following concept.  During a professional practice case audit, a sonographer listens to the audio output of a spectral Doppler trace and hears a harsh, noisy acoustic signal. Which physiological state corresponds with this audio characteristic?",
+      "image": null,
+      "options": [
+        "Rapid translational motion of a cardiac valve leaflet",
+        "Low-velocity movement of the ventricular myocardium",
+        "Turbulent blood flow through a stenotic or regurgitant orifice",
+        "Normal, unobstructed laminar blood flow"
+      ],
+      "answer": 2,
+      "explanation": "The course review identifies Turbulent blood flow through a stenotic or regurgitant orifice as the correct response. *(Practice review slide 29.)*",
+      "explanationImage": null,
+      "tags": [
+        "Doppler Types",
+        "Instrumentation",
+        "Doppler Optimization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch08-q015",
+      "stem": "During a routine adult transthoracic examination, the sonographer reviews the following concept.  A sonographer is using Colour Flow Imaging to quantify mitral regurgitation. If they reduce the colour velocity scale (PRF) excessively, what will falsely alter the appearance of the regurgitant jet?",
+      "image": null,
+      "options": [
+        "The colour signal disappears completely from the region of interest",
+        "The colour variance displays a false mosaic, turbulent appearance",
+        "The wall filter is automatically deactivated by the system",
+        "The spatial frame rate of the 2D image increases dramatically"
+      ],
+      "answer": 1,
+      "explanation": "The course review identifies The colour variance displays a false mosaic, turbulent appearance as the correct response. *(Practice review slide 31.)*",
+      "explanationImage": null,
+      "tags": [
+        "Doppler Types",
+        "Instrumentation",
+        "Doppler Optimization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch08-q016",
+      "stem": "During a routine adult transthoracic examination, the sonographer reviews the following concept.  Which system setting must be altered to selectively display the high-velocity, low-amplitude signals of intra-cardiac blood flow while rejecting low-velocity, high-amplitude movements from structural tissue walls?",
+      "image": null,
+      "options": [
+        "Sweep Speed",
+        "Wall Filter",
+        "Baseline Shift",
+        "Sample Volume Length"
+      ],
+      "answer": 1,
+      "explanation": "The course review identifies Wall Filter as the correct response. *(Practice review slide 33.)*",
+      "explanationImage": null,
+      "tags": [
+        "Doppler Types",
+        "Instrumentation",
+        "Doppler Optimization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch08-q017",
+      "stem": "During a routine adult transthoracic examination, the sonographer reviews the following concept.  When setting up a Tissue Doppler Imaging (TDI) assessment of the mitral annulus, how are the system control parameters fundamentally configured relative to standard blood-flow Pulsed Wave Doppler?",
+      "image": null,
+      "options": [
+        "The velocity scale is elevated, and the wall filter is maximized",
+        "The system activates an automated 60-degree angle-correction formula",
+        "The sample volume is positioned inside the centre of the valve orifice flow",
+        "The velocity scale is lowered, and the Doppler gain is reduced"
+      ],
+      "answer": 3,
+      "explanation": "The course review identifies The velocity scale is lowered, and the Doppler gain is reduced as the correct response. *(Practice review slide 35.)*",
+      "explanationImage": null,
+      "tags": [
+        "Doppler Types",
+        "Instrumentation",
+        "Doppler Optimization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch08-q018",
+      "stem": "During a routine adult transthoracic examination, the sonographer reviews the following concept.  An adult patient with an aortic prosthesis requires evaluation for a suspected paravalvular leak. Why is Colour Flow Imaging preferred over standard 2D imaging for this assessment?",
+      "image": null,
+      "options": [
+        "It provides spatial mapping of blood-flow direction and velocity profiles superimposed on structural anatomy",
+        "It offers superior temporal resolution compared to standard M-mode",
+        "It eliminates acoustic shadowing artifacts produced by prosthetic rings",
+        "It operates independently of the angle-of-insonation limitation"
+      ],
+      "answer": 0,
+      "explanation": "The course review identifies It provides spatial mapping of blood-flow direction and velocity profiles superimposed on structural anatomy as the correct response. *(Practice review slide 37.)*",
+      "explanationImage": null,
+      "tags": [
+        "Doppler Types",
+        "Instrumentation",
+        "Doppler Optimization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch08-q019",
+      "stem": "During a routine adult transthoracic examination, the sonographer reviews the following concept.  You observe a mosaic, multi-coloured pattern within the left atrium during ventricular systole on an adult echo study. To confirm whether this represents true turbulent regurgitation rather than an instrument artifact, which setting should be checked first?",
+      "image": null,
+      "options": [
+        "Colour gain, ensuring it is not set too high to introduce false mosaic artifact noise",
+        "The horizontal sweep speed timeline control",
+        "The depth setting, ensuring it is maximized",
+        "The matching M-mode sampling line alignment cursor"
+      ],
+      "answer": 0,
+      "explanation": "The course review identifies Colour gain, ensuring it is not set too high to introduce false mosaic artifact noise as the correct response. *(Practice review slide 39.)*",
+      "explanationImage": null,
+      "tags": [
+        "Doppler Types",
+        "Instrumentation",
+        "Doppler Optimization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch08-q020",
+      "stem": "During a routine adult transthoracic examination, the sonographer reviews the following concept.  While optimizing an adult echocardiogram, you increase the size of the Colour Doppler sector box to cover the entire left ventricle and left atrium. What is the direct compromise of this adjustment?",
+      "image": null,
+      "options": [
+        "The maximum velocity limit of the colour scale increases significantly",
+        "The system automatically switches the spectral display baseline",
+        "The frame rate decreases, reducing the temporal resolution of the colour image",
+        "The wall filter automatically decreases to its lowest possible setting"
+      ],
+      "answer": 2,
+      "explanation": "The course review identifies The frame rate decreases, reducing the temporal resolution of the colour image as the correct response. *(Practice review slide 41.)*",
+      "explanationImage": null,
+      "tags": [
+        "Doppler Types",
+        "Instrumentation",
+        "Doppler Optimization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch08-q021",
+      "stem": "During a routine adult transthoracic examination, the sonographer reviews the following concept.  When performing professional quantification according to ASE guidelines, what is the clinical significance of measuring the velocity time integral (VTI) with Pulsed Wave Doppler?",
+      "image": null,
+      "options": [
+        "It represents the distance blood travels during a single cardiac cycle, which is essential for calculating stroke volume",
+        "It isolates the maximum pressure drop across a stenotic valve plane",
+        "It measures myocardial tissue stiffness independent of loading conditions",
+        "It calculates the exact regurgitant fraction without requiring structural diameter inputs"
+      ],
+      "answer": 0,
+      "explanation": "The course review identifies It represents the distance blood travels during a single cardiac cycle, which is essential for calculating stroke volume as the correct response. *(Practice review slide 43.)*",
+      "explanationImage": null,
+      "tags": [
+        "Doppler Types",
+        "Instrumentation",
+        "Doppler Optimization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch08-q022",
+      "stem": "During a routine adult transthoracic examination, the sonographer reviews the following concept.  During a quality-control check of the ultrasound system, a sonographer notes that the spectral trace displays a thick, broad band of velocities during early acceleration, even though the flow is known to be laminar. Which control adjustment helps resolve this instrument-induced broadening?",
+      "image": null,
+      "options": [
+        "Increasing the sample volume gate size to its maximum setting",
+        "Moving the baseline position to the top edge of the display",
+        "Reducing the spectral Doppler receiver gain setting",
+        "Lowering the wall filter cutoff to its minimum threshold"
+      ],
+      "answer": 2,
+      "explanation": "The course review identifies Reducing the spectral Doppler receiver gain setting as the correct response. *(Practice review slide 45.)*",
+      "explanationImage": null,
+      "tags": [
+        "Doppler Types",
+        "Instrumentation",
+        "Doppler Optimization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch08-q023",
+      "stem": "During a routine adult transthoracic examination, the sonographer reviews the following concept.  A patient with suspected severe tricuspid regurgitation is being evaluated. The colour Doppler display shows a high-velocity jet in the right atrium, but the Continuous Wave Doppler signal is faint and difficult to trace. Which optimization action best enhances the signal-to-noise ratio of the spectral trace?",
+      "image": null,
+      "options": [
+        "Expanding the colour Doppler sector box to cover both atria",
+        "Increasing the wall filter setting to its highest available level",
+        "Lowering the horizontal sweep speed display setting to minimum",
+        "Adjusting the transducer position to optimize the intercept angle parallel to the regurgitant jet"
+      ],
+      "answer": 3,
+      "explanation": "The course review identifies Adjusting the transducer position to optimize the intercept angle parallel to the regurgitant jet as the correct response. *(Practice review slide 47.)*",
+      "explanationImage": null,
+      "tags": [
+        "Doppler Types",
+        "Instrumentation",
+        "Doppler Optimization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch08-q024",
+      "stem": "A trainee is preparing for a practical echocardiography assessment.  Based on the fundamental Doppler principle, what occurs to the detected frequency shift when blood flows directly away from the ultrasound transducer?",
+      "image": null,
+      "options": [
+        "The frequency shift increases",
+        "The frequency shift decreases",
+        "The frequency shift fluctuates dynamically regardless of direction",
+        "The frequency shift remains identical to the transmit frequency"
+      ],
+      "answer": 1,
+      "explanation": "The course review identifies The frequency shift decreases as the correct response. *(Practice review slide 3.)*",
+      "explanationImage": null,
+      "tags": [
+        "Doppler Types",
+        "Instrumentation",
+        "Doppler Optimization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch08-q025",
+      "stem": "A trainee is preparing for a practical echocardiography assessment.  Which variable in the conceptual Doppler equation (ΔF = 2·Ft·V·CosΘ / C) represents the speed of sound in human soft tissue?",
+      "image": null,
+      "options": [
+        "V",
+        "Δf",
+        "Ft",
+        "C"
+      ],
+      "answer": 3,
+      "explanation": "The course review identifies C as the correct response. *(Practice review slide 5.)*",
+      "explanationImage": null,
+      "tags": [
+        "Doppler Types",
+        "Instrumentation",
+        "Doppler Optimization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch08-q026",
+      "stem": "A trainee is preparing for a practical echocardiography assessment.  When assessing high-velocity blood flow through a severely stenotic aortic valve, what is the primary diagnostic advantage of Continuous Wave (CW) Doppler over Pulsed Wave (PW) Doppler?",
+      "image": null,
+      "options": [
+        "Enhanced measurement of low-velocity tissue displacements within the myocardium",
+        "Immunity to the aliasing phenomenon, allowing accurate measurement of maximum high velocities",
+        "Superior range resolution at a specific sample volume depth",
+        "Incorporation of colour-coded velocity variances across a broad sector region"
+      ],
+      "answer": 1,
+      "explanation": "The course review identifies Immunity to the aliasing phenomenon, allowing accurate measurement of maximum high velocities as the correct response. *(Practice review slide 7.)*",
+      "explanationImage": null,
+      "tags": [
+        "Doppler Types",
+        "Instrumentation",
+        "Doppler Optimization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch08-q027",
+      "stem": "A trainee is preparing for a practical echocardiography assessment.  Out of following options, what is the best angle of insonation to achieve most accuracy (measurement error) when calculating blood flow velocities?",
+      "image": null,
+      "options": [
+        "10 degrees",
+        "30 degrees",
+        "20 degrees",
+        "60 degrees"
+      ],
+      "answer": 0,
+      "explanation": "Among the options offered, 10° is closest to parallel, so it carries the least cosine error. *(Practice review slide 9.)*",
+      "explanationImage": null,
+      "tags": [
+        "Doppler Types",
+        "Instrumentation",
+        "Doppler Optimization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch08-q028",
+      "stem": "A trainee is preparing for a practical echocardiography assessment.  The maximum measurable velocity limit without experiencing signal wrap-around in Pulsed Wave Doppler is strictly governed by which boundary?",
+      "image": null,
+      "options": [
+        "The Thermal Index (TI)",
+        "The Nyquist Limit",
+        "The Wall Filter threshold",
+        "The Mechanical Index (MI)"
+      ],
+      "answer": 1,
+      "explanation": "The course review identifies The Nyquist Limit as the correct response. *(Practice review slide 11.)*",
+      "explanationImage": null,
+      "tags": [
+        "Doppler Types",
+        "Instrumentation",
+        "Doppler Optimization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch08-q029",
+      "stem": "A trainee is preparing for a practical echocardiography assessment.  While performing a spectral Doppler assessment, you observe a smooth, rhythmic audio output from the system speakers. This auditory characteristic typically signifies which type of blood flow?",
+      "image": null,
+      "options": [
+        "Normal, laminar flow",
+        "Severe regurgitant jet flow",
+        "Highly stenotic restrictive flow",
+        "Turbulent flow"
+      ],
+      "answer": 0,
+      "explanation": "The course review identifies Normal, laminar flow as the correct response. *(Practice review slide 13.)*",
+      "explanationImage": null,
+      "tags": [
+        "Doppler Types",
+        "Instrumentation",
+        "Doppler Optimization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch08-q030",
+      "stem": "A trainee is preparing for a practical echocardiography assessment.  Which system control should be carefully adjusted if low-amplitude, high-velocity signals are obscured by intense, low-frequency background noise originating from adjacent cardiac wall movements?",
+      "image": null,
+      "options": [
+        "Sample Volume size",
+        "Sweep Speed",
+        "Colour Doppler Gain",
+        "Wall Filter"
+      ],
+      "answer": 3,
+      "explanation": "The course review identifies Wall Filter as the correct response. *(Practice review slide 15.)*",
+      "explanationImage": null,
+      "tags": [
+        "Doppler Types",
+        "Instrumentation",
+        "Doppler Optimization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch08-q031",
+      "stem": "A trainee is preparing for a practical echocardiography assessment.  Why must an echocardiographer use caution when adjusting the Spectral Doppler Gain control during clinical quantification?",
+      "image": null,
+      "options": [
+        "High gain settings cause immediate, unrectifiable aliasing artifacts",
+        "It alters the underlying Pulse Repetition Frequency (PRF) of the transducer crystals",
+        "Over-gaining can falsely increase spectral broadening, masking or mimicking turbulent flow profiles",
+        "It directly artifactually shifts the established zero-velocity baseline position"
+      ],
+      "answer": 2,
+      "explanation": "The course review identifies Over-gaining can falsely increase spectral broadening, masking or mimicking turbulent flow profiles as the correct response. *(Practice review slide 17.)*",
+      "explanationImage": null,
+      "tags": [
+        "Doppler Types",
+        "Instrumentation",
+        "Doppler Optimization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch08-q032",
+      "stem": "A trainee is preparing for a practical echocardiography assessment.  You notice that your spectral waveform display compresses too many cardiac cycles closely together, making individual velocity waveform analysis impossible. To spread the cycles out across the horizontal time axis, you should:. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "Shift the zero-velocity baseline downward",
+        "Decrease the systemic Pulse Repetition Frequency (PRF)",
+        "Decrease the overall Spectral Doppler Gain",
+        "Increase the Sweep Speed"
+      ],
+      "answer": 3,
+      "explanation": "The course review identifies Increase the Sweep Speed as the correct response. *(Practice review slide 19.)*",
+      "explanationImage": null,
+      "tags": [
+        "Doppler Types",
+        "Instrumentation",
+        "Doppler Optimization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch08-q033",
+      "stem": "A trainee is preparing for a practical echocardiography assessment.  A sonographer increases the intercept angle between the ultrasound beam and the left ventricular outflow tract (LVOT) flow from 10 degrees to 41 degrees. What is the direct consequence of this shift on the calculated velocity shown on the spectral display?",
+      "image": null,
+      "options": [
+        "The calculated velocity significantly underestimates the true physiological velocity",
+        "The calculated velocity becomes entirely dependent on the tissue wall filter setting",
+        "The calculated velocity significantly overestimates the true physiological velocity",
+        "The calculated velocity accurately reflects the true physiological velocity"
+      ],
+      "answer": 0,
+      "explanation": "The course review identifies The calculated velocity significantly underestimates the true physiological velocity as the correct response. *(Practice review slide 21.)*",
+      "explanationImage": null,
+      "tags": [
+        "Doppler Types",
+        "Instrumentation",
+        "Doppler Optimization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch08-q034",
+      "stem": "A trainee is preparing for a practical echocardiography assessment.  During a spectral Doppler examination of the mitral valve, the peak velocity of the E-wave wraps around the bottom of the display and appears at the top. Which instrument modification is most effective to resolve this specific spectral artifact?",
+      "image": null,
+      "options": [
+        "Increasing the velocity scale or pulse repetition frequency setting",
+        "Increasing the spectral Doppler gain setting",
+        "Increasing the spectral Doppler baseline setting upward",
+        "Decreasing the sample volume length to minimum"
+      ],
+      "answer": 0,
+      "explanation": "The course review identifies Increasing the velocity scale or pulse repetition frequency setting as the correct response. *(Practice review slide 23.)*",
+      "explanationImage": null,
+      "tags": [
+        "Doppler Types",
+        "Instrumentation",
+        "Doppler Optimization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch08-q035",
+      "stem": "A trainee is preparing for a practical echocardiography assessment.  A sonographer is evaluating a patient with severe aortic stenosis. To accurately measure the peak systolic jet velocity, which Doppler modality must be selected?",
+      "image": null,
+      "options": [
+        "Colour Flow Imaging",
+        "Continuous Wave Doppler",
+        "Pulsed Wave Doppler",
+        "Tissue Doppler Imaging"
+      ],
+      "answer": 1,
+      "explanation": "The course review identifies Continuous Wave Doppler as the correct response. *(Practice review slide 25.)*",
+      "explanationImage": null,
+      "tags": [
+        "Doppler Types",
+        "Instrumentation",
+        "Doppler Optimization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch08-q036",
+      "stem": "A trainee is preparing for a practical echocardiography assessment.  When adjusting the spectral Doppler gain to optimize a pulsed wave waveform, the sonographer notices the appearance of vertical gray smearing filling the normally clear window under the peak envelope. Which condition does this recreate?",
+      "image": null,
+      "options": [
+        "Mirror image artifact",
+        "Artificial spectral broadening",
+        "Wall filter truncation",
+        "True laminar flow pattern"
+      ],
+      "answer": 1,
+      "explanation": "The course review identifies Artificial spectral broadening as the correct response. *(Practice review slide 27.)*",
+      "explanationImage": null,
+      "tags": [
+        "Doppler Types",
+        "Instrumentation",
+        "Doppler Optimization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch08-q037",
+      "stem": "A trainee is preparing for a practical echocardiography assessment.  During a professional practice case audit, a sonographer listens to the audio output of a spectral Doppler trace and hears a harsh, noisy acoustic signal. Which physiological state corresponds with this audio characteristic?",
+      "image": null,
+      "options": [
+        "Rapid translational motion of a cardiac valve leaflet",
+        "Normal, unobstructed laminar blood flow",
+        "Low-velocity movement of the ventricular myocardium",
+        "Turbulent blood flow through a stenotic or regurgitant orifice"
+      ],
+      "answer": 3,
+      "explanation": "The course review identifies Turbulent blood flow through a stenotic or regurgitant orifice as the correct response. *(Practice review slide 29.)*",
+      "explanationImage": null,
+      "tags": [
+        "Doppler Types",
+        "Instrumentation",
+        "Doppler Optimization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch08-q038",
+      "stem": "A trainee is preparing for a practical echocardiography assessment.  A sonographer is using Colour Flow Imaging to quantify mitral regurgitation. If they reduce the colour velocity scale (PRF) excessively, what will falsely alter the appearance of the regurgitant jet?",
+      "image": null,
+      "options": [
+        "The colour signal disappears completely from the region of interest",
+        "The colour variance displays a false mosaic, turbulent appearance",
+        "The wall filter is automatically deactivated by the system",
+        "The spatial frame rate of the 2D image increases dramatically"
+      ],
+      "answer": 1,
+      "explanation": "The course review identifies The colour variance displays a false mosaic, turbulent appearance as the correct response. *(Practice review slide 31.)*",
+      "explanationImage": null,
+      "tags": [
+        "Doppler Types",
+        "Instrumentation",
+        "Doppler Optimization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch08-q039",
+      "stem": "A trainee is preparing for a practical echocardiography assessment.  Which system setting must be altered to selectively display the high-velocity, low-amplitude signals of intra-cardiac blood flow while rejecting low-velocity, high-amplitude movements from structural tissue walls?",
+      "image": null,
+      "options": [
+        "Sample Volume Length",
+        "Sweep Speed",
+        "Baseline Shift",
+        "Wall Filter"
+      ],
+      "answer": 3,
+      "explanation": "The course review identifies Wall Filter as the correct response. *(Practice review slide 33.)*",
+      "explanationImage": null,
+      "tags": [
+        "Doppler Types",
+        "Instrumentation",
+        "Doppler Optimization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch08-q040",
+      "stem": "A trainee is preparing for a practical echocardiography assessment.  When setting up a Tissue Doppler Imaging (TDI) assessment of the mitral annulus, how are the system control parameters fundamentally configured relative to standard blood-flow Pulsed Wave Doppler?",
+      "image": null,
+      "options": [
+        "The velocity scale is elevated, and the wall filter is maximized",
+        "The velocity scale is lowered, and the Doppler gain is reduced",
+        "The sample volume is positioned inside the centre of the valve orifice flow",
+        "The system activates an automated 60-degree angle-correction formula"
+      ],
+      "answer": 1,
+      "explanation": "The course review identifies The velocity scale is lowered, and the Doppler gain is reduced as the correct response. *(Practice review slide 35.)*",
+      "explanationImage": null,
+      "tags": [
+        "Doppler Types",
+        "Instrumentation",
+        "Doppler Optimization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch08-q041",
+      "stem": "A trainee is preparing for a practical echocardiography assessment.  An adult patient with an aortic prosthesis requires evaluation for a suspected paravalvular leak. Why is Colour Flow Imaging preferred over standard 2D imaging for this assessment?",
+      "image": null,
+      "options": [
+        "It operates independently of the angle-of-insonation limitation",
+        "It eliminates acoustic shadowing artifacts produced by prosthetic rings",
+        "It provides spatial mapping of blood-flow direction and velocity profiles superimposed on structural anatomy",
+        "It offers superior temporal resolution compared to standard M-mode"
+      ],
+      "answer": 2,
+      "explanation": "The course review identifies It provides spatial mapping of blood-flow direction and velocity profiles superimposed on structural anatomy as the correct response. *(Practice review slide 37.)*",
+      "explanationImage": null,
+      "tags": [
+        "Doppler Types",
+        "Instrumentation",
+        "Doppler Optimization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch08-q042",
+      "stem": "A trainee is preparing for a practical echocardiography assessment.  You observe a mosaic, multi-coloured pattern within the left atrium during ventricular systole on an adult echo study. To confirm whether this represents true turbulent regurgitation rather than an instrument artifact, which setting should be checked first?",
+      "image": null,
+      "options": [
+        "The depth setting, ensuring it is maximized",
+        "The matching M-mode sampling line alignment cursor",
+        "Colour gain, ensuring it is not set too high to introduce false mosaic artifact noise",
+        "The horizontal sweep speed timeline control"
+      ],
+      "answer": 2,
+      "explanation": "The course review identifies Colour gain, ensuring it is not set too high to introduce false mosaic artifact noise as the correct response. *(Practice review slide 39.)*",
+      "explanationImage": null,
+      "tags": [
+        "Doppler Types",
+        "Instrumentation",
+        "Doppler Optimization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch08-q043",
+      "stem": "A trainee is preparing for a practical echocardiography assessment.  While optimizing an adult echocardiogram, you increase the size of the Colour Doppler sector box to cover the entire left ventricle and left atrium. What is the direct compromise of this adjustment?",
+      "image": null,
+      "options": [
+        "The wall filter automatically decreases to its lowest possible setting",
+        "The frame rate decreases, reducing the temporal resolution of the colour image",
+        "The system automatically switches the spectral display baseline",
+        "The maximum velocity limit of the colour scale increases significantly"
+      ],
+      "answer": 1,
+      "explanation": "The course review identifies The frame rate decreases, reducing the temporal resolution of the colour image as the correct response. *(Practice review slide 41.)*",
+      "explanationImage": null,
+      "tags": [
+        "Doppler Types",
+        "Instrumentation",
+        "Doppler Optimization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch08-q044",
+      "stem": "A trainee is preparing for a practical echocardiography assessment.  When performing professional quantification according to ASE guidelines, what is the clinical significance of measuring the velocity time integral (VTI) with Pulsed Wave Doppler?",
+      "image": null,
+      "options": [
+        "It isolates the maximum pressure drop across a stenotic valve plane",
+        "It calculates the exact regurgitant fraction without requiring structural diameter inputs",
+        "It represents the distance blood travels during a single cardiac cycle, which is essential for calculating stroke volume",
+        "It measures myocardial tissue stiffness independent of loading conditions"
+      ],
+      "answer": 2,
+      "explanation": "The course review identifies It represents the distance blood travels during a single cardiac cycle, which is essential for calculating stroke volume as the correct response. *(Practice review slide 43.)*",
+      "explanationImage": null,
+      "tags": [
+        "Doppler Types",
+        "Instrumentation",
+        "Doppler Optimization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch08-q045",
+      "stem": "A trainee is preparing for a practical echocardiography assessment.  During a quality-control check of the ultrasound system, a sonographer notes that the spectral trace displays a thick, broad band of velocities during early acceleration, even though the flow is known to be laminar. Which control adjustment helps resolve this instrument-induced broadening?",
+      "image": null,
+      "options": [
+        "Increasing the sample volume gate size to its maximum setting",
+        "Lowering the wall filter cutoff to its minimum threshold",
+        "Reducing the spectral Doppler receiver gain setting",
+        "Moving the baseline position to the top edge of the display"
+      ],
+      "answer": 2,
+      "explanation": "The course review identifies Reducing the spectral Doppler receiver gain setting as the correct response. *(Practice review slide 45.)*",
+      "explanationImage": null,
+      "tags": [
+        "Doppler Types",
+        "Instrumentation",
+        "Doppler Optimization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch08-q046",
+      "stem": "A trainee is preparing for a practical echocardiography assessment.  A patient with suspected severe tricuspid regurgitation is being evaluated. The colour Doppler display shows a high-velocity jet in the right atrium, but the Continuous Wave Doppler signal is faint and difficult to trace. Which optimization action best enhances the signal-to-noise ratio of the spectral trace?",
+      "image": null,
+      "options": [
+        "Expanding the colour Doppler sector box to cover both atria",
+        "Increasing the wall filter setting to its highest available level",
+        "Lowering the horizontal sweep speed display setting to minimum",
+        "Adjusting the transducer position to optimize the intercept angle parallel to the regurgitant jet"
+      ],
+      "answer": 3,
+      "explanation": "The course review identifies Adjusting the transducer position to optimize the intercept angle parallel to the regurgitant jet as the correct response. *(Practice review slide 47.)*",
+      "explanationImage": null,
+      "tags": [
+        "Doppler Types",
+        "Instrumentation",
+        "Doppler Optimization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch08-q047",
+      "stem": "While reviewing a standard adult echocardiography protocol, consider this question:  Based on the fundamental Doppler principle, what occurs to the detected frequency shift when blood flows directly away from the ultrasound transducer?",
+      "image": null,
+      "options": [
+        "The frequency shift increases",
+        "The frequency shift decreases",
+        "The frequency shift fluctuates dynamically regardless of direction",
+        "The frequency shift remains identical to the transmit frequency"
+      ],
+      "answer": 1,
+      "explanation": "The course review identifies The frequency shift decreases as the correct response. *(Practice review slide 3.)*",
+      "explanationImage": null,
+      "tags": [
+        "Doppler Types",
+        "Instrumentation",
+        "Doppler Optimization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch08-q048",
+      "stem": "While reviewing a standard adult echocardiography protocol, consider this question:  Which variable in the conceptual Doppler equation (ΔF = 2·Ft·V·CosΘ / C) represents the speed of sound in human soft tissue?",
+      "image": null,
+      "options": [
+        "Δf",
+        "C",
+        "V",
+        "Ft"
+      ],
+      "answer": 1,
+      "explanation": "The course review identifies C as the correct response. *(Practice review slide 5.)*",
+      "explanationImage": null,
+      "tags": [
+        "Doppler Types",
+        "Instrumentation",
+        "Doppler Optimization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch08-q049",
+      "stem": "While reviewing a standard adult echocardiography protocol, consider this question:  When assessing high-velocity blood flow through a severely stenotic aortic valve, what is the primary diagnostic advantage of Continuous Wave (CW) Doppler over Pulsed Wave (PW) Doppler?",
+      "image": null,
+      "options": [
+        "Incorporation of colour-coded velocity variances across a broad sector region",
+        "Superior range resolution at a specific sample volume depth",
+        "Enhanced measurement of low-velocity tissue displacements within the myocardium",
+        "Immunity to the aliasing phenomenon, allowing accurate measurement of maximum high velocities"
+      ],
+      "answer": 3,
+      "explanation": "The course review identifies Immunity to the aliasing phenomenon, allowing accurate measurement of maximum high velocities as the correct response. *(Practice review slide 7.)*",
+      "explanationImage": null,
+      "tags": [
+        "Doppler Types",
+        "Instrumentation",
+        "Doppler Optimization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch08-q050",
+      "stem": "While reviewing a standard adult echocardiography protocol, consider this question:  Out of following options, what is the best angle of insonation to achieve most accuracy (measurement error) when calculating blood flow velocities?",
+      "image": null,
+      "options": [
+        "10 degrees",
+        "30 degrees",
+        "60 degrees",
+        "20 degrees"
+      ],
+      "answer": 0,
+      "explanation": "Among the options offered, 10° is closest to parallel, so it carries the least cosine error. *(Practice review slide 9.)*",
+      "explanationImage": null,
+      "tags": [
+        "Doppler Types",
+        "Instrumentation",
+        "Doppler Optimization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch08-q051",
+      "stem": "While reviewing a standard adult echocardiography protocol, consider this question:  The maximum measurable velocity limit without experiencing signal wrap-around in Pulsed Wave Doppler is strictly governed by which boundary?",
+      "image": null,
+      "options": [
+        "The Nyquist Limit",
+        "The Thermal Index (TI)",
+        "The Mechanical Index (MI)",
+        "The Wall Filter threshold"
+      ],
+      "answer": 0,
+      "explanation": "The course review identifies The Nyquist Limit as the correct response. *(Practice review slide 11.)*",
+      "explanationImage": null,
+      "tags": [
+        "Doppler Types",
+        "Instrumentation",
+        "Doppler Optimization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch08-q052",
+      "stem": "While reviewing a standard adult echocardiography protocol, consider this question:  While performing a spectral Doppler assessment, you observe a smooth, rhythmic audio output from the system speakers. This auditory characteristic typically signifies which type of blood flow?",
+      "image": null,
+      "options": [
+        "Severe regurgitant jet flow",
+        "Turbulent flow",
+        "Highly stenotic restrictive flow",
+        "Normal, laminar flow"
+      ],
+      "answer": 3,
+      "explanation": "The course review identifies Normal, laminar flow as the correct response. *(Practice review slide 13.)*",
+      "explanationImage": null,
+      "tags": [
+        "Doppler Types",
+        "Instrumentation",
+        "Doppler Optimization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch08-q053",
+      "stem": "While reviewing a standard adult echocardiography protocol, consider this question:  Which system control should be carefully adjusted if low-amplitude, high-velocity signals are obscured by intense, low-frequency background noise originating from adjacent cardiac wall movements?",
+      "image": null,
+      "options": [
+        "Colour Doppler Gain",
+        "Sample Volume size",
+        "Sweep Speed",
+        "Wall Filter"
+      ],
+      "answer": 3,
+      "explanation": "The course review identifies Wall Filter as the correct response. *(Practice review slide 15.)*",
+      "explanationImage": null,
+      "tags": [
+        "Doppler Types",
+        "Instrumentation",
+        "Doppler Optimization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch08-q054",
+      "stem": "While reviewing a standard adult echocardiography protocol, consider this question:  Why must an echocardiographer use caution when adjusting the Spectral Doppler Gain control during clinical quantification?",
+      "image": null,
+      "options": [
+        "Over-gaining can falsely increase spectral broadening, masking or mimicking turbulent flow profiles",
+        "High gain settings cause immediate, unrectifiable aliasing artifacts",
+        "It alters the underlying Pulse Repetition Frequency (PRF) of the transducer crystals",
+        "It directly artifactually shifts the established zero-velocity baseline position"
+      ],
+      "answer": 0,
+      "explanation": "The course review identifies Over-gaining can falsely increase spectral broadening, masking or mimicking turbulent flow profiles as the correct response. *(Practice review slide 17.)*",
+      "explanationImage": null,
+      "tags": [
+        "Doppler Types",
+        "Instrumentation",
+        "Doppler Optimization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch08-q055",
+      "stem": "While reviewing a standard adult echocardiography protocol, consider this question:  You notice that your spectral waveform display compresses too many cardiac cycles closely together, making individual velocity waveform analysis impossible. To spread the cycles out across the horizontal time axis, you should:. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "Increase the Sweep Speed",
+        "Decrease the overall Spectral Doppler Gain",
+        "Shift the zero-velocity baseline downward",
+        "Decrease the systemic Pulse Repetition Frequency (PRF)"
+      ],
+      "answer": 0,
+      "explanation": "The course review identifies Increase the Sweep Speed as the correct response. *(Practice review slide 19.)*",
+      "explanationImage": null,
+      "tags": [
+        "Doppler Types",
+        "Instrumentation",
+        "Doppler Optimization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch08-q056",
+      "stem": "While reviewing a standard adult echocardiography protocol, consider this question:  A sonographer increases the intercept angle between the ultrasound beam and the left ventricular outflow tract (LVOT) flow from 10 degrees to 41 degrees. What is the direct consequence of this shift on the calculated velocity shown on the spectral display?",
+      "image": null,
+      "options": [
+        "The calculated velocity accurately reflects the true physiological velocity",
+        "The calculated velocity significantly overestimates the true physiological velocity",
+        "The calculated velocity significantly underestimates the true physiological velocity",
+        "The calculated velocity becomes entirely dependent on the tissue wall filter setting"
+      ],
+      "answer": 2,
+      "explanation": "The course review identifies The calculated velocity significantly underestimates the true physiological velocity as the correct response. *(Practice review slide 21.)*",
+      "explanationImage": null,
+      "tags": [
+        "Doppler Types",
+        "Instrumentation",
+        "Doppler Optimization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch08-q057",
+      "stem": "While reviewing a standard adult echocardiography protocol, consider this question:  During a spectral Doppler examination of the mitral valve, the peak velocity of the E-wave wraps around the bottom of the display and appears at the top. Which instrument modification is most effective to resolve this specific spectral artifact?",
+      "image": null,
+      "options": [
+        "Increasing the spectral Doppler baseline setting upward",
+        "Increasing the spectral Doppler gain setting",
+        "Increasing the velocity scale or pulse repetition frequency setting",
+        "Decreasing the sample volume length to minimum"
+      ],
+      "answer": 2,
+      "explanation": "The course review identifies Increasing the velocity scale or pulse repetition frequency setting as the correct response. *(Practice review slide 23.)*",
+      "explanationImage": null,
+      "tags": [
+        "Doppler Types",
+        "Instrumentation",
+        "Doppler Optimization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch08-q058",
+      "stem": "While reviewing a standard adult echocardiography protocol, consider this question:  A sonographer is evaluating a patient with severe aortic stenosis. To accurately measure the peak systolic jet velocity, which Doppler modality must be selected?",
+      "image": null,
+      "options": [
+        "Tissue Doppler Imaging",
+        "Pulsed Wave Doppler",
+        "Colour Flow Imaging",
+        "Continuous Wave Doppler"
+      ],
+      "answer": 3,
+      "explanation": "The course review identifies Continuous Wave Doppler as the correct response. *(Practice review slide 25.)*",
+      "explanationImage": null,
+      "tags": [
+        "Doppler Types",
+        "Instrumentation",
+        "Doppler Optimization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch08-q059",
+      "stem": "While reviewing a standard adult echocardiography protocol, consider this question:  When adjusting the spectral Doppler gain to optimize a pulsed wave waveform, the sonographer notices the appearance of vertical gray smearing filling the normally clear window under the peak envelope. Which condition does this recreate?",
+      "image": null,
+      "options": [
+        "Mirror image artifact",
+        "True laminar flow pattern",
+        "Artificial spectral broadening",
+        "Wall filter truncation"
+      ],
+      "answer": 2,
+      "explanation": "The course review identifies Artificial spectral broadening as the correct response. *(Practice review slide 27.)*",
+      "explanationImage": null,
+      "tags": [
+        "Doppler Types",
+        "Instrumentation",
+        "Doppler Optimization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch08-q060",
+      "stem": "While reviewing a standard adult echocardiography protocol, consider this question:  During a professional practice case audit, a sonographer listens to the audio output of a spectral Doppler trace and hears a harsh, noisy acoustic signal. Which physiological state corresponds with this audio characteristic?",
+      "image": null,
+      "options": [
+        "Rapid translational motion of a cardiac valve leaflet",
+        "Low-velocity movement of the ventricular myocardium",
+        "Normal, unobstructed laminar blood flow",
+        "Turbulent blood flow through a stenotic or regurgitant orifice"
+      ],
+      "answer": 3,
+      "explanation": "The course review identifies Turbulent blood flow through a stenotic or regurgitant orifice as the correct response. *(Practice review slide 29.)*",
+      "explanationImage": null,
+      "tags": [
+        "Doppler Types",
+        "Instrumentation",
+        "Doppler Optimization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch08-q061",
+      "stem": "While reviewing a standard adult echocardiography protocol, consider this question:  A sonographer is using Colour Flow Imaging to quantify mitral regurgitation. If they reduce the colour velocity scale (PRF) excessively, what will falsely alter the appearance of the regurgitant jet?",
+      "image": null,
+      "options": [
+        "The colour signal disappears completely from the region of interest",
+        "The wall filter is automatically deactivated by the system",
+        "The spatial frame rate of the 2D image increases dramatically",
+        "The colour variance displays a false mosaic, turbulent appearance"
+      ],
+      "answer": 3,
+      "explanation": "The course review identifies The colour variance displays a false mosaic, turbulent appearance as the correct response. *(Practice review slide 31.)*",
+      "explanationImage": null,
+      "tags": [
+        "Doppler Types",
+        "Instrumentation",
+        "Doppler Optimization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch08-q062",
+      "stem": "While reviewing a standard adult echocardiography protocol, consider this question:  Which system setting must be altered to selectively display the high-velocity, low-amplitude signals of intra-cardiac blood flow while rejecting low-velocity, high-amplitude movements from structural tissue walls?",
+      "image": null,
+      "options": [
+        "Sample Volume Length",
+        "Wall Filter",
+        "Sweep Speed",
+        "Baseline Shift"
+      ],
+      "answer": 1,
+      "explanation": "The course review identifies Wall Filter as the correct response. *(Practice review slide 33.)*",
+      "explanationImage": null,
+      "tags": [
+        "Doppler Types",
+        "Instrumentation",
+        "Doppler Optimization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch08-q063",
+      "stem": "While reviewing a standard adult echocardiography protocol, consider this question:  When setting up a Tissue Doppler Imaging (TDI) assessment of the mitral annulus, how are the system control parameters fundamentally configured relative to standard blood-flow Pulsed Wave Doppler?",
+      "image": null,
+      "options": [
+        "The velocity scale is lowered, and the Doppler gain is reduced",
+        "The sample volume is positioned inside the centre of the valve orifice flow",
+        "The system activates an automated 60-degree angle-correction formula",
+        "The velocity scale is elevated, and the wall filter is maximized"
+      ],
+      "answer": 0,
+      "explanation": "The course review identifies The velocity scale is lowered, and the Doppler gain is reduced as the correct response. *(Practice review slide 35.)*",
+      "explanationImage": null,
+      "tags": [
+        "Doppler Types",
+        "Instrumentation",
+        "Doppler Optimization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch08-q064",
+      "stem": "While reviewing a standard adult echocardiography protocol, consider this question:  An adult patient with an aortic prosthesis requires evaluation for a suspected paravalvular leak. Why is Colour Flow Imaging preferred over standard 2D imaging for this assessment?",
+      "image": null,
+      "options": [
+        "It provides spatial mapping of blood-flow direction and velocity profiles superimposed on structural anatomy",
+        "It offers superior temporal resolution compared to standard M-mode",
+        "It operates independently of the angle-of-insonation limitation",
+        "It eliminates acoustic shadowing artifacts produced by prosthetic rings"
+      ],
+      "answer": 0,
+      "explanation": "The course review identifies It provides spatial mapping of blood-flow direction and velocity profiles superimposed on structural anatomy as the correct response. *(Practice review slide 37.)*",
+      "explanationImage": null,
+      "tags": [
+        "Doppler Types",
+        "Instrumentation",
+        "Doppler Optimization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch08-q065",
+      "stem": "While reviewing a standard adult echocardiography protocol, consider this question:  You observe a mosaic, multi-coloured pattern within the left atrium during ventricular systole on an adult echo study. To confirm whether this represents true turbulent regurgitation rather than an instrument artifact, which setting should be checked first?",
+      "image": null,
+      "options": [
+        "The horizontal sweep speed timeline control",
+        "Colour gain, ensuring it is not set too high to introduce false mosaic artifact noise",
+        "The depth setting, ensuring it is maximized",
+        "The matching M-mode sampling line alignment cursor"
+      ],
+      "answer": 1,
+      "explanation": "The course review identifies Colour gain, ensuring it is not set too high to introduce false mosaic artifact noise as the correct response. *(Practice review slide 39.)*",
+      "explanationImage": null,
+      "tags": [
+        "Doppler Types",
+        "Instrumentation",
+        "Doppler Optimization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch08-q066",
+      "stem": "While reviewing a standard adult echocardiography protocol, consider this question:  While optimizing an adult echocardiogram, you increase the size of the Colour Doppler sector box to cover the entire left ventricle and left atrium. What is the direct compromise of this adjustment?",
+      "image": null,
+      "options": [
+        "The frame rate decreases, reducing the temporal resolution of the colour image",
+        "The system automatically switches the spectral display baseline",
+        "The maximum velocity limit of the colour scale increases significantly",
+        "The wall filter automatically decreases to its lowest possible setting"
+      ],
+      "answer": 0,
+      "explanation": "The course review identifies The frame rate decreases, reducing the temporal resolution of the colour image as the correct response. *(Practice review slide 41.)*",
+      "explanationImage": null,
+      "tags": [
+        "Doppler Types",
+        "Instrumentation",
+        "Doppler Optimization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch08-q067",
+      "stem": "While reviewing a standard adult echocardiography protocol, consider this question:  When performing professional quantification according to ASE guidelines, what is the clinical significance of measuring the velocity time integral (VTI) with Pulsed Wave Doppler?",
+      "image": null,
+      "options": [
+        "It isolates the maximum pressure drop across a stenotic valve plane",
+        "It measures myocardial tissue stiffness independent of loading conditions",
+        "It calculates the exact regurgitant fraction without requiring structural diameter inputs",
+        "It represents the distance blood travels during a single cardiac cycle, which is essential for calculating stroke volume"
+      ],
+      "answer": 3,
+      "explanation": "The course review identifies It represents the distance blood travels during a single cardiac cycle, which is essential for calculating stroke volume as the correct response. *(Practice review slide 43.)*",
+      "explanationImage": null,
+      "tags": [
+        "Doppler Types",
+        "Instrumentation",
+        "Doppler Optimization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch08-q068",
+      "stem": "While reviewing a standard adult echocardiography protocol, consider this question:  During a quality-control check of the ultrasound system, a sonographer notes that the spectral trace displays a thick, broad band of velocities during early acceleration, even though the flow is known to be laminar. Which control adjustment helps resolve this instrument-induced broadening?",
+      "image": null,
+      "options": [
+        "Reducing the spectral Doppler receiver gain setting",
+        "Moving the baseline position to the top edge of the display",
+        "Increasing the sample volume gate size to its maximum setting",
+        "Lowering the wall filter cutoff to its minimum threshold"
+      ],
+      "answer": 0,
+      "explanation": "The course review identifies Reducing the spectral Doppler receiver gain setting as the correct response. *(Practice review slide 45.)*",
+      "explanationImage": null,
+      "tags": [
+        "Doppler Types",
+        "Instrumentation",
+        "Doppler Optimization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch08-q069",
+      "stem": "While reviewing a standard adult echocardiography protocol, consider this question:  A patient with suspected severe tricuspid regurgitation is being evaluated. The colour Doppler display shows a high-velocity jet in the right atrium, but the Continuous Wave Doppler signal is faint and difficult to trace. Which optimization action best enhances the signal-to-noise ratio of the spectral trace?",
+      "image": null,
+      "options": [
+        "Expanding the colour Doppler sector box to cover both atria",
+        "Increasing the wall filter setting to its highest available level",
+        "Lowering the horizontal sweep speed display setting to minimum",
+        "Adjusting the transducer position to optimize the intercept angle parallel to the regurgitant jet"
+      ],
+      "answer": 3,
+      "explanation": "The course review identifies Adjusting the transducer position to optimize the intercept angle parallel to the regurgitant jet as the correct response. *(Practice review slide 47.)*",
+      "explanationImage": null,
+      "tags": [
+        "Doppler Types",
+        "Instrumentation",
+        "Doppler Optimization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch08-q070",
+      "stem": "A sonographer is asked to select the most accurate response.  Based on the fundamental Doppler principle, what occurs to the detected frequency shift when blood flows directly away from the ultrasound transducer?",
+      "image": null,
+      "options": [
+        "The frequency shift fluctuates dynamically regardless of direction",
+        "The frequency shift increases",
+        "The frequency shift decreases",
+        "The frequency shift remains identical to the transmit frequency"
+      ],
+      "answer": 2,
+      "explanation": "The course review identifies The frequency shift decreases as the correct response. *(Practice review slide 3.)*",
+      "explanationImage": null,
+      "tags": [
+        "Doppler Types",
+        "Instrumentation",
+        "Doppler Optimization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch08-q071",
+      "stem": "A sonographer is asked to select the most accurate response.  Which variable in the conceptual Doppler equation (ΔF = 2·Ft·V·CosΘ / C) represents the speed of sound in human soft tissue?",
+      "image": null,
+      "options": [
+        "Ft",
+        "Δf",
+        "C",
+        "V"
+      ],
+      "answer": 2,
+      "explanation": "The course review identifies C as the correct response. *(Practice review slide 5.)*",
+      "explanationImage": null,
+      "tags": [
+        "Doppler Types",
+        "Instrumentation",
+        "Doppler Optimization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch08-q072",
+      "stem": "A sonographer is asked to select the most accurate response.  When assessing high-velocity blood flow through a severely stenotic aortic valve, what is the primary diagnostic advantage of Continuous Wave (CW) Doppler over Pulsed Wave (PW) Doppler?",
+      "image": null,
+      "options": [
+        "Superior range resolution at a specific sample volume depth",
+        "Enhanced measurement of low-velocity tissue displacements within the myocardium",
+        "Immunity to the aliasing phenomenon, allowing accurate measurement of maximum high velocities",
+        "Incorporation of colour-coded velocity variances across a broad sector region"
+      ],
+      "answer": 2,
+      "explanation": "The course review identifies Immunity to the aliasing phenomenon, allowing accurate measurement of maximum high velocities as the correct response. *(Practice review slide 7.)*",
+      "explanationImage": null,
+      "tags": [
+        "Doppler Types",
+        "Instrumentation",
+        "Doppler Optimization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch08-q073",
+      "stem": "A sonographer is asked to select the most accurate response.  Out of following options, what is the best angle of insonation to achieve most accuracy (measurement error) when calculating blood flow velocities?",
+      "image": null,
+      "options": [
+        "60 degrees",
+        "20 degrees",
+        "30 degrees",
+        "10 degrees"
+      ],
+      "answer": 3,
+      "explanation": "Among the options offered, 10° is closest to parallel, so it carries the least cosine error. *(Practice review slide 9.)*",
+      "explanationImage": null,
+      "tags": [
+        "Doppler Types",
+        "Instrumentation",
+        "Doppler Optimization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch08-q074",
+      "stem": "A sonographer is asked to select the most accurate response.  The maximum measurable velocity limit without experiencing signal wrap-around in Pulsed Wave Doppler is strictly governed by which boundary?",
+      "image": null,
+      "options": [
+        "The Nyquist Limit",
+        "The Thermal Index (TI)",
+        "The Wall Filter threshold",
+        "The Mechanical Index (MI)"
+      ],
+      "answer": 0,
+      "explanation": "The course review identifies The Nyquist Limit as the correct response. *(Practice review slide 11.)*",
+      "explanationImage": null,
+      "tags": [
+        "Doppler Types",
+        "Instrumentation",
+        "Doppler Optimization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch08-q075",
+      "stem": "A sonographer is asked to select the most accurate response.  While performing a spectral Doppler assessment, you observe a smooth, rhythmic audio output from the system speakers. This auditory characteristic typically signifies which type of blood flow?",
+      "image": null,
+      "options": [
+        "Highly stenotic restrictive flow",
+        "Normal, laminar flow",
+        "Turbulent flow",
+        "Severe regurgitant jet flow"
+      ],
+      "answer": 1,
+      "explanation": "The course review identifies Normal, laminar flow as the correct response. *(Practice review slide 13.)*",
+      "explanationImage": null,
+      "tags": [
+        "Doppler Types",
+        "Instrumentation",
+        "Doppler Optimization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch08-q076",
+      "stem": "A sonographer is asked to select the most accurate response.  Which system control should be carefully adjusted if low-amplitude, high-velocity signals are obscured by intense, low-frequency background noise originating from adjacent cardiac wall movements?",
+      "image": null,
+      "options": [
+        "Colour Doppler Gain",
+        "Sample Volume size",
+        "Wall Filter",
+        "Sweep Speed"
+      ],
+      "answer": 2,
+      "explanation": "The course review identifies Wall Filter as the correct response. *(Practice review slide 15.)*",
+      "explanationImage": null,
+      "tags": [
+        "Doppler Types",
+        "Instrumentation",
+        "Doppler Optimization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch08-q077",
+      "stem": "A sonographer is asked to select the most accurate response.  Why must an echocardiographer use caution when adjusting the Spectral Doppler Gain control during clinical quantification?",
+      "image": null,
+      "options": [
+        "Over-gaining can falsely increase spectral broadening, masking or mimicking turbulent flow profiles",
+        "High gain settings cause immediate, unrectifiable aliasing artifacts",
+        "It alters the underlying Pulse Repetition Frequency (PRF) of the transducer crystals",
+        "It directly artifactually shifts the established zero-velocity baseline position"
+      ],
+      "answer": 0,
+      "explanation": "The course review identifies Over-gaining can falsely increase spectral broadening, masking or mimicking turbulent flow profiles as the correct response. *(Practice review slide 17.)*",
+      "explanationImage": null,
+      "tags": [
+        "Doppler Types",
+        "Instrumentation",
+        "Doppler Optimization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch08-q078",
+      "stem": "A sonographer is asked to select the most accurate response.  You notice that your spectral waveform display compresses too many cardiac cycles closely together, making individual velocity waveform analysis impossible. To spread the cycles out across the horizontal time axis, you should:. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "Increase the Sweep Speed",
+        "Decrease the systemic Pulse Repetition Frequency (PRF)",
+        "Shift the zero-velocity baseline downward",
+        "Decrease the overall Spectral Doppler Gain"
+      ],
+      "answer": 0,
+      "explanation": "The course review identifies Increase the Sweep Speed as the correct response. *(Practice review slide 19.)*",
+      "explanationImage": null,
+      "tags": [
+        "Doppler Types",
+        "Instrumentation",
+        "Doppler Optimization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch08-q079",
+      "stem": "A sonographer is asked to select the most accurate response.  A sonographer increases the intercept angle between the ultrasound beam and the left ventricular outflow tract (LVOT) flow from 10 degrees to 41 degrees. What is the direct consequence of this shift on the calculated velocity shown on the spectral display?",
+      "image": null,
+      "options": [
+        "The calculated velocity becomes entirely dependent on the tissue wall filter setting",
+        "The calculated velocity significantly underestimates the true physiological velocity",
+        "The calculated velocity accurately reflects the true physiological velocity",
+        "The calculated velocity significantly overestimates the true physiological velocity"
+      ],
+      "answer": 1,
+      "explanation": "The course review identifies The calculated velocity significantly underestimates the true physiological velocity as the correct response. *(Practice review slide 21.)*",
+      "explanationImage": null,
+      "tags": [
+        "Doppler Types",
+        "Instrumentation",
+        "Doppler Optimization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch08-q080",
+      "stem": "A sonographer is asked to select the most accurate response.  During a spectral Doppler examination of the mitral valve, the peak velocity of the E-wave wraps around the bottom of the display and appears at the top. Which instrument modification is most effective to resolve this specific spectral artifact?",
+      "image": null,
+      "options": [
+        "Decreasing the sample volume length to minimum",
+        "Increasing the spectral Doppler gain setting",
+        "Increasing the spectral Doppler baseline setting upward",
+        "Increasing the velocity scale or pulse repetition frequency setting"
+      ],
+      "answer": 3,
+      "explanation": "The course review identifies Increasing the velocity scale or pulse repetition frequency setting as the correct response. *(Practice review slide 23.)*",
+      "explanationImage": null,
+      "tags": [
+        "Doppler Types",
+        "Instrumentation",
+        "Doppler Optimization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch08-q081",
+      "stem": "A sonographer is asked to select the most accurate response.  A sonographer is evaluating a patient with severe aortic stenosis. To accurately measure the peak systolic jet velocity, which Doppler modality must be selected?",
+      "image": null,
+      "options": [
+        "Pulsed Wave Doppler",
+        "Colour Flow Imaging",
+        "Tissue Doppler Imaging",
+        "Continuous Wave Doppler"
+      ],
+      "answer": 3,
+      "explanation": "The course review identifies Continuous Wave Doppler as the correct response. *(Practice review slide 25.)*",
+      "explanationImage": null,
+      "tags": [
+        "Doppler Types",
+        "Instrumentation",
+        "Doppler Optimization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch08-q082",
+      "stem": "A sonographer is asked to select the most accurate response.  When adjusting the spectral Doppler gain to optimize a pulsed wave waveform, the sonographer notices the appearance of vertical gray smearing filling the normally clear window under the peak envelope. Which condition does this recreate?",
+      "image": null,
+      "options": [
+        "Wall filter truncation",
+        "Mirror image artifact",
+        "Artificial spectral broadening",
+        "True laminar flow pattern"
+      ],
+      "answer": 2,
+      "explanation": "The course review identifies Artificial spectral broadening as the correct response. *(Practice review slide 27.)*",
+      "explanationImage": null,
+      "tags": [
+        "Doppler Types",
+        "Instrumentation",
+        "Doppler Optimization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch08-q083",
+      "stem": "A sonographer is asked to select the most accurate response.  During a professional practice case audit, a sonographer listens to the audio output of a spectral Doppler trace and hears a harsh, noisy acoustic signal. Which physiological state corresponds with this audio characteristic?",
+      "image": null,
+      "options": [
+        "Normal, unobstructed laminar blood flow",
+        "Rapid translational motion of a cardiac valve leaflet",
+        "Low-velocity movement of the ventricular myocardium",
+        "Turbulent blood flow through a stenotic or regurgitant orifice"
+      ],
+      "answer": 3,
+      "explanation": "The course review identifies Turbulent blood flow through a stenotic or regurgitant orifice as the correct response. *(Practice review slide 29.)*",
+      "explanationImage": null,
+      "tags": [
+        "Doppler Types",
+        "Instrumentation",
+        "Doppler Optimization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch08-q084",
+      "stem": "A sonographer is asked to select the most accurate response.  A sonographer is using Colour Flow Imaging to quantify mitral regurgitation. If they reduce the colour velocity scale (PRF) excessively, what will falsely alter the appearance of the regurgitant jet?",
+      "image": null,
+      "options": [
+        "The colour signal disappears completely from the region of interest",
+        "The wall filter is automatically deactivated by the system",
+        "The colour variance displays a false mosaic, turbulent appearance",
+        "The spatial frame rate of the 2D image increases dramatically"
+      ],
+      "answer": 2,
+      "explanation": "The course review identifies The colour variance displays a false mosaic, turbulent appearance as the correct response. *(Practice review slide 31.)*",
+      "explanationImage": null,
+      "tags": [
+        "Doppler Types",
+        "Instrumentation",
+        "Doppler Optimization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch08-q085",
+      "stem": "A sonographer is asked to select the most accurate response.  Which system setting must be altered to selectively display the high-velocity, low-amplitude signals of intra-cardiac blood flow while rejecting low-velocity, high-amplitude movements from structural tissue walls?",
+      "image": null,
+      "options": [
+        "Sweep Speed",
+        "Sample Volume Length",
+        "Wall Filter",
+        "Baseline Shift"
+      ],
+      "answer": 2,
+      "explanation": "The course review identifies Wall Filter as the correct response. *(Practice review slide 33.)*",
+      "explanationImage": null,
+      "tags": [
+        "Doppler Types",
+        "Instrumentation",
+        "Doppler Optimization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch08-q086",
+      "stem": "A sonographer is asked to select the most accurate response.  When setting up a Tissue Doppler Imaging (TDI) assessment of the mitral annulus, how are the system control parameters fundamentally configured relative to standard blood-flow Pulsed Wave Doppler?",
+      "image": null,
+      "options": [
+        "The system activates an automated 60-degree angle-correction formula",
+        "The velocity scale is elevated, and the wall filter is maximized",
+        "The velocity scale is lowered, and the Doppler gain is reduced",
+        "The sample volume is positioned inside the centre of the valve orifice flow"
+      ],
+      "answer": 2,
+      "explanation": "The course review identifies The velocity scale is lowered, and the Doppler gain is reduced as the correct response. *(Practice review slide 35.)*",
+      "explanationImage": null,
+      "tags": [
+        "Doppler Types",
+        "Instrumentation",
+        "Doppler Optimization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch08-q087",
+      "stem": "A sonographer is asked to select the most accurate response.  An adult patient with an aortic prosthesis requires evaluation for a suspected paravalvular leak. Why is Colour Flow Imaging preferred over standard 2D imaging for this assessment?",
+      "image": null,
+      "options": [
+        "It eliminates acoustic shadowing artifacts produced by prosthetic rings",
+        "It offers superior temporal resolution compared to standard M-mode",
+        "It operates independently of the angle-of-insonation limitation",
+        "It provides spatial mapping of blood-flow direction and velocity profiles superimposed on structural anatomy"
+      ],
+      "answer": 3,
+      "explanation": "The course review identifies It provides spatial mapping of blood-flow direction and velocity profiles superimposed on structural anatomy as the correct response. *(Practice review slide 37.)*",
+      "explanationImage": null,
+      "tags": [
+        "Doppler Types",
+        "Instrumentation",
+        "Doppler Optimization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch08-q088",
+      "stem": "A sonographer is asked to select the most accurate response.  You observe a mosaic, multi-coloured pattern within the left atrium during ventricular systole on an adult echo study. To confirm whether this represents true turbulent regurgitation rather than an instrument artifact, which setting should be checked first?",
+      "image": null,
+      "options": [
+        "Colour gain, ensuring it is not set too high to introduce false mosaic artifact noise",
+        "The horizontal sweep speed timeline control",
+        "The matching M-mode sampling line alignment cursor",
+        "The depth setting, ensuring it is maximized"
+      ],
+      "answer": 0,
+      "explanation": "The course review identifies Colour gain, ensuring it is not set too high to introduce false mosaic artifact noise as the correct response. *(Practice review slide 39.)*",
+      "explanationImage": null,
+      "tags": [
+        "Doppler Types",
+        "Instrumentation",
+        "Doppler Optimization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch08-q089",
+      "stem": "A sonographer is asked to select the most accurate response.  While optimizing an adult echocardiogram, you increase the size of the Colour Doppler sector box to cover the entire left ventricle and left atrium. What is the direct compromise of this adjustment?",
+      "image": null,
+      "options": [
+        "The maximum velocity limit of the colour scale increases significantly",
+        "The system automatically switches the spectral display baseline",
+        "The wall filter automatically decreases to its lowest possible setting",
+        "The frame rate decreases, reducing the temporal resolution of the colour image"
+      ],
+      "answer": 3,
+      "explanation": "The course review identifies The frame rate decreases, reducing the temporal resolution of the colour image as the correct response. *(Practice review slide 41.)*",
+      "explanationImage": null,
+      "tags": [
+        "Doppler Types",
+        "Instrumentation",
+        "Doppler Optimization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch08-q090",
+      "stem": "A sonographer is asked to select the most accurate response.  When performing professional quantification according to ASE guidelines, what is the clinical significance of measuring the velocity time integral (VTI) with Pulsed Wave Doppler?",
+      "image": null,
+      "options": [
+        "It isolates the maximum pressure drop across a stenotic valve plane",
+        "It measures myocardial tissue stiffness independent of loading conditions",
+        "It calculates the exact regurgitant fraction without requiring structural diameter inputs",
+        "It represents the distance blood travels during a single cardiac cycle, which is essential for calculating stroke volume"
+      ],
+      "answer": 3,
+      "explanation": "The course review identifies It represents the distance blood travels during a single cardiac cycle, which is essential for calculating stroke volume as the correct response. *(Practice review slide 43.)*",
+      "explanationImage": null,
+      "tags": [
+        "Doppler Types",
+        "Instrumentation",
+        "Doppler Optimization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch08-q091",
+      "stem": "A sonographer is asked to select the most accurate response.  During a quality-control check of the ultrasound system, a sonographer notes that the spectral trace displays a thick, broad band of velocities during early acceleration, even though the flow is known to be laminar. Which control adjustment helps resolve this instrument-induced broadening?",
+      "image": null,
+      "options": [
+        "Reducing the spectral Doppler receiver gain setting",
+        "Increasing the sample volume gate size to its maximum setting",
+        "Lowering the wall filter cutoff to its minimum threshold",
+        "Moving the baseline position to the top edge of the display"
+      ],
+      "answer": 0,
+      "explanation": "The course review identifies Reducing the spectral Doppler receiver gain setting as the correct response. *(Practice review slide 45.)*",
+      "explanationImage": null,
+      "tags": [
+        "Doppler Types",
+        "Instrumentation",
+        "Doppler Optimization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch08-q092",
+      "stem": "A sonographer is asked to select the most accurate response.  A patient with suspected severe tricuspid regurgitation is being evaluated. The colour Doppler display shows a high-velocity jet in the right atrium, but the Continuous Wave Doppler signal is faint and difficult to trace. Which optimization action best enhances the signal-to-noise ratio of the spectral trace?",
+      "image": null,
+      "options": [
+        "Expanding the colour Doppler sector box to cover both atria",
+        "Increasing the wall filter setting to its highest available level",
+        "Lowering the horizontal sweep speed display setting to minimum",
+        "Adjusting the transducer position to optimize the intercept angle parallel to the regurgitant jet"
+      ],
+      "answer": 3,
+      "explanation": "The course review identifies Adjusting the transducer position to optimize the intercept angle parallel to the regurgitant jet as the correct response. *(Practice review slide 47.)*",
+      "explanationImage": null,
+      "tags": [
+        "Doppler Types",
+        "Instrumentation",
+        "Doppler Optimization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch08-q093",
+      "stem": "During quality review of an adult echo study, the following point is discussed.  Based on the fundamental Doppler principle, what occurs to the detected frequency shift when blood flows directly away from the ultrasound transducer?",
+      "image": null,
+      "options": [
+        "The frequency shift increases",
+        "The frequency shift decreases",
+        "The frequency shift fluctuates dynamically regardless of direction",
+        "The frequency shift remains identical to the transmit frequency"
+      ],
+      "answer": 1,
+      "explanation": "The course review identifies The frequency shift decreases as the correct response. *(Practice review slide 3.)*",
+      "explanationImage": null,
+      "tags": [
+        "Doppler Types",
+        "Instrumentation",
+        "Doppler Optimization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch08-q094",
+      "stem": "During quality review of an adult echo study, the following point is discussed.  Which variable in the conceptual Doppler equation (ΔF = 2·Ft·V·CosΘ / C) represents the speed of sound in human soft tissue?",
+      "image": null,
+      "options": [
+        "V",
+        "Δf",
+        "C",
+        "Ft"
+      ],
+      "answer": 2,
+      "explanation": "The course review identifies C as the correct response. *(Practice review slide 5.)*",
+      "explanationImage": null,
+      "tags": [
+        "Doppler Types",
+        "Instrumentation",
+        "Doppler Optimization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch08-q095",
+      "stem": "During quality review of an adult echo study, the following point is discussed.  When assessing high-velocity blood flow through a severely stenotic aortic valve, what is the primary diagnostic advantage of Continuous Wave (CW) Doppler over Pulsed Wave (PW) Doppler?",
+      "image": null,
+      "options": [
+        "Enhanced measurement of low-velocity tissue displacements within the myocardium",
+        "Superior range resolution at a specific sample volume depth",
+        "Immunity to the aliasing phenomenon, allowing accurate measurement of maximum high velocities",
+        "Incorporation of colour-coded velocity variances across a broad sector region"
+      ],
+      "answer": 2,
+      "explanation": "The course review identifies Immunity to the aliasing phenomenon, allowing accurate measurement of maximum high velocities as the correct response. *(Practice review slide 7.)*",
+      "explanationImage": null,
+      "tags": [
+        "Doppler Types",
+        "Instrumentation",
+        "Doppler Optimization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch08-q096",
+      "stem": "During quality review of an adult echo study, the following point is discussed.  Out of following options, what is the best angle of insonation to achieve most accuracy (measurement error) when calculating blood flow velocities?",
+      "image": null,
+      "options": [
+        "60 degrees",
+        "10 degrees",
+        "30 degrees",
+        "20 degrees"
+      ],
+      "answer": 1,
+      "explanation": "Among the options offered, 10° is closest to parallel, so it carries the least cosine error. *(Practice review slide 9.)*",
+      "explanationImage": null,
+      "tags": [
+        "Doppler Types",
+        "Instrumentation",
+        "Doppler Optimization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch08-q097",
+      "stem": "During quality review of an adult echo study, the following point is discussed.  The maximum measurable velocity limit without experiencing signal wrap-around in Pulsed Wave Doppler is strictly governed by which boundary?",
+      "image": null,
+      "options": [
+        "The Nyquist Limit",
+        "The Wall Filter threshold",
+        "The Mechanical Index (MI)",
+        "The Thermal Index (TI)"
+      ],
+      "answer": 0,
+      "explanation": "The course review identifies The Nyquist Limit as the correct response. *(Practice review slide 11.)*",
+      "explanationImage": null,
+      "tags": [
+        "Doppler Types",
+        "Instrumentation",
+        "Doppler Optimization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch08-q098",
+      "stem": "During quality review of an adult echo study, the following point is discussed.  While performing a spectral Doppler assessment, you observe a smooth, rhythmic audio output from the system speakers. This auditory characteristic typically signifies which type of blood flow?",
+      "image": null,
+      "options": [
+        "Highly stenotic restrictive flow",
+        "Normal, laminar flow",
+        "Turbulent flow",
+        "Severe regurgitant jet flow"
+      ],
+      "answer": 1,
+      "explanation": "The course review identifies Normal, laminar flow as the correct response. *(Practice review slide 13.)*",
+      "explanationImage": null,
+      "tags": [
+        "Doppler Types",
+        "Instrumentation",
+        "Doppler Optimization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch08-q099",
+      "stem": "During quality review of an adult echo study, the following point is discussed.  Which system control should be carefully adjusted if low-amplitude, high-velocity signals are obscured by intense, low-frequency background noise originating from adjacent cardiac wall movements?",
+      "image": null,
+      "options": [
+        "Wall Filter",
+        "Sample Volume size",
+        "Sweep Speed",
+        "Colour Doppler Gain"
+      ],
+      "answer": 0,
+      "explanation": "The course review identifies Wall Filter as the correct response. *(Practice review slide 15.)*",
+      "explanationImage": null,
+      "tags": [
+        "Doppler Types",
+        "Instrumentation",
+        "Doppler Optimization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch08-q100",
+      "stem": "During quality review of an adult echo study, the following point is discussed.  Why must an echocardiographer use caution when adjusting the Spectral Doppler Gain control during clinical quantification?",
+      "image": null,
+      "options": [
+        "It alters the underlying Pulse Repetition Frequency (PRF) of the transducer crystals",
+        "High gain settings cause immediate, unrectifiable aliasing artifacts",
+        "Over-gaining can falsely increase spectral broadening, masking or mimicking turbulent flow profiles",
+        "It directly artifactually shifts the established zero-velocity baseline position"
+      ],
+      "answer": 2,
+      "explanation": "The course review identifies Over-gaining can falsely increase spectral broadening, masking or mimicking turbulent flow profiles as the correct response. *(Practice review slide 17.)*",
+      "explanationImage": null,
+      "tags": [
+        "Doppler Types",
+        "Instrumentation",
+        "Doppler Optimization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch08-q101",
+      "stem": "During quality review of an adult echo study, the following point is discussed.  You notice that your spectral waveform display compresses too many cardiac cycles closely together, making individual velocity waveform analysis impossible. To spread the cycles out across the horizontal time axis, you should:. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "Increase the Sweep Speed",
+        "Decrease the overall Spectral Doppler Gain",
+        "Shift the zero-velocity baseline downward",
+        "Decrease the systemic Pulse Repetition Frequency (PRF)"
+      ],
+      "answer": 0,
+      "explanation": "The course review identifies Increase the Sweep Speed as the correct response. *(Practice review slide 19.)*",
+      "explanationImage": null,
+      "tags": [
+        "Doppler Types",
+        "Instrumentation",
+        "Doppler Optimization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch08-q102",
+      "stem": "During quality review of an adult echo study, the following point is discussed.  A sonographer increases the intercept angle between the ultrasound beam and the left ventricular outflow tract (LVOT) flow from 10 degrees to 41 degrees. What is the direct consequence of this shift on the calculated velocity shown on the spectral display?",
+      "image": null,
+      "options": [
+        "The calculated velocity significantly underestimates the true physiological velocity",
+        "The calculated velocity significantly overestimates the true physiological velocity",
+        "The calculated velocity becomes entirely dependent on the tissue wall filter setting",
+        "The calculated velocity accurately reflects the true physiological velocity"
+      ],
+      "answer": 0,
+      "explanation": "The course review identifies The calculated velocity significantly underestimates the true physiological velocity as the correct response. *(Practice review slide 21.)*",
+      "explanationImage": null,
+      "tags": [
+        "Doppler Types",
+        "Instrumentation",
+        "Doppler Optimization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch08-q103",
+      "stem": "During quality review of an adult echo study, the following point is discussed.  During a spectral Doppler examination of the mitral valve, the peak velocity of the E-wave wraps around the bottom of the display and appears at the top. Which instrument modification is most effective to resolve this specific spectral artifact?",
+      "image": null,
+      "options": [
+        "Increasing the spectral Doppler gain setting",
+        "Decreasing the sample volume length to minimum",
+        "Increasing the spectral Doppler baseline setting upward",
+        "Increasing the velocity scale or pulse repetition frequency setting"
+      ],
+      "answer": 3,
+      "explanation": "The course review identifies Increasing the velocity scale or pulse repetition frequency setting as the correct response. *(Practice review slide 23.)*",
+      "explanationImage": null,
+      "tags": [
+        "Doppler Types",
+        "Instrumentation",
+        "Doppler Optimization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch08-q104",
+      "stem": "During quality review of an adult echo study, the following point is discussed.  A sonographer is evaluating a patient with severe aortic stenosis. To accurately measure the peak systolic jet velocity, which Doppler modality must be selected?",
+      "image": null,
+      "options": [
+        "Pulsed Wave Doppler",
+        "Tissue Doppler Imaging",
+        "Continuous Wave Doppler",
+        "Colour Flow Imaging"
+      ],
+      "answer": 2,
+      "explanation": "The course review identifies Continuous Wave Doppler as the correct response. *(Practice review slide 25.)*",
+      "explanationImage": null,
+      "tags": [
+        "Doppler Types",
+        "Instrumentation",
+        "Doppler Optimization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch08-q105",
+      "stem": "During quality review of an adult echo study, the following point is discussed.  When adjusting the spectral Doppler gain to optimize a pulsed wave waveform, the sonographer notices the appearance of vertical gray smearing filling the normally clear window under the peak envelope. Which condition does this recreate?",
+      "image": null,
+      "options": [
+        "Mirror image artifact",
+        "True laminar flow pattern",
+        "Artificial spectral broadening",
+        "Wall filter truncation"
+      ],
+      "answer": 2,
+      "explanation": "The course review identifies Artificial spectral broadening as the correct response. *(Practice review slide 27.)*",
+      "explanationImage": null,
+      "tags": [
+        "Doppler Types",
+        "Instrumentation",
+        "Doppler Optimization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch08-q106",
+      "stem": "During quality review of an adult echo study, the following point is discussed.  During a professional practice case audit, a sonographer listens to the audio output of a spectral Doppler trace and hears a harsh, noisy acoustic signal. Which physiological state corresponds with this audio characteristic?",
+      "image": null,
+      "options": [
+        "Turbulent blood flow through a stenotic or regurgitant orifice",
+        "Rapid translational motion of a cardiac valve leaflet",
+        "Normal, unobstructed laminar blood flow",
+        "Low-velocity movement of the ventricular myocardium"
+      ],
+      "answer": 0,
+      "explanation": "The course review identifies Turbulent blood flow through a stenotic or regurgitant orifice as the correct response. *(Practice review slide 29.)*",
+      "explanationImage": null,
+      "tags": [
+        "Doppler Types",
+        "Instrumentation",
+        "Doppler Optimization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch08-q107",
+      "stem": "During quality review of an adult echo study, the following point is discussed.  A sonographer is using Colour Flow Imaging to quantify mitral regurgitation. If they reduce the colour velocity scale (PRF) excessively, what will falsely alter the appearance of the regurgitant jet?",
+      "image": null,
+      "options": [
+        "The colour variance displays a false mosaic, turbulent appearance",
+        "The colour signal disappears completely from the region of interest",
+        "The wall filter is automatically deactivated by the system",
+        "The spatial frame rate of the 2D image increases dramatically"
+      ],
+      "answer": 0,
+      "explanation": "The course review identifies The colour variance displays a false mosaic, turbulent appearance as the correct response. *(Practice review slide 31.)*",
+      "explanationImage": null,
+      "tags": [
+        "Doppler Types",
+        "Instrumentation",
+        "Doppler Optimization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch08-q108",
+      "stem": "During quality review of an adult echo study, the following point is discussed.  Which system setting must be altered to selectively display the high-velocity, low-amplitude signals of intra-cardiac blood flow while rejecting low-velocity, high-amplitude movements from structural tissue walls?",
+      "image": null,
+      "options": [
+        "Wall Filter",
+        "Sweep Speed",
+        "Baseline Shift",
+        "Sample Volume Length"
+      ],
+      "answer": 0,
+      "explanation": "The course review identifies Wall Filter as the correct response. *(Practice review slide 33.)*",
+      "explanationImage": null,
+      "tags": [
+        "Doppler Types",
+        "Instrumentation",
+        "Doppler Optimization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch08-q109",
+      "stem": "During quality review of an adult echo study, the following point is discussed.  When setting up a Tissue Doppler Imaging (TDI) assessment of the mitral annulus, how are the system control parameters fundamentally configured relative to standard blood-flow Pulsed Wave Doppler?",
+      "image": null,
+      "options": [
+        "The velocity scale is lowered, and the Doppler gain is reduced",
+        "The system activates an automated 60-degree angle-correction formula",
+        "The sample volume is positioned inside the centre of the valve orifice flow",
+        "The velocity scale is elevated, and the wall filter is maximized"
+      ],
+      "answer": 0,
+      "explanation": "The course review identifies The velocity scale is lowered, and the Doppler gain is reduced as the correct response. *(Practice review slide 35.)*",
+      "explanationImage": null,
+      "tags": [
+        "Doppler Types",
+        "Instrumentation",
+        "Doppler Optimization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch08-q110",
+      "stem": "During quality review of an adult echo study, the following point is discussed.  An adult patient with an aortic prosthesis requires evaluation for a suspected paravalvular leak. Why is Colour Flow Imaging preferred over standard 2D imaging for this assessment?",
+      "image": null,
+      "options": [
+        "It operates independently of the angle-of-insonation limitation",
+        "It offers superior temporal resolution compared to standard M-mode",
+        "It provides spatial mapping of blood-flow direction and velocity profiles superimposed on structural anatomy",
+        "It eliminates acoustic shadowing artifacts produced by prosthetic rings"
+      ],
+      "answer": 2,
+      "explanation": "The course review identifies It provides spatial mapping of blood-flow direction and velocity profiles superimposed on structural anatomy as the correct response. *(Practice review slide 37.)*",
+      "explanationImage": null,
+      "tags": [
+        "Doppler Types",
+        "Instrumentation",
+        "Doppler Optimization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch08-q111",
+      "stem": "During quality review of an adult echo study, the following point is discussed.  You observe a mosaic, multi-coloured pattern within the left atrium during ventricular systole on an adult echo study. To confirm whether this represents true turbulent regurgitation rather than an instrument artifact, which setting should be checked first?",
+      "image": null,
+      "options": [
+        "Colour gain, ensuring it is not set too high to introduce false mosaic artifact noise",
+        "The depth setting, ensuring it is maximized",
+        "The horizontal sweep speed timeline control",
+        "The matching M-mode sampling line alignment cursor"
+      ],
+      "answer": 0,
+      "explanation": "The course review identifies Colour gain, ensuring it is not set too high to introduce false mosaic artifact noise as the correct response. *(Practice review slide 39.)*",
+      "explanationImage": null,
+      "tags": [
+        "Doppler Types",
+        "Instrumentation",
+        "Doppler Optimization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch08-q112",
+      "stem": "During quality review of an adult echo study, the following point is discussed.  While optimizing an adult echocardiogram, you increase the size of the Colour Doppler sector box to cover the entire left ventricle and left atrium. What is the direct compromise of this adjustment?",
+      "image": null,
+      "options": [
+        "The system automatically switches the spectral display baseline",
+        "The frame rate decreases, reducing the temporal resolution of the colour image",
+        "The maximum velocity limit of the colour scale increases significantly",
+        "The wall filter automatically decreases to its lowest possible setting"
+      ],
+      "answer": 1,
+      "explanation": "The course review identifies The frame rate decreases, reducing the temporal resolution of the colour image as the correct response. *(Practice review slide 41.)*",
+      "explanationImage": null,
+      "tags": [
+        "Doppler Types",
+        "Instrumentation",
+        "Doppler Optimization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch08-q113",
+      "stem": "During quality review of an adult echo study, the following point is discussed.  When performing professional quantification according to ASE guidelines, what is the clinical significance of measuring the velocity time integral (VTI) with Pulsed Wave Doppler?",
+      "image": null,
+      "options": [
+        "It represents the distance blood travels during a single cardiac cycle, which is essential for calculating stroke volume",
+        "It measures myocardial tissue stiffness independent of loading conditions",
+        "It calculates the exact regurgitant fraction without requiring structural diameter inputs",
+        "It isolates the maximum pressure drop across a stenotic valve plane"
+      ],
+      "answer": 0,
+      "explanation": "The course review identifies It represents the distance blood travels during a single cardiac cycle, which is essential for calculating stroke volume as the correct response. *(Practice review slide 43.)*",
+      "explanationImage": null,
+      "tags": [
+        "Doppler Types",
+        "Instrumentation",
+        "Doppler Optimization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch08-q114",
+      "stem": "During quality review of an adult echo study, the following point is discussed.  During a quality-control check of the ultrasound system, a sonographer notes that the spectral trace displays a thick, broad band of velocities during early acceleration, even though the flow is known to be laminar. Which control adjustment helps resolve this instrument-induced broadening?",
+      "image": null,
+      "options": [
+        "Increasing the sample volume gate size to its maximum setting",
+        "Moving the baseline position to the top edge of the display",
+        "Reducing the spectral Doppler receiver gain setting",
+        "Lowering the wall filter cutoff to its minimum threshold"
+      ],
+      "answer": 2,
+      "explanation": "The course review identifies Reducing the spectral Doppler receiver gain setting as the correct response. *(Practice review slide 45.)*",
+      "explanationImage": null,
+      "tags": [
+        "Doppler Types",
+        "Instrumentation",
+        "Doppler Optimization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch08-q115",
+      "stem": "During quality review of an adult echo study, the following point is discussed.  A patient with suspected severe tricuspid regurgitation is being evaluated. The colour Doppler display shows a high-velocity jet in the right atrium, but the Continuous Wave Doppler signal is faint and difficult to trace. Which optimization action best enhances the signal-to-noise ratio of the spectral trace?",
+      "image": null,
+      "options": [
+        "Expanding the colour Doppler sector box to cover both atria",
+        "Increasing the wall filter setting to its highest available level",
+        "Lowering the horizontal sweep speed display setting to minimum",
+        "Adjusting the transducer position to optimize the intercept angle parallel to the regurgitant jet"
+      ],
+      "answer": 3,
+      "explanation": "The course review identifies Adjusting the transducer position to optimize the intercept angle parallel to the regurgitant jet as the correct response. *(Practice review slide 47.)*",
+      "explanationImage": null,
+      "tags": [
+        "Doppler Types",
+        "Instrumentation",
+        "Doppler Optimization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch08-q116",
+      "stem": "An adult cardiac sonography student is interpreting a teaching case.  Based on the fundamental Doppler principle, what occurs to the detected frequency shift when blood flows directly away from the ultrasound transducer?",
+      "image": null,
+      "options": [
+        "The frequency shift fluctuates dynamically regardless of direction",
+        "The frequency shift remains identical to the transmit frequency",
+        "The frequency shift increases",
+        "The frequency shift decreases"
+      ],
+      "answer": 3,
+      "explanation": "The course review identifies The frequency shift decreases as the correct response. *(Practice review slide 3.)*",
+      "explanationImage": null,
+      "tags": [
+        "Doppler Types",
+        "Instrumentation",
+        "Doppler Optimization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch08-q117",
+      "stem": "An adult cardiac sonography student is interpreting a teaching case.  Which variable in the conceptual Doppler equation (ΔF = 2·Ft·V·CosΘ / C) represents the speed of sound in human soft tissue?",
+      "image": null,
+      "options": [
+        "C",
+        "V",
+        "Δf",
+        "Ft"
+      ],
+      "answer": 0,
+      "explanation": "The course review identifies C as the correct response. *(Practice review slide 5.)*",
+      "explanationImage": null,
+      "tags": [
+        "Doppler Types",
+        "Instrumentation",
+        "Doppler Optimization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch08-q118",
+      "stem": "An adult cardiac sonography student is interpreting a teaching case.  When assessing high-velocity blood flow through a severely stenotic aortic valve, what is the primary diagnostic advantage of Continuous Wave (CW) Doppler over Pulsed Wave (PW) Doppler?",
+      "image": null,
+      "options": [
+        "Incorporation of colour-coded velocity variances across a broad sector region",
+        "Superior range resolution at a specific sample volume depth",
+        "Enhanced measurement of low-velocity tissue displacements within the myocardium",
+        "Immunity to the aliasing phenomenon, allowing accurate measurement of maximum high velocities"
+      ],
+      "answer": 3,
+      "explanation": "The course review identifies Immunity to the aliasing phenomenon, allowing accurate measurement of maximum high velocities as the correct response. *(Practice review slide 7.)*",
+      "explanationImage": null,
+      "tags": [
+        "Doppler Types",
+        "Instrumentation",
+        "Doppler Optimization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch08-q119",
+      "stem": "An adult cardiac sonography student is interpreting a teaching case.  Out of following options, what is the best angle of insonation to achieve most accuracy (measurement error) when calculating blood flow velocities?",
+      "image": null,
+      "options": [
+        "30 degrees",
+        "60 degrees",
+        "20 degrees",
+        "10 degrees"
+      ],
+      "answer": 3,
+      "explanation": "Among the options offered, 10° is closest to parallel, so it carries the least cosine error. *(Practice review slide 9.)*",
+      "explanationImage": null,
+      "tags": [
+        "Doppler Types",
+        "Instrumentation",
+        "Doppler Optimization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch08-q120",
+      "stem": "An adult cardiac sonography student is interpreting a teaching case.  The maximum measurable velocity limit without experiencing signal wrap-around in Pulsed Wave Doppler is strictly governed by which boundary?",
+      "image": null,
+      "options": [
+        "The Thermal Index (TI)",
+        "The Wall Filter threshold",
+        "The Nyquist Limit",
+        "The Mechanical Index (MI)"
+      ],
+      "answer": 2,
+      "explanation": "The course review identifies The Nyquist Limit as the correct response. *(Practice review slide 11.)*",
+      "explanationImage": null,
+      "tags": [
+        "Doppler Types",
+        "Instrumentation",
+        "Doppler Optimization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch08-q121",
+      "stem": "An adult cardiac sonography student is interpreting a teaching case.  While performing a spectral Doppler assessment, you observe a smooth, rhythmic audio output from the system speakers. This auditory characteristic typically signifies which type of blood flow?",
+      "image": null,
+      "options": [
+        "Highly stenotic restrictive flow",
+        "Normal, laminar flow",
+        "Severe regurgitant jet flow",
+        "Turbulent flow"
+      ],
+      "answer": 1,
+      "explanation": "The course review identifies Normal, laminar flow as the correct response. *(Practice review slide 13.)*",
+      "explanationImage": null,
+      "tags": [
+        "Doppler Types",
+        "Instrumentation",
+        "Doppler Optimization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch08-q122",
+      "stem": "An adult cardiac sonography student is interpreting a teaching case.  Which system control should be carefully adjusted if low-amplitude, high-velocity signals are obscured by intense, low-frequency background noise originating from adjacent cardiac wall movements?",
+      "image": null,
+      "options": [
+        "Sweep Speed",
+        "Sample Volume size",
+        "Colour Doppler Gain",
+        "Wall Filter"
+      ],
+      "answer": 3,
+      "explanation": "The course review identifies Wall Filter as the correct response. *(Practice review slide 15.)*",
+      "explanationImage": null,
+      "tags": [
+        "Doppler Types",
+        "Instrumentation",
+        "Doppler Optimization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch08-q123",
+      "stem": "An adult cardiac sonography student is interpreting a teaching case.  Why must an echocardiographer use caution when adjusting the Spectral Doppler Gain control during clinical quantification?",
+      "image": null,
+      "options": [
+        "It alters the underlying Pulse Repetition Frequency (PRF) of the transducer crystals",
+        "It directly artifactually shifts the established zero-velocity baseline position",
+        "High gain settings cause immediate, unrectifiable aliasing artifacts",
+        "Over-gaining can falsely increase spectral broadening, masking or mimicking turbulent flow profiles"
+      ],
+      "answer": 3,
+      "explanation": "The course review identifies Over-gaining can falsely increase spectral broadening, masking or mimicking turbulent flow profiles as the correct response. *(Practice review slide 17.)*",
+      "explanationImage": null,
+      "tags": [
+        "Doppler Types",
+        "Instrumentation",
+        "Doppler Optimization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch08-q124",
+      "stem": "An adult cardiac sonography student is interpreting a teaching case.  You notice that your spectral waveform display compresses too many cardiac cycles closely together, making individual velocity waveform analysis impossible. To spread the cycles out across the horizontal time axis, you should:. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "Increase the Sweep Speed",
+        "Decrease the overall Spectral Doppler Gain",
+        "Shift the zero-velocity baseline downward",
+        "Decrease the systemic Pulse Repetition Frequency (PRF)"
+      ],
+      "answer": 0,
+      "explanation": "The course review identifies Increase the Sweep Speed as the correct response. *(Practice review slide 19.)*",
+      "explanationImage": null,
+      "tags": [
+        "Doppler Types",
+        "Instrumentation",
+        "Doppler Optimization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch08-q125",
+      "stem": "An adult cardiac sonography student is interpreting a teaching case.  A sonographer increases the intercept angle between the ultrasound beam and the left ventricular outflow tract (LVOT) flow from 10 degrees to 41 degrees. What is the direct consequence of this shift on the calculated velocity shown on the spectral display?",
+      "image": null,
+      "options": [
+        "The calculated velocity accurately reflects the true physiological velocity",
+        "The calculated velocity becomes entirely dependent on the tissue wall filter setting",
+        "The calculated velocity significantly overestimates the true physiological velocity",
+        "The calculated velocity significantly underestimates the true physiological velocity"
+      ],
+      "answer": 3,
+      "explanation": "The course review identifies The calculated velocity significantly underestimates the true physiological velocity as the correct response. *(Practice review slide 21.)*",
+      "explanationImage": null,
+      "tags": [
+        "Doppler Types",
+        "Instrumentation",
+        "Doppler Optimization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch08-q126",
+      "stem": "An adult cardiac sonography student is interpreting a teaching case.  During a spectral Doppler examination of the mitral valve, the peak velocity of the E-wave wraps around the bottom of the display and appears at the top. Which instrument modification is most effective to resolve this specific spectral artifact?",
+      "image": null,
+      "options": [
+        "Increasing the velocity scale or pulse repetition frequency setting",
+        "Increasing the spectral Doppler gain setting",
+        "Decreasing the sample volume length to minimum",
+        "Increasing the spectral Doppler baseline setting upward"
+      ],
+      "answer": 0,
+      "explanation": "The course review identifies Increasing the velocity scale or pulse repetition frequency setting as the correct response. *(Practice review slide 23.)*",
+      "explanationImage": null,
+      "tags": [
+        "Doppler Types",
+        "Instrumentation",
+        "Doppler Optimization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch08-q127",
+      "stem": "An adult cardiac sonography student is interpreting a teaching case.  A sonographer is evaluating a patient with severe aortic stenosis. To accurately measure the peak systolic jet velocity, which Doppler modality must be selected?",
+      "image": null,
+      "options": [
+        "Colour Flow Imaging",
+        "Tissue Doppler Imaging",
+        "Pulsed Wave Doppler",
+        "Continuous Wave Doppler"
+      ],
+      "answer": 3,
+      "explanation": "The course review identifies Continuous Wave Doppler as the correct response. *(Practice review slide 25.)*",
+      "explanationImage": null,
+      "tags": [
+        "Doppler Types",
+        "Instrumentation",
+        "Doppler Optimization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch08-q128",
+      "stem": "An adult cardiac sonography student is interpreting a teaching case.  When adjusting the spectral Doppler gain to optimize a pulsed wave waveform, the sonographer notices the appearance of vertical gray smearing filling the normally clear window under the peak envelope. Which condition does this recreate?",
+      "image": null,
+      "options": [
+        "True laminar flow pattern",
+        "Mirror image artifact",
+        "Wall filter truncation",
+        "Artificial spectral broadening"
+      ],
+      "answer": 3,
+      "explanation": "The course review identifies Artificial spectral broadening as the correct response. *(Practice review slide 27.)*",
+      "explanationImage": null,
+      "tags": [
+        "Doppler Types",
+        "Instrumentation",
+        "Doppler Optimization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch08-q129",
+      "stem": "An adult cardiac sonography student is interpreting a teaching case.  During a professional practice case audit, a sonographer listens to the audio output of a spectral Doppler trace and hears a harsh, noisy acoustic signal. Which physiological state corresponds with this audio characteristic?",
+      "image": null,
+      "options": [
+        "Turbulent blood flow through a stenotic or regurgitant orifice",
+        "Rapid translational motion of a cardiac valve leaflet",
+        "Normal, unobstructed laminar blood flow",
+        "Low-velocity movement of the ventricular myocardium"
+      ],
+      "answer": 0,
+      "explanation": "The course review identifies Turbulent blood flow through a stenotic or regurgitant orifice as the correct response. *(Practice review slide 29.)*",
+      "explanationImage": null,
+      "tags": [
+        "Doppler Types",
+        "Instrumentation",
+        "Doppler Optimization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch08-q130",
+      "stem": "An adult cardiac sonography student is interpreting a teaching case.  A sonographer is using Colour Flow Imaging to quantify mitral regurgitation. If they reduce the colour velocity scale (PRF) excessively, what will falsely alter the appearance of the regurgitant jet?",
+      "image": null,
+      "options": [
+        "The colour signal disappears completely from the region of interest",
+        "The wall filter is automatically deactivated by the system",
+        "The colour variance displays a false mosaic, turbulent appearance",
+        "The spatial frame rate of the 2D image increases dramatically"
+      ],
+      "answer": 2,
+      "explanation": "The course review identifies The colour variance displays a false mosaic, turbulent appearance as the correct response. *(Practice review slide 31.)*",
+      "explanationImage": null,
+      "tags": [
+        "Doppler Types",
+        "Instrumentation",
+        "Doppler Optimization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch08-q131",
+      "stem": "An adult cardiac sonography student is interpreting a teaching case.  Which system setting must be altered to selectively display the high-velocity, low-amplitude signals of intra-cardiac blood flow while rejecting low-velocity, high-amplitude movements from structural tissue walls?",
+      "image": null,
+      "options": [
+        "Baseline Shift",
+        "Sample Volume Length",
+        "Sweep Speed",
+        "Wall Filter"
+      ],
+      "answer": 3,
+      "explanation": "The course review identifies Wall Filter as the correct response. *(Practice review slide 33.)*",
+      "explanationImage": null,
+      "tags": [
+        "Doppler Types",
+        "Instrumentation",
+        "Doppler Optimization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch08-q132",
+      "stem": "An adult cardiac sonography student is interpreting a teaching case.  When setting up a Tissue Doppler Imaging (TDI) assessment of the mitral annulus, how are the system control parameters fundamentally configured relative to standard blood-flow Pulsed Wave Doppler?",
+      "image": null,
+      "options": [
+        "The velocity scale is lowered, and the Doppler gain is reduced",
+        "The velocity scale is elevated, and the wall filter is maximized",
+        "The system activates an automated 60-degree angle-correction formula",
+        "The sample volume is positioned inside the centre of the valve orifice flow"
+      ],
+      "answer": 0,
+      "explanation": "The course review identifies The velocity scale is lowered, and the Doppler gain is reduced as the correct response. *(Practice review slide 35.)*",
+      "explanationImage": null,
+      "tags": [
+        "Doppler Types",
+        "Instrumentation",
+        "Doppler Optimization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch08-q133",
+      "stem": "An adult cardiac sonography student is interpreting a teaching case.  An adult patient with an aortic prosthesis requires evaluation for a suspected paravalvular leak. Why is Colour Flow Imaging preferred over standard 2D imaging for this assessment?",
+      "image": null,
+      "options": [
+        "It offers superior temporal resolution compared to standard M-mode",
+        "It eliminates acoustic shadowing artifacts produced by prosthetic rings",
+        "It operates independently of the angle-of-insonation limitation",
+        "It provides spatial mapping of blood-flow direction and velocity profiles superimposed on structural anatomy"
+      ],
+      "answer": 3,
+      "explanation": "The course review identifies It provides spatial mapping of blood-flow direction and velocity profiles superimposed on structural anatomy as the correct response. *(Practice review slide 37.)*",
+      "explanationImage": null,
+      "tags": [
+        "Doppler Types",
+        "Instrumentation",
+        "Doppler Optimization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch08-q134",
+      "stem": "An adult cardiac sonography student is interpreting a teaching case.  You observe a mosaic, multi-coloured pattern within the left atrium during ventricular systole on an adult echo study. To confirm whether this represents true turbulent regurgitation rather than an instrument artifact, which setting should be checked first?",
+      "image": null,
+      "options": [
+        "The depth setting, ensuring it is maximized",
+        "The horizontal sweep speed timeline control",
+        "Colour gain, ensuring it is not set too high to introduce false mosaic artifact noise",
+        "The matching M-mode sampling line alignment cursor"
+      ],
+      "answer": 2,
+      "explanation": "The course review identifies Colour gain, ensuring it is not set too high to introduce false mosaic artifact noise as the correct response. *(Practice review slide 39.)*",
+      "explanationImage": null,
+      "tags": [
+        "Doppler Types",
+        "Instrumentation",
+        "Doppler Optimization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch08-q135",
+      "stem": "An adult cardiac sonography student is interpreting a teaching case.  While optimizing an adult echocardiogram, you increase the size of the Colour Doppler sector box to cover the entire left ventricle and left atrium. What is the direct compromise of this adjustment?",
+      "image": null,
+      "options": [
+        "The maximum velocity limit of the colour scale increases significantly",
+        "The frame rate decreases, reducing the temporal resolution of the colour image",
+        "The system automatically switches the spectral display baseline",
+        "The wall filter automatically decreases to its lowest possible setting"
+      ],
+      "answer": 1,
+      "explanation": "The course review identifies The frame rate decreases, reducing the temporal resolution of the colour image as the correct response. *(Practice review slide 41.)*",
+      "explanationImage": null,
+      "tags": [
+        "Doppler Types",
+        "Instrumentation",
+        "Doppler Optimization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch08-q136",
+      "stem": "An adult cardiac sonography student is interpreting a teaching case.  When performing professional quantification according to ASE guidelines, what is the clinical significance of measuring the velocity time integral (VTI) with Pulsed Wave Doppler?",
+      "image": null,
+      "options": [
+        "It measures myocardial tissue stiffness independent of loading conditions",
+        "It calculates the exact regurgitant fraction without requiring structural diameter inputs",
+        "It isolates the maximum pressure drop across a stenotic valve plane",
+        "It represents the distance blood travels during a single cardiac cycle, which is essential for calculating stroke volume"
+      ],
+      "answer": 3,
+      "explanation": "The course review identifies It represents the distance blood travels during a single cardiac cycle, which is essential for calculating stroke volume as the correct response. *(Practice review slide 43.)*",
+      "explanationImage": null,
+      "tags": [
+        "Doppler Types",
+        "Instrumentation",
+        "Doppler Optimization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch08-q137",
+      "stem": "An adult cardiac sonography student is interpreting a teaching case.  During a quality-control check of the ultrasound system, a sonographer notes that the spectral trace displays a thick, broad band of velocities during early acceleration, even though the flow is known to be laminar. Which control adjustment helps resolve this instrument-induced broadening?",
+      "image": null,
+      "options": [
+        "Reducing the spectral Doppler receiver gain setting",
+        "Lowering the wall filter cutoff to its minimum threshold",
+        "Increasing the sample volume gate size to its maximum setting",
+        "Moving the baseline position to the top edge of the display"
+      ],
+      "answer": 0,
+      "explanation": "The course review identifies Reducing the spectral Doppler receiver gain setting as the correct response. *(Practice review slide 45.)*",
+      "explanationImage": null,
+      "tags": [
+        "Doppler Types",
+        "Instrumentation",
+        "Doppler Optimization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch08-q138",
+      "stem": "An adult cardiac sonography student is interpreting a teaching case.  A patient with suspected severe tricuspid regurgitation is being evaluated. The colour Doppler display shows a high-velocity jet in the right atrium, but the Continuous Wave Doppler signal is faint and difficult to trace. Which optimization action best enhances the signal-to-noise ratio of the spectral trace?",
+      "image": null,
+      "options": [
+        "Expanding the colour Doppler sector box to cover both atria",
+        "Increasing the wall filter setting to its highest available level",
+        "Lowering the horizontal sweep speed display setting to minimum",
+        "Adjusting the transducer position to optimize the intercept angle parallel to the regurgitant jet"
+      ],
+      "answer": 3,
+      "explanation": "The course review identifies Adjusting the transducer position to optimize the intercept angle parallel to the regurgitant jet as the correct response. *(Practice review slide 47.)*",
+      "explanationImage": null,
+      "tags": [
+        "Doppler Types",
+        "Instrumentation",
+        "Doppler Optimization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch08-q139",
+      "stem": "Before image acquisition, a sonographer checks their understanding of the following.  Based on the fundamental Doppler principle, what occurs to the detected frequency shift when blood flows directly away from the ultrasound transducer?",
+      "image": null,
+      "options": [
+        "The frequency shift increases",
+        "The frequency shift decreases",
+        "The frequency shift fluctuates dynamically regardless of direction",
+        "The frequency shift remains identical to the transmit frequency"
+      ],
+      "answer": 1,
+      "explanation": "The course review identifies The frequency shift decreases as the correct response. *(Practice review slide 3.)*",
+      "explanationImage": null,
+      "tags": [
+        "Doppler Types",
+        "Instrumentation",
+        "Doppler Optimization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch08-q140",
+      "stem": "Before image acquisition, a sonographer checks their understanding of the following.  Which variable in the conceptual Doppler equation (ΔF = 2·Ft·V·CosΘ / C) represents the speed of sound in human soft tissue?",
+      "image": null,
+      "options": [
+        "Δf",
+        "C",
+        "V",
+        "Ft"
+      ],
+      "answer": 1,
+      "explanation": "The course review identifies C as the correct response. *(Practice review slide 5.)*",
+      "explanationImage": null,
+      "tags": [
+        "Doppler Types",
+        "Instrumentation",
+        "Doppler Optimization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch08-q141",
+      "stem": "Before image acquisition, a sonographer checks their understanding of the following.  When assessing high-velocity blood flow through a severely stenotic aortic valve, what is the primary diagnostic advantage of Continuous Wave (CW) Doppler over Pulsed Wave (PW) Doppler?",
+      "image": null,
+      "options": [
+        "Immunity to the aliasing phenomenon, allowing accurate measurement of maximum high velocities",
+        "Superior range resolution at a specific sample volume depth",
+        "Enhanced measurement of low-velocity tissue displacements within the myocardium",
+        "Incorporation of colour-coded velocity variances across a broad sector region"
+      ],
+      "answer": 0,
+      "explanation": "The course review identifies Immunity to the aliasing phenomenon, allowing accurate measurement of maximum high velocities as the correct response. *(Practice review slide 7.)*",
+      "explanationImage": null,
+      "tags": [
+        "Doppler Types",
+        "Instrumentation",
+        "Doppler Optimization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch08-q142",
+      "stem": "Before image acquisition, a sonographer checks their understanding of the following.  Out of following options, what is the best angle of insonation to achieve most accuracy (measurement error) when calculating blood flow velocities?",
+      "image": null,
+      "options": [
+        "60 degrees",
+        "20 degrees",
+        "30 degrees",
+        "10 degrees"
+      ],
+      "answer": 3,
+      "explanation": "Among the options offered, 10° is closest to parallel, so it carries the least cosine error. *(Practice review slide 9.)*",
+      "explanationImage": null,
+      "tags": [
+        "Doppler Types",
+        "Instrumentation",
+        "Doppler Optimization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch08-q143",
+      "stem": "Before image acquisition, a sonographer checks their understanding of the following.  The maximum measurable velocity limit without experiencing signal wrap-around in Pulsed Wave Doppler is strictly governed by which boundary?",
+      "image": null,
+      "options": [
+        "The Mechanical Index (MI)",
+        "The Thermal Index (TI)",
+        "The Nyquist Limit",
+        "The Wall Filter threshold"
+      ],
+      "answer": 2,
+      "explanation": "The course review identifies The Nyquist Limit as the correct response. *(Practice review slide 11.)*",
+      "explanationImage": null,
+      "tags": [
+        "Doppler Types",
+        "Instrumentation",
+        "Doppler Optimization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch08-q144",
+      "stem": "Before image acquisition, a sonographer checks their understanding of the following.  While performing a spectral Doppler assessment, you observe a smooth, rhythmic audio output from the system speakers. This auditory characteristic typically signifies which type of blood flow?",
+      "image": null,
+      "options": [
+        "Normal, laminar flow",
+        "Highly stenotic restrictive flow",
+        "Turbulent flow",
+        "Severe regurgitant jet flow"
+      ],
+      "answer": 0,
+      "explanation": "The course review identifies Normal, laminar flow as the correct response. *(Practice review slide 13.)*",
+      "explanationImage": null,
+      "tags": [
+        "Doppler Types",
+        "Instrumentation",
+        "Doppler Optimization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch08-q145",
+      "stem": "Before image acquisition, a sonographer checks their understanding of the following.  Which system control should be carefully adjusted if low-amplitude, high-velocity signals are obscured by intense, low-frequency background noise originating from adjacent cardiac wall movements?",
+      "image": null,
+      "options": [
+        "Colour Doppler Gain",
+        "Wall Filter",
+        "Sample Volume size",
+        "Sweep Speed"
+      ],
+      "answer": 1,
+      "explanation": "The course review identifies Wall Filter as the correct response. *(Practice review slide 15.)*",
+      "explanationImage": null,
+      "tags": [
+        "Doppler Types",
+        "Instrumentation",
+        "Doppler Optimization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch08-q146",
+      "stem": "Before image acquisition, a sonographer checks their understanding of the following.  Why must an echocardiographer use caution when adjusting the Spectral Doppler Gain control during clinical quantification?",
+      "image": null,
+      "options": [
+        "It directly artifactually shifts the established zero-velocity baseline position",
+        "Over-gaining can falsely increase spectral broadening, masking or mimicking turbulent flow profiles",
+        "High gain settings cause immediate, unrectifiable aliasing artifacts",
+        "It alters the underlying Pulse Repetition Frequency (PRF) of the transducer crystals"
+      ],
+      "answer": 1,
+      "explanation": "The course review identifies Over-gaining can falsely increase spectral broadening, masking or mimicking turbulent flow profiles as the correct response. *(Practice review slide 17.)*",
+      "explanationImage": null,
+      "tags": [
+        "Doppler Types",
+        "Instrumentation",
+        "Doppler Optimization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch08-q147",
+      "stem": "Before image acquisition, a sonographer checks their understanding of the following.  You notice that your spectral waveform display compresses too many cardiac cycles closely together, making individual velocity waveform analysis impossible. To spread the cycles out across the horizontal time axis, you should:. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "Decrease the systemic Pulse Repetition Frequency (PRF)",
+        "Shift the zero-velocity baseline downward",
+        "Increase the Sweep Speed",
+        "Decrease the overall Spectral Doppler Gain"
+      ],
+      "answer": 2,
+      "explanation": "The course review identifies Increase the Sweep Speed as the correct response. *(Practice review slide 19.)*",
+      "explanationImage": null,
+      "tags": [
+        "Doppler Types",
+        "Instrumentation",
+        "Doppler Optimization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch08-q148",
+      "stem": "Before image acquisition, a sonographer checks their understanding of the following.  A sonographer increases the intercept angle between the ultrasound beam and the left ventricular outflow tract (LVOT) flow from 10 degrees to 41 degrees. What is the direct consequence of this shift on the calculated velocity shown on the spectral display?",
+      "image": null,
+      "options": [
+        "The calculated velocity significantly underestimates the true physiological velocity",
+        "The calculated velocity significantly overestimates the true physiological velocity",
+        "The calculated velocity becomes entirely dependent on the tissue wall filter setting",
+        "The calculated velocity accurately reflects the true physiological velocity"
+      ],
+      "answer": 0,
+      "explanation": "The course review identifies The calculated velocity significantly underestimates the true physiological velocity as the correct response. *(Practice review slide 21.)*",
+      "explanationImage": null,
+      "tags": [
+        "Doppler Types",
+        "Instrumentation",
+        "Doppler Optimization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch08-q149",
+      "stem": "Before image acquisition, a sonographer checks their understanding of the following.  During a spectral Doppler examination of the mitral valve, the peak velocity of the E-wave wraps around the bottom of the display and appears at the top. Which instrument modification is most effective to resolve this specific spectral artifact?",
+      "image": null,
+      "options": [
+        "Increasing the velocity scale or pulse repetition frequency setting",
+        "Increasing the spectral Doppler baseline setting upward",
+        "Increasing the spectral Doppler gain setting",
+        "Decreasing the sample volume length to minimum"
+      ],
+      "answer": 0,
+      "explanation": "The course review identifies Increasing the velocity scale or pulse repetition frequency setting as the correct response. *(Practice review slide 23.)*",
+      "explanationImage": null,
+      "tags": [
+        "Doppler Types",
+        "Instrumentation",
+        "Doppler Optimization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch08-q150",
+      "stem": "Before image acquisition, a sonographer checks their understanding of the following.  A sonographer is evaluating a patient with severe aortic stenosis. To accurately measure the peak systolic jet velocity, which Doppler modality must be selected?",
+      "image": null,
+      "options": [
+        "Pulsed Wave Doppler",
+        "Tissue Doppler Imaging",
+        "Continuous Wave Doppler",
+        "Colour Flow Imaging"
+      ],
+      "answer": 2,
+      "explanation": "The course review identifies Continuous Wave Doppler as the correct response. *(Practice review slide 25.)*",
+      "explanationImage": null,
+      "tags": [
+        "Doppler Types",
+        "Instrumentation",
+        "Doppler Optimization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch08-q151",
+      "stem": "Before image acquisition, a sonographer checks their understanding of the following.  When adjusting the spectral Doppler gain to optimize a pulsed wave waveform, the sonographer notices the appearance of vertical gray smearing filling the normally clear window under the peak envelope. Which condition does this recreate?",
+      "image": null,
+      "options": [
+        "Wall filter truncation",
+        "Mirror image artifact",
+        "Artificial spectral broadening",
+        "True laminar flow pattern"
+      ],
+      "answer": 2,
+      "explanation": "The course review identifies Artificial spectral broadening as the correct response. *(Practice review slide 27.)*",
+      "explanationImage": null,
+      "tags": [
+        "Doppler Types",
+        "Instrumentation",
+        "Doppler Optimization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch08-q152",
+      "stem": "Before image acquisition, a sonographer checks their understanding of the following.  During a professional practice case audit, a sonographer listens to the audio output of a spectral Doppler trace and hears a harsh, noisy acoustic signal. Which physiological state corresponds with this audio characteristic?",
+      "image": null,
+      "options": [
+        "Low-velocity movement of the ventricular myocardium",
+        "Rapid translational motion of a cardiac valve leaflet",
+        "Normal, unobstructed laminar blood flow",
+        "Turbulent blood flow through a stenotic or regurgitant orifice"
+      ],
+      "answer": 3,
+      "explanation": "The course review identifies Turbulent blood flow through a stenotic or regurgitant orifice as the correct response. *(Practice review slide 29.)*",
+      "explanationImage": null,
+      "tags": [
+        "Doppler Types",
+        "Instrumentation",
+        "Doppler Optimization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch08-q153",
+      "stem": "Before image acquisition, a sonographer checks their understanding of the following.  A sonographer is using Colour Flow Imaging to quantify mitral regurgitation. If they reduce the colour velocity scale (PRF) excessively, what will falsely alter the appearance of the regurgitant jet?",
+      "image": null,
+      "options": [
+        "The spatial frame rate of the 2D image increases dramatically",
+        "The colour signal disappears completely from the region of interest",
+        "The wall filter is automatically deactivated by the system",
+        "The colour variance displays a false mosaic, turbulent appearance"
+      ],
+      "answer": 3,
+      "explanation": "The course review identifies The colour variance displays a false mosaic, turbulent appearance as the correct response. *(Practice review slide 31.)*",
+      "explanationImage": null,
+      "tags": [
+        "Doppler Types",
+        "Instrumentation",
+        "Doppler Optimization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch08-q154",
+      "stem": "Before image acquisition, a sonographer checks their understanding of the following.  Which system setting must be altered to selectively display the high-velocity, low-amplitude signals of intra-cardiac blood flow while rejecting low-velocity, high-amplitude movements from structural tissue walls?",
+      "image": null,
+      "options": [
+        "Wall Filter",
+        "Sample Volume Length",
+        "Sweep Speed",
+        "Baseline Shift"
+      ],
+      "answer": 0,
+      "explanation": "The course review identifies Wall Filter as the correct response. *(Practice review slide 33.)*",
+      "explanationImage": null,
+      "tags": [
+        "Doppler Types",
+        "Instrumentation",
+        "Doppler Optimization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch08-q155",
+      "stem": "Before image acquisition, a sonographer checks their understanding of the following.  When setting up a Tissue Doppler Imaging (TDI) assessment of the mitral annulus, how are the system control parameters fundamentally configured relative to standard blood-flow Pulsed Wave Doppler?",
+      "image": null,
+      "options": [
+        "The velocity scale is lowered, and the Doppler gain is reduced",
+        "The velocity scale is elevated, and the wall filter is maximized",
+        "The system activates an automated 60-degree angle-correction formula",
+        "The sample volume is positioned inside the centre of the valve orifice flow"
+      ],
+      "answer": 0,
+      "explanation": "The course review identifies The velocity scale is lowered, and the Doppler gain is reduced as the correct response. *(Practice review slide 35.)*",
+      "explanationImage": null,
+      "tags": [
+        "Doppler Types",
+        "Instrumentation",
+        "Doppler Optimization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch08-q156",
+      "stem": "Before image acquisition, a sonographer checks their understanding of the following.  An adult patient with an aortic prosthesis requires evaluation for a suspected paravalvular leak. Why is Colour Flow Imaging preferred over standard 2D imaging for this assessment?",
+      "image": null,
+      "options": [
+        "It offers superior temporal resolution compared to standard M-mode",
+        "It operates independently of the angle-of-insonation limitation",
+        "It eliminates acoustic shadowing artifacts produced by prosthetic rings",
+        "It provides spatial mapping of blood-flow direction and velocity profiles superimposed on structural anatomy"
+      ],
+      "answer": 3,
+      "explanation": "The course review identifies It provides spatial mapping of blood-flow direction and velocity profiles superimposed on structural anatomy as the correct response. *(Practice review slide 37.)*",
+      "explanationImage": null,
+      "tags": [
+        "Doppler Types",
+        "Instrumentation",
+        "Doppler Optimization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch08-q157",
+      "stem": "Before image acquisition, a sonographer checks their understanding of the following.  You observe a mosaic, multi-coloured pattern within the left atrium during ventricular systole on an adult echo study. To confirm whether this represents true turbulent regurgitation rather than an instrument artifact, which setting should be checked first?",
+      "image": null,
+      "options": [
+        "The horizontal sweep speed timeline control",
+        "The depth setting, ensuring it is maximized",
+        "Colour gain, ensuring it is not set too high to introduce false mosaic artifact noise",
+        "The matching M-mode sampling line alignment cursor"
+      ],
+      "answer": 2,
+      "explanation": "The course review identifies Colour gain, ensuring it is not set too high to introduce false mosaic artifact noise as the correct response. *(Practice review slide 39.)*",
+      "explanationImage": null,
+      "tags": [
+        "Doppler Types",
+        "Instrumentation",
+        "Doppler Optimization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch08-q158",
+      "stem": "Before image acquisition, a sonographer checks their understanding of the following.  While optimizing an adult echocardiogram, you increase the size of the Colour Doppler sector box to cover the entire left ventricle and left atrium. What is the direct compromise of this adjustment?",
+      "image": null,
+      "options": [
+        "The wall filter automatically decreases to its lowest possible setting",
+        "The frame rate decreases, reducing the temporal resolution of the colour image",
+        "The maximum velocity limit of the colour scale increases significantly",
+        "The system automatically switches the spectral display baseline"
+      ],
+      "answer": 1,
+      "explanation": "The course review identifies The frame rate decreases, reducing the temporal resolution of the colour image as the correct response. *(Practice review slide 41.)*",
+      "explanationImage": null,
+      "tags": [
+        "Doppler Types",
+        "Instrumentation",
+        "Doppler Optimization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch08-q159",
+      "stem": "Before image acquisition, a sonographer checks their understanding of the following.  When performing professional quantification according to ASE guidelines, what is the clinical significance of measuring the velocity time integral (VTI) with Pulsed Wave Doppler?",
+      "image": null,
+      "options": [
+        "It isolates the maximum pressure drop across a stenotic valve plane",
+        "It measures myocardial tissue stiffness independent of loading conditions",
+        "It calculates the exact regurgitant fraction without requiring structural diameter inputs",
+        "It represents the distance blood travels during a single cardiac cycle, which is essential for calculating stroke volume"
+      ],
+      "answer": 3,
+      "explanation": "The course review identifies It represents the distance blood travels during a single cardiac cycle, which is essential for calculating stroke volume as the correct response. *(Practice review slide 43.)*",
+      "explanationImage": null,
+      "tags": [
+        "Doppler Types",
+        "Instrumentation",
+        "Doppler Optimization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch08-q160",
+      "stem": "Before image acquisition, a sonographer checks their understanding of the following.  During a quality-control check of the ultrasound system, a sonographer notes that the spectral trace displays a thick, broad band of velocities during early acceleration, even though the flow is known to be laminar. Which control adjustment helps resolve this instrument-induced broadening?",
+      "image": null,
+      "options": [
+        "Reducing the spectral Doppler receiver gain setting",
+        "Increasing the sample volume gate size to its maximum setting",
+        "Lowering the wall filter cutoff to its minimum threshold",
+        "Moving the baseline position to the top edge of the display"
+      ],
+      "answer": 0,
+      "explanation": "The course review identifies Reducing the spectral Doppler receiver gain setting as the correct response. *(Practice review slide 45.)*",
+      "explanationImage": null,
+      "tags": [
+        "Doppler Types",
+        "Instrumentation",
+        "Doppler Optimization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch08-q161",
+      "stem": "Before image acquisition, a sonographer checks their understanding of the following.  A patient with suspected severe tricuspid regurgitation is being evaluated. The colour Doppler display shows a high-velocity jet in the right atrium, but the Continuous Wave Doppler signal is faint and difficult to trace. Which optimization action best enhances the signal-to-noise ratio of the spectral trace?",
+      "image": null,
+      "options": [
+        "Expanding the colour Doppler sector box to cover both atria",
+        "Increasing the wall filter setting to its highest available level",
+        "Lowering the horizontal sweep speed display setting to minimum",
+        "Adjusting the transducer position to optimize the intercept angle parallel to the regurgitant jet"
+      ],
+      "answer": 3,
+      "explanation": "The course review identifies Adjusting the transducer position to optimize the intercept angle parallel to the regurgitant jet as the correct response. *(Practice review slide 47.)*",
+      "explanationImage": null,
+      "tags": [
+        "Doppler Types",
+        "Instrumentation",
+        "Doppler Optimization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch08-q162",
+      "stem": "In a laboratory teaching session, the instructor asks:  Based on the fundamental Doppler principle, what occurs to the detected frequency shift when blood flows directly away from the ultrasound transducer?",
+      "image": null,
+      "options": [
+        "The frequency shift remains identical to the transmit frequency",
+        "The frequency shift increases",
+        "The frequency shift fluctuates dynamically regardless of direction",
+        "The frequency shift decreases"
+      ],
+      "answer": 3,
+      "explanation": "The course review identifies The frequency shift decreases as the correct response. *(Practice review slide 3.)*",
+      "explanationImage": null,
+      "tags": [
+        "Doppler Types",
+        "Instrumentation",
+        "Doppler Optimization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch08-q163",
+      "stem": "In a laboratory teaching session, the instructor asks:  Which variable in the conceptual Doppler equation (ΔF = 2·Ft·V·CosΘ / C) represents the speed of sound in human soft tissue?",
+      "image": null,
+      "options": [
+        "Δf",
+        "V",
+        "C",
+        "Ft"
+      ],
+      "answer": 2,
+      "explanation": "The course review identifies C as the correct response. *(Practice review slide 5.)*",
+      "explanationImage": null,
+      "tags": [
+        "Doppler Types",
+        "Instrumentation",
+        "Doppler Optimization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch08-q164",
+      "stem": "In a laboratory teaching session, the instructor asks:  When assessing high-velocity blood flow through a severely stenotic aortic valve, what is the primary diagnostic advantage of Continuous Wave (CW) Doppler over Pulsed Wave (PW) Doppler?",
+      "image": null,
+      "options": [
+        "Incorporation of colour-coded velocity variances across a broad sector region",
+        "Enhanced measurement of low-velocity tissue displacements within the myocardium",
+        "Immunity to the aliasing phenomenon, allowing accurate measurement of maximum high velocities",
+        "Superior range resolution at a specific sample volume depth"
+      ],
+      "answer": 2,
+      "explanation": "The course review identifies Immunity to the aliasing phenomenon, allowing accurate measurement of maximum high velocities as the correct response. *(Practice review slide 7.)*",
+      "explanationImage": null,
+      "tags": [
+        "Doppler Types",
+        "Instrumentation",
+        "Doppler Optimization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch08-q165",
+      "stem": "In a laboratory teaching session, the instructor asks:  Out of following options, what is the best angle of insonation to achieve most accuracy (measurement error) when calculating blood flow velocities?",
+      "image": null,
+      "options": [
+        "30 degrees",
+        "10 degrees",
+        "60 degrees",
+        "20 degrees"
+      ],
+      "answer": 1,
+      "explanation": "Among the options offered, 10° is closest to parallel, so it carries the least cosine error. *(Practice review slide 9.)*",
+      "explanationImage": null,
+      "tags": [
+        "Doppler Types",
+        "Instrumentation",
+        "Doppler Optimization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch08-q166",
+      "stem": "In a laboratory teaching session, the instructor asks:  The maximum measurable velocity limit without experiencing signal wrap-around in Pulsed Wave Doppler is strictly governed by which boundary?",
+      "image": null,
+      "options": [
+        "The Nyquist Limit",
+        "The Wall Filter threshold",
+        "The Mechanical Index (MI)",
+        "The Thermal Index (TI)"
+      ],
+      "answer": 0,
+      "explanation": "The course review identifies The Nyquist Limit as the correct response. *(Practice review slide 11.)*",
+      "explanationImage": null,
+      "tags": [
+        "Doppler Types",
+        "Instrumentation",
+        "Doppler Optimization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch08-q167",
+      "stem": "In a laboratory teaching session, the instructor asks:  While performing a spectral Doppler assessment, you observe a smooth, rhythmic audio output from the system speakers. This auditory characteristic typically signifies which type of blood flow?",
+      "image": null,
+      "options": [
+        "Severe regurgitant jet flow",
+        "Normal, laminar flow",
+        "Turbulent flow",
+        "Highly stenotic restrictive flow"
+      ],
+      "answer": 1,
+      "explanation": "The course review identifies Normal, laminar flow as the correct response. *(Practice review slide 13.)*",
+      "explanationImage": null,
+      "tags": [
+        "Doppler Types",
+        "Instrumentation",
+        "Doppler Optimization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch08-q168",
+      "stem": "In a laboratory teaching session, the instructor asks:  Which system control should be carefully adjusted if low-amplitude, high-velocity signals are obscured by intense, low-frequency background noise originating from adjacent cardiac wall movements?",
+      "image": null,
+      "options": [
+        "Sample Volume size",
+        "Sweep Speed",
+        "Wall Filter",
+        "Colour Doppler Gain"
+      ],
+      "answer": 2,
+      "explanation": "The course review identifies Wall Filter as the correct response. *(Practice review slide 15.)*",
+      "explanationImage": null,
+      "tags": [
+        "Doppler Types",
+        "Instrumentation",
+        "Doppler Optimization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch08-q169",
+      "stem": "In a laboratory teaching session, the instructor asks:  Why must an echocardiographer use caution when adjusting the Spectral Doppler Gain control during clinical quantification?",
+      "image": null,
+      "options": [
+        "High gain settings cause immediate, unrectifiable aliasing artifacts",
+        "It alters the underlying Pulse Repetition Frequency (PRF) of the transducer crystals",
+        "It directly artifactually shifts the established zero-velocity baseline position",
+        "Over-gaining can falsely increase spectral broadening, masking or mimicking turbulent flow profiles"
+      ],
+      "answer": 3,
+      "explanation": "The course review identifies Over-gaining can falsely increase spectral broadening, masking or mimicking turbulent flow profiles as the correct response. *(Practice review slide 17.)*",
+      "explanationImage": null,
+      "tags": [
+        "Doppler Types",
+        "Instrumentation",
+        "Doppler Optimization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch08-q170",
+      "stem": "In a laboratory teaching session, the instructor asks:  You notice that your spectral waveform display compresses too many cardiac cycles closely together, making individual velocity waveform analysis impossible. To spread the cycles out across the horizontal time axis, you should:. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "Shift the zero-velocity baseline downward",
+        "Increase the Sweep Speed",
+        "Decrease the systemic Pulse Repetition Frequency (PRF)",
+        "Decrease the overall Spectral Doppler Gain"
+      ],
+      "answer": 1,
+      "explanation": "The course review identifies Increase the Sweep Speed as the correct response. *(Practice review slide 19.)*",
+      "explanationImage": null,
+      "tags": [
+        "Doppler Types",
+        "Instrumentation",
+        "Doppler Optimization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch08-q171",
+      "stem": "In a laboratory teaching session, the instructor asks:  A sonographer increases the intercept angle between the ultrasound beam and the left ventricular outflow tract (LVOT) flow from 10 degrees to 41 degrees. What is the direct consequence of this shift on the calculated velocity shown on the spectral display?",
+      "image": null,
+      "options": [
+        "The calculated velocity significantly overestimates the true physiological velocity",
+        "The calculated velocity significantly underestimates the true physiological velocity",
+        "The calculated velocity accurately reflects the true physiological velocity",
+        "The calculated velocity becomes entirely dependent on the tissue wall filter setting"
+      ],
+      "answer": 1,
+      "explanation": "The course review identifies The calculated velocity significantly underestimates the true physiological velocity as the correct response. *(Practice review slide 21.)*",
+      "explanationImage": null,
+      "tags": [
+        "Doppler Types",
+        "Instrumentation",
+        "Doppler Optimization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch08-q172",
+      "stem": "In a laboratory teaching session, the instructor asks:  During a spectral Doppler examination of the mitral valve, the peak velocity of the E-wave wraps around the bottom of the display and appears at the top. Which instrument modification is most effective to resolve this specific spectral artifact?",
+      "image": null,
+      "options": [
+        "Increasing the spectral Doppler baseline setting upward",
+        "Increasing the velocity scale or pulse repetition frequency setting",
+        "Decreasing the sample volume length to minimum",
+        "Increasing the spectral Doppler gain setting"
+      ],
+      "answer": 1,
+      "explanation": "The course review identifies Increasing the velocity scale or pulse repetition frequency setting as the correct response. *(Practice review slide 23.)*",
+      "explanationImage": null,
+      "tags": [
+        "Doppler Types",
+        "Instrumentation",
+        "Doppler Optimization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch08-q173",
+      "stem": "In a laboratory teaching session, the instructor asks:  A sonographer is evaluating a patient with severe aortic stenosis. To accurately measure the peak systolic jet velocity, which Doppler modality must be selected?",
+      "image": null,
+      "options": [
+        "Pulsed Wave Doppler",
+        "Colour Flow Imaging",
+        "Continuous Wave Doppler",
+        "Tissue Doppler Imaging"
+      ],
+      "answer": 2,
+      "explanation": "The course review identifies Continuous Wave Doppler as the correct response. *(Practice review slide 25.)*",
+      "explanationImage": null,
+      "tags": [
+        "Doppler Types",
+        "Instrumentation",
+        "Doppler Optimization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch08-q174",
+      "stem": "In a laboratory teaching session, the instructor asks:  When adjusting the spectral Doppler gain to optimize a pulsed wave waveform, the sonographer notices the appearance of vertical gray smearing filling the normally clear window under the peak envelope. Which condition does this recreate?",
+      "image": null,
+      "options": [
+        "Mirror image artifact",
+        "Wall filter truncation",
+        "Artificial spectral broadening",
+        "True laminar flow pattern"
+      ],
+      "answer": 2,
+      "explanation": "The course review identifies Artificial spectral broadening as the correct response. *(Practice review slide 27.)*",
+      "explanationImage": null,
+      "tags": [
+        "Doppler Types",
+        "Instrumentation",
+        "Doppler Optimization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch08-q175",
+      "stem": "In a laboratory teaching session, the instructor asks:  During a professional practice case audit, a sonographer listens to the audio output of a spectral Doppler trace and hears a harsh, noisy acoustic signal. Which physiological state corresponds with this audio characteristic?",
+      "image": null,
+      "options": [
+        "Rapid translational motion of a cardiac valve leaflet",
+        "Turbulent blood flow through a stenotic or regurgitant orifice",
+        "Normal, unobstructed laminar blood flow",
+        "Low-velocity movement of the ventricular myocardium"
+      ],
+      "answer": 1,
+      "explanation": "The course review identifies Turbulent blood flow through a stenotic or regurgitant orifice as the correct response. *(Practice review slide 29.)*",
+      "explanationImage": null,
+      "tags": [
+        "Doppler Types",
+        "Instrumentation",
+        "Doppler Optimization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch08-q176",
+      "stem": "In a laboratory teaching session, the instructor asks:  A sonographer is using Colour Flow Imaging to quantify mitral regurgitation. If they reduce the colour velocity scale (PRF) excessively, what will falsely alter the appearance of the regurgitant jet?",
+      "image": null,
+      "options": [
+        "The spatial frame rate of the 2D image increases dramatically",
+        "The colour signal disappears completely from the region of interest",
+        "The wall filter is automatically deactivated by the system",
+        "The colour variance displays a false mosaic, turbulent appearance"
+      ],
+      "answer": 3,
+      "explanation": "The course review identifies The colour variance displays a false mosaic, turbulent appearance as the correct response. *(Practice review slide 31.)*",
+      "explanationImage": null,
+      "tags": [
+        "Doppler Types",
+        "Instrumentation",
+        "Doppler Optimization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch08-q177",
+      "stem": "In a laboratory teaching session, the instructor asks:  Which system setting must be altered to selectively display the high-velocity, low-amplitude signals of intra-cardiac blood flow while rejecting low-velocity, high-amplitude movements from structural tissue walls?",
+      "image": null,
+      "options": [
+        "Wall Filter",
+        "Sample Volume Length",
+        "Sweep Speed",
+        "Baseline Shift"
+      ],
+      "answer": 0,
+      "explanation": "The course review identifies Wall Filter as the correct response. *(Practice review slide 33.)*",
+      "explanationImage": null,
+      "tags": [
+        "Doppler Types",
+        "Instrumentation",
+        "Doppler Optimization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch08-q178",
+      "stem": "In a laboratory teaching session, the instructor asks:  When setting up a Tissue Doppler Imaging (TDI) assessment of the mitral annulus, how are the system control parameters fundamentally configured relative to standard blood-flow Pulsed Wave Doppler?",
+      "image": null,
+      "options": [
+        "The velocity scale is lowered, and the Doppler gain is reduced",
+        "The velocity scale is elevated, and the wall filter is maximized",
+        "The sample volume is positioned inside the centre of the valve orifice flow",
+        "The system activates an automated 60-degree angle-correction formula"
+      ],
+      "answer": 0,
+      "explanation": "The course review identifies The velocity scale is lowered, and the Doppler gain is reduced as the correct response. *(Practice review slide 35.)*",
+      "explanationImage": null,
+      "tags": [
+        "Doppler Types",
+        "Instrumentation",
+        "Doppler Optimization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch08-q179",
+      "stem": "In a laboratory teaching session, the instructor asks:  An adult patient with an aortic prosthesis requires evaluation for a suspected paravalvular leak. Why is Colour Flow Imaging preferred over standard 2D imaging for this assessment?",
+      "image": null,
+      "options": [
+        "It offers superior temporal resolution compared to standard M-mode",
+        "It operates independently of the angle-of-insonation limitation",
+        "It eliminates acoustic shadowing artifacts produced by prosthetic rings",
+        "It provides spatial mapping of blood-flow direction and velocity profiles superimposed on structural anatomy"
+      ],
+      "answer": 3,
+      "explanation": "The course review identifies It provides spatial mapping of blood-flow direction and velocity profiles superimposed on structural anatomy as the correct response. *(Practice review slide 37.)*",
+      "explanationImage": null,
+      "tags": [
+        "Doppler Types",
+        "Instrumentation",
+        "Doppler Optimization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch08-q180",
+      "stem": "In a laboratory teaching session, the instructor asks:  You observe a mosaic, multi-coloured pattern within the left atrium during ventricular systole on an adult echo study. To confirm whether this represents true turbulent regurgitation rather than an instrument artifact, which setting should be checked first?",
+      "image": null,
+      "options": [
+        "The matching M-mode sampling line alignment cursor",
+        "Colour gain, ensuring it is not set too high to introduce false mosaic artifact noise",
+        "The horizontal sweep speed timeline control",
+        "The depth setting, ensuring it is maximized"
+      ],
+      "answer": 1,
+      "explanation": "The course review identifies Colour gain, ensuring it is not set too high to introduce false mosaic artifact noise as the correct response. *(Practice review slide 39.)*",
+      "explanationImage": null,
+      "tags": [
+        "Doppler Types",
+        "Instrumentation",
+        "Doppler Optimization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch08-q181",
+      "stem": "In a laboratory teaching session, the instructor asks:  While optimizing an adult echocardiogram, you increase the size of the Colour Doppler sector box to cover the entire left ventricle and left atrium. What is the direct compromise of this adjustment?",
+      "image": null,
+      "options": [
+        "The maximum velocity limit of the colour scale increases significantly",
+        "The frame rate decreases, reducing the temporal resolution of the colour image",
+        "The system automatically switches the spectral display baseline",
+        "The wall filter automatically decreases to its lowest possible setting"
+      ],
+      "answer": 1,
+      "explanation": "The course review identifies The frame rate decreases, reducing the temporal resolution of the colour image as the correct response. *(Practice review slide 41.)*",
+      "explanationImage": null,
+      "tags": [
+        "Doppler Types",
+        "Instrumentation",
+        "Doppler Optimization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch08-q182",
+      "stem": "In a laboratory teaching session, the instructor asks:  When performing professional quantification according to ASE guidelines, what is the clinical significance of measuring the velocity time integral (VTI) with Pulsed Wave Doppler?",
+      "image": null,
+      "options": [
+        "It measures myocardial tissue stiffness independent of loading conditions",
+        "It represents the distance blood travels during a single cardiac cycle, which is essential for calculating stroke volume",
+        "It isolates the maximum pressure drop across a stenotic valve plane",
+        "It calculates the exact regurgitant fraction without requiring structural diameter inputs"
+      ],
+      "answer": 1,
+      "explanation": "The course review identifies It represents the distance blood travels during a single cardiac cycle, which is essential for calculating stroke volume as the correct response. *(Practice review slide 43.)*",
+      "explanationImage": null,
+      "tags": [
+        "Doppler Types",
+        "Instrumentation",
+        "Doppler Optimization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch08-q183",
+      "stem": "In a laboratory teaching session, the instructor asks:  During a quality-control check of the ultrasound system, a sonographer notes that the spectral trace displays a thick, broad band of velocities during early acceleration, even though the flow is known to be laminar. Which control adjustment helps resolve this instrument-induced broadening?",
+      "image": null,
+      "options": [
+        "Reducing the spectral Doppler receiver gain setting",
+        "Increasing the sample volume gate size to its maximum setting",
+        "Lowering the wall filter cutoff to its minimum threshold",
+        "Moving the baseline position to the top edge of the display"
+      ],
+      "answer": 0,
+      "explanation": "The course review identifies Reducing the spectral Doppler receiver gain setting as the correct response. *(Practice review slide 45.)*",
+      "explanationImage": null,
+      "tags": [
+        "Doppler Types",
+        "Instrumentation",
+        "Doppler Optimization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch08-q184",
+      "stem": "In a laboratory teaching session, the instructor asks:  A patient with suspected severe tricuspid regurgitation is being evaluated. The colour Doppler display shows a high-velocity jet in the right atrium, but the Continuous Wave Doppler signal is faint and difficult to trace. Which optimization action best enhances the signal-to-noise ratio of the spectral trace?",
+      "image": null,
+      "options": [
+        "Expanding the colour Doppler sector box to cover both atria",
+        "Increasing the wall filter setting to its highest available level",
+        "Lowering the horizontal sweep speed display setting to minimum",
+        "Adjusting the transducer position to optimize the intercept angle parallel to the regurgitant jet"
+      ],
+      "answer": 3,
+      "explanation": "The course review identifies Adjusting the transducer position to optimize the intercept angle parallel to the regurgitant jet as the correct response. *(Practice review slide 47.)*",
+      "explanationImage": null,
+      "tags": [
+        "Doppler Types",
+        "Instrumentation",
+        "Doppler Optimization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch08-q185",
+      "stem": "During a mock adult echocardiography board examination, consider the following.  Based on the fundamental Doppler principle, what occurs to the detected frequency shift when blood flows directly away from the ultrasound transducer?",
+      "image": null,
+      "options": [
+        "The frequency shift remains identical to the transmit frequency",
+        "The frequency shift fluctuates dynamically regardless of direction",
+        "The frequency shift decreases",
+        "The frequency shift increases"
+      ],
+      "answer": 2,
+      "explanation": "The course review identifies The frequency shift decreases as the correct response. *(Practice review slide 3.)*",
+      "explanationImage": null,
+      "tags": [
+        "Doppler Types",
+        "Instrumentation",
+        "Doppler Optimization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch08-q186",
+      "stem": "During a mock adult echocardiography board examination, consider the following.  Which variable in the conceptual Doppler equation (ΔF = 2·Ft·V·CosΘ / C) represents the speed of sound in human soft tissue?",
+      "image": null,
+      "options": [
+        "C",
+        "Ft",
+        "V",
+        "Δf"
+      ],
+      "answer": 0,
+      "explanation": "The course review identifies C as the correct response. *(Practice review slide 5.)*",
+      "explanationImage": null,
+      "tags": [
+        "Doppler Types",
+        "Instrumentation",
+        "Doppler Optimization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch08-q187",
+      "stem": "During a mock adult echocardiography board examination, consider the following.  When assessing high-velocity blood flow through a severely stenotic aortic valve, what is the primary diagnostic advantage of Continuous Wave (CW) Doppler over Pulsed Wave (PW) Doppler?",
+      "image": null,
+      "options": [
+        "Superior range resolution at a specific sample volume depth",
+        "Enhanced measurement of low-velocity tissue displacements within the myocardium",
+        "Immunity to the aliasing phenomenon, allowing accurate measurement of maximum high velocities",
+        "Incorporation of colour-coded velocity variances across a broad sector region"
+      ],
+      "answer": 2,
+      "explanation": "The course review identifies Immunity to the aliasing phenomenon, allowing accurate measurement of maximum high velocities as the correct response. *(Practice review slide 7.)*",
+      "explanationImage": null,
+      "tags": [
+        "Doppler Types",
+        "Instrumentation",
+        "Doppler Optimization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch08-q188",
+      "stem": "During a mock adult echocardiography board examination, consider the following.  Out of following options, what is the best angle of insonation to achieve most accuracy (measurement error) when calculating blood flow velocities?",
+      "image": null,
+      "options": [
+        "20 degrees",
+        "10 degrees",
+        "60 degrees",
+        "30 degrees"
+      ],
+      "answer": 1,
+      "explanation": "Among the options offered, 10° is closest to parallel, so it carries the least cosine error. *(Practice review slide 9.)*",
+      "explanationImage": null,
+      "tags": [
+        "Doppler Types",
+        "Instrumentation",
+        "Doppler Optimization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch08-q189",
+      "stem": "During a mock adult echocardiography board examination, consider the following.  The maximum measurable velocity limit without experiencing signal wrap-around in Pulsed Wave Doppler is strictly governed by which boundary?",
+      "image": null,
+      "options": [
+        "The Thermal Index (TI)",
+        "The Mechanical Index (MI)",
+        "The Wall Filter threshold",
+        "The Nyquist Limit"
+      ],
+      "answer": 3,
+      "explanation": "The course review identifies The Nyquist Limit as the correct response. *(Practice review slide 11.)*",
+      "explanationImage": null,
+      "tags": [
+        "Doppler Types",
+        "Instrumentation",
+        "Doppler Optimization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch08-q190",
+      "stem": "During a mock adult echocardiography board examination, consider the following.  While performing a spectral Doppler assessment, you observe a smooth, rhythmic audio output from the system speakers. This auditory characteristic typically signifies which type of blood flow?",
+      "image": null,
+      "options": [
+        "Highly stenotic restrictive flow",
+        "Normal, laminar flow",
+        "Turbulent flow",
+        "Severe regurgitant jet flow"
+      ],
+      "answer": 1,
+      "explanation": "The course review identifies Normal, laminar flow as the correct response. *(Practice review slide 13.)*",
+      "explanationImage": null,
+      "tags": [
+        "Doppler Types",
+        "Instrumentation",
+        "Doppler Optimization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch08-q191",
+      "stem": "During a mock adult echocardiography board examination, consider the following.  Which system control should be carefully adjusted if low-amplitude, high-velocity signals are obscured by intense, low-frequency background noise originating from adjacent cardiac wall movements?",
+      "image": null,
+      "options": [
+        "Wall Filter",
+        "Sweep Speed",
+        "Sample Volume size",
+        "Colour Doppler Gain"
+      ],
+      "answer": 0,
+      "explanation": "The course review identifies Wall Filter as the correct response. *(Practice review slide 15.)*",
+      "explanationImage": null,
+      "tags": [
+        "Doppler Types",
+        "Instrumentation",
+        "Doppler Optimization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch08-q192",
+      "stem": "During a mock adult echocardiography board examination, consider the following.  Why must an echocardiographer use caution when adjusting the Spectral Doppler Gain control during clinical quantification?",
+      "image": null,
+      "options": [
+        "Over-gaining can falsely increase spectral broadening, masking or mimicking turbulent flow profiles",
+        "It directly artifactually shifts the established zero-velocity baseline position",
+        "High gain settings cause immediate, unrectifiable aliasing artifacts",
+        "It alters the underlying Pulse Repetition Frequency (PRF) of the transducer crystals"
+      ],
+      "answer": 0,
+      "explanation": "The course review identifies Over-gaining can falsely increase spectral broadening, masking or mimicking turbulent flow profiles as the correct response. *(Practice review slide 17.)*",
+      "explanationImage": null,
+      "tags": [
+        "Doppler Types",
+        "Instrumentation",
+        "Doppler Optimization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch08-q193",
+      "stem": "During a mock adult echocardiography board examination, consider the following.  You notice that your spectral waveform display compresses too many cardiac cycles closely together, making individual velocity waveform analysis impossible. To spread the cycles out across the horizontal time axis, you should:. Which answer is most accurate?",
+      "image": null,
+      "options": [
+        "Decrease the overall Spectral Doppler Gain",
+        "Shift the zero-velocity baseline downward",
+        "Decrease the systemic Pulse Repetition Frequency (PRF)",
+        "Increase the Sweep Speed"
+      ],
+      "answer": 3,
+      "explanation": "The course review identifies Increase the Sweep Speed as the correct response. *(Practice review slide 19.)*",
+      "explanationImage": null,
+      "tags": [
+        "Doppler Types",
+        "Instrumentation",
+        "Doppler Optimization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch08-q194",
+      "stem": "During a mock adult echocardiography board examination, consider the following.  A sonographer increases the intercept angle between the ultrasound beam and the left ventricular outflow tract (LVOT) flow from 10 degrees to 41 degrees. What is the direct consequence of this shift on the calculated velocity shown on the spectral display?",
+      "image": null,
+      "options": [
+        "The calculated velocity becomes entirely dependent on the tissue wall filter setting",
+        "The calculated velocity significantly underestimates the true physiological velocity",
+        "The calculated velocity significantly overestimates the true physiological velocity",
+        "The calculated velocity accurately reflects the true physiological velocity"
+      ],
+      "answer": 1,
+      "explanation": "The course review identifies The calculated velocity significantly underestimates the true physiological velocity as the correct response. *(Practice review slide 21.)*",
+      "explanationImage": null,
+      "tags": [
+        "Doppler Types",
+        "Instrumentation",
+        "Doppler Optimization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch08-q195",
+      "stem": "During a mock adult echocardiography board examination, consider the following.  During a spectral Doppler examination of the mitral valve, the peak velocity of the E-wave wraps around the bottom of the display and appears at the top. Which instrument modification is most effective to resolve this specific spectral artifact?",
+      "image": null,
+      "options": [
+        "Increasing the velocity scale or pulse repetition frequency setting",
+        "Decreasing the sample volume length to minimum",
+        "Increasing the spectral Doppler baseline setting upward",
+        "Increasing the spectral Doppler gain setting"
+      ],
+      "answer": 0,
+      "explanation": "The course review identifies Increasing the velocity scale or pulse repetition frequency setting as the correct response. *(Practice review slide 23.)*",
+      "explanationImage": null,
+      "tags": [
+        "Doppler Types",
+        "Instrumentation",
+        "Doppler Optimization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch08-q196",
+      "stem": "During a mock adult echocardiography board examination, consider the following.  A sonographer is evaluating a patient with severe aortic stenosis. To accurately measure the peak systolic jet velocity, which Doppler modality must be selected?",
+      "image": null,
+      "options": [
+        "Tissue Doppler Imaging",
+        "Pulsed Wave Doppler",
+        "Colour Flow Imaging",
+        "Continuous Wave Doppler"
+      ],
+      "answer": 3,
+      "explanation": "The course review identifies Continuous Wave Doppler as the correct response. *(Practice review slide 25.)*",
+      "explanationImage": null,
+      "tags": [
+        "Doppler Types",
+        "Instrumentation",
+        "Doppler Optimization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch08-q197",
+      "stem": "During a mock adult echocardiography board examination, consider the following.  When adjusting the spectral Doppler gain to optimize a pulsed wave waveform, the sonographer notices the appearance of vertical gray smearing filling the normally clear window under the peak envelope. Which condition does this recreate?",
+      "image": null,
+      "options": [
+        "Artificial spectral broadening",
+        "Wall filter truncation",
+        "True laminar flow pattern",
+        "Mirror image artifact"
+      ],
+      "answer": 0,
+      "explanation": "The course review identifies Artificial spectral broadening as the correct response. *(Practice review slide 27.)*",
+      "explanationImage": null,
+      "tags": [
+        "Doppler Types",
+        "Instrumentation",
+        "Doppler Optimization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch08-q198",
+      "stem": "During a mock adult echocardiography board examination, consider the following.  During a professional practice case audit, a sonographer listens to the audio output of a spectral Doppler trace and hears a harsh, noisy acoustic signal. Which physiological state corresponds with this audio characteristic?",
+      "image": null,
+      "options": [
+        "Rapid translational motion of a cardiac valve leaflet",
+        "Low-velocity movement of the ventricular myocardium",
+        "Turbulent blood flow through a stenotic or regurgitant orifice",
+        "Normal, unobstructed laminar blood flow"
+      ],
+      "answer": 2,
+      "explanation": "The course review identifies Turbulent blood flow through a stenotic or regurgitant orifice as the correct response. *(Practice review slide 29.)*",
+      "explanationImage": null,
+      "tags": [
+        "Doppler Types",
+        "Instrumentation",
+        "Doppler Optimization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch08-q199",
+      "stem": "During a mock adult echocardiography board examination, consider the following.  A sonographer is using Colour Flow Imaging to quantify mitral regurgitation. If they reduce the colour velocity scale (PRF) excessively, what will falsely alter the appearance of the regurgitant jet?",
+      "image": null,
+      "options": [
+        "The colour variance displays a false mosaic, turbulent appearance",
+        "The spatial frame rate of the 2D image increases dramatically",
+        "The colour signal disappears completely from the region of interest",
+        "The wall filter is automatically deactivated by the system"
+      ],
+      "answer": 0,
+      "explanation": "The course review identifies The colour variance displays a false mosaic, turbulent appearance as the correct response. *(Practice review slide 31.)*",
+      "explanationImage": null,
+      "tags": [
+        "Doppler Types",
+        "Instrumentation",
+        "Doppler Optimization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5000-ch08-q200",
+      "stem": "During a mock adult echocardiography board examination, consider the following.  Which system setting must be altered to selectively display the high-velocity, low-amplitude signals of intra-cardiac blood flow while rejecting low-velocity, high-amplitude movements from structural tissue walls?",
+      "image": null,
+      "options": [
+        "Sample Volume Length",
+        "Wall Filter",
+        "Baseline Shift",
+        "Sweep Speed"
+      ],
+      "answer": 1,
+      "explanation": "The course review identifies Wall Filter as the correct response. *(Practice review slide 33.)*",
+      "explanationImage": null,
+      "tags": [
+        "Doppler Types",
+        "Instrumentation",
+        "Doppler Optimization"
+      ],
+      "reference": ""
+    }
+  ]
+}

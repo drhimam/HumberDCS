@@ -1,0 +1,3806 @@
+{
+  "chapterId": "ch05",
+  "title": "ECG Fundamentals",
+  "questions": [
+    {
+      "id": "DCS5002-ch05-q001",
+      "stem": "Which of the following best describes the primary function of the electrocardiogram (ECG)?",
+      "image": null,
+      "options": [
+        "It records the mechanical contraction of the ventricular myocardium directly",
+        "It records the heart's electrical activity and displays it as a waveform tracing",
+        "It measures blood flow velocity across the cardiac valves",
+        "It directly images chamber dimensions in real time"
+      ],
+      "answer": 1,
+      "explanation": "The ECG detects and graphically records the heart's electrical activity as a waveform tracing. It does not record contraction itself (that is mechanical), measure flow (Doppler), or image structures (echo).",
+      "explanationImage": null,
+      "tags": [
+        "ECG Fundamentals",
+        "ECG Basics and Why the ECG Matters in Echocardiography"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch05-q002",
+      "stem": "The fundamental relationship between electrical and mechanical events in the heart is that:",
+      "image": null,
+      "options": [
+        "Mechanical contraction occurs after the electrical activation that triggers it",
+        "Mechanical contraction occurs before any electrical activity",
+        "Electrical activity and contraction occur simultaneously at the same instant",
+        "Contraction is independent of electrical stimulation in healthy myocardium"
+      ],
+      "answer": 0,
+      "explanation": "Electrical depolarization of myocardial cells triggers contraction, so mechanical events follow electrical events. This relationship is the entire basis for using the ECG to time echo measurements.",
+      "explanationImage": null,
+      "tags": [
+        "ECG Fundamentals",
+        "ECG Basics and Why the ECG Matters in Echocardiography"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch05-q003",
+      "stem": "The ECG is valuable during echocardiographic examination primarily because it:",
+      "image": null,
+      "options": [
+        "Replaces the need for Doppler assessment",
+        "Images the chamber walls more clearly than ultrasound",
+        "Measures valve gradients directly",
+        "Reflects the timing of the cardiac cycle in real time"
+      ],
+      "answer": 3,
+      "explanation": "The ECG displays the timing of depolarization and repolarization, allowing the sonographer to know where the heart is within the cardiac cycle during image acquisition. It provides real-time information that guides clinical and echo assessment.",
+      "explanationImage": null,
+      "tags": [
+        "ECG Fundamentals",
+        "ECG Basics and Why the ECG Matters in Echocardiography"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch05-q004",
+      "stem": "The ECG is widely used in clinical practice largely because it is:",
+      "image": null,
+      "options": [
+        "Invasive but highly accurate",
+        "Expensive and requires contrast injection",
+        "Non-invasive and provides real-time cardiac information",
+        "Limited to use during cardiac surgery only"
+      ],
+      "answer": 2,
+      "explanation": "The ECG is non-invasive, painless, inexpensive, and provides real-time information about the heart's electrical activity, making it suitable for continuous monitoring during examinations.",
+      "explanationImage": null,
+      "tags": [
+        "ECG Fundamentals",
+        "ECG Basics and Why the ECG Matters in Echocardiography"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch05-q005",
+      "stem": "The deflections seen on an ECG tracing directly represent:",
+      "image": null,
+      "options": [
+        "The physical movement of the valve leaflets",
+        "The volume of blood ejected with each beat",
+        "The timing of myocardial depolarization and repolarization",
+        "The pressure changes within the cardiac chambers"
+      ],
+      "answer": 2,
+      "explanation": "Each ECG deflection corresponds to the depolarization or repolarization of specific heart muscle and its timing. Pressure, volume, and valve motion are mechanical events assessed by other means.",
+      "explanationImage": null,
+      "tags": [
+        "ECG Fundamentals",
+        "ECG Basics and Why the ECG Matters in Echocardiography"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch05-q006",
+      "stem": "A complete P–QRS–T tracing on the ECG represents:",
+      "image": null,
+      "options": [
+        "One complete cardiac cycle",
+        "Only the electrical activity of the ventricles",
+        "One full minute of cardiac rhythm",
+        "Atrial activity only"
+      ],
+      "answer": 0,
+      "explanation": "One P–QRS–T sequence reflects the electrical events of a single cardiac cycle, from atrial depolarization through ventricular repolarization.",
+      "explanationImage": null,
+      "tags": [
+        "ECG Fundamentals",
+        "ECG Basics and Why the ECG Matters in Echocardiography"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch05-q007",
+      "stem": "Which of the following statements about electrical activity and contraction is TRUE?",
+      "image": null,
+      "options": [
+        "Electrical activity precedes mechanical contraction",
+        "Contraction precedes electrical activation",
+        "Electrical activity follows contraction by a fixed delay",
+        "Electrical and mechanical events are unrelated"
+      ],
+      "answer": 0,
+      "explanation": "Electrical activation always precedes the mechanical contraction it triggers. The brief delay between the two allows echo measurements to be timed from the ECG.",
+      "explanationImage": null,
+      "tags": [
+        "ECG Fundamentals",
+        "ECG Basics and Why the ECG Matters in Echocardiography"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch05-q008",
+      "stem": "Because the ECG reflects the timing of the cardiac cycle, the sonographer can use it to:",
+      "image": null,
+      "options": [
+        "Measure the thickness of the pericardium",
+        "Identify when systole and diastole occur during imaging",
+        "Quantify valvular regurgitation severity",
+        "Determine pulmonary artery pressure"
+      ],
+      "answer": 1,
+      "explanation": "The ECG marks the phases of the cardiac cycle, so systole and diastole can be identified on the tracing and correlated with the ultrasound image. Hemodynamic and structural assessments require echocardiographic techniques.",
+      "explanationImage": null,
+      "tags": [
+        "ECG Fundamentals",
+        "ECG Basics and Why the ECG Matters in Echocardiography"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch05-q009",
+      "stem": "In a combined ECG–echocardiographic study, which modality provides the assessment of blood flow and hemodynamics?",
+      "image": null,
+      "options": [
+        "The standard 12-lead ECG",
+        "The rhythm strip alone",
+        "The vectorcardiogram",
+        "Echocardiography with Doppler"
+      ],
+      "answer": 3,
+      "explanation": "Echo evaluates blood flow and hemodynamics via Doppler; the ECG contributes only electrical timing. The two modalities provide complementary cardiac information.",
+      "explanationImage": null,
+      "tags": [
+        "ECG Fundamentals",
+        "ECG Basics and Why the ECG Matters in Echocardiography"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch05-q010",
+      "stem": "ECG gating is used during echocardiography primarily to:",
+      "image": null,
+      "options": [
+        "Amplify the returning ultrasound signals",
+        "Synchronize image acquisition with the cardiac cycle",
+        "Increase the frame rate of the transducer",
+        "Measure the patient's blood pressure continuously"
+      ],
+      "answer": 1,
+      "explanation": "Gating uses the ECG to synchronize image acquisition to specific phases of the cardiac cycle, identifying systole and diastole for consistent, reproducible measurements.",
+      "explanationImage": null,
+      "tags": [
+        "ECG Fundamentals",
+        "ECG Basics and Why the ECG Matters in Echocardiography"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch05-q011",
+      "stem": "Which of the following assessments is NOT provided by the ECG?",
+      "image": null,
+      "options": [
+        "Heart rhythm and rate",
+        "Timing of depolarization and repolarization",
+        "Valve motion and chamber size",
+        "Recognition of conduction disturbances"
+      ],
+      "answer": 2,
+      "explanation": "Valve motion and chamber size are structural/mechanical findings evaluated by echocardiography. The ECG supplies electrical information such as rhythm, rate, and timing.",
+      "explanationImage": null,
+      "tags": [
+        "ECG Fundamentals",
+        "ECG Basics and Why the ECG Matters in Echocardiography"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch05-q012",
+      "stem": "The ECG waveform is best described as a graphic representation of:",
+      "image": null,
+      "options": [
+        "The summed electrical activity of the heart detected at the body surface",
+        "Mechanical shortening of individual myocardial fibers",
+        "Intracardiac pressures recorded by catheter",
+        "Acoustic reflections from the myocardium"
+      ],
+      "answer": 0,
+      "explanation": "Surface electrodes detect the summed electrical activity of countless depolarizing and repolarizing cells, which is plotted over time as the ECG waveform.",
+      "explanationImage": null,
+      "tags": [
+        "ECG Fundamentals",
+        "ECG Basics and Why the ECG Matters in Echocardiography"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch05-q013",
+      "stem": "Depolarization of ventricular myocardial cells normally results in:",
+      "image": null,
+      "options": [
+        "Valve closure",
+        "Diastolic filling",
+        "Mechanical contraction of the ventricular muscle",
+        "Passive relaxation of the atria only"
+      ],
+      "answer": 2,
+      "explanation": "Depolarization is the electrical trigger for contraction; when the ventricles depolarize (QRS), ventricular systolic contraction follows. Filling and valve motions are consequences of the pressure changes that follow.",
+      "explanationImage": null,
+      "tags": [
+        "ECG Fundamentals",
+        "ECG Basics and Why the ECG Matters in Echocardiography"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch05-q014",
+      "stem": "If a patient's ECG shows no organized electrical activity, the expected mechanical result is:",
+      "image": null,
+      "options": [
+        "Forceful coordinated contraction of all chambers",
+        "No coordinated mechanical contraction",
+        "Increased stroke volume",
+        "Enhanced atrial kick"
+      ],
+      "answer": 1,
+      "explanation": "Electrical activity triggers contraction; without organized electrical activation, coordinated mechanical contraction cannot occur. This underlies the importance of the ECG in assessing cardiac function.",
+      "explanationImage": null,
+      "tags": [
+        "ECG Fundamentals",
+        "ECG Basics and Why the ECG Matters in Echocardiography"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch05-q015",
+      "stem": "The timing information displayed on the ECG is clinically useful because it allows:",
+      "image": null,
+      "options": [
+        "Direct measurement of chamber volumes",
+        "Calculation of valve orifice area",
+        "Quantification of shunt flow",
+        "Identification of systolic and diastolic phases for echo measurements"
+      ],
+      "answer": 3,
+      "explanation": "By marking depolarization and repolarization events, the ECG lets the sonographer identify systole and diastole, which supports accurate, standardized echocardiographic measurements.",
+      "explanationImage": null,
+      "tags": [
+        "ECG Fundamentals",
+        "ECG Basics and Why the ECG Matters in Echocardiography"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch05-q016",
+      "stem": "The ECG's ability to provide real-time cardiac information is important because it:",
+      "image": null,
+      "options": [
+        "Guides clinical and echocardiographic assessment as events occur",
+        "Stores data for analysis days later",
+        "Eliminates the need for patient history",
+        "Only functions after image acquisition is complete"
+      ],
+      "answer": 0,
+      "explanation": "The ECG displays the heart's electrical events continuously and in real time, guiding both clinical judgment and the timing of the echocardiographic examination as it happens.",
+      "explanationImage": null,
+      "tags": [
+        "ECG Fundamentals",
+        "ECG Basics and Why the ECG Matters in Echocardiography"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch05-q017",
+      "stem": "Before an echocardiographic image can be interpreted in relation to the cardiac cycle, the sonographer must first understand:",
+      "image": null,
+      "options": [
+        "The physics of ultrasound attenuation only",
+        "The patient's medication history",
+        "The surgical history of the patient",
+        "The electrical events of the cardiac cycle and their ECG timing"
+      ],
+      "answer": 3,
+      "explanation": "Because mechanical function follows electrical activation, interpreting images against the cardiac cycle requires knowledge of the ECG waveforms and the timing they represent.",
+      "explanationImage": null,
+      "tags": [
+        "ECG Fundamentals",
+        "ECG Basics and Why the ECG Matters in Echocardiography"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch05-q018",
+      "stem": "Which of the following correctly pairs a modality with its primary assessment?",
+      "image": null,
+      "options": [
+        "ECG — chamber size and valve motion",
+        "ECG — electrical activity and rhythm; echo — structure, motion, and flow",
+        "Echo — conduction intervals and rhythm",
+        "Both modalities measure only blood pressure"
+      ],
+      "answer": 1,
+      "explanation": "The ECG records electrical activity and rhythm, while echocardiography evaluates chambers, valves, motion, and blood flow. Confusing the two roles is a common distractor on credentialing exams.",
+      "explanationImage": null,
+      "tags": [
+        "ECG Fundamentals",
+        "ECG Basics and Why the ECG Matters in Echocardiography"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch05-q019",
+      "stem": "The organized electrical impulse that spreads through both atria is recorded on the surface ECG as the:",
+      "image": null,
+      "options": [
+        "QRS complex",
+        "T wave",
+        "ST segment",
+        "P wave"
+      ],
+      "answer": 3,
+      "explanation": "Atrial depolarization, initiated by the SA node and spreading through both atria, produces the P wave. Ventricular events produce the QRS and T wave.",
+      "explanationImage": null,
+      "tags": [
+        "ECG Fundamentals",
+        "ECG Basics and Why the ECG Matters in Echocardiography"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch05-q020",
+      "stem": "Why should the sonographer monitor the ECG tracing throughout the entire echocardiographic examination?",
+      "image": null,
+      "options": [
+        "Because the rhythm affects image acquisition, event timing, and measurement reproducibility",
+        "Because the ECG can substitute for the Doppler assessment",
+        "Because the ECG confirms the transducer is positioned correctly",
+        "Because the ECG measures the acoustic window quality"
+      ],
+      "answer": 0,
+      "explanation": "The rhythm determines how regularly the heart cycles, which directly influences image acquisition, Doppler timing, and the reproducibility of measurements. Continuous ECG monitoring is standard sonographer practice. ---",
+      "explanationImage": null,
+      "tags": [
+        "ECG Fundamentals",
+        "ECG versus Echocardiography — Electrical and Mechanical Events"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch05-q021",
+      "stem": "The ECG is best characterized as a recording of:",
+      "image": null,
+      "options": [
+        "Cardiac output and chamber volumes",
+        "Valve excursion and wall thickening",
+        "Electrical activity and cardiac rhythm",
+        "Intracardiac pressure waveforms"
+      ],
+      "answer": 2,
+      "explanation": "The ECG records the heart's electrical activity and displays depolarization and repolarization timing as a rhythm tracing. Mechanical parameters belong to echocardiography.",
+      "explanationImage": null,
+      "tags": [
+        "ECG Fundamentals",
+        "ECG versus Echocardiography — Electrical and Mechanical Events"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch05-q022",
+      "stem": "Echocardiography contributes which of the following assessments that the ECG cannot?",
+      "image": null,
+      "options": [
+        "Chamber sizes, valve function, wall motion, and blood flow",
+        "PR interval duration",
+        "QRS duration",
+        "Rhythm regularity"
+      ],
+      "answer": 0,
+      "explanation": "Echo directly evaluates structure and function: chambers, valves, wall motion, and Doppler flow. Intervals and rhythm are ECG parameters, making them unsuitable distractors.",
+      "explanationImage": null,
+      "tags": [
+        "ECG Fundamentals",
+        "ECG versus Echocardiography — Electrical and Mechanical Events"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch05-q023",
+      "stem": "Depolarization of a myocardial cell refers to:",
+      "image": null,
+      "options": [
+        "Return of the cell to its resting charged state",
+        "The electrical activation of the cell that triggers contraction",
+        "Mechanical relaxation of the cell",
+        "Passive blood flow into the chamber"
+      ],
+      "answer": 1,
+      "explanation": "Depolarization is the rapid electrical change (ion movement) that activates the cell and triggers contraction. Repolarization is the return to the resting state.",
+      "explanationImage": null,
+      "tags": [
+        "ECG Fundamentals",
+        "ECG versus Echocardiography — Electrical and Mechanical Events"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch05-q024",
+      "stem": "Repolarization of the myocardium corresponds most closely with which mechanical event?",
+      "image": null,
+      "options": [
+        "Rapid ejection",
+        "Atrial contraction",
+        "Isovolumetric contraction",
+        "Ventricular relaxation"
+      ],
+      "answer": 3,
+      "explanation": "Repolarization (the T wave) is the electrical recovery of the ventricles and is followed by ventricular relaxation, the beginning of diastole. The lecture emphasizes \"repolarization followed by ventricular relaxation.\"",
+      "explanationImage": null,
+      "tags": [
+        "ECG Fundamentals",
+        "ECG versus Echocardiography — Electrical and Mechanical Events"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch05-q025",
+      "stem": "On a normal ECG, ventricular systole (contraction) begins shortly after the:",
+      "image": null,
+      "options": [
+        "P wave",
+        "T wave",
+        "U wave",
+        "QRS complex"
+      ],
+      "answer": 3,
+      "explanation": "The QRS represents ventricular depolarization, and the QRS complex precedes ventricular systole. The P wave relates to the atria; the T wave marks repolarization and relaxation.",
+      "explanationImage": null,
+      "tags": [
+        "ECG Fundamentals",
+        "ECG versus Echocardiography — Electrical and Mechanical Events"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch05-q026",
+      "stem": "The T wave corresponds to which combination of events?",
+      "image": null,
+      "options": [
+        "Atrial depolarization and atrial systole",
+        "Ventricular depolarization and contraction",
+        "Ventricular repolarization followed by ventricular relaxation",
+        "SA node firing alone"
+      ],
+      "answer": 2,
+      "explanation": "The T wave represents ventricular repolarization; the myocardium then relaxes as diastole begins. This electrical-to-mechanical pairing is a core lecture concept.",
+      "explanationImage": null,
+      "tags": [
+        "ECG Fundamentals",
+        "ECG versus Echocardiography — Electrical and Mechanical Events"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch05-q027",
+      "stem": "A complete noninvasive cardiac assessment often combines the ECG and echocardiogram because:",
+      "image": null,
+      "options": [
+        "The ECG and echo provide identical information",
+        "The ECG provides electrical timing while echo provides mechanical and structural information",
+        "Echo replaces the need for any electrical information",
+        "The ECG images the valves better than echo"
+      ],
+      "answer": 1,
+      "explanation": "The two modalities are complementary: the ECG shows electrical events and rhythm; echo shows anatomy, motion, and flow. Neither alone gives the complete picture.",
+      "explanationImage": null,
+      "tags": [
+        "ECG Fundamentals",
+        "ECG versus Echocardiography — Electrical and Mechanical Events"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch05-q028",
+      "stem": "On the ECG, atrial depolarization is represented by the:",
+      "image": null,
+      "options": [
+        "P wave",
+        "QRS complex",
+        "ST segment",
+        "T wave"
+      ],
+      "answer": 0,
+      "explanation": "The P wave is the first deflection of the cycle and represents atrial muscle depolarization as the impulse spreads from the SA node through both atria.",
+      "explanationImage": null,
+      "tags": [
+        "ECG Fundamentals",
+        "ECG versus Echocardiography — Electrical and Mechanical Events"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch05-q029",
+      "stem": "Atrial repolarization is not normally seen as a separate deflection on the ECG because it:",
+      "image": null,
+      "options": [
+        "Occurs at the same time as ventricular depolarization and is hidden within the QRS",
+        "Does not occur in a normal heart",
+        "Is too weak to create any electrical signal",
+        "Happens 10 seconds after the QRS"
+      ],
+      "answer": 0,
+      "explanation": "Atrial repolarization occurs while the ventricles are depolarizing, so its small signal is buried within the much larger QRS complex and is not visible.",
+      "explanationImage": null,
+      "tags": [
+        "ECG Fundamentals",
+        "ECG versus Echocardiography — Electrical and Mechanical Events"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch05-q030",
+      "stem": "By the time the ventricles are in systole, the ECG has already displayed the:",
+      "image": null,
+      "options": [
+        "P wave only",
+        "U wave",
+        "Next cycle's P wave",
+        "QRS complex"
+      ],
+      "answer": 3,
+      "explanation": "Electrical events precede mechanical ones; ventricular depolarization (QRS) must occur before ventricular contraction begins. The QRS is therefore visible before systole.",
+      "explanationImage": null,
+      "tags": [
+        "ECG Fundamentals",
+        "ECG versus Echocardiography — Electrical and Mechanical Events"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch05-q031",
+      "stem": "The period on the ECG immediately after the QRS complex and before the T wave corresponds to:",
+      "image": null,
+      "options": [
+        "Atrial systole",
+        "Ventricular diastole completion",
+        "The plateau phase, with the ventricles in early sustained contraction",
+        "SA node recovery"
+      ],
+      "answer": 2,
+      "explanation": "The ST segment represents the interval when the ventricles are fully depolarized and in the plateau phase of the action potential, corresponding to early maintained ventricular contraction (systole).",
+      "explanationImage": null,
+      "tags": [
+        "ECG Fundamentals",
+        "ECG versus Echocardiography — Electrical and Mechanical Events"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch05-q032",
+      "stem": "If the conduction system fails to initiate and deliver an impulse to the ventricular myocardium, the ventricles will:",
+      "image": null,
+      "options": [
+        "Contract forcefully on their own",
+        "Fail to contract for that cycle until another pacemaker fires",
+        "Contract twice in the next cycle",
+        "Fill more rapidly and eject normally"
+      ],
+      "answer": 1,
+      "explanation": "Electrical activation is required for contraction; without an impulse, no ventricular contraction occurs until a subsidiary pacemaker (junctional or ventricular) takes over.",
+      "explanationImage": null,
+      "tags": [
+        "ECG Fundamentals",
+        "ECG versus Echocardiography — Electrical and Mechanical Events"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch05-q033",
+      "stem": "Which of the following can the standard ECG NOT evaluate?",
+      "image": null,
+      "options": [
+        "QRS duration",
+        "Blood flow velocities across the valves",
+        "PR interval",
+        "Heart rate"
+      ],
+      "answer": 1,
+      "explanation": "Flow velocities require Doppler echocardiography. Rate, intervals, and waveform durations are all ECG measurements.",
+      "explanationImage": null,
+      "tags": [
+        "ECG Fundamentals",
+        "ECG versus Echocardiography — Electrical and Mechanical Events"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch05-q034",
+      "stem": "Mechanical contraction follows electrical activation after a brief electromechanical delay; this fact explains why:",
+      "image": null,
+      "options": [
+        "The ECG can be used to time mechanical events during echocardiography",
+        "The echo can measure the PR interval directly",
+        "Contraction occurs before the P wave",
+        "Doppler is unnecessary for timing"
+      ],
+      "answer": 0,
+      "explanation": "Because contraction reliably follows its electrical trigger by a consistent brief delay, ECG events (like the QRS) serve as timing markers for mechanical events seen on echo.",
+      "explanationImage": null,
+      "tags": [
+        "ECG Fundamentals",
+        "ECG versus Echocardiography — Electrical and Mechanical Events"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch05-q035",
+      "stem": "The T wave on the ECG represents:",
+      "image": null,
+      "options": [
+        "Atrial depolarization",
+        "Ventricular depolarization",
+        "SA node discharge",
+        "Ventricular repolarization"
+      ],
+      "answer": 3,
+      "explanation": "The T wave is the waveform component representing ventricular repolarization, the electrical recovery that precedes ventricular relaxation.",
+      "explanationImage": null,
+      "tags": [
+        "ECG Fundamentals",
+        "ECG versus Echocardiography — Electrical and Mechanical Events"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch05-q036",
+      "stem": "Which ECG event most closely precedes the onset of ventricular systole?",
+      "image": null,
+      "options": [
+        "The P wave",
+        "The T wave",
+        "The QRS complex",
+        "The U wave"
+      ],
+      "answer": 2,
+      "explanation": "The QRS complex (ventricular depolarization) immediately precedes ventricular systole, as stated in the lecture: \"QRS complex precedes ventricular systole.\"",
+      "explanationImage": null,
+      "tags": [
+        "ECG Fundamentals",
+        "ECG versus Echocardiography — Electrical and Mechanical Events"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch05-q037",
+      "stem": "Ventricular repolarization on the ECG is followed by:",
+      "image": null,
+      "options": [
+        "Immediate atrial depolarization of the next beat",
+        "Ventricular contraction",
+        "Ventricular relaxation and the start of diastole",
+        "A compensatory pause"
+      ],
+      "answer": 2,
+      "explanation": "After the ventricles repolarize (T wave), the muscle relaxes and diastole begins, allowing ventricular filling. This mechanical sequence follows the electrical event.",
+      "explanationImage": null,
+      "tags": [
+        "ECG Fundamentals",
+        "ECG versus Echocardiography — Electrical and Mechanical Events"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch05-q038",
+      "stem": "Which statement about the information each modality displays is TRUE?",
+      "image": null,
+      "options": [
+        "Echo displays depolarization timing; ECG displays valve excursion",
+        "Both display wall motion continuously",
+        "Both display Doppler velocities",
+        "The ECG displays depolarization and repolarization timing; echo evaluates chambers, valves, and motion"
+      ],
+      "answer": 3,
+      "explanation": "The ECG's role is electrical timing; echo's role is structural and mechanical evaluation, including flow and hemodynamics. This division of labor is the key ECG-vs-echo concept.",
+      "explanationImage": null,
+      "tags": [
+        "ECG Fundamentals",
+        "ECG versus Echocardiography — Electrical and Mechanical Events"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch05-q039",
+      "stem": "The ECG feature most directly associated with the onset of ventricular mechanical contraction is the:",
+      "image": null,
+      "options": [
+        "QRS complex",
+        "P wave",
+        "PR segment",
+        "TP segment"
+      ],
+      "answer": 0,
+      "explanation": "Ventricular depolarization (QRS) is the electrical trigger that immediately precedes ventricular contraction. The P wave relates to atrial events; the segments are baseline intervals.",
+      "explanationImage": null,
+      "tags": [
+        "ECG Fundamentals",
+        "ECG versus Echocardiography — Electrical and Mechanical Events"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch05-q040",
+      "stem": "A patient has a completely normal ECG but echocardiography reveals a severely stenotic aortic valve. This combination demonstrates that:",
+      "image": null,
+      "options": [
+        "The ECG was performed incorrectly",
+        "A normal ECG does not exclude structural or mechanical cardiac disease",
+        "The ECG should have shown the stenosis as a wide QRS",
+        "Echo and ECG measure the same parameter"
+      ],
+      "answer": 1,
+      "explanation": "The ECG records only electrical activity; a structurally diseased valve may produce a normal ECG. This is precisely why the two complementary modalities are both required. ---",
+      "explanationImage": null,
+      "tags": [
+        "ECG Fundamentals",
+        "Cardiac Conduction Pathway"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch05-q041",
+      "stem": "The structure that functions as the normal pacemaker of the heart is the:",
+      "image": null,
+      "options": [
+        "AV node",
+        "Bundle of His",
+        "Left bundle branch",
+        "SA node"
+      ],
+      "answer": 3,
+      "explanation": "The SA (sinoatrial) node initiates the organized electrical impulse that controls normal rhythm, making it the dominant pacemaker of the heart.",
+      "explanationImage": null,
+      "tags": [
+        "ECG Fundamentals",
+        "Cardiac Conduction Pathway"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch05-q042",
+      "stem": "The primary function of the AV node in the conduction pathway is to:",
+      "image": null,
+      "options": [
+        "Generate the fastest intrinsic rhythm in the heart",
+        "Briefly delay conduction before the impulse reaches the ventricles",
+        "Repolarize the atria",
+        "Conduct impulses to the lungs"
+      ],
+      "answer": 1,
+      "explanation": "The AV node briefly delays ventricular conduction, allowing the atria to complete their contraction and empty into the ventricles before ventricular activation.",
+      "explanationImage": null,
+      "tags": [
+        "ECG Fundamentals",
+        "Cardiac Conduction Pathway"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch05-q043",
+      "stem": "Which of the following lists the normal conduction pathway in correct sequence?",
+      "image": null,
+      "options": [
+        "SA node → Purkinje fibers → AV node → bundle branches → Bundle of His",
+        "AV node → SA node → Purkinje fibers → Bundle of His → bundle branches",
+        "SA node → AV node → Bundle of His → bundle branches → Purkinje fibers",
+        "Bundle of His → SA node → AV node → Purkinje fibers → bundle branches"
+      ],
+      "answer": 2,
+      "explanation": "The impulse originates in the SA node, spreads through the atria to the AV node, is delayed, then passes through the Bundle of His, the bundle branches, and finally the Purkinje fibers, which stimulate coordinated contraction.",
+      "explanationImage": null,
+      "tags": [
+        "ECG Fundamentals",
+        "Cardiac Conduction Pathway"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch05-q044",
+      "stem": "The right and left bundle branches function to:",
+      "image": null,
+      "options": [
+        "Distribute the ventricular impulse to their respective ventricles",
+        "Generate atrial depolarization",
+        "Delay the impulse at the AV junction",
+        "Pace the heart when the SA node is suppressed"
+      ],
+      "answer": 0,
+      "explanation": "After the Bundle of His, the bundle branches distribute ventricular conduction to the right and left ventricles so both activate in an organized fashion.",
+      "explanationImage": null,
+      "tags": [
+        "ECG Fundamentals",
+        "Cardiac Conduction Pathway"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch05-q045",
+      "stem": "The Purkinje fibers are responsible for:",
+      "image": null,
+      "options": [
+        "Stimulating rapid, coordinated contraction of the ventricular myocardium",
+        "Initiating the heartbeat ahead of the SA node",
+        "Delaying atrial conduction",
+        "Producing the P wave"
+      ],
+      "answer": 0,
+      "explanation": "As the final links in the pathway, Purkinje fibers deliver the impulse to working ventricular cells, stimulating rapid, coordinated ventricular contraction.",
+      "explanationImage": null,
+      "tags": [
+        "ECG Fundamentals",
+        "Cardiac Conduction Pathway"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch05-q046",
+      "stem": "The brief delay in conduction at the AV node corresponds to which ECG feature?",
+      "image": null,
+      "options": [
+        "The QRS duration",
+        "The QT interval",
+        "The PR interval (including the PR segment)",
+        "The ST segment"
+      ],
+      "answer": 2,
+      "explanation": "The flat PR segment and the PR interval represent the time the impulse spends traversing the AV node and His–Purkinje system before ventricular depolarization begins.",
+      "explanationImage": null,
+      "tags": [
+        "ECG Fundamentals",
+        "Cardiac Conduction Pathway"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch05-q047",
+      "stem": "The Bundle of His primarily serves to:",
+      "image": null,
+      "options": [
+        "Pace the atria",
+        "Conduct the impulse from the AV junction into the ventricular septum",
+        "Repolarize the ventricles",
+        "Generate the T wave"
+      ],
+      "answer": 1,
+      "explanation": "The Bundle of His is the conduction bridge that carries the impulse from the AV node through the fibrous skeleton into the ventricular septum, where the bundle branches take over.",
+      "explanationImage": null,
+      "tags": [
+        "ECG Fundamentals",
+        "Cardiac Conduction Pathway"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch05-q048",
+      "stem": "If the SA node fails to fire, the next fastest pacemaker that normally takes over is the:",
+      "image": null,
+      "options": [
+        "Purkinje fibers, at 60–100 bpm",
+        "Left bundle branch, at 100–150 bpm",
+        "Atrial myocardium, at 200–300 bpm",
+        "AV junction (AV node region), at about 40–60 bpm"
+      ],
+      "answer": 3,
+      "explanation": "Intrinsic rates decrease down the conduction system: SA node 60–100, AV junction 40–60, ventricular Purkinje 20–40 bpm. The AV junction is therefore the first backup pacemaker.",
+      "explanationImage": null,
+      "tags": [
+        "ECG Fundamentals",
+        "Cardiac Conduction Pathway"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch05-q049",
+      "stem": "The intrinsic discharge rate of ventricular (Purkinje) pacemakers is approximately:",
+      "image": null,
+      "options": [
+        "60–100 bpm",
+        "20–40 bpm",
+        "100–150 bpm",
+        "150–250 bpm"
+      ],
+      "answer": 1,
+      "explanation": "Ventricular escape pacemakers fire at only 20–40 bpm, which is why complete AV block below the His can produce profound bradycardia.",
+      "explanationImage": null,
+      "tags": [
+        "ECG Fundamentals",
+        "Cardiac Conduction Pathway"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch05-q050",
+      "stem": "At rest in a healthy adult, the SA node typically initiates impulses at a rate of:",
+      "image": null,
+      "options": [
+        "20–40 per minute",
+        "30–50 per minute",
+        "150–250 per minute",
+        "60–100 per minute"
+      ],
+      "answer": 3,
+      "explanation": "The normal resting SA node rate of 60–100 bpm defines the normal heart rate range and corresponds to normal sinus rhythm.",
+      "explanationImage": null,
+      "tags": [
+        "ECG Fundamentals",
+        "Cardiac Conduction Pathway"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch05-q051",
+      "stem": "The functional importance of the AV nodal delay is that it:",
+      "image": null,
+      "options": [
+        "Allows the atria to complete contraction and finish filling the ventricles",
+        "Speeds conduction to the ventricles",
+        "Prevents the QRS from widening",
+        "Eliminates the need for atrial contraction"
+      ],
+      "answer": 0,
+      "explanation": "The AV nodal delay gives atrial contraction time to complete ventricular filling before ventricular systole begins. Without this delay, filling would be incomplete.",
+      "explanationImage": null,
+      "tags": [
+        "ECG Fundamentals",
+        "Cardiac Conduction Pathway"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch05-q052",
+      "stem": "After leaving the SA node, the impulse travels to the AV node:",
+      "image": null,
+      "options": [
+        "Through the bundle branches",
+        "Via the Purkinje network in the ventricles",
+        "Through the atrial myocardium (internodal pathways)",
+        "By direct neural stimulation"
+      ],
+      "answer": 2,
+      "explanation": "The impulse spreads through the atrial muscle (via internodal pathways), producing the P wave, before arriving at the AV node. The ventricular conduction structures are not involved yet.",
+      "explanationImage": null,
+      "tags": [
+        "ECG Fundamentals",
+        "Cardiac Conduction Pathway"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch05-q053",
+      "stem": "Rapid, coordinated contraction of the entire ventricular muscle mass is achieved when the impulse reaches the:",
+      "image": null,
+      "options": [
+        "SA node",
+        "AV node",
+        "Purkinje fibers and ventricular myocardium",
+        "Atrial myocardium"
+      ],
+      "answer": 2,
+      "explanation": "The Purkinje fibers conduct the impulse rapidly to the working ventricular cells, stimulating simultaneous, coordinated contraction of the ventricles.",
+      "explanationImage": null,
+      "tags": [
+        "ECG Fundamentals",
+        "Cardiac Conduction Pathway"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch05-q054",
+      "stem": "The QRS complex of the ECG reflects conduction through which portion of the pathway?",
+      "image": null,
+      "options": [
+        "The Bundle of His, bundle branches, Purkinje fibers, and ventricular myocardium",
+        "The SA node alone",
+        "The atrial myocardium alone",
+        "The AV node only"
+      ],
+      "answer": 0,
+      "explanation": "The QRS spans the time from the start of ventricular activation through the His–Purkinje system to full ventricular depolarization. Atrial and nodal events occur before the QRS.",
+      "explanationImage": null,
+      "tags": [
+        "ECG Fundamentals",
+        "Cardiac Conduction Pathway"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch05-q055",
+      "stem": "If the AV node and surrounding junction fail as pacemakers, the expected escape rhythm arises from ventricular pacemakers at approximately:",
+      "image": null,
+      "options": [
+        "100–150 bpm",
+        "20–40 bpm",
+        "60–100 bpm",
+        "150–250 bpm"
+      ],
+      "answer": 1,
+      "explanation": "Intrinsic rates fall progressively down the pathway (SA 60–100, AV junction 40–60, ventricular 20–40 bpm), so a ventricular escape rhythm is markedly slow.",
+      "explanationImage": null,
+      "tags": [
+        "ECG Fundamentals",
+        "Cardiac Conduction Pathway"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch05-q056",
+      "stem": "In the normal heart, the only electrical connection between the atria and the ventricles is the:",
+      "image": null,
+      "options": [
+        "SA node",
+        "Purkinje network",
+        "Right bundle branch",
+        "AV node and Bundle of His (AV junction)"
+      ],
+      "answer": 3,
+      "explanation": "The AV junction (AV node and Bundle of His) is the sole normal pathway for the impulse to cross from atria to ventricles; accessory pathways are abnormal.",
+      "explanationImage": null,
+      "tags": [
+        "ECG Fundamentals",
+        "Cardiac Conduction Pathway"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch05-q057",
+      "stem": "Occlusion or disease affecting the right bundle branch would produce:",
+      "image": null,
+      "options": [
+        "Loss of atrial contraction",
+        "Absent P waves",
+        "Immediate cardiac arrest",
+        "Delayed activation of the right ventricle and a widened QRS"
+      ],
+      "answer": 3,
+      "explanation": "When a bundle branch is blocked, the affected ventricle is activated late via cell-to-cell spread, prolonging the QRS (bundle branch block) and causing dyssynchronous contraction.",
+      "explanationImage": null,
+      "tags": [
+        "ECG Fundamentals",
+        "Cardiac Conduction Pathway"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch05-q058",
+      "stem": "The PR interval represents the conduction time from:",
+      "image": null,
+      "options": [
+        "Onset of the QRS to the end of the T wave",
+        "End of the P wave to end of the QRS",
+        "Onset of atrial depolarization (P) to the onset of ventricular depolarization (QRS)",
+        "QRS onset to T wave onset"
+      ],
+      "answer": 2,
+      "explanation": "The PR interval is measured from the beginning of the P wave to the beginning of the QRS, encompassing atrial depolarization plus the AV nodal delay.",
+      "explanationImage": null,
+      "tags": [
+        "ECG Fundamentals",
+        "Cardiac Conduction Pathway"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch05-q059",
+      "stem": "At rest, the SA node discharges at 60–100 times per minute. This rate determines:",
+      "image": null,
+      "options": [
+        "The width of the QRS complex",
+        "The normal resting heart rate",
+        "The duration of the QT interval",
+        "The voltage of the P wave"
+      ],
+      "answer": 1,
+      "explanation": "Because the SA node is the dominant pacemaker, its firing rate sets the heart rate; the other structures have slower intrinsic rates and normally do not control rate.",
+      "explanationImage": null,
+      "tags": [
+        "ECG Fundamentals",
+        "Cardiac Conduction Pathway"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch05-q060",
+      "stem": "Electrical activity spreads through both atria and produces the P wave; the impulse then arrives at the:",
+      "image": null,
+      "options": [
+        "AV node",
+        "Purkinje fibers",
+        "Left bundle branch",
+        "Ventricular apex"
+      ],
+      "answer": 0,
+      "explanation": "After atrial activation, the impulse converges on the AV node, where it is briefly delayed before entering the ventricular conduction system. ---",
+      "explanationImage": null,
+      "tags": [
+        "ECG Fundamentals",
+        "ECG Waveform Components — P Wave, QRS Complex, and T Wave"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch05-q061",
+      "stem": "The P wave on the ECG represents:",
+      "image": null,
+      "options": [
+        "Atrial depolarization",
+        "Ventricular depolarization",
+        "Ventricular repolarization",
+        "AV nodal conduction delay"
+      ],
+      "answer": 0,
+      "explanation": "The P wave is the first waveform component and represents depolarization of the atrial muscle. The AV delay is represented by the PR segment, not the P wave itself.",
+      "explanationImage": null,
+      "tags": [
+        "ECG Fundamentals",
+        "ECG Waveform Components — P Wave, QRS Complex, and T Wave"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch05-q062",
+      "stem": "The QRS complex represents:",
+      "image": null,
+      "options": [
+        "Atrial repolarization",
+        "Ventricular depolarization",
+        "Ventricular repolarization",
+        "Atrial depolarization"
+      ],
+      "answer": 1,
+      "explanation": "The QRS complex is the record of ventricular muscle depolarization. Because the ventricles are the largest mass, this deflection is the largest on the tracing.",
+      "explanationImage": null,
+      "tags": [
+        "ECG Fundamentals",
+        "ECG Waveform Components — P Wave, QRS Complex, and T Wave"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch05-q063",
+      "stem": "The T wave represents:",
+      "image": null,
+      "options": [
+        "Atrial depolarization",
+        "Ventricular depolarization",
+        "Sinus node discharge",
+        "Ventricular repolarization"
+      ],
+      "answer": 3,
+      "explanation": "The T wave represents electrical recovery (repolarization) of the ventricles; it is followed by ventricular relaxation and diastole.",
+      "explanationImage": null,
+      "tags": [
+        "ECG Fundamentals",
+        "ECG Waveform Components — P Wave, QRS Complex, and T Wave"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch05-q064",
+      "stem": "Atrial repolarization does not appear as a distinct deflection on the ECG because:",
+      "image": null,
+      "options": [
+        "The atria do not repolarize",
+        "It occurs during the TP segment when the tracing is flat",
+        "It is buried within the QRS complex during ventricular depolarization",
+        "It is identical to the T wave in timing"
+      ],
+      "answer": 2,
+      "explanation": "Atrial repolarization coincides with ventricular depolarization; the larger QRS voltage overwhelms the small atrial recovery signal, hiding it within the complex.",
+      "explanationImage": null,
+      "tags": [
+        "ECG Fundamentals",
+        "ECG Waveform Components — P Wave, QRS Complex, and T Wave"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch05-q065",
+      "stem": "On a routine tracing, one P–QRS–T sequence reflects:",
+      "image": null,
+      "options": [
+        "One minute of rhythm",
+        "One cardiac cycle",
+        "One full respiratory cycle",
+        "One atrial contraction only"
+      ],
+      "answer": 1,
+      "explanation": "\"One tracing reflects one cardiac cycle\" — the complete waveform sequence corresponds to a single cycle of atrial and ventricular electrical activity.",
+      "explanationImage": null,
+      "tags": [
+        "ECG Fundamentals",
+        "ECG Waveform Components — P Wave, QRS Complex, and T Wave"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch05-q066",
+      "stem": "Which of the following describes a normal P wave in lead II?",
+      "image": null,
+      "options": [
+        "Small, upright, rounded, and less than 0.12 second in duration",
+        "Broad and notched",
+        "Tall and peaked",
+        "Inverted and wider than the QRS"
+      ],
+      "answer": 0,
+      "explanation": "A normal P wave is a small, smooth, upright deflection (in lead II) lasting less than 0.12 s. Notched or peaked P waves suggest atrial enlargement; the P wave is never wider than the QRS.",
+      "explanationImage": null,
+      "tags": [
+        "ECG Fundamentals",
+        "ECG Waveform Components — P Wave, QRS Complex, and T Wave"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch05-q067",
+      "stem": "On the ECG, the first negative deflection preceding the R wave is called the:",
+      "image": null,
+      "options": [
+        "S wave",
+        "U wave",
+        "T wave",
+        "Q wave"
+      ],
+      "answer": 3,
+      "explanation": "In QRS nomenclature, a negative deflection before the R wave is a Q wave, the upward deflection is the R wave, and a negative deflection after the R wave is an S wave.",
+      "explanationImage": null,
+      "tags": [
+        "ECG Fundamentals",
+        "ECG Waveform Components — P Wave, QRS Complex, and T Wave"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch05-q068",
+      "stem": "The normal duration of the QRS complex in adults is:",
+      "image": null,
+      "options": [
+        "0.20–0.30 second",
+        "0.12–0.20 second",
+        "0.06–0.10 second",
+        "0.30–0.40 second"
+      ],
+      "answer": 2,
+      "explanation": "Rapid Purkinje conduction normally completes ventricular depolarization in 0.06–0.10 s. Durations of 0.12 s or greater are abnormal (e.g., bundle branch block).",
+      "explanationImage": null,
+      "tags": [
+        "ECG Fundamentals",
+        "ECG Waveform Components — P Wave, QRS Complex, and T Wave"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch05-q069",
+      "stem": "A QRS complex measuring 0.14 second suggests:",
+      "image": null,
+      "options": [
+        "First-degree AV block",
+        "Accelerated AV conduction",
+        "Abnormal ventricular conduction, such as bundle branch block or a ventricular origin",
+        "Atrial enlargement"
+      ],
+      "answer": 2,
+      "explanation": "A QRS wider than 0.12 s indicates abnormal, prolonged ventricular depolarization — classically bundle branch block, ventricular ectopy, or ventricular pacing. AV block widens the PR, not the QRS.",
+      "explanationImage": null,
+      "tags": [
+        "ECG Fundamentals",
+        "ECG Waveform Components — P Wave, QRS Complex, and T Wave"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch05-q070",
+      "stem": "A broad, notched (bifid) P wave in lead II is most suggestive of:",
+      "image": null,
+      "options": [
+        "Right ventricular hypertrophy",
+        "Bundle branch block",
+        "Pericardial effusion",
+        "Left atrial enlargement"
+      ],
+      "answer": 3,
+      "explanation": "Prolonged, notched atrial depolarization reflects an enlarged left atrium (\"P mitrale\") as seen in mitral valve disease — a finding relevant to the echocardiographer.",
+      "explanationImage": null,
+      "tags": [
+        "ECG Fundamentals",
+        "ECG Waveform Components — P Wave, QRS Complex, and T Wave"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch05-q071",
+      "stem": "A tall, peaked P wave in lead II is most suggestive of:",
+      "image": null,
+      "options": [
+        "Right atrial enlargement",
+        "Left atrial enlargement",
+        "Ventricular fibrillation",
+        "AV block"
+      ],
+      "answer": 0,
+      "explanation": "Tall, peaked P waves (\"P pulmonale\") reflect right atrial enlargement, often associated with right-sided pressure or volume overload — a correlate assessable on echo.",
+      "explanationImage": null,
+      "tags": [
+        "ECG Fundamentals",
+        "ECG Waveform Components — P Wave, QRS Complex, and T Wave"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch05-q072",
+      "stem": "Deep, symmetric T wave inversion across multiple leads is most commonly associated with:",
+      "image": null,
+      "options": [
+        "Normal variant only",
+        "Myocardial ischemia",
+        "Sinus tachycardia",
+        "First-degree AV block"
+      ],
+      "answer": 1,
+      "explanation": "T wave inversion reflects abnormal ventricular repolarization and is a classic sign of ischemia. It may also prompt echocardiographic evaluation for wall motion abnormalities.",
+      "explanationImage": null,
+      "tags": [
+        "ECG Fundamentals",
+        "ECG Waveform Components — P Wave, QRS Complex, and T Wave"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch05-q073",
+      "stem": "In a normal ECG, the ST segment appears:",
+      "image": null,
+      "options": [
+        "Deeply inverted",
+        "Sloping sharply upward",
+        "Elevated by at least 2 mm",
+        "Isoelectric (flat on the baseline)"
+      ],
+      "answer": 3,
+      "explanation": "The ST segment is normally flat (isoelectric), representing the plateau period when all ventricular cells are depolarized. Elevation or depression indicates abnormal repolarization.",
+      "explanationImage": null,
+      "tags": [
+        "ECG Fundamentals",
+        "ECG Waveform Components — P Wave, QRS Complex, and T Wave"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch05-q074",
+      "stem": "Significant ST segment elevation in the leads over an anatomic region of the heart suggests:",
+      "image": null,
+      "options": [
+        "Hypokalemia",
+        "Acute myocardial injury (infarction)",
+        "Sinus bradycardia",
+        "A normal variant in all patients"
+      ],
+      "answer": 1,
+      "explanation": "ST elevation is the hallmark of acute transmural myocardial injury. The regional lead distribution helps localize the infarct, correlating with regional wall motion abnormalities on echo.",
+      "explanationImage": null,
+      "tags": [
+        "ECG Fundamentals",
+        "ECG Waveform Components — P Wave, QRS Complex, and T Wave"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch05-q075",
+      "stem": "The junction between the end of the QRS complex and the beginning of the ST segment is called the:",
+      "image": null,
+      "options": [
+        "R prime",
+        "TP segment",
+        "J point",
+        "Delta wave"
+      ],
+      "answer": 2,
+      "explanation": "The J point marks where ventricular depolarization ends and repolarization's plateau (ST segment) begins; it is the reference point for measuring ST deviation.",
+      "explanationImage": null,
+      "tags": [
+        "ECG Fundamentals",
+        "ECG Waveform Components — P Wave, QRS Complex, and T Wave"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch05-q076",
+      "stem": "The small deflection that sometimes follows the T wave is the:",
+      "image": null,
+      "options": [
+        "U wave",
+        "Q wave",
+        "P prime wave",
+        "S wave"
+      ],
+      "answer": 0,
+      "explanation": "The U wave is a small, low-amplitude deflection after the T wave, thought to represent late repolarization; it becomes prominent in hypokalemia and drug effects.",
+      "explanationImage": null,
+      "tags": [
+        "ECG Fundamentals",
+        "ECG Waveform Components — P Wave, QRS Complex, and T Wave"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch05-q077",
+      "stem": "The P wave represents which of the following?",
+      "image": null,
+      "options": [
+        "Depolarization of the atrial muscle, not the firing of the SA node itself",
+        "The SA node's internal pacemaker potential",
+        "Ventricular contraction",
+        "Repolarization of the bundle branches"
+      ],
+      "answer": 0,
+      "explanation": "The SA node's own discharge is too small to be recorded on the surface ECG; the P wave reflects the atrial muscle depolarization the SA node's impulse triggers.",
+      "explanationImage": null,
+      "tags": [
+        "ECG Fundamentals",
+        "ECG Waveform Components — P Wave, QRS Complex, and T Wave"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch05-q078",
+      "stem": "Ventricular depolarization takes longer on the ECG than atrial depolarization because:",
+      "image": null,
+      "options": [
+        "The AV node slows ventricular conduction completely",
+        "The T wave overlaps the QRS",
+        "The ventricular muscle mass is much larger than the atrial mass",
+        "The bundle branches conduct more slowly than atrial tissue"
+      ],
+      "answer": 2,
+      "explanation": "Depolarization time relates to muscle mass: the far larger ventricles require a longer interval (up to 0.10 s) than the small atria (~0.08–0.11 s), making the QRS the largest, widest normal deflection.",
+      "explanationImage": null,
+      "tags": [
+        "ECG Fundamentals",
+        "ECG Waveform Components — P Wave, QRS Complex, and T Wave"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch05-q079",
+      "stem": "An ECG tracing with no identifiable P waves and an irregularly irregular ventricular rhythm is most consistent with:",
+      "image": null,
+      "options": [
+        "Normal sinus rhythm",
+        "Atrial fibrillation",
+        "First-degree AV block",
+        "Sinus bradycardia"
+      ],
+      "answer": 1,
+      "explanation": "In atrial fibrillation, organized atrial depolarization is replaced by chaotic fibrillatory activity (no P waves), and the AV node conducts impulses irregularly, producing an irregularly irregular rhythm.",
+      "explanationImage": null,
+      "tags": [
+        "ECG Fundamentals",
+        "ECG Waveform Components — P Wave, QRS Complex, and T Wave"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch05-q080",
+      "stem": "The QT interval represents:",
+      "image": null,
+      "options": [
+        "Atrial depolarization only",
+        "AV conduction time",
+        "Ventricular depolarization only",
+        "The total duration of ventricular depolarization and repolarization"
+      ],
+      "answer": 3,
+      "explanation": "Measured from QRS onset to the end of the T wave, the QT encompasses the entire electrical systole of the ventricles — depolarization plus repolarization. ---",
+      "explanationImage": null,
+      "tags": [
+        "ECG Fundamentals",
+        "ECG Intervals and Measurements — PR, QRS, QT, and Grid Timing"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch05-q081",
+      "stem": "The normal adult PR interval is:",
+      "image": null,
+      "options": [
+        "0.04–0.10 second",
+        "0.12–0.20 second",
+        "0.24–0.32 second",
+        "0.36–0.44 second"
+      ],
+      "answer": 1,
+      "explanation": "The PR interval normally spans 0.12–0.20 s (3–5 small boxes), reflecting physiologic AV nodal delay. Values outside this range suggest conduction abnormality.",
+      "explanationImage": null,
+      "tags": [
+        "ECG Fundamentals",
+        "ECG Intervals and Measurements — PR, QRS, QT, and Grid Timing"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch05-q082",
+      "stem": "On the tracing, the PR interval is measured from:",
+      "image": null,
+      "options": [
+        "The peak of the P wave to the peak of the R wave",
+        "The end of the P wave to the end of the QRS",
+        "The beginning of the P wave to the end of the T wave",
+        "The beginning of the P wave to the beginning of the QRS complex"
+      ],
+      "answer": 3,
+      "explanation": "Interval measurement convention starts at the onset of the first wave and ends at the onset of the next: P onset to QRS onset defines the PR interval.",
+      "explanationImage": null,
+      "tags": [
+        "ECG Fundamentals",
+        "ECG Intervals and Measurements — PR, QRS, QT, and Grid Timing"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch05-q083",
+      "stem": "A PR interval consistently greater than 0.20 second with a P wave before every QRS indicates:",
+      "image": null,
+      "options": [
+        "First-degree AV block",
+        "Third-degree AV block",
+        "Atrial fibrillation",
+        "Normal sinus conduction"
+      ],
+      "answer": 0,
+      "explanation": "A uniformly prolonged PR (>0.20 s) with 1:1 AV conduction is first-degree AV block: every impulse is conducted, but slowly through the AV node.",
+      "explanationImage": null,
+      "tags": [
+        "ECG Fundamentals",
+        "ECG Intervals and Measurements — PR, QRS, QT, and Grid Timing"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch05-q084",
+      "stem": "A PR interval shorter than 0.12 second suggests:",
+      "image": null,
+      "options": [
+        "Second-degree AV block",
+        "Delayed AV nodal conduction",
+        "Abnormally rapid AV conduction or an accessory pathway",
+        "Ventricular repolarization abnormality"
+      ],
+      "answer": 2,
+      "explanation": "An abnormally short PR means the impulse bypassed or raced through the normal AV delay — as in a junctional rhythm or pre-excitation (accessory pathway) — rather than a delay.",
+      "explanationImage": null,
+      "tags": [
+        "ECG Fundamentals",
+        "ECG Intervals and Measurements — PR, QRS, QT, and Grid Timing"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch05-q085",
+      "stem": "A QRS complex is considered abnormally wide when its duration exceeds:",
+      "image": null,
+      "options": [
+        "0.06 second",
+        "0.08 second",
+        "0.12 second",
+        "0.20 second"
+      ],
+      "answer": 2,
+      "explanation": "Normal QRS duration is 0.06–0.10 s; 0.12 s (3 small boxes) is the accepted threshold for \"wide,\" indicating abnormal ventricular activation such as BBB or ventricular ectopy.",
+      "explanationImage": null,
+      "tags": [
+        "ECG Fundamentals",
+        "ECG Intervals and Measurements — PR, QRS, QT, and Grid Timing"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch05-q086",
+      "stem": "The QT interval is measured from:",
+      "image": null,
+      "options": [
+        "The onset of the QRS complex to the end of the T wave",
+        "The onset of the P wave to the onset of the QRS",
+        "The peak of the R wave to the peak of the T wave",
+        "The end of the T wave to the next P wave"
+      ],
+      "answer": 0,
+      "explanation": "The QT spans ventricular depolarization through repolarization, so it is measured from QRS onset to the terminal end of the T wave.",
+      "explanationImage": null,
+      "tags": [
+        "ECG Fundamentals",
+        "ECG Intervals and Measurements — PR, QRS, QT, and Grid Timing"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch05-q087",
+      "stem": "A normal QT interval at a typical resting heart rate is approximately:",
+      "image": null,
+      "options": [
+        "0.12–0.20 second",
+        "0.36–0.44 second",
+        "0.50–0.60 second",
+        "0.20–0.28 second"
+      ],
+      "answer": 1,
+      "explanation": "The normal QT is roughly 0.36–0.44 s at common resting rates, but it shortens with tachycardia and lengthens with bradycardia, which is why rate correction is used.",
+      "explanationImage": null,
+      "tags": [
+        "ECG Fundamentals",
+        "ECG Intervals and Measurements — PR, QRS, QT, and Grid Timing"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch05-q088",
+      "stem": "The corrected QT interval (QTc) is necessary because:",
+      "image": null,
+      "options": [
+        "The QT is unrelated to heart rate",
+        "The T wave cannot be measured",
+        "The QRS duration is always constant",
+        "The raw QT shortens as heart rate increases, so it must be adjusted for rate"
+      ],
+      "answer": 3,
+      "explanation": "Because QT duration varies inversely with heart rate, formulas such as Bazett's (QTc = QT/√RR) correct the measured QT to a rate-independent value for interpretation.",
+      "explanationImage": null,
+      "tags": [
+        "ECG Fundamentals",
+        "ECG Intervals and Measurements — PR, QRS, QT, and Grid Timing"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch05-q089",
+      "stem": "A markedly prolonged QT interval is clinically important because it predisposes the patient to:",
+      "image": null,
+      "options": [
+        "Sinus tachycardia",
+        "First-degree AV block",
+        "Atrial flutter",
+        "Polymorphic ventricular tachycardia (torsades de pointes)"
+      ],
+      "answer": 3,
+      "explanation": "Prolonged repolarization creates a vulnerable period during which early beats can trigger torsades de pointes, a life-threatening polymorphic VT.",
+      "explanationImage": null,
+      "tags": [
+        "ECG Fundamentals",
+        "ECG Intervals and Measurements — PR, QRS, QT, and Grid Timing"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch05-q090",
+      "stem": "At the standard ECG paper speed of 25 mm/second, one small horizontal box represents:",
+      "image": null,
+      "options": [
+        "0.20 second",
+        "0.10 second",
+        "0.04 second",
+        "0.12 second"
+      ],
+      "answer": 2,
+      "explanation": "At 25 mm/s, 1 mm = 0.04 s; each large box (5 mm) equals 0.20 s. These values are the basis of all ECG interval and rate calculations.",
+      "explanationImage": null,
+      "tags": [
+        "ECG Fundamentals",
+        "ECG Intervals and Measurements — PR, QRS, QT, and Grid Timing"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch05-q091",
+      "stem": "At a paper speed of 25 mm/second, one large box (5 small boxes) represents:",
+      "image": null,
+      "options": [
+        "0.04 second",
+        "0.20 second",
+        "1.00 second",
+        "0.60 second"
+      ],
+      "answer": 1,
+      "explanation": "Five small boxes of 0.04 s each total 0.20 s per large box. Five large boxes therefore equal 1.0 second, and 30 large boxes equal a 6-second strip.",
+      "explanationImage": null,
+      "tags": [
+        "ECG Fundamentals",
+        "ECG Intervals and Measurements — PR, QRS, QT, and Grid Timing"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch05-q092",
+      "stem": "With standard ECG voltage calibration, the vertical scale is set so that:",
+      "image": null,
+      "options": [
+        "10 mm equals 1 millivolt",
+        "1 mm equals 1 millivolt",
+        "10 mm equals 0.1 millivolt",
+        "25 mm equals 5 millivolts"
+      ],
+      "answer": 0,
+      "explanation": "Standard calibration is 10 mm = 1 mV; each vertical millimeter is 0.1 mV. This standardization allows waveform amplitudes to be compared across studies.",
+      "explanationImage": null,
+      "tags": [
+        "ECG Fundamentals",
+        "ECG Intervals and Measurements — PR, QRS, QT, and Grid Timing"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch05-q093",
+      "stem": "A PR interval that spans 4 small boxes on the tracing measures:",
+      "image": null,
+      "options": [
+        "0.16 second (normal)",
+        "0.24 second (blocked)",
+        "0.40 second (blocked)",
+        "0.04 second (abnormally short)"
+      ],
+      "answer": 0,
+      "explanation": "4 small boxes × 0.04 s = 0.16 s, comfortably within the normal 0.12–0.20 s range. Interval measurement by box counting is a core ECG skill.",
+      "explanationImage": null,
+      "tags": [
+        "ECG Fundamentals",
+        "ECG Intervals and Measurements — PR, QRS, QT, and Grid Timing"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch05-q094",
+      "stem": "A QRS complex spanning 2.5 small boxes measures:",
+      "image": null,
+      "options": [
+        "0.14 second (wide)",
+        "0.10 second (normal)",
+        "0.20 second (wide)",
+        "0.05 millivolt"
+      ],
+      "answer": 1,
+      "explanation": "2.5 × 0.04 s = 0.10 s, the upper limit of normal QRS duration. Time is counted in boxes, not millivolts — amplitude and duration use different scales.",
+      "explanationImage": null,
+      "tags": [
+        "ECG Fundamentals",
+        "ECG Intervals and Measurements — PR, QRS, QT, and Grid Timing"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch05-q095",
+      "stem": "An RR interval spanning 15 small boxes corresponds to:",
+      "image": null,
+      "options": [
+        "0.30 second",
+        "1.50 seconds",
+        "0.15 second",
+        "0.60 second"
+      ],
+      "answer": 3,
+      "explanation": "15 small boxes × 0.04 s = 0.60 s between R waves. By the rate formula (60 ÷ 0.60), this corresponds to a heart rate of 100 bpm.",
+      "explanationImage": null,
+      "tags": [
+        "ECG Fundamentals",
+        "ECG Intervals and Measurements — PR, QRS, QT, and Grid Timing"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch05-q096",
+      "stem": "When measuring waveform amplitudes on the ECG, the reference baseline used is the:",
+      "image": null,
+      "options": [
+        "Peak of the R wave",
+        "Center of the QRS complex",
+        "Isoelectric line (TP segment)",
+        "Bottom of the paper grid"
+      ],
+      "answer": 2,
+      "explanation": "Deviations are measured from the isoelectric baseline — typically the flat TP segment between the end of the T wave and the next P wave — where no electrical activity is recorded.",
+      "explanationImage": null,
+      "tags": [
+        "ECG Fundamentals",
+        "ECG Intervals and Measurements — PR, QRS, QT, and Grid Timing"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch05-q097",
+      "stem": "If the ECG paper speed is increased to 50 mm/second, each small box then represents:",
+      "image": null,
+      "options": [
+        "0.04 second",
+        "0.08 second",
+        "0.02 second",
+        "0.20 second"
+      ],
+      "answer": 2,
+      "explanation": "Doubling the paper speed halves the time per millimeter: 1 mm = 0.02 s and one large box = 0.10 s. Reading rules must be adjusted accordingly.",
+      "explanationImage": null,
+      "tags": [
+        "ECG Fundamentals",
+        "ECG Intervals and Measurements — PR, QRS, QT, and Grid Timing"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch05-q098",
+      "stem": "A PR interval spanning 5 small boxes measures:",
+      "image": null,
+      "options": [
+        "0.20 second — the upper limit of normal",
+        "0.12 second — the lower limit of normal",
+        "0.08 second — abnormally short",
+        "0.25 second — first-degree block"
+      ],
+      "answer": 0,
+      "explanation": "5 × 0.04 s = 0.20 s, exactly the upper boundary of the normal PR range. Anything longer is first-degree AV block.",
+      "explanationImage": null,
+      "tags": [
+        "ECG Fundamentals",
+        "ECG Intervals and Measurements — PR, QRS, QT, and Grid Timing"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch05-q099",
+      "stem": "Standard ECG calibration can be verified by confirming that the calibration mark measures:",
+      "image": null,
+      "options": [
+        "2 mm tall",
+        "20 mm tall",
+        "5 mm tall",
+        "10 mm tall"
+      ],
+      "answer": 3,
+      "explanation": "The standard calibration pulse is 10 mm (1 mV) tall, confirming the vertical scale before waveform amplitudes are interpreted.",
+      "explanationImage": null,
+      "tags": [
+        "ECG Fundamentals",
+        "ECG Intervals and Measurements — PR, QRS, QT, and Grid Timing"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch05-q100",
+      "stem": "The ST segment is measured from:",
+      "image": null,
+      "options": [
+        "P wave onset to QRS onset",
+        "QRS onset to T wave onset",
+        "The end of the QRS (J point) to the beginning of the T wave",
+        "The end of the T wave to the next P wave"
+      ],
+      "answer": 2,
+      "explanation": "The ST segment lies between the end of ventricular depolarization (J point) and the start of repolarization (T wave onset); it is normally isoelectric. ---",
+      "explanationImage": null,
+      "tags": [
+        "ECG Fundamentals",
+        "Heart Rate Calculation — the 300 Rule, 6-Second Rule, and Rate Boundaries"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch05-q101",
+      "stem": "The \"300 rule\" for estimating heart rate on a regular ECG states that the rate equals:",
+      "image": null,
+      "options": [
+        "The number of small boxes between R waves multiplied by 0.04",
+        "The number of QRS complexes in 3 seconds",
+        "300 divided by the number of large boxes between consecutive R waves",
+        "The number of P waves counted in 1 minute"
+      ],
+      "answer": 2,
+      "explanation": "Because each large box is 0.20 s, dividing 300 by the number of large boxes between R waves gives the rate (e.g., 300 ÷ 4 = 75 bpm). This shortcut works only for regular rhythms.",
+      "explanationImage": null,
+      "tags": [
+        "ECG Fundamentals",
+        "Heart Rate Calculation — the 300 Rule, 6-Second Rule, and Rate Boundaries"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch05-q102",
+      "stem": "Using the 300 rule, a rhythm with 4 large boxes between consecutive R waves has a heart rate of:",
+      "image": null,
+      "options": [
+        "150 bpm",
+        "60 bpm",
+        "50 bpm",
+        "75 bpm"
+      ],
+      "answer": 3,
+      "explanation": "300 ÷ 4 = 75 bpm. Cross-check: an RR of 0.80 s gives 60 ÷ 0.80 = 75 bpm, confirming the shortcut.",
+      "explanationImage": null,
+      "tags": [
+        "ECG Fundamentals",
+        "Heart Rate Calculation — the 300 Rule, 6-Second Rule, and Rate Boundaries"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch05-q103",
+      "stem": "A regular rhythm with an RR interval of 2 large boxes corresponds to a rate of:",
+      "image": null,
+      "options": [
+        "150 bpm",
+        "75 bpm",
+        "100 bpm",
+        "60 bpm"
+      ],
+      "answer": 0,
+      "explanation": "300 ÷ 2 = 150 bpm. The shorter the RR interval, the faster the rate — a useful mental anchor for the 300-rule sequence (300, 150, 100, 75, 60, 50).",
+      "explanationImage": null,
+      "tags": [
+        "ECG Fundamentals",
+        "Heart Rate Calculation — the 300 Rule, 6-Second Rule, and Rate Boundaries"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch05-q104",
+      "stem": "On a regular tracing, R waves separated by 5 large boxes indicate a heart rate of:",
+      "image": null,
+      "options": [
+        "100 bpm",
+        "60 bpm",
+        "150 bpm",
+        "50 bpm"
+      ],
+      "answer": 1,
+      "explanation": "300 ÷ 5 = 60 bpm. Five large boxes equal 1.0 second between beats, so one beat occurs each second.",
+      "explanationImage": null,
+      "tags": [
+        "ECG Fundamentals",
+        "Heart Rate Calculation — the 300 Rule, 6-Second Rule, and Rate Boundaries"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch05-q105",
+      "stem": "A regular rhythm in which consecutive R waves are 3 large boxes apart has a rate of:",
+      "image": null,
+      "options": [
+        "75 bpm",
+        "50 bpm",
+        "60 bpm",
+        "100 bpm"
+      ],
+      "answer": 3,
+      "explanation": "300 ÷ 3 = 100 bpm, the upper boundary of the normal resting rate range.",
+      "explanationImage": null,
+      "tags": [
+        "ECG Fundamentals",
+        "Heart Rate Calculation — the 300 Rule, 6-Second Rule, and Rate Boundaries"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch05-q106",
+      "stem": "The 6-second rule for heart rate is performed by:",
+      "image": null,
+      "options": [
+        "Measuring the QT interval and doubling it",
+        "Counting the QRS complexes in a 30-large-box (6-second) strip and multiplying by 10",
+        "Dividing 300 by the number of small boxes between P waves",
+        "Averaging the R wave amplitudes"
+      ],
+      "answer": 1,
+      "explanation": "Counting QRS complexes in 6 seconds and multiplying by 10 gives beats per minute. Because it uses a window rather than a single interval, it remains valid for irregular rhythms.",
+      "explanationImage": null,
+      "tags": [
+        "ECG Fundamentals",
+        "Heart Rate Calculation — the 300 Rule, 6-Second Rule, and Rate Boundaries"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch05-q107",
+      "stem": "On a 6-second rhythm strip, 7 QRS complexes are counted. The heart rate is approximately:",
+      "image": null,
+      "options": [
+        "60 bpm",
+        "140 bpm",
+        "70 bpm",
+        "42 bpm"
+      ],
+      "answer": 2,
+      "explanation": "7 complexes × 10 = 70 bpm. The 6-second rule gives an approximation (in multiples of 10) and is the preferred method for irregular rhythms.",
+      "explanationImage": null,
+      "tags": [
+        "ECG Fundamentals",
+        "Heart Rate Calculation — the 300 Rule, 6-Second Rule, and Rate Boundaries"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch05-q108",
+      "stem": "For an irregularly irregular rhythm, which rate method should the sonographer use?",
+      "image": null,
+      "options": [
+        "The 6-second rule",
+        "The 300 rule",
+        "The 1500 rule applied to one RR interval",
+        "Measuring the PR interval"
+      ],
+      "answer": 0,
+      "explanation": "With irregular rhythms, no single RR interval represents the rate, so interval-based shortcuts (300 rule, 1500 rule) are inaccurate; the 6-second count over many beats is used instead.",
+      "explanationImage": null,
+      "tags": [
+        "ECG Fundamentals",
+        "Heart Rate Calculation — the 300 Rule, 6-Second Rule, and Rate Boundaries"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch05-q109",
+      "stem": "Counting the number of small boxes between two consecutive R waves and dividing that number into 1500 provides:",
+      "image": null,
+      "options": [
+        "The most precise heart rate for a regular rhythm",
+        "The PR interval in milliseconds",
+        "The average rate over 6 seconds",
+        "The QTc interval"
+      ],
+      "answer": 0,
+      "explanation": "The 1500 rule uses the finest grid division (1 small box = 0.04 s; 1500 ÷ boxes = bpm), giving the most accurate single-beat rate — but only when the rhythm is regular.",
+      "explanationImage": null,
+      "tags": [
+        "ECG Fundamentals",
+        "Heart Rate Calculation — the 300 Rule, 6-Second Rule, and Rate Boundaries"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch05-q110",
+      "stem": "In a regular rhythm, 10 small boxes separate two R waves. The heart rate is:",
+      "image": null,
+      "options": [
+        "60 bpm",
+        "100 bpm",
+        "150 bpm",
+        "75 bpm"
+      ],
+      "answer": 2,
+      "explanation": "1500 ÷ 10 = 150 bpm. Equivalently, 10 small boxes = 2 large boxes, and 300 ÷ 2 = 150 bpm.",
+      "explanationImage": null,
+      "tags": [
+        "ECG Fundamentals",
+        "Heart Rate Calculation — the 300 Rule, 6-Second Rule, and Rate Boundaries"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch05-q111",
+      "stem": "In an adult, tachycardia is defined as a resting heart rate greater than:",
+      "image": null,
+      "options": [
+        "60 bpm",
+        "100 bpm",
+        "150 bpm",
+        "120 bpm"
+      ],
+      "answer": 1,
+      "explanation": "Tachycardia is a rate above 100 bpm in adults; bradycardia is below 60 bpm. The 60–100 range brackets normal resting rates.",
+      "explanationImage": null,
+      "tags": [
+        "ECG Fundamentals",
+        "Heart Rate Calculation — the 300 Rule, 6-Second Rule, and Rate Boundaries"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch05-q112",
+      "stem": "In an adult, bradycardia is defined as a resting heart rate less than:",
+      "image": null,
+      "options": [
+        "100 bpm",
+        "80 bpm",
+        "50 bpm",
+        "60 bpm"
+      ],
+      "answer": 3,
+      "explanation": "A rate below 60 bpm is bradycardia. Note that well-trained individuals may have rates in the 50s at rest, so clinical significance is judged with symptoms and hemodynamics.",
+      "explanationImage": null,
+      "tags": [
+        "ECG Fundamentals",
+        "Heart Rate Calculation — the 300 Rule, 6-Second Rule, and Rate Boundaries"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch05-q113",
+      "stem": "A heart rate of 75 bpm corresponds to an RR interval of approximately:",
+      "image": null,
+      "options": [
+        "0.60 second",
+        "0.80 second",
+        "1.00 second",
+        "0.50 second"
+      ],
+      "answer": 1,
+      "explanation": "Rate = 60 ÷ RR, so RR = 60 ÷ 75 = 0.80 s (4 large boxes), matching the 300-rule answer of 300 ÷ 4 = 75 bpm.",
+      "explanationImage": null,
+      "tags": [
+        "ECG Fundamentals",
+        "Heart Rate Calculation — the 300 Rule, 6-Second Rule, and Rate Boundaries"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch05-q114",
+      "stem": "The heart rate range for normal sinus rhythm in an adult is:",
+      "image": null,
+      "options": [
+        "40–60 bpm",
+        "50–120 bpm",
+        "100–150 bpm",
+        "60–100 bpm"
+      ],
+      "answer": 3,
+      "explanation": "Normal sinus rhythm requires a SA node–driven rate of 60–100 bpm with regular rhythm and normal waveform sequence. Rates outside this range are sinus brady- or tachycardia.",
+      "explanationImage": null,
+      "tags": [
+        "ECG Fundamentals",
+        "Heart Rate Calculation — the 300 Rule, 6-Second Rule, and Rate Boundaries"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch05-q115",
+      "stem": "In a patient with a heart rate of 180 bpm, the echocardiographer should anticipate:",
+      "image": null,
+      "options": [
+        "Markedly shortened diastole with reduced ventricular filling time",
+        "Prolonged diastolic filling",
+        "Increased stroke volume per beat",
+        "Widened QRS complexes as a direct rate effect"
+      ],
+      "answer": 0,
+      "explanation": "Tachycardia shortens diastole disproportionately, reducing filling time. Rapid rates also complicate image acquisition and make Doppler interpretation more difficult.",
+      "explanationImage": null,
+      "tags": [
+        "ECG Fundamentals",
+        "Heart Rate Calculation — the 300 Rule, 6-Second Rule, and Rate Boundaries"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch05-q116",
+      "stem": "A 6-second strip shows 12 QRS complexes. The heart rate is approximately:",
+      "image": null,
+      "options": [
+        "60 bpm",
+        "90 bpm",
+        "120 bpm",
+        "72 bpm"
+      ],
+      "answer": 2,
+      "explanation": "12 complexes × 10 = 120 bpm, which is tachycardia (>100 bpm in adults).",
+      "explanationImage": null,
+      "tags": [
+        "ECG Fundamentals",
+        "Heart Rate Calculation — the 300 Rule, 6-Second Rule, and Rate Boundaries"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch05-q117",
+      "stem": "The 300 rule gives inaccurate results when applied to atrial fibrillation because:",
+      "image": null,
+      "options": [
+        "There are no R waves in AFib",
+        "The paper speed is always doubled",
+        "The RR intervals vary, so no single interval represents the rate",
+        "The T waves are too tall"
+      ],
+      "answer": 2,
+      "explanation": "The 300 rule relies on one representative RR interval, which only exists when the rhythm is regular. Irregular rhythms require the 6-second counting method.",
+      "explanationImage": null,
+      "tags": [
+        "ECG Fundamentals",
+        "Heart Rate Calculation — the 300 Rule, 6-Second Rule, and Rate Boundaries"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch05-q118",
+      "stem": "A regular rhythm has an RR interval of 0.60 second. The heart rate is:",
+      "image": null,
+      "options": [
+        "100 bpm",
+        "75 bpm",
+        "60 bpm",
+        "150 bpm"
+      ],
+      "answer": 0,
+      "explanation": "60 ÷ 0.60 = 100 bpm. Equivalently, 0.60 s equals 3 large boxes and 300 ÷ 3 = 100 bpm.",
+      "explanationImage": null,
+      "tags": [
+        "ECG Fundamentals",
+        "Heart Rate Calculation — the 300 Rule, 6-Second Rule, and Rate Boundaries"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch05-q119",
+      "stem": "A patient's ECG shows a regular rate of 40 bpm with normal P–QRS–T sequences. On echocardiography, this rate would be expected to produce:",
+      "image": null,
+      "options": [
+        "Reduced ventricular filling time",
+        "Prolonged filling time with a risk of reduced cardiac output",
+        "Absent atrial contraction",
+        "Widened QRS complexes"
+      ],
+      "answer": 1,
+      "explanation": "Bradycardia lengthens diastole and filling time, but may reduce cardiac output if the rate is too slow to compensate with stroke volume, as noted in the lecture.",
+      "explanationImage": null,
+      "tags": [
+        "ECG Fundamentals",
+        "Heart Rate Calculation — the 300 Rule, 6-Second Rule, and Rate Boundaries"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch05-q120",
+      "stem": "With a ventricular rate of 150 bpm, which phase of the cardiac cycle is shortened the most?",
+      "image": null,
+      "options": [
+        "The QRS duration",
+        "Systolic ejection",
+        "The PR interval",
+        "Diastole (ventricular filling)"
+      ],
+      "answer": 3,
+      "explanation": "As rate increases, diastole shortens far more than systole, reducing filling time — the key hemodynamic consequence of tachycardia for the echocardiographer. ---",
+      "explanationImage": null,
+      "tags": [
+        "ECG Fundamentals",
+        "ECG Gating and Correlation of the ECG with Echo Events"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch05-q121",
+      "stem": "The primary purpose of ECG gating during echocardiography is to:",
+      "image": null,
+      "options": [
+        "Reduce transducer heating",
+        "Filter out respiratory motion",
+        "Calculate ejection fraction automatically",
+        "Synchronize image acquisition with specific phases of the cardiac cycle"
+      ],
+      "answer": 3,
+      "explanation": "Gating uses the ECG to trigger or tag image frames to known points in the cycle, enabling consistent identification of systole and diastole across beats and studies.",
+      "explanationImage": null,
+      "tags": [
+        "ECG Fundamentals",
+        "ECG Gating and Correlation of the ECG with Echo Events"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch05-q122",
+      "stem": "On the ECG, end-diastole (just before ventricular contraction) is conventionally identified at the:",
+      "image": null,
+      "options": [
+        "End of the T wave",
+        "Peak of the P wave",
+        "Onset of the QRS complex",
+        "Middle of the ST segment"
+      ],
+      "answer": 2,
+      "explanation": "The onset of the QRS marks the end of ventricular filling (maximum ventricular volume) and the electrical trigger of systole — the standard end-diastolic reference for measurements.",
+      "explanationImage": null,
+      "tags": [
+        "ECG Fundamentals",
+        "ECG Gating and Correlation of the ECG with Echo Events"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch05-q123",
+      "stem": "End-systole on the ECG corresponds most closely with:",
+      "image": null,
+      "options": [
+        "The onset of the P wave",
+        "The end of the T wave",
+        "The end of the PR segment",
+        "The peak of the R wave"
+      ],
+      "answer": 1,
+      "explanation": "Ventricular repolarization (T wave) occurs just before relaxation begins, so the end of the T wave marks the smallest ventricular volume — end-systole — used for systolic measurements.",
+      "explanationImage": null,
+      "tags": [
+        "ECG Fundamentals",
+        "ECG Gating and Correlation of the ECG with Echo Events"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch05-q124",
+      "stem": "Chamber dimension measurements during echocardiography are most often obtained during:",
+      "image": null,
+      "options": [
+        "End-diastole, at or just after the onset of the QRS",
+        "Mid-systole",
+        "Atrial contraction only",
+        "The TP segment of alternate beats"
+      ],
+      "answer": 0,
+      "explanation": "End-diastole is the standard phase for chamber measurements (e.g., LV internal diameter, wall thickness) because it represents maximal, reproducible ventricular volume.",
+      "explanationImage": null,
+      "tags": [
+        "ECG Fundamentals",
+        "ECG Gating and Correlation of the ECG with Echo Events"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch05-q125",
+      "stem": "When reviewing a stored cine loop, the sonographer uses the ECG to:",
+      "image": null,
+      "options": [
+        "Identify which frames correspond to each phase of the cardiac cycle",
+        "Increase the dynamic range",
+        "Adjust the focal zone",
+        "Measure blood pressure"
+      ],
+      "answer": 0,
+      "explanation": "Cine loops are tagged by ECG timing, so the reviewer can select end-diastolic or end-systolic frames for measurement and confirm that a full cycle was captured.",
+      "explanationImage": null,
+      "tags": [
+        "ECG Fundamentals",
+        "ECG Gating and Correlation of the ECG with Echo Events"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch05-q126",
+      "stem": "ECG gating improves echocardiographic measurements primarily by:",
+      "image": null,
+      "options": [
+        "Increasing the ultrasound frequency",
+        "Improving the consistency and reproducibility of chamber measurements",
+        "Eliminating the need for Doppler",
+        "Shortening the examination time by half"
+      ],
+      "answer": 1,
+      "explanation": "Measuring every heart at the same phase of the cycle makes serial and inter-patient comparisons valid — the core reason gating is essential during routine examinations.",
+      "explanationImage": null,
+      "tags": [
+        "ECG Fundamentals",
+        "ECG Gating and Correlation of the ECG with Echo Events"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch05-q127",
+      "stem": "Accurate Doppler timing assessment during echocardiography depends on the ECG because:",
+      "image": null,
+      "options": [
+        "Doppler cannot record without a QRS trigger",
+        "The ECG measures flow velocity directly",
+        "The ECG corrects aliasing",
+        "Spectral events must be correlated with cardiac timing"
+      ],
+      "answer": 3,
+      "explanation": "Doppler waveforms (e.g., mitral inflow E and A waves, LVOT outflow) are interpreted relative to the ECG, which identifies where in the cycle each flow event occurs.",
+      "explanationImage": null,
+      "tags": [
+        "ECG Fundamentals",
+        "ECG Gating and Correlation of the ECG with Echo Events"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch05-q128",
+      "stem": "During M-mode imaging, the ECG assists by:",
+      "image": null,
+      "options": [
+        "Computing valve areas automatically",
+        "Replacing the need for a transducer",
+        "Providing a timing reference for correlating valve motion with the cardiac cycle",
+        "Adjusting the sweep speed of the paper automatically"
+      ],
+      "answer": 2,
+      "explanation": "M-mode records one-dimensional motion over time, and the simultaneous ECG allows valve excursions (opening, closure) to be matched to their electrical events.",
+      "explanationImage": null,
+      "tags": [
+        "ECG Fundamentals",
+        "ECG Gating and Correlation of the ECG with Echo Events"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch05-q129",
+      "stem": "On an M-mode tracing of the aortic valve, aortic valve closure corresponds to:",
+      "image": null,
+      "options": [
+        "The onset of the QRS complex",
+        "The end of the T wave",
+        "The onset of the P wave",
+        "The peak of the R wave"
+      ],
+      "answer": 1,
+      "explanation": "Aortic valve closure ends ventricular ejection at end-systole, coinciding with the end of ventricular repolarization (end of the T wave) — a classic ECG–M-mode correlation.",
+      "explanationImage": null,
+      "tags": [
+        "ECG Fundamentals",
+        "ECG Gating and Correlation of the ECG with Echo Events"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch05-q130",
+      "stem": "Mitral valve opening in early diastole on M-mode corresponds most closely with which ECG timing?",
+      "image": null,
+      "options": [
+        "Just after the end of the T wave",
+        "During the QRS complex",
+        "At the onset of the P wave",
+        "At the peak of the R wave"
+      ],
+      "answer": 0,
+      "explanation": "After the T wave, the ventricles relax, LV pressure falls below LA pressure, and the mitral valve opens to begin rapid filling — shortly after the terminal T wave.",
+      "explanationImage": null,
+      "tags": [
+        "ECG Fundamentals",
+        "ECG Gating and Correlation of the ECG with Echo Events"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch05-q131",
+      "stem": "The onset of the QRS complex corresponds to which mechanical event?",
+      "image": null,
+      "options": [
+        "Mitral valve opening",
+        "Atrial repolarization",
+        "Aortic valve closure",
+        "The electrical trigger for the onset of ventricular contraction"
+      ],
+      "answer": 3,
+      "explanation": "The QRS onset marks ventricular depolarization, the electrical event that immediately precedes and triggers ventricular systole.",
+      "explanationImage": null,
+      "tags": [
+        "ECG Fundamentals",
+        "ECG Gating and Correlation of the ECG with Echo Events"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch05-q132",
+      "stem": "If a patient's ECG tracing is unreliable during an examination, the sonographer may fall back on:",
+      "image": null,
+      "options": [
+        "Skipping all measurements",
+        "Estimating phases from the respiratory cycle",
+        "Timing from valve motion on M-mode (e.g., mitral/aortic valve events)",
+        "Using only the P wave when available"
+      ],
+      "answer": 2,
+      "explanation": "Mechanical landmarks such as aortic valve closure and mitral valve opening on M-mode or Doppler can substitute for ECG timing, though measurements become less standardized.",
+      "explanationImage": null,
+      "tags": [
+        "ECG Fundamentals",
+        "ECG Gating and Correlation of the ECG with Echo Events"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch05-q133",
+      "stem": "During echocardiographic image acquisition, images are frozen:",
+      "image": null,
+      "options": [
+        "Only during expiration",
+        "Randomly, since phase does not matter",
+        "During specific cardiac phases identified by the ECG",
+        "Only during the P wave"
+      ],
+      "answer": 2,
+      "explanation": "The ECG displayed continuously during imaging allows frames to be frozen at chosen phases (classically end-diastole and end-systole) for measurement.",
+      "explanationImage": null,
+      "tags": [
+        "ECG Fundamentals",
+        "ECG Gating and Correlation of the ECG with Echo Events"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch05-q134",
+      "stem": "Throughout a standard echocardiographic examination, the ECG tracing is:",
+      "image": null,
+      "options": [
+        "Recorded only at the start of the study",
+        "Turned off during Doppler to reduce artifact",
+        "Recorded only at the end of the study",
+        "Displayed continuously during imaging"
+      ],
+      "answer": 3,
+      "explanation": "Continuous ECG display is standard practice so every image and Doppler sample can be correlated with the cardiac cycle in real time.",
+      "explanationImage": null,
+      "tags": [
+        "ECG Fundamentals",
+        "ECG Gating and Correlation of the ECG with Echo Events"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch05-q135",
+      "stem": "In a patient with an irregular rhythm, the most appropriate measurement strategy is to:",
+      "image": null,
+      "options": [
+        "Average measurements over several cardiac cycles",
+        "Measure only the beat with the tallest R wave",
+        "Report the single largest value",
+        "Use the first beat captured"
+      ],
+      "answer": 0,
+      "explanation": "Beat-to-beat variability makes single-beat measurements unrepresentative; averaging over several beats improves accuracy and reproducibility, per the lecture's sonographer guidance.",
+      "explanationImage": null,
+      "tags": [
+        "ECG Fundamentals",
+        "ECG Gating and Correlation of the ECG with Echo Events"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch05-q136",
+      "stem": "When interpreting a Doppler spectral tracing, flow events are timed by correlating them with:",
+      "image": null,
+      "options": [
+        "The respiratory waveform",
+        "The simultaneously recorded ECG tracing",
+        "The patient's blood pressure cuff",
+        "The transducer frequency"
+      ],
+      "answer": 1,
+      "explanation": "Doppler interpretation is linked with cardiac timing shown on the ECG, allowing events like valve opening and ejection onset to be identified precisely.",
+      "explanationImage": null,
+      "tags": [
+        "ECG Fundamentals",
+        "ECG Gating and Correlation of the ECG with Echo Events"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch05-q137",
+      "stem": "End-diastole is the preferred phase for measuring ventricular dimensions because at that moment:",
+      "image": null,
+      "options": [
+        "The myocardium is thickest",
+        "Valve gradients are maximal",
+        "The QRS amplitude is smallest",
+        "Ventricular volume is maximal and filling is complete"
+      ],
+      "answer": 3,
+      "explanation": "End-diastole represents the fully filled ventricle, providing a standardized, reproducible reference for chamber size and wall thickness.",
+      "explanationImage": null,
+      "tags": [
+        "ECG Fundamentals",
+        "ECG Gating and Correlation of the ECG with Echo Events"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch05-q138",
+      "stem": "On transmitral Doppler, the A wave (late filling) corresponds to which ECG event?",
+      "image": null,
+      "options": [
+        "The QRS complex",
+        "Atrial contraction, following the P wave",
+        "The T wave",
+        "The ST segment"
+      ],
+      "answer": 1,
+      "explanation": "The P wave triggers atrial contraction, which forces the late diastolic filling component (A wave). Loss of this relationship, as in atrial fibrillation, abolishes the A wave.",
+      "explanationImage": null,
+      "tags": [
+        "ECG Fundamentals",
+        "ECG Gating and Correlation of the ECG with Echo Events"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch05-q139",
+      "stem": "The R wave is typically chosen as the gating trigger point because it:",
+      "image": null,
+      "options": [
+        "Is the longest interval on the tracing",
+        "Represents atrial repolarization",
+        "Is tall, sharp, and easy to detect reliably on every beat",
+        "Occurs during diastole"
+      ],
+      "answer": 2,
+      "explanation": "The R wave's large amplitude and steep slope make it the most consistent, machine-detectable landmark, which is why R-wave triggering is the standard for ECG gating.",
+      "explanationImage": null,
+      "tags": [
+        "ECG Fundamentals",
+        "ECG Gating and Correlation of the ECG with Echo Events"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch05-q140",
+      "stem": "A properly gated cine loop in echocardiography typically displays:",
+      "image": null,
+      "options": [
+        "One or more complete cardiac cycles, timed by the ECG from end-diastole to end-diastole",
+        "Only the systolic frames",
+        "Only diastolic frames",
+        "A full minute of continuous imaging"
+      ],
+      "answer": 0,
+      "explanation": "Gated acquisition captures the cycle between successive R waves, ensuring the loop contains the complete systole and diastole needed for measurements and review. ---",
+      "explanationImage": null,
+      "tags": [
+        "ECG Fundamentals",
+        "Normal Sinus Rhythm and Basic Rhythm Recognition"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch05-q141",
+      "stem": "Which set of criteria defines normal sinus rhythm?",
+      "image": null,
+      "options": [
+        "Regular rhythm, rate 60–100, one upright P wave before every QRS, normal PR and QRS",
+        "Irregular rhythm with absent P waves",
+        "Rate 40–60 with wide QRS complexes",
+        "Rate >100 with irregular P waves"
+      ],
+      "answer": 0,
+      "explanation": "NSR requires SA node control: regular, evenly spaced beats at 60–100 bpm, one P wave for each QRS, a normal PR interval, and normal conduction through the physiological pathway.",
+      "explanationImage": null,
+      "tags": [
+        "ECG Fundamentals",
+        "Normal Sinus Rhythm and Basic Rhythm Recognition"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch05-q142",
+      "stem": "In normal sinus rhythm, each P wave is followed by:",
+      "image": null,
+      "options": [
+        "Two QRS complexes",
+        "A compensatory pause",
+        "Exactly one QRS complex",
+        "No QRS complex"
+      ],
+      "answer": 2,
+      "explanation": "A 1:1 P-to-QRS relationship confirms that every atrial impulse is conducted to the ventricles — a defining feature of NSR. More or fewer QRS complexes than P waves indicates AV block or other arrhythmia.",
+      "explanationImage": null,
+      "tags": [
+        "ECG Fundamentals",
+        "Normal Sinus Rhythm and Basic Rhythm Recognition"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch05-q143",
+      "stem": "Regularity of a rhythm on the tracing is assessed by comparing:",
+      "image": null,
+      "options": [
+        "The heights of consecutive T waves",
+        "The ST segment amplitudes",
+        "The paper speed calibration",
+        "The consistency of the RR (or PP) intervals across the strip"
+      ],
+      "answer": 3,
+      "explanation": "A regular rhythm shows even spacing between successive beats; NSR \"appears regular and evenly spaced.\" Varying RR intervals define an irregular rhythm.",
+      "explanationImage": null,
+      "tags": [
+        "ECG Fundamentals",
+        "Normal Sinus Rhythm and Basic Rhythm Recognition"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch05-q144",
+      "stem": "An ECG shows a perfectly regular rhythm at a rate of 110 bpm with one upright P wave preceding each QRS and a normal PR interval. The rhythm is:",
+      "image": null,
+      "options": [
+        "Normal sinus rhythm",
+        "Sinus bradycardia",
+        "Atrial fibrillation",
+        "Sinus tachycardia"
+      ],
+      "answer": 3,
+      "explanation": "The rhythm is otherwise normal but exceeds 100 bpm, making it sinus tachycardia. NSR and sinus bradycardia require rates within 60–100 and below 60, respectively.",
+      "explanationImage": null,
+      "tags": [
+        "ECG Fundamentals",
+        "Normal Sinus Rhythm and Basic Rhythm Recognition"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch05-q145",
+      "stem": "A regular rhythm at 45 bpm with a P wave before every QRS and a normal PR interval is:",
+      "image": null,
+      "options": [
+        "Atrial fibrillation",
+        "Sinus bradycardia",
+        "Ventricular tachycardia",
+        "Sinus tachycardia"
+      ],
+      "answer": 1,
+      "explanation": "The SA node still controls the rhythm (P before each QRS) but at a rate below 60 bpm — sinus bradycardia, which the lecture notes may reduce cardiac output.",
+      "explanationImage": null,
+      "tags": [
+        "ECG Fundamentals",
+        "Normal Sinus Rhythm and Basic Rhythm Recognition"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch05-q146",
+      "stem": "Lead II is most commonly used for the rhythm strip because:",
+      "image": null,
+      "options": [
+        "It has the largest QRS amplitude in every patient",
+        "It eliminates respiratory artifact",
+        "It records ventricular repolarization exclusively",
+        "Atrial depolarization (P waves) is usually most clearly visible in it"
+      ],
+      "answer": 3,
+      "explanation": "Lead II's axis parallels atrial depolarization, so P waves are upright and prominent, making it ideal for identifying rhythm and P–QRS relationships.",
+      "explanationImage": null,
+      "tags": [
+        "ECG Fundamentals",
+        "Normal Sinus Rhythm and Basic Rhythm Recognition"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch05-q147",
+      "stem": "A beat that occurs early and is preceded by an abnormal-looking P wave with a normal-duration QRS is a:",
+      "image": null,
+      "options": [
+        "Premature atrial contraction (PAC)",
+        "Premature ventricular contraction (PVC)",
+        "Escape beat",
+        "Third-degree AV block beat"
+      ],
+      "answer": 0,
+      "explanation": "An early beat arising in the atria shows a premature (often abnormal) P wave and conducts normally through the AV node, producing a narrow QRS. PVCs lack a preceding P wave and are wide.",
+      "explanationImage": null,
+      "tags": [
+        "ECG Fundamentals",
+        "Normal Sinus Rhythm and Basic Rhythm Recognition"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch05-q148",
+      "stem": "On the tracing, a premature ventricular contraction (PVC) is recognized by:",
+      "image": null,
+      "options": [
+        "An early beat with a narrow QRS and a preceding P wave",
+        "A dropped QRS after a prolonged PR",
+        "An early, wide, bizarre QRS complex without a preceding P wave",
+        "A short PR with a delta wave"
+      ],
+      "answer": 2,
+      "explanation": "PVCs originate from ventricular ectopic foci, bypassing the normal conduction system; the result is an early, wide (>0.12 s), abnormal QRS with no related P wave.",
+      "explanationImage": null,
+      "tags": [
+        "ECG Fundamentals",
+        "Normal Sinus Rhythm and Basic Rhythm Recognition"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch05-q149",
+      "stem": "The pause that commonly follows a PVC, during which the next normal beat is delayed, is termed a:",
+      "image": null,
+      "options": [
+        "Sinus arrest",
+        "Escape interval",
+        "Compensatory pause",
+        "Asystolic window"
+      ],
+      "answer": 2,
+      "explanation": "Because the PVC usually does not reset the SA node, the next sinus P wave arrives on schedule but cannot conduct (the ventricles are refractory), producing a full compensatory pause.",
+      "explanationImage": null,
+      "tags": [
+        "ECG Fundamentals",
+        "Normal Sinus Rhythm and Basic Rhythm Recognition"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch05-q150",
+      "stem": "The beat immediately following a PVC often produces a larger stroke volume because:",
+      "image": null,
+      "options": [
+        "The QRS is narrower",
+        "The longer filling interval (and enhanced contractility) increases preload",
+        "The heart rate is faster on that beat",
+        "The atria fibrillate during the pause"
+      ],
+      "answer": 1,
+      "explanation": "The post-PVC diastole is longer, so the ventricle fills more completely; by the Frank–Starling mechanism, the post-extrasystolic beat ejects a larger stroke volume, which can cause measurements to fluctuate.",
+      "explanationImage": null,
+      "tags": [
+        "ECG Fundamentals",
+        "Normal Sinus Rhythm and Basic Rhythm Recognition"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch05-q151",
+      "stem": "Which of the following best describes the ECG appearance of atrial fibrillation?",
+      "image": null,
+      "options": [
+        "Regular rhythm with sawtooth atrial waves",
+        "No organized P waves, chaotic fibrillatory baseline, and an irregularly irregular ventricular response",
+        "Regular rhythm with prolonged PR interval",
+        "Regular wide-complex rhythm at 200 bpm"
+      ],
+      "answer": 1,
+      "explanation": "In atrial fibrillation, organized atrial contraction no longer occurs; chaotic atrial activity replaces P waves, and the AV node conducts impulses at random intervals, producing an irregular ventricular rhythm.",
+      "explanationImage": null,
+      "tags": [
+        "ECG Fundamentals",
+        "Normal Sinus Rhythm and Basic Rhythm Recognition"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch05-q152",
+      "stem": "Loss of the atrial kick in atrial fibrillation reduces ventricular filling by approximately:",
+      "image": null,
+      "options": [
+        "80–90%",
+        "0% — the atria contribute nothing at any heart rate",
+        "50–60%",
+        "20–30%"
+      ],
+      "answer": 3,
+      "explanation": "Atrial contraction contributes roughly the last 20–30% of ventricular filling. Its loss (as in AFib) reduces filling and is especially significant when diastolic function is impaired.",
+      "explanationImage": null,
+      "tags": [
+        "ECG Fundamentals",
+        "Normal Sinus Rhythm and Basic Rhythm Recognition"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch05-q153",
+      "stem": "The term \"irregularly irregular\" on palpation or ECG most specifically suggests:",
+      "image": null,
+      "options": [
+        "Sinus arrhythmia with respiration",
+        "First-degree AV block",
+        "Sinus bradycardia",
+        "Atrial fibrillation"
+      ],
+      "answer": 3,
+      "explanation": "A completely random, unpredictable RR pattern with no organizing rhythm is characteristic of atrial fibrillation. Respiratory sinus arrhythmia varies in a regular, cyclic pattern instead.",
+      "explanationImage": null,
+      "tags": [
+        "ECG Fundamentals",
+        "Normal Sinus Rhythm and Basic Rhythm Recognition"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch05-q154",
+      "stem": "How does an irregular rhythm such as atrial fibrillation affect Doppler echocardiographic velocities?",
+      "image": null,
+      "options": [
+        "It has no effect on Doppler measurements",
+        "It systematically raises all velocities by 50%",
+        "Velocities vary from beat to beat with the varying stroke volume and filling",
+        "It only affects velocities recorded during systole"
+      ],
+      "answer": 2,
+      "explanation": "Variable RR intervals change diastolic filling times, so stroke volume and Doppler velocities (e.g., mitral inflow) fluctuate beat to beat, making measurements less reproducible.",
+      "explanationImage": null,
+      "tags": [
+        "ECG Fundamentals",
+        "Normal Sinus Rhythm and Basic Rhythm Recognition"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch05-q155",
+      "stem": "A perfectly regular, narrow-complex tachycardia at 170 bpm in which P waves are not clearly seen (buried in the preceding T waves) suggests:",
+      "image": null,
+      "options": [
+        "Sinus bradycardia",
+        "Supraventricular tachycardia",
+        "Complete heart block",
+        "Ventricular fibrillation"
+      ],
+      "answer": 1,
+      "explanation": "A regular, narrow-complex tachycardia without visible P waves indicates a rhythm originating above the ventricles (AV node or atria) at a rate too fast for P waves to be distinct.",
+      "explanationImage": null,
+      "tags": [
+        "ECG Fundamentals",
+        "Normal Sinus Rhythm and Basic Rhythm Recognition"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch05-q156",
+      "stem": "The key ECG distinction between a PAC and a PVC is that the PAC has:",
+      "image": null,
+      "options": [
+        "A preceding premature P wave and a normal-duration (narrow) QRS, while the PVC has no P wave and a wide, bizarre QRS",
+        "A wider QRS than the PVC",
+        "A longer pause than the PVC always",
+        "No effect on the following beat"
+      ],
+      "answer": 0,
+      "explanation": "PACs arise above the ventricles and conduct through the normal pathway (narrow QRS with a premature P wave); PVCs arise in the ventricles and depolarize them abnormally (wide QRS, no P wave).",
+      "explanationImage": null,
+      "tags": [
+        "ECG Fundamentals",
+        "Normal Sinus Rhythm and Basic Rhythm Recognition"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch05-q157",
+      "stem": "An ECG with a regular rate of 88 bpm, one upright P wave before each QRS, a PR of 0.16 s, and a QRS of 0.08 s is:",
+      "image": null,
+      "options": [
+        "Normal sinus rhythm",
+        "Sinus bradycardia",
+        "Atrial fibrillation",
+        "Second-degree AV block"
+      ],
+      "answer": 0,
+      "explanation": "All criteria are met: regular rhythm, rate within 60–100, 1:1 P–QRS relationship, normal PR (0.12–0.20 s), and normal QRS (0.06–0.10 s).",
+      "explanationImage": null,
+      "tags": [
+        "ECG Fundamentals",
+        "Normal Sinus Rhythm and Basic Rhythm Recognition"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch05-q158",
+      "stem": "Sinus arrhythmia is best described as:",
+      "image": null,
+      "options": [
+        "An irregular rhythm with absent P waves requiring cardioversion",
+        "A phasic variation in RR interval, usually with respiration, with every P wave still conducted",
+        "A regular rhythm faster than 100 bpm",
+        "A wide-complex rhythm originating in the ventricles"
+      ],
+      "answer": 1,
+      "explanation": "In sinus arrhythmia the SA node rate varies (classically speeding with inspiration), so RR intervals cycle regularly, but it is a normal benign variant with intact P–QRS relationships.",
+      "explanationImage": null,
+      "tags": [
+        "ECG Fundamentals",
+        "Normal Sinus Rhythm and Basic Rhythm Recognition"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch05-q159",
+      "stem": "A QRS complex that is not preceded by a P wave suggests that the impulse originated:",
+      "image": null,
+      "options": [
+        "In the SA node",
+        "In the atrial myocardium",
+        "From an ectopic atrial focus",
+        "Below the atria — in the AV junction or ventricles"
+      ],
+      "answer": 3,
+      "explanation": "Beats without a preceding P wave arise at or below the AV junction (junctional or ventricular escape beats, PVCs, or junctional rhythms), since atrial depolarization did not initiate the beat.",
+      "explanationImage": null,
+      "tags": [
+        "ECG Fundamentals",
+        "Normal Sinus Rhythm and Basic Rhythm Recognition"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch05-q160",
+      "stem": "A patient in sinus rhythm has a constant PR interval of 0.28 second with every P wave conducted. This is:",
+      "image": null,
+      "options": [
+        "Normal variant requiring no comment",
+        "Wolff–Parkinson–White syndrome",
+        "First-degree AV block",
+        "Third-degree AV block"
+      ],
+      "answer": 2,
+      "explanation": "A uniformly prolonged PR (>0.20 s) with 1:1 conduction defines first-degree AV block — delayed AV conduction but no dropped beats. ---",
+      "explanationImage": null,
+      "tags": [
+        "ECG Fundamentals",
+        "Rhythm Effects on Echocardiography — AFib, PVCs, Tachycardia, Bradycardia, and Bundle Branch Block"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch05-q161",
+      "stem": "The dominant echocardiographic relevance of atrial fibrillation is that it produces:",
+      "image": null,
+      "options": [
+        "Regular ventricular rhythm with enhanced atrial filling",
+        "An irregular ventricular rhythm with loss of organized atrial contraction",
+        "Widened QRS complexes from delayed ventricular activation",
+        "Increased reproducibility of Doppler measurements"
+      ],
+      "answer": 1,
+      "explanation": "AFib eliminates organized atrial contraction and produces an irregular ventricular response, so ventricular filling varies between cycles and Doppler velocities become inconsistent.",
+      "explanationImage": null,
+      "tags": [
+        "ECG Fundamentals",
+        "Rhythm Effects on Echocardiography — AFib, PVCs, Tachycardia, Bradycardia, and Bundle Branch Block"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch05-q162",
+      "stem": "On transmitral pulsed-wave Doppler in a patient with atrial fibrillation, the expected finding is:",
+      "image": null,
+      "options": [
+        "Variable E wave velocities with absence of the A wave",
+        "Tall, consistent A waves with every beat",
+        "Normal E–A separation with uniform velocities",
+        "Absent E waves with preserved A waves"
+      ],
+      "answer": 0,
+      "explanation": "Without organized atrial contraction, there is no atrial kick and therefore no A wave; the E wave amplitude varies with the random preceding RR intervals.",
+      "explanationImage": null,
+      "tags": [
+        "ECG Fundamentals",
+        "Rhythm Effects on Echocardiography — AFib, PVCs, Tachycardia, Bradycardia, and Bundle Branch Block"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch05-q163",
+      "stem": "To obtain representative measurements in atrial fibrillation, the sonographer should:",
+      "image": null,
+      "options": [
+        "Measure a single beat immediately after a long pause",
+        "Measure only the shortest RR interval",
+        "Discard the study as unmeasurable",
+        "Average measurements over multiple cardiac cycles"
+      ],
+      "answer": 3,
+      "explanation": "Because filling times and stroke volumes vary beat to beat, averaging over several cycles is the standard strategy for improving accuracy and reproducibility in irregular rhythms.",
+      "explanationImage": null,
+      "tags": [
+        "ECG Fundamentals",
+        "Rhythm Effects on Echocardiography — AFib, PVCs, Tachycardia, Bradycardia, and Bundle Branch Block"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch05-q164",
+      "stem": "Premature ventricular contractions (PVCs) originate from:",
+      "image": null,
+      "options": [
+        "The SA node",
+        "The AV node",
+        "Ventricular ectopic activity",
+        "The internodal atrial pathways"
+      ],
+      "answer": 2,
+      "explanation": "PVCs arise from an ectopic focus within the ventricular myocardium, depolarizing the ventricles outside the normal conduction pathway and producing a wide, abnormal QRS.",
+      "explanationImage": null,
+      "tags": [
+        "ECG Fundamentals",
+        "Rhythm Effects on Echocardiography — AFib, PVCs, Tachycardia, Bradycardia, and Bundle Branch Block"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch05-q165",
+      "stem": "The classic QRS morphology of a PVC is:",
+      "image": null,
+      "options": [
+        "Narrow with a preceding P wave",
+        "Normal in duration and contour",
+        "Wide (≥0.12 s), bizarre, with no preceding P wave",
+        "Split into two P waves"
+      ],
+      "answer": 2,
+      "explanation": "Because the impulse bypasses the Purkinje system and spreads cell-to-cell, ventricular depolarization is slow and abnormal, producing the wide, bizarre QRS described in the lecture.",
+      "explanationImage": null,
+      "tags": [
+        "ECG Fundamentals",
+        "Rhythm Effects on Echocardiography — AFib, PVCs, Tachycardia, Bradycardia, and Bundle Branch Block"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch05-q166",
+      "stem": "A PVC tends to reduce stroke volume for that beat because:",
+      "image": null,
+      "options": [
+        "It always occurs after full filling",
+        "It increases the heart rate",
+        "It originates above the AV node",
+        "The early contraction occurs before the ventricle has filled adequately"
+      ],
+      "answer": 3,
+      "explanation": "The premature beat interrupts diastole, so filling is incomplete and the ejected volume is small. The following post-PVC beat, with its longer filling time, often ejects more.",
+      "explanationImage": null,
+      "tags": [
+        "ECG Fundamentals",
+        "Rhythm Effects on Echocardiography — AFib, PVCs, Tachycardia, Bradycardia, and Bundle Branch Block"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch05-q167",
+      "stem": "The mechanism for the increased stroke volume of the beat following a PVC is primarily:",
+      "image": null,
+      "options": [
+        "Increased preload from the prolonged filling interval, augmenting contraction (Frank–Starling mechanism)",
+        "A narrowing of the QRS",
+        "Decreased contractility from calcium depletion",
+        "Loss of atrial contraction"
+      ],
+      "answer": 0,
+      "explanation": "The compensatory pause extends diastole and filling, so the next sinus beat ejects a larger volume — the \"post-PVC beat may increase stroke volume\" phenomenon that causes measurement fluctuation.",
+      "explanationImage": null,
+      "tags": [
+        "ECG Fundamentals",
+        "Rhythm Effects on Echocardiography — AFib, PVCs, Tachycardia, Bradycardia, and Bundle Branch Block"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch05-q168",
+      "stem": "Frequent PVCs affect an echocardiographic study mainly by causing:",
+      "image": null,
+      "options": [
+        "Improved Doppler reproducibility",
+        "Fluctuation of functional measurements between cycles",
+        "Narrowing of all measured dimensions",
+        "Elimination of respiratory variation"
+      ],
+      "answer": 1,
+      "explanation": "Beat-to-beat differences in filling and contraction (PVC vs post-PVC vs normal beats) make functional measurements such as stroke volume and ejection fraction fluctuate unless averaged.",
+      "explanationImage": null,
+      "tags": [
+        "ECG Fundamentals",
+        "Rhythm Effects on Echocardiography — AFib, PVCs, Tachycardia, Bradycardia, and Bundle Branch Block"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch05-q169",
+      "stem": "The principal mechanical consequence of tachycardia relevant to echocardiography is:",
+      "image": null,
+      "options": [
+        "Prolonged ventricular filling time",
+        "Increased diastolic filling per beat",
+        "Wider QRS complexes",
+        "Shortened ventricular filling time"
+      ],
+      "answer": 3,
+      "explanation": "As heart rate increases, diastole shortens disproportionately, reducing filling time. This alters Doppler filling patterns and complicates both image acquisition and interpretation.",
+      "explanationImage": null,
+      "tags": [
+        "ECG Fundamentals",
+        "Rhythm Effects on Echocardiography — AFib, PVCs, Tachycardia, Bradycardia, and Bundle Branch Block"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch05-q170",
+      "stem": "Bradycardia is clinically significant during echocardiography because severe slowing may:",
+      "image": null,
+      "options": [
+        "Increase cardiac output without limit",
+        "Reduce cardiac output despite increased stroke volume",
+        "Eliminate atrial contraction",
+        "Shorten the QT interval permanently"
+      ],
+      "answer": 1,
+      "explanation": "Although each beat fills more completely, a rate that is too low cannot maintain cardiac output (CO = HR × SV). The lecture notes bradycardia may reduce cardiac output.",
+      "explanationImage": null,
+      "tags": [
+        "ECG Fundamentals",
+        "Rhythm Effects on Echocardiography — AFib, PVCs, Tachycardia, Bradycardia, and Bundle Branch Block"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch05-q171",
+      "stem": "Rapid heart rates complicate echocardiographic image acquisition primarily because:",
+      "image": null,
+      "options": [
+        "The ECG cannot be recorded simultaneously",
+        "Diastole becomes excessively long",
+        "There is less time per cycle to sample and frames per phase become fewer",
+        "The transducer must be removed during tachycardia"
+      ],
+      "answer": 2,
+      "explanation": "At high rates, each cardiac phase lasts only a few frames, making freezing at end-diastole or end-systole and interpreting Doppler considerably more difficult.",
+      "explanationImage": null,
+      "tags": [
+        "ECG Fundamentals",
+        "Rhythm Effects on Echocardiography — AFib, PVCs, Tachycardia, Bradycardia, and Bundle Branch Block"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch05-q172",
+      "stem": "The fundamental electrical abnormality in bundle branch block is:",
+      "image": null,
+      "options": [
+        "Delayed activation of the ventricle served by the blocked branch",
+        "Accelerated AV conduction",
+        "Loss of atrial depolarization",
+        "SA node failure"
+      ],
+      "answer": 0,
+      "explanation": "With one bundle branch blocked, the affected ventricle is activated late by spread from the other ventricle, producing dyssynchronous contraction and a wide QRS.",
+      "explanationImage": null,
+      "tags": [
+        "ECG Fundamentals",
+        "Rhythm Effects on Echocardiography — AFib, PVCs, Tachycardia, Bradycardia, and Bundle Branch Block"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch05-q173",
+      "stem": "In left bundle branch block, the echocardiographer should anticipate:",
+      "image": null,
+      "options": [
+        "Abnormal septal motion due to dyssynchronous ventricular activation",
+        "Uniform, simultaneous biventricular contraction",
+        "Absent atrial contraction",
+        "A narrow QRS on the ECG"
+      ],
+      "answer": 0,
+      "explanation": "Delayed left ventricular activation makes the septum move abnormally (paradoxically), alters ventricular measurements, and may cause ejection fraction estimates to vary.",
+      "explanationImage": null,
+      "tags": [
+        "ECG Fundamentals",
+        "Rhythm Effects on Echocardiography — AFib, PVCs, Tachycardia, Bradycardia, and Bundle Branch Block"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch05-q174",
+      "stem": "Ventricular dyssynchrony from bundle branch block affects echocardiographic assessment by:",
+      "image": null,
+      "options": [
+        "Making the ventricles contract simultaneously",
+        "Eliminating the need for gating",
+        "Altering ventricular measurements and potentially causing ejection fraction estimates to vary",
+        "Improving wall motion analysis"
+      ],
+      "answer": 2,
+      "explanation": "Because the ventricles contract at different times, dimensional and volumetric measurements at any single phase may not represent true global function, reducing measurement reliability.",
+      "explanationImage": null,
+      "tags": [
+        "ECG Fundamentals",
+        "Rhythm Effects on Echocardiography — AFib, PVCs, Tachycardia, Bradycardia, and Bundle Branch Block"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch05-q175",
+      "stem": "On the ECG, a complete bundle branch block is recognized by a QRS duration of:",
+      "image": null,
+      "options": [
+        "Less than 0.06 second",
+        "Greater than or equal to 0.12 second with an abnormal contour",
+        "Exactly 0.10 second",
+        "Only the ST segment elevation"
+      ],
+      "answer": 1,
+      "explanation": "Slowed cell-to-cell conduction beyond the block prolongs ventricular activation time to ≥0.12 s, and the QRS contour becomes abnormal (notched or slurred).",
+      "explanationImage": null,
+      "tags": [
+        "ECG Fundamentals",
+        "Rhythm Effects on Echocardiography — AFib, PVCs, Tachycardia, Bradycardia, and Bundle Branch Block"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch05-q176",
+      "stem": "Right bundle branch block (RBBB) causes which echocardiographic consequence?",
+      "image": null,
+      "options": [
+        "Loss of the Doppler A wave",
+        "Shortened PR interval",
+        "Immediate reduction in ejection fraction to zero",
+        "Delayed right ventricular activation with possible paradoxical septal motion"
+      ],
+      "answer": 3,
+      "explanation": "The right ventricle depolarizes late via the left ventricle, so RV contraction is delayed and septal motion may appear abnormal on echo — a pitfall in interpreting RV and septal measurements.",
+      "explanationImage": null,
+      "tags": [
+        "ECG Fundamentals",
+        "Rhythm Effects on Echocardiography — AFib, PVCs, Tachycardia, Bradycardia, and Bundle Branch Block"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch05-q177",
+      "stem": "Which patient rhythm most urgently requires the sonographer to average Doppler and dimensional measurements over several beats?",
+      "image": null,
+      "options": [
+        "Normal sinus rhythm at 72 bpm",
+        "Atrial fibrillation with an irregularly irregular ventricular response",
+        "Sinus bradycardia with a regular 55 bpm",
+        "Sinus rhythm with occasional uniform PACs"
+      ],
+      "answer": 1,
+      "explanation": "The irregularly irregular rhythm of AFib produces the greatest beat-to-beat variability in filling, stroke volume, and Doppler velocities, making multi-beat averaging essential.",
+      "explanationImage": null,
+      "tags": [
+        "ECG Fundamentals",
+        "Rhythm Effects on Echocardiography — AFib, PVCs, Tachycardia, Bradycardia, and Bundle Branch Block"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch05-q178",
+      "stem": "In a patient with marked sinus tachycardia, transmitral Doppler E and A waves may be difficult to distinguish because:",
+      "image": null,
+      "options": [
+        "The A wave disappears with any fast heart rate",
+        "Diastole is so short that E and A waves fuse together",
+        "Doppler cannot record at fast rates",
+        "The E wave equals the stroke volume"
+      ],
+      "answer": 1,
+      "explanation": "At rapid rates, diastole shortens dramatically, causing the early (E) and atrial (A) filling waves to merge into a single wave — one of several reasons Doppler interpretation becomes more difficult.",
+      "explanationImage": null,
+      "tags": [
+        "ECG Fundamentals",
+        "Rhythm Effects on Echocardiography — AFib, PVCs, Tachycardia, Bradycardia, and Bundle Branch Block"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch05-q179",
+      "stem": "During an echocardiographic study of a patient with frequent PVCs, the most defensible measurement practice is to:",
+      "image": null,
+      "options": [
+        "Measure sinus (non-PVC) beats and average several beats, excluding the PVC and noting the post-PVC beat's variability",
+        "Measure only the PVC beats",
+        "Report the first measurement regardless of beat type",
+        "Stop the study because PVCs always make measurements invalid"
+      ],
+      "answer": 0,
+      "explanation": "Sinus beats represent the patient's baseline function; PVC and immediate post-PVC beats have abnormal filling and contractility, so they should be excluded or averaged cautiously.",
+      "explanationImage": null,
+      "tags": [
+        "ECG Fundamentals",
+        "Rhythm Effects on Echocardiography — AFib, PVCs, Tachycardia, Bradycardia, and Bundle Branch Block"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch05-q180",
+      "stem": "The overarching principle connecting all rhythm effects on echo is that:",
+      "image": null,
+      "options": [
+        "Mechanical function follows electrical activity, so any rhythm disturbance alters the mechanical cycle being measured",
+        "Electrical activity is irrelevant to echo measurements",
+        "Only wide QRS rhythms affect Doppler",
+        "Echo measurements are immune to rhythm variation"
+      ],
+      "answer": 2,
+      "explanation": "\"Mechanical function follows electrical activity\": every rhythm disturbance (irregularity, rate change, dyssynchrony) changes filling, contraction timing, or coordination — and therefore the measurements. ---",
+      "explanationImage": null,
+      "tags": [
+        "ECG Fundamentals",
+        "Sonographer Practice, Patient Safety, and Integration"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch05-q181",
+      "stem": "Throughout the echocardiographic examination, the sonographer should:",
+      "image": null,
+      "options": [
+        "Turn off the ECG to reduce clutter",
+        "Record the ECG only at the end of the study",
+        "Monitor the ECG tracing continuously",
+        "Rely on the patient's pulse by touch instead of the ECG"
+      ],
+      "answer": 2,
+      "explanation": "Continuous ECG monitoring is standard practice: it provides real-time rhythm information, supports timing, and allows recognition of rhythms that affect image quality and patient safety.",
+      "explanationImage": null,
+      "tags": [
+        "ECG Fundamentals",
+        "Sonographer Practice, Patient Safety, and Integration"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch05-q182",
+      "stem": "If the patient becomes unstable during the echocardiographic examination, the correct action is to:",
+      "image": null,
+      "options": [
+        "Stop the examination, ensure patient safety, and notify the supervisor or responsible clinician",
+        "Continue imaging until the full protocol is complete",
+        "Leave the room and continue later without telling anyone",
+        "Increase the transducer pressure to improve images"
+      ],
+      "answer": 0,
+      "explanation": "Patient safety takes priority over completing the study. The lecture directs the sonographer to prioritize safety and notify the supervisor if the patient is unstable.",
+      "explanationImage": null,
+      "tags": [
+        "ECG Fundamentals",
+        "Sonographer Practice, Patient Safety, and Integration"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch05-q183",
+      "stem": "During an irregular rhythm, chamber and Doppler measurements should be:",
+      "image": null,
+      "options": [
+        "Taken from one beat and reported as definitive",
+        "Averaged over several cardiac cycles",
+        "Multiplied by the heart rate",
+        "Measured only during PVC beats"
+      ],
+      "answer": 1,
+      "explanation": "Because stroke volume and filling vary from beat to beat in irregular rhythms, averaging measurements improves accuracy and reproducibility.",
+      "explanationImage": null,
+      "tags": [
+        "ECG Fundamentals",
+        "Sonographer Practice, Patient Safety, and Integration"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch05-q184",
+      "stem": "Recognizing rhythms that affect image quality is important to the sonographer because:",
+      "image": null,
+      "options": [
+        "It replaces the need for an interpreting physician",
+        "The ECG determines the transducer frequency",
+        "It allows the exam to be stopped for any PAC",
+        "It guides how images are acquired, how measurements are averaged, and when findings need attention"
+      ],
+      "answer": 3,
+      "explanation": "The sonographer's stated responsibilities include recognizing rhythms affecting image quality, adjusting measurement strategy accordingly, and communicating clinically significant findings.",
+      "explanationImage": null,
+      "tags": [
+        "ECG Fundamentals",
+        "Sonographer Practice, Patient Safety, and Integration"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch05-q185",
+      "stem": "Which principle should guide the sonographer's conduct throughout the examination?",
+      "image": null,
+      "options": [
+        "Completing the study takes priority over the patient's condition",
+        "The ECG can be ignored if images look adequate",
+        "Rhythm changes during a study are never important",
+        "Patient safety is the priority during examinations"
+      ],
+      "answer": 3,
+      "explanation": "The lecture's explicit guidance: prioritize patient safety during examinations — including responding to instability or concerning rhythm changes rather than pushing on with imaging.",
+      "explanationImage": null,
+      "tags": [
+        "ECG Fundamentals",
+        "Sonographer Practice, Patient Safety, and Integration"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch05-q186",
+      "stem": "Which finding during an echocardiographic study most clearly warrants pausing the examination and alerting the supervising clinician?",
+      "image": null,
+      "options": [
+        "A consistent heart rate of 78 bpm throughout",
+        "One isolated PAC in an otherwise normal tracing",
+        "New sustained chest discomfort with hypotension and a rapidly changing rhythm",
+        "Sinus arrhythmia varying with respiration"
+      ],
+      "answer": 2,
+      "explanation": "Symptoms and hemodynamic instability with an acute rhythm change indicate an unstable patient; the examination stops and the team is notified. Benign findings (isolated PAC, sinus arrhythmia) do not require aborting the study.",
+      "explanationImage": null,
+      "tags": [
+        "ECG Fundamentals",
+        "Sonographer Practice, Patient Safety, and Integration"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch05-q187",
+      "stem": "A key takeaway of ECG fundamentals is that the normal cardiac rhythm is initiated by the:",
+      "image": null,
+      "options": [
+        "Purkinje fibers",
+        "SA node",
+        "Bundle of His",
+        "Left ventricular myocardium"
+      ],
+      "answer": 1,
+      "explanation": "\"The SA node initiates normal rhythm\": as the dominant pacemaker, it sets the rate and organizes the P–QRS–T sequence that defines sinus rhythm.",
+      "explanationImage": null,
+      "tags": [
+        "ECG Fundamentals",
+        "Sonographer Practice, Patient Safety, and Integration"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch05-q188",
+      "stem": "The statement \"mechanical function follows electrical activity\" implies that:",
+      "image": null,
+      "options": [
+        "ECG events can be used to predict and time the mechanical events measured by echo",
+        "Contraction precedes depolarization",
+        "The echo can time electrical events more precisely than the ECG",
+        "Mechanical and electrical events are independent"
+      ],
+      "answer": 0,
+      "explanation": "Because contraction reliably follows its electrical trigger, the ECG serves as the timing map for the mechanical events the echocardiographer measures and interprets.",
+      "explanationImage": null,
+      "tags": [
+        "ECG Fundamentals",
+        "Sonographer Practice, Patient Safety, and Integration"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch05-q189",
+      "stem": "The best single summary of the ECG's role during echocardiography is that it:",
+      "image": null,
+      "options": [
+        "Assists timing during the examination by identifying cardiac phases, improving measurement accuracy and consistency",
+        "Measures chamber sizes directly",
+        "Quantifies valve regurgitation",
+        "Estimates pulmonary pressures"
+      ],
+      "answer": 0,
+      "explanation": "The ECG's echo role is timing: it synchronizes acquisition, identifies systole and diastole, supports Doppler timing, and improves reproducibility between examinations.",
+      "explanationImage": null,
+      "tags": [
+        "ECG Fundamentals",
+        "Sonographer Practice, Patient Safety, and Integration"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch05-q190",
+      "stem": "Which of the following is a stated key takeaway regarding irregular rhythms?",
+      "image": null,
+      "options": [
+        "They never affect echocardiographic studies",
+        "They affect Doppler and measurement reproducibility",
+        "They always require terminating the study",
+        "They improve chamber measurement consistency"
+      ],
+      "answer": 1,
+      "explanation": "Irregular rhythms alter filling patterns, cause beat-to-beat variability in Doppler velocities and stroke volume, and make measurements less reproducible — requiring averaging strategies.",
+      "explanationImage": null,
+      "tags": [
+        "ECG Fundamentals",
+        "Sonographer Practice, Patient Safety, and Integration"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch05-q191",
+      "stem": "In a patient with atrial fibrillation, Doppler-derived mitral inflow and stroke volume values become inconsistent because:",
+      "image": null,
+      "options": [
+        "The AV node conducts every impulse identically",
+        "Ventricular filling is constant",
+        "Atrial contraction is enhanced",
+        "Ventricular filling varies between cardiac cycles with the loss of the atrial kick"
+      ],
+      "answer": 3,
+      "explanation": "Without organized atrial contraction and with irregular RR intervals, filling time and volume change from beat to beat, so Doppler velocities become inconsistent.",
+      "explanationImage": null,
+      "tags": [
+        "ECG Fundamentals",
+        "Sonographer Practice, Patient Safety, and Integration"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch05-q192",
+      "stem": "Recognizing bundle branch block on the ECG before performing echo helps the sonographer to:",
+      "image": null,
+      "options": [
+        "Cancel the study",
+        "Assume all measurements will be normal",
+        "Anticipate dyssynchronous septal motion and interpret ventricular measurements accordingly",
+        "Ignore the septum entirely"
+      ],
+      "answer": 2,
+      "explanation": "Knowing BBB is present, the sonographer expects delayed ventricular activation, abnormal septal motion, and potentially variable ejection fraction estimates, and interprets measurements with that in mind.",
+      "explanationImage": null,
+      "tags": [
+        "ECG Fundamentals",
+        "Sonographer Practice, Patient Safety, and Integration"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch05-q193",
+      "stem": "An ECG shows a regular rhythm at 62 bpm, one upright P wave before each QRS, PR 0.16 s, and QRS 0.08 s. The rhythm is:",
+      "image": null,
+      "options": [
+        "Atrial fibrillation",
+        "Normal sinus rhythm",
+        "Ventricular tachycardia",
+        "Junctional rhythm"
+      ],
+      "answer": 1,
+      "explanation": "All normal sinus criteria are satisfied: regular rate within 60–100, 1:1 P–QRS relationship, normal PR and QRS, with conduction through the normal physiological pathway.",
+      "explanationImage": null,
+      "tags": [
+        "ECG Fundamentals",
+        "Sonographer Practice, Patient Safety, and Integration"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch05-q194",
+      "stem": "In a patient in sinus rhythm whose QRS measures 0.14 second, the most likely explanation is:",
+      "image": null,
+      "options": [
+        "A bundle branch block or other abnormality of ventricular conduction",
+        "First-degree AV block",
+        "Atrial enlargement",
+        "Normal variant — the QRS is within normal limits"
+      ],
+      "answer": 0,
+      "explanation": "A QRS ≥0.12 s exceeds normal ventricular activation time, indicating delayed conduction such as bundle branch block; AV block prolongs the PR interval, not the QRS.",
+      "explanationImage": null,
+      "tags": [
+        "ECG Fundamentals",
+        "Sonographer Practice, Patient Safety, and Integration"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch05-q195",
+      "stem": "On a regular rhythm, consecutive R waves are separated by 3.5 large boxes. The heart rate is approximately:",
+      "image": null,
+      "options": [
+        "50 bpm",
+        "120 bpm",
+        "300 bpm",
+        "86 bpm"
+      ],
+      "answer": 3,
+      "explanation": "300 ÷ 3.5 ≈ 86 bpm. The 300 rule extends to half-box precision; cross-check: 3.5 large boxes = 0.70 s, and 60 ÷ 0.70 ≈ 86 bpm.",
+      "explanationImage": null,
+      "tags": [
+        "ECG Fundamentals",
+        "Sonographer Practice, Patient Safety, and Integration"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch05-q196",
+      "stem": "A 6-second strip contains 9 QRS complexes. The estimated heart rate is:",
+      "image": null,
+      "options": [
+        "45 bpm",
+        "180 bpm",
+        "90 bpm",
+        "63 bpm"
+      ],
+      "answer": 2,
+      "explanation": "9 complexes × 10 = 90 bpm — within the normal 60–100 bpm range for an adult.",
+      "explanationImage": null,
+      "tags": [
+        "ECG Fundamentals",
+        "Sonographer Practice, Patient Safety, and Integration"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch05-q197",
+      "stem": "Which pairing of modality and recorded information is correct?",
+      "image": null,
+      "options": [
+        "ECG — chamber and valve motion; echo — rhythm strips",
+        "Both — Doppler velocities only",
+        "ECG — electrical activity, depolarization and repolarization timing; echo — mechanical function, structure, and flow",
+        "ECG — blood flow; echo — conduction intervals"
+      ],
+      "answer": 2,
+      "explanation": "The division between the two complementary modalities: the ECG records electrical timing, while echo evaluates the mechanical result — chambers, valves, motion, and blood flow.",
+      "explanationImage": null,
+      "tags": [
+        "ECG Fundamentals",
+        "Sonographer Practice, Patient Safety, and Integration"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch05-q198",
+      "stem": "The PR interval primarily reflects conduction time through the:",
+      "image": null,
+      "options": [
+        "SA node",
+        "Purkinje fibers",
+        "Ventricular myocardium",
+        "AV node"
+      ],
+      "answer": 3,
+      "explanation": "Most of the PR interval's duration is the deliberate AV nodal delay before the impulse enters the His–Purkinje system, which is why AV nodal disease first shows as PR prolongation.",
+      "explanationImage": null,
+      "tags": [
+        "ECG Fundamentals",
+        "Sonographer Practice, Patient Safety, and Integration"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch05-q199",
+      "stem": "On the ECG, the event that most closely coincides with mitral valve opening and the start of ventricular filling is the:",
+      "image": null,
+      "options": [
+        "End of the T wave (after ventricular repolarization)",
+        "Onset of the QRS complex",
+        "Peak of the R wave",
+        "Onset of the P wave"
+      ],
+      "answer": 0,
+      "explanation": "Ventricular repolarization (T wave) is followed by relaxation; as LV pressure falls below LA pressure, the mitral valve opens and rapid filling begins — shortly after the T wave ends.",
+      "explanationImage": null,
+      "tags": [
+        "ECG Fundamentals",
+        "Sonographer Practice, Patient Safety, and Integration"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch05-q200",
+      "stem": "Which of the following best summarizes why the ECG is essential during echocardiography?",
+      "image": null,
+      "options": [
+        "It measures wall thickness more precisely than 2D imaging",
+        "It provides the electrical timing that identifies cardiac phases, improving measurement accuracy, consistency, and patient safety",
+        "It eliminates the need for Doppler",
+        "It determines the transducer's imaging frequency"
+      ],
+      "answer": 1,
+      "explanation": "The ECG records the electrical activity whose timing identifies systole and diastole, synchronizes image acquisition, supports Doppler timing, enables recognition of rhythm effects — and ultimately improves study consistency and patient safety.",
+      "explanationImage": null,
+      "tags": [
+        "ECG Fundamentals",
+        "Sonographer Practice, Patient Safety, and Integration"
+      ],
+      "reference": ""
+    }
+  ]
+}

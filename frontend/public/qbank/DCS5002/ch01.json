@@ -1,76 +1,3804 @@
 {
   "chapterId": "ch01",
-  "title": "Cardiac Chambers & Walls",
+  "title": "Cardiovascular System Overview",
   "questions": [
     {
       "id": "DCS5002-ch01-q001",
-      "stem": "Which cardiac chamber forms most of the anterior (sternocostal) surface of the heart?",
+      "stem": "Which of the following best defines cardiovascular physiology?",
       "image": null,
       "options": [
-        "Left ventricle",
-        "Right ventricle",
-        "Left atrium",
-        "Right atrium"
+        "The study of the chemical composition of plasma and formed elements",
+        "The way in which the heart and blood vessels function to circulate blood and transport substances",
+        "The microscopic structure of lymph nodes and lymphatic vessels",
+        "The study of electrical conduction within the brain and spinal cord"
       ],
       "answer": 1,
-      "explanation": "The right ventricle lies directly behind the sternum and forms most of the anterior surface. The left atrium is the most posterior chamber.",
+      "explanation": "Physiology is defined as the way a living organism or bodily part functions, so cardiovascular physiology is how the heart and blood vessels work. Anatomy, by contrast, describes structure.",
       "explanationImage": null,
       "tags": [
-        "anatomy"
+        "Cardiovascular System Overview",
+        "Cardiovascular System Overview, Core Functions & Heart Rate"
       ],
       "reference": ""
     },
     {
       "id": "DCS5002-ch01-q002",
-      "stem": "The moderator band is an anatomic landmark of which chamber?",
+      "stem": "The cardiovascular system performs three core functions. Which of the following is NOT one of them?",
       "image": null,
       "options": [
-        "Left ventricle",
-        "Right atrium",
-        "Right ventricle",
-        "Left atrium"
+        "Control and regulation of body temperature, blood volume, and blood pressure",
+        "Transport and exchange of oxygen, carbon dioxide, nutrients, and hormones",
+        "Protection of the body through immune cells, antibodies, and clotting agents",
+        "Production of bile for the digestion of fats"
       ],
-      "answer": 2,
-      "explanation": "The moderator band (septomarginal trabecula) runs from the interventricular septum to the base of the anterior papillary muscle in the RV. It carries the right bundle branch and helps identify the morphologic right ventricle.",
+      "answer": 3,
+      "explanation": "Bile production is a liver (digestive) function, not a cardiovascular function. Transport/exchange, control/regulation, and protection are the three core functions stated in lecture.",
       "explanationImage": null,
       "tags": [
-        "RV"
+        "Cardiovascular System Overview",
+        "Cardiovascular System Overview, Core Functions & Heart Rate"
       ],
       "reference": ""
     },
     {
       "id": "DCS5002-ch01-q003",
-      "stem": "Normal left ventricular wall thickness at end-diastole in an adult is approximately:",
+      "stem": "In its transport and exchange role, the cardiovascular system moves which of the following?",
       "image": null,
       "options": [
-        "2-4 mm",
-        "6-10 mm",
-        "13-16 mm",
-        "18-22 mm"
+        "Oxygen and carbon dioxide only",
+        "Nutrients and metabolic waste only",
+        "Hormones only",
+        "Oxygen, carbon dioxide, nutrients, hormones, and metabolic waste"
       ],
-      "answer": 1,
-      "explanation": "Normal septal and posterior wall thickness is about 6-10 mm (slightly less in women). A thickness of 11 mm or more suggests hypertrophy, and 15 mm or more raises concern for hypertrophic cardiomyopathy.",
+      "answer": 3,
+      "explanation": "Transport and exchange includes all of these substances: gases, nutrients, hormones, and metabolic waste. Limiting transport to a single category misses the breadth of the function.",
       "explanationImage": null,
       "tags": [
-        "measurements"
+        "Cardiovascular System Overview",
+        "Cardiovascular System Overview, Core Functions & Heart Rate"
       ],
       "reference": ""
     },
     {
       "id": "DCS5002-ch01-q004",
-      "stem": "The fossa ovalis is located on which structure?",
+      "stem": "A 24-year-old patient exercises on a treadmill, and increased blood flow to the skin helps dissipate heat. This response is an example of which core cardiovascular function?",
       "image": null,
       "options": [
-        "Interventricular septum",
-        "Interatrial septum",
-        "Mitral annulus",
-        "Left atrial appendage"
+        "Protection",
+        "Transport and exchange",
+        "Control and regulation",
+        "Lymphatic drainage"
       ],
-      "answer": 1,
-      "explanation": "The fossa ovalis is a thin depression in the interatrial septum. It is the remnant of the fetal foramen ovale, and it is where secundum ASDs and patent foramen ovale occur.",
+      "answer": 2,
+      "explanation": "Regulating body temperature is explicitly part of the \"control and regulation\" function. The cardiovascular system adjusts blood flow to maintain temperature, blood volume, and blood pressure.",
       "explanationImage": null,
       "tags": [
-        "septum"
+        "Cardiovascular System Overview",
+        "Cardiovascular System Overview, Core Functions & Heart Rate"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch01-q005",
+      "stem": "Which component of blood directly supports the \"protection\" function of the cardiovascular system?",
+      "image": null,
+      "options": [
+        "Cells and antibodies that fight infection, along with clotting agents that stop bleeding",
+        "Dissolved oxygen and carbon dioxide in plasma",
+        "Nutrients absorbed from the gastrointestinal tract",
+        "Hormones secreted by the endocrine glands"
+      ],
+      "answer": 0,
+      "explanation": "Protection relies on blood's immune cells and antibodies to fight infection and on clotting agents to prevent blood loss. Gases, nutrients, and hormones relate to transport instead.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular System Overview",
+        "Cardiovascular System Overview, Core Functions & Heart Rate"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch01-q006",
+      "stem": "Which vessels are the site of gas and nutrient exchange with body tissues?",
+      "image": null,
+      "options": [
+        "Large elastic arteries",
+        "Capillaries",
+        "The superior and inferior vena cava",
+        "The pulmonary trunk"
+      ],
+      "answer": 1,
+      "explanation": "Capillaries connect arteries and veins and are the site of gas and nutrient exchange. The great vessels and pulmonary trunk are conductance vessels, not exchange vessels.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular System Overview",
+        "Cardiovascular System Overview, Core Functions & Heart Rate"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch01-q007",
+      "stem": "Arteries characteristically carry oxygen-rich blood, with one major exception. Which vessel carries deoxygenated blood?",
+      "image": null,
+      "options": [
+        "The aorta",
+        "The coronary arteries",
+        "The pulmonary artery",
+        "The femoral artery"
+      ],
+      "answer": 2,
+      "explanation": "The pulmonary artery is the exception: it carries deoxygenated blood from the right ventricle to the lungs. All other arteries listed carry oxygenated blood.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular System Overview",
+        "Cardiovascular System Overview, Core Functions & Heart Rate"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch01-q008",
+      "stem": "Pulmonary veins are unusual among veins because they:",
+      "image": null,
+      "options": [
+        "Carry oxygenated blood from the lungs to the left atrium",
+        "Carry deoxygenated blood to the right atrium",
+        "Contain no endothelial lining",
+        "Directly connect to the right ventricle"
+      ],
+      "answer": 0,
+      "explanation": "Pulmonary veins are the exception to the rule that veins carry deoxygenated blood; they return freshly oxygenated blood from the lungs to the left atrium.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular System Overview",
+        "Cardiovascular System Overview, Core Functions & Heart Rate"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch01-q009",
+      "stem": "Which vessel type carries deoxygenated blood from the body back to the heart?",
+      "image": null,
+      "options": [
+        "Systemic arteries",
+        "Capillaries",
+        "Semilunar valves",
+        "Systemic veins"
+      ],
+      "answer": 3,
+      "explanation": "Systemic veins return deoxygenated blood from body tissues to the right heart. Arteries carry blood away from the heart, and capillaries are exchange vessels.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular System Overview",
+        "Cardiovascular System Overview, Core Functions & Heart Rate"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch01-q010",
+      "stem": "Heart rate (HR) is defined as:",
+      "image": null,
+      "options": [
+        "The volume of blood ejected with each contraction",
+        "The number of times the heart beats every minute, expressed in beats per minute (bpm)",
+        "The pressure generated by the left ventricle during systole",
+        "The speed of blood flow through the aorta"
+      ],
+      "answer": 1,
+      "explanation": "Heart rate is the number of cardiac cycles (beats) per minute, expressed in bpm. Stroke volume and pressure are separate measures of cardiac function.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular System Overview",
+        "Cardiovascular System Overview, Core Functions & Heart Rate"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch01-q011",
+      "stem": "What is the average resting heart rate in adults?",
+      "image": null,
+      "options": [
+        "Approximately 30–40 bpm",
+        "Approximately 50–55 bpm",
+        "Approximately 70–75 bpm",
+        "Approximately 110–120 bpm"
+      ],
+      "answer": 2,
+      "explanation": "The average resting heart rate is about 70–75 bpm. Rates of 30–40 bpm suggest extreme bradycardia, while 110–120 bpm at rest suggests tachycardia.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular System Overview",
+        "Cardiovascular System Overview, Core Functions & Heart Rate"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch01-q012",
+      "stem": "How does physical fitness generally affect resting heart rate?",
+      "image": null,
+      "options": [
+        "The fitter the individual, the lower the resting heart rate",
+        "The fitter the individual, the higher the resting heart rate",
+        "Fitness has no effect on resting heart rate",
+        "Fitness raises resting heart rate only in women"
+      ],
+      "answer": 0,
+      "explanation": "In general, greater cardiovascular fitness lowers resting heart rate because the heart pumps more efficiently. Resting HR also varies from individual to individual.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular System Overview",
+        "Cardiovascular System Overview, Core Functions & Heart Rate"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch01-q013",
+      "stem": "The circulatory system is described as a \"double system\" because:",
+      "image": null,
+      "options": [
+        "Each organ is supplied by two separate aortas",
+        "Blood passes through the heart twice in one beat",
+        "There are two separate lymphatic circuits",
+        "It consists of two loops — pulmonary and systemic — operating simultaneously"
+      ],
+      "answer": 3,
+      "explanation": "The double-loop system comprises the pulmonary and systemic circuits running simultaneously. One loop oxygenates blood in the lungs while the other delivers it to the body.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular System Overview",
+        "Cardiovascular System Overview, Core Functions & Heart Rate"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch01-q014",
+      "stem": "The heart is located within which region of the thorax?",
+      "image": null,
+      "options": [
+        "The pleural cavity",
+        "The mediastinum",
+        "The peritoneal cavity",
+        "The retroperitoneum"
+      ],
+      "answer": 1,
+      "explanation": "The heart lies in the thoracic mediastinum, the central compartment of the chest cavity between the lungs. The peritoneal and retroperitoneal spaces are abdominal.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular System Overview",
+        "Cardiovascular System Overview, Core Functions & Heart Rate"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch01-q015",
+      "stem": "Regarding the position of the heart in the chest, approximately what fraction of its mass lies to the left of midline?",
+      "image": null,
+      "options": [
+        "One-quarter",
+        "One-half",
+        "Two-thirds",
+        "All of it"
+      ],
+      "answer": 2,
+      "explanation": "About two-thirds of the heart's mass lies left of midline, which explains the leftward apex and left-sided clinical findings. The heart is not centered or entirely left-sided.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular System Overview",
+        "Cardiovascular System Overview, Core Functions & Heart Rate"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch01-q016",
+      "stem": "What is the approximate longitudinal extent of the heart within the thorax?",
+      "image": null,
+      "options": [
+        "12–14 cm",
+        "5–7 cm",
+        "20–25 cm",
+        "2–3 cm"
+      ],
+      "answer": 0,
+      "explanation": "The heart extends 12–14 cm, positioned obliquely at the level of ribs 2 through 5. The other values are far too small or too large for the heart's length.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular System Overview",
+        "Cardiovascular System Overview, Core Functions & Heart Rate"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch01-q017",
+      "stem": "The heart is positioned obliquely in the thorax, spanning which ribs?",
+      "image": null,
+      "options": [
+        "Ribs 1–3",
+        "Ribs 6–10",
+        "Ribs 11–12",
+        "Ribs 2–5"
+      ],
+      "answer": 3,
+      "explanation": "The heart spans ribs 2 to 5 in its oblique orientation. It sits well within the upper and middle thorax, not the lower rib cage.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular System Overview",
+        "Cardiovascular System Overview, Core Functions & Heart Rate"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch01-q018",
+      "stem": "Where does the apex of the heart point, and what is its clinical significance?",
+      "image": null,
+      "options": [
+        "Toward the right shoulder; it overlies the aortic valve",
+        "Toward the left hip; it is the site of the palpable apical impulse",
+        "Directly posterior; it is inaccessible to physical examination",
+        "Toward the spine; it marks the position of the tricuspid valve"
+      ],
+      "answer": 1,
+      "explanation": "The apex points toward the left hip, and its contraction against the chest wall creates the palpable apical impulse. This leftward-inferior orientation reflects the heart's oblique position.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular System Overview",
+        "Cardiovascular System Overview, Core Functions & Heart Rate"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch01-q019",
+      "stem": "What is the primary function of the fibrous pericardium?",
+      "image": null,
+      "options": [
+        "To secrete serous fluid into the pericardial cavity",
+        "To conduct electrical impulses across the atria",
+        "To anchor the heart and limit its overexpansion",
+        "To form the inner lining of the ventricular chambers"
+      ],
+      "answer": 2,
+      "explanation": "The fibrous pericardium is a dense connective tissue layer that anchors the heart in the mediastinum and limits overexpansion. Fluid secretion belongs to the serous pericardium.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular System Overview",
+        "Cardiovascular System Overview, Core Functions & Heart Rate"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch01-q020",
+      "stem": "The visceral layer of the serous pericardium is also known as the:",
+      "image": null,
+      "options": [
+        "Epicardium",
+        "Myocardium",
+        "Endocardium",
+        "Fibrous pericardium"
+      ],
+      "answer": 0,
+      "explanation": "The visceral serous pericardium adheres directly to the heart surface and is called the epicardium. The myocardium and endocardium are deeper layers of the heart wall.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular System Overview",
+        "Circulatory vs. Cardiovascular Systems & the Lymphatic System"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch01-q021",
+      "stem": "The lymphatic system is best described as a component of which system?",
+      "image": null,
+      "options": [
+        "The endocrine system",
+        "The circulatory system",
+        "The respiratory system",
+        "The autonomic nervous system"
+      ],
+      "answer": 1,
+      "explanation": "The lymphatic system is a component of the circulatory system, working alongside the cardiovascular system. It returns fluid and participates in immune defense.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular System Overview",
+        "Circulatory vs. Cardiovascular Systems & the Lymphatic System"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch01-q022",
+      "stem": "Lymph is defined as fluid that:",
+      "image": null,
+      "options": [
+        "Circulates only within the heart chambers",
+        "Contains only red blood cells and platelets",
+        "Is identical to arterial plasma but without water",
+        "Contains infection-fighting white blood cells"
+      ],
+      "answer": 3,
+      "explanation": "Lymph carries infection-fighting white blood cells as it travels through lymphatic vessels and nodes. It does not contain red blood cells as a normal constituent.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular System Overview",
+        "Circulatory vs. Cardiovascular Systems & the Lymphatic System"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch01-q023",
+      "stem": "Which of the following is NOT a key component of the lymphatic system?",
+      "image": null,
+      "options": [
+        "Lymph nodes and lymphatic vessels",
+        "The thymus gland and spleen",
+        "The aortic and pulmonary valves",
+        "Bone marrow and tonsils"
+      ],
+      "answer": 2,
+      "explanation": "The aortic and pulmonary valves are cardiac structures, not lymphatic organs. Lymph nodes, vessels, thymus, spleen, bone marrow, and tonsils are all lymphatic components.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular System Overview",
+        "Circulatory vs. Cardiovascular Systems & the Lymphatic System"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch01-q024",
+      "stem": "Which lymphatic structure acts as a filtering station where immune cells monitor and respond to pathogens?",
+      "image": null,
+      "options": [
+        "Lymph nodes",
+        "The mitral valve",
+        "The hepatic artery",
+        "The coronary sinus"
+      ],
+      "answer": 0,
+      "explanation": "Lymph nodes filter lymph and house immune cells that fight infection. The other listed structures are cardiovascular, not lymphatic.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular System Overview",
+        "Circulatory vs. Cardiovascular Systems & the Lymphatic System"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch01-q025",
+      "stem": "Palatine tonsils and cervical lymph nodes are examples of lymphatic tissue located in which general region?",
+      "image": null,
+      "options": [
+        "The abdominal cavity",
+        "The pelvis",
+        "The lower limbs",
+        "The head and neck region"
+      ],
+      "answer": 3,
+      "explanation": "Palatine tonsils and cervical lymph nodes are lymphatic tissues of the head and neck. The lecture lists them among the key components of the lymphatic system.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular System Overview",
+        "Circulatory vs. Cardiovascular Systems & the Lymphatic System"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch01-q026",
+      "stem": "Which lymphatic organ is also responsible for filtering blood and is located in the left upper abdomen?",
+      "image": null,
+      "options": [
+        "The thymus gland",
+        "The spleen",
+        "The gallbladder",
+        "The pancreas"
+      ],
+      "answer": 1,
+      "explanation": "The spleen is a key lymphatic component in the left upper abdomen. The thymus sits in the chest, while the gallbladder and pancreas are digestive organs.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular System Overview",
+        "Circulatory vs. Cardiovascular Systems & the Lymphatic System"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch01-q027",
+      "stem": "Which statement correctly differentiates the circulatory system from the cardiovascular system?",
+      "image": null,
+      "options": [
+        "The circulatory system includes both the cardiovascular system and the lymphatic system",
+        "The cardiovascular system includes the lungs, and the circulatory system does not",
+        "The terms are unrelated — they describe different organ systems",
+        "The circulatory system contains only the heart"
+      ],
+      "answer": 0,
+      "explanation": "The circulatory system is the broader term, encompassing the cardiovascular (heart and blood vessels) and lymphatic components. The cardiovascular system is a subset.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular System Overview",
+        "Circulatory vs. Cardiovascular Systems & the Lymphatic System"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch01-q028",
+      "stem": "The cardiovascular system is composed of which structures?",
+      "image": null,
+      "options": [
+        "Lymph nodes, tonsils, and the spleen",
+        "The trachea, bronchi, and alveoli",
+        "The heart and blood vessels",
+        "The esophagus and stomach"
+      ],
+      "answer": 2,
+      "explanation": "By definition, \"cardiovascular\" refers to the heart (cardio) and blood vessels (vascular). Lymphatic organs belong to the broader circulatory system.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular System Overview",
+        "Circulatory vs. Cardiovascular Systems & the Lymphatic System"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch01-q029",
+      "stem": "Physiology, as a discipline, is best defined as:",
+      "image": null,
+      "options": [
+        "The naming of body parts and their locations",
+        "The classification of tissues under a microscope",
+        "The study of disease processes and their treatment",
+        "The way in which a living organism or bodily part functions"
+      ],
+      "answer": 3,
+      "explanation": "Physiology is the study of function; anatomy is the study of structure. Combining the two explains how the cardiovascular system works, not just what it looks like.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular System Overview",
+        "Circulatory vs. Cardiovascular Systems & the Lymphatic System"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch01-q030",
+      "stem": "Regulating blood pressure and blood volume falls under which core function of the cardiovascular system?",
+      "image": null,
+      "options": [
+        "Protection",
+        "Control and regulation",
+        "Transport and exchange",
+        "Hematopoiesis"
+      ],
+      "answer": 1,
+      "explanation": "Blood pressure, blood volume, and body temperature are the regulated variables in the \"control and regulation\" function. Transport moves substances; protection fights infection and bleeding.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular System Overview",
+        "Circulatory vs. Cardiovascular Systems & the Lymphatic System"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch01-q031",
+      "stem": "A patient has a known clotting disorder and bruises excessively. Which core cardiovascular function is directly impaired?",
+      "image": null,
+      "options": [
+        "Transport and exchange",
+        "Control and regulation of temperature",
+        "Protection",
+        "Lymphatic filtration"
+      ],
+      "answer": 2,
+      "explanation": "Clotting agents in blood that stop bleeding are part of the protection function. A clotting disorder therefore impairs the cardiovascular system's protective role.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular System Overview",
+        "Circulatory vs. Cardiovascular Systems & the Lymphatic System"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch01-q032",
+      "stem": "A network of tissues and organs that helps rid the body of toxins, waste, and unwanted materials describes the:",
+      "image": null,
+      "options": [
+        "Coronary circulation",
+        "Systemic arterial tree",
+        "Lymphatic system",
+        "Pulmonary circuit"
+      ],
+      "answer": 2,
+      "explanation": "The lymphatic system drains waste and toxins and carries lymph with white blood cells. The pulmonary and coronary circuits are cardiovascular, not waste-drainage networks.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular System Overview",
+        "Circulatory vs. Cardiovascular Systems & the Lymphatic System"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch01-q033",
+      "stem": "Hormones secreted by endocrine glands reaching their target organs via the bloodstream is an example of which function?",
+      "image": null,
+      "options": [
+        "Protection via clotting agents",
+        "Temperature regulation",
+        "Lymphatic immune surveillance",
+        "Transport and exchange"
+      ],
+      "answer": 3,
+      "explanation": "Transporting hormones (chemical messengers) to target tissues is a classic example of the transport and exchange function of blood.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular System Overview",
+        "Circulatory vs. Cardiovascular Systems & the Lymphatic System"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch01-q034",
+      "stem": "Arteries are best defined as vessels that:",
+      "image": null,
+      "options": [
+        "Always carry deoxygenated blood",
+        "Carry blood pumped away from the heart",
+        "Are the primary site of nutrient exchange",
+        "Store the largest blood volume in the body"
+      ],
+      "answer": 1,
+      "explanation": "Arteries carry blood pumped away from the heart — normally oxygen-rich, with the pulmonary artery as the exception. Capillaries, not arteries, are the exchange site.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular System Overview",
+        "Circulatory vs. Cardiovascular Systems & the Lymphatic System"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch01-q035",
+      "stem": "Which statement about capillaries is correct?",
+      "image": null,
+      "options": [
+        "They connect arteries and veins and permit exchange with tissues",
+        "They have thick muscular walls to withstand high pressure",
+        "They carry blood exclusively away from the heart",
+        "They contain one-way valves to prevent backflow"
+      ],
+      "answer": 0,
+      "explanation": "Capillaries bridge the arterial and venous systems and are the site of gas and nutrient exchange. Their walls are thin, not muscular, to facilitate exchange.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular System Overview",
+        "Circulatory vs. Cardiovascular Systems & the Lymphatic System"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch01-q036",
+      "stem": "The exception to the rule that arteries carry oxygenated blood is the:",
+      "image": null,
+      "options": [
+        "Aortic arch",
+        "Right coronary artery",
+        "Pulmonary artery",
+        "Brachiocephalic artery"
+      ],
+      "answer": 2,
+      "explanation": "The pulmonary artery carries deoxygenated blood from the RV to the lungs. All systemic arteries, including the coronary arteries, carry oxygenated blood.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular System Overview",
+        "Circulatory vs. Cardiovascular Systems & the Lymphatic System"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch01-q037",
+      "stem": "How many pulmonary veins normally return blood to the left atrium?",
+      "image": null,
+      "options": [
+        "Two",
+        "Six",
+        "Four",
+        "Eight"
+      ],
+      "answer": 2,
+      "explanation": "There are normally four pulmonary veins (two from each lung) delivering oxygenated blood to the left atrium. This is a standard anatomic finding in echocardiography.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular System Overview",
+        "Circulatory vs. Cardiovascular Systems & the Lymphatic System"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch01-q038",
+      "stem": "A sonographer identifies a vessel entering the left atrium from the lungs. This vessel carries:",
+      "image": null,
+      "options": [
+        "Deoxygenated blood at systemic venous pressure",
+        "Mixed blood destined for the right ventricle",
+        "Nutrient-rich portal venous blood",
+        "Oxygenated blood from the lungs"
+      ],
+      "answer": 3,
+      "explanation": "Vessels entering the LA from the lungs are pulmonary veins, and their blood is oxygenated. This is the defining exception among veins.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular System Overview",
+        "Circulatory vs. Cardiovascular Systems & the Lymphatic System"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch01-q039",
+      "stem": "In standard diagrams of blood flow, blue-colored blood represents:",
+      "image": null,
+      "options": [
+        "Oxygenated blood in the left heart and systemic arteries",
+        "Deoxygenated blood in the right heart and pulmonary circuit",
+        "Blood within the coronary arteries",
+        "Lymph within lymphatic vessels"
+      ],
+      "answer": 1,
+      "explanation": "Blue conventionally marks deoxygenated blood on the right side of the heart and in the pulmonary circuit; red marks oxygenated blood on the left and systemic side.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular System Overview",
+        "Circulatory vs. Cardiovascular Systems & the Lymphatic System"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch01-q040",
+      "stem": "Which of the following is NOT a function of the cardiovascular system?",
+      "image": null,
+      "options": [
+        "Transporting oxygen to tissues",
+        "Regulating body temperature",
+        "Producing lymph and filtering it through lymph nodes",
+        "Protecting the body through clotting"
+      ],
+      "answer": 2,
+      "explanation": "Lymph production and filtration belong to the lymphatic system. Transport, regulation, and protection are the cardiovascular system's three core functions.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular System Overview",
+        "Blood Vessels — Arteries, Veins, Capillaries & Pulmonary Exceptions"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch01-q041",
+      "stem": "Which vessel type is defined by carrying blood away from the heart under pumping pressure?",
+      "image": null,
+      "options": [
+        "Veins",
+        "Arteries",
+        "Lymphatic ducts",
+        "Venules"
+      ],
+      "answer": 1,
+      "explanation": "Arteries carry blood pumped from the heart (oxygen-rich, except the pulmonary artery). Veins return blood toward the heart.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular System Overview",
+        "Blood Vessels — Arteries, Veins, Capillaries & Pulmonary Exceptions"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch01-q042",
+      "stem": "What is the primary function of capillaries in the circulatory system?",
+      "image": null,
+      "options": [
+        "Pumping blood to the lungs",
+        "Anchoring the heart within the mediastinum",
+        "Preventing backflow into the ventricles",
+        "Serving as the site of gas and nutrient exchange with body tissues"
+      ],
+      "answer": 3,
+      "explanation": "Capillaries connect arteries and veins and are where oxygen, nutrients, and waste are exchanged with tissues. Pumping and anchoring are heart functions, not capillary functions.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular System Overview",
+        "Blood Vessels — Arteries, Veins, Capillaries & Pulmonary Exceptions"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch01-q043",
+      "stem": "During a histology review, a student examines a vessel with a wall only one cell layer thick, optimized for diffusion. Which vessel is this?",
+      "image": null,
+      "options": [
+        "A capillary",
+        "The aorta",
+        "A large systemic vein",
+        "The pulmonary trunk"
+      ],
+      "answer": 0,
+      "explanation": "Capillaries have extremely thin walls to permit rapid exchange of gases, nutrients, and waste. The aorta and pulmonary trunk have thick, elastic walls for high pressure.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular System Overview",
+        "Blood Vessels — Arteries, Veins, Capillaries & Pulmonary Exceptions"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch01-q044",
+      "stem": "All of the following veins carry deoxygenated blood EXCEPT:",
+      "image": null,
+      "options": [
+        "The inferior vena cava",
+        "The superior vena cava",
+        "The pulmonary veins",
+        "The femoral veins"
+      ],
+      "answer": 2,
+      "explanation": "Pulmonary veins are the exception among veins: they carry oxygenated blood from the lungs to the left atrium. The vena cavae and systemic veins carry deoxygenated blood.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular System Overview",
+        "Blood Vessels — Arteries, Veins, Capillaries & Pulmonary Exceptions"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch01-q045",
+      "stem": "The pulmonary artery is unique because it:",
+      "image": null,
+      "options": [
+        "Delivers oxygenated blood to the myocardium",
+        "Carries deoxygenated blood from the right ventricle to the lungs",
+        "Returns oxygenated blood from the lungs to the left atrium",
+        "Drains the coronary circulation into the right atrium"
+      ],
+      "answer": 1,
+      "explanation": "The pulmonary artery takes deoxygenated blood from the RV to the lungs for gas exchange — the exception among arteries. Option C describes the pulmonary veins.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular System Overview",
+        "Blood Vessels — Arteries, Veins, Capillaries & Pulmonary Exceptions"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch01-q046",
+      "stem": "A sonographer counts the vessels entering the left atrium from the posterior aspect. How many pulmonary veins are normally present?",
+      "image": null,
+      "options": [
+        "Two",
+        "Three",
+        "Five",
+        "Four"
+      ],
+      "answer": 3,
+      "explanation": "Four pulmonary veins (two right, two left) normally empty into the left atrium. Variations exist, but four is the normal anatomic number.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular System Overview",
+        "Blood Vessels — Arteries, Veins, Capillaries & Pulmonary Exceptions"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch01-q047",
+      "stem": "In the sequence of vessels from the heart to the tissues and back, which vessel directly connects capillaries to veins?",
+      "image": null,
+      "options": [
+        "Venules",
+        "Arterioles",
+        "Elastic arteries",
+        "The aorta"
+      ],
+      "answer": 0,
+      "explanation": "Blood flows artery → arteriole → capillary → venule → vein. Venules collect blood from capillaries and converge into veins; arterioles feed capillaries.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular System Overview",
+        "Blood Vessels — Arteries, Veins, Capillaries & Pulmonary Exceptions"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch01-q048",
+      "stem": "Which is the largest artery in the body?",
+      "image": null,
+      "options": [
+        "The pulmonary trunk",
+        "The common carotid artery",
+        "The aorta",
+        "The coronary arteries"
+      ],
+      "answer": 2,
+      "explanation": "The aorta is the largest artery, receiving the entire stroke volume of the left ventricle. The pulmonary trunk is large but smaller, and coronary arteries are small branches.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular System Overview",
+        "Blood Vessels — Arteries, Veins, Capillaries & Pulmonary Exceptions"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch01-q049",
+      "stem": "The largest veins in the body, which drain directly into the right atrium, are the:",
+      "image": null,
+      "options": [
+        "Pulmonary veins",
+        "Superior and inferior vena cava",
+        "Hepatic veins",
+        "Jugular veins"
+      ],
+      "answer": 1,
+      "explanation": "The SVC and IVC are the largest veins, returning deoxygenated blood from the upper and lower body to the right atrium. Pulmonary veins enter the LA instead.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular System Overview",
+        "Blood Vessels — Arteries, Veins, Capillaries & Pulmonary Exceptions"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch01-q050",
+      "stem": "Within which circuit do the arteries characteristically carry deoxygenated blood?",
+      "image": null,
+      "options": [
+        "The pulmonary circuit",
+        "The systemic circuit",
+        "The coronary circuit",
+        "The portal circuit"
+      ],
+      "answer": 0,
+      "explanation": "In the pulmonary circuit, arteries (pulmonary arteries) carry deoxygenated blood to the lungs. In the systemic and coronary circuits, arteries carry oxygenated blood.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular System Overview",
+        "Blood Vessels — Arteries, Veins, Capillaries & Pulmonary Exceptions"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch01-q051",
+      "stem": "Which vessel type characteristically contains one-way valves to assist blood return against gravity?",
+      "image": null,
+      "options": [
+        "Elastic arteries",
+        "Veins",
+        "Capillaries",
+        "Arterioles"
+      ],
+      "answer": 1,
+      "explanation": "Veins, especially in the limbs, contain one-way valves to keep blood moving toward the heart. Arteries and arterioles operate under high pressure and do not require valves.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular System Overview",
+        "Blood Vessels — Arteries, Veins, Capillaries & Pulmonary Exceptions"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch01-q052",
+      "stem": "A sonographer images a large vessel coursing behind the liver and entering the right atrium from below. This vessel carries:",
+      "image": null,
+      "options": [
+        "Oxygenated blood to the lungs",
+        "Nutrient-rich portal blood to the liver",
+        "Oxygenated blood to the left atrium",
+        "Deoxygenated blood from the lower body to the right atrium"
+      ],
+      "answer": 3,
+      "explanation": "The inferior vena cava drains deoxygenated blood from the lower body into the right atrium. The portal vein delivers to the liver, not the heart, and pulmonary veins enter the LA.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular System Overview",
+        "Blood Vessels — Arteries, Veins, Capillaries & Pulmonary Exceptions"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch01-q053",
+      "stem": "Which great vessel returns deoxygenated blood from the head, neck, and upper extremities to the heart?",
+      "image": null,
+      "options": [
+        "The superior vena cava",
+        "The aortic arch",
+        "The left pulmonary artery",
+        "The coronary sinus"
+      ],
+      "answer": 0,
+      "explanation": "The SVC drains the upper body into the right atrium. The aortic arch carries oxygenated blood away from the heart, and the coronary sinus drains the myocardium.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular System Overview",
+        "Blood Vessels — Arteries, Veins, Capillaries & Pulmonary Exceptions"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch01-q054",
+      "stem": "Where does the exchange of oxygen and carbon dioxide occur in the pulmonary circuit?",
+      "image": null,
+      "options": [
+        "In the pulmonary artery wall",
+        "In the right atrium",
+        "At the pulmonary capillaries surrounding the alveoli",
+        "In the left ventricular cavity"
+      ],
+      "answer": 2,
+      "explanation": "Gas exchange occurs at the pulmonary capillaries adjacent to the alveoli. The great vessels and cardiac chambers are conductance and pumping structures, not exchange sites.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular System Overview",
+        "Blood Vessels — Arteries, Veins, Capillaries & Pulmonary Exceptions"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch01-q055",
+      "stem": "Comparing the two circuits of the double-loop system, which operates at higher pressure?",
+      "image": null,
+      "options": [
+        "The pulmonary circuit",
+        "The systemic circuit",
+        "Both are equal",
+        "Neither; both are low-pressure systems"
+      ],
+      "answer": 1,
+      "explanation": "The systemic circuit, driven by the thick-walled left ventricle, is the high-pressure circuit. The pulmonary circuit is a low-pressure system driven by the RV.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular System Overview",
+        "Blood Vessels — Arteries, Veins, Capillaries & Pulmonary Exceptions"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch01-q056",
+      "stem": "Arteries have thick, muscular, elastic walls primarily because they:",
+      "image": null,
+      "options": [
+        "Store the majority of the body's blood volume",
+        "Must exchange gases directly with tissues",
+        "Lack an endothelial lining",
+        "Must withstand and transmit high pumping pressures from the heart"
+      ],
+      "answer": 3,
+      "explanation": "Arterial walls are built to handle the high pressures generated by ventricular contraction. Veins, operating at low pressure, have thinner walls.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular System Overview",
+        "Blood Vessels — Arteries, Veins, Capillaries & Pulmonary Exceptions"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch01-q057",
+      "stem": "The coronary arteries, which supply the myocardium itself, arise from:",
+      "image": null,
+      "options": [
+        "The base of the aorta",
+        "The pulmonary trunk",
+        "The superior vena cava",
+        "The left ventricular apex"
+      ],
+      "answer": 0,
+      "explanation": "Coronary arteries originate at the aortic base, just above the aortic valve. This origin is critical to echo, as it explains why coronary perfusion occurs in diastole.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular System Overview",
+        "Blood Vessels — Arteries, Veins, Capillaries & Pulmonary Exceptions"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch01-q058",
+      "stem": "In a normal four-chamber view, the blood within the left atrium is:",
+      "image": null,
+      "options": [
+        "Deoxygenated and under low pressure",
+        "Mixed, containing equal oxygen and carbon dioxide",
+        "Oxygenated, having just returned from the lungs",
+        "Nutrient-rich but oxygen-poor"
+      ],
+      "answer": 2,
+      "explanation": "The left atrium receives oxygenated blood from the four pulmonary veins. Deoxygenated blood is confined to the right heart in the absence of a shunt.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular System Overview",
+        "Blood Vessels — Arteries, Veins, Capillaries & Pulmonary Exceptions"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch01-q059",
+      "stem": "Which vessel directly receives blood ejected from the left ventricle?",
+      "image": null,
+      "options": [
+        "The pulmonary artery",
+        "The aorta",
+        "The left atrium",
+        "The coronary sinus"
+      ],
+      "answer": 1,
+      "explanation": "The LV ejects through the aortic valve into the aorta, starting the systemic circuit. The pulmonary artery receives RV output instead.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular System Overview",
+        "Blood Vessels — Arteries, Veins, Capillaries & Pulmonary Exceptions"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch01-q060",
+      "stem": "The pulmonary trunk bifurcates into which vessels?",
+      "image": null,
+      "options": [
+        "The four pulmonary veins",
+        "The brachiocephalic arteries",
+        "The coronary arteries",
+        "The right and left pulmonary arteries"
+      ],
+      "answer": 3,
+      "explanation": "The pulmonary trunk divides into right and left pulmonary arteries, each carrying deoxygenated blood to its lung. Pulmonary veins are separate return vessels to the LA.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular System Overview",
+        "Heart Location, Mediastinum & Cardiac Orientation"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch01-q061",
+      "stem": "The heart lies within the mediastinum, which is best described as:",
+      "image": null,
+      "options": [
+        "The central compartment of the thoracic cavity between the lungs",
+        "The space between the abdominal aorta and IVC",
+        "The cavity inside the pericardial sac only",
+        "The lateral recesses of each lung"
+      ],
+      "answer": 0,
+      "explanation": "The mediastinum is the central chest compartment, between the two lungs, containing the heart and other structures. The heart occupies it but the mediastinum is larger than the pericardium.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular System Overview",
+        "Heart Location, Mediastinum & Cardiac Orientation"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch01-q062",
+      "stem": "In its oblique orientation, the heart spans which ribs?",
+      "image": null,
+      "options": [
+        "Ribs 1 through 3",
+        "Ribs 2 through 5",
+        "Ribs 7 through 10",
+        "Ribs 11 through 12"
+      ],
+      "answer": 1,
+      "explanation": "The heart extends from rib 2 to rib 5 in an oblique orientation. Knowing this level helps with surface landmarks and transducer placement.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular System Overview",
+        "Heart Location, Mediastinum & Cardiac Orientation"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch01-q063",
+      "stem": "What is the stated longitudinal dimension of the heart?",
+      "image": null,
+      "options": [
+        "5–6 cm",
+        "8–9 cm",
+        "12–14 cm",
+        "18–20 cm"
+      ],
+      "answer": 2,
+      "explanation": "The heart extends 12–14 cm from base to apex. Both smaller and larger figures fall outside the normal stated dimension.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular System Overview",
+        "Heart Location, Mediastinum & Cardiac Orientation"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch01-q064",
+      "stem": "Approximately how much of the heart's mass lies to the left of the midline?",
+      "image": null,
+      "options": [
+        "One-third",
+        "One-half",
+        "All of it",
+        "Two-thirds"
+      ],
+      "answer": 3,
+      "explanation": "Two-thirds of the cardiac mass lies left of midline, consistent with the leftward-pointing apex. The heart is predominantly, but not entirely, left-sided.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular System Overview",
+        "Heart Location, Mediastinum & Cardiac Orientation"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch01-q065",
+      "stem": "The apex of the heart is formed primarily by which chamber, and points in which direction?",
+      "image": null,
+      "options": [
+        "The left ventricle, pointing toward the left hip",
+        "The right atrium, pointing toward the right shoulder",
+        "The left atrium, pointing posteriorly",
+        "The right ventricle, pointing superiorly"
+      ],
+      "answer": 0,
+      "explanation": "The apex is the inferolaterally pointed tip formed by the left ventricle, directed toward the left hip. The base, formed largely by the LA, points toward the right shoulder.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular System Overview",
+        "Heart Location, Mediastinum & Cardiac Orientation"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch01-q066",
+      "stem": "The palpable apical impulse (point of maximal impulse) corresponds to:",
+      "image": null,
+      "options": [
+        "The base of the heart at the right second intercostal space",
+        "The apex of the heart, directed toward the left hip",
+        "The pulmonary valve at the left sternal border",
+        "The aortic valve at the sternomanubrial junction"
+      ],
+      "answer": 1,
+      "explanation": "The apical impulse is produced by the beating of the cardiac apex against the chest wall. It is a key surface landmark corresponding to the LV apex.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular System Overview",
+        "Heart Location, Mediastinum & Cardiac Orientation"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch01-q067",
+      "stem": "The base of the heart, from which the great vessels emerge, points toward the:",
+      "image": null,
+      "options": [
+        "Left hip",
+        "Posterior spine",
+        "Right shoulder",
+        "Anterior abdominal wall"
+      ],
+      "answer": 2,
+      "explanation": "Because the heart is oriented obliquely, the base (great vessel origin, largely LA) points up and to the right shoulder, opposite the leftward-pointing apex.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular System Overview",
+        "Heart Location, Mediastinum & Cardiac Orientation"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch01-q068",
+      "stem": "A patient sustains blunt trauma to the central chest. Knowing cardiac anatomy, the heart is most at risk because it lies:",
+      "image": null,
+      "options": [
+        "In the left pleural recess",
+        "Beneath the diaphragm",
+        "In the right hemithorax",
+        "In the mediastinum, centrally between the lungs"
+      ],
+      "answer": 3,
+      "explanation": "The heart occupies the mediastinum, the central chest compartment, placing it at risk in central chest trauma. It is not located laterally within either pleural cavity.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular System Overview",
+        "Heart Location, Mediastinum & Cardiac Orientation"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch01-q069",
+      "stem": "The heart's position within the thorax is described as:",
+      "image": null,
+      "options": [
+        "Horizontal, lying flat between the lungs",
+        "Vertical, parallel to the sternum",
+        "Oblique, running from the right shoulder toward the left hip",
+        "Inverted, with the base pointing inferiorly"
+      ],
+      "answer": 2,
+      "explanation": "The heart is positioned obliquely, so its long axis runs from base (right shoulder) to apex (left hip). This axis corresponds to the apical imaging windows in echo.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular System Overview",
+        "Heart Location, Mediastinum & Cardiac Orientation"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch01-q070",
+      "stem": "Which structure lies immediately posterior to the heart, making transesophageal echocardiography possible?",
+      "image": null,
+      "options": [
+        "The liver",
+        "The esophagus",
+        "The trachea",
+        "The descending colon"
+      ],
+      "answer": 1,
+      "explanation": "The esophagus lies directly behind the heart, which is why a TEE probe in the esophagus can image the heart from behind. The trachea lies more anteriorly and superiorly.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular System Overview",
+        "Heart Location, Mediastinum & Cardiac Orientation"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch01-q071",
+      "stem": "Which chamber forms most of the right heart border on a standard chest film?",
+      "image": null,
+      "options": [
+        "The left ventricle",
+        "The right ventricle",
+        "The right atrium",
+        "The left atrium"
+      ],
+      "answer": 2,
+      "explanation": "The right atrium forms the right cardiac border. The LV forms the left border and apex, and the RV is largely an anterior structure.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular System Overview",
+        "Heart Location, Mediastinum & Cardiac Orientation"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch01-q072",
+      "stem": "When obtaining an apical four-chamber view, the transducer is placed at the:",
+      "image": null,
+      "options": [
+        "Right second intercostal space at the sternal border",
+        "Subxiphoid region beneath the costal margin",
+        "Left parasternal border at the third intercostal space",
+        "Point of maximal impulse, where the LV apex touches the chest wall"
+      ],
+      "answer": 3,
+      "explanation": "The apical window is at the cardiac apex (point of maximal impulse), where the apex points toward the left hip. This placement aligns with the heart's oblique long axis.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular System Overview",
+        "Heart Location, Mediastinum & Cardiac Orientation"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch01-q073",
+      "stem": "The heart and the roots of the great vessels are enclosed by which structure within the mediastinum?",
+      "image": null,
+      "options": [
+        "The pleura of the left lung",
+        "The pericardial sac",
+        "The diaphragm",
+        "The thymus gland"
+      ],
+      "answer": 1,
+      "explanation": "The pericardial sac encloses the heart and great vessel roots inside the mediastinum. It anchors the heart and limits overexpansion.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular System Overview",
+        "Heart Location, Mediastinum & Cardiac Orientation"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch01-q074",
+      "stem": "The long axis of the heart runs:",
+      "image": null,
+      "options": [
+        "From the left shoulder to the right hip",
+        "From the base (right shoulder) toward the apex (left hip)",
+        "From the anterior chest wall to the spine",
+        "Directly vertical through the midline"
+      ],
+      "answer": 1,
+      "explanation": "The cardiac long axis follows the oblique orientation from base to apex, that is, from the right shoulder toward the left hip. Echo imaging planes are built around this axis.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular System Overview",
+        "Heart Location, Mediastinum & Cardiac Orientation"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch01-q075",
+      "stem": "Within which mediastinal compartment does the heart primarily reside?",
+      "image": null,
+      "options": [
+        "The posterior mediastinum",
+        "The superior mediastinum",
+        "The middle mediastinum",
+        "The anterior triangle of the neck"
+      ],
+      "answer": 2,
+      "explanation": "The heart and pericardium occupy the middle mediastinum. The esophagus and descending aorta lie in the posterior compartment.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular System Overview",
+        "Heart Location, Mediastinum & Cardiac Orientation"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch01-q076",
+      "stem": "Besides the heart, which of the following structures is found within the mediastinum?",
+      "image": null,
+      "options": [
+        "The spleen",
+        "The kidneys",
+        "The lungs",
+        "The trachea, esophagus, and great vessels"
+      ],
+      "answer": 3,
+      "explanation": "The mediastinum contains the heart, great vessels, trachea, and esophagus. The lungs flank it, and the spleen and kidneys are outside the chest.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular System Overview",
+        "Heart Location, Mediastinum & Cardiac Orientation"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch01-q077",
+      "stem": "On physical examination, a point of maximal impulse is palpated at the left fifth intercostal space. This corresponds to the position of the:",
+      "image": null,
+      "options": [
+        "Left ventricular apex",
+        "Right atrial appendage",
+        "Aortic root",
+        "Pulmonary valve"
+      ],
+      "answer": 0,
+      "explanation": "The apical impulse reflects the LV apex pointing toward the left hip. A displaced apex beat can suggest LV enlargement.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular System Overview",
+        "Heart Location, Mediastinum & Cardiac Orientation"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch01-q078",
+      "stem": "A chest radiograph shows the cardiac silhouette shifted predominantly to the left of the spine. In a normal patient, this is:",
+      "image": null,
+      "options": [
+        "Abnormal, indicating dextrocardia",
+        "Expected, since two-thirds of the cardiac mass lies left of midline",
+        "Expected only in infants",
+        "Evidence of a large pericardial effusion"
+      ],
+      "answer": 1,
+      "explanation": "Leftward cardiac position is normal because two-thirds of the heart's mass lies left of midline. Dextrocardia refers to the mirror-image opposite.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular System Overview",
+        "Heart Location, Mediastinum & Cardiac Orientation"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch01-q079",
+      "stem": "Which structure lies directly anterior to the heart?",
+      "image": null,
+      "options": [
+        "The esophagus",
+        "The descending aorta",
+        "The sternum and rib cage",
+        "The vertebral column"
+      ],
+      "answer": 2,
+      "explanation": "The sternum and anterior chest wall lie in front of the heart; the esophagus and spine lie behind it. This anterior position is why parasternal and precordial echo windows work.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular System Overview",
+        "Heart Location, Mediastinum & Cardiac Orientation"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch01-q080",
+      "stem": "Which term correctly describes the heart's tilted position from base to apex?",
+      "image": null,
+      "options": [
+        "Supine",
+        "Transverse",
+        "Sagittal",
+        "Oblique"
+      ],
+      "answer": 3,
+      "explanation": "The heart is positioned obliquely at ribs 2–5, tilted so the base faces the right shoulder and the apex the left hip.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular System Overview",
+        "The Pericardium & Heart Wall Layers"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch01-q081",
+      "stem": "The fibrous pericardium is composed of:",
+      "image": null,
+      "options": [
+        "Dense connective tissue",
+        "Simple squamous epithelium only",
+        "Cardiac muscle fibers",
+        "Hyaline cartilage"
+      ],
+      "answer": 0,
+      "explanation": "The fibrous pericardium is a tough dense connective tissue layer that anchors the heart and limits overexpansion. Muscle and cartilage are not its constituents.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular System Overview",
+        "The Pericardium & Heart Wall Layers"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch01-q082",
+      "stem": "Which pair correctly states the functions of the fibrous pericardium?",
+      "image": null,
+      "options": [
+        "Gas exchange and nutrient absorption",
+        "Anchoring the heart and limiting overexpansion",
+        "Generating electrical impulses and conducting them to the ventricles",
+        "Pumping blood and generating pressure"
+      ],
+      "answer": 1,
+      "explanation": "The fibrous pericardium anchors the heart within the mediastinum and prevents excessive distention. Pumping and conduction belong to the myocardium and conduction system.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular System Overview",
+        "The Pericardium & Heart Wall Layers"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch01-q083",
+      "stem": "The serous pericardium consists of which two layers?",
+      "image": null,
+      "options": [
+        "Fibrous and elastic layers",
+        "Myocardium and endocardium",
+        "Parietal and visceral layers",
+        "Epicardium and myocardium"
+      ],
+      "answer": 2,
+      "explanation": "The serous pericardium has a parietal layer lining the fibrous pericardium and a visceral layer (epicardium) covering the heart. The myocardium and endocardium are heart wall layers.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular System Overview",
+        "The Pericardium & Heart Wall Layers"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch01-q084",
+      "stem": "Which layer is synonymous with the epicardium?",
+      "image": null,
+      "options": [
+        "The fibrous pericardium",
+        "The endocardium",
+        "The parietal serous pericardium",
+        "The visceral layer of the serous pericardium"
+      ],
+      "answer": 3,
+      "explanation": "The visceral serous layer adheres to the heart surface and is called the epicardium — the outermost layer of the heart wall itself.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular System Overview",
+        "The Pericardium & Heart Wall Layers"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch01-q085",
+      "stem": "The pericardial cavity, located between the parietal and visceral serous layers, contains:",
+      "image": null,
+      "options": [
+        "Whole blood under systemic pressure",
+        "Chyle and lymph",
+        "Cerebrospinal-like fluid at high pressure",
+        "A small amount of lubricating serous fluid"
+      ],
+      "answer": 3,
+      "explanation": "The pericardial cavity holds a small volume of lubricating fluid that lets the heart beat with minimal friction. It does not contain blood in the normal state.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular System Overview",
+        "The Pericardium & Heart Wall Layers"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch01-q086",
+      "stem": "An echocardiogram demonstrates an anechoic space posterior to the left ventricle. In a patient with dyspnea, this most likely represents fluid accumulating in the:",
+      "image": null,
+      "options": [
+        "Left pleural space only",
+        "Pericardial cavity",
+        "Right atrial cavity",
+        "Coronary sinus"
+      ],
+      "answer": 1,
+      "explanation": "Abnormal fluid between the parietal and visceral serous layers — a pericardial effusion — appears as an anechoic space on echo. Normal pericardial fluid is only a trace amount.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular System Overview",
+        "The Pericardium & Heart Wall Layers"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch01-q087",
+      "stem": "A patient develops a large pericardial effusion that compresses the heart and impairs diastolic filling. This life-threatening condition is:",
+      "image": null,
+      "options": [
+        "Aortic stenosis",
+        "Mitral regurgitation",
+        "Cardiac tamponade",
+        "Pulmonary embolism"
+      ],
+      "answer": 2,
+      "explanation": "Tamponade occurs when pericardial fluid compresses the heart, limiting filling — a direct consequence of the pericardium enclosing a fixed space. This reflects the fibrous pericardium's noncompliant nature.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular System Overview",
+        "The Pericardium & Heart Wall Layers"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch01-q088",
+      "stem": "From outermost to innermost, the three layers of the heart wall are:",
+      "image": null,
+      "options": [
+        "Endocardium, myocardium, epicardium",
+        "Myocardium, epicardium, endocardium",
+        "Epicardium, myocardium, endocardium",
+        "Parietal layer, cavity, fibrous layer"
+      ],
+      "answer": 2,
+      "explanation": "The heart wall layers from outside in are epicardium (visceral serous pericardium), myocardium (muscle), and endocardium (inner lining). Option A reverses the order.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular System Overview",
+        "The Pericardium & Heart Wall Layers"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch01-q089",
+      "stem": "The parietal layer of the serous pericardium lines:",
+      "image": null,
+      "options": [
+        "The inner surface of the fibrous pericardium",
+        "The ventricular cavities",
+        "The valve leaflets",
+        "The aortic lumen"
+      ],
+      "answer": 0,
+      "explanation": "The parietal serous layer lines the inner aspect of the fibrous pericardium; the visceral layer covers the heart itself, and the space between them is the pericardial cavity.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular System Overview",
+        "The Pericardium & Heart Wall Layers"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch01-q090",
+      "stem": "Inflammation of the pericardium, often producing chest pain and a friction rub, is termed:",
+      "image": null,
+      "options": [
+        "Myocarditis",
+        "Pericarditis",
+        "Endocarditis",
+        "Peritonitis"
+      ],
+      "answer": 1,
+      "explanation": "Pericarditis is inflammation of the pericardial sac. Myocarditis involves the muscle, endocarditis the inner lining/valves, and peritonitis the abdominal serosa.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular System Overview",
+        "The Pericardium & Heart Wall Layers"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch01-q091",
+      "stem": "Which pericardial layer is in direct contact with the myocardium?",
+      "image": null,
+      "options": [
+        "The fibrous pericardium",
+        "The parietal serous layer",
+        "The visceral serous layer (epicardium)",
+        "The endocardium"
+      ],
+      "answer": 2,
+      "explanation": "The visceral serous layer (epicardium) adheres directly to the heart's muscle surface. The parietal and fibrous layers are separated from the myocardium by the pericardial cavity.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular System Overview",
+        "The Pericardium & Heart Wall Layers"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch01-q092",
+      "stem": "What structural feature prevents the heart from overexpanding when volume acutely increases?",
+      "image": null,
+      "options": [
+        "The chordae tendineae",
+        "The papillary muscles",
+        "The interventricular septum",
+        "The dense, noncompliant fibrous pericardium"
+      ],
+      "answer": 3,
+      "explanation": "The tough fibrous pericardium encloses the heart in a fixed space and limits overexpansion. This is why rapid fluid accumulation or chamber dilation is constrained.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular System Overview",
+        "The Pericardium & Heart Wall Layers"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch01-q093",
+      "stem": "The small physiologic amount of fluid within the pericardial cavity serves mainly to:",
+      "image": null,
+      "options": [
+        "Reduce friction between the heart and surrounding layers during beating",
+        "Nourish the myocardium via diffusion",
+        "Generate the first heart sound",
+        "Conduct electrical impulses between atria and ventricles"
+      ],
+      "answer": 0,
+      "explanation": "The lubricating serous fluid allows the heart and pericardium to glide smoothly with each beat. Myocardial nourishment comes from the coronary circulation, not pericardial fluid.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular System Overview",
+        "The Pericardium & Heart Wall Layers"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch01-q094",
+      "stem": "Which heart wall layer is the outermost?",
+      "image": null,
+      "options": [
+        "Endocardium",
+        "Epicardium",
+        "Myocardium",
+        "Parietal pericardium"
+      ],
+      "answer": 1,
+      "explanation": "The epicardium is the outermost layer of the heart wall itself (visceral serous pericardium). The parietal pericardium lies outside it but is not part of the heart wall.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular System Overview",
+        "The Pericardium & Heart Wall Layers"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch01-q095",
+      "stem": "The thickest of the three heart wall layers is the:",
+      "image": null,
+      "options": [
+        "Endocardium",
+        "Epicardium",
+        "Myocardium",
+        "Fibrous pericardium"
+      ],
+      "answer": 2,
+      "explanation": "The myocardium, composed of cardiac muscle, is by far the thickest layer and generates pumping pressure. The endocardium and epicardium are thin.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular System Overview",
+        "The Pericardium & Heart Wall Layers"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch01-q096",
+      "stem": "The myocardium is composed of:",
+      "image": null,
+      "options": [
+        "Skeletal muscle under voluntary control",
+        "Smooth muscle of the vessel walls",
+        "Stratified squamous epithelium",
+        "Cardiac muscle (involuntary, striated, interconnected)"
+      ],
+      "answer": 3,
+      "explanation": "The cardiac walls are made of cardiac muscle — involuntary, striated tissue arranged for coordinated contraction. Skeletal and smooth muscle belong to other structures.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular System Overview",
+        "The Pericardium & Heart Wall Layers"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch01-q097",
+      "stem": "On 2D echocardiography, the bright inner border of the ventricular cavity that is traced for volume measurement corresponds to the:",
+      "image": null,
+      "options": [
+        "Pericardium",
+        "Endocardium",
+        "Epicardium",
+        "Myocardium"
+      ],
+      "answer": 1,
+      "explanation": "The endocardium is the thin inner lining of the chambers; its interface with blood produces the bright endocardial border seen on echo. The epicardium is the outer border.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular System Overview",
+        "The Pericardium & Heart Wall Layers"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch01-q098",
+      "stem": "The fibrous pericardium anchors the heart by attaching to:",
+      "image": null,
+      "options": [
+        "The lung parenchyma",
+        "The valve leaflets",
+        "The great vessels and surrounding thoracic structures",
+        "The papillary muscles"
+      ],
+      "answer": 2,
+      "explanation": "The dense fibrous pericardium is anchored to the great vessels and nearby structures, holding the heart in place within the mediastinum.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular System Overview",
+        "The Pericardium & Heart Wall Layers"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch01-q099",
+      "stem": "A 58-year-old presents with hypotension, muffled heart sounds, distended neck veins, and tachycardia. On echo, a large circumferential pericardial collection compresses the right chambers. The most likely diagnosis is:",
+      "image": null,
+      "options": [
+        "Severe mitral stenosis",
+        "Cardiac tamponade",
+        "Chronic hypertension",
+        "Atrial septal defect"
+      ],
+      "answer": 1,
+      "explanation": "The clinical triad (Beck triad) plus a circumferential effusion compressing the heart indicates tamponade — fluid in the noncompliant pericardial cavity restricting filling.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular System Overview",
+        "The Pericardium & Heart Wall Layers"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch01-q100",
+      "stem": "The pericardial cavity is defined as the space between:",
+      "image": null,
+      "options": [
+        "The fibrous pericardium and the chest wall",
+        "The myocardium and endocardium",
+        "The right and left ventricles",
+        "The parietal and visceral layers of the serous pericardium"
+      ],
+      "answer": 3,
+      "explanation": "The pericardial cavity lies between the parietal serous layer and the visceral serous layer (epicardium), containing lubricating fluid.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular System Overview",
+        "The Four Chambers, Septa & Cardiac Walls"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch01-q101",
+      "stem": "The upper chambers of the heart, the atria, function primarily as:",
+      "image": null,
+      "options": [
+        "High-pressure pumping chambers",
+        "Receiving chambers for blood returning to the heart",
+        "Valve-regulating structures",
+        "Primary sites of gas exchange"
+      ],
+      "answer": 1,
+      "explanation": "The atria receive returning blood: the RA takes systemic venous return and the LA takes pulmonary venous return. Pumping is the ventricles' role.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular System Overview",
+        "The Four Chambers, Septa & Cardiac Walls"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch01-q102",
+      "stem": "The lower chambers of the heart, the ventricles, function to:",
+      "image": null,
+      "options": [
+        "Store blood between heartbeats",
+        "Filter blood through lymphatic tissue",
+        "Pump blood, generating the pressure needed to circulate it",
+        "Secrete pericardial fluid"
+      ],
+      "answer": 2,
+      "explanation": "Ventricles are the pumping chambers; their myocardial contraction generates the pressures that drive both circuits. Atrial contraction only tops up ventricular filling.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular System Overview",
+        "The Four Chambers, Septa & Cardiac Walls"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch01-q103",
+      "stem": "Which ventricle pumps blood into the pulmonary circulation?",
+      "image": null,
+      "options": [
+        "The left ventricle",
+        "Both ventricles equally",
+        "The right ventricle",
+        "Neither; the atria pump to the lungs"
+      ],
+      "answer": 2,
+      "explanation": "The right ventricle ejects deoxygenated blood through the pulmonary valve into the pulmonary artery. The LV pumps into the systemic circulation.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular System Overview",
+        "The Four Chambers, Septa & Cardiac Walls"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch01-q104",
+      "stem": "Which ventricle serves the systemic circulation and has the thickest wall?",
+      "image": null,
+      "options": [
+        "The right atrium",
+        "The right ventricle",
+        "The left atrium",
+        "The left ventricle"
+      ],
+      "answer": 3,
+      "explanation": "The left ventricle pumps to the entire body and therefore develops high pressures, reflected in its thick myocardial wall. Wall thickness reflects the chamber's pressure load.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular System Overview",
+        "The Four Chambers, Septa & Cardiac Walls"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch01-q105",
+      "stem": "Which chamber receives deoxygenated blood from the superior and inferior vena cava?",
+      "image": null,
+      "options": [
+        "The right atrium",
+        "The left atrium",
+        "The right ventricle",
+        "The left ventricle"
+      ],
+      "answer": 0,
+      "explanation": "The SVC and IVC both empty into the right atrium, delivering systemic venous return. The left atrium receives pulmonary venous blood instead.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular System Overview",
+        "The Four Chambers, Septa & Cardiac Walls"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch01-q106",
+      "stem": "Which chamber receives oxygenated blood from the four pulmonary veins?",
+      "image": null,
+      "options": [
+        "The right ventricle",
+        "The left atrium",
+        "The right atrium",
+        "The aortic root"
+      ],
+      "answer": 1,
+      "explanation": "The pulmonary veins empty into the left atrium, delivering freshly oxygenated blood from the lungs. From the LA it passes through the mitral valve to the LV.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular System Overview",
+        "The Four Chambers, Septa & Cardiac Walls"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch01-q107",
+      "stem": "The muscular wall dividing the two ventricles is the:",
+      "image": null,
+      "options": [
+        "Interatrial septum",
+        "Epicardium",
+        "Aortic root",
+        "Interventricular septum"
+      ],
+      "answer": 3,
+      "explanation": "The interventricular septum separates right and left ventricles; the interatrial septum separates the atria. The septum prevents mixing of the two circulations.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular System Overview",
+        "The Four Chambers, Septa & Cardiac Walls"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch01-q108",
+      "stem": "The wall separating the right and left atria is the:",
+      "image": null,
+      "options": [
+        "Atrioventricular groove",
+        "Moderator band",
+        "Interatrial septum",
+        "Interventricular septum"
+      ],
+      "answer": 2,
+      "explanation": "The interatrial septum divides the atria; its fossa ovalis marks the site of the fetal foramen ovale. A defect here (ASD) allows abnormal left-to-right shunting.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular System Overview",
+        "The Four Chambers, Septa & Cardiac Walls"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch01-q109",
+      "stem": "The cardiac walls are made of which tissue type?",
+      "image": null,
+      "options": [
+        "Cardiac muscle (myocardium)",
+        "Dense fibrous connective tissue only",
+        "Smooth muscle of the autonomic type",
+        "Skeletal muscle under voluntary control"
+      ],
+      "answer": 0,
+      "explanation": "The heart walls are composed of cardiac muscle — the myocardium — which contracts involuntarily and rhythmically. Fibrous tissue forms the valves and rings, not the pumping walls.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular System Overview",
+        "The Four Chambers, Septa & Cardiac Walls"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch01-q110",
+      "stem": "On echocardiography, which chamber normally has the thickest muscular wall?",
+      "image": null,
+      "options": [
+        "The right atrium",
+        "The left ventricle",
+        "The left atrium",
+        "The right ventricle"
+      ],
+      "answer": 1,
+      "explanation": "The LV wall is thickest because it is the high-pressure systemic pump. The RV wall is much thinner, consistent with the low-pressure pulmonary circuit.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular System Overview",
+        "The Four Chambers, Septa & Cardiac Walls"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch01-q111",
+      "stem": "Relative to the right ventricular free wall, the left ventricular wall is normally about:",
+      "image": null,
+      "options": [
+        "Half as thick",
+        "The same thickness",
+        "Three times as thick",
+        "Ten times as thick"
+      ],
+      "answer": 2,
+      "explanation": "The LV myocardium is roughly three times thicker than the RV wall, reflecting systemic versus pulmonary pressure loads. The RV wall is thin and compliant.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular System Overview",
+        "The Four Chambers, Septa & Cardiac Walls"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch01-q112",
+      "stem": "In the normal chest, which cardiac chamber is the most anterior, lying directly behind the sternum?",
+      "image": null,
+      "options": [
+        "The left atrium",
+        "The left ventricle",
+        "The right atrium",
+        "The right ventricle"
+      ],
+      "answer": 3,
+      "explanation": "The RV is the most anterior chamber, which is why it is prominently seen in parasternal views and is most vulnerable in anterior chest trauma.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular System Overview",
+        "The Four Chambers, Septa & Cardiac Walls"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch01-q113",
+      "stem": "On an apical four-chamber view with the transducer at the apex, the chamber displayed nearest the probe (at the image apex) is the:",
+      "image": null,
+      "options": [
+        "Left ventricle",
+        "Right atrium",
+        "Left atrium",
+        "Aortic root"
+      ],
+      "answer": 0,
+      "explanation": "With the transducer on the LV apex, the LV (and RV) are near-field and the atria are far-field at the image top in standard orientation.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular System Overview",
+        "The Four Chambers, Septa & Cardiac Walls"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch01-q114",
+      "stem": "The primary function of the atria during the cardiac cycle is to:",
+      "image": null,
+      "options": [
+        "Generate the systemic blood pressure",
+        "Receive returning blood and complete ventricular filling",
+        "Prevent regurgitation into the vena cava",
+        "Produce the second heart sound"
+      ],
+      "answer": 1,
+      "explanation": "Atria act as receiving chambers and \"primer pumps\" that top off ventricular filling. Ventricles generate the pressures and heart sounds of ejection.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular System Overview",
+        "The Four Chambers, Septa & Cardiac Walls"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch01-q115",
+      "stem": "If the left ventricle fails to pump effectively, blood backs up into the left atrium and then into the:",
+      "image": null,
+      "options": [
+        "Inferior vena cava, causing leg edema",
+        "Right ventricle, causing tricuspid regurgitation",
+        "Pulmonary circulation, causing pulmonary congestion",
+        "Coronary sinus, causing pericardial effusion"
+      ],
+      "answer": 2,
+      "explanation": "Because the right and left hearts work in series, LV failure causes backward pressure into the LA and pulmonary circuit, producing congestion and dyspnea.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular System Overview",
+        "The Four Chambers, Septa & Cardiac Walls"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch01-q116",
+      "stem": "If the right ventricle fails, blood backs up into the systemic venous system, producing:",
+      "image": null,
+      "options": [
+        "Pulmonary edema and pink sputum",
+        "Left atrial dilation only",
+        "Elevated LA pressure and mitral regurgitation",
+        "Jugular venous distention, hepatomegaly, and peripheral edema"
+      ],
+      "answer": 3,
+      "explanation": "RV failure backs blood into the RA, vena cavae, and systemic veins, causing jugular distention, liver congestion, and peripheral edema. Pulmonary edema is a left-sided sign.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular System Overview",
+        "The Four Chambers, Septa & Cardiac Walls"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch01-q117",
+      "stem": "Which chamber forms the pointed apex of the heart?",
+      "image": null,
+      "options": [
+        "The left ventricle",
+        "The right atrium",
+        "The left atrium",
+        "The right ventricle"
+      ],
+      "answer": 0,
+      "explanation": "The LV forms the apex, which points toward the left hip and generates the palpable apical impulse.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular System Overview",
+        "The Four Chambers, Septa & Cardiac Walls"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch01-q118",
+      "stem": "Which chamber forms the largest portion of the heart's anterior surface?",
+      "image": null,
+      "options": [
+        "The left atrium",
+        "The right ventricle",
+        "The left ventricle",
+        "The right atrium"
+      ],
+      "answer": 1,
+      "explanation": "The RV forms most of the anterior surface, lying directly behind the sternum. The LA is the most posterior chamber and is not seen on the front of the chest.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular System Overview",
+        "The Four Chambers, Septa & Cardiac Walls"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch01-q119",
+      "stem": "On a transverse (short-axis) section, the LV cavity normally appears:",
+      "image": null,
+      "options": [
+        "Crescent-shaped with a septal bulge",
+        "Elliptical and elongated",
+        "Circular, wrapped by the crescent-shaped RV",
+        "Triangular with a central band"
+      ],
+      "answer": 2,
+      "explanation": "The LV is a circular \"donut\" in short axis, while the RV wraps around it as a crescent. This geometry reflects their different pressure loads.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular System Overview",
+        "The Four Chambers, Septa & Cardiac Walls"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch01-q120",
+      "stem": "The principal function of the cardiac septa is to:",
+      "image": null,
+      "options": [
+        "Anchor the valves during systole",
+        "Conduct electricity from the SA node",
+        "Secrete pericardial lubricant",
+        "Separate the right and left sides of the heart to prevent blood mixing"
+      ],
+      "answer": 3,
+      "explanation": "The interatrial and interventricular septa divide the heart into right (deoxygenated) and left (oxygenated) sides, maintaining separation of the two circuits.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular System Overview",
+        "Cardiac Valves — AV and Semilunar"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch01-q121",
+      "stem": "How many valves are there in the heart in total?",
+      "image": null,
+      "options": [
+        "Four",
+        "Two",
+        "Six",
+        "Eight"
+      ],
+      "answer": 0,
+      "explanation": "There are four valves — tricuspid, pulmonary, mitral, and aortic — all acting as one-way gates to maintain unidirectional flow.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular System Overview",
+        "Cardiac Valves — AV and Semilunar"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch01-q122",
+      "stem": "The atrioventricular (AV) valves prevent backflow of blood from the ventricles into the:",
+      "image": null,
+      "options": [
+        "Great arteries",
+        "Atria",
+        "Pericardial cavity",
+        "Coronary arteries"
+      ],
+      "answer": 1,
+      "explanation": "AV valves (tricuspid and mitral) close during ventricular contraction to stop blood from flowing back into the atria. Semilunar valves guard the arterial outlets.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular System Overview",
+        "Cardiac Valves — AV and Semilunar"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch01-q123",
+      "stem": "The tricuspid valve derives its name from the fact that it has:",
+      "image": null,
+      "options": [
+        "Two papillary muscles",
+        "Three chordal insertions only",
+        "Three leaflets",
+        "Three coronary sinuses"
+      ],
+      "answer": 2,
+      "explanation": "The tricuspid valve has three leaflets and sits on the right side of the heart between the RA and RV. The mitral valve has two leaflets.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular System Overview",
+        "Cardiac Valves — AV and Semilunar"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch01-q124",
+      "stem": "The bicuspid (mitral) valve is located on the left side of the heart and has how many leaflets?",
+      "image": null,
+      "options": [
+        "Three",
+        "Four",
+        "One",
+        "Two"
+      ],
+      "answer": 3,
+      "explanation": "The mitral (bicuspid) valve has two leaflets and guards the LA–LV junction. It is the only valve with two leaflets; all others have three.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular System Overview",
+        "Cardiac Valves — AV and Semilunar"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch01-q125",
+      "stem": "The semilunar valves function to:",
+      "image": null,
+      "options": [
+        "Prevent expelled blood from flowing back into the ventricles",
+        "Prevent backflow into the atria during diastole",
+        "Regulate coronary artery filling during systole",
+        "Direct blood from the vena cavae into the RA"
+      ],
+      "answer": 0,
+      "explanation": "The aortic and pulmonary semilunar valves close at the end of ventricular ejection, preventing ejected blood from returning to the ventricles.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular System Overview",
+        "Cardiac Valves — AV and Semilunar"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch01-q126",
+      "stem": "The aortic semilunar valve is located at:",
+      "image": null,
+      "options": [
+        "The junction of the RA and IVC",
+        "The base of the aorta on the left side of the heart",
+        "The base of the pulmonary artery",
+        "The interatrial septum"
+      ],
+      "answer": 1,
+      "explanation": "The aortic valve sits at the base of the aorta, where the LV ejects into the systemic circulation. The pulmonary valve sits at the base of the pulmonary artery.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular System Overview",
+        "Cardiac Valves — AV and Semilunar"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch01-q127",
+      "stem": "The pulmonary semilunar valve guards the outflow of which chamber?",
+      "image": null,
+      "options": [
+        "The left atrium",
+        "The left ventricle",
+        "The right ventricle",
+        "The right atrium"
+      ],
+      "answer": 2,
+      "explanation": "The pulmonary valve lies at the base of the pulmonary artery and opens when the RV ejects deoxygenated blood toward the lungs.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular System Overview",
+        "Cardiac Valves — AV and Semilunar"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch01-q128",
+      "stem": "During ventricular systole, a jet of blood is seen flowing backward through the mitral valve into the left atrium. This finding is:",
+      "image": null,
+      "options": [
+        "Normal mitral inflow",
+        "Aortic regurgitation",
+        "Tricuspid stenosis",
+        "Mitral regurgitation"
+      ],
+      "answer": 3,
+      "explanation": "Systolic backflow across the mitral valve into the LA defines mitral regurgitation, demonstrating the valve's role in preventing ventriculo-atrial backflow.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular System Overview",
+        "Cardiac Valves — AV and Semilunar"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch01-q129",
+      "stem": "The aortic valve opens when:",
+      "image": null,
+      "options": [
+        "Left atrial pressure exceeds LV pressure",
+        "Right ventricular pressure exceeds pulmonary pressure",
+        "LV pressure exceeds aortic root pressure",
+        "Aortic pressure exceeds LV pressure"
+      ],
+      "answer": 2,
+      "explanation": "Valves are passive structures driven by pressure gradients: the aortic valve opens the moment LV pressure rises above aortic pressure at the start of ejection.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular System Overview",
+        "Cardiac Valves — AV and Semilunar"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch01-q130",
+      "stem": "The tricuspid valve is positioned between the:",
+      "image": null,
+      "options": [
+        "LA and LV",
+        "RA and RV",
+        "LV and aorta",
+        "RV and pulmonary artery"
+      ],
+      "answer": 1,
+      "explanation": "The tricuspid valve is the right-sided AV valve, between the right atrium and right ventricle. The mitral valve occupies the same position on the left.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular System Overview",
+        "Cardiac Valves — AV and Semilunar"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch01-q131",
+      "stem": "The mitral valve lies between the:",
+      "image": null,
+      "options": [
+        "RV and pulmonary artery",
+        "RA and RV",
+        "LA and LV",
+        "LV and aorta"
+      ],
+      "answer": 2,
+      "explanation": "The mitral (bicuspid) valve connects the left atrium and left ventricle, channeling oxygenated blood into the systemic pump.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular System Overview",
+        "Cardiac Valves — AV and Semilunar"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch01-q132",
+      "stem": "Which valve has exactly two leaflets?",
+      "image": null,
+      "options": [
+        "The pulmonary valve",
+        "The tricuspid valve",
+        "The aortic valve",
+        "The mitral valve"
+      ],
+      "answer": 3,
+      "explanation": "The mitral valve's two leaflets give it the name \"bicuspid.\" Both semilunar valves and the tricuspid valve have three cusps/leaflets.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular System Overview",
+        "Cardiac Valves — AV and Semilunar"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch01-q133",
+      "stem": "How many cusps does the normal aortic valve have?",
+      "image": null,
+      "options": [
+        "Three",
+        "Two",
+        "Four",
+        "One"
+      ],
+      "answer": 0,
+      "explanation": "The aortic valve has three cusps; the commissures between them create the typical Y-shaped closure line seen in echo. A bicuspid aortic valve (two cusps) is a congenital anomaly.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular System Overview",
+        "Cardiac Valves — AV and Semilunar"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch01-q134",
+      "stem": "Collectively, the four cardiac valves share which essential function?",
+      "image": null,
+      "options": [
+        "Generating blood pressure within the ventricles",
+        "Acting as one-way gates to maintain unidirectional blood flow",
+        "Producing the electrical impulse for each heartbeat",
+        "Secreting lubricating fluid into the pericardial cavity"
+      ],
+      "answer": 1,
+      "explanation": "All four valves are passive one-way gates that keep blood moving forward through the heart. They do not generate pressure or electrical activity themselves.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular System Overview",
+        "Cardiac Valves — AV and Semilunar"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch01-q135",
+      "stem": "Doppler echocardiography estimates right ventricular systolic pressure by measuring the peak velocity of the regurgitant jet across which valve?",
+      "image": null,
+      "options": [
+        "The aortic valve",
+        "The pulmonary valve",
+        "The tricuspid valve",
+        "The mitral valve"
+      ],
+      "answer": 2,
+      "explanation": "A tricuspid regurgitation jet, via the modified Bernoulli equation plus RA pressure, yields RV systolic pressure — a routine echo application of valve physiology.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular System Overview",
+        "Cardiac Valves — AV and Semilunar"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch01-q136",
+      "stem": "The atrioventricular valves close at the onset of ventricular systole because:",
+      "image": null,
+      "options": [
+        "Ventricular pressure rises above atrial pressure, pushing the leaflets shut",
+        "The papillary muscles actively pull the leaflets closed",
+        "Atrial pressure suddenly exceeds ventricular pressure",
+        "The aortic valve opens first, creating suction"
+      ],
+      "answer": 0,
+      "explanation": "Rising ventricular pressure exceeds atrial pressure, closing the AV valves (contributing to S1) and preventing backflow into the atria.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular System Overview",
+        "Cardiac Valves — AV and Semilunar"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch01-q137",
+      "stem": "The semilunar valves close at the end of ventricular ejection because:",
+      "image": null,
+      "options": [
+        "Ventricular pressure rises above arterial pressure",
+        "The AV valves open simultaneously",
+        "Atrial contraction pushes them shut",
+        "Arterial pressure exceeds falling ventricular pressure, forcing the cusps shut"
+      ],
+      "answer": 3,
+      "explanation": "As the ventricles relax, arterial pressure exceeds ventricular pressure and backflow fills the sinuses, snapping the semilunar cusps closed (contributing to S2).",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular System Overview",
+        "Cardiac Valves — AV and Semilunar"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch01-q138",
+      "stem": "From a standard parasternal long-axis view, which two valves are typically imaged?",
+      "image": null,
+      "options": [
+        "Pulmonary and tricuspid",
+        "Tricuspid and aortic",
+        "Mitral and aortic",
+        "Mitral and pulmonary"
+      ],
+      "answer": 2,
+      "explanation": "The parasternal long-axis view shows the LA, LV, RVOT, aortic root, and both the mitral and aortic valves in the same plane. The pulmonary valve lies in a different plane.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular System Overview",
+        "Cardiac Valves — AV and Semilunar"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch01-q139",
+      "stem": "Blood entering the left ventricle from the left atrium must pass through which valve?",
+      "image": null,
+      "options": [
+        "The aortic valve",
+        "The tricuspid valve",
+        "The mitral (bicuspid) valve",
+        "The pulmonary valve"
+      ],
+      "answer": 2,
+      "explanation": "The mitral valve is the only conduit between the LA and LV, opening during diastole to fill the systemic pump.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular System Overview",
+        "Cardiac Valves — AV and Semilunar"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch01-q140",
+      "stem": "Blood leaving the right ventricle passes through which valve?",
+      "image": null,
+      "options": [
+        "The mitral valve",
+        "The aortic valve",
+        "The tricuspid valve",
+        "The pulmonary semilunar valve"
+      ],
+      "answer": 3,
+      "explanation": "RV ejection crosses the pulmonary valve into the pulmonary artery toward the lungs. The tricuspid valve lies on the RV inflow side.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular System Overview",
+        "Blood Flow Trace & the Double-Loop Circulatory System"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch01-q141",
+      "stem": "According to the complete blood flow trace, the first step is blood traveling from the superior and inferior vena cava into the:",
+      "image": null,
+      "options": [
+        "Right atrium",
+        "Right ventricle",
+        "Pulmonary artery",
+        "Left atrium"
+      ],
+      "answer": 0,
+      "explanation": "Systemic venous return via the SVC and IVC enters the right atrium first. From there it passes through the tricuspid valve into the RV.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular System Overview",
+        "Blood Flow Trace & the Double-Loop Circulatory System"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch01-q142",
+      "stem": "Following the flow trace, after the right atrium, blood next passes through the:",
+      "image": null,
+      "options": [
+        "Pulmonary valve",
+        "Tricuspid valve into the right ventricle",
+        "Mitral valve into the left ventricle",
+        "Aortic valve into the aorta"
+      ],
+      "answer": 1,
+      "explanation": "RA → tricuspid valve → RV is the second step. The pulmonary valve is the next gate only after RV filling and contraction.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular System Overview",
+        "Blood Flow Trace & the Double-Loop Circulatory System"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch01-q143",
+      "stem": "Which sequence correctly describes step three of the blood flow trace?",
+      "image": null,
+      "options": [
+        "RV → mitral valve → LA",
+        "RA → tricuspid valve → RV",
+        "RV → pulmonary semilunar valve → pulmonary artery → lungs",
+        "LV → aortic semilunar valve → aorta → body"
+      ],
+      "answer": 2,
+      "explanation": "After filling, the RV ejects through the pulmonary valve into the pulmonary artery, carrying deoxygenated blood to the lungs for gas exchange.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular System Overview",
+        "Blood Flow Trace & the Double-Loop Circulatory System"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch01-q144",
+      "stem": "After gas exchange in the lungs, blood returns to the heart via:",
+      "image": null,
+      "options": [
+        "The coronary sinus into the RA",
+        "The pulmonary artery into the RV",
+        "The superior vena cava into the RA",
+        "The four pulmonary veins into the left atrium"
+      ],
+      "answer": 3,
+      "explanation": "Oxygenated blood returns from the lungs through four pulmonary veins to the left atrium. The pulmonary arteries carry blood to, not from, the lungs.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular System Overview",
+        "Blood Flow Trace & the Double-Loop Circulatory System"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch01-q145",
+      "stem": "From the left atrium, blood flows next through the:",
+      "image": null,
+      "options": [
+        "Bicuspid (mitral) valve into the left ventricle",
+        "Tricuspid valve into the right ventricle",
+        "Aortic valve into the aorta",
+        "Pulmonary valve into the pulmonary artery"
+      ],
+      "answer": 0,
+      "explanation": "LA → mitral valve → LV is step five of the trace. The LV then ejects through the aortic valve to the body.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular System Overview",
+        "Blood Flow Trace & the Double-Loop Circulatory System"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch01-q146",
+      "stem": "The final step of the blood flow trace is:",
+      "image": null,
+      "options": [
+        "LA → mitral valve → LV",
+        "LV → aortic semilunar valve → aorta → body",
+        "RA → tricuspid valve → RV",
+        "RV → pulmonary valve → lungs"
+      ],
+      "answer": 1,
+      "explanation": "The systemic circuit begins when the LV ejects oxygenated blood through the aortic valve into the aorta for distribution to the body.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular System Overview",
+        "Blood Flow Trace & the Double-Loop Circulatory System"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch01-q147",
+      "stem": "The circulatory system is called a \"double system\" because it contains two loops. Which pair of loops operates simultaneously?",
+      "image": null,
+      "options": [
+        "Coronary and portal loops",
+        "Arterial and venous loops",
+        "Pulmonary and systemic loops",
+        "Lymphatic and hepatic loops"
+      ],
+      "answer": 2,
+      "explanation": "The pulmonary loop (RV to lungs to LA) and systemic loop (LV to body to RA) run at the same time — hence \"double circulation.\"",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular System Overview",
+        "Blood Flow Trace & the Double-Loop Circulatory System"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch01-q148",
+      "stem": "The primary purpose of the pulmonary circuit is to:",
+      "image": null,
+      "options": [
+        "Deliver nutrients absorbed from the GI tract to the liver",
+        "Regulate blood pressure in the aorta",
+        "Perfuse the myocardium during diastole",
+        "Exchange oxygen and carbon dioxide, oxygenating the blood"
+      ],
+      "answer": 3,
+      "explanation": "The pulmonary circuit takes deoxygenated blood to the lungs, where CO₂ is released and O₂ is absorbed, before returning oxygenated blood to the LA.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular System Overview",
+        "Blood Flow Trace & the Double-Loop Circulatory System"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch01-q149",
+      "stem": "Which side of the heart is associated with deoxygenated blood and colored blue in standard flow diagrams?",
+      "image": null,
+      "options": [
+        "The right heart (pulmonary circuit)",
+        "The left heart (systemic circuit)",
+        "The coronary circulation",
+        "Both sides equally"
+      ],
+      "answer": 0,
+      "explanation": "The right heart handles deoxygenated blood en route to the lungs, conventionally shown in blue; the left heart handles oxygenated blood, shown in red.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular System Overview",
+        "Blood Flow Trace & the Double-Loop Circulatory System"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch01-q150",
+      "stem": "The right and left hearts are said to function \"in series\" because:",
+      "image": null,
+      "options": [
+        "They beat at different rates to balance flow",
+        "The output of one side becomes the input of the other, making them interdependent",
+        "Each side pumps entirely independently of the other",
+        "Blood can bypass one side when it fails"
+      ],
+      "answer": 1,
+      "explanation": "In a series arrangement, RV output feeds the pulmonary circuit into the LV; a volume or pressure change on one side inevitably affects the other, so balanced output is essential.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular System Overview",
+        "Blood Flow Trace & the Double-Loop Circulatory System"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch01-q151",
+      "stem": "Which chamber(s) pump(s) deoxygenated blood?",
+      "image": null,
+      "options": [
+        "Both ventricles",
+        "The left ventricle only",
+        "The right ventricle only",
+        "The left atrium only"
+      ],
+      "answer": 2,
+      "explanation": "Only the RV pumps deoxygenated blood, sending it to the lungs. The LV pumps oxygenated blood to the body; the atria are receiving chambers.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular System Overview",
+        "Blood Flow Trace & the Double-Loop Circulatory System"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch01-q152",
+      "stem": "In systemic circulation, organs receive their arterial supply from branches of the aorta arranged in:",
+      "image": null,
+      "options": [
+        "A single series chain, with each organ feeding the next",
+        "Random, unorganized networks",
+        "One shared vessel passing sequentially through every organ",
+        "A parallel arrangement, with each organ receiving its own branch"
+      ],
+      "answer": 3,
+      "explanation": "Systemic organ perfusion is parallel: each organ gets its own aortic branch and receives fully oxygenated blood, rather than relying on blood already passing through other organs.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular System Overview",
+        "Blood Flow Trace & the Double-Loop Circulatory System"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch01-q153",
+      "stem": "What is the main physiologic advantage of parallel organ perfusion?",
+      "image": null,
+      "options": [
+        "Each organ independently receives oxygenated blood, so failure of one organ does not deprive the others",
+        "It eliminates the need for the heart to generate pressure",
+        "It allows organs to share deoxygenated blood equally",
+        "It bypasses the lungs entirely"
+      ],
+      "answer": 0,
+      "explanation": "In a parallel arrangement, every organ is fed directly with oxygenated aortic blood, so one organ's increased demand does not compromise the others. A purely series arrangement would degrade blood quality step by step.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular System Overview",
+        "Blood Flow Trace & the Double-Loop Circulatory System"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch01-q154",
+      "stem": "The liver is a special case because it receives blood from which two sources?",
+      "image": null,
+      "options": [
+        "Two hepatic arteries only",
+        "The portal vein (GI nutrient blood) and the hepatic artery (oxygenated blood)",
+        "The superior mesenteric artery and coronary sinus",
+        "The pulmonary artery and one pulmonary vein"
+      ],
+      "answer": 1,
+      "explanation": "The liver has a dual blood supply: portal venous blood rich in nutrients from the GI tract plus oxygenated blood from the hepatic artery — combining series and parallel supply.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular System Overview",
+        "Blood Flow Trace & the Double-Loop Circulatory System"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch01-q155",
+      "stem": "The portal vein, part of the liver's dual supply, carries:",
+      "image": null,
+      "options": [
+        "Oxygenated systemic blood at arterial pressure",
+        "Lymph from the intestinal villi",
+        "Nutrient-rich deoxygenated blood from the GI tract",
+        "Oxygenated blood directly from the aorta"
+      ],
+      "answer": 2,
+      "explanation": "The portal vein drains the GI tract, delivering nutrient-rich but deoxygenated blood to the liver. Oxygenation comes separately via the hepatic artery.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular System Overview",
+        "Blood Flow Trace & the Double-Loop Circulatory System"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch01-q156",
+      "stem": "Why does the liver's dual blood supply provide a protective advantage?",
+      "image": null,
+      "options": [
+        "It allows the liver to bypass the heart",
+        "It doubles the aortic pressure to the liver",
+        "It lets the liver filter lymph directly",
+        "It helps prevent hepatic ischemia if one supply is compromised"
+      ],
+      "answer": 3,
+      "explanation": "With both a portal venous and an arterial inflow, occlusion or reduction of one supply can be partially compensated by the other, protecting the liver from ischemia.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular System Overview",
+        "Blood Flow Trace & the Double-Loop Circulatory System"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch01-q157",
+      "stem": "If the right ventricle suddenly pumps more blood than the left ventricle over time, the likely consequence is:",
+      "image": null,
+      "options": [
+        "Pulmonary vascular congestion as volume accumulates in the pulmonary circuit",
+        "Spontaneous resolution without consequence",
+        "Reduced systemic venous return",
+        "Immediate aortic dilation"
+      ],
+      "answer": 0,
+      "explanation": "Because the two sides work in series with balanced output essential, RV output exceeding LV output causes blood to accumulate in the pulmonary circulation, raising pulmonary pressures.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular System Overview",
+        "Blood Flow Trace & the Double-Loop Circulatory System"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch01-q158",
+      "stem": "The systemic circulation begins at which chamber and returns to which chamber?",
+      "image": null,
+      "options": [
+        "Begins at the RV, returns to the LA",
+        "Begins at the LV (via the aorta), returns to the RA (via the vena cavae)",
+        "Begins at the LA, returns to the RV",
+        "Begins and ends at the left atrium"
+      ],
+      "answer": 1,
+      "explanation": "The systemic loop: LV → aortic valve → aorta → body → vena cavae → RA. The pulmonary loop runs from RV to lungs to LA.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular System Overview",
+        "Blood Flow Trace & the Double-Loop Circulatory System"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch01-q159",
+      "stem": "The pulmonary circulation begins at which chamber and ends where?",
+      "image": null,
+      "options": [
+        "Begins at the LV, ends at the RA",
+        "Begins at the aorta, ends at the vena cava",
+        "Begins at the RV, ends at the left atrium",
+        "Begins at the LA, ends at the LV"
+      ],
+      "answer": 2,
+      "explanation": "The pulmonary circuit runs RV → pulmonary valve → pulmonary arteries → lungs → pulmonary veins → LA, completing the right-sided loop of the double system.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular System Overview",
+        "Blood Flow Trace & the Double-Loop Circulatory System"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch01-q160",
+      "stem": "Which organ is the stated major exception to purely parallel systemic perfusion, receiving both series and parallel supply?",
+      "image": null,
+      "options": [
+        "The kidneys",
+        "The brain",
+        "The skeletal muscle",
+        "The liver"
+      ],
+      "answer": 3,
+      "explanation": "The liver uniquely receives nutrient-rich portal venous blood (series, from the GI tract) plus oxygenated hepatic arterial blood (parallel), a dual supply that helps prevent ischemia.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular System Overview",
+        "Intracardiac Pressure Dynamics & Coronary Circulation"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch01-q161",
+      "stem": "Blood flow through the heart and across its valves is ultimately driven by:",
+      "image": null,
+      "options": [
+        "Gravity and body position",
+        "Valvular elasticity",
+        "Active contraction of the valve leaflets",
+        "Pressure gradients between chambers and vessels"
+      ],
+      "answer": 3,
+      "explanation": "Pressure gradients drive flow: blood moves from higher to lower pressure, and these differentials dictate when each valve opens and closes. Valves open and close passively.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular System Overview",
+        "Intracardiac Pressure Dynamics & Coronary Circulation"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch01-q162",
+      "stem": "In terms of intracardiac pressure, the left ventricle is described as the:",
+      "image": null,
+      "options": [
+        "Low-pressure chamber",
+        "High-pressure chamber of the heart",
+        "Storage chamber",
+        "Passive conduit"
+      ],
+      "answer": 1,
+      "explanation": "The LV is the high-pressure chamber, generating systemic pressures. The RV operates at much lower pressure, matching the low-resistance pulmonary circuit.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular System Overview",
+        "Intracardiac Pressure Dynamics & Coronary Circulation"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch01-q163",
+      "stem": "Typical normal systolic pressures highlight the pressure difference between the ventricles. Which pair best represents LV versus RV systolic pressure?",
+      "image": null,
+      "options": [
+        "LV ~120 mmHg, RV ~25 mmHg",
+        "LV ~25 mmHg, RV ~120 mmHg",
+        "LV ~15 mmHg, RV ~80 mmHg",
+        "Both approximately 70 mmHg"
+      ],
+      "answer": 0,
+      "explanation": "LV systolic pressure is roughly 120 mmHg, while RV systolic pressure is only about 25 mmHg. Option B reverses the two — a common mistake.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular System Overview",
+        "Intracardiac Pressure Dynamics & Coronary Circulation"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch01-q164",
+      "stem": "Wall thickness of the cardiac chambers reflects:",
+      "image": null,
+      "options": [
+        "The electrical conduction velocity",
+        "The volume of pericardial fluid",
+        "Valve leaflet number",
+        "The chamber's pressure load"
+      ],
+      "answer": 3,
+      "explanation": "Chambers working against higher pressure develop thicker myocardial walls. This is why the LV wall is thick (systemic load) and the RV wall thin (pulmonary load).",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular System Overview",
+        "Intracardiac Pressure Dynamics & Coronary Circulation"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch01-q165",
+      "stem": "A 62-year-old with longstanding systemic hypertension undergoes echo. The expected adaptive change in the left ventricle is:",
+      "image": null,
+      "options": [
+        "Wall thinning with dilation",
+        "Flattening of the septum",
+        "No measurable change",
+        "Wall thickening (hypertrophy) in response to increased pressure load"
+      ],
+      "answer": 3,
+      "explanation": "Chronic pressure overload from hypertension drives concentric LV hypertrophy — the wall thickens, reflecting the increased pressure load, a direct application of \"wall thickness reflects chamber pressure.\"",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular System Overview",
+        "Intracardiac Pressure Dynamics & Coronary Circulation"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch01-q166",
+      "stem": "A patient with chronic pulmonary hypertension would be expected to develop hypertrophy of which chamber?",
+      "image": null,
+      "options": [
+        "The left ventricle",
+        "The right ventricle",
+        "The left atrium only",
+        "The right atrium only"
+      ],
+      "answer": 1,
+      "explanation": "Elevated pulmonary pressures increase the RV's pressure load, causing RV wall thickening (hypertrophy). The LV is unaffected by pulmonary vascular resistance.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular System Overview",
+        "Intracardiac Pressure Dynamics & Coronary Circulation"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch01-q167",
+      "stem": "The timing of valve opening and closing is dictated by:",
+      "image": null,
+      "options": [
+        "Pressure differentials across each valve",
+        "Heart rate alone",
+        "The autonomic nervous system",
+        "The viscosity of the blood"
+      ],
+      "answer": 0,
+      "explanation": "Valves open when upstream pressure exceeds downstream pressure and close when the reverse occurs. This is why valve timing tracks the pressure cycle rather than neural signals.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular System Overview",
+        "Intracardiac Pressure Dynamics & Coronary Circulation"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch01-q168",
+      "stem": "Which pressure relationship causes the aortic valve to open?",
+      "image": null,
+      "options": [
+        "Aortic pressure exceeding LV pressure",
+        "LA pressure exceeding LV pressure",
+        "RV pressure exceeding RA pressure",
+        "LV pressure exceeding aortic pressure"
+      ],
+      "answer": 3,
+      "explanation": "The aortic valve opens only when LV systolic pressure surpasses aortic root pressure. Before that, the valve remains closed and pressure builds isovolumically.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular System Overview",
+        "Intracardiac Pressure Dynamics & Coronary Circulation"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch01-q169",
+      "stem": "During diastole, the mitral valve opens when:",
+      "image": null,
+      "options": [
+        "LV pressure falls below LA pressure",
+        "Aortic pressure exceeds LV pressure",
+        "LA pressure falls below LV pressure",
+        "RV pressure exceeds pulmonary artery pressure"
+      ],
+      "answer": 0,
+      "explanation": "As the LV relaxes, its pressure drops below the LA pressure and the mitral valve opens, allowing filling. The same logic governs the tricuspid valve on the right.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular System Overview",
+        "Intracardiac Pressure Dynamics & Coronary Circulation"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch01-q170",
+      "stem": "The coronary arteries, which perfuse the myocardium, arise from:",
+      "image": null,
+      "options": [
+        "The pulmonary trunk",
+        "The base of the aorta",
+        "The left ventricular endocardium",
+        "The brachiocephalic veins"
+      ],
+      "answer": 1,
+      "explanation": "Coronary arteries originate from the aortic base just above the aortic valve, receiving the full force of LV ejection at their origin.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular System Overview",
+        "Intracardiac Pressure Dynamics & Coronary Circulation"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch01-q171",
+      "stem": "Coronary blood flow to the myocardium occurs predominantly during:",
+      "image": null,
+      "options": [
+        "Diastole",
+        "Isovolumic relaxation only",
+        "Systole",
+        "Atrial systole only"
+      ],
+      "answer": 0,
+      "explanation": "Coronary flow occurs mostly during diastole, when the myocardium is relaxed. During systole, contracting muscle compresses the intramural vessels and throttles flow.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular System Overview",
+        "Intracardiac Pressure Dynamics & Coronary Circulation"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch01-q172",
+      "stem": "Why is coronary perfusion limited during ventricular systole?",
+      "image": null,
+      "options": [
+        "Aortic pressure falls to zero during systole",
+        "Coronary arteries are absent from the LV wall",
+        "The valves occlude the coronary ostia during systole",
+        "The contracting myocardium compresses the coronary vessels"
+      ],
+      "answer": 3,
+      "explanation": "Systolic contraction squeezes the vessels running within the heart muscle, mechanically reducing flow. This is why diastole is the primary coronary perfusion period.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular System Overview",
+        "Intracardiac Pressure Dynamics & Coronary Circulation"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch01-q173",
+      "stem": "In standard cardiac anatomy, the left anterior descending (LAD) coronary artery primarily supplies:",
+      "image": null,
+      "options": [
+        "The anterior wall, septum, and apex of the left ventricle",
+        "The inferior wall of the right ventricle only",
+        "The left atrial appendage",
+        "The pulmonary valve leaflets"
+      ],
+      "answer": 0,
+      "explanation": "The LAD runs in the anterior interventricular groove, supplying the anterior wall, anterior septum, and apex — the territory assessed in apical echo views.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular System Overview",
+        "Intracardiac Pressure Dynamics & Coronary Circulation"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch01-q174",
+      "stem": "A patient with marked tachycardia has shortened diastolic filling time. The most direct consequence for the myocardium is:",
+      "image": null,
+      "options": [
+        "Increased coronary perfusion",
+        "Reduced coronary perfusion because flow occurs mostly during diastole",
+        "No change in coronary perfusion",
+        "Increased systolic compression of the coronaries"
+      ],
+      "answer": 1,
+      "explanation": "Since coronary flow is diastolic, a faster heart rate shortens diastole and reduces myocardial perfusion time — an important concept in ischemia.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular System Overview",
+        "Intracardiac Pressure Dynamics & Coronary Circulation"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch01-q175",
+      "stem": "Coronary blood flow to the left ventricular myocardium is greatest during which phase of the cardiac cycle?",
+      "image": null,
+      "options": [
+        "Diastole",
+        "Isovolumic contraction",
+        "Peak systolic ejection",
+        "Late systole"
+      ],
+      "answer": 0,
+      "explanation": "Diastole is the main coronary perfusion window because the relaxed myocardium no longer compresses the intramural vessels, allowing flow from the aortic root to reach the tissue.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular System Overview",
+        "Intracardiac Pressure Dynamics & Coronary Circulation"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch01-q176",
+      "stem": "An echo demonstrates symmetric thickening of the interventricular septum and posterior wall. This pattern is best described as:",
+      "image": null,
+      "options": [
+        "Asymmetric septal hypertrophy",
+        "Normal RV dilation",
+        "Apical ballooning",
+        "Concentric left ventricular hypertrophy"
+      ],
+      "answer": 3,
+      "explanation": "Uniform thickening of septum and posterior (free) wall is concentric LVH, the classic response to chronic pressure overload such as systemic hypertension.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular System Overview",
+        "Intracardiac Pressure Dynamics & Coronary Circulation"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch01-q177",
+      "stem": "Because the left side of the heart is a high-pressure system, the valve most exposed to the highest closing pressure is the:",
+      "image": null,
+      "options": [
+        "Aortic valve",
+        "Pulmonary valve",
+        "Tricuspid valve",
+        "Pulmonary and tricuspid valves equally"
+      ],
+      "answer": 0,
+      "explanation": "The aortic valve closes against systemic diastolic pressures (~80 mmHg and above), far higher than the pulmonary valve's closing pressure, reflecting LV high-pressure versus RV low-pressure dynamics.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular System Overview",
+        "Intracardiac Pressure Dynamics & Coronary Circulation"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch01-q178",
+      "stem": "Which value best represents normal resting left ventricular systolic (arterial) pressure?",
+      "image": null,
+      "options": [
+        "Approximately 25 mmHg",
+        "Approximately 120 mmHg",
+        "Approximately 8 mmHg",
+        "Approximately 200 mmHg"
+      ],
+      "answer": 1,
+      "explanation": "Normal systemic arterial systolic pressure is about 120 mmHg, generated by the LV. The 25 mmHg figure approximates RV systolic pressure, and 8 mmHg approximates RA pressure.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular System Overview",
+        "Intracardiac Pressure Dynamics & Coronary Circulation"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch01-q179",
+      "stem": "The right ventricular wall is thin because the RV:",
+      "image": null,
+      "options": [
+        "Is a receiving chamber only",
+        "Contains less myocardium at birth",
+        "Pumps into the low-pressure, low-resistance pulmonary circuit",
+        "Has no myocardium"
+      ],
+      "answer": 2,
+      "explanation": "The RV only needs to overcome pulmonary vascular resistance, so its wall remains thin. The LV's much higher pressure load demands a thick wall.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular System Overview",
+        "Intracardiac Pressure Dynamics & Coronary Circulation"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch01-q180",
+      "stem": "Concentric LV hypertrophy on echocardiography most directly indicates which hemodynamic state?",
+      "image": null,
+      "options": [
+        "Chronic volume overload of the right atrium",
+        "Chronic low-pressure pulmonary flow",
+        "Pericardial constriction",
+        "Chronic left-sided pressure overload"
+      ],
+      "answer": 3,
+      "explanation": "Uniform LV wall thickening is the heart's adaptation to chronic high systemic pressure load — e.g., longstanding hypertension or aortic stenosis.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular System Overview",
+        "Integrated Circulation & Echocardiographic Correlations"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch01-q181",
+      "stem": "In a standard apical four-chamber view, which cardiac chambers are displayed simultaneously?",
+      "image": null,
+      "options": [
+        "All four chambers: RA, RV, LA, and LV",
+        "Only the left-sided chambers",
+        "Only the ventricles",
+        "The aortic root and pulmonary artery"
+      ],
+      "answer": 0,
+      "explanation": "The apical four-chamber window shows all four chambers at once, exploiting the heart's oblique orientation with the probe at the LV apex.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular System Overview",
+        "Integrated Circulation & Echocardiographic Correlations"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch01-q182",
+      "stem": "Tracing blood from the vena cava to the aorta, how many valves does the blood pass through?",
+      "image": null,
+      "options": [
+        "Four",
+        "Two",
+        "Six",
+        "Three"
+      ],
+      "answer": 0,
+      "explanation": "The path crosses four one-way gates: tricuspid, pulmonary, mitral, and aortic valves, in that order. This underlines the four-valve architecture of the heart.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular System Overview",
+        "Integrated Circulation & Echocardiographic Correlations"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch01-q183",
+      "stem": "Which statement about the right and left hearts functioning in series is TRUE?",
+      "image": null,
+      "options": [
+        "They are structurally connected but functionally independent",
+        "A volume or pressure change on one side affects the other side",
+        "Each side can fully compensate indefinitely for the other's failure",
+        "They eject blood in opposite directions in the same circuit"
+      ],
+      "answer": 1,
+      "explanation": "The chambers are structurally and functionally connected; a change in volume or pressure on one side is transmitted to the other, which is why balanced output is essential.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular System Overview",
+        "Integrated Circulation & Echocardiographic Correlations"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch01-q184",
+      "stem": "An echo reveals a defect in the interatrial septum allowing blood to pass between the atria. This structure normally functions to:",
+      "image": null,
+      "options": [
+        "Anchor the mitral valve",
+        "Conduct the electrical impulse between ventricles",
+        "Support the aortic root",
+        "Separate the right and left atria, preventing mixing of the two circulations"
+      ],
+      "answer": 3,
+      "explanation": "The interatrial septum keeps deoxygenated and oxygenated blood separated; a defect (ASD) permits an abnormal shunt between the circuits.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular System Overview",
+        "Integrated Circulation & Echocardiographic Correlations"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch01-q185",
+      "stem": "Antibodies and immune cells circulating in the blood demonstrate which core function of the cardiovascular system?",
+      "image": null,
+      "options": [
+        "Protection",
+        "Temperature regulation",
+        "Nutrient transport",
+        "Pressure regulation"
+      ],
+      "answer": 0,
+      "explanation": "Immune components of blood (with clotting agents) constitute the protection function — defending against infection and blood loss.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular System Overview",
+        "Integrated Circulation & Echocardiographic Correlations"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch01-q186",
+      "stem": "According to the lecture's key takeaways, what ultimately drives both blood flow and valve function?",
+      "image": null,
+      "options": [
+        "Pressure differences within the heart and vessels",
+        "Gravity-dependent venous return",
+        "Active contraction of the valve cusps",
+        "Lymphatic suction"
+      ],
+      "answer": 0,
+      "explanation": "Pressure differences drive blood flow and dictate valve timing — the unifying hemodynamic principle of the lecture.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular System Overview",
+        "Integrated Circulation & Echocardiographic Correlations"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch01-q187",
+      "stem": "A 58-year-old presents with progressive dyspnea. Echo shows a dilated, hypertrophied right ventricle and enlarged right atrium with normal left-sided chambers. Which circuit is most likely the source of the problem?",
+      "image": null,
+      "options": [
+        "The systemic arterial circuit",
+        "The coronary circuit",
+        "The pulmonary circuit, with elevated pulmonary pressures overloading the right heart",
+        "The lymphatic circuit"
+      ],
+      "answer": 2,
+      "explanation": "Isolated right heart dilation and RV hypertrophy point to pulmonary circuit pathology (pulmonary hypertension), since wall thickness reflects the RV's increased pressure load.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular System Overview",
+        "Integrated Circulation & Echocardiographic Correlations"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch01-q188",
+      "stem": "Which of the following represents the average resting heart rate?",
+      "image": null,
+      "options": [
+        "70–75 bpm",
+        "100–120 bpm",
+        "40–50 bpm",
+        "20–30 bpm"
+      ],
+      "answer": 0,
+      "explanation": "The average resting heart rate is approximately 70–75 bpm, varying with individual fitness — fitter individuals generally have lower rates.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular System Overview",
+        "Integrated Circulation & Echocardiographic Correlations"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch01-q189",
+      "stem": "On 2D echocardiography, a pericardial effusion characteristically appears as:",
+      "image": null,
+      "options": [
+        "An anechoic (echo-free) space between the pericardial layers",
+        "A bright, highly echogenic band within the LV cavity",
+        "A dilated aortic root with turbulent color flow",
+        "Thickened mitral leaflets with doming"
+      ],
+      "answer": 0,
+      "explanation": "Pericardial fluid is transonic and appears anechoic between the epicardium and parietal pericardium, separating the heart from the surrounding sac.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular System Overview",
+        "Integrated Circulation & Echocardiographic Correlations"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch01-q190",
+      "stem": "From the moment blood enters the right atrium until it is ejected into the pulmonary artery, how many valves has it crossed?",
+      "image": null,
+      "options": [
+        "Four",
+        "Two",
+        "One",
+        "Three"
+      ],
+      "answer": 1,
+      "explanation": "Right-sided transit crosses two valves: tricuspid (RA to RV) and pulmonary (RV to pulmonary artery). The mitral and aortic valves are on the left side.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular System Overview",
+        "Integrated Circulation & Echocardiographic Correlations"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch01-q191",
+      "stem": "In the double-loop circulatory system, the two loops operate:",
+      "image": null,
+      "options": [
+        "Simultaneously, with every heartbeat serving both circuits",
+        "Alternately, one after the other",
+        "Only during exercise",
+        "Independently, with no shared structures"
+      ],
+      "answer": 0,
+      "explanation": "The pulmonary and systemic loops run simultaneously — each ventricular contraction ejects into both circuits at once, which is why the system is called a \"double system.\"",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular System Overview",
+        "Integrated Circulation & Echocardiographic Correlations"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch01-q192",
+      "stem": "An endurance athlete presents for a routine echo and has a resting heart rate of 52 bpm with normal chamber sizes and function. The most appropriate interpretation is:",
+      "image": null,
+      "options": [
+        "Pathologic bradycardia requiring intervention",
+        "Complete heart block",
+        "Hyperthyroid-related tachycardia",
+        "A normal finding, since higher fitness levels lower resting heart rate"
+      ],
+      "answer": 3,
+      "explanation": "Fit individuals commonly have low resting heart rates; with a structurally normal echo this is expected physiologic adaptation, not disease.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular System Overview",
+        "Integrated Circulation & Echocardiographic Correlations"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch01-q193",
+      "stem": "Which valve, when functioning normally, prevents oxygenated blood from flowing back into the left atrium during ventricular contraction?",
+      "image": null,
+      "options": [
+        "The pulmonary valve",
+        "The tricuspid valve",
+        "The mitral (bicuspid) valve",
+        "The aortic valve"
+      ],
+      "answer": 2,
+      "explanation": "The mitral valve closes during LV systole, keeping oxygenated blood moving forward into the aorta rather than back into the LA.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular System Overview",
+        "Integrated Circulation & Echocardiographic Correlations"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch01-q194",
+      "stem": "Immediately after blood leaves the lungs, the first cardiac chamber it enters is the:",
+      "image": null,
+      "options": [
+        "Left atrium",
+        "Right atrium",
+        "Right ventricle",
+        "Left ventricle"
+      ],
+      "answer": 0,
+      "explanation": "Oxygenated blood returns from the lungs via the four pulmonary veins directly into the left atrium, completing the pulmonary circuit.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular System Overview",
+        "Integrated Circulation & Echocardiographic Correlations"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch01-q195",
+      "stem": "In the in-series relationship of the two ventricles, a sudden drop in left ventricular output would most directly cause:",
+      "image": null,
+      "options": [
+        "Reduced perfusion of the systemic organs",
+        "Spontaneous improvement in RV function",
+        "Increased systemic oxygen delivery",
+        "Decreased pulmonary venous pressure with no other effects"
+      ],
+      "answer": 0,
+      "explanation": "Because the LV drives the systemic circuit, falling LV output directly reduces systemic organ perfusion, while blood may back up into the pulmonary circuit behind it.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular System Overview",
+        "Integrated Circulation & Echocardiographic Correlations"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch01-q196",
+      "stem": "On a parasternal short-axis view at the papillary muscle level, the normal left ventricle appears as:",
+      "image": null,
+      "options": [
+        "A circular cavity (\"donut\") with papillary muscles, encircled by the crescent-shaped RV",
+        "A crescent wrapped by a circular cavity",
+        "An elongated tube with no defined walls",
+        "A triangular cavity with four visible valves"
+      ],
+      "answer": 0,
+      "explanation": "The classic short-axis geometry is a circular LV with visible papillary muscles and the RV as a crescent around it — a key normal finding for wall-motion assessment.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular System Overview",
+        "Integrated Circulation & Echocardiographic Correlations"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch01-q197",
+      "stem": "A clinician palpates the apical impulse on the chest wall. This landmark corresponds to the cardiac apex, which points:",
+      "image": null,
+      "options": [
+        "Toward the left hip",
+        "Toward the right shoulder",
+        "Directly posterior to the spine",
+        "Toward the subxiphoid region"
+      ],
+      "answer": 0,
+      "explanation": "The apex, formed by the LV, points toward the left hip and produces the palpable apical impulse — the surface landmark used for the apical echo window.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular System Overview",
+        "Integrated Circulation & Echocardiographic Correlations"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch01-q198",
+      "stem": "Which statement about the circulatory system as a whole is correct?",
+      "image": null,
+      "options": [
+        "It consists only of the heart and excludes all vessels",
+        "It includes both the cardiovascular system (heart and blood vessels) and the lymphatic system",
+        "It excludes the lymphatic system by definition",
+        "It refers only to the pulmonary circuit"
+      ],
+      "answer": 1,
+      "explanation": "The circulatory system is the broader system, encompassing the cardiovascular component plus the lymphatic network of nodes, vessels, and organs.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular System Overview",
+        "Integrated Circulation & Echocardiographic Correlations"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch01-q199",
+      "stem": "Maintaining blood pressure and blood volume within normal limits is an example of which core cardiovascular function?",
+      "image": null,
+      "options": [
+        "Protection",
+        "Gas exchange",
+        "Control and regulation",
+        "Immune surveillance"
+      ],
+      "answer": 2,
+      "explanation": "Control and regulation covers body temperature, blood volume, and blood pressure. Protection refers to immunity and clotting; gas exchange is part of transport.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular System Overview",
+        "Integrated Circulation & Echocardiographic Correlations"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch01-q200",
+      "stem": "Tracing the complete double-loop circuit: blood that has just undergone gas exchange in the lungs next travels through which structures?",
+      "image": null,
+      "options": [
+        "The pulmonary arteries to the right atrium",
+        "The tricuspid valve to the right ventricle",
+        "The aortic valve to the aorta",
+        "The four pulmonary veins to the left atrium"
+      ],
+      "answer": 3,
+      "explanation": "After lung gas exchange, oxygenated blood returns through the four pulmonary veins to the left atrium, then passes through the mitral valve into the LV to begin the systemic loop. --- *End of question bank — 200 questions total. Answers distributed evenly across options A–D (50 each). Content anchored in DCS 5002, Lecture 1: Cardiovascular System Overview — Anatomy, Chambers, and Blood Flow Circuits.*",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular System Overview",
+        "Integrated Circulation & Echocardiographic Correlations"
       ],
       "reference": ""
     }

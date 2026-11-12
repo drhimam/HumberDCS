@@ -1,76 +1,3804 @@
 {
   "chapterId": "ch03",
-  "title": "Cardiac Cycle & Pressures",
+  "title": "Cross-Sectional Anatomy of the Thorax",
   "questions": [
     {
       "id": "DCS5002-ch03-q001",
-      "stem": "The mitral valve opens at which point of the cardiac cycle?",
+      "stem": "Which imaging plane divides the body into right and left portions?",
       "image": null,
       "options": [
-        "When LV pressure exceeds aortic pressure",
-        "When LV pressure falls below LA pressure",
-        "At the peak of the T wave",
-        "At the onset of the QRS complex"
+        "Coronal plane",
+        "Axial plane",
+        "Sagittal plane",
+        "Oblique plane"
       ],
-      "answer": 1,
-      "explanation": "At the end of isovolumic relaxation, LV pressure falls below LA pressure, and the mitral valve opens. This starts rapid ventricular filling, which is the E wave on Doppler.",
+      "answer": 2,
+      "explanation": "The sagittal plane divides the body into right and left portions, as stated in the lecture. The coronal plane divides anterior/posterior, and the axial (transverse) plane divides superior/inferior.",
       "explanationImage": null,
       "tags": [
-        "cardiac cycle"
+        "Cross-Sectional Anatomy of the Thorax",
+        "Section 1 — Cross-Sectional Anatomy Fundamentals & Imaging Planes"
       ],
       "reference": ""
     },
     {
       "id": "DCS5002-ch03-q002",
-      "stem": "During isovolumic contraction:",
+      "stem": "A transverse image obtained \"straight across\" the chest at the level of the heart corresponds to which imaging plane?",
       "image": null,
       "options": [
-        "All four valves are closed",
-        "The aortic valve is open",
-        "The mitral valve is open",
-        "Ventricular volume decreases rapidly"
+        "Sagittal plane",
+        "Coronal plane",
+        "Longitudinal plane",
+        "Axial (transverse) plane"
       ],
-      "answer": 0,
-      "explanation": "Isovolumic contraction occurs between mitral valve closure and aortic valve opening. All valves are closed, so pressure rises quickly while volume stays the same.",
+      "answer": 3,
+      "explanation": "Axial (transverse) sections divide the body into superior and inferior portions and are obtained \"across\" the body. They form the basis of short-axis echocardiographic and CT cross-sectional images.",
       "explanationImage": null,
       "tags": [
-        "cardiac cycle"
+        "Cross-Sectional Anatomy of the Thorax",
+        "Section 1 — Cross-Sectional Anatomy Fundamentals & Imaging Planes"
       ],
       "reference": ""
     },
     {
       "id": "DCS5002-ch03-q003",
-      "stem": "Which Doppler wave represents left atrial contraction across the mitral valve?",
+      "stem": "The coronal plane divides the body into which portions?",
       "image": null,
       "options": [
-        "E wave",
-        "A wave",
-        "S wave",
-        "e' wave"
+        "Right and left portions",
+        "Superior and inferior portions",
+        "Medial and lateral portions",
+        "Anterior and posterior sections"
       ],
-      "answer": 1,
-      "explanation": "The mitral inflow A wave occurs in late diastole, when the atrium contracts. It follows the P wave on the ECG. The E wave represents early passive filling.",
+      "answer": 3,
+      "explanation": "By lecture definition, the coronal plane divides the body into anterior and posterior sections. Sagittal divides right/left and axial divides superior/inferior, which are the classic distractors here.",
       "explanationImage": null,
       "tags": [
-        "doppler"
+        "Cross-Sectional Anatomy of the Thorax",
+        "Section 1 — Cross-Sectional Anatomy Fundamentals & Imaging Planes"
       ],
       "reference": ""
     },
     {
       "id": "DCS5002-ch03-q004",
-      "stem": "Normal right ventricular systolic pressure in an adult is approximately:",
+      "stem": "Which imaging plane divides the body into superior and inferior sections?",
       "image": null,
       "options": [
-        "5-10 mmHg",
-        "15-30 mmHg",
-        "60-80 mmHg",
-        "100-120 mmHg"
+        "Sagittal plane",
+        "Axial plane",
+        "Coronal plane",
+        "Midsagittal plane"
       ],
       "answer": 1,
-      "explanation": "Normal RV systolic pressure (which equals PA systolic pressure without pulmonic stenosis) is about 15-30 mmHg. On echo it is estimated as 4(TR Vmax)² + RA pressure.",
+      "explanation": "The axial plane sections the body horizontally into superior and inferior parts. A midsagittal plane is still a sagittal (right/left) division, so option D is incorrect despite passing through the midline.",
       "explanationImage": null,
       "tags": [
-        "pressures"
+        "Cross-Sectional Anatomy of the Thorax",
+        "Section 1 — Cross-Sectional Anatomy Fundamentals & Imaging Planes"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch03-q005",
+      "stem": "A sonographer angles the transducer off any standard plane to best align with the obliquely positioned heart. This image section is best described as:",
+      "image": null,
+      "options": [
+        "Sagittal",
+        "Coronal",
+        "Oblique",
+        "Axial"
+      ],
+      "answer": 2,
+      "explanation": "Oblique planes visualize anatomy using angled or nonstandard image sections. Because the heart lies obliquely in the thorax, most standard echo views (e.g., PLAX, A4C) are actually oblique sections.",
+      "explanationImage": null,
+      "tags": [
+        "Cross-Sectional Anatomy of the Thorax",
+        "Section 1 — Cross-Sectional Anatomy Fundamentals & Imaging Planes"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch03-q006",
+      "stem": "Cross-sectional anatomy primarily examines body structures using:",
+      "image": null,
+      "options": [
+        "Anatomical image slices",
+        "Contrast injection studies",
+        "Electrocardiographic leads",
+        "Doppler frequency shifts"
+      ],
+      "answer": 0,
+      "explanation": "Cross-sectional anatomy examines body structures using anatomical image slices and demonstrates spatial relationships between organs and surrounding structures. Doppler and ECG assess function, not sectional anatomy.",
+      "explanationImage": null,
+      "tags": [
+        "Cross-Sectional Anatomy of the Thorax",
+        "Section 1 — Cross-Sectional Anatomy Fundamentals & Imaging Planes"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch03-q007",
+      "stem": "The apical four-chamber view is best described as:",
+      "image": null,
+      "options": [
+        "A true axial section",
+        "An oblique longitudinal section that approximates a coronal plane",
+        "A true sagittal section",
+        "A true transverse section"
+      ],
+      "answer": 1,
+      "explanation": "Per the lecture, the A4C is an oblique longitudinal section that approximates a coronal plane. It is not a true coronal or axial cut because the heart's oblique position requires transducer angulation.",
+      "explanationImage": null,
+      "tags": [
+        "Cross-Sectional Anatomy of the Thorax",
+        "Section 1 — Cross-Sectional Anatomy Fundamentals & Imaging Planes"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch03-q008",
+      "stem": "Sagittal sections of the heart are most useful for demonstrating:",
+      "image": null,
+      "options": [
+        "Right-versus-left chamber sizes",
+        "Superior-versus-inferior relationships",
+        "Left-versus-right border formation",
+        "Anterior and posterior cardiac relationships"
+      ],
+      "answer": 3,
+      "explanation": "Sagittal sections demonstrate anterior and posterior relationships, such as the RV near the sternum and the LA near the descending aorta. Right/left relationships belong to coronal-type sections.",
+      "explanationImage": null,
+      "tags": [
+        "Cross-Sectional Anatomy of the Thorax",
+        "Section 1 — Cross-Sectional Anatomy Fundamentals & Imaging Planes"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch03-q009",
+      "stem": "Coronal sections of the thorax primarily display:",
+      "image": null,
+      "options": [
+        "Vertical (superior–inferior) anatomical relationships",
+        "Axial relationships only",
+        "Horizontal relationships only",
+        "Transverse relationships only"
+      ],
+      "answer": 0,
+      "explanation": "The lecture states coronal sections display vertical anatomical relationships, including the great vessels extending superiorly and the diaphragm lying inferiorly beneath the cardiac silhouette.",
+      "explanationImage": null,
+      "tags": [
+        "Cross-Sectional Anatomy of the Thorax",
+        "Section 1 — Cross-Sectional Anatomy Fundamentals & Imaging Planes"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch03-q010",
+      "stem": "The midsagittal plane is unique because it:",
+      "image": null,
+      "options": [
+        "Divides the body into unequal right and left portions",
+        "Passes through the midline, dividing the body into equal right and left halves",
+        "Divides the body into anterior and posterior halves",
+        "Runs at a 45-degree angle to the long axis"
+      ],
+      "answer": 1,
+      "explanation": "A midsagittal section lies exactly on the midline and creates equal right and left halves; any parasagittal section creates unequal halves. Anterior/posterior division is the coronal plane.",
+      "explanationImage": null,
+      "tags": [
+        "Cross-Sectional Anatomy of the Thorax",
+        "Section 1 — Cross-Sectional Anatomy Fundamentals & Imaging Planes"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch03-q011",
+      "stem": "Which statement about oblique planes is TRUE?",
+      "image": null,
+      "options": [
+        "They are always parallel to the body's long axis",
+        "They visualize anatomy using angled or nonstandard image sections",
+        "They are identical to axial planes",
+        "They are used only in computed tomography"
+      ],
+      "answer": 1,
+      "explanation": "Oblique planes are, by definition, angled or nonstandard sections. Because the heart sits obliquely in the mediastinum, echocardiography relies heavily on oblique imaging.",
+      "explanationImage": null,
+      "tags": [
+        "Cross-Sectional Anatomy of the Thorax",
+        "Section 1 — Cross-Sectional Anatomy Fundamentals & Imaging Planes"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch03-q012",
+      "stem": "Which sequence correctly lists structures seen in a mid-thoracic axial slice from anterior to posterior?",
+      "image": null,
+      "options": [
+        "Sternum, right ventricle, left ventricle, descending thoracic aorta",
+        "Descending aorta, left ventricle, right ventricle, sternum",
+        "Left ventricle, right ventricle, sternum, descending aorta",
+        "Sternum, left ventricle, right ventricle, descending aorta"
+      ],
+      "answer": 0,
+      "explanation": "In an axial section the sternum is most anterior, followed by the anterior RV, then the LV, with the descending aorta most posterior near the spine. Reversing this order is the classic distractor.",
+      "explanationImage": null,
+      "tags": [
+        "Cross-Sectional Anatomy of the Thorax",
+        "Section 1 — Cross-Sectional Anatomy Fundamentals & Imaging Planes"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch03-q013",
+      "stem": "Why is understanding sectional anatomy essential to cardiac imaging?",
+      "image": null,
+      "options": [
+        "It replaces the need for Doppler evaluation",
+        "It determines the patient's heart rate",
+        "It is only useful for interpreting radiographs",
+        "Cardiac imaging relies heavily on understanding sectional anatomical relationships"
+      ],
+      "answer": 3,
+      "explanation": "The lecture's stated purpose is that cross-sectional anatomy supports interpretation of modern diagnostic imaging and that cardiac imaging depends on sectional relationships. It supplements, rather than replaces, functional Doppler data.",
+      "explanationImage": null,
+      "tags": [
+        "Cross-Sectional Anatomy of the Thorax",
+        "Section 1 — Cross-Sectional Anatomy Fundamentals & Imaging Planes"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch03-q014",
+      "stem": "A sagittal section divides the body into:",
+      "image": null,
+      "options": [
+        "Anterior and posterior portions",
+        "Superior and inferior portions",
+        "Right and left portions",
+        "Medial and lateral compartments"
+      ],
+      "answer": 2,
+      "explanation": "Sagittal sections run vertically from front to back, dividing the body into right and left portions. Coronal divides anterior/posterior and axial divides superior/inferior.",
+      "explanationImage": null,
+      "tags": [
+        "Cross-Sectional Anatomy of the Thorax",
+        "Section 1 — Cross-Sectional Anatomy Fundamentals & Imaging Planes"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch03-q015",
+      "stem": "The apical four-chamber view most closely approximates which anatomic plane?",
+      "image": null,
+      "options": [
+        "Axial plane",
+        "Coronal plane",
+        "Sagittal plane",
+        "Transverse plane"
+      ],
+      "answer": 1,
+      "explanation": "The A4C is an oblique longitudinal section that approximates the coronal plane, which is why it best displays all four chambers together in a front-to-back \"face-on\" relationship.",
+      "explanationImage": null,
+      "tags": [
+        "Cross-Sectional Anatomy of the Thorax",
+        "Section 1 — Cross-Sectional Anatomy Fundamentals & Imaging Planes"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch03-q016",
+      "stem": "The parasternal long-axis (PLAX) view is best categorized as:",
+      "image": null,
+      "options": [
+        "An oblique longitudinal section along the heart's long axis",
+        "A true coronal section",
+        "A true axial section",
+        "A horizontal section"
+      ],
+      "answer": 0,
+      "explanation": "The PLAX slices the heart along its long axis; because the heart lies obliquely, the plane is oblique rather than a true sagittal or coronal cut. Short-axis views are the axial-type sections of the heart.",
+      "explanationImage": null,
+      "tags": [
+        "Cross-Sectional Anatomy of the Thorax",
+        "Section 1 — Cross-Sectional Anatomy Fundamentals & Imaging Planes"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch03-q017",
+      "stem": "Which plane best demonstrates the superior extent of the great vessels arising from the heart along with the vertical relationship of the chambers?",
+      "image": null,
+      "options": [
+        "Axial plane",
+        "Sagittal plane",
+        "Coronal plane",
+        "Oblique axial plane"
+      ],
+      "answer": 2,
+      "explanation": "Coronal sections show vertical relationships, including great vessels extending superiorly from the heart and the diaphragm inferiorly beneath the cardiac silhouette.",
+      "explanationImage": null,
+      "tags": [
+        "Cross-Sectional Anatomy of the Thorax",
+        "Section 1 — Cross-Sectional Anatomy Fundamentals & Imaging Planes"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch03-q018",
+      "stem": "A \"short-axis\" echocardiographic view of the ventricles corresponds to which anatomic plane?",
+      "image": null,
+      "options": [
+        "Sagittal plane",
+        "Coronal plane",
+        "Longitudinal plane",
+        "Axial (transverse) plane"
+      ],
+      "answer": 3,
+      "explanation": "Short-axis views slice the ventricles perpendicular to the long axis, producing axial/transverse-type cross-sections in which the LV appears as a circle. Longitudinal and sagittal planes would cut the ventricle lengthwise.",
+      "explanationImage": null,
+      "tags": [
+        "Cross-Sectional Anatomy of the Thorax",
+        "Section 1 — Cross-Sectional Anatomy Fundamentals & Imaging Planes"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch03-q019",
+      "stem": "A primary purpose of studying cross-sectional anatomy is that it:",
+      "image": null,
+      "options": [
+        "Measures intracardiac pressures directly",
+        "Demonstrates spatial relationships between organs and surrounding structures",
+        "Replaces physical examination",
+        "Determines cardiac output"
+      ],
+      "answer": 1,
+      "explanation": "Cross-sectional images demonstrate spatial relationships between organs and surrounding structures and support interpretation of modern diagnostic imaging modalities such as echocardiography.",
+      "explanationImage": null,
+      "tags": [
+        "Cross-Sectional Anatomy of the Thorax",
+        "Section 1 — Cross-Sectional Anatomy Fundamentals & Imaging Planes"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch03-q020",
+      "stem": "In the axial (transverse) plane, body structures are sectioned:",
+      "image": null,
+      "options": [
+        "Horizontally, into superior and inferior slices",
+        "Vertically, into right and left slices",
+        "Vertically, into anterior and posterior slices",
+        "Diagonally, into oblique slices"
+      ],
+      "answer": 0,
+      "explanation": "Axial sections are horizontal slices stacked from superior to inferior. Vertical right/left division is sagittal, and vertical anterior/posterior division is coronal.",
+      "explanationImage": null,
+      "tags": [
+        "Cross-Sectional Anatomy of the Thorax",
+        "Section 2 — Orientation Terminology & the Obliquely Positioned Heart"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch03-q021",
+      "stem": "The cardiac apex points in which direction?",
+      "image": null,
+      "options": [
+        "Superiorly, posteriorly, and toward the right",
+        "Posteriorly and toward the left",
+        "Superiorly, anteriorly, and toward the right",
+        "Inferiorly, anteriorly, and slightly toward the left"
+      ],
+      "answer": 3,
+      "explanation": "The lecture states the apex points inferiorly, anteriorly, and slightly toward the left. This explains why the apical impulse is palpated at the left 5th intercostal space and why apical views require angling up toward the base.",
+      "explanationImage": null,
+      "tags": [
+        "Cross-Sectional Anatomy of the Thorax",
+        "Section 2 — Orientation Terminology & the Obliquely Positioned Heart"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch03-q022",
+      "stem": "The base of the heart is positioned:",
+      "image": null,
+      "options": [
+        "Inferiorly and toward the anterior chest wall",
+        "Superiorly and directed toward the posterior thorax",
+        "Laterally toward the left chest wall",
+        "Inferiorly and toward the right chest wall"
+      ],
+      "answer": 1,
+      "explanation": "The base is the superior aspect of the heart directed toward the posterior thorax, where the great vessels attach. The apex is its inferior–anterior counterpart.",
+      "explanationImage": null,
+      "tags": [
+        "Cross-Sectional Anatomy of the Thorax",
+        "Section 2 — Orientation Terminology & the Obliquely Positioned Heart"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch03-q023",
+      "stem": "Which cardiac chamber occupies the most anterior position within the chest?",
+      "image": null,
+      "options": [
+        "Left atrium",
+        "Left ventricle",
+        "Right ventricle",
+        "Right atrium"
+      ],
+      "answer": 2,
+      "explanation": "The right ventricle is the most anterior cardiac chamber, lying directly behind the sternum. This is why the RV is the nearest structure to the transducer in the PLAX and why anterior chest trauma risks RV injury.",
+      "explanationImage": null,
+      "tags": [
+        "Cross-Sectional Anatomy of the Thorax",
+        "Section 2 — Orientation Terminology & the Obliquely Positioned Heart"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch03-q024",
+      "stem": "Which cardiac chamber forms the most posterior structure of the heart?",
+      "image": null,
+      "options": [
+        "Right atrium",
+        "Right ventricle",
+        "Left ventricle",
+        "Left atrium"
+      ],
+      "answer": 3,
+      "explanation": "The left atrium is the most posterior chamber, lying just anterior to the esophagus and descending aorta. This is why transesophageal imaging provides superb LA visualization.",
+      "explanationImage": null,
+      "tags": [
+        "Cross-Sectional Anatomy of the Thorax",
+        "Section 2 — Orientation Terminology & the Obliquely Positioned Heart"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch03-q025",
+      "stem": "A structure positioned toward the front body surface is described as:",
+      "image": null,
+      "options": [
+        "Posterior",
+        "Anterior",
+        "Superior",
+        "Medial"
+      ],
+      "answer": 1,
+      "explanation": "Anterior structures are positioned toward the front body surface, per the lecture's orientation terminology. Posterior means toward the back, and superior means above.",
+      "explanationImage": null,
+      "tags": [
+        "Cross-Sectional Anatomy of the Thorax",
+        "Section 2 — Orientation Terminology & the Obliquely Positioned Heart"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch03-q026",
+      "stem": "A structure positioned toward the back body surface is described as:",
+      "image": null,
+      "options": [
+        "Anterior",
+        "Superior",
+        "Medial",
+        "Posterior"
+      ],
+      "answer": 3,
+      "explanation": "Posterior (dorsal) structures are positioned toward the back body surface. The esophagus and descending aorta are posterior mediastinal structures lying behind the heart.",
+      "explanationImage": null,
+      "tags": [
+        "Cross-Sectional Anatomy of the Thorax",
+        "Section 2 — Orientation Terminology & the Obliquely Positioned Heart"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch03-q027",
+      "stem": "Structures that lie closer to the body midline are described as:",
+      "image": null,
+      "options": [
+        "Medial",
+        "Lateral",
+        "Inferior",
+        "Posterior"
+      ],
+      "answer": 0,
+      "explanation": "Medial structures lie closer toward the body midline; lateral structures lie farther from it. For example, the RA lies medial to the right lung.",
+      "explanationImage": null,
+      "tags": [
+        "Cross-Sectional Anatomy of the Thorax",
+        "Section 2 — Orientation Terminology & the Obliquely Positioned Heart"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch03-q028",
+      "stem": "Relative to the cardiac apex, the base of the heart is:",
+      "image": null,
+      "options": [
+        "Inferior",
+        "Anterior",
+        "Superior",
+        "Lateral"
+      ],
+      "answer": 2,
+      "explanation": "Superior structures are located above inferior structures; since the apex points inferiorly, the base sits superiorly. This superior–inferior gradient along the long axis is fundamental to long-axis imaging.",
+      "explanationImage": null,
+      "tags": [
+        "Cross-Sectional Anatomy of the Thorax",
+        "Section 2 — Orientation Terminology & the Obliquely Positioned Heart"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch03-q029",
+      "stem": "The lungs lie in which position relative to the heart?",
+      "image": null,
+      "options": [
+        "Medial, within the mediastinum",
+        "Lateral, within the pleural cavities",
+        "Posterior, within the vertebral canal",
+        "Anterior, behind the sternum only"
+      ],
+      "answer": 1,
+      "explanation": "The lecture states the lungs surround the heart laterally within both pleural cavities. The heart itself sits centrally in the mediastinum between the two lungs.",
+      "explanationImage": null,
+      "tags": [
+        "Cross-Sectional Anatomy of the Thorax",
+        "Section 2 — Orientation Terminology & the Obliquely Positioned Heart"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch03-q030",
+      "stem": "Which chamber forms the cardiac apex and the left cardiac border?",
+      "image": null,
+      "options": [
+        "Right ventricle",
+        "Right atrium",
+        "Left atrium",
+        "Left ventricle"
+      ],
+      "answer": 3,
+      "explanation": "The lecture states the LV forms the apex and the left cardiac border. The RV forms most of the anterior surface, the RA the right border, and the LA the posterior surface.",
+      "explanationImage": null,
+      "tags": [
+        "Cross-Sectional Anatomy of the Thorax",
+        "Section 2 — Orientation Terminology & the Obliquely Positioned Heart"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch03-q031",
+      "stem": "The right atrium lies:",
+      "image": null,
+      "options": [
+        "Most anterior of the four chambers",
+        "Most posterior of the four chambers",
+        "Rightward, forming the right heart border",
+        "Leftward, forming the left heart border"
+      ],
+      "answer": 2,
+      "explanation": "Per the lecture, the RA lies rightward and forms the right cardiac border. The RV is most anterior, the LA most posterior, and the LV leftward at the apex.",
+      "explanationImage": null,
+      "tags": [
+        "Cross-Sectional Anatomy of the Thorax",
+        "Section 2 — Orientation Terminology & the Obliquely Positioned Heart"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch03-q032",
+      "stem": "In the parasternal long-axis view, which chamber lies closest to the transducer (immediately behind the sternum)?",
+      "image": null,
+      "options": [
+        "Right ventricle",
+        "Left ventricle",
+        "Left atrium",
+        "Right atrium"
+      ],
+      "answer": 0,
+      "explanation": "Because the RV is the most anterior chamber and the parasternal window is just left of the sternum, the RV appears in the near field of the PLAX, with the LV and LA progressively deeper.",
+      "explanationImage": null,
+      "tags": [
+        "Cross-Sectional Anatomy of the Thorax",
+        "Section 2 — Orientation Terminology & the Obliquely Positioned Heart"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch03-q033",
+      "stem": "In sagittal sectional images, the left atrium is positioned posteriorly near which structure?",
+      "image": null,
+      "options": [
+        "Trachea",
+        "Inferior vena cava",
+        "Main pulmonary artery",
+        "Descending thoracic aorta"
+      ],
+      "answer": 3,
+      "explanation": "The lecture states the LA is positioned posteriorly near the descending thoracic aorta in sagittal sections. This aorta is routinely seen behind the LA in the PLAX view.",
+      "explanationImage": null,
+      "tags": [
+        "Cross-Sectional Anatomy of the Thorax",
+        "Section 2 — Orientation Terminology & the Obliquely Positioned Heart"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch03-q034",
+      "stem": "Within sagittal sectional anatomical images, the aortic root is visualized:",
+      "image": null,
+      "options": [
+        "Posteriorly behind the LA",
+        "Centrally",
+        "Anteriorly against the sternum",
+        "Laterally beside the LV"
+      ],
+      "answer": 1,
+      "explanation": "The lecture notes the aortic root is visualized centrally within sagittal sectional images — anterior to the LA and posterior to the RV outflow tract, as reproduced in the PLAX view.",
+      "explanationImage": null,
+      "tags": [
+        "Cross-Sectional Anatomy of the Thorax",
+        "Section 2 — Orientation Terminology & the Obliquely Positioned Heart"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch03-q035",
+      "stem": "A patient sustains a penetrating stab wound to the anterior chest just left of the sternum. Which chamber is most likely injured?",
+      "image": null,
+      "options": [
+        "Left atrium",
+        "Right atrium",
+        "Right ventricle",
+        "Left ventricle"
+      ],
+      "answer": 2,
+      "explanation": "The RV is the most anterior cardiac chamber, occupying the retrosternal space. A LA injury would require a much more posterior trajectory through most of the heart.",
+      "explanationImage": null,
+      "tags": [
+        "Cross-Sectional Anatomy of the Thorax",
+        "Section 2 — Orientation Terminology & the Obliquely Positioned Heart"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch03-q036",
+      "stem": "On axial cross-sectional images, which chamber lies immediately anterior to the esophagus?",
+      "image": null,
+      "options": [
+        "Left atrium",
+        "Right ventricle",
+        "Right atrium",
+        "Left ventricle"
+      ],
+      "answer": 0,
+      "explanation": "As the most posterior chamber, the LA lies directly in front of the esophagus. This anatomic relationship is why transesophageal echocardiography gives excellent LA and interatrial septum detail.",
+      "explanationImage": null,
+      "tags": [
+        "Cross-Sectional Anatomy of the Thorax",
+        "Section 2 — Orientation Terminology & the Obliquely Positioned Heart"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch03-q037",
+      "stem": "In the normal heart, the right ventricle lies directly anterior to which structure?",
+      "image": null,
+      "options": [
+        "Sternum",
+        "Left ventricle",
+        "Pulmonary veins",
+        "Descending thoracic aorta"
+      ],
+      "answer": 1,
+      "explanation": "Within the cardiac silhouette, the RV sits anterior to the LV, separated by the interventricular septum. The sternum is anterior to the RV, not posterior, and the pulmonary veins and descending aorta are posterior structures.",
+      "explanationImage": null,
+      "tags": [
+        "Cross-Sectional Anatomy of the Thorax",
+        "Section 2 — Orientation Terminology & the Obliquely Positioned Heart"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch03-q038",
+      "stem": "The orientation of the heart within the thoracic cavity is best described as:",
+      "image": null,
+      "options": [
+        "Horizontal",
+        "Vertical",
+        "Inverted",
+        "Oblique"
+      ],
+      "answer": 3,
+      "explanation": "The lecture states the heart lies obliquely within the thoracic cavity and mediastinum. This obliquity is the reason standard echocardiographic planes are oblique rather than true sagittal, coronal, or axial cuts.",
+      "explanationImage": null,
+      "tags": [
+        "Cross-Sectional Anatomy of the Thorax",
+        "Section 2 — Orientation Terminology & the Obliquely Positioned Heart"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch03-q039",
+      "stem": "Using orientation terminology, the aortic valve lies ___ to the left ventricle.",
+      "image": null,
+      "options": [
+        "Inferior",
+        "Posterior",
+        "Superior",
+        "Lateral"
+      ],
+      "answer": 2,
+      "explanation": "Superior structures are located above inferior structures; the aortic valve sits at the base, superior to the LV cavity. It also lies posterior to the RV outflow tract, but the superior relationship to the LV is the defining one.",
+      "explanationImage": null,
+      "tags": [
+        "Cross-Sectional Anatomy of the Thorax",
+        "Section 2 — Orientation Terminology & the Obliquely Positioned Heart"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch03-q040",
+      "stem": "Which pairing of cardiac landmark and direction is correct?",
+      "image": null,
+      "options": [
+        "Apex — inferiorly, anteriorly, slightly left",
+        "Apex — superiorly, posteriorly, slightly right",
+        "Base — inferiorly, anteriorly, slightly left",
+        "Base — lateral, toward the left chest wall"
+      ],
+      "answer": 0,
+      "explanation": "The lecture defines the apex as pointing inferiorly, anteriorly, and slightly toward the left. Options B, C, and D reverse or misassign the apex–base directions.",
+      "explanationImage": null,
+      "tags": [
+        "Cross-Sectional Anatomy of the Thorax",
+        "Section 3 — Thoracic Cavity, Mediastinum & Surrounding Structures"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch03-q041",
+      "stem": "The heart is positioned centrally within which thoracic compartment?",
+      "image": null,
+      "options": [
+        "Right pleural cavity",
+        "Left pleural cavity",
+        "Peritoneal cavity",
+        "Mediastinum"
+      ],
+      "answer": 3,
+      "explanation": "The lecture states the heart is positioned centrally within the mediastinal compartment. The pleural cavities contain the lungs, and the peritoneal cavity is abdominal.",
+      "explanationImage": null,
+      "tags": [
+        "Cross-Sectional Anatomy of the Thorax",
+        "Section 3 — Thoracic Cavity, Mediastinum & Surrounding Structures"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch03-q042",
+      "stem": "Which structures are contained within the mediastinum?",
+      "image": null,
+      "options": [
+        "Lungs, liver, and spleen",
+        "Heart, great vessels, trachea, and esophagus",
+        "Kidneys and adrenal glands",
+        "Ribs and intercostal muscles"
+      ],
+      "answer": 1,
+      "explanation": "The lecture lists the mediastinal contents as the heart, great vessels, trachea, and esophagus. The lungs lie outside the mediastinum in the pleural cavities.",
+      "explanationImage": null,
+      "tags": [
+        "Cross-Sectional Anatomy of the Thorax",
+        "Section 3 — Thoracic Cavity, Mediastinum & Surrounding Structures"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch03-q043",
+      "stem": "Which structure separates the thoracic cavity from the abdominal structures?",
+      "image": null,
+      "options": [
+        "Pericardium",
+        "Pleura",
+        "Diaphragm",
+        "Sternum"
+      ],
+      "answer": 2,
+      "explanation": "The diaphragm separates the thoracic cavity from abdominal anatomical structures. The pericardium encloses the heart and the pleura lines the lungs, but neither separates the two major cavities.",
+      "explanationImage": null,
+      "tags": [
+        "Cross-Sectional Anatomy of the Thorax",
+        "Section 3 — Thoracic Cavity, Mediastinum & Surrounding Structures"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch03-q044",
+      "stem": "The lungs surround the heart within which compartments?",
+      "image": null,
+      "options": [
+        "Pleural cavities",
+        "Peritoneal cavities",
+        "The mediastinum itself",
+        "The pericardial cavity"
+      ],
+      "answer": 0,
+      "explanation": "Each lung occupies a pleural cavity lateral to the heart. The pericardial cavity is the small fluid-filled space around the heart, not the compartment containing the lungs.",
+      "explanationImage": null,
+      "tags": [
+        "Cross-Sectional Anatomy of the Thorax",
+        "Section 3 — Thoracic Cavity, Mediastinum & Surrounding Structures"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch03-q045",
+      "stem": "On an axial image, which vessel is seen posterior to the left atrium and anterior to the vertebral column?",
+      "image": null,
+      "options": [
+        "Superior vena cava",
+        "Descending thoracic aorta",
+        "Trachea",
+        "Main pulmonary artery"
+      ],
+      "answer": 1,
+      "explanation": "The descending thoracic aorta courses in the posterior mediastinum immediately behind the LA and in front of the spine, and it is routinely identified in the PLAX and A4C views. The SVC is a right-sided anterior structure.",
+      "explanationImage": null,
+      "tags": [
+        "Cross-Sectional Anatomy of the Thorax",
+        "Section 3 — Thoracic Cavity, Mediastinum & Surrounding Structures"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch03-q046",
+      "stem": "On axial sections of the mid-thorax, which structure lies anterior to the heart?",
+      "image": null,
+      "options": [
+        "Esophagus",
+        "Descending thoracic aorta",
+        "Left atrium",
+        "Sternum and retrosternal space"
+      ],
+      "answer": 3,
+      "explanation": "The sternum and retrosternal space lie anterior to the heart, with the RV immediately behind. The esophagus and descending aorta are posterior structures, and the LA is within the heart itself.",
+      "explanationImage": null,
+      "tags": [
+        "Cross-Sectional Anatomy of the Thorax",
+        "Section 3 — Thoracic Cavity, Mediastinum & Surrounding Structures"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch03-q047",
+      "stem": "At the level of the great vessels, the trachea is located ___ relative to the ascending aorta.",
+      "image": null,
+      "options": [
+        "Anterior and to the left",
+        "Immediately lateral on the left",
+        "Posterior to the great vessels, near the midline",
+        "Inferior, deep within the cardiac silhouette"
+      ],
+      "answer": 2,
+      "explanation": "The trachea is a posterior, midline mediastinal structure that lies behind the great vessels at the thoracic inlet. The esophagus runs just behind it, between the trachea and the spine.",
+      "explanationImage": null,
+      "tags": [
+        "Cross-Sectional Anatomy of the Thorax",
+        "Section 3 — Thoracic Cavity, Mediastinum & Surrounding Structures"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch03-q048",
+      "stem": "Which of the following is NOT a mediastinal structure?",
+      "image": null,
+      "options": [
+        "Lung",
+        "Trachea",
+        "Esophagus",
+        "Heart"
+      ],
+      "answer": 0,
+      "explanation": "The lungs occupy the right and left pleural cavities outside the mediastinum. The trachea, esophagus, heart, and great vessels are all mediastinal contents per the lecture.",
+      "explanationImage": null,
+      "tags": [
+        "Cross-Sectional Anatomy of the Thorax",
+        "Section 3 — Thoracic Cavity, Mediastinum & Surrounding Structures"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch03-q049",
+      "stem": "The pericardium is best described as:",
+      "image": null,
+      "options": [
+        "The serous membrane surrounding each lung",
+        "The fibroserous sac that encloses the heart",
+        "The lining of the thoracic cavity",
+        "The muscular wall of the diaphragm"
+      ],
+      "answer": 1,
+      "explanation": "The pericardium is the sac enclosing the heart within the mediastinum; a serous membrane surrounding each lung is the pleura. This distinction is key when localizing pericardial versus pleural effusion.",
+      "explanationImage": null,
+      "tags": [
+        "Cross-Sectional Anatomy of the Thorax",
+        "Section 3 — Thoracic Cavity, Mediastinum & Surrounding Structures"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch03-q050",
+      "stem": "On a coronal section of the thorax, the diaphragm is visualized:",
+      "image": null,
+      "options": [
+        "Above the cardiac silhouette",
+        "At the lung apices",
+        "Inferiorly, beneath the cardiac silhouette and mediastinum",
+        "Lateral to both lungs"
+      ],
+      "answer": 2,
+      "explanation": "The lecture states that in coronal sections the diaphragm is visualized inferiorly beneath the cardiac silhouette and mediastinum, separating the thorax from the abdomen.",
+      "explanationImage": null,
+      "tags": [
+        "Cross-Sectional Anatomy of the Thorax",
+        "Section 3 — Thoracic Cavity, Mediastinum & Surrounding Structures"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch03-q051",
+      "stem": "In coronal sections, the great vessels extend in which direction from the heart?",
+      "image": null,
+      "options": [
+        "Inferiorly toward the diaphragm",
+        "Superiorly toward the thoracic inlet",
+        "Posteriorly toward the spine",
+        "Laterally toward the lung hila"
+      ],
+      "answer": 1,
+      "explanation": "The lecture states that great vessels extend superiorly from the heart within coronal sections. Inferiorly lies the diaphragm, not the great vessels.",
+      "explanationImage": null,
+      "tags": [
+        "Cross-Sectional Anatomy of the Thorax",
+        "Section 3 — Thoracic Cavity, Mediastinum & Surrounding Structures"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch03-q052",
+      "stem": "On axial images at the thoracic inlet, which vessel courses anterior to the trachea?",
+      "image": null,
+      "options": [
+        "Esophagus",
+        "Descending thoracic aorta",
+        "Brachiocephalic (innominate) artery",
+        "Azygos vein"
+      ],
+      "answer": 2,
+      "explanation": "The brachiocephalic artery crosses anterior to the trachea at the thoracic inlet. The esophagus lies posterior to the trachea, and the descending aorta is a posterior mediastinal vessel.",
+      "explanationImage": null,
+      "tags": [
+        "Cross-Sectional Anatomy of the Thorax",
+        "Section 3 — Thoracic Cavity, Mediastinum & Surrounding Structures"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch03-q053",
+      "stem": "A patient presents with hypotension after trauma. Fluid accumulating between the visceral and parietal layers around the heart collects:",
+      "image": null,
+      "options": [
+        "Within the pericardial sac",
+        "Within the pleural space",
+        "Within the lung parenchyma",
+        "Within the mediastinal fat"
+      ],
+      "answer": 0,
+      "explanation": "Pericardial effusion collects within the pericardial sac surrounding the heart in the mediastinum. Pleural fluid collects lateral to the lungs in the pleural cavities, a key echocardiographic distinction.",
+      "explanationImage": null,
+      "tags": [
+        "Cross-Sectional Anatomy of the Thorax",
+        "Section 3 — Thoracic Cavity, Mediastinum & Surrounding Structures"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch03-q054",
+      "stem": "Which chamber lies immediately anterior to the esophagus on axial cross-sections?",
+      "image": null,
+      "options": [
+        "Right ventricle",
+        "Left ventricle",
+        "Right atrium",
+        "Left atrium"
+      ],
+      "answer": 3,
+      "explanation": "As the most posterior chamber, the LA abuts the esophagus directly. This relationship makes transesophageal echocardiography ideal for evaluating the LA, pulmonary veins, and interatrial septum.",
+      "explanationImage": null,
+      "tags": [
+        "Cross-Sectional Anatomy of the Thorax",
+        "Section 3 — Thoracic Cavity, Mediastinum & Surrounding Structures"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch03-q055",
+      "stem": "Which cardiac chamber rests directly on the diaphragm inferiorly?",
+      "image": null,
+      "options": [
+        "Left atrium",
+        "Right ventricle",
+        "Right atrium",
+        "Left atrial appendage"
+      ],
+      "answer": 1,
+      "explanation": "The RV forms most of the inferior (diaphragmatic) anterior surface of the heart and sits on the diaphragm. The LA is a superior-posterior chamber far from the diaphragm.",
+      "explanationImage": null,
+      "tags": [
+        "Cross-Sectional Anatomy of the Thorax",
+        "Section 3 — Thoracic Cavity, Mediastinum & Surrounding Structures"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch03-q056",
+      "stem": "The sternum lies ___ to the heart.",
+      "image": null,
+      "options": [
+        "Posterior",
+        "Superior",
+        "Anterior",
+        "Lateral"
+      ],
+      "answer": 2,
+      "explanation": "The sternum is an anterior chest wall structure, with the RV as the most anterior chamber immediately behind it. This is why the parasternal window is placed adjacent to the sternum.",
+      "explanationImage": null,
+      "tags": [
+        "Cross-Sectional Anatomy of the Thorax",
+        "Section 3 — Thoracic Cavity, Mediastinum & Surrounding Structures"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch03-q057",
+      "stem": "The vertebral column lies ___ to the mediastinum.",
+      "image": null,
+      "options": [
+        "Posterior",
+        "Anterior",
+        "Lateral",
+        "Inferior"
+      ],
+      "answer": 0,
+      "explanation": "The spine forms the posterior boundary of the thoracic cavity, with the esophagus and descending aorta running in front of it. All mediastinal contents lie anterior to the vertebral bodies.",
+      "explanationImage": null,
+      "tags": [
+        "Cross-Sectional Anatomy of the Thorax",
+        "Section 3 — Thoracic Cavity, Mediastinum & Surrounding Structures"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch03-q058",
+      "stem": "Which structure passes through the diaphragm to connect the thorax with the abdomen?",
+      "image": null,
+      "options": [
+        "Trachea",
+        "Superior vena cava",
+        "Pulmonary artery",
+        "Esophagus"
+      ],
+      "answer": 3,
+      "explanation": "The esophagus traverses the diaphragm to enter the abdomen, continuing its posterior course behind the LA. The trachea, SVC, and pulmonary artery are confined to the thorax.",
+      "explanationImage": null,
+      "tags": [
+        "Cross-Sectional Anatomy of the Thorax",
+        "Section 3 — Thoracic Cavity, Mediastinum & Surrounding Structures"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch03-q059",
+      "stem": "Coronal sections of the thorax display ___ anatomical relationships.",
+      "image": null,
+      "options": [
+        "Horizontal",
+        "Vertical",
+        "Transverse",
+        "Axial"
+      ],
+      "answer": 1,
+      "explanation": "Coronal sections display vertical relationships — chambers and vessels from superior to inferior — which is why they show great vessels above the heart and diaphragm below.",
+      "explanationImage": null,
+      "tags": [
+        "Cross-Sectional Anatomy of the Thorax",
+        "Section 3 — Thoracic Cavity, Mediastinum & Surrounding Structures"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch03-q060",
+      "stem": "The heart occupies the ___ compartment, while the lungs occupy the ___ cavities.",
+      "image": null,
+      "options": [
+        "Pleural; mediastinal",
+        "Peritoneal; pleural",
+        "Mediastinal; pleural",
+        "Mediastinal; peritoneal"
+      ],
+      "answer": 2,
+      "explanation": "The heart is central within the mediastinum and the lungs surround it laterally within the pleural cavities, per the lecture. The peritoneal cavity is below the diaphragm.",
+      "explanationImage": null,
+      "tags": [
+        "Cross-Sectional Anatomy of the Thorax",
+        "Section 4 — Heart Position, Base & Apex in the Thorax"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch03-q061",
+      "stem": "Which statement best describes the position of the heart in the thorax?",
+      "image": null,
+      "options": [
+        "It lies entirely in the right hemithorax with the apex pointing right",
+        "It lies entirely in the left hemithorax",
+        "It lies horizontal across the midline with the apex posterior",
+        "It lies centrally in the mediastinum, obliquely, with the apex directed leftward"
+      ],
+      "answer": 3,
+      "explanation": "The heart sits centrally within the mediastinum, lies obliquely, and its apex points inferiorly, anteriorly, and slightly to the left. Options A describes dextrocardia, a positional abnormality.",
+      "explanationImage": null,
+      "tags": [
+        "Cross-Sectional Anatomy of the Thorax",
+        "Section 4 — Heart Position, Base & Apex in the Thorax"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch03-q062",
+      "stem": "Which chamber forms most of the right cardiac border on a frontal (coronal-type) image?",
+      "image": null,
+      "options": [
+        "Right atrium",
+        "Right ventricle",
+        "Left atrium",
+        "Left ventricle"
+      ],
+      "answer": 0,
+      "explanation": "The RA is rightward and forms the right cardiac border, per the lecture. The RV is anterior (not border-forming on the right in this context), and the LV forms the left border.",
+      "explanationImage": null,
+      "tags": [
+        "Cross-Sectional Anatomy of the Thorax",
+        "Section 4 — Heart Position, Base & Apex in the Thorax"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch03-q063",
+      "stem": "Which chamber forms the left cardiac border and the apex?",
+      "image": null,
+      "options": [
+        "Right atrium",
+        "Left ventricle",
+        "Right ventricle",
+        "Superior vena cava"
+      ],
+      "answer": 1,
+      "explanation": "The LV forms the apex and the left cardiac border. The RV forms the anterior surface, and the SVC is a venous structure at the right superior mediastinum, not a cardiac border former.",
+      "explanationImage": null,
+      "tags": [
+        "Cross-Sectional Anatomy of the Thorax",
+        "Section 4 — Heart Position, Base & Apex in the Thorax"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch03-q064",
+      "stem": "The normal apical impulse (cardiac apex) is palpated at the:",
+      "image": null,
+      "options": [
+        "Right 2nd intercostal space",
+        "Left 2nd intercostal space",
+        "Left 5th intercostal space, midclavicular line",
+        "Subxiphoid region"
+      ],
+      "answer": 2,
+      "explanation": "Because the apex points inferiorly, anteriorly, and slightly left, it lies deep to the left 5th intercostal space at the midclavicular line — also the landmark for placing the transducer for apical views.",
+      "explanationImage": null,
+      "tags": [
+        "Cross-Sectional Anatomy of the Thorax",
+        "Section 4 — Heart Position, Base & Apex in the Thorax"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch03-q065",
+      "stem": "In the parasternal long-axis view, the pointed cardiac structure displayed at the far field (deep end of the sector) is the:",
+      "image": null,
+      "options": [
+        "Right atrium",
+        "Left atrium",
+        "Right ventricle",
+        "Left ventricular apex"
+      ],
+      "answer": 3,
+      "explanation": "In the PLAX the LV tapers toward its apex in the far field, consistent with the LV forming the cardiac apex. The LA is the posterior mid-field chamber, not the tapering tip.",
+      "explanationImage": null,
+      "tags": [
+        "Cross-Sectional Anatomy of the Thorax",
+        "Section 4 — Heart Position, Base & Apex in the Thorax"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch03-q066",
+      "stem": "The base of the heart is formed principally by which chamber, with the great vessels attached above it?",
+      "image": null,
+      "options": [
+        "Right ventricle",
+        "Left atrium",
+        "Left ventricular apex",
+        "Interventricular septum"
+      ],
+      "answer": 1,
+      "explanation": "The LA forms the major portion of the posterior base (with RA contributions), and the great vessels attach at the superior aspect. The septum is a midline wall, not the base.",
+      "explanationImage": null,
+      "tags": [
+        "Cross-Sectional Anatomy of the Thorax",
+        "Section 4 — Heart Position, Base & Apex in the Thorax"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch03-q067",
+      "stem": "The great vessels of the heart attach at which aspect of the organ?",
+      "image": null,
+      "options": [
+        "Base (superior aspect)",
+        "Apex (inferior aspect)",
+        "Diaphragmatic surface",
+        "Posterior LV wall"
+      ],
+      "answer": 0,
+      "explanation": "The aorta, pulmonary artery, SVC, and pulmonary veins connect at the base, the superior-posterior aspect of the heart. The apex is the free, tapering inferior tip with no vessel attachment.",
+      "explanationImage": null,
+      "tags": [
+        "Cross-Sectional Anatomy of the Thorax",
+        "Section 4 — Heart Position, Base & Apex in the Thorax"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch03-q068",
+      "stem": "Because the heart lies obliquely within the thorax, echocardiographic imaging requires:",
+      "image": null,
+      "options": [
+        "Only true sagittal planes",
+        "Only true axial planes",
+        "Oblique transducer positioning to align with the heart's long and short axes",
+        "Imaging only from the right chest"
+      ],
+      "answer": 2,
+      "explanation": "The heart's oblique orientation means standard echo views (PLAX, PSAX, A4C) are oblique sections rather than true anatomic planes. True sagittal or axial planes would cut the heart off-axis.",
+      "explanationImage": null,
+      "tags": [
+        "Cross-Sectional Anatomy of the Thorax",
+        "Section 4 — Heart Position, Base & Apex in the Thorax"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch03-q069",
+      "stem": "In sagittal cross-sections of the heart, which chamber lies immediately anterior to the descending thoracic aorta?",
+      "image": null,
+      "options": [
+        "Right ventricle",
+        "Left atrium",
+        "Right atrium",
+        "Left ventricle"
+      ],
+      "answer": 1,
+      "explanation": "The lecture places the LA posteriorly near the descending aorta, so the LA lies directly anterior to that vessel. The RV is far anterior, near the sternum.",
+      "explanationImage": null,
+      "tags": [
+        "Cross-Sectional Anatomy of the Thorax",
+        "Section 4 — Heart Position, Base & Apex in the Thorax"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch03-q070",
+      "stem": "The right ventricle occupies which portion of the cardiac silhouette on cross-sectional images?",
+      "image": null,
+      "options": [
+        "The most posterior portion",
+        "A small lateral portion on the left",
+        "The entire inferior-posterior surface",
+        "The most anterior portion"
+      ],
+      "answer": 3,
+      "explanation": "Per the lecture, the RV occupies the most anterior cardiac chamber position. Posterior is the LA, which is the classic pairing tested on exams.",
+      "explanationImage": null,
+      "tags": [
+        "Cross-Sectional Anatomy of the Thorax",
+        "Section 4 — Heart Position, Base & Apex in the Thorax"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch03-q071",
+      "stem": "Which vessel enters the heart at the posterior-superior aspect of the right atrium?",
+      "image": null,
+      "options": [
+        "Superior vena cava",
+        "Pulmonary veins",
+        "Ascending aorta",
+        "Main pulmonary artery"
+      ],
+      "answer": 0,
+      "explanation": "The SVC drains into the posterior-superior RA, and the IVC enters inferiorly. Pulmonary veins enter the LA, and the aorta and PA are ventricular outflow vessels.",
+      "explanationImage": null,
+      "tags": [
+        "Cross-Sectional Anatomy of the Thorax",
+        "Section 4 — Heart Position, Base & Apex in the Thorax"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch03-q072",
+      "stem": "The pulmonary veins enter which cardiac chamber?",
+      "image": null,
+      "options": [
+        "Right atrium",
+        "Right ventricle",
+        "Left atrium",
+        "Left ventricle"
+      ],
+      "answer": 2,
+      "explanation": "Four pulmonary veins deliver oxygenated blood from the lungs to the posterior wall of the LA, consistent with the LA being the most posterior chamber.",
+      "explanationImage": null,
+      "tags": [
+        "Cross-Sectional Anatomy of the Thorax",
+        "Section 4 — Heart Position, Base & Apex in the Thorax"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch03-q073",
+      "stem": "The coronary sinus, seen in the posterior atrioventricular groove, drains into the:",
+      "image": null,
+      "options": [
+        "Left atrium",
+        "Right atrium",
+        "Right ventricle",
+        "Superior vena cava"
+      ],
+      "answer": 1,
+      "explanation": "The coronary sinus empties venous blood into the RA near the IVC orifice. It is visible in the PLAX and A4C as a small circular structure in the posterior AV groove.",
+      "explanationImage": null,
+      "tags": [
+        "Cross-Sectional Anatomy of the Thorax",
+        "Section 4 — Heart Position, Base & Apex in the Thorax"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch03-q074",
+      "stem": "Which valve separates the right atrium from the right ventricle?",
+      "image": null,
+      "options": [
+        "Mitral valve",
+        "Aortic valve",
+        "Pulmonic valve",
+        "Tricuspid valve"
+      ],
+      "answer": 3,
+      "explanation": "The tricuspid valve lies between the RA and RV. The mitral valve separates LA/LV, the aortic valve exits the LV, and the pulmonic valve exits the RV — a standard three-distractor set.",
+      "explanationImage": null,
+      "tags": [
+        "Cross-Sectional Anatomy of the Thorax",
+        "Section 4 — Heart Position, Base & Apex in the Thorax"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch03-q075",
+      "stem": "Which valve separates the left atrium from the left ventricle?",
+      "image": null,
+      "options": [
+        "Tricuspid valve",
+        "Pulmonic valve",
+        "Mitral valve",
+        "Aortic valve"
+      ],
+      "answer": 2,
+      "explanation": "The mitral (bicuspid) valve guards the LA–LV junction. Its two leaflets are visible in the PLAX and A4C and are continuous with the aortic annulus.",
+      "explanationImage": null,
+      "tags": [
+        "Cross-Sectional Anatomy of the Thorax",
+        "Section 4 — Heart Position, Base & Apex in the Thorax"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch03-q076",
+      "stem": "Which cardiac valve is the most anterior of the four?",
+      "image": null,
+      "options": [
+        "Pulmonic valve",
+        "Aortic valve",
+        "Mitral valve",
+        "Tricuspid valve"
+      ],
+      "answer": 0,
+      "explanation": "The pulmonic valve sits at the top of the RV outflow tract, the most anterior and superior valve. This is why it is best seen in the PSAX at the aortic level, tilted superiorly.",
+      "explanationImage": null,
+      "tags": [
+        "Cross-Sectional Anatomy of the Thorax",
+        "Section 4 — Heart Position, Base & Apex in the Thorax"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch03-q077",
+      "stem": "In the normal heart, the aortic valve lies ___ relative to the pulmonic valve.",
+      "image": null,
+      "options": [
+        "Anterior and superior",
+        "Posterior and slightly inferior",
+        "Directly leftward",
+        "Directly inferior to the mitral valve"
+      ],
+      "answer": 1,
+      "explanation": "The pulmonic valve is the most anterior/superior; the aortic valve sits posterior and slightly inferior to it, wedged centrally between the atria. This relationship explains the \"circle and sausage\" arrangement in PSAX.",
+      "explanationImage": null,
+      "tags": [
+        "Cross-Sectional Anatomy of the Thorax",
+        "Section 4 — Heart Position, Base & Apex in the Thorax"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch03-q078",
+      "stem": "The right ventricular outflow tract and proximal pulmonary artery course:",
+      "image": null,
+      "options": [
+        "Posterior to the aortic root toward the spine",
+        "Rightward behind the right atrium",
+        "Anterior and leftward, wrapping over the aortic root",
+        "Inferiorly toward the LV apex"
+      ],
+      "answer": 2,
+      "explanation": "The RVOT and main PA cross anteriorly and leftward over the aortic root toward the bifurcation beneath the aortic arch — the reason they appear \"above\" the aortic valve in short-axis views.",
+      "explanationImage": null,
+      "tags": [
+        "Cross-Sectional Anatomy of the Thorax",
+        "Section 4 — Heart Position, Base & Apex in the Thorax"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch03-q079",
+      "stem": "Which chamber makes up the majority of the deep (posterior-inferior) segment seen below the mitral valve in the parasternal long-axis view?",
+      "image": null,
+      "options": [
+        "Left ventricle",
+        "Right atrium",
+        "Left atrium",
+        "Right ventricle"
+      ],
+      "answer": 0,
+      "explanation": "In the PLAX, the LV cavity occupies the segment posterior-inferior to the mitral valve. The LA lies posterior to the aortic root at the same depth, but the chamber below the mitral leaflets is the LV.",
+      "explanationImage": null,
+      "tags": [
+        "Cross-Sectional Anatomy of the Thorax",
+        "Section 4 — Heart Position, Base & Apex in the Thorax"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch03-q080",
+      "stem": "On cross-sectional imaging, the right atrium is best described as the:",
+      "image": null,
+      "options": [
+        "Most anterior chamber",
+        "Rightward chamber forming the right heart border",
+        "Most posterior chamber",
+        "Leftward chamber forming the apex"
+      ],
+      "answer": 1,
+      "explanation": "The lecture states the RA lies rightward. Most anterior = RV; most posterior = LA; apex-forming = LV, making the other options classic distractors.",
+      "explanationImage": null,
+      "tags": [
+        "Cross-Sectional Anatomy of the Thorax",
+        "Section 5 — Cardiac Chambers, Septa & Valves in Cross Section"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch03-q081",
+      "stem": "The interatrial septum separates which two structures?",
+      "image": null,
+      "options": [
+        "Right and left ventricles",
+        "Left atrium and descending aorta",
+        "Left ventricle and right ventricle",
+        "Right atrium and left atrium"
+      ],
+      "answer": 3,
+      "explanation": "The interatrial septum divides the RA and LA and contains the fossa ovalis. The interventricular septum separates the ventricles — the parallel distractor.",
+      "explanationImage": null,
+      "tags": [
+        "Cross-Sectional Anatomy of the Thorax",
+        "Section 5 — Cardiac Chambers, Septa & Valves in Cross Section"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch03-q082",
+      "stem": "In the parasternal long-axis view, the interventricular septum lies between which chambers?",
+      "image": null,
+      "options": [
+        "Right ventricle and left ventricle",
+        "Right atrium and left atrium",
+        "Aortic root and left atrium",
+        "Left ventricle and descending aorta"
+      ],
+      "answer": 0,
+      "explanation": "The IVS separates the RV (anterior/near field) from the LV (deep) in the PLAX. Its anterior (septal) portion is also continuous with the anterior aortic root wall.",
+      "explanationImage": null,
+      "tags": [
+        "Cross-Sectional Anatomy of the Thorax",
+        "Section 5 — Cardiac Chambers, Septa & Valves in Cross Section"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch03-q083",
+      "stem": "The fossa ovalis is located in the:",
+      "image": null,
+      "options": [
+        "Interventricular septum",
+        "Right ventricular free wall",
+        "Interatrial septum",
+        "Cardiac apex"
+      ],
+      "answer": 2,
+      "explanation": "The fossa ovalis is the thin mid-portion of the interatrial septum, remnant of the fetal foramen ovale. It is the site of most secundum ASDs and is best imaged from the subcostal window.",
+      "explanationImage": null,
+      "tags": [
+        "Cross-Sectional Anatomy of the Thorax",
+        "Section 5 — Cardiac Chambers, Septa & Valves in Cross Section"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch03-q084",
+      "stem": "A patent foramen ovale (PFO) results from failure of closure of the:",
+      "image": null,
+      "options": [
+        "Muscular interventricular septum",
+        "Foramen ovale flap of the interatrial septum",
+        "Sinus venosus valve",
+        "Ductus arteriosus"
+      ],
+      "answer": 1,
+      "explanation": "A PFO is persistent failure of the fossa ovalis flap to fuse. A persistent ductus arteriosus is a different structure connecting the aorta and pulmonary artery.",
+      "explanationImage": null,
+      "tags": [
+        "Cross-Sectional Anatomy of the Thorax",
+        "Section 5 — Cardiac Chambers, Septa & Valves in Cross Section"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch03-q085",
+      "stem": "The most common atrial septal defect involves which region of the interatrial septum?",
+      "image": null,
+      "options": [
+        "Ostium secundum (mid-septum at the fossa ovalis)",
+        "Muscular interventricular septum",
+        "Aortic root region",
+        "Apex of the left ventricle"
+      ],
+      "answer": 0,
+      "explanation": "Secundum ASDs occur in the mid-interatrial septum at the fossa ovalis. Sinus venosus and primum ASDs involve other septal regions, but secundum defects are the most common.",
+      "explanationImage": null,
+      "tags": [
+        "Cross-Sectional Anatomy of the Thorax",
+        "Section 5 — Cardiac Chambers, Septa & Valves in Cross Section"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch03-q086",
+      "stem": "In a properly obtained apical four-chamber view, the cardiac septa should be aligned:",
+      "image": null,
+      "options": [
+        "Toward the left edge of the sector",
+        "Horizontally across the image",
+        "Obliquely toward the lower right",
+        "Vertically through the center of the image"
+      ],
+      "answer": 3,
+      "explanation": "With the apex at the top of the image, both the interatrial and interventricular septa form a vertical \"crux\" down the center, dividing right-sided (left of screen) from left-sided (right of screen) chambers.",
+      "explanationImage": null,
+      "tags": [
+        "Cross-Sectional Anatomy of the Thorax",
+        "Section 5 — Cardiac Chambers, Septa & Valves in Cross Section"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch03-q087",
+      "stem": "In the parasternal long-axis view, which structure lies immediately posterior to the aortic root?",
+      "image": null,
+      "options": [
+        "Right ventricle",
+        "Right atrium",
+        "Left atrium",
+        "Main pulmonary artery"
+      ],
+      "answer": 2,
+      "explanation": "The LA lies directly behind the aortic root in the PLAX. The RVOT is anterior to the aorta, and the descending aorta is farther posterior, behind the LA.",
+      "explanationImage": null,
+      "tags": [
+        "Cross-Sectional Anatomy of the Thorax",
+        "Section 5 — Cardiac Chambers, Septa & Valves in Cross Section"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch03-q088",
+      "stem": "In the parasternal long-axis view, the right ventricular outflow tract appears:",
+      "image": null,
+      "options": [
+        "Posterior to the aortic root",
+        "Anterior to the aortic root, nearest the transducer",
+        "Below the left ventricle",
+        "Only in the apical views"
+      ],
+      "answer": 1,
+      "explanation": "Because the RVOT wraps anterior to the aortic root, it is the anterior near-field structure in the PLAX above the RV body. Posterior to the aorta is the LA.",
+      "explanationImage": null,
+      "tags": [
+        "Cross-Sectional Anatomy of the Thorax",
+        "Section 5 — Cardiac Chambers, Septa & Valves in Cross Section"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch03-q089",
+      "stem": "In the parasternal long-axis view, the mitral valve leaflets attach between which two chambers?",
+      "image": null,
+      "options": [
+        "The left atrium and left ventricle",
+        "The right atrium and right ventricle",
+        "The aortic root and pulmonary artery",
+        "The right ventricle and left ventricle"
+      ],
+      "answer": 0,
+      "explanation": "The mitral valve separates the LA from the LV; both leaflets are seen opening toward the septum in diastole. The RA/RV junction contains the tricuspid valve, which is not seen in a standard PLAX.",
+      "explanationImage": null,
+      "tags": [
+        "Cross-Sectional Anatomy of the Thorax",
+        "Section 5 — Cardiac Chambers, Septa & Valves in Cross Section"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch03-q090",
+      "stem": "The coronary sinus is identified in cross-sectional imaging as a small structure running in the:",
+      "image": null,
+      "options": [
+        "Anterior interventricular groove",
+        "Interventricular septum",
+        "Posterior atrioventricular groove",
+        "Wall of the aortic root"
+      ],
+      "answer": 2,
+      "explanation": "The coronary sinus runs in the posterior AV groove above the mitral annulus, draining into the RA. It is a key landmark in PLAX and A4C views and must not be mistaken for the descending aorta (which is more posterior).",
+      "explanationImage": null,
+      "tags": [
+        "Cross-Sectional Anatomy of the Thorax",
+        "Section 5 — Cardiac Chambers, Septa & Valves in Cross Section"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch03-q091",
+      "stem": "In the parasternal short-axis view at the aortic valve level, the \"Mercedes-Benz\" sign represents:",
+      "image": null,
+      "options": [
+        "The mitral valve in diastole",
+        "The tricuspid valve orifice",
+        "The pulmonic valve cusps",
+        "The three cusps of the aortic valve in the closed position"
+      ],
+      "answer": 3,
+      "explanation": "The three coapted aortic cusps (right, left, noncoronary) form the inverted Y (\"Mercedes-Benz\") appearance in systolic closure/diastole. The mitral valve en face is the \"fish-mouth,\" not the \"Mercedes-Benz.\"",
+      "explanationImage": null,
+      "tags": [
+        "Cross-Sectional Anatomy of the Thorax",
+        "Section 5 — Cardiac Chambers, Septa & Valves in Cross Section"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch03-q092",
+      "stem": "In the parasternal short-axis view at the aortic valve level, which structure occupies the upper-left portion of the image?",
+      "image": null,
+      "options": [
+        "Right ventricular outflow tract and pulmonary artery",
+        "Coronary sinus",
+        "Descending aorta",
+        "Left atrial appendage"
+      ],
+      "answer": 0,
+      "explanation": "The RVOT and main PA wrap anteriorly and leftward/superiorly over the aortic root, so they appear at the top-left of the aortic-level short axis. The LA occupies the posterior (bottom) of the image.",
+      "explanationImage": null,
+      "tags": [
+        "Cross-Sectional Anatomy of the Thorax",
+        "Section 5 — Cardiac Chambers, Septa & Valves in Cross Section"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch03-q093",
+      "stem": "In the parasternal short-axis view at the aortic valve level, the left atrium lies:",
+      "image": null,
+      "options": [
+        "Anterior to the aortic root",
+        "Immediately right of the tricuspid valve",
+        "Posterior to the aortic root",
+        "Superior to the pulmonary artery"
+      ],
+      "answer": 2,
+      "explanation": "The LA is the most posterior chamber and thus sits behind (below on the image) the central aortic root. The RVOT lies anterior, and the RA lies to the right.",
+      "explanationImage": null,
+      "tags": [
+        "Cross-Sectional Anatomy of the Thorax",
+        "Section 5 — Cardiac Chambers, Septa & Valves in Cross Section"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch03-q094",
+      "stem": "In the parasternal short-axis view at the aortic valve level, the right atrium lies:",
+      "image": null,
+      "options": [
+        "To the left of the aortic root",
+        "To the right of the aortic root",
+        "Directly posterior",
+        "Directly anterior"
+      ],
+      "answer": 1,
+      "explanation": "Consistent with the RA being rightward, it appears to the right of the central aortic root, separated from the RVOT by the tricuspid valve seen en face in this plane.",
+      "explanationImage": null,
+      "tags": [
+        "Cross-Sectional Anatomy of the Thorax",
+        "Section 5 — Cardiac Chambers, Septa & Valves in Cross Section"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch03-q095",
+      "stem": "From the aortic valve short-axis position, tilting the transducer slightly toward the apex demonstrates:",
+      "image": null,
+      "options": [
+        "The aortic arch",
+        "The superior vena cava",
+        "The left atrial appendage only",
+        "The mitral valve leaflets (\"fish-mouth\" appearance)"
+      ],
+      "answer": 3,
+      "explanation": "Progressing from aortic level toward the apex, the next landmark is the mitral valve level, where both leaflets open en face like a fish mouth. Further tilt reveals the papillary muscle level.",
+      "explanationImage": null,
+      "tags": [
+        "Cross-Sectional Anatomy of the Thorax",
+        "Section 5 — Cardiac Chambers, Septa & Valves in Cross Section"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch03-q096",
+      "stem": "Continuing the parasternal short-axis sweep toward the apex, the level below the mitral valve demonstrates:",
+      "image": null,
+      "options": [
+        "Two symmetric papillary muscles within the LV cavity",
+        "The aortic valve in cross-section",
+        "The coronary sinus in the posterior groove",
+        "The right atrium and tricuspid valve"
+      ],
+      "answer": 0,
+      "explanation": "The papillary muscle level shows two posteromedial and anterolateral papillary muscles symmetrically placed in the circular LV cavity; the aortic valve and RA belong to more basal levels.",
+      "explanationImage": null,
+      "tags": [
+        "Cross-Sectional Anatomy of the Thorax",
+        "Section 5 — Cardiac Chambers, Septa & Valves in Cross Section"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch03-q097",
+      "stem": "At the papillary muscle level of the parasternal short-axis view, the interventricular septum separates the:",
+      "image": null,
+      "options": [
+        "Right atrium from right ventricle",
+        "Left atrium from left ventricle",
+        "Right ventricle from left ventricle",
+        "Aortic root from pulmonary artery"
+      ],
+      "answer": 2,
+      "explanation": "Below the mitral valve, only the two ventricles are seen: a crescentic RV wrapped around the circular LV, separated by the septum. The atria lie at more basal levels.",
+      "explanationImage": null,
+      "tags": [
+        "Cross-Sectional Anatomy of the Thorax",
+        "Section 5 — Cardiac Chambers, Septa & Valves in Cross Section"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch03-q098",
+      "stem": "In the parasternal short-axis view, the left ventricle should normally appear:",
+      "image": null,
+      "options": [
+        "Elliptical and elongated",
+        "Circular",
+        "Flat and band-like",
+        "Triangular"
+      ],
+      "answer": 1,
+      "explanation": "The normal LV is circular in short axis; an elliptical/ovoid cavity suggests foreshortening, off-axis imaging, or ventricular geometric abnormality, and invalidates area/shape assessments.",
+      "explanationImage": null,
+      "tags": [
+        "Cross-Sectional Anatomy of the Thorax",
+        "Section 5 — Cardiac Chambers, Septa & Valves in Cross Section"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch03-q099",
+      "stem": "The papillary muscles normally arise from the:",
+      "image": null,
+      "options": [
+        "Interatrial septum",
+        "Right ventricular apex",
+        "Aortic root",
+        "Walls of the left ventricle"
+      ],
+      "answer": 3,
+      "explanation": "The anterolateral and posteromedial papillary muscles project from the LV free wall and septum and connect to the mitral leaflets via chordae. Ejection of blood occurs around them.",
+      "explanationImage": null,
+      "tags": [
+        "Cross-Sectional Anatomy of the Thorax",
+        "Section 5 — Cardiac Chambers, Septa & Valves in Cross Section"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch03-q100",
+      "stem": "The moderator band (septomarginal trabeculation) is a normal structure located in the:",
+      "image": null,
+      "options": [
+        "Right ventricle",
+        "Left atrium",
+        "Left ventricular apex",
+        "Aortic root"
+      ],
+      "answer": 0,
+      "explanation": "The moderator band crosses the RV apex region and carries the right bundle branch. Recognizing it prevents mistaking this normal RV structure for a thrombus or mass.",
+      "explanationImage": null,
+      "tags": [
+        "Cross-Sectional Anatomy of the Thorax",
+        "Section 6 — Axial (Transverse) Cardiac Anatomy"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch03-q101",
+      "stem": "At the axial level of the aortic valve, which chamber lies immediately posterior to the aortic root?",
+      "image": null,
+      "options": [
+        "Left atrium",
+        "Right ventricular outflow tract",
+        "Right atrium",
+        "Descending aorta"
+      ],
+      "answer": 0,
+      "explanation": "The LA lies directly posterior to the central aortic root on axial sections, matching its PLAX appearance. The RVOT is anterior to the root, and the descending aorta lies farther back behind the LA.",
+      "explanationImage": null,
+      "tags": [
+        "Cross-Sectional Anatomy of the Thorax",
+        "Section 6 — Axial (Transverse) Cardiac Anatomy"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch03-q102",
+      "stem": "At the mid-heart axial (four-chamber) level, which vessel is identified to the left and posterior of the left atrium?",
+      "image": null,
+      "options": [
+        "Superior vena cava",
+        "Trachea",
+        "Inferior vena cava",
+        "Descending thoracic aorta"
+      ],
+      "answer": 3,
+      "explanation": "The descending thoracic aorta courses left of the vertebral column, posterolateral to the LA, and serves as a landmark separating the LA from the spine. The SVC is a right-sided structure and the IVC is abdominal.",
+      "explanationImage": null,
+      "tags": [
+        "Cross-Sectional Anatomy of the Thorax",
+        "Section 6 — Axial (Transverse) Cardiac Anatomy"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch03-q103",
+      "stem": "On axial images, the azygos vein arches anteriorly to join the superior vena cava by passing over the:",
+      "image": null,
+      "options": [
+        "Left main bronchus",
+        "Left atrium",
+        "Left ventricle",
+        "Right main bronchus"
+      ],
+      "answer": 3,
+      "explanation": "The azygos arches over the right main bronchus to enter the posterior aspect of the SVC at the level of the tracheobronchial angle. The left-sided equivalent (hemiazygos) drains across the midline.",
+      "explanationImage": null,
+      "tags": [
+        "Cross-Sectional Anatomy of the Thorax",
+        "Section 6 — Axial (Transverse) Cardiac Anatomy"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch03-q104",
+      "stem": "On an axial image at the carinal level, which vessel is seen along the right side of the ascending aorta?",
+      "image": null,
+      "options": [
+        "Main pulmonary artery",
+        "Azygos vein",
+        "Superior vena cava",
+        "Right pulmonary veins"
+      ],
+      "answer": 2,
+      "explanation": "The SVC lies right and lateral to the ascending aorta at the carinal level and receives the azygos arch just above the right PA. The main PA lies leftward, and the pulmonary veins enter the posterior LA.",
+      "explanationImage": null,
+      "tags": [
+        "Cross-Sectional Anatomy of the Thorax",
+        "Section 6 — Axial (Transverse) Cardiac Anatomy"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch03-q105",
+      "stem": "The main pulmonary artery arises from the RVOT and courses:",
+      "image": null,
+      "options": [
+        "Superiorly and leftward, anterior to the left main bronchus",
+        "Posteriorly toward the spine, behind the LA",
+        "Rightward into the right pleural cavity",
+        "Inferiorly along the interventricular septum"
+      ],
+      "answer": 0,
+      "explanation": "The main PA ascends leftward and bifurcates beneath the aortic arch, passing anterior to the left main bronchus. Its posterior-leftward course relative to the aorta explains the short-axis \"circle and sausage\" appearance.",
+      "explanationImage": null,
+      "tags": [
+        "Cross-Sectional Anatomy of the Thorax",
+        "Section 6 — Axial (Transverse) Cardiac Anatomy"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch03-q106",
+      "stem": "On axial images, the right pulmonary artery passes ___ the ascending aorta as it heads toward the right hilum.",
+      "image": null,
+      "options": [
+        "Anterior to",
+        "To the left of",
+        "Below",
+        "Posterior to"
+      ],
+      "answer": 3,
+      "explanation": "The right PA courses behind the ascending aorta (and in front of the right main bronchus) toward the right lung hilum. This posterior course distinguishes it from the leftward-superior main PA.",
+      "explanationImage": null,
+      "tags": [
+        "Cross-Sectional Anatomy of the Thorax",
+        "Section 6 — Axial (Transverse) Cardiac Anatomy"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch03-q107",
+      "stem": "The left atrium receives venous blood from the:",
+      "image": null,
+      "options": [
+        "Superior vena cava",
+        "Four pulmonary veins",
+        "Inferior vena cava",
+        "Coronary sinus"
+      ],
+      "answer": 1,
+      "explanation": "Four pulmonary veins (two right, two left) enter the posterior LA wall. The SVC, IVC, and coronary sinus all drain into the right atrium.",
+      "explanationImage": null,
+      "tags": [
+        "Cross-Sectional Anatomy of the Thorax",
+        "Section 6 — Axial (Transverse) Cardiac Anatomy"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch03-q108",
+      "stem": "On axial sections at the level of the aortic root, the structure providing the posterior boundary deep to the left atrium is the:",
+      "image": null,
+      "options": [
+        "Trachea",
+        "Superior vena cava",
+        "Descending thoracic aorta",
+        "Right ventricle"
+      ],
+      "answer": 2,
+      "explanation": "The descending aorta lies immediately behind the LA on axial images, continuing to the esophagus and spine. The trachea is more superior, and the RV is an anterior chamber.",
+      "explanationImage": null,
+      "tags": [
+        "Cross-Sectional Anatomy of the Thorax",
+        "Section 6 — Axial (Transverse) Cardiac Anatomy"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch03-q109",
+      "stem": "Which sequence correctly lists mid-thoracic axial structures from anterior to posterior?",
+      "image": null,
+      "options": [
+        "Left atrium, aortic root, RVOT, descending aorta",
+        "RVOT, left atrium, aortic root, descending aorta",
+        "Descending aorta, left atrium, aortic root, RVOT",
+        "RVOT, aortic root, left atrium, descending aorta"
+      ],
+      "answer": 3,
+      "explanation": "At the aortic root level the anterior-to-posterior order is RVOT (most anterior), aortic root, LA, then descending aorta in the posterior mediastinum. Reversed sequences are common distractors.",
+      "explanationImage": null,
+      "tags": [
+        "Cross-Sectional Anatomy of the Thorax",
+        "Section 6 — Axial (Transverse) Cardiac Anatomy"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch03-q110",
+      "stem": "On an axial image at the mid-ventricular level, the chamber forming the most anterior border adjacent to the sternum is the:",
+      "image": null,
+      "options": [
+        "Right ventricle",
+        "Left ventricle",
+        "Right atrium",
+        "Left atrium"
+      ],
+      "answer": 0,
+      "explanation": "The RV is the most anterior chamber and lies directly behind the sternum even at ventricular levels. The LV is posterior-lateral to it, and both atria lie superior to this level.",
+      "explanationImage": null,
+      "tags": [
+        "Cross-Sectional Anatomy of the Thorax",
+        "Section 6 — Axial (Transverse) Cardiac Anatomy"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch03-q111",
+      "stem": "On axial imaging at the level of the aortic valve, which chamber lies in the near field directly behind the retrosternal space?",
+      "image": null,
+      "options": [
+        "Right ventricular outflow tract",
+        "Left atrium",
+        "Right atrium",
+        "Descending aorta"
+      ],
+      "answer": 0,
+      "explanation": "The RVOT is the most anterior structure at this level, consistent with the RV being the most anterior chamber. The LA is posterior to the aortic root and the descending aorta is most posterior.",
+      "explanationImage": null,
+      "tags": [
+        "Cross-Sectional Anatomy of the Thorax",
+        "Section 6 — Axial (Transverse) Cardiac Anatomy"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch03-q112",
+      "stem": "On axial images, which structure is consistently identified posterolateral to the left atrium on the left side?",
+      "image": null,
+      "options": [
+        "Superior vena cava",
+        "Trachea",
+        "Inferior vena cava",
+        "Descending thoracic aorta"
+      ],
+      "answer": 3,
+      "explanation": "The descending aorta is the round, pulsatile structure left-posterior to the LA; it is a key echo landmark. The SVC is right-sided, the trachea midline, and the IVC below the diaphragm.",
+      "explanationImage": null,
+      "tags": [
+        "Cross-Sectional Anatomy of the Thorax",
+        "Section 6 — Axial (Transverse) Cardiac Anatomy"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch03-q113",
+      "stem": "At the axial four-chamber level, the structure immediately anterior to the right ventricle is the:",
+      "image": null,
+      "options": [
+        "Anterior chest wall and sternum",
+        "Esophagus",
+        "Descending aorta",
+        "Left atrium"
+      ],
+      "answer": 0,
+      "explanation": "The RV is the most anterior cardiac chamber, so the chest wall/sternum lies directly in front of it. The esophagus and descending aorta are posterior structures, and the LA is a posterior chamber.",
+      "explanationImage": null,
+      "tags": [
+        "Cross-Sectional Anatomy of the Thorax",
+        "Section 6 — Axial (Transverse) Cardiac Anatomy"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch03-q114",
+      "stem": "Which sequence correctly lists the four-chamber axial level structures from anterior to posterior?",
+      "image": null,
+      "options": [
+        "Left atrium, left ventricle, right ventricle, sternum",
+        "Sternum, right ventricle, left ventricle, left atrium, descending aorta",
+        "Sternum, left atrium, right ventricle, left ventricle",
+        "Left ventricle, right ventricle, sternum, left atrium"
+      ],
+      "answer": 1,
+      "explanation": "Anterior to posterior: chest wall/sternum, RV (most anterior chamber), LV, LA (most posterior chamber), then the descending aorta. Knowing this order underlies interpretation of every axial cardiac image.",
+      "explanationImage": null,
+      "tags": [
+        "Cross-Sectional Anatomy of the Thorax",
+        "Section 6 — Axial (Transverse) Cardiac Anatomy"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch03-q115",
+      "stem": "At the axial level of the aortic arch, the vessel crossing anterior to the arch and draining toward the SVC is the:",
+      "image": null,
+      "options": [
+        "Internal jugular vein",
+        "Superior vena cava",
+        "Left brachiocephalic vein",
+        "Hemiazygos vein"
+      ],
+      "answer": 2,
+      "explanation": "The left brachiocephalic vein crosses from left to right anterior to the great arteries to form the SVC. The azygos system joins the SVC from behind, over the right main bronchus.",
+      "explanationImage": null,
+      "tags": [
+        "Cross-Sectional Anatomy of the Thorax",
+        "Section 6 — Axial (Transverse) Cardiac Anatomy"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch03-q116",
+      "stem": "Which structure courses in the posterior mediastinum just to the right of the descending thoracic aorta?",
+      "image": null,
+      "options": [
+        "Superior vena cava",
+        "Left atrium",
+        "Inferior vena cava",
+        "Esophagus"
+      ],
+      "answer": 3,
+      "explanation": "The esophagus lies in the posterior mediastinum between the LA anteriorly and the vertebral column, adjacent to the descending aorta. This is why the LA sits immediately anterior to the esophagus.",
+      "explanationImage": null,
+      "tags": [
+        "Cross-Sectional Anatomy of the Thorax",
+        "Section 6 — Axial (Transverse) Cardiac Anatomy"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch03-q117",
+      "stem": "Which main bronchus is longer, thinner, and runs more horizontally from the carina?",
+      "image": null,
+      "options": [
+        "Left main bronchus",
+        "Right main bronchus",
+        "Trachea",
+        "Bronchus intermedius"
+      ],
+      "answer": 0,
+      "explanation": "The left main bronchus is longer and more oblique/horizontal, passing beneath the aortic arch and anterior to the esophagus and descending aorta. The right main bronchus is shorter, wider, and more vertical.",
+      "explanationImage": null,
+      "tags": [
+        "Cross-Sectional Anatomy of the Thorax",
+        "Section 6 — Axial (Transverse) Cardiac Anatomy"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch03-q118",
+      "stem": "On axial images, the ascending aorta lies ___ to the descending aorta.",
+      "image": null,
+      "options": [
+        "Posterior",
+        "Anterior",
+        "Left",
+        "Inferior"
+      ],
+      "answer": 1,
+      "explanation": "The ascending aorta is the anterior mediastinal portion of the thoracic aorta; the descending aorta lies posteriorly near the spine. They appear as two round structures at different depths on the same axial slice.",
+      "explanationImage": null,
+      "tags": [
+        "Cross-Sectional Anatomy of the Thorax",
+        "Section 6 — Axial (Transverse) Cardiac Anatomy"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch03-q119",
+      "stem": "At the axial level of the right pulmonary artery, which vessel is seen along the right anterior aspect of the ascending aorta?",
+      "image": null,
+      "options": [
+        "Azygos vein",
+        "Pulmonary trunk",
+        "Superior vena cava",
+        "Right inferior pulmonary vein"
+      ],
+      "answer": 2,
+      "explanation": "The SVC lies right and anterior to the ascending aorta at this level and receives the azygos arch. The azygos joins from posterior, and the pulmonary veins enter the LA posteriorly.",
+      "explanationImage": null,
+      "tags": [
+        "Cross-Sectional Anatomy of the Thorax",
+        "Section 6 — Axial (Transverse) Cardiac Anatomy"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch03-q120",
+      "stem": "On axial images, the coronary sinus runs within the:",
+      "image": null,
+      "options": [
+        "Anterior interventricular groove",
+        "Posterior atrioventricular groove",
+        "Interventricular septum",
+        "Aortic annulus"
+      ],
+      "answer": 1,
+      "explanation": "The coronary sinus lies in the posterior AV groove, between the LA/LV above and the coronary sulcus below, draining to the RA. On axial images it appears as a small round structure at the posterior AV junction.",
+      "explanationImage": null,
+      "tags": [
+        "Cross-Sectional Anatomy of the Thorax",
+        "Section 7 — Sagittal & Coronal Sections and the Apical Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch03-q121",
+      "stem": "Sagittal sections of the heart are primarily used to demonstrate:",
+      "image": null,
+      "options": [
+        "Superior/inferior relationships",
+        "Left/right relationships",
+        "Axial relationships",
+        "Anterior/posterior relationships"
+      ],
+      "answer": 3,
+      "explanation": "Per the lecture, sagittal sections demonstrate anterior and posterior cardiac relationships — the RV near the sternum anteriorly and the LA near the descending aorta posteriorly.",
+      "explanationImage": null,
+      "tags": [
+        "Cross-Sectional Anatomy of the Thorax",
+        "Section 7 — Sagittal & Coronal Sections and the Apical Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch03-q122",
+      "stem": "In sagittal sections, the right ventricle is visualized anteriorly near which structures?",
+      "image": null,
+      "options": [
+        "Esophagus and spine",
+        "Descending aorta",
+        "Sternum and chest wall",
+        "Vertebral column"
+      ],
+      "answer": 2,
+      "explanation": "The RV lies in the retrosternal space, so sagittal cuts show it immediately behind the sternum and chest wall. Posterior structures (esophagus, descending aorta, spine) relate to the LA instead.",
+      "explanationImage": null,
+      "tags": [
+        "Cross-Sectional Anatomy of the Thorax",
+        "Section 7 — Sagittal & Coronal Sections and the Apical Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch03-q123",
+      "stem": "In sagittal images, the left atrium is positioned posteriorly adjacent to the:",
+      "image": null,
+      "options": [
+        "Descending thoracic aorta",
+        "Trachea",
+        "Sternum",
+        "Superior vena cava"
+      ],
+      "answer": 0,
+      "explanation": "The lecture places the LA posteriorly near the descending thoracic aorta. The trachea is more superior and midline, and the SVC is a right-sided structure.",
+      "explanationImage": null,
+      "tags": [
+        "Cross-Sectional Anatomy of the Thorax",
+        "Section 7 — Sagittal & Coronal Sections and the Apical Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch03-q124",
+      "stem": "The aortic root is visualized in which position within sagittal sectional images of the heart?",
+      "image": null,
+      "options": [
+        "Posterior, against the spine",
+        "Centrally",
+        "Anterior, against the sternum",
+        "Laterally, beside the LV apex"
+      ],
+      "answer": 1,
+      "explanation": "The lecture notes the aortic root lies centrally in sagittal sections — between the anterior RVOT and the posterior LA — exactly the arrangement reproduced in the PLAX view.",
+      "explanationImage": null,
+      "tags": [
+        "Cross-Sectional Anatomy of the Thorax",
+        "Section 7 — Sagittal & Coronal Sections and the Apical Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch03-q125",
+      "stem": "Coronal sections of the thorax display ___ relationships within the thoracic cardiac structures.",
+      "image": null,
+      "options": [
+        "Anterior/posterior",
+        "Axial",
+        "Oblique",
+        "Vertical (superior–inferior)"
+      ],
+      "answer": 3,
+      "explanation": "Coronal sections display vertical relationships, showing the great vessels superiorly, the four-chamber silhouette centrally, and the diaphragm inferiorly beneath the heart.",
+      "explanationImage": null,
+      "tags": [
+        "Cross-Sectional Anatomy of the Thorax",
+        "Section 7 — Sagittal & Coronal Sections and the Apical Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch03-q126",
+      "stem": "In coronal sections, the great vessels extend ___ from the heart.",
+      "image": null,
+      "options": [
+        "Superiorly",
+        "Inferiorly",
+        "Posteriorly into the spine",
+        "Rightward only"
+      ],
+      "answer": 0,
+      "explanation": "The great vessels (aorta, PA, SVC, pulmonary veins) extend superiorly from the cardiac base in coronal sections, connecting the heart with the thoracic inlet.",
+      "explanationImage": null,
+      "tags": [
+        "Cross-Sectional Anatomy of the Thorax",
+        "Section 7 — Sagittal & Coronal Sections and the Apical Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch03-q127",
+      "stem": "In coronal sections, the diaphragm is visualized ___ beneath the cardiac silhouette.",
+      "image": null,
+      "options": [
+        "Superior",
+        "Posterior",
+        "Inferior",
+        "Lateral"
+      ],
+      "answer": 2,
+      "explanation": "The diaphragm separates the thoracic and abdominal cavities, so on coronal cuts it lies inferiorly beneath the heart and mediastinum, often as a domed border with liver below.",
+      "explanationImage": null,
+      "tags": [
+        "Cross-Sectional Anatomy of the Thorax",
+        "Section 7 — Sagittal & Coronal Sections and the Apical Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch03-q128",
+      "stem": "The apical four-chamber view is an oblique longitudinal section that approximates which plane?",
+      "image": null,
+      "options": [
+        "Axial plane",
+        "Midsagittal plane",
+        "Transverse plane",
+        "Coronal plane"
+      ],
+      "answer": 3,
+      "explanation": "Per the lecture, the A4C approximates a coronal plane, which is why it shows all four chambers and both septa in one front-facing image. It is oblique, not a true coronal cut, because the heart lies obliquely.",
+      "explanationImage": null,
+      "tags": [
+        "Cross-Sectional Anatomy of the Thorax",
+        "Section 7 — Sagittal & Coronal Sections and the Apical Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch03-q129",
+      "stem": "In a properly obtained apical four-chamber view, which structures are seen in the center of the image?",
+      "image": null,
+      "options": [
+        "Only the aortic root",
+        "The posterior LV wall",
+        "The descending aorta",
+        "Both the interatrial and interventricular septa forming the cardiac \"crux\""
+      ],
+      "answer": 3,
+      "explanation": "With the apex at the top of the image, the two septa align vertically in the center, with the tricuspid annulus slightly more apical than the mitral annulus at the crux. Centering the septa ensures an on-axis view.",
+      "explanationImage": null,
+      "tags": [
+        "Cross-Sectional Anatomy of the Thorax",
+        "Section 7 — Sagittal & Coronal Sections and the Apical Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch03-q130",
+      "stem": "Which valves are visible in the standard apical four-chamber view?",
+      "image": null,
+      "options": [
+        "Tricuspid and mitral valves",
+        "Aortic and pulmonic valves",
+        "Only the aortic valve",
+        "All four valves"
+      ],
+      "answer": 0,
+      "explanation": "The AV valves (tricuspid and mitral) separate the atria from the ventricles in the A4C; the semilunar valves appear only when the view is angled to five-chamber or long-axis planes.",
+      "explanationImage": null,
+      "tags": [
+        "Cross-Sectional Anatomy of the Thorax",
+        "Section 7 — Sagittal & Coronal Sections and the Apical Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch03-q131",
+      "stem": "In the apical four-chamber view (apex at the top of the image), the left atrium is displayed in the:",
+      "image": null,
+      "options": [
+        "Upper left of the image",
+        "Upper right of the image",
+        "Lower right of the image",
+        "Lower left of the image"
+      ],
+      "answer": 2,
+      "explanation": "With apex up: RV upper left, LV lower left, RA upper right, LA lower right. The LA sits deepest and closest to the posterior chest, consistent with it being the most posterior chamber.",
+      "explanationImage": null,
+      "tags": [
+        "Cross-Sectional Anatomy of the Thorax",
+        "Section 7 — Sagittal & Coronal Sections and the Apical Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch03-q132",
+      "stem": "In the apical four-chamber view (apex at the top of the image), the right atrium is displayed in the:",
+      "image": null,
+      "options": [
+        "Lower left of the image",
+        "Upper right of the image",
+        "Lower right of the image",
+        "Center of the image"
+      ],
+      "answer": 1,
+      "explanation": "The RA is rightward and superior to the RV, placing it upper right in the standard A4C orientation; its paired chamber, the RV, occupies the upper left.",
+      "explanationImage": null,
+      "tags": [
+        "Cross-Sectional Anatomy of the Thorax",
+        "Section 7 — Sagittal & Coronal Sections and the Apical Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch03-q133",
+      "stem": "The apical five-chamber (A5C) view is obtained from the A4C by:",
+      "image": null,
+      "options": [
+        "Sliding the transducer laterally along the chest wall",
+        "Rotating the transducer 90 degrees",
+        "Moving to the subcostal window",
+        "Angling the transducer anteriorly/superiorly to include the aortic root and LVOT"
+      ],
+      "answer": 3,
+      "explanation": "Tilting anteriorly from the A4C brings the aortic root, aortic valve, and LVOT into view, creating the \"fifth chamber\" (the LVOT/aorta). This is the standard view for LVOT and aortic Doppler alignment.",
+      "explanationImage": null,
+      "tags": [
+        "Cross-Sectional Anatomy of the Thorax",
+        "Section 7 — Sagittal & Coronal Sections and the Apical Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch03-q134",
+      "stem": "The apical two-chamber (A2C) view displays which chambers?",
+      "image": null,
+      "options": [
+        "Left atrium and left ventricle",
+        "Right ventricle and right atrium",
+        "Both ventricles",
+        "Aorta and left atrium"
+      ],
+      "answer": 0,
+      "explanation": "By rotating from the A4C, the right-sided chambers are excluded, leaving the LA and LV for evaluation of anterior/inferior LV walls and the mitral valve.",
+      "explanationImage": null,
+      "tags": [
+        "Cross-Sectional Anatomy of the Thorax",
+        "Section 7 — Sagittal & Coronal Sections and the Apical Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch03-q135",
+      "stem": "In the apical two-chamber view, the LV apex is positioned at the ___ of the image.",
+      "image": null,
+      "options": [
+        "Bottom",
+        "Right side",
+        "Top",
+        "Left side"
+      ],
+      "answer": 2,
+      "explanation": "In apical views the transducer sits at the cardiac apex, so the apex appears in the near field at the top and the base/atria at the bottom. Foreshortening mistakes this geometry and makes the apex look blunted.",
+      "explanationImage": null,
+      "tags": [
+        "Cross-Sectional Anatomy of the Thorax",
+        "Section 7 — Sagittal & Coronal Sections and the Apical Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch03-q136",
+      "stem": "Which view is best for evaluating the true LV apex (e.g., for apical thrombus)?",
+      "image": null,
+      "options": [
+        "Parasternal long-axis",
+        "Apical four- and two-chamber views, carefully avoiding foreshortening",
+        "Subcostal short axis",
+        "Suprasternal notch"
+      ],
+      "answer": 1,
+      "explanation": "Only apical views place the transducer near the apex, and the apex must be on-axis (not foreshortened) to resolve the true apical tip where thrombi form. The PLAX foreshortens the apex by nature.",
+      "explanationImage": null,
+      "tags": [
+        "Cross-Sectional Anatomy of the Thorax",
+        "Section 7 — Sagittal & Coronal Sections and the Apical Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch03-q137",
+      "stem": "Foreshortening of the left ventricle in apical views most commonly results from:",
+      "image": null,
+      "options": [
+        "Positioning the transducer medial/lateral to the true apex instead of directly over the apical impulse",
+        "Excessive overall gain",
+        "An incorrect Doppler angle",
+        "Asking the patient to hold a deep breath only"
+      ],
+      "answer": 0,
+      "explanation": "Foreshortening occurs when the transducer is not over the true apical point, truncating the LV apex and overestimating basal segments. Sliding laterally and inferiorly to the true apex corrects it.",
+      "explanationImage": null,
+      "tags": [
+        "Cross-Sectional Anatomy of the Thorax",
+        "Section 7 — Sagittal & Coronal Sections and the Apical Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch03-q138",
+      "stem": "A sagittal section through the mid-thorax, showing the aortic root centrally with the RV anterior and LA posterior, corresponds sonographically to which echo view?",
+      "image": null,
+      "options": [
+        "Parasternal short-axis",
+        "Apical four-chamber",
+        "Suprasternal notch",
+        "Parasternal long-axis"
+      ],
+      "answer": 3,
+      "explanation": "The PLAX reproduces this sagittal-type slice: RVOT anterior, aortic root central, LA posterior. The PSAX is an axial-type slice and the A4C approximates coronal.",
+      "explanationImage": null,
+      "tags": [
+        "Cross-Sectional Anatomy of the Thorax",
+        "Section 7 — Sagittal & Coronal Sections and the Apical Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch03-q139",
+      "stem": "Which echo view best corresponds to a coronal-plane equivalent, demonstrating the four chambers \"face-on\"?",
+      "image": null,
+      "options": [
+        "Parasternal short-axis",
+        "Apical four-chamber view",
+        "Parasternal long-axis",
+        "Subcostal short-axis"
+      ],
+      "answer": 1,
+      "explanation": "The A4C approximates a coronal plane (an oblique longitudinal section per the lecture), displaying superior–inferior chamber relationships like a coronal anatomic section.",
+      "explanationImage": null,
+      "tags": [
+        "Cross-Sectional Anatomy of the Thorax",
+        "Section 7 — Sagittal & Coronal Sections and the Apical Views"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch03-q140",
+      "stem": "Which standard view is most similar to a longitudinal (sagittal-type) section along the left ventricle?",
+      "image": null,
+      "options": [
+        "Parasternal short-axis",
+        "Apical four-chamber",
+        "Parasternal long-axis",
+        "Subcostal short-axis"
+      ],
+      "answer": 2,
+      "explanation": "The PLAX slices lengthwise along the LV, reproducing the sagittal relationships of the heart: RV anterior, aortic root central, LA posterior, LV deep.",
+      "explanationImage": null,
+      "tags": [
+        "Cross-Sectional Anatomy of the Thorax",
+        "Section 8 — Parasternal Views: PLAX & PSAX"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch03-q141",
+      "stem": "The parasternal long-axis view is obtained by placing the transducer:",
+      "image": null,
+      "options": [
+        "At the left parasternal 3rd–4th intercostal space with the plane along the heart's long axis",
+        "At the cardiac apex pointing toward the right shoulder",
+        "Below the xiphoid process angled cephalad",
+        "In the suprasternal notch angled caudally"
+      ],
+      "answer": 0,
+      "explanation": "The PLAX window is the 3rd–4th left intercostal space beside the sternum; the image plane runs along the long axis of the LV. Apical, subcostal, and suprasternal are separate windows with different purposes.",
+      "explanationImage": null,
+      "tags": [
+        "Cross-Sectional Anatomy of the Thorax",
+        "Section 8 — Parasternal Views: PLAX & PSAX"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch03-q142",
+      "stem": "In the parasternal long-axis view, which arrangement of structures is correct?",
+      "image": null,
+      "options": [
+        "LA anterior, LV anterior, RV posterior",
+        "LV nearest transducer, RV deepest, RA in between",
+        "RA nearest the transducer, LA deepest",
+        "RVOT/RV anterior (near field), aortic root central, LA posterior, LV deep"
+      ],
+      "answer": 3,
+      "explanation": "The PLAX shows, from near field to far field: RVOT/RV, aortic root with aortic valve and mitral valve, then LA and LV. This mirrors the sagittal anatomy: RV anterior, aortic root central, LA posterior.",
+      "explanationImage": null,
+      "tags": [
+        "Cross-Sectional Anatomy of the Thorax",
+        "Section 8 — Parasternal Views: PLAX & PSAX"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch03-q143",
+      "stem": "In the parasternal long-axis view, the descending thoracic aorta is seen:",
+      "image": null,
+      "options": [
+        "Anterior to the left atrium",
+        "Posterior to the left atrium",
+        "Within the interventricular septum",
+        "To the right of the right atrium"
+      ],
+      "answer": 1,
+      "explanation": "The round descending aorta appears behind the LA in the far field of the PLAX. It must be distinguished from the coronary sinus, which lies higher, in the posterior AV groove.",
+      "explanationImage": null,
+      "tags": [
+        "Cross-Sectional Anatomy of the Thorax",
+        "Section 8 — Parasternal Views: PLAX & PSAX"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch03-q144",
+      "stem": "In the parasternal long-axis view, a pericardial effusion most characteristically appears as an echo-free space:",
+      "image": null,
+      "options": [
+        "Within the LV cavity",
+        "Within the LA",
+        "Posterior to the LV (and/or anterior to the RV), following the cardiac contour",
+        "Within the interventricular septum"
+      ],
+      "answer": 2,
+      "explanation": "Fluid in the pericardial sac creates anechoic space separating the heart from the posterior pericardium. Large effusions also track anteriorly to the RV. Effusion inside a chamber would be blood, not fluid collection.",
+      "explanationImage": null,
+      "tags": [
+        "Cross-Sectional Anatomy of the Thorax",
+        "Section 8 — Parasternal Views: PLAX & PSAX"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch03-q145",
+      "stem": "In the parasternal long-axis view, the RVOT appears:",
+      "image": null,
+      "options": [
+        "Nearest the transducer, in the anterior near field",
+        "In the far field behind the LA",
+        "Only with Doppler",
+        "Below the LV cavity"
+      ],
+      "answer": 0,
+      "explanation": "Because the RVOT wraps anterior to the aortic root and the RV is the most anterior chamber, it lies closest to the parasternal transducer, consistent with cross-sectional anatomy.",
+      "explanationImage": null,
+      "tags": [
+        "Cross-Sectional Anatomy of the Thorax",
+        "Section 8 — Parasternal Views: PLAX & PSAX"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch03-q146",
+      "stem": "Which structure is measured at the sinuses of Valsalva in the parasternal long-axis view?",
+      "image": null,
+      "options": [
+        "LV end-diastolic dimension",
+        "Left atrial dimension",
+        "IVS thickness",
+        "Aortic root diameter"
+      ],
+      "answer": 3,
+      "explanation": "The aortic root diameter is measured at the sinuses of Valsalva (and at the annulus/tubular junction) from leading edge to leading edge in the PLAX. LV and IVS measurements are made at the mitral leaflet tips.",
+      "explanationImage": null,
+      "tags": [
+        "Cross-Sectional Anatomy of the Thorax",
+        "Section 8 — Parasternal Views: PLAX & PSAX"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch03-q147",
+      "stem": "Standard LV linear measurements (IVS thickness, LV internal dimension, posterior wall) in the PLAX are taken:",
+      "image": null,
+      "options": [
+        "At the aortic annulus",
+        "At the tips of the mitral valve leaflets, at end-diastole",
+        "At the LV apex",
+        "In the LV outflow tract"
+      ],
+      "answer": 1,
+      "explanation": "The guideline-standard plane for M-mode/linear LV measurements is just below the mitral leaflet tips at end-diastole, where the septum and posterior wall are perpendicular to the beam. The apex is not visualized on-axis in the PLAX.",
+      "explanationImage": null,
+      "tags": [
+        "Cross-Sectional Anatomy of the Thorax",
+        "Section 8 — Parasternal Views: PLAX & PSAX"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch03-q148",
+      "stem": "In the parasternal long-axis view, the anterior mitral leaflet is fibrously continuous with the:",
+      "image": null,
+      "options": [
+        "Tricuspid valve annulus",
+        "Pulmonic valve annulus",
+        "Aortic valve annulus (aortic–mitral continuity)",
+        "Coronary sinus"
+      ],
+      "answer": 2,
+      "explanation": "The anterior mitral leaflet is continuous with the posterior wall of the aortic root (aortic–mitral fibrous continuity), explaining why the aortic and mitral valves appear in the same PLAX plane. The pulmonic and tricuspid valves lie elsewhere.",
+      "explanationImage": null,
+      "tags": [
+        "Cross-Sectional Anatomy of the Thorax",
+        "Section 8 — Parasternal Views: PLAX & PSAX"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch03-q149",
+      "stem": "In the parasternal long-axis view, a normal aortic valve in systole opens to appear:",
+      "image": null,
+      "options": [
+        "As a box/triangle with leaflets at the walls (central flow between them)",
+        "As a single midline echo throughout the cardiac cycle",
+        "Completely invisible",
+        "As a fish-mouth opening"
+      ],
+      "answer": 0,
+      "explanation": "Normal trileaflet aortic valve leaflets open to the sinus walls forming a \"box\" (triangle) in systole; persistent midline echoes suggest doming of stenosis. The fish-mouth is the mitral valve en face in short axis.",
+      "explanationImage": null,
+      "tags": [
+        "Cross-Sectional Anatomy of the Thorax",
+        "Section 8 — Parasternal Views: PLAX & PSAX"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch03-q150",
+      "stem": "The parasternal short-axis view is obtained from the parasternal long-axis position by:",
+      "image": null,
+      "options": [
+        "Sliding to the cardiac apex",
+        "Moving below the xiphoid",
+        "Moving to the suprasternal notch",
+        "Rotating the transducer 90 degrees clockwise"
+      ],
+      "answer": 3,
+      "explanation": "Rotating the transducer 90° from the long-axis plane yields the short-axis (axial-type) plane, allowing a sweep from aortic valve level down to the LV apex. Moving to other windows changes the anatomic approach entirely.",
+      "explanationImage": null,
+      "tags": [
+        "Cross-Sectional Anatomy of the Thorax",
+        "Section 8 — Parasternal Views: PLAX & PSAX"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch03-q151",
+      "stem": "In the parasternal short-axis view at the mitral valve level, the mitral valve appears as a:",
+      "image": null,
+      "options": [
+        "Single vertical line",
+        "\"Mercedes-Benz\" sign",
+        "\"Fish-mouth\" opening of both leaflets in diastole",
+        "Small circle within a circle"
+      ],
+      "answer": 2,
+      "explanation": "Viewed en face from the short-axis plane, the mitral leaflets open like a fish mouth in diastole and coapt like a line in systole. The \"Mercedes-Benz\" belongs to the aortic valve one level higher.",
+      "explanationImage": null,
+      "tags": [
+        "Cross-Sectional Anatomy of the Thorax",
+        "Section 8 — Parasternal Views: PLAX & PSAX"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch03-q152",
+      "stem": "In the parasternal short-axis view at the aortic valve level, which valve is seen between the right atrium and RVOT?",
+      "image": null,
+      "options": [
+        "Tricuspid valve",
+        "Mitral valve",
+        "Aortic valve",
+        "Pulmonic valve"
+      ],
+      "answer": 0,
+      "explanation": "The tricuspid valve lies between the RA (right) and RVOT (anterior/left) and is seen en face at the aortic level. The mitral valve appears one level below, nearer the apex.",
+      "explanationImage": null,
+      "tags": [
+        "Cross-Sectional Anatomy of the Thorax",
+        "Section 8 — Parasternal Views: PLAX & PSAX"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch03-q153",
+      "stem": "Color Doppler in the parasternal short-axis view at the aortic level may normally demonstrate trivial, physiologic regurgitation across which valve?",
+      "image": null,
+      "options": [
+        "Mitral valve",
+        "Tricuspid valve",
+        "Aortic valve",
+        "Pulmonic valve"
+      ],
+      "answer": 3,
+      "explanation": "Trivial pulmonic regurgitation is a common normal finding in healthy adults and is best detected in this view. Similar trivial tricuspid and mitral regurgitation can occur, but pulmonic regurgitation is the classic physiologic one.",
+      "explanationImage": null,
+      "tags": [
+        "Cross-Sectional Anatomy of the Thorax",
+        "Section 8 — Parasternal Views: PLAX & PSAX"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch03-q154",
+      "stem": "To assess RV size and evaluate regional wall motion of the LV segments, the most useful parasternal short-axis level is the:",
+      "image": null,
+      "options": [
+        "Aortic valve level",
+        "Papillary muscle level",
+        "Suprasternal level",
+        "Apical level only"
+      ],
+      "answer": 1,
+      "explanation": "The papillary muscle level displays the full circular LV cavity and both ventricles, making it the standard level for regional wall motion scoring and RV/LV comparison. The aortic level is too basal.",
+      "explanationImage": null,
+      "tags": [
+        "Cross-Sectional Anatomy of the Thorax",
+        "Section 8 — Parasternal Views: PLAX & PSAX"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch03-q155",
+      "stem": "In the parasternal short-axis view at the aortic level, the left atrium is bounded posteriorly (deepest) by the:",
+      "image": null,
+      "options": [
+        "RVOT",
+        "Tricuspid valve",
+        "Pulmonary artery",
+        "Descending aorta"
+      ],
+      "answer": 3,
+      "explanation": "The descending aorta lies behind the LA, just as in the PLAX. The RVOT and PA are anterior/superior to the aortic root, and the tricuspid valve is rightward.",
+      "explanationImage": null,
+      "tags": [
+        "Cross-Sectional Anatomy of the Thorax",
+        "Section 8 — Parasternal Views: PLAX & PSAX"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch03-q156",
+      "stem": "Which structure is NOT typically seen in the parasternal short-axis view at the aortic valve level?",
+      "image": null,
+      "options": [
+        "Left atrium",
+        "LV apex",
+        "Right atrium",
+        "Pulmonic valve"
+      ],
+      "answer": 1,
+      "explanation": "The aortic level is a basal slice containing the aortic root, LA, RA, RVOT/PA, and tricuspid valve; the LV apex is many levels below. Tilting toward the apex is required to reach the apical levels.",
+      "explanationImage": null,
+      "tags": [
+        "Cross-Sectional Anatomy of the Thorax",
+        "Section 8 — Parasternal Views: PLAX & PSAX"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch03-q157",
+      "stem": "The pulmonic valve in the parasternal short-axis view at the aortic level is characterized as the:",
+      "image": null,
+      "options": [
+        "Structure seen only at the mitral level",
+        "Structure never visible echocardiographically",
+        "Most anterior and superior structure of the image, at the end of the RVOT",
+        "Valve between the left atrium and left ventricle"
+      ],
+      "answer": 2,
+      "explanation": "The pulmonic valve is the most anterior/superior valve, at the distal RVOT wrapping over the aortic root. The LA/LV junction contains the mitral valve, which lies posteriorly.",
+      "explanationImage": null,
+      "tags": [
+        "Cross-Sectional Anatomy of the Thorax",
+        "Section 8 — Parasternal Views: PLAX & PSAX"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch03-q158",
+      "stem": "In the parasternal short-axis view at the aortic level, the interatrial septum is seen between which structures?",
+      "image": null,
+      "options": [
+        "Right atrium and left atrium",
+        "RVOT and pulmonary artery",
+        "Left ventricle and right ventricle",
+        "Aortic root and pulmonary artery"
+      ],
+      "answer": 0,
+      "explanation": "The interatrial septum divides the RA (right) from the LA (posterior) at this basal level. It may show dropout here because it lies parallel to the beam — the subcostal view is needed for perpendicular imaging.",
+      "explanationImage": null,
+      "tags": [
+        "Cross-Sectional Anatomy of the Thorax",
+        "Section 8 — Parasternal Views: PLAX & PSAX"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch03-q159",
+      "stem": "To obtain the parasternal long-axis view, the transducer index/indicator is typically pointed toward the patient's:",
+      "image": null,
+      "options": [
+        "Left hip",
+        "Right hip",
+        "Left shoulder",
+        "Right shoulder"
+      ],
+      "answer": 3,
+      "explanation": "In the standard PLAX the indicator points toward the right shoulder (approximately 3 o'clock), aligning the plane along the obliquely oriented long axis of the LV. Indicator direction controls image orientation in every view.",
+      "explanationImage": null,
+      "tags": [
+        "Cross-Sectional Anatomy of the Thorax",
+        "Section 8 — Parasternal Views: PLAX & PSAX"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch03-q160",
+      "stem": "The parasternal long-axis plane of the heart most closely corresponds to:",
+      "image": null,
+      "options": [
+        "The aortic valve level of the heart, sliced along the LV long axis",
+        "The diaphragmatic level of the heart",
+        "The aortic arch level",
+        "The LV apex level sliced crosswise"
+      ],
+      "answer": 0,
+      "explanation": "The PLAX reproduces the sagittal-type arrangement at the aortic valve level: RVOT anterior, aortic root central, LA posterior, LV deep. Crosswise slicing of the apex describes short-axis imaging instead.",
+      "explanationImage": null,
+      "tags": [
+        "Cross-Sectional Anatomy of the Thorax",
+        "Section 9 — Apical, Subcostal & Suprasternal Windows"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch03-q161",
+      "stem": "The apical four-chamber view is obtained by placing the transducer:",
+      "image": null,
+      "options": [
+        "Over the apical impulse (point of maximal impulse) at approximately the left 5th intercostal space, midclavicular line",
+        "At the left 3rd intercostal space beside the sternum",
+        "Below the xiphoid process angled cephalad",
+        "In the suprasternal notch angled caudally"
+      ],
+      "answer": 0,
+      "explanation": "Because the apex points inferiorly, anteriorly, and slightly left, the transducer is placed directly over the apical impulse. Options B, C, and D describe the parasternal, subcostal, and suprasternal windows.",
+      "explanationImage": null,
+      "tags": [
+        "Cross-Sectional Anatomy of the Thorax",
+        "Section 9 — Apical, Subcostal & Suprasternal Windows"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch03-q162",
+      "stem": "The standard apical four-chamber view demonstrates all of the following EXCEPT the:",
+      "image": null,
+      "options": [
+        "Left atrium",
+        "Left ventricle",
+        "Right atrium",
+        "Aortic root/LVOT"
+      ],
+      "answer": 3,
+      "explanation": "The A4C shows the four chambers, both AV valves, and both septa. The aortic root and LVOT appear only when the view is angled to the five-chamber or apical long-axis plane.",
+      "explanationImage": null,
+      "tags": [
+        "Cross-Sectional Anatomy of the Thorax",
+        "Section 9 — Apical, Subcostal & Suprasternal Windows"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch03-q163",
+      "stem": "Which view provides the best alignment of the ultrasound beam for mitral and tricuspid inflow Doppler (E/A velocities)?",
+      "image": null,
+      "options": [
+        "Parasternal long-axis",
+        "Parasternal short-axis",
+        "Apical four-chamber",
+        "Suprasternal notch"
+      ],
+      "answer": 2,
+      "explanation": "In the A4C the transmitral and transtricuspid flows move toward the apical transducer, nearly parallel to the beam. The PSAX and SSN are perpendicular to these flows.",
+      "explanationImage": null,
+      "tags": [
+        "Cross-Sectional Anatomy of the Thorax",
+        "Section 9 — Apical, Subcostal & Suprasternal Windows"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch03-q164",
+      "stem": "Which view best evaluates the interatrial septum and PFO flow (with contrast or Valsalva) because the septum lies perpendicular to the beam?",
+      "image": null,
+      "options": [
+        "Parasternal long-axis",
+        "Subcostal short-axis/four-chamber view",
+        "Suprasternal notch",
+        "Parasternal short-axis"
+      ],
+      "answer": 1,
+      "explanation": "The subcostal window insonates the interatrial septum perpendicular to the beam, minimizing dropout. In the A4C and PSAX the thin fossa ovalis is nearly parallel to the beam and falsely appears absent.",
+      "explanationImage": null,
+      "tags": [
+        "Cross-Sectional Anatomy of the Thorax",
+        "Section 9 — Apical, Subcostal & Suprasternal Windows"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch03-q165",
+      "stem": "When the parasternal and apical windows are poor, which imaging approach offers the best alternative?",
+      "image": null,
+      "options": [
+        "Right lateral decubitus parasternal imaging",
+        "Erect posterior chest imaging",
+        "Standing left lateral imaging",
+        "Subcostal window imaging"
+      ],
+      "answer": 3,
+      "explanation": "The subcostal window uses the liver as an acoustic window and is the standard alternative when lung interference degrades parasternal/apical images (e.g., COPD, obesity), and it is the first view in resuscitation.",
+      "explanationImage": null,
+      "tags": [
+        "Cross-Sectional Anatomy of the Thorax",
+        "Section 9 — Apical, Subcostal & Suprasternal Windows"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch03-q166",
+      "stem": "The inferior vena cava is most directly imaged from which window?",
+      "image": null,
+      "options": [
+        "Suprasternal notch",
+        "Subcostal window, where it enters the right atrium",
+        "Parasternal long-axis",
+        "Apical two-chamber"
+      ],
+      "answer": 1,
+      "explanation": "The IVC is seen draining into the RA from the subcostal approach, allowing measurement of diameter and respiratory collapse for RA pressure estimation. Other windows do not reach this inferior vessel.",
+      "explanationImage": null,
+      "tags": [
+        "Cross-Sectional Anatomy of the Thorax",
+        "Section 9 — Apical, Subcostal & Suprasternal Windows"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch03-q167",
+      "stem": "An IVC diameter greater than 2.1 cm with less than 50% inspiratory collapse suggests:",
+      "image": null,
+      "options": [
+        "Low right atrial pressure",
+        "Normal right atrial pressure",
+        "Elevated right atrial pressure",
+        "No relationship to right atrial pressure"
+      ],
+      "answer": 2,
+      "explanation": "A dilated, noncollapsing IVC indicates elevated RA pressure; a small, totally collapsing IVC suggests low pressure. This subcostal IVC assessment is part of routine echo hemodynamics.",
+      "explanationImage": null,
+      "tags": [
+        "Cross-Sectional Anatomy of the Thorax",
+        "Section 9 — Apical, Subcostal & Suprasternal Windows"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch03-q168",
+      "stem": "The suprasternal notch view is primarily used to evaluate the:",
+      "image": null,
+      "options": [
+        "Aortic arch and descending thoracic aorta",
+        "LV apex",
+        "Inferior vena cava",
+        "Mitral valve"
+      ],
+      "answer": 0,
+      "explanation": "From the suprasternal notch, the \"candy cane\" long-axis image displays the aortic arch and proximal descending aorta. The LV apex and IVC belong to apical and subcostal windows.",
+      "explanationImage": null,
+      "tags": [
+        "Cross-Sectional Anatomy of the Thorax",
+        "Section 9 — Apical, Subcostal & Suprasternal Windows"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch03-q169",
+      "stem": "In the suprasternal long-axis (\"candy cane\") view, the vessels seen arising from the arch are the:",
+      "image": null,
+      "options": [
+        "Coronary arteries",
+        "Pulmonary veins",
+        "Ductus arteriosus only",
+        "Brachiocephalic artery, left common carotid, and left subclavian artery"
+      ],
+      "answer": 3,
+      "explanation": "The three arch branches arise from the superior aspect of the aortic arch and are routinely identified in the suprasternal long-axis view. Coronary arteries arise from the aortic root, far below.",
+      "explanationImage": null,
+      "tags": [
+        "Cross-Sectional Anatomy of the Thorax",
+        "Section 9 — Apical, Subcostal & Suprasternal Windows"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch03-q170",
+      "stem": "Suspected coarctation of the aorta is best evaluated using the:",
+      "image": null,
+      "options": [
+        "Suprasternal view with 2D imaging and Doppler across the isthmus",
+        "Apical four-chamber view",
+        "Parasternal long-axis view",
+        "Subcostal four-chamber view"
+      ],
+      "answer": 0,
+      "explanation": "The suprasternal window directly visualizes the aortic isthmus where coarctation occurs and permits Doppler gradient measurement. Other views cannot display the arch/isthmus segment.",
+      "explanationImage": null,
+      "tags": [
+        "Cross-Sectional Anatomy of the Thorax",
+        "Section 9 — Apical, Subcostal & Suprasternal Windows"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch03-q171",
+      "stem": "In the subcostal four-chamber view, the liver is located:",
+      "image": null,
+      "options": [
+        "Posterior to the heart",
+        "Right of the heart only",
+        "Outside the image entirely",
+        "Between the transducer and the heart, in the near field"
+      ],
+      "answer": 3,
+      "explanation": "The transducer angles up through the liver, which serves as the acoustic window and occupies the near field. The heart lies in the far field beneath the diaphragm.",
+      "explanationImage": null,
+      "tags": [
+        "Cross-Sectional Anatomy of the Thorax",
+        "Section 9 — Apical, Subcostal & Suprasternal Windows"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch03-q172",
+      "stem": "Which view best displays the interatrial septum perpendicular to the ultrasound beam, minimizing septal dropout?",
+      "image": null,
+      "options": [
+        "Apical four-chamber",
+        "Parasternal long-axis",
+        "Subcostal four-chamber",
+        "Parasternal short-axis"
+      ],
+      "answer": 2,
+      "explanation": "From the subcostal approach the beam strikes the IAS at or near perpendicularity, making it the reference view for septal integrity, ASDs, and PFO evaluation. Apical views produce artifactual dropout.",
+      "explanationImage": null,
+      "tags": [
+        "Cross-Sectional Anatomy of the Thorax",
+        "Section 9 — Apical, Subcostal & Suprasternal Windows"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch03-q173",
+      "stem": "In the standard subcostal four-chamber view, the cardiac apex is directed toward the:",
+      "image": null,
+      "options": [
+        "Bottom center of the image",
+        "Upper left of the image",
+        "Upper right of the image",
+        "Lower right of the image"
+      ],
+      "answer": 1,
+      "explanation": "In the subcostal 4C the atria sit near the transducer at the bottom/right and the LV apex points toward the upper left of the image, mirroring the heart's leftward-pointing apex.",
+      "explanationImage": null,
+      "tags": [
+        "Cross-Sectional Anatomy of the Thorax",
+        "Section 9 — Apical, Subcostal & Suprasternal Windows"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch03-q174",
+      "stem": "The bifurcation of the main pulmonary artery into right and left branches is best demonstrated in the:",
+      "image": null,
+      "options": [
+        "Parasternal short-axis at the aortic valve level",
+        "Apical two-chamber view",
+        "Subcostal short-axis view",
+        "Parasternal long-axis view"
+      ],
+      "answer": 0,
+      "explanation": "The PSAX at aortic level shows the \"circle and sausage\": the aortic root en face with the RVOT/PA wrapping over and bifurcating leftward beneath the arch. The PLAX cannot show the bifurcation.",
+      "explanationImage": null,
+      "tags": [
+        "Cross-Sectional Anatomy of the Thorax",
+        "Section 9 — Apical, Subcostal & Suprasternal Windows"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch03-q175",
+      "stem": "The apical two-chamber view is obtained from the four-chamber position by rotating the transducer approximately:",
+      "image": null,
+      "options": [
+        "180 degrees",
+        "30 degrees",
+        "60–90 degrees counterclockwise",
+        "120 degrees clockwise"
+      ],
+      "answer": 2,
+      "explanation": "Rotating about 60–90° counterclockwise from the A4C excludes the right-sided chambers, yielding the LA/LV two-chamber plane. A 180° rotation would invert the four-chamber image.",
+      "explanationImage": null,
+      "tags": [
+        "Cross-Sectional Anatomy of the Thorax",
+        "Section 9 — Apical, Subcostal & Suprasternal Windows"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch03-q176",
+      "stem": "The apical three-chamber (apical long-axis) view is sonographically similar to the:",
+      "image": null,
+      "options": [
+        "Parasternal short-axis",
+        "Parasternal long-axis (but from the apex)",
+        "Subcostal view",
+        "Suprasternal view"
+      ],
+      "answer": 1,
+      "explanation": "The A3C displays the same structures as the PLAX (aortic root, LVOT, mitral valve, LV) but acquired from the apical window, allowing better apical and LVOT Doppler alignment.",
+      "explanationImage": null,
+      "tags": [
+        "Cross-Sectional Anatomy of the Thorax",
+        "Section 9 — Apical, Subcostal & Suprasternal Windows"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch03-q177",
+      "stem": "Which structures are demonstrated in the apical three-chamber view?",
+      "image": null,
+      "options": [
+        "Right ventricle and right atrium",
+        "Right atrium and left atrium",
+        "Right and left ventricles only",
+        "Left ventricle, left atrium, aortic root, and mitral valve"
+      ],
+      "answer": 3,
+      "explanation": "As an apical long-axis equivalent of the PLAX, the A3C shows the LV, LA, MV, and aortic root/LVOT. Right-sided chambers are excluded by the rotation.",
+      "explanationImage": null,
+      "tags": [
+        "Cross-Sectional Anatomy of the Thorax",
+        "Section 9 — Apical, Subcostal & Suprasternal Windows"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch03-q178",
+      "stem": "Which view(s) provide the best alignment for pulsed-wave Doppler of the LV outflow tract and aortic flow?",
+      "image": null,
+      "options": [
+        "Parasternal short-axis",
+        "Parasternal long-axis",
+        "Apical five-chamber or apical long-axis views",
+        "Subcostal four-chamber"
+      ],
+      "answer": 2,
+      "explanation": "LVOT/aortic flow moves away from the apical transducer, so the A5C and A3C align the beam parallel to flow. The PLAX and PSAX are nearly perpendicular to LVOT flow and unusable for these measurements.",
+      "explanationImage": null,
+      "tags": [
+        "Cross-Sectional Anatomy of the Thorax",
+        "Section 9 — Apical, Subcostal & Suprasternal Windows"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch03-q179",
+      "stem": "The suprasternal short-axis view classically demonstrates the:",
+      "image": null,
+      "options": [
+        "Left ventricle in short axis",
+        "Right pulmonary artery in cross-section beneath the aortic arch",
+        "Mitral valve en face",
+        "Inferior vena cava"
+      ],
+      "answer": 1,
+      "explanation": "In the suprasternal short axis the RPA lies beneath the arch — the classic relationship of the arch \"over\" the right PA. The LV and MV belong to parasternal/apical imaging.",
+      "explanationImage": null,
+      "tags": [
+        "Cross-Sectional Anatomy of the Thorax",
+        "Section 9 — Apical, Subcostal & Suprasternal Windows"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch03-q180",
+      "stem": "If the apical views show a foreshortened left ventricle, the sonographer should:",
+      "image": null,
+      "options": [
+        "Keep the patient supine and deepen the image",
+        "Rotate the transducer 180 degrees",
+        "Simply increase the gain",
+        "Slide laterally and inferiorly to image directly over the true apical impulse"
+      ],
+      "answer": 3,
+      "explanation": "Foreshortening is corrected by finding the true apical point, which lengthens the LV and reveals the apex. Gain and depth changes cannot fix an off-axis transducer position.",
+      "explanationImage": null,
+      "tags": [
+        "Cross-Sectional Anatomy of the Thorax",
+        "Section 10 — Normal Variants, Pitfalls & Clinical Integration"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch03-q181",
+      "stem": "Hypermobile bulging of the interatrial septum with excursion greater than 10–15 mm into either atrium describes a:",
+      "image": null,
+      "options": [
+        "Atrial septal aneurysm",
+        "Left ventricular false tendon",
+        "Moderator band",
+        "Eustachian valve"
+      ],
+      "answer": 0,
+      "explanation": "An atrial septal aneurysm is a normal-variant hypermobility of the fossa ovalis region, associated with PFO. The false tendon and moderator band are ventricular structures, and the Eustachian valve is at the IVC/RA junction.",
+      "explanationImage": null,
+      "tags": [
+        "Cross-Sectional Anatomy of the Thorax",
+        "Section 10 — Normal Variants, Pitfalls & Clinical Integration"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch03-q182",
+      "stem": "The Eustachian valve is a normal structure found:",
+      "image": null,
+      "options": [
+        "In the LV apex",
+        "On the interventricular septum",
+        "At the junction of the inferior vena cava and right atrium",
+        "On the mitral leaflets"
+      ],
+      "answer": 2,
+      "explanation": "The Eustachian valve is a remnant fetal structure guarding the IVC orifice into the RA; it can occasionally be prominent and mimic a mass. Mitral and septal locations are incorrect.",
+      "explanationImage": null,
+      "tags": [
+        "Cross-Sectional Anatomy of the Thorax",
+        "Section 10 — Normal Variants, Pitfalls & Clinical Integration"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch03-q183",
+      "stem": "A Chiari network is best described as:",
+      "image": null,
+      "options": [
+        "A pathologic mural thrombus",
+        "A left ventricular web",
+        "A calcified mitral annulus",
+        "A normal reticulated remnant in the right atrium near the IVC orifice"
+      ],
+      "answer": 3,
+      "explanation": "The Chiari network is a benign embryologic remnant in the RA that may be incidentally seen and can serve as a conduit for paradoxical emboli in PFO. It is not thrombus or calcification.",
+      "explanationImage": null,
+      "tags": [
+        "Cross-Sectional Anatomy of the Thorax",
+        "Section 10 — Normal Variants, Pitfalls & Clinical Integration"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch03-q184",
+      "stem": "Physiologic (trivial) regurgitation detected on normal adult studies most commonly involves the:",
+      "image": null,
+      "options": [
+        "Mitral valve",
+        "Pulmonic valve (and often tricuspid valve)",
+        "No valve ever shows trace regurgitation",
+        "Prosthetic aortic valve"
+      ],
+      "answer": 1,
+      "explanation": "Trace pulmonic and tricuspid regurgitation are common normal findings; physiologic mitral regurgitation is less common. Recognizing these as variants prevents overreporting valvular disease.",
+      "explanationImage": null,
+      "tags": [
+        "Cross-Sectional Anatomy of the Thorax",
+        "Section 10 — Normal Variants, Pitfalls & Clinical Integration"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch03-q185",
+      "stem": "A prominent crista terminalis, a normal ridge in the right atrium, may be mistaken on echo for:",
+      "image": null,
+      "options": [
+        "Left ventricular thrombus",
+        "Mitral valve vegetation",
+        "A mass in the right atrium along its posterior/lateral wall",
+        "Aortic dissection"
+      ],
+      "answer": 2,
+      "explanation": "The crista terminalis appears as a prominent ridge entering the RA at the SVC junction and can mimic a RA mass on 2D. Scanning from multiple planes shows its characteristic linear, continuous course.",
+      "explanationImage": null,
+      "tags": [
+        "Cross-Sectional Anatomy of the Thorax",
+        "Section 10 — Normal Variants, Pitfalls & Clinical Integration"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch03-q186",
+      "stem": "A left ventricular false tendon (web) is a:",
+      "image": null,
+      "options": [
+        "Ruptured chorda tendinea",
+        "Normal variant band of tissue crossing the LV cavity, occasionally with an abnormal precordial murmur",
+        "Intracavitary tumor",
+        "Marker of a wall motion abnormality"
+      ],
+      "answer": 1,
+      "explanation": "False tendons are thin normal bands spanning the LV cavity, sometimes causing innocent murmurs or premature beats. They are distinguished from ruptured chordae and thrombi by their fixed, linear appearance.",
+      "explanationImage": null,
+      "tags": [
+        "Cross-Sectional Anatomy of the Thorax",
+        "Section 10 — Normal Variants, Pitfalls & Clinical Integration"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch03-q187",
+      "stem": "Pectinate muscles are normally located in the:",
+      "image": null,
+      "options": [
+        "Right atrium and right atrial appendage",
+        "Left ventricular cavity",
+        "Right ventricular outflow tract",
+        "Body of the left atrium"
+      ],
+      "answer": 0,
+      "explanation": "Pectinate muscles line the RA and its appendage; the LA body is smooth-walled (pectinate muscles are confined to the LA appendage). This distinction is central to atrial appendage anatomy.",
+      "explanationImage": null,
+      "tags": [
+        "Cross-Sectional Anatomy of the Thorax",
+        "Section 10 — Normal Variants, Pitfalls & Clinical Integration"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch03-q188",
+      "stem": "The \"warfarin (coumadin) ridge,\" a normal band that can be mistaken for thrombus, lies between the:",
+      "image": null,
+      "options": [
+        "RV apex and septum",
+        "Interatrial septum and aortic root",
+        "Left atrial appendage and left pulmonary veins",
+        "Descending aorta and esophagus"
+      ],
+      "answer": 2,
+      "explanation": "The ligament/ridge between the LA appendage orifice and the left superior pulmonary vein is a normal structure that should not be called thrombus — hence the name. It is a TEE/preoperative echo finding in the LA.",
+      "explanationImage": null,
+      "tags": [
+        "Cross-Sectional Anatomy of the Thorax",
+        "Section 10 — Normal Variants, Pitfalls & Clinical Integration"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch03-q189",
+      "stem": "Mitral annular calcification, a common incidental finding, is most typical of:",
+      "image": null,
+      "options": [
+        "Children",
+        "Elderly patients, typically involving the posterior annulus",
+        "Young athletes",
+        "The right ventricular free wall"
+      ],
+      "answer": 1,
+      "explanation": "MAC is a degenerative change of the mitral ring, classically at the posterior annulus base of the posterior mitral leaflet, increasing with age. It is not a pediatric or right-sided finding.",
+      "explanationImage": null,
+      "tags": [
+        "Cross-Sectional Anatomy of the Thorax",
+        "Section 10 — Normal Variants, Pitfalls & Clinical Integration"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch03-q190",
+      "stem": "For a bedside assessment of possible tamponade in an unstable patient, the first-choice echocardiographic view is typically the:",
+      "image": null,
+      "options": [
+        "Suprasternal view",
+        "Apical four-chamber view",
+        "Parasternal long-axis view",
+        "Subcostal view"
+      ],
+      "answer": 3,
+      "explanation": "The subcostal window is fast, requires no repositioning of an arrested patient, and gives a four-chamber plus IVC assessment. Apical views require the patient to roll onto the left side.",
+      "explanationImage": null,
+      "tags": [
+        "Cross-Sectional Anatomy of the Thorax",
+        "Section 10 — Normal Variants, Pitfalls & Clinical Integration"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch03-q191",
+      "stem": "In the parasternal short-axis view at the papillary muscle level, which chambers are NOT visualized?",
+      "image": null,
+      "options": [
+        "Right and left ventricles",
+        "Right and left atria",
+        "Both papillary muscles",
+        "The interventricular septum"
+      ],
+      "answer": 1,
+      "explanation": "The papillary muscle level is apical to the AV groove, so the atria lie out of plane; only the two ventricles, septum, and papillary muscles are seen. The atria appear at the basal aortic level.",
+      "explanationImage": null,
+      "tags": [
+        "Cross-Sectional Anatomy of the Thorax",
+        "Section 10 — Normal Variants, Pitfalls & Clinical Integration"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch03-q192",
+      "stem": "To verify that an apical view is on-axis (not foreshortened), the sonographer should:",
+      "image": null,
+      "options": [
+        "Increase overall gain",
+        "Rotate to the suprasternal notch",
+        "Slide laterally/inferiorly to the true apex and confirm maximal LV length with the apex centered",
+        "Switch to a higher-frequency transducer only"
+      ],
+      "answer": 2,
+      "explanation": "An on-axis apical view shows the longest possible LV with the apex at the top of the image; sliding to the true apical impulse achieves this. Gain and frequency changes do not correct geometric foreshortening.",
+      "explanationImage": null,
+      "tags": [
+        "Cross-Sectional Anatomy of the Thorax",
+        "Section 10 — Normal Variants, Pitfalls & Clinical Integration"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch03-q193",
+      "stem": "In a patient with severe COPD and hyperinflated lungs degrading parasternal images, the preferred alternative window is:",
+      "image": null,
+      "options": [
+        "Subcostal",
+        "Suprasternal",
+        "Apical four-chamber",
+        "Parasternal long-axis"
+      ],
+      "answer": 0,
+      "explanation": "Hyperinflated lungs block the parasternal and apical windows, but the subcostal approach through the liver usually still succeeds. The suprasternal window serves the arch, not the general cardiac survey.",
+      "explanationImage": null,
+      "tags": [
+        "Cross-Sectional Anatomy of the Thorax",
+        "Section 10 — Normal Variants, Pitfalls & Clinical Integration"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch03-q194",
+      "stem": "In dextrocardia, the apical four-chamber view will show:",
+      "image": null,
+      "options": [
+        "A completely normal image orientation",
+        "A mirror-image orientation with the apex pointing to the patient's right",
+        "Only the left ventricle",
+        "No chambers at all"
+      ],
+      "answer": 1,
+      "explanation": "In dextrocardia the apex points rightward, so the four-chamber image is mirrored: the morphologic LV apex appears upper right of the image. The heart remains fully imaged, just with reversed orientation.",
+      "explanationImage": null,
+      "tags": [
+        "Cross-Sectional Anatomy of the Thorax",
+        "Section 10 — Normal Variants, Pitfalls & Clinical Integration"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch03-q195",
+      "stem": "In situs inversus with dextrocardia, the subcostal four-chamber view will demonstrate:",
+      "image": null,
+      "options": [
+        "Normal situs with the liver on the right and apex to the left",
+        "The liver on the right with the apex pointing left",
+        "The liver on the left with the cardiac apex pointing to the right",
+        "No liver visualized"
+      ],
+      "answer": 2,
+      "explanation": "Situs inversus mirrors the abdominal organs (liver left, spleen right), and with dextrocardia the apex points right. Recognizing this on the subcostal view prevents mislabeling chamber orientation.",
+      "explanationImage": null,
+      "tags": [
+        "Cross-Sectional Anatomy of the Thorax",
+        "Section 10 — Normal Variants, Pitfalls & Clinical Integration"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch03-q196",
+      "stem": "Which chamber is typically NOT seen in the standard parasternal long-axis view?",
+      "image": null,
+      "options": [
+        "Right atrium",
+        "Right ventricle/RVOT",
+        "Left ventricle",
+        "Left atrium"
+      ],
+      "answer": 0,
+      "explanation": "The PLAX plane contains the RV/RVOT, LV, LA, aortic root, MV, and a portion of the tricuspid valve at best, but the RA lies out of plane to the right. A slight tilt may show a sliver of RA.",
+      "explanationImage": null,
+      "tags": [
+        "Cross-Sectional Anatomy of the Thorax",
+        "Section 10 — Normal Variants, Pitfalls & Clinical Integration"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch03-q197",
+      "stem": "On echocardiographic images, the normal pericardium appears as:",
+      "image": null,
+      "options": [
+        "A thick anechoic band surrounding the heart",
+        "A structure that is never visible",
+        "A thin, bright (echogenic) line surrounding the heart",
+        "A structure visible only with color Doppler"
+      ],
+      "answer": 2,
+      "explanation": "The fibrous pericardium reflects ultrasound strongly, appearing as a bright echogenic border; the pericardial space is normally nearly invisible. Color Doppler adds no information about the pericardial line itself.",
+      "explanationImage": null,
+      "tags": [
+        "Cross-Sectional Anatomy of the Thorax",
+        "Section 10 — Normal Variants, Pitfalls & Clinical Integration"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch03-q198",
+      "stem": "A sagittal section through the mid-thorax lists its structures anterior to posterior as:",
+      "image": null,
+      "options": [
+        "Left atrium, aortic root, right ventricle, sternum",
+        "Sternum/chest wall, right ventricle, aortic root, left atrium, descending aorta",
+        "Spine, esophagus, right ventricle, sternum",
+        "Left atrium, right ventricle, sternum, spine"
+      ],
+      "answer": 1,
+      "explanation": "This sequence matches the lecture's sagittal anatomy: RV anteriorly near the sternum, aortic root central, LA posteriorly near the descending aorta. The other options reverse or scramble the order.",
+      "explanationImage": null,
+      "tags": [
+        "Cross-Sectional Anatomy of the Thorax",
+        "Section 10 — Normal Variants, Pitfalls & Clinical Integration"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch03-q199",
+      "stem": "The apical four-chamber view \"approximates\" rather than equals a true coronal plane because:",
+      "image": null,
+      "options": [
+        "The heart lies obliquely in the mediastinum, so the transducer plane is an oblique longitudinal section",
+        "The transducer footprint is too small for a coronal section",
+        "Coronal sections cannot be displayed on ultrasound",
+        "Only CT can produce coronal images of the heart"
+      ],
+      "answer": 0,
+      "explanation": "Because the heart is obliquely positioned, the A4C is an oblique longitudinal section that best approximates the coronal plane; it is not a true anatomic coronal cut. Ultrasound can display any plane, so C and D are false.",
+      "explanationImage": null,
+      "tags": [
+        "Cross-Sectional Anatomy of the Thorax",
+        "Section 10 — Normal Variants, Pitfalls & Clinical Integration"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch03-q200",
+      "stem": "The single most important reason cross-sectional anatomy is emphasized in echocardiography training is that:",
+      "image": null,
+      "options": [
+        "It replaces the need for Doppler measurements",
+        "It applies only to CT and MRI interpretation",
+        "Accurate echo interpretation depends on knowing the spatial relationships of chambers, valves, and vessels in every view",
+        "It directly measures ejection fraction"
+      ],
+      "answer": 2,
+      "explanation": "Every standard view (PLAX, PSAX, A4C, subcostal, suprasternal) is a predictable cross-sectional slice; recognizing which structures appear and their anterior/posterior or right/left relationships is the foundation of correct interpretation. Anatomy supplements — not replaces — Doppler data. --- **End of question bank — 200 questions.** Sections map to Lecture 3 topics: imaging planes, orientation terminology, thoracic cavity/mediastinum, heart position, chamber relationships, axial anatomy, sagittal/coronal sections and apical views, parasternal views, subcostal/suprasternal windows, and variants/pitfalls.",
+      "explanationImage": null,
+      "tags": [
+        "Cross-Sectional Anatomy of the Thorax",
+        "Section 10 — Normal Variants, Pitfalls & Clinical Integration"
       ],
       "reference": ""
     }

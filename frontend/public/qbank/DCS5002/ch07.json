@@ -1,0 +1,3806 @@
+{
+  "chapterId": "ch07",
+  "title": "Heart Failure & Circulatory Shock",
+  "questions": [
+    {
+      "id": "DCS5002-ch07-q001",
+      "stem": "The primary hemodynamic problem in heart failure is a decrease in which of the following?",
+      "image": null,
+      "options": [
+        "Heart rate",
+        "Cardiac output",
+        "Blood viscosity",
+        "Systemic vascular resistance"
+      ],
+      "answer": 1,
+      "explanation": "Heart failure is failure of the heart as a pump, and the defining consequence is a decrease in cardiac output so that blood flow is insufficient to meet the body's needs. Systemic vascular resistance often actually rises due to compensatory vasoconstriction.",
+      "explanationImage": null,
+      "tags": [
+        "Heart Failure & Circulatory Shock",
+        "Heart Failure Fundamentals and Definitions"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch07-q002",
+      "stem": "Heart failure is best defined as failure of the heart as a pump resulting in:",
+      "image": null,
+      "options": [
+        "Increased cardiac output",
+        "Decreased afterload",
+        "Valvular regurgitation",
+        "Insufficient blood flow to meet the body's needs"
+      ],
+      "answer": 3,
+      "explanation": "The lecture defines heart failure as a decrease in cardiac output resulting in insufficient blood flow to meet the body's needs. Option A is the opposite of the problem; option C is one possible cause, not the definition.",
+      "explanationImage": null,
+      "tags": [
+        "Heart Failure & Circulatory Shock",
+        "Heart Failure Fundamentals and Definitions"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch07-q003",
+      "stem": "Which feature best distinguishes *congestive* heart failure from heart failure in general?",
+      "image": null,
+      "options": [
+        "Peripheral (and pulmonary) congestion resulting from loss of pumping ability",
+        "An abnormally fast heart rate",
+        "A decreased total blood volume",
+        "Chest pain with exertion"
+      ],
+      "answer": 0,
+      "explanation": "Congestive heart failure is defined as loss of pumping ability that results in peripheral congestion; the venous and capillary congestion (edema, dyspnea) is what the term \"congestive\" describes. Tachycardia is a compensation, not the hallmark.",
+      "explanationImage": null,
+      "tags": [
+        "Heart Failure & Circulatory Shock",
+        "Heart Failure Fundamentals and Definitions"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch07-q004",
+      "stem": "\"Forward failure\" refers to:",
+      "image": null,
+      "options": [
+        "Blood backing up into the venous system",
+        "Blood flowing backward through an incompetent valve",
+        "Inadequate ejection of blood into the arterial system",
+        "Increased sympathetic nervous system activity"
+      ],
+      "answer": 2,
+      "explanation": "Forward failure describes the inadequate delivery of blood to the arterial tree and tissues, producing hypoperfusion. Backward flow through a valve (B) is regurgitation, a possible cause of failure, not the definition of forward failure.",
+      "explanationImage": null,
+      "tags": [
+        "Heart Failure & Circulatory Shock",
+        "Heart Failure Fundamentals and Definitions"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch07-q005",
+      "stem": "\"Backward failure\" refers to:",
+      "image": null,
+      "options": [
+        "Blood accumulating behind the failing ventricle, producing venous congestion",
+        "Excessive forward flow into the aorta",
+        "A decrease in ventricular filling pressure",
+        "A rapid heart rate that limits filling"
+      ],
+      "answer": 0,
+      "explanation": "In backward failure, the ventricle cannot empty completely, so pressure rises in the chamber behind it and blood \"backs up\" into the venous circulation (pulmonary or systemic), causing congestion. This is the mechanism behind the edema and dyspnea of CHF.",
+      "explanationImage": null,
+      "tags": [
+        "Heart Failure & Circulatory Shock",
+        "Heart Failure Fundamentals and Definitions"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch07-q006",
+      "stem": "Low-output heart failure is characterized by:",
+      "image": null,
+      "options": [
+        "A cardiac output insufficient for the body's metabolic demands",
+        "A cardiac output that is high but still inadequate",
+        "Occurrence only in patients with anemia",
+        "An increased ejection fraction"
+      ],
+      "answer": 0,
+      "explanation": "In low-output failure, the heart cannot generate a cardiac output adequate for metabolic needs. In high-output failure (B), output may be abnormally high, yet still insufficient for exaggerated demands.",
+      "explanationImage": null,
+      "tags": [
+        "Heart Failure & Circulatory Shock",
+        "Heart Failure Fundamentals and Definitions"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch07-q007",
+      "stem": "Which of the following conditions can produce *high-output* heart failure?",
+      "image": null,
+      "options": [
+        "Systemic hypertension",
+        "Aortic stenosis",
+        "A large arteriovenous fistula",
+        "Acute myocardial infarction"
+      ],
+      "answer": 2,
+      "explanation": "An arteriovenous fistula shunts blood directly from artery to vein, greatly increasing venous return and cardiac workload; other classic high-output states include anemia and thyrotoxicosis. Hypertension and aortic stenosis are pressure-overload (low-output) causes.",
+      "explanationImage": null,
+      "tags": [
+        "Heart Failure & Circulatory Shock",
+        "Heart Failure Fundamentals and Definitions"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch07-q008",
+      "stem": "Why does the heart eventually fail in high-output states?",
+      "image": null,
+      "options": [
+        "Contractility is intrinsically decreased in these states",
+        "The valves fail from the high flow",
+        "Afterload falls so low that the ventricle cannot generate pressure",
+        "Despite an increased output, metabolic demands still exceed what the heart can supply"
+      ],
+      "answer": 3,
+      "explanation": "In high-output failure the heart pumps more blood than normal, but the body's needs (e.g., for oxygen in anemia, or because of shunted flow) exceed even this augmented output, so the heart decompensates. Contractility is not intrinsically depressed (A).",
+      "explanationImage": null,
+      "tags": [
+        "Heart Failure & Circulatory Shock",
+        "Heart Failure Fundamentals and Definitions"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch07-q009",
+      "stem": "Acute heart failure differs from chronic heart failure in that acute failure:",
+      "image": null,
+      "options": [
+        "Develops over years with myocardial hypertrophy",
+        "Always affects the right side of the heart",
+        "Develops suddenly (e.g., after a large MI) before compensatory mechanisms can become established",
+        "Produces a normal cardiac output"
+      ],
+      "answer": 2,
+      "explanation": "Acute failure occurs abruptly, such as with a large myocardial infarction or acute valve rupture, before long-term compensations (hypertrophy, RAAS expansion) develop. Chronic failure (A) is the gradually compensated form.",
+      "explanationImage": null,
+      "tags": [
+        "Heart Failure & Circulatory Shock",
+        "Heart Failure Fundamentals and Definitions"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch07-q010",
+      "stem": "The word \"congestive\" in CHF refers primarily to:",
+      "image": null,
+      "options": [
+        "Accumulation of fluid and blood in the pulmonary or systemic circulation",
+        "Accumulation of pericardial fluid",
+        "Congestion of the coronary arteries with atherosclerotic plaque",
+        "A rise in hemoglobin concentration"
+      ],
+      "answer": 0,
+      "explanation": "\"Congestive\" describes the pooling and accumulation of fluid behind the failing ventricle — pulmonary congestion with left-sided failure and systemic congestion (edema, ascites) with right-sided failure. Coronary plaque (C) is a cause, not the meaning of the term.",
+      "explanationImage": null,
+      "tags": [
+        "Heart Failure & Circulatory Shock",
+        "Heart Failure Fundamentals and Definitions"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch07-q011",
+      "stem": "On echocardiography, systolic dysfunction is indicated by an ejection fraction that is:",
+      "image": null,
+      "options": [
+        "Greater than 55%",
+        "Normal for age",
+        "Increased above normal",
+        "Reduced, typically below 40%"
+      ],
+      "answer": 3,
+      "explanation": "Systolic failure means impaired contraction, reflected echocardiographically by a reduced ejection fraction (commonly cited as <40%). A normal or increased EF with symptoms suggests diastolic dysfunction instead.",
+      "explanationImage": null,
+      "tags": [
+        "Heart Failure & Circulatory Shock",
+        "Heart Failure Fundamentals and Definitions"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch07-q012",
+      "stem": "Which of the following is NOT listed as a cause of congestive heart failure?",
+      "image": null,
+      "options": [
+        "Hypertension",
+        "Osteoarthritis of the knees",
+        "Valvular heart disease",
+        "Cardiomyopathies"
+      ],
+      "answer": 1,
+      "explanation": "The lecture's etiologies for CHF include myocardial infarction, hypertension, valvular heart disease, and cardiomyopathies. Degenerative joint disease does not impair pump function.",
+      "explanationImage": null,
+      "tags": [
+        "Heart Failure & Circulatory Shock",
+        "Heart Failure Fundamentals and Definitions"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch07-q013",
+      "stem": "The primary hemodynamic consequence of left ventricular systolic failure is:",
+      "image": null,
+      "options": [
+        "Decreased stroke volume and cardiac output",
+        "An increased ejection fraction",
+        "A decreased left ventricular end-diastolic pressure",
+        "A decreased pulmonary artery pressure"
+      ],
+      "answer": 0,
+      "explanation": "Poor systolic contraction reduces stroke volume and cardiac output. End-diastolic pressure actually rises (C is wrong) because blood accumulates in the failing ventricle, which is what drives pulmonary congestion.",
+      "explanationImage": null,
+      "tags": [
+        "Heart Failure & Circulatory Shock",
+        "Heart Failure Fundamentals and Definitions"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch07-q014",
+      "stem": "When cardiac output falls, the body's earliest response is activation of the:",
+      "image": null,
+      "options": [
+        "Parasympathetic nervous system",
+        "Vasodilator systems",
+        "Renin release inhibitor pathways",
+        "Sympathetic nervous system"
+      ],
+      "answer": 3,
+      "explanation": "Falling output triggers increased SNS activity (tachycardia, increased contractility, vasoconstriction) as an immediate compensation. Parasympathetic activation (A) and vasodilation (B) would worsen hypoperfusion.",
+      "explanationImage": null,
+      "tags": [
+        "Heart Failure & Circulatory Shock",
+        "Heart Failure Fundamentals and Definitions"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch07-q015",
+      "stem": "The classification of CHF as \"right-sided\" versus \"left-sided\" is based on:",
+      "image": null,
+      "options": [
+        "The measured ejection fraction",
+        "Which ventricle predominantly fails",
+        "The resting heart rate",
+        "The presence or absence of chest pain"
+      ],
+      "answer": 1,
+      "explanation": "Right- versus left-sided failure is defined by which ventricle is predominantly failing, which determines whether congestion appears in the systemic or pulmonary circulation. EF (A) distinguishes systolic from diastolic failure, a separate axis of classification.",
+      "explanationImage": null,
+      "tags": [
+        "Heart Failure & Circulatory Shock",
+        "Heart Failure Fundamentals and Definitions"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch07-q016",
+      "stem": "A patient whose heart cannot pump effectively develops dyspnea and peripheral edema. The hallmark that labels this condition \"congestive\" heart failure is:",
+      "image": null,
+      "options": [
+        "A high-output state",
+        "Concurrent aortic stenosis",
+        "Peripheral and pulmonary congestion",
+        "A pericardial effusion"
+      ],
+      "answer": 2,
+      "explanation": "CHF is defined by loss of pumping ability resulting in congestion of blood and fluid in the tissues behind the failing chambers. A pericardial effusion (D) is a separate disease process and a cause of obstructive shock.",
+      "explanationImage": null,
+      "tags": [
+        "Heart Failure & Circulatory Shock",
+        "Heart Failure Fundamentals and Definitions"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch07-q017",
+      "stem": "In the phrase \"failure of the heart as a pump,\" the heart is failing in its role as a:",
+      "image": null,
+      "options": [
+        "Electrical generator",
+        "Blood filter",
+        "Passive conduit",
+        "Pump"
+      ],
+      "answer": 3,
+      "explanation": "The lecture's core definition: heart failure is failure of the heart *as a pump*, i.e., mechanical ejection of blood, not primarily an electrical (A) or filtration (B) problem. (Conduction problems can contribute, but the failure is of pumping.)",
+      "explanationImage": null,
+      "tags": [
+        "Heart Failure & Circulatory Shock",
+        "Heart Failure Fundamentals and Definitions"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch07-q018",
+      "stem": "Decreased renal blood flow in heart failure leads to:",
+      "image": null,
+      "options": [
+        "Activation of the renin-angiotensin mechanism with sodium and water retention",
+        "A brisk water diuresis",
+        "Decreased aldosterone secretion",
+        "Loss of the ability to concentrate urine"
+      ],
+      "answer": 0,
+      "explanation": "Reduced renal perfusion activates the renin-angiotensin-aldosterone system, causing sodium and water retention, which contributes to the fluid overload and edema of CHF. Diuresis (B) is the opposite of what occurs.",
+      "explanationImage": null,
+      "tags": [
+        "Heart Failure & Circulatory Shock",
+        "Heart Failure Fundamentals and Definitions"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch07-q019",
+      "stem": "Which statement about heart failure is TRUE?",
+      "image": null,
+      "options": [
+        "It affects only the left ventricle",
+        "It is always a chronic condition",
+        "Either ventricle may fail, and in many patients both fail together",
+        "It always presents with a reduced ejection fraction"
+      ],
+      "answer": 2,
+      "explanation": "Failure can be right-sided, left-sided, or biventricular; in fact, left-sided failure commonly progresses to right-sided failure. Heart failure may be acute (B) or chronic, and may be systolic or diastolic (D).",
+      "explanationImage": null,
+      "tags": [
+        "Heart Failure & Circulatory Shock",
+        "Heart Failure Fundamentals and Definitions"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch07-q020",
+      "stem": "Ultimately, the tissues of a patient with heart failure:",
+      "image": null,
+      "options": [
+        "Receive more oxygen than required",
+        "Receive blood flow insufficient for their metabolic needs",
+        "Are unaffected as long as the heart rate is normal",
+        "Become hyperoxic due to increased extraction"
+      ],
+      "answer": 1,
+      "explanation": "By definition, heart failure means blood flow is insufficient to meet the body's needs; the clinical manifestations (fatigue, cyanosis, organ dysfunction) all follow from this. A normal heart rate does not guarantee an adequate cardiac output. ---",
+      "explanationImage": null,
+      "tags": [
+        "Heart Failure & Circulatory Shock",
+        "Etiology and Classification of CHF"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch07-q021",
+      "stem": "All of the following are common etiologies of CHF EXCEPT:",
+      "image": null,
+      "options": [
+        "Myocardial infarction",
+        "Hypertension",
+        "Isolated atherosclerosis of the femoral arteries without myocardial infarction",
+        "Valvular heart disease"
+      ],
+      "answer": 2,
+      "explanation": "Peripheral arterial disease that has never damaged the myocardium does not itself cause pump failure; the CHF etiologies listed are MI, hypertension, valvular disease, and cardiomyopathies. Atherosclerosis causes CHF only when it produces myocardial injury.",
+      "explanationImage": null,
+      "tags": [
+        "Heart Failure & Circulatory Shock",
+        "Etiology and Classification of CHF"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch07-q022",
+      "stem": "How can atherosclerosis result in CHF?",
+      "image": null,
+      "options": [
+        "Coronary plaque causes myocardial infarction, and the loss of contractile tissue impairs the heart's pumping ability",
+        "Plaque directly thickens the pericardium",
+        "Atherosclerosis dilates the ventricle through embolization to the legs",
+        "Plaque increases blood viscosity until the pump fails"
+      ],
+      "answer": 0,
+      "explanation": "The key pathway is ischemia/infarction: coronary plaque occludes a vessel, myocardium dies or becomes dysfunctional, and the remaining contractile mass cannot maintain cardiac output. Blood viscosity (D) is not meaningfully changed by plaque.",
+      "explanationImage": null,
+      "tags": [
+        "Heart Failure & Circulatory Shock",
+        "Etiology and Classification of CHF"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch07-q023",
+      "stem": "Untreated systemic hypertension leads to heart failure primarily by:",
+      "image": null,
+      "options": [
+        "Destroying the valve leaflets",
+        "Causing severe anemia",
+        "Producing profound bradycardia",
+        "Increasing afterload, causing left ventricular hypertrophy and eventual pump dysfunction"
+      ],
+      "answer": 3,
+      "explanation": "Chronic pressure overload forces the LV to hypertrophy; over time this maladaptive remodeling stiffens and weakens the ventricle, producing diastolic and eventually systolic failure. The valves are not directly injured by hypertension.",
+      "explanationImage": null,
+      "tags": [
+        "Heart Failure & Circulatory Shock",
+        "Etiology and Classification of CHF"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch07-q024",
+      "stem": "Systolic heart failure is characterized by:",
+      "image": null,
+      "options": [
+        "Impaired ventricular relaxation with a normal ejection fraction",
+        "Impaired contraction with a reduced ejection fraction",
+        "Normal-sized chambers with thick walls only",
+        "Isolated right atrial enlargement"
+      ],
+      "answer": 1,
+      "explanation": "Systolic failure is a disorder of contraction: the ventricle ejects poorly and the EF falls. Impaired relaxation with preserved EF (A) defines diastolic failure.",
+      "explanationImage": null,
+      "tags": [
+        "Heart Failure & Circulatory Shock",
+        "Etiology and Classification of CHF"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch07-q025",
+      "stem": "Diastolic heart failure is characterized by:",
+      "image": null,
+      "options": [
+        "A dilated ventricle with a low ejection fraction",
+        "Impaired filling and relaxation with a preserved ejection fraction",
+        "Hyperdynamic contraction with an EF above 80%",
+        "Isolated tricuspid stenosis"
+      ],
+      "answer": 1,
+      "explanation": "In diastolic failure the myocardium relaxes abnormally (often stiff and thickened), so filling is impaired and filling pressures rise, but EF is normal or preserved. A dilated ventricle with low EF (A) is systolic failure.",
+      "explanationImage": null,
+      "tags": [
+        "Heart Failure & Circulatory Shock",
+        "Etiology and Classification of CHF"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch07-q026",
+      "stem": "Which valvular lesion most directly produces the volume overload that leads to CHF?",
+      "image": null,
+      "options": [
+        "Aortic stenosis",
+        "Mitral stenosis",
+        "Mitral regurgitation",
+        "Pulmonary stenosis"
+      ],
+      "answer": 2,
+      "explanation": "Mitral regurgitation lets systolic flow leak back into the left atrium, volume-overloading the LA and LV and eventually causing dilation and failure. Aortic and pulmonary stenosis are pressure-overload lesions, and mitral stenosis primarily obstructs LA emptying.",
+      "explanationImage": null,
+      "tags": [
+        "Heart Failure & Circulatory Shock",
+        "Etiology and Classification of CHF"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch07-q027",
+      "stem": "An echocardiogram shows EF 60%, concentric LV hypertrophy, an E/A reversal filling pattern, and LA enlargement. This patient's heart failure is:",
+      "image": null,
+      "options": [
+        "Diastolic",
+        "Systolic",
+        "High-output",
+        "Right-sided only"
+      ],
+      "answer": 0,
+      "explanation": "A preserved EF with hypertrophy, abnormal relaxation, and LA enlargement is the classic echo picture of diastolic (HFpEF) failure. The EF of 60% rules out systolic failure (B).",
+      "explanationImage": null,
+      "tags": [
+        "Heart Failure & Circulatory Shock",
+        "Etiology and Classification of CHF"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch07-q028",
+      "stem": "Which cardiomyopathy is most associated with systolic heart failure?",
+      "image": null,
+      "options": [
+        "Hypertrophic cardiomyopathy",
+        "Restrictive cardiomyopathy",
+        "Concentric LVH without dilation",
+        "Dilated cardiomyopathy"
+      ],
+      "answer": 3,
+      "explanation": "Dilated cardiomyopathy features enlarged, poorly contracting ventricles with reduced EF — the prototype of systolic failure. Hypertrophic and restrictive disease primarily impair filling (diastolic problems).",
+      "explanationImage": null,
+      "tags": [
+        "Heart Failure & Circulatory Shock",
+        "Etiology and Classification of CHF"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch07-q029",
+      "stem": "Chronic pressure overload on the left ventricle is typified by:",
+      "image": null,
+      "options": [
+        "Systemic hypertension",
+        "Severe anemia",
+        "A large AV fistula",
+        "Thyrotoxicosis"
+      ],
+      "answer": 0,
+      "explanation": "Hypertension (and aortic stenosis) forces the LV to eject against chronically elevated resistance, producing concentric hypertrophy. Anemia, AV fistula, and thyrotoxicosis are high-output, volume-flow states rather than pressure-overload states.",
+      "explanationImage": null,
+      "tags": [
+        "Heart Failure & Circulatory Shock",
+        "Etiology and Classification of CHF"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch07-q030",
+      "stem": "The role of echocardiography in a patient suspected of CHF is to:",
+      "image": null,
+      "options": [
+        "Measure the heart rate at rest",
+        "Detect only pericardial effusion",
+        "Assess EF, chamber sizes, wall motion, and valve function to identify the cause and type of failure",
+        "Directly measure cardiac output from the arm veins"
+      ],
+      "answer": 2,
+      "explanation": "Echo is the central diagnostic tool in CHF: it quantifies systolic function (EF), evaluates diastolic filling, measures chamber sizes, and identifies causative lesions such as valve disease or regional infarction. It does not measure heart rate (A) or cardiac output by venous access (D).",
+      "explanationImage": null,
+      "tags": [
+        "Heart Failure & Circulatory Shock",
+        "Etiology and Classification of CHF"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch07-q031",
+      "stem": "A 58-year-old man 3 weeks post-MI has EF 28% and a dilated, diffusely hypokinetic LV. His heart failure is:",
+      "image": null,
+      "options": [
+        "Diastolic with preserved EF",
+        "Systolic",
+        "High-output",
+        "Normal"
+      ],
+      "answer": 1,
+      "explanation": "A large infarction with a dilated, hypokinetic ventricle and EF 28% is textbook systolic failure from loss of contractile tissue. EF is markedly reduced, excluding diastolic failure (A).",
+      "explanationImage": null,
+      "tags": [
+        "Heart Failure & Circulatory Shock",
+        "Etiology and Classification of CHF"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch07-q032",
+      "stem": "A 70-year-old hypertensive woman has exertional dyspnea, EF 62%, a thick non-dilated LV, and poor relaxation on Doppler. The most likely diagnosis is:",
+      "image": null,
+      "options": [
+        "Systolic failure",
+        "High-output failure",
+        "Isolated RV failure",
+        "Diastolic failure"
+      ],
+      "answer": 3,
+      "explanation": "Hypertension plus thick walls, preserved EF, and impaired relaxation indicate diastolic failure with elevated filling pressures. This is the classic hypertensive heart disease → HFpEF pathway.",
+      "explanationImage": null,
+      "tags": [
+        "Heart Failure & Circulatory Shock",
+        "Etiology and Classification of CHF"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch07-q033",
+      "stem": "Severe aortic stenosis progresses to heart failure through which mechanism?",
+      "image": null,
+      "options": [
+        "Volume overload of the right ventricle",
+        "Anemia from hemolysis",
+        "Primary electrical failure",
+        "Chronic pressure overload causing hypertrophy and eventual pump failure"
+      ],
+      "answer": 3,
+      "explanation": "The stenotic valve creates chronic afterload excess; the LV hypertrophies, becomes stiff and eventually fails to eject effectively. The overload is pressure (not volume, A) in nature.",
+      "explanationImage": null,
+      "tags": [
+        "Heart Failure & Circulatory Shock",
+        "Etiology and Classification of CHF"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch07-q034",
+      "stem": "Ischemic cardiomyopathy is best described as:",
+      "image": null,
+      "options": [
+        "Diffuse LV systolic dysfunction resulting from coronary artery disease and prior infarction",
+        "Right ventricular failure caused by lung disease",
+        "A high-output state from anemia",
+        "Neurogenic shock affecting the myocardium"
+      ],
+      "answer": 0,
+      "explanation": "In ischemic cardiomyopathy, multivessel coronary disease with one or more infarctions leaves widespread non-functioning myocardium, producing low EF and CHF. Options B and C describe other entities entirely.",
+      "explanationImage": null,
+      "tags": [
+        "Heart Failure & Circulatory Shock",
+        "Etiology and Classification of CHF"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch07-q035",
+      "stem": "Valvular heart disease causes CHF mainly by:",
+      "image": null,
+      "options": [
+        "Blocking the conduction system",
+        "Producing anemia",
+        "Imposing hemodynamic volume or pressure overload on the chambers",
+        "Constricting the pericardium"
+      ],
+      "answer": 2,
+      "explanation": "Stenotic lesions create pressure overload and regurgitant lesions create volume overload; either chronically overloads the affected chamber until it dilates/hypertrophies and fails. Conduction block (A) may accompany some disease but is not the main mechanism.",
+      "explanationImage": null,
+      "tags": [
+        "Heart Failure & Circulatory Shock",
+        "Etiology and Classification of CHF"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch07-q036",
+      "stem": "The earliest Doppler echocardiographic sign of diastolic dysfunction is typically:",
+      "image": null,
+      "options": [
+        "An EF below 30%",
+        "An impaired relaxation pattern (E/A reversal) with prolonged deceleration time",
+        "Severe RV dilation",
+        "A dilated IVC"
+      ],
+      "answer": 1,
+      "explanation": "As the stiff ventricle relaxes poorly, early passive filling (E wave) decreases relative to atrial filling (A wave), producing the E/A reversal of grade I diastolic dysfunction. EF reduction (A) reflects systolic, not diastolic, impairment.",
+      "explanationImage": null,
+      "tags": [
+        "Heart Failure & Circulatory Shock",
+        "Etiology and Classification of CHF"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch07-q037",
+      "stem": "The echocardiographic hallmark of dilated cardiomyopathy is:",
+      "image": null,
+      "options": [
+        "Small, thick-walled ventricles with normal EF",
+        "Dilated ventricles with globally reduced systolic function",
+        "A thickened pericardium with normal chambers",
+        "Isolated right atrial myxoma"
+      ],
+      "answer": 1,
+      "explanation": "DCM shows four-chamber dilation with diffuse hypokinesis and low EF — a systolic failure picture. Small thick ventricles with normal EF (A) suggest hypertrophic or restrictive disease.",
+      "explanationImage": null,
+      "tags": [
+        "Heart Failure & Circulatory Shock",
+        "Etiology and Classification of CHF"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch07-q038",
+      "stem": "Chronic mitral regurgitation causes volume overload of which chambers?",
+      "image": null,
+      "options": [
+        "Right ventricle only",
+        "Aorta",
+        "Right atrium only",
+        "Left atrium and left ventricle"
+      ],
+      "answer": 3,
+      "explanation": "Regurgitant flow returns to the LA during systole and recycles through the LV in diastole, so both left-sided chambers receive excess volume and dilate over time. The right heart is affected only secondarily.",
+      "explanationImage": null,
+      "tags": [
+        "Heart Failure & Circulatory Shock",
+        "Etiology and Classification of CHF"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch07-q039",
+      "stem": "High-output heart failure is classically associated with:",
+      "image": null,
+      "options": [
+        "Anemia, thyrotoxicosis, and arteriovenous fistula",
+        "Systemic hypertension",
+        "Aortic stenosis",
+        "Chronic bradycardia"
+      ],
+      "answer": 0,
+      "explanation": "These states raise metabolic demand or shunt flow, requiring abnormally high cardiac output until the heart can no longer sustain it. Hypertension and aortic stenosis cause low-output, pressure-overload failure.",
+      "explanationImage": null,
+      "tags": [
+        "Heart Failure & Circulatory Shock",
+        "Etiology and Classification of CHF"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch07-q040",
+      "stem": "Rupture of an atherosclerotic coronary plaque leads to CHF by which sequence?",
+      "image": null,
+      "options": [
+        "Embolization of plaque material to the brain",
+        "A sudden decrease in afterload",
+        "Acute coronary occlusion → myocardial infarction → necrosis → reduced contractility",
+        "Immediate dilation of all four chambers"
+      ],
+      "answer": 2,
+      "explanation": "Plaque rupture acutely occludes the vessel, infarcting myocardium; the lost contractile tissue lowers stroke volume and cardiac output, producing (acute) heart failure. Brain embolization (A) causes stroke, not pump failure. ---",
+      "explanationImage": null,
+      "tags": [
+        "Heart Failure & Circulatory Shock",
+        "Left-Sided vs Right-Sided Heart Failure"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch07-q041",
+      "stem": "The most common causes of left-sided heart failure include:",
+      "image": null,
+      "options": [
+        "Myocardial infarction and systemic hypertension",
+        "COPD and pulmonary embolism",
+        "Pulmonary embolism and tricuspid regurgitation",
+        "Ischemic right ventricular infarction"
+      ],
+      "answer": 0,
+      "explanation": "The left ventricle fails most often from ischemic injury (MI) and chronic pressure overload (hypertension). COPD, PE, and tricuspid lesions primarily stress the right heart.",
+      "explanationImage": null,
+      "tags": [
+        "Heart Failure & Circulatory Shock",
+        "Left-Sided vs Right-Sided Heart Failure"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch07-q042",
+      "stem": "Classic findings of right-sided heart failure include:",
+      "image": null,
+      "options": [
+        "Bibasilar rales and orthopnea",
+        "Paroxysmal nocturnal dyspnea",
+        "Jugular venous distension, peripheral edema, hepatomegaly, and ascites",
+        "An S3 gallop with pink frothy sputum"
+      ],
+      "answer": 2,
+      "explanation": "Right-sided failure backs blood into the systemic venous circulation, producing JVD, dependent edema, liver congestion, and ascites. Rales, orthopnea, and frothy sputum (A, B, D) reflect pulmonary congestion of left-sided failure.",
+      "explanationImage": null,
+      "tags": [
+        "Heart Failure & Circulatory Shock",
+        "Left-Sided vs Right-Sided Heart Failure"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch07-q043",
+      "stem": "Dyspnea, orthopnea, and bibasilar rales indicate:",
+      "image": null,
+      "options": [
+        "Right-sided heart failure",
+        "Left-sided heart failure with pulmonary congestion",
+        "Hypovolemic shock",
+        "Neurogenic shock"
+      ],
+      "answer": 1,
+      "explanation": "When the left ventricle fails, blood backs into the lungs, flooding alveoli and producing rales and dyspnea, especially when supine (orthopnea). These signs are pulmonary, not systemic venous.",
+      "explanationImage": null,
+      "tags": [
+        "Heart Failure & Circulatory Shock",
+        "Left-Sided vs Right-Sided Heart Failure"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch07-q044",
+      "stem": "Right-sided heart failure most often results from:",
+      "image": null,
+      "options": [
+        "Aortic stenosis",
+        "Severe anemia",
+        "An AV fistula",
+        "Left-sided failure producing pulmonary hypertension"
+      ],
+      "answer": 3,
+      "explanation": "Left-sided failure elevates pulmonary venous and arterial pressures, chronically increasing RV afterload until the right ventricle itself fails. Most right-sided failure is downstream of left-sided failure.",
+      "explanationImage": null,
+      "tags": [
+        "Heart Failure & Circulatory Shock",
+        "Left-Sided vs Right-Sided Heart Failure"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch07-q045",
+      "stem": "Cor pulmonale is best defined as:",
+      "image": null,
+      "options": [
+        "Left ventricular failure from MI",
+        "Dilation of the left atrium from mitral stenosis",
+        "A congenital anomaly of the aorta",
+        "Right ventricular failure secondary to primary lung disease or pulmonary hypertension"
+      ],
+      "answer": 3,
+      "explanation": "Cor pulmonale specifically denotes RV enlargement/failure caused by lung disorders (e.g., COPD) that raise pulmonary vascular resistance. It is a right-heart syndrome, not a primary LV problem.",
+      "explanationImage": null,
+      "tags": [
+        "Heart Failure & Circulatory Shock",
+        "Left-Sided vs Right-Sided Heart Failure"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch07-q046",
+      "stem": "Ascites (free fluid in the peritoneal cavity) is most characteristically associated with:",
+      "image": null,
+      "options": [
+        "Right-sided heart failure",
+        "Left-sided heart failure",
+        "Neurogenic shock",
+        "High-output failure"
+      ],
+      "answer": 0,
+      "explanation": "Systemic venous hypertension from RV failure transudes fluid into the peritoneal cavity, producing ascites. Left-sided failure causes pulmonary, not peritoneal, congestion.",
+      "explanationImage": null,
+      "tags": [
+        "Heart Failure & Circulatory Shock",
+        "Left-Sided vs Right-Sided Heart Failure"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch07-q047",
+      "stem": "Orthopnea is defined as:",
+      "image": null,
+      "options": [
+        "Dyspnea while sitting upright at rest",
+        "Dyspnea only while walking",
+        "Dyspnea when lying flat, relieved by sitting up",
+        "Dyspnea that occurs exclusively during sleep"
+      ],
+      "answer": 2,
+      "explanation": "In the recumbent position, blood pooled in the legs redistributes into the chest and raises pulmonary congestion, so the supine patient becomes breathless and must sit up or prop on pillows. Dyspnea during sleep (D) describes paroxysmal nocturnal dyspnea.",
+      "explanationImage": null,
+      "tags": [
+        "Heart Failure & Circulatory Shock",
+        "Left-Sided vs Right-Sided Heart Failure"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch07-q048",
+      "stem": "In the majority of patients with CHF, the chamber that fails first is the:",
+      "image": null,
+      "options": [
+        "Right atrium",
+        "Left ventricle",
+        "Right ventricle",
+        "Left atrium"
+      ],
+      "answer": 1,
+      "explanation": "The LV bears the burden of systemic pressure and most commonly fails first (ischemia, hypertension); RV failure then frequently follows. Primary isolated RA failure does not occur as a clinical syndrome.",
+      "explanationImage": null,
+      "tags": [
+        "Heart Failure & Circulatory Shock",
+        "Left-Sided vs Right-Sided Heart Failure"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch07-q049",
+      "stem": "Paroxysmal nocturnal dyspnea (PND) is:",
+      "image": null,
+      "options": [
+        "Chest pain occurring only at night",
+        "Dyspnea that occurs only when standing",
+        "Waking from sleep with severe dyspnea and gasping, relieved by sitting up",
+        "Apnea noticed by the bed partner"
+      ],
+      "answer": 2,
+      "explanation": "PND is a classic left-heart failure symptom: hours after lying down, redistributed fluid worsens pulmonary congestion and the patient wakes acutely breathless. It is dyspnea, not pain (A), and not sleep apnea (D).",
+      "explanationImage": null,
+      "tags": [
+        "Heart Failure & Circulatory Shock",
+        "Left-Sided vs Right-Sided Heart Failure"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch07-q050",
+      "stem": "Which combination of findings points to RIGHT-sided failure?",
+      "image": null,
+      "options": [
+        "Rales plus an S3 gallop",
+        "Orthopnea plus PND",
+        "Dyspnea plus pink frothy sputum",
+        "Jugular venous distension plus dependent edema plus hepatomegaly"
+      ],
+      "answer": 3,
+      "explanation": "JVD, peripheral edema, and hepatic congestion are systemic venous findings that define right-sided failure. Options A–C are pulmonary congestion findings of left-sided failure.",
+      "explanationImage": null,
+      "tags": [
+        "Heart Failure & Circulatory Shock",
+        "Left-Sided vs Right-Sided Heart Failure"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch07-q051",
+      "stem": "In left-sided heart failure, blood backs up into the:",
+      "image": null,
+      "options": [
+        "Pulmonary circulation (pulmonary veins and capillaries)",
+        "Systemic venous circulation",
+        "Coronary sinus only",
+        "Portal venous system"
+      ],
+      "answer": 0,
+      "explanation": "A failing LV cannot empty, so pressure rises in the LA and pulmonary veins, flooding the lungs. Systemic venous backup (B, D) is the signature of right-sided failure.",
+      "explanationImage": null,
+      "tags": [
+        "Heart Failure & Circulatory Shock",
+        "Left-Sided vs Right-Sided Heart Failure"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch07-q052",
+      "stem": "In right-sided heart failure, blood backs up into the:",
+      "image": null,
+      "options": [
+        "Lungs",
+        "Systemic venous circulation",
+        "Aorta",
+        "Left ventricle"
+      ],
+      "answer": 1,
+      "explanation": "RV failure raises right atrial and systemic venous pressures, producing JVD, edema, hepatomegaly, and ascites. Pulmonary backup (A) belongs to left-sided failure.",
+      "explanationImage": null,
+      "tags": [
+        "Heart Failure & Circulatory Shock",
+        "Left-Sided vs Right-Sided Heart Failure"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch07-q053",
+      "stem": "A patient presents with dyspnea, orthopnea, bibasilar rales, and an S3 gallop. The most likely diagnosis is:",
+      "image": null,
+      "options": [
+        "Right-sided heart failure",
+        "Left-sided congestive heart failure",
+        "Hypovolemic shock",
+        "Cardiac tamponade"
+      ],
+      "answer": 1,
+      "explanation": "This constellation — exertional/positional dyspnea, pulmonary rales, and an S3 from a volume-loaded ventricle — is classic left-sided CHF. Hypovolemic shock (C) would present with cool, clammy skin and low filling pressures, not rales.",
+      "explanationImage": null,
+      "tags": [
+        "Heart Failure & Circulatory Shock",
+        "Left-Sided vs Right-Sided Heart Failure"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch07-q054",
+      "stem": "A patient presents with jugular venous distension, pitting edema, ascites, and a tender enlarged liver. The most likely diagnosis is:",
+      "image": null,
+      "options": [
+        "Right-sided congestive heart failure",
+        "Left-sided heart failure",
+        "Septic shock",
+        "High-output failure"
+      ],
+      "answer": 0,
+      "explanation": "All of these findings reflect systemic venous congestion from RV failure. Hepatomegaly with tenderness results from hepatic venous congestion; these signs would not appear from pure LV failure.",
+      "explanationImage": null,
+      "tags": [
+        "Heart Failure & Circulatory Shock",
+        "Left-Sided vs Right-Sided Heart Failure"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch07-q055",
+      "stem": "Why does left-sided heart failure so often progress to right-sided heart failure?",
+      "image": null,
+      "options": [
+        "The two ventricles share a single blood supply only",
+        "Left failure produces arrhythmias that damage the RV",
+        "Sympathetic stimulation selectively weakens the RV",
+        "Pulmonary venous congestion raises pulmonary artery pressure, increasing RV afterload"
+      ],
+      "answer": 3,
+      "explanation": "Chronic pulmonary congestion elevates pulmonary vascular resistance; the RV must pump against this increased afterload and eventually fails. This pressure-transfer mechanism, not arrhythmias (B), explains the progression.",
+      "explanationImage": null,
+      "tags": [
+        "Heart Failure & Circulatory Shock",
+        "Left-Sided vs Right-Sided Heart Failure"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch07-q056",
+      "stem": "The most common cause of right-sided heart failure is:",
+      "image": null,
+      "options": [
+        "Pulmonary embolism",
+        "COPD",
+        "Left-sided heart failure",
+        "Tricuspid stenosis"
+      ],
+      "answer": 2,
+      "explanation": "Left-sided failure, through pulmonary hypertension, is the leading cause of RV failure. PE and COPD are important primary right-heart causes but are less common overall.",
+      "explanationImage": null,
+      "tags": [
+        "Heart Failure & Circulatory Shock",
+        "Left-Sided vs Right-Sided Heart Failure"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch07-q057",
+      "stem": "Which condition most directly causes cor pulmonale?",
+      "image": null,
+      "options": [
+        "Systemic hypertension",
+        "Mitral regurgitation",
+        "Aortic stenosis",
+        "COPD"
+      ],
+      "answer": 3,
+      "explanation": "COPD destroys pulmonary capillary beds and raises pulmonary vascular resistance, chronically overloading the RV — the definition of cor pulmonale. Systemic hypertension and aortic stenosis load the LV.",
+      "explanationImage": null,
+      "tags": [
+        "Heart Failure & Circulatory Shock",
+        "Left-Sided vs Right-Sided Heart Failure"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch07-q058",
+      "stem": "An elevated pulmonary capillary wedge pressure (PCWP) suggests:",
+      "image": null,
+      "options": [
+        "Isolated right ventricular failure",
+        "Left-sided failure with pulmonary venous congestion",
+        "Hypovolemia",
+        "Neurogenic shock"
+      ],
+      "answer": 1,
+      "explanation": "PCWP reflects left atrial pressure; it rises when the failing LV cannot empty, backing blood into the pulmonary circuit. In hypovolemia (C) PCWP is low; isolated RV failure does not by itself elevate PCWP.",
+      "explanationImage": null,
+      "tags": [
+        "Heart Failure & Circulatory Shock",
+        "Left-Sided vs Right-Sided Heart Failure"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch07-q059",
+      "stem": "Typical echocardiographic findings in right-sided failure include:",
+      "image": null,
+      "options": [
+        "A small RA with a hyperdynamic RV",
+        "A thick, small LV with normal EF",
+        "Dilated RA and RV, often with tricuspid regurgitation and a dilated IVC",
+        "An aortic root dissection flap"
+      ],
+      "answer": 2,
+      "explanation": "Chronic RV volume/pressure overload dilates the RA and RV; TR is common from annular stretching, and central venous pressure is high (dilated, non-collapsing IVC). These differ from the LV findings of left-sided failure.",
+      "explanationImage": null,
+      "tags": [
+        "Heart Failure & Circulatory Shock",
+        "Left-Sided vs Right-Sided Heart Failure"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch07-q060",
+      "stem": "Which statement is TRUE regarding left- versus right-sided failure?",
+      "image": null,
+      "options": [
+        "Right-sided failure manifests primarily as systemic venous congestion",
+        "Right-sided failure begins with rales",
+        "Left-sided failure first produces jugular venous distension",
+        "Both types always produce identical symptoms"
+      ],
+      "answer": 0,
+      "explanation": "Right-sided failure backs blood into the systemic veins (edema, JVD, ascites); left-sided failure backs into the lungs (rales, dyspnea). The two syndromes have distinct, though often overlapping, manifestations. ---",
+      "explanationImage": null,
+      "tags": [
+        "Heart Failure & Circulatory Shock",
+        "Clinical Manifestations of CHF"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch07-q061",
+      "stem": "The clinical manifestations of CHF reflect:",
+      "image": null,
+      "options": [
+        "Impaired pumping ability only",
+        "Decreased renal blood flow only",
+        "Increased sympathetic nervous system activity only",
+        "Impaired pumping ability, decreased renal blood flow, and increased SNS activity"
+      ],
+      "answer": 3,
+      "explanation": "Per the lecture, all three mechanisms combine to produce the manifestations: low output causes fatigue and hypoperfusion, poor renal flow causes fluid retention, and SNS overdrive causes tachycardia and vasoconstriction.",
+      "explanationImage": null,
+      "tags": [
+        "Heart Failure & Circulatory Shock",
+        "Clinical Manifestations of CHF"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch07-q062",
+      "stem": "Fluid retention and edema in CHF are largely due to:",
+      "image": null,
+      "options": [
+        "Increased urinary sodium excretion",
+        "RAAS activation with aldosterone-driven sodium and water retention secondary to decreased renal perfusion",
+        "Decreased antidiuretic hormone",
+        "An increased ejection fraction"
+      ],
+      "answer": 1,
+      "explanation": "The failing heart perfuses the kidneys poorly; the kidneys respond by activating renin-angiotensin-aldosterone, retaining sodium and water that then accumulate as edema. Sodium excretion (A) and ADH suppression (C) are the opposite of what occurs.",
+      "explanationImage": null,
+      "tags": [
+        "Heart Failure & Circulatory Shock",
+        "Clinical Manifestations of CHF"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch07-q063",
+      "stem": "The earliest symptom of left-sided failure is usually:",
+      "image": null,
+      "options": [
+        "Dyspnea on exertion",
+        "Ascites",
+        "Cyanosis of the lips",
+        "Profound cachexia"
+      ],
+      "answer": 0,
+      "explanation": "Breathlessness during activity appears first because the failing heart cannot augment output for exercise; at rest the compensation still suffices. Cachexia and ascites are late findings.",
+      "explanationImage": null,
+      "tags": [
+        "Heart Failure & Circulatory Shock",
+        "Clinical Manifestations of CHF"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch07-q064",
+      "stem": "A patient states he needs three pillows to sleep without becoming breathless. This symptom is:",
+      "image": null,
+      "options": [
+        "Paroxysmal nocturnal dyspnea",
+        "Sleep apnea",
+        "Orthopnea",
+        "Platypnea"
+      ],
+      "answer": 2,
+      "explanation": "Orthopnea is breathlessness in the recumbent position, quantified by the number of pillows needed. PND (A) refers to episodes that wake the patient from sleep, not simply the need for elevation.",
+      "explanationImage": null,
+      "tags": [
+        "Heart Failure & Circulatory Shock",
+        "Clinical Manifestations of CHF"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch07-q065",
+      "stem": "Fatigue in heart failure is primarily due to:",
+      "image": null,
+      "options": [
+        "Polycythemia",
+        "Fever",
+        "Decreased cardiac output to skeletal muscles",
+        "Hyperglycemia"
+      ],
+      "answer": 2,
+      "explanation": "With reduced cardiac output, skeletal muscle receives inadequate blood flow, so ordinary activity causes tiredness and weakness. This impaired perfusion, not metabolic changes like fever, is the direct cause.",
+      "explanationImage": null,
+      "tags": [
+        "Heart Failure & Circulatory Shock",
+        "Clinical Manifestations of CHF"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch07-q066",
+      "stem": "Cachexia and malnutrition in advanced chronic heart failure result from:",
+      "image": null,
+      "options": [
+        "Excessive appetite with high caloric intake",
+        "Simple obesity",
+        "Digoxin overdose in every case",
+        "Chronic anorexia with GI venous congestion and the metabolic demands of the failing heart"
+      ],
+      "answer": 3,
+      "explanation": "Congested gut viscera impair absorption, appetite is suppressed, and the chronically failing heart elevates metabolic demand — together producing the wasting (cardiac cachexia) of end-stage disease. It is a process of consumption, not overeating.",
+      "explanationImage": null,
+      "tags": [
+        "Heart Failure & Circulatory Shock",
+        "Clinical Manifestations of CHF"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch07-q067",
+      "stem": "Cyanosis in CHF results from:",
+      "image": null,
+      "options": [
+        "Polycythemia vera",
+        "Poor tissue perfusion and oxygenation from low cardiac output",
+        "Fever",
+        "Excess oxygen delivery"
+      ],
+      "answer": 1,
+      "explanation": "Sluggish flow and low output increase oxygen extraction and desaturation of capillary blood, giving lips, nails, and skin a bluish tint. It signals inadequate oxygen delivery, a feature of both severe HF and shock.",
+      "explanationImage": null,
+      "tags": [
+        "Heart Failure & Circulatory Shock",
+        "Clinical Manifestations of CHF"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch07-q068",
+      "stem": "Fine crackles (rales) heard at the lung bases indicate:",
+      "image": null,
+      "options": [
+        "Pulmonary venous congestion and edema from left-sided failure",
+        "Right ventricular failure",
+        "Hypovolemia",
+        "Right-to-left shunting"
+      ],
+      "answer": 0,
+      "explanation": "Fluid leaking into alveoli from engorged pulmonary capillaries produces the crackles of pulmonary edema — a left-heart finding. Right-sided failure causes systemic edema, not lung crackles.",
+      "explanationImage": null,
+      "tags": [
+        "Heart Failure & Circulatory Shock",
+        "Clinical Manifestations of CHF"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch07-q069",
+      "stem": "Nocturia (frequent nighttime urination) in heart failure occurs because:",
+      "image": null,
+      "options": [
+        "The patient drinks more water during the day than normal people",
+        "Recumbency mobilizes edema fluid, increasing renal blood flow and urine formation at night",
+        "Aldosterone levels rise sharply during sleep",
+        "It indicates uncontrolled diabetes"
+      ],
+      "answer": 1,
+      "explanation": "When the patient lies down, previously dependent edema fluid returns to the circulation and the better-perfused kidneys excrete it, producing frequent nighttime voiding. It is a redistribution phenomenon, not a primary drinking behavior.",
+      "explanationImage": null,
+      "tags": [
+        "Heart Failure & Circulatory Shock",
+        "Clinical Manifestations of CHF"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch07-q070",
+      "stem": "Pitting edema over the ankles and shins in CHF is:",
+      "image": null,
+      "options": [
+        "Dependent edema from fluid retention and venous congestion, gravity-accumulated in the lowest tissues",
+        "A local skin infection",
+        "Lymphatic tumor blockage",
+        "An allergic welt"
+      ],
+      "answer": 0,
+      "explanation": "Retained salt and water under elevated venous pressure collects where hydrostatic pressure is greatest — the dependent lower extremities — and \"pits\" when pressed. Infection, tumor, and allergy have different mechanisms and appearances.",
+      "explanationImage": null,
+      "tags": [
+        "Heart Failure & Circulatory Shock",
+        "Clinical Manifestations of CHF"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch07-q071",
+      "stem": "Decreased urine output in heart failure and shock is caused by:",
+      "image": null,
+      "options": [
+        "An increased glomerular filtration rate",
+        "Diabetes insipidus",
+        "Decreased renal perfusion with RAAS-mediated sodium and water retention",
+        "Diuretic overdose"
+      ],
+      "answer": 2,
+      "explanation": "The kidneys, protecting circulating volume, reduce filtration and avidly reabsorb sodium and water when renal blood flow falls; oliguria is therefore an index of hypoperfusion. GFR is decreased (A is wrong).",
+      "explanationImage": null,
+      "tags": [
+        "Heart Failure & Circulatory Shock",
+        "Clinical Manifestations of CHF"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch07-q072",
+      "stem": "An S3 gallop heard in an adult with heart failure reflects:",
+      "image": null,
+      "options": [
+        "A normal finding at any age",
+        "Aortic stenosis",
+        "A high-output state",
+        "Volume overload and rapid filling of a dilated, failing ventricle"
+      ],
+      "answer": 3,
+      "explanation": "The S3 occurs during the rapid-filling phase when an overloaded, dilated ventricle receives blood abruptly — a classic sign of ventricular volume overload in CHF. It is abnormal in adults over about 40.",
+      "explanationImage": null,
+      "tags": [
+        "Heart Failure & Circulatory Shock",
+        "Clinical Manifestations of CHF"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch07-q073",
+      "stem": "The respiratory problems of CHF (dyspnea, orthopnea, cough) result primarily from:",
+      "image": null,
+      "options": [
+        "Pulmonary congestion and edema",
+        "Pneumothorax",
+        "Severe anemia",
+        "Isolated pleural effusion without congestion"
+      ],
+      "answer": 0,
+      "explanation": "Engorged pulmonary vessels and interstitial/alveolar edema stiffen the lungs and stimulate breathing reflexes, producing breathlessness and cough. Pneumothorax and anemia are separate mechanisms not inherent to CHF.",
+      "explanationImage": null,
+      "tags": [
+        "Heart Failure & Circulatory Shock",
+        "Clinical Manifestations of CHF"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch07-q074",
+      "stem": "A rapid gain of 2–3 kg over several days in a CHF patient most likely represents:",
+      "image": null,
+      "options": [
+        "Fat accumulation",
+        "Overeating",
+        "Fluid retention",
+        "Muscle hypertrophy"
+      ],
+      "answer": 2,
+      "explanation": "Retained fluid weighs about 1 kg per liter; rapid weight gain in HF is edema fluid accumulating, an early warning of decompensation that precedes visible edema. Tissue gain of that speed is not physiologically possible.",
+      "explanationImage": null,
+      "tags": [
+        "Heart Failure & Circulatory Shock",
+        "Clinical Manifestations of CHF"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch07-q075",
+      "stem": "A 62-year-old presents with progressive dyspnea, orthopnea, rales, and an S3. The most likely diagnosis is:",
+      "image": null,
+      "options": [
+        "Right ventricular failure",
+        "Hypovolemic shock",
+        "Cor pulmonale",
+        "Left-sided congestive heart failure"
+      ],
+      "answer": 3,
+      "explanation": "Dyspnea, orthopnea, rales, and S3 are the textbook manifestations of left-sided CHF with pulmonary congestion. Cor pulmonale (C) would show systemic congestion (JVD, edema, ascites) without rales.",
+      "explanationImage": null,
+      "tags": [
+        "Heart Failure & Circulatory Shock",
+        "Clinical Manifestations of CHF"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch07-q076",
+      "stem": "Marked weight loss and muscle wasting in a patient with long-standing heart failure is termed:",
+      "image": null,
+      "options": [
+        "Fluid overload",
+        "Cardiac cachexia",
+        "Thyrotoxicosis",
+        "Sarcopenia of obesity"
+      ],
+      "answer": 1,
+      "explanation": "Cardiac cachexia is the malnutrition and wasting of advanced chronic HF, driven by poor intake, gut congestion, and inflammatory metabolic demand. It is an ominous prognostic sign, not fluid gain.",
+      "explanationImage": null,
+      "tags": [
+        "Heart Failure & Circulatory Shock",
+        "Clinical Manifestations of CHF"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch07-q077",
+      "stem": "Manifestations of increased sympathetic activity in heart failure include:",
+      "image": null,
+      "options": [
+        "Bradycardia and hypotension",
+        "Warm, flushed skin with strong pulses",
+        "Tachycardia with cool, pale extremities",
+        "Increased urine output"
+      ],
+      "answer": 2,
+      "explanation": "SNS activation raises heart rate and contractility but also constricts peripheral vessels, diverting blood centrally; the skin becomes cool, pale, and clammy. Warm flushed skin (B) suggests distributive (vasodilatory) states instead.",
+      "explanationImage": null,
+      "tags": [
+        "Heart Failure & Circulatory Shock",
+        "Clinical Manifestations of CHF"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch07-q078",
+      "stem": "Weakness and exercise intolerance in heart failure are primarily caused by:",
+      "image": null,
+      "options": [
+        "Excessive prior exercise",
+        "Low cardiac output delivering insufficient blood to skeletal muscle",
+        "Excessive skeletal blood flow",
+        "Increased myocardial contractility"
+      ],
+      "answer": 1,
+      "explanation": "Muscles cannot sustain activity without adequate perfusion; low output therefore produces easy fatigability. Options C and D describe the opposite hemodynamics.",
+      "explanationImage": null,
+      "tags": [
+        "Heart Failure & Circulatory Shock",
+        "Clinical Manifestations of CHF"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch07-q079",
+      "stem": "Why does urine output paradoxically increase at night in CHF patients?",
+      "image": null,
+      "options": [
+        "The recumbent position improves venous return and renal perfusion, increasing urine formation",
+        "Standing compresses the bladder",
+        "Aldosterone falls to zero at night",
+        "The kidneys fail completely at night"
+      ],
+      "answer": 0,
+      "explanation": "Lying flat redistributes edema fluid centrally and improves renal blood flow, so the kidneys excrete the mobilized fluid — hence nocturia. This is hemodynamically driven, not a bladder-position effect.",
+      "explanationImage": null,
+      "tags": [
+        "Heart Failure & Circulatory Shock",
+        "Clinical Manifestations of CHF"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch07-q080",
+      "stem": "Which of the following is NOT a typical manifestation of CHF?",
+      "image": null,
+      "options": [
+        "Fatigue",
+        "Dyspnea",
+        "Dependent edema",
+        "Polyuria with rapid weight loss"
+      ],
+      "answer": 3,
+      "explanation": "CHF retains fluid (weight gain, edema) and produces fatigue and dyspnea; brisk polyuria with weight loss is not a heart-failure pattern. The listed manifestations per lecture are fluid retention, respiratory problems, fatigue, cachexia, and cyanosis. ---",
+      "explanationImage": null,
+      "tags": [
+        "Heart Failure & Circulatory Shock",
+        "Compensatory Mechanisms"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch07-q081",
+      "stem": "Frank-Starling's law of the heart states that the ventricles contract with increased force when:",
+      "image": null,
+      "options": [
+        "The heart rate increases",
+        "More blood enters the heart (increased preload/EDV)",
+        "The afterload increases",
+        "Contractility decreases"
+      ],
+      "answer": 1,
+      "explanation": "The law states ventricles contract with increased force when more blood enters: stretch of myofilaments during filling enhances the strength of contraction. Heart rate (A) is regulated separately from this length-tension relationship.",
+      "explanationImage": null,
+      "tags": [
+        "Heart Failure & Circulatory Shock",
+        "Compensatory Mechanisms"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch07-q082",
+      "stem": "In early heart failure, the Frank-Starling mechanism compensates by:",
+      "image": null,
+      "options": [
+        "Increasing end-diastolic volume, which stretches the ventricle and increases stroke volume",
+        "Decreasing heart rate to prolong filling",
+        "Producing peripheral vasodilation",
+        "Reducing venous return to the heart"
+      ],
+      "answer": 0,
+      "explanation": "Retained volume increases preload; the stretched ventricle ejects more forcefully, helping maintain cardiac output. This is the first-line compensation of the failing heart.",
+      "explanationImage": null,
+      "tags": [
+        "Heart Failure & Circulatory Shock",
+        "Compensatory Mechanisms"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch07-q083",
+      "stem": "Prolonged reliance on the Frank-Starling mechanism eventually becomes harmful because:",
+      "image": null,
+      "options": [
+        "It always improves output indefinitely",
+        "It lowers ventricular filling pressures",
+        "It decreases wall stress",
+        "The ventricle dilates, filling pressures rise, and pulmonary/systemic congestion develops"
+      ],
+      "answer": 3,
+      "explanation": "An over-stretched, dilated ventricle reaches a point where further dilation reduces efficiency; elevated end-diastolic pressures back up into the lungs and periphery, producing the congestion of CHF. Compensation has a breaking point.",
+      "explanationImage": null,
+      "tags": [
+        "Heart Failure & Circulatory Shock",
+        "Compensatory Mechanisms"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch07-q084",
+      "stem": "Increased sympathetic nervous system activity in heart failure produces:",
+      "image": null,
+      "options": [
+        "Bradycardia and decreased contractility",
+        "Decreased contractility with vasodilation",
+        "Tachycardia, increased contractility, and peripheral vasoconstriction",
+        "Selective bronchoconstriction"
+      ],
+      "answer": 2,
+      "explanation": "Norepinephrine accelerates the heart, strengthens contraction, and constricts veins and arteries — all of which support blood pressure and output in the short term. These same effects chronically increase cardiac workload.",
+      "explanationImage": null,
+      "tags": [
+        "Heart Failure & Circulatory Shock",
+        "Compensatory Mechanisms"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch07-q085",
+      "stem": "Renin is released from the kidneys when:",
+      "image": null,
+      "options": [
+        "Renal perfusion pressure decreases",
+        "Arterial pressure increases",
+        "Sodium intake is very high",
+        "Aldosterone levels are very low"
+      ],
+      "answer": 0,
+      "explanation": "Reduced renal blood flow and pressure (as in CHF) stimulate the juxtaglomerular cells to release renin, launching the RAAS cascade. High pressure (B) suppresses renin release.",
+      "explanationImage": null,
+      "tags": [
+        "Heart Failure & Circulatory Shock",
+        "Compensatory Mechanisms"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch07-q086",
+      "stem": "Angiotensin II acts to:",
+      "image": null,
+      "options": [
+        "Vasodilate arterioles",
+        "Inhibit aldosterone secretion",
+        "Produce potent vasoconstriction and stimulate aldosterone release",
+        "Increase sodium loss in urine"
+      ],
+      "answer": 2,
+      "explanation": "Angiotensin II is a powerful vasoconstrictor that also triggers adrenal aldosterone release, raising both afterload and blood volume — supportive acutely, harmful chronically. It does not vasodilate or natriurese.",
+      "explanationImage": null,
+      "tags": [
+        "Heart Failure & Circulatory Shock",
+        "Compensatory Mechanisms"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch07-q087",
+      "stem": "Aldosterone promotes:",
+      "image": null,
+      "options": [
+        "Sodium excretion and water loss",
+        "Sodium and water retention with potassium excretion",
+        "Vasodilation of veins",
+        "A decrease in preload"
+      ],
+      "answer": 1,
+      "explanation": "Aldosterone acts on renal tubules to retain sodium and water (expanding blood volume and preload) while excreting potassium. Chronic aldosterone excess contributes to edema and myocardial fibrosis.",
+      "explanationImage": null,
+      "tags": [
+        "Heart Failure & Circulatory Shock",
+        "Compensatory Mechanisms"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch07-q088",
+      "stem": "Chronic activation of the RAAS in heart failure becomes harmful because it causes:",
+      "image": null,
+      "options": [
+        "Improved ventricular filling without cost",
+        "Natriuresis and weight loss",
+        "A sustained fall in afterload",
+        "Volume overload, increased afterload, and adverse ventricular remodeling"
+      ],
+      "answer": 3,
+      "explanation": "The very mechanisms that support output short-term (retained volume, vasoconstriction) eventually overfill and overload the failing ventricle and drive fibrotic remodeling — the rationale for ACE inhibitors in treatment.",
+      "explanationImage": null,
+      "tags": [
+        "Heart Failure & Circulatory Shock",
+        "Compensatory Mechanisms"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch07-q089",
+      "stem": "Myocardial hypertrophy in chronic heart failure initially:",
+      "image": null,
+      "options": [
+        "Decreases the contractile muscle mass",
+        "Reduces myocardial oxygen demand",
+        "Impairs the heart's ability to contract",
+        "Helps maintain cardiac output by increasing the contractile muscle mass and wall thickness"
+      ],
+      "answer": 3,
+      "explanation": "Enlarging muscle mass and thickened walls allow the overloaded ventricle to generate more force and sustain output; only later does hypertrophy become maladaptive (stiffness, ischemia, cell death).",
+      "explanationImage": null,
+      "tags": [
+        "Heart Failure & Circulatory Shock",
+        "Compensatory Mechanisms"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch07-q090",
+      "stem": "Concentric hypertrophy — thick walls with a normal-sized chamber — results from:",
+      "image": null,
+      "options": [
+        "Pressure overload (e.g., hypertension, aortic stenosis)",
+        "Volume overload",
+        "Severe anemia",
+        "An AV fistula"
+      ],
+      "answer": 0,
+      "explanation": "Chronically ejecting against high pressure adds sarcomeres in parallel, thickening the wall without dilating the chamber. Volume overload (B) produces eccentric dilation instead.",
+      "explanationImage": null,
+      "tags": [
+        "Heart Failure & Circulatory Shock",
+        "Compensatory Mechanisms"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch07-q091",
+      "stem": "Eccentric hypertrophy — a dilated chamber with relatively thin walls — results from:",
+      "image": null,
+      "options": [
+        "Chronic pressure overload",
+        "Chronic bradycardia",
+        "Chronic volume overload (e.g., mitral regurgitation)",
+        "Hypertrophic cardiomyopathy"
+      ],
+      "answer": 2,
+      "explanation": "Volume overload serially adds sarcomeres as the chamber enlarges to accommodate the excess volume; the ventricle dilates, as seen in chronic MR or AR. Pressure overload produces the concentric pattern.",
+      "explanationImage": null,
+      "tags": [
+        "Heart Failure & Circulatory Shock",
+        "Compensatory Mechanisms"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch07-q092",
+      "stem": "Long-standing hypertrophy eventually becomes harmful because:",
+      "image": null,
+      "options": [
+        "The thickened wall stiffens, compliance falls, and the hypertrophied muscle outgrows its blood supply, leading to ischemia and cell death",
+        "Oxygen demand always decreases",
+        "Compliance increases indefinitely",
+        "Relaxation becomes faster and more complete"
+      ],
+      "answer": 0,
+      "explanation": "Hypertrophied myocardium has higher oxygen needs, reduced capillary density, and stiffer walls; ischemia, impaired relaxation, and myocyte death follow, converting compensated hypertrophy into failure.",
+      "explanationImage": null,
+      "tags": [
+        "Heart Failure & Circulatory Shock",
+        "Compensatory Mechanisms"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch07-q093",
+      "stem": "Why does chronic SNS activation become detrimental in heart failure?",
+      "image": null,
+      "options": [
+        "It always improves long-term survival",
+        "It reduces afterload chronically",
+        "Receptors downregulate, and sustained tachycardia/vasoconstriction increase cardiac workload and promote remodeling",
+        "It decreases heart rate"
+      ],
+      "answer": 2,
+      "explanation": "Persistent catecholamine drive desensitizes receptors, raises heart rate and wall stress, and accelerates ventricular remodeling — the reason beta blockers, which blunt this drive, improve survival.",
+      "explanationImage": null,
+      "tags": [
+        "Heart Failure & Circulatory Shock",
+        "Compensatory Mechanisms"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch07-q094",
+      "stem": "\"Compensated\" heart failure means:",
+      "image": null,
+      "options": [
+        "Cardiac output is normal with no adaptive mechanism",
+        "There is no structural change in the heart",
+        "The patient is hypotensive and oliguric",
+        "Compensatory mechanisms maintain an adequate cardiac output at rest, though the heart remains structurally abnormal"
+      ],
+      "answer": 3,
+      "explanation": "In compensation, Frank-Starling stretch, SNS drive, RAAS retention, and hypertrophy together hold output near normal and the patient is relatively stable — but the underlying pump is still diseased.",
+      "explanationImage": null,
+      "tags": [
+        "Heart Failure & Circulatory Shock",
+        "Compensatory Mechanisms"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch07-q095",
+      "stem": "\"Decompensated\" heart failure means:",
+      "image": null,
+      "options": [
+        "Compensatory mechanisms can no longer maintain output, so congestion and hypoperfusion worsen",
+        "The heart has fully recovered",
+        "Only the right atrium is involved",
+        "The patient has no symptoms"
+      ],
+      "answer": 0,
+      "explanation": "Decompensation is the failure of compensation: filling pressures rise, edema and dyspnea intensify, and perfusion falls — an emergency requiring intensification of therapy.",
+      "explanationImage": null,
+      "tags": [
+        "Heart Failure & Circulatory Shock",
+        "Compensatory Mechanisms"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch07-q096",
+      "stem": "ACE inhibitors improve heart failure by:",
+      "image": null,
+      "options": [
+        "Increasing angiotensin II formation",
+        "Blocking conversion of angiotensin I to II, reducing vasoconstriction and volume retention",
+        "Directly increasing contractility",
+        "Blocking beta-adrenergic receptors"
+      ],
+      "answer": 1,
+      "explanation": "By interrupting the renin-angiotensin cascade, ACE inhibitors lower afterload (less vasoconstriction) and preload (less aldosterone-driven volume) and slow remodeling. Option D describes beta blockers, a different drug class.",
+      "explanationImage": null,
+      "tags": [
+        "Heart Failure & Circulatory Shock",
+        "Compensatory Mechanisms"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch07-q097",
+      "stem": "Beta blockers are used in chronic heart failure because they:",
+      "image": null,
+      "options": [
+        "Blunt chronic SNS overactivity, reducing heart rate, workload, and remodeling",
+        "Instantly increase contractility",
+        "Promote sodium retention",
+        "Constrict the peripheral vessels"
+      ],
+      "answer": 0,
+      "explanation": "Although they acutely reduce contractility, long-term beta blockade protects the heart from catecholamine excess, lowers heart rate and wall stress, and improves survival. Option D is the opposite of beta blockade.",
+      "explanationImage": null,
+      "tags": [
+        "Heart Failure & Circulatory Shock",
+        "Compensatory Mechanisms"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch07-q098",
+      "stem": "Digoxin acts in heart failure as a:",
+      "image": null,
+      "options": [
+        "Peripheral vasodilator",
+        "Diuretic",
+        "Positive inotrope that increases the force of contraction",
+        "Beta blocker"
+      ],
+      "answer": 2,
+      "explanation": "Digoxin inhibits the sodium-potassium pump, indirectly increasing intracellular calcium and strengthening contraction — a positive inotrope useful for low-output states. It does not vasodilate or block receptors.",
+      "explanationImage": null,
+      "tags": [
+        "Heart Failure & Circulatory Shock",
+        "Compensatory Mechanisms"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch07-q099",
+      "stem": "Diuretics help the CHF patient by:",
+      "image": null,
+      "options": [
+        "Increasing blood volume",
+        "Increasing preload",
+        "Raising blood pressure",
+        "Reducing blood volume and preload, thereby relieving congestion"
+      ],
+      "answer": 3,
+      "explanation": "By promoting sodium and water excretion, diuretics shrink the intravascular volume, lower filling pressures, and reduce pulmonary and peripheral edema. Increasing volume/preload (A, B) is precisely the opposite.",
+      "explanationImage": null,
+      "tags": [
+        "Heart Failure & Circulatory Shock",
+        "Compensatory Mechanisms"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch07-q100",
+      "stem": "In the first minutes after an acute blood loss, the most immediately activated compensation is:",
+      "image": null,
+      "options": [
+        "The renin-angiotensin system",
+        "The sympathetic nervous system (tachycardia and vasoconstriction)",
+        "Myocardial hypertrophy",
+        "Increased ADH secretion alone"
+      ],
+      "answer": 1,
+      "explanation": "Baroreceptor-mediated SNS activation acts within seconds to raise heart rate and constrict vessels; RAAS and ADH contribute over minutes to hours, and hypertrophy takes weeks. Hypertrophy (C) is irrelevant to acute blood loss. ---",
+      "explanationImage": null,
+      "tags": [
+        "Heart Failure & Circulatory Shock",
+        "Treatment and Management of Heart Failure"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch07-q101",
+      "stem": "The goals of heart failure treatment are to:",
+      "image": null,
+      "options": [
+        "Cure the cardiomyopathy in all patients",
+        "Eliminate all medications quickly",
+        "Reduce symptoms, prolong life, and slow disease progression",
+        "Maximize sodium intake to support blood pressure"
+      ],
+      "answer": 2,
+      "explanation": "Per the lecture, treatment aims to reduce symptoms, prolong life, and slow progression of the disease. Heart failure is generally managed, not cured, and sodium restriction — not maximization — is a cornerstone of therapy.",
+      "explanationImage": null,
+      "tags": [
+        "Heart Failure & Circulatory Shock",
+        "Treatment and Management of Heart Failure"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch07-q102",
+      "stem": "Sodium and fluid restriction in CHF is prescribed to:",
+      "image": null,
+      "options": [
+        "Increase intravascular volume",
+        "Stimulate aldosterone release",
+        "Weaken the myocardium",
+        "Reduce the volume of retained fluid, lowering preload and congestion"
+      ],
+      "answer": 3,
+      "explanation": "Limiting intake of salt and water reduces the fluid the failing heart must accommodate, decreasing filling pressures and edema. Restriction addresses the same problem as diuretics, from the intake side.",
+      "explanationImage": null,
+      "tags": [
+        "Heart Failure & Circulatory Shock",
+        "Treatment and Management of Heart Failure"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch07-q103",
+      "stem": "Carefully designed exercise programs benefit CHF patients by:",
+      "image": null,
+      "options": [
+        "Maximizing cardiac workload at all times",
+        "Improving peripheral muscle conditioning and functional capacity without overloading the heart",
+        "Replacing the need for all medications",
+        "Guaranteeing reversal of ventricular dilation"
+      ],
+      "answer": 1,
+      "explanation": "Supervised, graded exercise counteracts the deconditioning and skeletal-muscle weakness of low-output states while avoiding excessive cardiac stress. It complements, but does not replace, medical therapy.",
+      "explanationImage": null,
+      "tags": [
+        "Heart Failure & Circulatory Shock",
+        "Treatment and Management of Heart Failure"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch07-q104",
+      "stem": "Diuretics are prescribed in CHF primarily to:",
+      "image": null,
+      "options": [
+        "Strengthen myocardial contraction",
+        "Remove excess retained sodium and water, relieving edema and pulmonary congestion",
+        "Slow the heart rate",
+        "Dilate the coronary arteries"
+      ],
+      "answer": 1,
+      "explanation": "Diuretics are the direct answer to the fluid retention produced by RAAS activation; they lower filling pressures and relieve congestion. Inotropic support (A) is digoxin's role.",
+      "explanationImage": null,
+      "tags": [
+        "Heart Failure & Circulatory Shock",
+        "Treatment and Management of Heart Failure"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch07-q105",
+      "stem": "Digoxin improves cardiac performance by:",
+      "image": null,
+      "options": [
+        "Blocking beta-adrenergic receptors",
+        "Inhibiting the sodium-potassium pump, increasing intracellular calcium and the force of contraction",
+        "Blocking angiotensin II formation",
+        "Promoting rapid sodium excretion"
+      ],
+      "answer": 1,
+      "explanation": "Digoxin's mechanism is inhibition of the Na-K-ATPase, which raises intracellular calcium availability and produces positive inotropy. ACE inhibition (C) and beta blockade (A) are the mechanisms of other drug classes.",
+      "explanationImage": null,
+      "tags": [
+        "Heart Failure & Circulatory Shock",
+        "Treatment and Management of Heart Failure"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch07-q106",
+      "stem": "Beta blockers benefit chronic heart failure by:",
+      "image": null,
+      "options": [
+        "Reducing heart rate and cardiac workload while protecting against harmful chronic SNS stimulation",
+        "Increasing heart rate to raise output",
+        "Retaining fluid to support preload",
+        "Directly dissolving coronary plaque"
+      ],
+      "answer": 0,
+      "explanation": "Blunting catecholamine drive lowers heart rate and wall stress, allowing improved filling and slower remodeling; beta blockers are proven to reduce mortality in stable systolic failure. Raising heart rate (B) is the opposite effect.",
+      "explanationImage": null,
+      "tags": [
+        "Heart Failure & Circulatory Shock",
+        "Treatment and Management of Heart Failure"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch07-q107",
+      "stem": "ACE inhibitors are a cornerstone of CHF therapy because they:",
+      "image": null,
+      "options": [
+        "Increase both preload and afterload",
+        "Act as positive inotropes",
+        "Reduce afterload and preload and attenuate adverse ventricular remodeling",
+        "Cause sodium retention"
+      ],
+      "answer": 2,
+      "explanation": "Blocking angiotensin II lowers vasoconstrictive afterload and aldosterone-mediated volume (preload), and slows the structural remodeling that drives progression. Sodium retention is what ACE inhibition *prevents*.",
+      "explanationImage": null,
+      "tags": [
+        "Heart Failure & Circulatory Shock",
+        "Treatment and Management of Heart Failure"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch07-q108",
+      "stem": "A patient on an ACE inhibitor develops a persistent dry cough. This is due to:",
+      "image": null,
+      "options": [
+        "Fluid overload",
+        "Digoxin toxicity",
+        "Accumulation of bradykinin, which ACE inhibition also permits",
+        "Excess angiotensin II"
+      ],
+      "answer": 2,
+      "explanation": "ACE also degrades bradykinin; inhibiting it allows bradykinin to accumulate in the lungs, producing the characteristic dry cough. Angiotensin II is *reduced* by these drugs, not increased (D).",
+      "explanationImage": null,
+      "tags": [
+        "Heart Failure & Circulatory Shock",
+        "Treatment and Management of Heart Failure"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch07-q109",
+      "stem": "Which set of findings suggests digoxin toxicity?",
+      "image": null,
+      "options": [
+        "Polyuria and weight gain",
+        "Hypertension and flushing",
+        "Nausea, visual disturbances (yellow-green halos), and new arrhythmias",
+        "Improved exercise tolerance with no side effects"
+      ],
+      "answer": 2,
+      "explanation": "Digoxin toxicity classically presents with GI upset, characteristic visual changes, and arrhythmias — an important risk because the drug has a narrow therapeutic window, especially in hypokalemic patients.",
+      "explanationImage": null,
+      "tags": [
+        "Heart Failure & Circulatory Shock",
+        "Treatment and Management of Heart Failure"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch07-q110",
+      "stem": "Which treatment most directly reduces preload?",
+      "image": null,
+      "options": [
+        "Digoxin",
+        "Dobutamine",
+        "Beta blockers",
+        "Diuretics (with sodium/fluid restriction)"
+      ],
+      "answer": 3,
+      "explanation": "Diuretics and restriction act directly on volume, the principal determinant of preload. Digoxin and dobutamine raise contractility, and beta blockers slow the rate — none primarily removes volume.",
+      "explanationImage": null,
+      "tags": [
+        "Heart Failure & Circulatory Shock",
+        "Treatment and Management of Heart Failure"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch07-q111",
+      "stem": "Exercise must be \"carefully designed\" for CHF patients because:",
+      "image": null,
+      "options": [
+        "Any exercise is prohibited",
+        "Excessive exertion can exceed the limited cardiac reserve, while inactivity worsens deconditioning",
+        "Exercise always cures the underlying disease",
+        "Exercise replaces sodium restriction"
+      ],
+      "answer": 1,
+      "explanation": "The failing heart has little reserve; activity must be titrated to build peripheral conditioning without precipitating decompensation. Complete rest and unsupervised intense exercise are both harmful extremes.",
+      "explanationImage": null,
+      "tags": [
+        "Heart Failure & Circulatory Shock",
+        "Treatment and Management of Heart Failure"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch07-q112",
+      "stem": "The first priority in treating acute decompensated heart failure with pulmonary edema is:",
+      "image": null,
+      "options": [
+        "Starting a marathon training program",
+        "Increasing salt intake",
+        "Improving hemodynamics — reducing congestion and restoring adequate output",
+        "Stopping all diuretics"
+      ],
+      "answer": 2,
+      "explanation": "Acute decompensation demands rapid relief of congestion (diuretics, preload/afterload reduction) and support of output; lifestyle counseling and exercise apply to stable disease, not the acute crisis.",
+      "explanationImage": null,
+      "tags": [
+        "Heart Failure & Circulatory Shock",
+        "Treatment and Management of Heart Failure"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch07-q113",
+      "stem": "Which lifestyle modification is most central to CHF management?",
+      "image": null,
+      "options": [
+        "A high-sodium diet",
+        "Unlimited fluid intake",
+        "Sodium and fluid restriction with a carefully designed exercise program",
+        "Complete bed rest indefinitely"
+      ],
+      "answer": 2,
+      "explanation": "The lecture lists sodium/fluid restriction and carefully designed exercise programs as the lifestyle pillars of treatment. High sodium intake would worsen retention, and indefinite bed rest accelerates deconditioning.",
+      "explanationImage": null,
+      "tags": [
+        "Heart Failure & Circulatory Shock",
+        "Treatment and Management of Heart Failure"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch07-q114",
+      "stem": "Long-term beta-blocker therapy lowers mortality in heart failure primarily by:",
+      "image": null,
+      "options": [
+        "Blocking the deleterious effects of chronic sympathetic overstimulation and slowing remodeling",
+        "Increasing heart rate",
+        "Increasing aldosterone secretion",
+        "Blocking sodium channels exclusively"
+      ],
+      "answer": 0,
+      "explanation": "Chronic catecholamine excess drives tachycardia, vasoconstriction, receptor downregulation, and remodeling; beta blockade counters all of these. Options B and C describe effects beta blockers oppose.",
+      "explanationImage": null,
+      "tags": [
+        "Heart Failure & Circulatory Shock",
+        "Treatment and Management of Heart Failure"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch07-q115",
+      "stem": "Drugs that block aldosterone's effects are logical in heart failure because aldosterone:",
+      "image": null,
+      "options": [
+        "Promotes natriuresis",
+        "Causes sodium and water retention and myocardial fibrosis",
+        "Vasodilates",
+        "Lowers preload"
+      ],
+      "answer": 1,
+      "explanation": "Aldosterone retains volume and promotes fibrotic remodeling; blocking it reduces congestion and adverse structural change. Its physiologic effect is retention, not excretion (A).",
+      "explanationImage": null,
+      "tags": [
+        "Heart Failure & Circulatory Shock",
+        "Treatment and Management of Heart Failure"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch07-q116",
+      "stem": "Vasodilator therapy improves cardiac output in systolic failure by:",
+      "image": null,
+      "options": [
+        "Increasing afterload so the ventricle contracts harder",
+        "Reducing preload and afterload, allowing improved stroke volume",
+        "Increasing blood viscosity",
+        "Directly blocking the sodium-potassium pump"
+      ],
+      "answer": 1,
+      "explanation": "Lowering arterial resistance (afterload) and venous tone (preload) lets the weak ventricle eject more effectively with less wall stress. Increasing afterload (A) would worsen systolic failure.",
+      "explanationImage": null,
+      "tags": [
+        "Heart Failure & Circulatory Shock",
+        "Treatment and Management of Heart Failure"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch07-q117",
+      "stem": "A CHF patient with weight gain, edema, and rales should receive which class as the most direct first-line intervention for congestion?",
+      "image": null,
+      "options": [
+        "Diuretics",
+        "Digoxin",
+        "Antiarrhythmics",
+        "Thyroid hormone"
+      ],
+      "answer": 0,
+      "explanation": "The problem is fluid overload; diuretics remove retained salt and water and relieve pulmonary and peripheral congestion most directly. Digoxin supports contractility but does not remove fluid.",
+      "explanationImage": null,
+      "tags": [
+        "Heart Failure & Circulatory Shock",
+        "Treatment and Management of Heart Failure"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch07-q118",
+      "stem": "For an acute, severely low-output state, an intravenous drug that rapidly increases contractility would be:",
+      "image": null,
+      "options": [
+        "Furosemide",
+        "Metoprolol",
+        "An antihistamine",
+        "Dobutamine"
+      ],
+      "answer": 3,
+      "explanation": "Dobutamine is an intravenous positive inotrope used to acutely support the failing pump (as in cardiogenic shock). Furosemide removes volume, metoprolol slows the heart — neither acutely raises contractility.",
+      "explanationImage": null,
+      "tags": [
+        "Heart Failure & Circulatory Shock",
+        "Treatment and Management of Heart Failure"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch07-q119",
+      "stem": "Combining an ACE inhibitor with a diuretic is rational because:",
+      "image": null,
+      "options": [
+        "Both drugs raise blood pressure identically",
+        "The diuretic removes excess volume while the ACE inhibitor blocks the RAAS activation the volume loss and failure would otherwise trigger",
+        "ACE inhibitors cause edema that diuretics must remove",
+        "Both are positive inotropes"
+      ],
+      "answer": 1,
+      "explanation": "Diuresis lowers preload/congestion, and ACE inhibition counters vasoconstriction, aldosterone drive, and remodeling — a complementary attack on both the symptom (volume) and the mechanism (RAAS). Neither drug is an inotrope.",
+      "explanationImage": null,
+      "tags": [
+        "Heart Failure & Circulatory Shock",
+        "Treatment and Management of Heart Failure"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch07-q120",
+      "stem": "Which of the following is NOT a goal of heart failure treatment?",
+      "image": null,
+      "options": [
+        "Reduce symptoms",
+        "Prolong life",
+        "Slow disease progression",
+        "Guarantee a complete cure of the underlying cardiomyopathy"
+      ],
+      "answer": 3,
+      "explanation": "Treatment aims to reduce symptoms, prolong life, and slow progression; heart failure is generally chronic and managed, not cured. Options A–C are the lecture's stated goals. ---",
+      "explanationImage": null,
+      "tags": [
+        "Heart Failure & Circulatory Shock",
+        "Circulatory Shock Overview and Cardiogenic Shock"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch07-q121",
+      "stem": "Circulatory shock is best defined as:",
+      "image": null,
+      "options": [
+        "A psychiatric reaction to trauma",
+        "A sustained elevation of blood pressure",
+        "Isolated left ventricular hypertrophy",
+        "Acute failure of the circulatory system to supply adequate blood to tissues, resulting in cellular hypoxia"
+      ],
+      "answer": 3,
+      "explanation": "The lecture defines shock as acute circulatory failure producing tissue hypoxia at the cellular level. Blood pressure may be low, but the defining problem is inadequate perfusion, not the number itself.",
+      "explanationImage": null,
+      "tags": [
+        "Heart Failure & Circulatory Shock",
+        "Circulatory Shock Overview and Cardiogenic Shock"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch07-q122",
+      "stem": "Which of the following is NOT one of the four main categories of circulatory shock?",
+      "image": null,
+      "options": [
+        "Cardiogenic",
+        "Glomerular",
+        "Hypovolemic",
+        "Distributive"
+      ],
+      "answer": 1,
+      "explanation": "The four categories are cardiogenic, hypovolemic, obstructive, and distributive. \"Glomerular\" refers to a renal structure and is not a shock classification.",
+      "explanationImage": null,
+      "tags": [
+        "Heart Failure & Circulatory Shock",
+        "Circulatory Shock Overview and Cardiogenic Shock"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch07-q123",
+      "stem": "The final common pathway of all forms of shock is:",
+      "image": null,
+      "options": [
+        "Sustained hypertension",
+        "Polycythemia",
+        "An increase in cardiac output",
+        "Inadequate tissue perfusion leading to cellular hypoxia"
+      ],
+      "answer": 3,
+      "explanation": "Whatever the initial mechanism (pump failure, volume loss, obstruction, vasodilation), every shock state ends with tissues not receiving enough oxygenated blood, causing cell injury and organ failure.",
+      "explanationImage": null,
+      "tags": [
+        "Heart Failure & Circulatory Shock",
+        "Circulatory Shock Overview and Cardiogenic Shock"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch07-q124",
+      "stem": "Cardiogenic shock is defined as:",
+      "image": null,
+      "options": [
+        "Loss of blood vessel tone",
+        "Loss of circulating blood volume",
+        "Failure of the heart to pump blood sufficiently to meet the body's needs",
+        "Mechanical obstruction of the great vessels"
+      ],
+      "answer": 2,
+      "explanation": "In cardiogenic shock the pump itself fails; the circulation is intact but the heart cannot generate sufficient flow. Loss of tone (A) defines distributive shock and volume loss (B) defines hypovolemic shock.",
+      "explanationImage": null,
+      "tags": [
+        "Heart Failure & Circulatory Shock",
+        "Circulatory Shock Overview and Cardiogenic Shock"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch07-q125",
+      "stem": "The most common cause of cardiogenic shock is:",
+      "image": null,
+      "options": [
+        "Sepsis",
+        "Dehydration",
+        "Anaphylaxis",
+        "Extensive acute myocardial infarction"
+      ],
+      "answer": 3,
+      "explanation": "A large infarction destroys enough contractile tissue that the heart cannot maintain output — the classic source of cardiogenic shock. Sepsis and anaphylaxis cause distributive shock; dehydration causes hypovolemic shock.",
+      "explanationImage": null,
+      "tags": [
+        "Heart Failure & Circulatory Shock",
+        "Circulatory Shock Overview and Cardiogenic Shock"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch07-q126",
+      "stem": "Signs and symptoms of cardiogenic shock include:",
+      "image": null,
+      "options": [
+        "Warm, flushed skin with bounding pulses",
+        "Polyuria with dilute urine",
+        "Cyanotic lips, nails, and skin, with hypotension, weak pulses, and decreased urine output",
+        "Bradycardia with warm extremities"
+      ],
+      "answer": 2,
+      "explanation": "The failing pump produces poor peripheral perfusion (cyanosis, cool pale skin), hypotension, and renal hypoperfusion (oliguria). Warm flushed skin with bounding pulses is the picture of early distributive shock.",
+      "explanationImage": null,
+      "tags": [
+        "Heart Failure & Circulatory Shock",
+        "Circulatory Shock Overview and Cardiogenic Shock"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch07-q127",
+      "stem": "Decreased urine output in cardiogenic shock occurs because:",
+      "image": null,
+      "options": [
+        "Renal perfusion is poor due to low cardiac output",
+        "The glomeruli are overactive",
+        "The patient is overhydrated",
+        "ADH secretion is suppressed"
+      ],
+      "answer": 0,
+      "explanation": "With the pump failing, renal blood flow falls and urine production drops; oliguria is an early, measurable marker of hypoperfusion in shock.",
+      "explanationImage": null,
+      "tags": [
+        "Heart Failure & Circulatory Shock",
+        "Circulatory Shock Overview and Cardiogenic Shock"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch07-q128",
+      "stem": "Inotropic drugs used to treat cardiogenic shock include:",
+      "image": null,
+      "options": [
+        "Furosemide and hydrochlorothiazide",
+        "Dopamine and dobutamine",
+        "Propranolol and metoprolol",
+        "Diphenhydramine and epinephrine (for allergy)"
+      ],
+      "answer": 1,
+      "explanation": "Dopamine and dobutamine are the classic intravenous inotropes that strengthen cardiac contraction in cardiogenic shock. Diuretics (A) remove volume, beta blockers (C) reduce contractility, and antihistamines (D) treat anaphylaxis.",
+      "explanationImage": null,
+      "tags": [
+        "Heart Failure & Circulatory Shock",
+        "Circulatory Shock Overview and Cardiogenic Shock"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch07-q129",
+      "stem": "The hemodynamic profile of cardiogenic shock is:",
+      "image": null,
+      "options": [
+        "High cardiac output, low SVR",
+        "High cardiac output, high PCWP",
+        "Low cardiac output, elevated SVR, elevated PCWP",
+        "Low SVR, low PCWP, high output"
+      ],
+      "answer": 2,
+      "explanation": "The weak pump yields low output; compensatory vasoconstriction raises SVR; and the failing LV backs blood into the pulmonary circuit, elevating PCWP. This triad distinguishes cardiogenic from hypovolemic (low PCWP) and distributive (low SVR) shock.",
+      "explanationImage": null,
+      "tags": [
+        "Heart Failure & Circulatory Shock",
+        "Circulatory Shock Overview and Cardiogenic Shock"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch07-q130",
+      "stem": "Expected echocardiographic findings in cardiogenic shock include:",
+      "image": null,
+      "options": [
+        "A dilated, poorly contracting left ventricle with a markedly reduced ejection fraction",
+        "A small hyperdynamic RV with a normal LV",
+        "A large circumferential pericardial effusion",
+        "An entirely normal study"
+      ],
+      "answer": 0,
+      "explanation": "Cardiogenic shock from LV infarction shows a dilated, diffusely hypokinetic ventricle with low EF. RV patterns (B) suggest pulmonary embolism and effusion (C) suggests tamponade — different causes of shock.",
+      "explanationImage": null,
+      "tags": [
+        "Heart Failure & Circulatory Shock",
+        "Circulatory Shock Overview and Cardiogenic Shock"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch07-q131",
+      "stem": "Which intervention is LEAST appropriate as initial treatment of classic LV cardiogenic shock?",
+      "image": null,
+      "options": [
+        "Intravenous inotropic support",
+        "Oxygen and hemodynamic monitoring",
+        "Revascularization of the infarct-related artery",
+        "A large bolus of intravenous fluid"
+      ],
+      "answer": 3,
+      "explanation": "In LV pump failure the ventricle is already overloaded; more volume raises PCWP and worsens pulmonary edema. Inotropes, oxygen, and revascularization all address the failing pump directly.",
+      "explanationImage": null,
+      "tags": [
+        "Heart Failure & Circulatory Shock",
+        "Circulatory Shock Overview and Cardiogenic Shock"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch07-q132",
+      "stem": "How can cardiogenic shock be distinguished from hypovolemic shock when both produce low blood pressure?",
+      "image": null,
+      "options": [
+        "Both have low PCWP",
+        "PCWP is elevated in cardiogenic shock but low in hypovolemic shock",
+        "PCWP is elevated in hypovolemic shock but low in cardiogenic shock",
+        "PCWP is normal in both"
+      ],
+      "answer": 1,
+      "explanation": "In cardiogenic shock the failing LV backs blood into the pulmonary circuit (high PCWP, rales); in hypovolemic shock the ventricle is underfilled (low PCWP, flat neck veins, dry skin). Filling pressure is the key discriminator.",
+      "explanationImage": null,
+      "tags": [
+        "Heart Failure & Circulatory Shock",
+        "Circulatory Shock Overview and Cardiogenic Shock"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch07-q133",
+      "stem": "Dobutamine is often preferred over dopamine for pure LV pump failure because dobutamine:",
+      "image": null,
+      "options": [
+        "Produces strong peripheral vasoconstriction",
+        "Increases contractility with less vasoconstriction and less rise in afterload",
+        "Decreases heart rate",
+        "Induces diuresis"
+      ],
+      "answer": 1,
+      "explanation": "Dobutamine is a relatively selective inotrope; dopamine at higher doses also constricts vessels, raising afterload and myocardial oxygen demand. Dobutamine neither slows the heart nor diureses.",
+      "explanationImage": null,
+      "tags": [
+        "Heart Failure & Circulatory Shock",
+        "Circulatory Shock Overview and Cardiogenic Shock"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch07-q134",
+      "stem": "The mortality of cardiogenic shock is:",
+      "image": null,
+      "options": [
+        "Negligible",
+        "Below 5%",
+        "About 10%",
+        "High — historically around 50% even with treatment"
+      ],
+      "answer": 3,
+      "explanation": "Cardiogenic shock is the most lethal common form of shock; despite inotropes and revascularization, mortality has historically approached 50%. This reflects the irreversibility of extensive myocardial loss.",
+      "explanationImage": null,
+      "tags": [
+        "Heart Failure & Circulatory Shock",
+        "Circulatory Shock Overview and Cardiogenic Shock"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch07-q135",
+      "stem": "The sequence linking LV failure to pulmonary congestion in cardiogenic shock is:",
+      "image": null,
+      "options": [
+        "The failing LV backs blood into the LA and pulmonary veins, raising PCWP and forcing fluid into lung tissue",
+        "The RV fails first and floods the lungs directly",
+        "Systemic veins drain into the lungs",
+        "The aorta refluxes into the pulmonary artery"
+      ],
+      "answer": 0,
+      "explanation": "Pressure transmits backward from the failing LV through the LA and pulmonary veins into the pulmonary capillaries; transudation produces the rales and edema. The systemic venous circuit does not connect to the lungs except via the right heart.",
+      "explanationImage": null,
+      "tags": [
+        "Heart Failure & Circulatory Shock",
+        "Circulatory Shock Overview and Cardiogenic Shock"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch07-q136",
+      "stem": "Cyanosis of the lips and nail beds in cardiogenic shock is caused by:",
+      "image": null,
+      "options": [
+        "An absolute excess of oxygen in the tissues",
+        "Fever",
+        "Sluggish tissue perfusion with increased oxygen extraction and desaturation of capillary blood",
+        "Hyperventilation"
+      ],
+      "answer": 2,
+      "explanation": "When flow is slow and output low, tissues extract more oxygen, leaving capillary blood dark and desaturated — visible as bluish lips and nails. Hyperventilation (D) would raise, not lower, oxygenation.",
+      "explanationImage": null,
+      "tags": [
+        "Heart Failure & Circulatory Shock",
+        "Circulatory Shock Overview and Cardiogenic Shock"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch07-q137",
+      "stem": "A 65-year-old, 2 days after a large anterior MI, has BP 80/50, cool clammy skin, rales, and JVD. The most likely diagnosis is:",
+      "image": null,
+      "options": [
+        "Hypovolemic shock",
+        "Septic shock",
+        "Neurogenic shock",
+        "Cardiogenic shock"
+      ],
+      "answer": 3,
+      "explanation": "Post-MI hypotension with both pulmonary (rales) and systemic (JVD) congestion plus cool skin is the classic pump-failure picture. Hypovolemic shock would show a flat neck veins/dry pattern, and septic or neurogenic shock would be warm.",
+      "explanationImage": null,
+      "tags": [
+        "Heart Failure & Circulatory Shock",
+        "Circulatory Shock Overview and Cardiogenic Shock"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch07-q138",
+      "stem": "How does cardiogenic shock differ from ordinary congestive heart failure?",
+      "image": null,
+      "options": [
+        "There is no difference; the terms are interchangeable",
+        "Shock is always chronic and compensated",
+        "Cardiogenic shock is severe, acute pump failure with hypotension and tissue hypoperfusion, whereas CHF is often chronic and compensated",
+        "In shock the cardiac output is normal"
+      ],
+      "answer": 2,
+      "explanation": "Both are pump failure, but cardiogenic shock is the acute, extreme end of the spectrum: output and pressure are too low to sustain perfusion, causing cyanosis and oliguria. Chronic CHF can be compensated for long periods.",
+      "explanationImage": null,
+      "tags": [
+        "Heart Failure & Circulatory Shock",
+        "Circulatory Shock Overview and Cardiogenic Shock"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch07-q139",
+      "stem": "At moderate doses, dopamine is useful in cardiogenic shock because it:",
+      "image": null,
+      "options": [
+        "Acts as a pure vasodilator",
+        "Increases myocardial contractility while helping support blood pressure",
+        "Decreases heart rate",
+        "Decreases systemic vascular resistance exclusively"
+      ],
+      "answer": 1,
+      "explanation": "Dopamine combines inotropic support with some pressor (vasoconstrictor) effect, raising both contractility and perfusion pressure — useful when the pump and the blood pressure both fail.",
+      "explanationImage": null,
+      "tags": [
+        "Heart Failure & Circulatory Shock",
+        "Circulatory Shock Overview and Cardiogenic Shock"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch07-q140",
+      "stem": "The overall treatment goal in cardiogenic shock is to:",
+      "image": null,
+      "options": [
+        "Restore pump function and tissue perfusion",
+        "Reduce PCWP to absolute zero",
+        "Enlarge the vascular compartment",
+        "Suppress all sympathetic activity"
+      ],
+      "answer": 0,
+      "explanation": "Every intervention (inotropes, revascularization, careful volume management) aims to reestablish effective pumping and thereby restore perfusion to the hypoxic tissues. Driving filling pressure to zero (B) would abolish stroke volume. ---",
+      "explanationImage": null,
+      "tags": [
+        "Heart Failure & Circulatory Shock",
+        "Hypovolemic Shock"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch07-q141",
+      "stem": "Hypovolemic shock results from:",
+      "image": null,
+      "options": [
+        "Loss of blood vessel tone",
+        "Primary pump failure",
+        "Mechanical obstruction of central circulation",
+        "Loss of blood volume (about 15–20% or more)"
+      ],
+      "answer": 3,
+      "explanation": "Hypovolemic shock is defined by loss of circulating volume — from hemorrhage or from fluid loss — leaving the heart too little blood to pump. Loss of tone (A) defines distributive shock.",
+      "explanationImage": null,
+      "tags": [
+        "Heart Failure & Circulatory Shock",
+        "Hypovolemic Shock"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch07-q142",
+      "stem": "According to the lecture, circulatory shock from hypovolemia occurs after the loss of approximately:",
+      "image": null,
+      "options": [
+        "1–2% of blood volume",
+        "5% of blood volume",
+        "15–20% of blood volume",
+        "50% of blood volume"
+      ],
+      "answer": 2,
+      "explanation": "Losses of roughly 15–20% of blood volume are sufficient to produce the signs of hypovolemic shock; smaller losses are usually compensated without shock physiology.",
+      "explanationImage": null,
+      "tags": [
+        "Heart Failure & Circulatory Shock",
+        "Hypovolemic Shock"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch07-q143",
+      "stem": "Early signs and symptoms of hypovolemic shock include:",
+      "image": null,
+      "options": [
+        "Hypertension and bradycardia",
+        "Thirst, increased heart rate, cool and clammy skin, decreased blood pressure, and decreased urine output",
+        "Warm, dry skin with strong peripheral pulses",
+        "Jugular venous distension with rales"
+      ],
+      "answer": 1,
+      "explanation": "This is the lecture's classic list: thirst, tachycardia, cool clammy skin, falling BP, and oliguria. Warm dry skin (C) suggests distributive shock, and JVD/rales (D) suggest volume overload states.",
+      "explanationImage": null,
+      "tags": [
+        "Heart Failure & Circulatory Shock",
+        "Hypovolemic Shock"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch07-q144",
+      "stem": "Cool, clammy skin in hypovolemic shock is caused by:",
+      "image": null,
+      "options": [
+        "Sympathetic-mediated peripheral vasoconstriction diverting blood to vital organs",
+        "Peripheral vasodilation",
+        "Fever",
+        "Increased cutaneous blood flow"
+      ],
+      "answer": 0,
+      "explanation": "Baroreceptor-driven SNS discharge constricts skin and splanchnic vessels to preserve flow to the heart and brain; the resulting pale, cool, moist skin is a hallmark of hypovolemic (and cardiogenic) shock.",
+      "explanationImage": null,
+      "tags": [
+        "Heart Failure & Circulatory Shock",
+        "Hypovolemic Shock"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch07-q145",
+      "stem": "Decreased urine output in hypovolemic shock results from:",
+      "image": null,
+      "options": [
+        "Decreased renal blood flow and glomerular filtration",
+        "Increased glomerular filtration",
+        "ADH deficiency",
+        "Polyuria from diuretics"
+      ],
+      "answer": 0,
+      "explanation": "With less volume to perfuse the kidneys, filtration falls and the kidneys retain sodium and water; urine output is therefore a practical bedside monitor of shock severity.",
+      "explanationImage": null,
+      "tags": [
+        "Heart Failure & Circulatory Shock",
+        "Hypovolemic Shock"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch07-q146",
+      "stem": "Proper treatment of hypovolemic shock is to:",
+      "image": null,
+      "options": [
+        "Give vasopressors alone without volume",
+        "Administer digoxin",
+        "Give antibiotics and antihistamines",
+        "Identify and correct the cause and restore vascular volume"
+      ],
+      "answer": 3,
+      "explanation": "The definitive approach has two parts per the lecture: stop the loss (e.g., control bleeding, treat the source) and replace the lost volume with fluids or blood. Vasopressors alone (A) cannot fix an empty tank.",
+      "explanationImage": null,
+      "tags": [
+        "Heart Failure & Circulatory Shock",
+        "Hypovolemic Shock"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch07-q147",
+      "stem": "Common causes of hypovolemic shock include:",
+      "image": null,
+      "options": [
+        "Myocardial infarction and cardiomyopathy",
+        "Pulmonary embolism and tamponade",
+        "Hemorrhage and severe dehydration (e.g., vomiting, diarrhea, burns)",
+        "Spinal cord injury and bee sting allergy"
+      ],
+      "answer": 2,
+      "explanation": "Any process that removes blood or plasma from the circulation — bleeding, GI losses, burns — produces hypovolemia. MI (A) is cardiogenic; PE/tamponade (B) are obstructive; spinal injury/sting (D) are neurogenic/anaphylactic.",
+      "explanationImage": null,
+      "tags": [
+        "Heart Failure & Circulatory Shock",
+        "Hypovolemic Shock"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch07-q148",
+      "stem": "Thirst is an early symptom of hypovolemic shock because:",
+      "image": null,
+      "options": [
+        "The mouth is always dry during exercise",
+        "Decreased blood volume triggers the body's thirst and fluid-conserving mechanisms",
+        "Blood glucose rises sharply",
+        "The patient has been sweating in a sauna"
+      ],
+      "answer": 1,
+      "explanation": "Volume depletion activates hypothalamic thirst centers and ADH release to defend circulating volume; thirst is thus one of the earliest warning signs of significant blood or fluid loss.",
+      "explanationImage": null,
+      "tags": [
+        "Heart Failure & Circulatory Shock",
+        "Hypovolemic Shock"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch07-q149",
+      "stem": "The hemodynamic profile of hypovolemic shock is:",
+      "image": null,
+      "options": [
+        "High cardiac output with low SVR",
+        "Low cardiac output, low PCWP/CVP, and elevated SVR",
+        "Low SVR with high cardiac output",
+        "Normal volume with high output"
+      ],
+      "answer": 1,
+      "explanation": "An underfilled circulation produces low filling pressures (PCWP/CVP), reduced preload and output, and compensatory vasoconstriction (high SVR). This contrasts with cardiogenic shock (high PCWP) and distributive shock (low SVR).",
+      "explanationImage": null,
+      "tags": [
+        "Heart Failure & Circulatory Shock",
+        "Hypovolemic Shock"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch07-q150",
+      "stem": "According to the lecture's conclusions, which form of shock is most common in athletics?",
+      "image": null,
+      "options": [
+        "Septic",
+        "Anaphylactic",
+        "Hypovolemic",
+        "Cardiogenic"
+      ],
+      "answer": 2,
+      "explanation": "Athletes lose volume through sweating and dehydration (and can hemorrhage in trauma sports), making hypovolemic shock the most common form in athletics. Septic and anaphylactic shock belong to infection and allergy contexts.",
+      "explanationImage": null,
+      "tags": [
+        "Heart Failure & Circulatory Shock",
+        "Hypovolemic Shock"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch07-q151",
+      "stem": "Losing 40% or more of blood volume represents:",
+      "image": null,
+      "options": [
+        "A severe, life-threatening stage requiring immediate, aggressive volume replacement",
+        "A mild compensation easily corrected by oral fluids",
+        "No hemodynamic change",
+        "A purely compensated state with normal output"
+      ],
+      "answer": 0,
+      "explanation": "At ~40% loss, compensatory mechanisms are failing; marked hypotension, severe oliguria, and tissue hypoxia demand immediate aggressive fluid/blood replacement to prevent organ failure and death.",
+      "explanationImage": null,
+      "tags": [
+        "Heart Failure & Circulatory Shock",
+        "Hypovolemic Shock"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch07-q152",
+      "stem": "In hypovolemic shock, the PCWP is:",
+      "image": null,
+      "options": [
+        "Markedly elevated",
+        "Normal to high",
+        "Unrelated to the condition",
+        "Low, reflecting an underfilled left ventricle"
+      ],
+      "answer": 3,
+      "explanation": "With the circulating volume depleted, the LV receives too little blood and filling (wedge) pressure falls — the key finding separating hypovolemic from cardiogenic shock, where PCWP is high.",
+      "explanationImage": null,
+      "tags": [
+        "Heart Failure & Circulatory Shock",
+        "Hypovolemic Shock"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch07-q153",
+      "stem": "Tachycardia compensates for hypovolemia by:",
+      "image": null,
+      "options": [
+        "Increasing SVR only",
+        "Increasing preload",
+        "Maintaining cardiac output as stroke volume falls",
+        "Decreasing contractility"
+      ],
+      "answer": 2,
+      "explanation": "Since cardiac output = heart rate × stroke volume, and stroke volume drops with the lost preload, the SNS raises heart rate to preserve total output. Preload cannot rise (B) — there is no extra volume.",
+      "explanationImage": null,
+      "tags": [
+        "Heart Failure & Circulatory Shock",
+        "Hypovolemic Shock"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch07-q154",
+      "stem": "On bedside ultrasound, hypovolemia is suggested by:",
+      "image": null,
+      "options": [
+        "A small, collapsed IVC and underfilled, hyperdynamic chambers",
+        "A dilated, non-collapsing IVC",
+        "A large pericardial effusion",
+        "A dilated RV with septal flattening"
+      ],
+      "answer": 0,
+      "explanation": "Low intravascular volume produces IVC collapse with respiration and \"kissing\" (hyperdynamic, cavity-obliterating) ventricles. A dilated IVC (B) implies overload, effusion (C) implies tamponade, and RV dilation (D) implies PE.",
+      "explanationImage": null,
+      "tags": [
+        "Heart Failure & Circulatory Shock",
+        "Hypovolemic Shock"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch07-q155",
+      "stem": "First-line therapy for hypovolemic shock is:",
+      "image": null,
+      "options": [
+        "Digoxin infusion",
+        "Intravenous crystalloid fluids, with blood products when hemorrhage is significant",
+        "Furosemide",
+        "Epinephrine before any fluid"
+      ],
+      "answer": 1,
+      "explanation": "Restoring vascular volume with isotonic crystalloid (plus blood for hemorrhagic losses) is the definitive initial treatment; diuretics would worsen the deficit, and vasopressors without volume are ineffective.",
+      "explanationImage": null,
+      "tags": [
+        "Heart Failure & Circulatory Shock",
+        "Hypovolemic Shock"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch07-q156",
+      "stem": "Untreated severe hypovolemic shock progresses to:",
+      "image": null,
+      "options": [
+        "Chronic hypertension",
+        "Isolated polycythemia",
+        "A sustained rise in cardiac output",
+        "Multi-organ dysfunction and death"
+      ],
+      "answer": 3,
+      "explanation": "Persistent hypoperfusion inflicts cellular hypoxia on the lungs, kidneys, gut, and clotting system, culminating in MODS — the lecture's list of shock complications — and ultimately death.",
+      "explanationImage": null,
+      "tags": [
+        "Heart Failure & Circulatory Shock",
+        "Hypovolemic Shock"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch07-q157",
+      "stem": "Which of the following is an example of NON-hemorrhagic hypovolemic shock?",
+      "image": null,
+      "options": [
+        "Severe diarrhea and vomiting, or extensive burns",
+        "A GI bleed",
+        "A ruptured abdominal aortic aneurysm",
+        "Chest trauma with hemothorax"
+      ],
+      "answer": 0,
+      "explanation": "Hypovolemia can occur without bleeding when plasma water is lost through the gut or burned skin. Options B–D all involve actual blood loss (hemorrhagic hypovolemia).",
+      "explanationImage": null,
+      "tags": [
+        "Heart Failure & Circulatory Shock",
+        "Hypovolemic Shock"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch07-q158",
+      "stem": "In early compensated hypovolemia, blood pressure may remain near normal because:",
+      "image": null,
+      "options": [
+        "Peripheral vasodilation offsets the volume loss",
+        "Vasoconstriction and tachycardia maintain arterial pressure despite the reduced volume",
+        "Blood volume is actually increased",
+        "The heart stops extracting oxygen"
+      ],
+      "answer": 1,
+      "explanation": "SNS-driven vasoconstriction plus reflex tachycardia keep pressure and output acceptable in the early stage; a falling BP signals that compensation is failing (progressive stage).",
+      "explanationImage": null,
+      "tags": [
+        "Heart Failure & Circulatory Shock",
+        "Hypovolemic Shock"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch07-q159",
+      "stem": "A postoperative patient has HR 122, BP 92/60, dry mucous membranes, urine output 15 mL/hr, and a low CVP. The most likely diagnosis is:",
+      "image": null,
+      "options": [
+        "Septic shock",
+        "Cardiogenic shock",
+        "Neurogenic shock",
+        "Hypovolemic shock"
+      ],
+      "answer": 3,
+      "explanation": "Tachycardia, hypotension, dryness, oliguria, and low filling pressures in a postoperative patient (prone to bleeding and fluid losses) point to volume depletion. Warm skin (septic) or rales/JVD (cardiogenic) would change the picture.",
+      "explanationImage": null,
+      "tags": [
+        "Heart Failure & Circulatory Shock",
+        "Hypovolemic Shock"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch07-q160",
+      "stem": "A hypotensive patient rapidly improves in blood pressure and consciousness after intravenous fluids. This response supports which diagnosis?",
+      "image": null,
+      "options": [
+        "Cardiogenic shock",
+        "Neurogenic shock",
+        "Hypovolemia",
+        "Cardiac tamponade"
+      ],
+      "answer": 2,
+      "explanation": "Dramatic improvement with fluid indicates the problem was an empty circulation; a failing pump (A) or an obstructed circuit (D) does not respond favorably — volume would worsen them. ---",
+      "explanationImage": null,
+      "tags": [
+        "Heart Failure & Circulatory Shock",
+        "Obstructive and Distributive Shock"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch07-q161",
+      "stem": "Obstructive shock is defined as:",
+      "image": null,
+      "options": [
+        "Primary failure of the myocardium to contract",
+        "A mechanical obstruction to the flow of blood through the central circulation",
+        "Loss of vascular tone with an enlarged vascular compartment",
+        "Loss of circulating blood volume"
+      ],
+      "answer": 1,
+      "explanation": "In obstructive shock the pump and the volume may be intact, but something physically blocks the flow through the heart and great vessels (e.g., tamponade, massive PE). The myocardium itself (A) is not primarily at fault.",
+      "explanationImage": null,
+      "tags": [
+        "Heart Failure & Circulatory Shock",
+        "Obstructive and Distributive Shock"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch07-q162",
+      "stem": "Which of the following is NOT an etiology of obstructive shock listed in the lecture?",
+      "image": null,
+      "options": [
+        "Pulmonary embolism",
+        "Cardiac tamponade",
+        "Tension pneumothorax",
+        "Anaphylaxis"
+      ],
+      "answer": 3,
+      "explanation": "Obstructive etiologies are dissecting aortic aneurysm, pulmonary embolism, cardiac tamponade, and pneumothorax. Anaphylaxis is a distributive shock caused by vasodilation, not mechanical blockage.",
+      "explanationImage": null,
+      "tags": [
+        "Heart Failure & Circulatory Shock",
+        "Obstructive and Distributive Shock"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch07-q163",
+      "stem": "Signs of obstructive shock include those of right heart failure, namely:",
+      "image": null,
+      "options": [
+        "Collapsed neck veins and a low CVP",
+        "Bibasilar rales and orthopnea only",
+        "Jugular venous distension with peripheral edema and hypotension",
+        "Warm, dry skin with a strong pulse"
+      ],
+      "answer": 2,
+      "explanation": "Blood cannot traverse the obstructed central circuit, so it backs up on the right side — producing JVD, venous congestion, and edema — while forward output and pressure fall. Neck veins are distended, not collapsed (A).",
+      "explanationImage": null,
+      "tags": [
+        "Heart Failure & Circulatory Shock",
+        "Obstructive and Distributive Shock"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch07-q164",
+      "stem": "The echocardiographic findings in cardiac tamponade include:",
+      "image": null,
+      "options": [
+        "A pericardial effusion with diastolic collapse of the right atrium and right ventricle",
+        "A dilated RV with septal flattening but no effusion",
+        "A small, fully collapsing IVC",
+        "A globally reduced EF with a dilated LV"
+      ],
+      "answer": 0,
+      "explanation": "Tamponade is an obstructive shock: effusion under pressure compresses the chambers, seen on echo as right-sided diastolic collapse. RV dilation (B) suggests PE, and a collapsing IVC (C) suggests hypovolemia.",
+      "explanationImage": null,
+      "tags": [
+        "Heart Failure & Circulatory Shock",
+        "Obstructive and Distributive Shock"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch07-q165",
+      "stem": "A massive pulmonary embolism causes obstructive shock by:",
+      "image": null,
+      "options": [
+        "Overloading the left ventricle with volume",
+        "Reducing the circulating blood volume",
+        "Obstructing the pulmonary circulation, causing acute RV failure and inadequate LV filling",
+        "Triggering an allergic vasodilation"
+      ],
+      "answer": 2,
+      "explanation": "The embolus blocks the pulmonary outflow tract; the RV fails against the sudden resistance, LV filling collapses, and output plummets — a mechanical obstruction, not a pump or volume problem.",
+      "explanationImage": null,
+      "tags": [
+        "Heart Failure & Circulatory Shock",
+        "Obstructive and Distributive Shock"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch07-q166",
+      "stem": "Treatment of obstructive shock is to:",
+      "image": null,
+      "options": [
+        "Give antibiotics",
+        "Correct the cause, usually via surgical intervention",
+        "Give fluids only",
+        "Give antihistamines and epinephrine for allergy"
+      ],
+      "answer": 1,
+      "explanation": "Because a mechanical lesion blocks the flow, definitive treatment is mechanical relief — surgery or a procedural fix (drain the tamponade, relieve the pneumothorax, address the aneurysm/embolism). Antibiotics and antihistamines (A, D) belong to other shock types.",
+      "explanationImage": null,
+      "tags": [
+        "Heart Failure & Circulatory Shock",
+        "Obstructive and Distributive Shock"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch07-q167",
+      "stem": "A tension pneumothorax obstructs central circulation by:",
+      "image": null,
+      "options": [
+        "Causing valvular regurgitation",
+        "Destroying vascular tone",
+        "Filling the pericardial sac",
+        "Raising intrathoracic pressure, collapsing the lung and compressing the mediastinum and great veins"
+      ],
+      "answer": 3,
+      "explanation": "Trapped air under positive pressure shifts and compresses the mediastinum, kinking the vena cavae and reducing venous return — a mechanical barrier to central blood flow, relieved by decompression.",
+      "explanationImage": null,
+      "tags": [
+        "Heart Failure & Circulatory Shock",
+        "Obstructive and Distributive Shock"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch07-q168",
+      "stem": "A dissecting aortic aneurysm can produce obstructive shock by:",
+      "image": null,
+      "options": [
+        "Disrupting or compressing central blood flow and compromising branch-vessel perfusion",
+        "Causing anaphylactic vasodilation",
+        "Destroying sympathetic control",
+        "Inducing septic vasodilators"
+      ],
+      "answer": 0,
+      "explanation": "The dissecting column of blood can obstruct the true lumen and the origins of great vessels, mechanically impairing central circulation — the lecture's first obstructive etiology, requiring surgical correction.",
+      "explanationImage": null,
+      "tags": [
+        "Heart Failure & Circulatory Shock",
+        "Obstructive and Distributive Shock"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch07-q169",
+      "stem": "Distributive shock is defined as:",
+      "image": null,
+      "options": [
+        "Loss of blood vessel tone with enlargement of the vascular compartment, displacing vascular volume away from the heart and brain",
+        "Pump failure from infarction",
+        "Mechanical blockage of the great vessels",
+        "Acute loss of blood volume"
+      ],
+      "answer": 0,
+      "explanation": "In distributive shock the \"container\" (vasculature) suddenly enlarges as tone is lost, so the existing volume no longer fills it; relative hypovolemia starves the heart and brain of return flow.",
+      "explanationImage": null,
+      "tags": [
+        "Heart Failure & Circulatory Shock",
+        "Obstructive and Distributive Shock"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch07-q170",
+      "stem": "The three types of distributive shock are:",
+      "image": null,
+      "options": [
+        "Cardiogenic, hypovolemic, and obstructive",
+        "Neurogenic, anaphylactic, and septic",
+        "Hemorrhagic, burn, and diarrheal",
+        "Tamponade, embolism, and pneumothorax"
+      ],
+      "answer": 1,
+      "explanation": "Distributive shock includes neurogenic (loss of sympathetic control) and anaphylactic/septic (excess vasodilator substances). Options A and D list the other main shock categories; option C lists hypovolemic causes.",
+      "explanationImage": null,
+      "tags": [
+        "Heart Failure & Circulatory Shock",
+        "Obstructive and Distributive Shock"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch07-q171",
+      "stem": "Anaphylactic shock results from:",
+      "image": null,
+      "options": [
+        "An acute myocardial infarction",
+        "Progressive blood volume loss",
+        "A severe allergic reaction releasing mediators that produce widespread vasodilation and increased capillary permeability",
+        "Spinal cord transection"
+      ],
+      "answer": 2,
+      "explanation": "Allergen exposure triggers massive mediator release; vessels dilate and leak, the vascular compartment enlarges, and perfusion collapses. Spinal injury (D) causes neurogenic — not anaphylactic — shock.",
+      "explanationImage": null,
+      "tags": [
+        "Heart Failure & Circulatory Shock",
+        "Obstructive and Distributive Shock"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch07-q172",
+      "stem": "Septic shock is caused by:",
+      "image": null,
+      "options": [
+        "Primary pump failure",
+        "Cardiac tamponade",
+        "Simple dehydration",
+        "Systemic infection with excessive vasodilator substances circulating in the blood"
+      ],
+      "answer": 3,
+      "explanation": "In sepsis, microbial toxins and host mediators act as vasodilators, enlarging the vascular compartment and causing maldistributed flow. The other options describe cardiogenic, obstructive, and hypovolemic mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Heart Failure & Circulatory Shock",
+        "Obstructive and Distributive Shock"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch07-q173",
+      "stem": "Neurogenic shock results from:",
+      "image": null,
+      "options": [
+        "Hypervolemia",
+        "Acute myocardial infarction",
+        "An insect-sting allergy",
+        "Loss of sympathetic control, as in high spinal cord injury"
+      ],
+      "answer": 3,
+      "explanation": "When sympathetic outflow is interrupted (spinal anesthesia, cord injury), vessels lose tone and dilate without any mediator allergy — the defining mechanism of neurogenic shock, per the lecture.",
+      "explanationImage": null,
+      "tags": [
+        "Heart Failure & Circulatory Shock",
+        "Obstructive and Distributive Shock"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch07-q174",
+      "stem": "The typical early hemodynamic profile of distributive (septic) shock is:",
+      "image": null,
+      "options": [
+        "Low cardiac output with high SVR",
+        "High SVR with low output",
+        "Low SVR with high or normal cardiac output",
+        "Elevated PCWP with low output"
+      ],
+      "answer": 2,
+      "explanation": "Vasodilation lowers SVR, and the heart initially compensates with brisk (often supranormal) output — the \"warm\" phase. High SVR with low output (A/B) describes cardiogenic or hypovolemic shock.",
+      "explanationImage": null,
+      "tags": [
+        "Heart Failure & Circulatory Shock",
+        "Obstructive and Distributive Shock"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch07-q175",
+      "stem": "How does the skin differ between early distributive shock and hypovolemic/cardiogenic shock?",
+      "image": null,
+      "options": [
+        "All shock states produce cold, blue skin",
+        "Early distributive shock has warm, dry (flushed) skin; hypovolemic and cardiogenic shock have cool, clammy skin",
+        "Hypovolemic shock has hot, dry skin",
+        "Skin temperature is unrelated to shock type"
+      ],
+      "answer": 1,
+      "explanation": "Vasodilation in distributive states delivers warm blood to the periphery (warm, dry skin), whereas vasoconstriction in hypovolemic/cardiogenic states cools and moistens the skin. This contrast is a key bedside discriminator.",
+      "explanationImage": null,
+      "tags": [
+        "Heart Failure & Circulatory Shock",
+        "Obstructive and Distributive Shock"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch07-q176",
+      "stem": "Treatment of distributive shock includes:",
+      "image": null,
+      "options": [
+        "Removing the cause and using vasopressor drugs such as epinephrine, with fluid resuscitation",
+        "Digoxin infusion",
+        "Emergency surgery in every patient",
+        "Anticoagulation only"
+      ],
+      "answer": 0,
+      "explanation": "Per the lecture, distributive shock is treated by removing the cause (allergen, infection source) and restoring tone with vasopressors such as epinephrine, plus fluids to refill the enlarged compartment. Surgery (C) is the obstructive-shock answer.",
+      "explanationImage": null,
+      "tags": [
+        "Heart Failure & Circulatory Shock",
+        "Obstructive and Distributive Shock"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch07-q177",
+      "stem": "The drug of first choice in anaphylactic shock is:",
+      "image": null,
+      "options": [
+        "Dopamine",
+        "Epinephrine",
+        "Furosemide",
+        "Digoxin"
+      ],
+      "answer": 1,
+      "explanation": "Epinephrine reverses vasodilation, bronchospasm, and capillary leakage simultaneously and is the immediate, lifesaving drug in anaphylaxis; other vasopressors and fluids support it secondarily.",
+      "explanationImage": null,
+      "tags": [
+        "Heart Failure & Circulatory Shock",
+        "Obstructive and Distributive Shock"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch07-q178",
+      "stem": "Early (\"warm\") septic shock is characterized by:",
+      "image": null,
+      "options": [
+        "Decreased SVR with increased cardiac output",
+        "Increased SVR with decreased output",
+        "Low output with low SVR",
+        "Elevated PCWP with low output"
+      ],
+      "answer": 0,
+      "explanation": "Vasodilation drops SVR; the hyperdynamic heart raises output to compensate, producing warm extremities and wide pulse pressure. Later, myocardial depression and capillary-leak hypovolemia can convert this to a low-output picture.",
+      "explanationImage": null,
+      "tags": [
+        "Heart Failure & Circulatory Shock",
+        "Obstructive and Distributive Shock"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch07-q179",
+      "stem": "Signs of neurogenic shock include:",
+      "image": null,
+      "options": [
+        "Tachycardia with cool, pale skin",
+        "Hypertension with a bounding pulse",
+        "Hypotension with bradycardia and warm, dry skin",
+        "Rales with an S3"
+      ],
+      "answer": 2,
+      "explanation": "With sympathetic control lost, both vasoconstriction (vessels dilate → hypotension) and the tachycardic reflex (vagus unopposed → bradycardia) fail; the skin stays warm and dry. Cool skin with tachycardia (A) is the hypovolemic pattern.",
+      "explanationImage": null,
+      "tags": [
+        "Heart Failure & Circulatory Shock",
+        "Obstructive and Distributive Shock"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch07-q180",
+      "stem": "A patient stung by a bee develops hives, wheezing, swelling, and hypotension within minutes. The most likely type of shock is:",
+      "image": null,
+      "options": [
+        "Cardiogenic",
+        "Obstructive",
+        "Hypovolemic",
+        "Anaphylactic"
+      ],
+      "answer": 3,
+      "explanation": "Rapid-onset hypotension after allergen exposure, with urticaria, airway involvement, and angioedema, is classic anaphylactic shock — a distributive state requiring immediate epinephrine. ---",
+      "explanationImage": null,
+      "tags": [
+        "Heart Failure & Circulatory Shock",
+        "Hemodynamics, Complications, and Synthesis"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch07-q181",
+      "stem": "Which of the following is NOT a complication of shock listed in the lecture?",
+      "image": null,
+      "options": [
+        "Chronic rheumatic mitral stenosis",
+        "Acute respiratory distress syndrome (ARDS)",
+        "Disseminated intravascular coagulation (DIC)",
+        "Acute renal failure"
+      ],
+      "answer": 0,
+      "explanation": "The lecture's complication list comprises ARDS, acute renal failure, GI complications, DIC, and MODS. Rheumatic mitral stenosis is a valve disease unrelated to the complications of shock.",
+      "explanationImage": null,
+      "tags": [
+        "Heart Failure & Circulatory Shock",
+        "Hemodynamics, Complications, and Synthesis"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch07-q182",
+      "stem": "ARDS complicating shock is characterized by:",
+      "image": null,
+      "options": [
+        "Simple voluntary hyperventilation",
+        "Left-sided heart failure only",
+        "Community-acquired pneumonia only",
+        "Acute lung injury with increased capillary permeability, producing severe hypoxemia and bilateral infiltrates"
+      ],
+      "answer": 3,
+      "explanation": "Shock-induced inflammatory injury floods the alveoli with protein-rich fluid, stiffening the lungs and producing refractory hypoxemia — ARDS. It is a perfusion/inflammation complication, not simple heart failure.",
+      "explanationImage": null,
+      "tags": [
+        "Heart Failure & Circulatory Shock",
+        "Hemodynamics, Complications, and Synthesis"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch07-q183",
+      "stem": "Acute renal failure in prolonged shock most commonly results from:",
+      "image": null,
+      "options": [
+        "Immune-complex glomerulonephritis",
+        "Acute tubular necrosis from sustained renal hypoperfusion",
+        "Obstructing kidney stones",
+        "Diabetic nephropathy"
+      ],
+      "answer": 1,
+      "explanation": "Persistent hypotension starves the tubules, which undergo ischemic necrosis; urine output falls or stops, and the kidneys can no longer regulate volume or solutes. Stones and glomerulonephritis are unrelated to shock physiology.",
+      "explanationImage": null,
+      "tags": [
+        "Heart Failure & Circulatory Shock",
+        "Hemodynamics, Complications, and Synthesis"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch07-q184",
+      "stem": "Disseminated intravascular coagulation (DIC) in shock is best described as:",
+      "image": null,
+      "options": [
+        "A benign increase in clotting with no consequences",
+        "Pure bleeding without any clotting",
+        "Widespread microthrombi that consume platelets and clotting factors, leading to both clotting and hemorrhage",
+        "An isolated venous clot in the leg"
+      ],
+      "answer": 2,
+      "explanation": "Hypoperfusion and inflammation activate clotting throughout the microcirculation; as factors and platelets are consumed, bleeding follows — a devastating, two-faced complication of severe shock.",
+      "explanationImage": null,
+      "tags": [
+        "Heart Failure & Circulatory Shock",
+        "Hemodynamics, Complications, and Synthesis"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch07-q185",
+      "stem": "Multiple organ dysfunction syndrome (MODS) is defined as:",
+      "image": null,
+      "options": [
+        "Failure of a single organ",
+        "Progressive dysfunction of two or more organ systems following shock and hypoperfusion",
+        "A hereditary multi-organ disease",
+        "An infection isolated to one organ"
+      ],
+      "answer": 1,
+      "explanation": "MODS is the terminal stage in which the lungs, kidneys, gut, clotting system, and other systems fail together after prolonged hypoperfusion and inflammatory injury — the endpoint of unrelieved shock.",
+      "explanationImage": null,
+      "tags": [
+        "Heart Failure & Circulatory Shock",
+        "Hemodynamics, Complications, and Synthesis"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch07-q186",
+      "stem": "Gastrointestinal complications of shock arise from:",
+      "image": null,
+      "options": [
+        "Mucosal ischemia producing stress ulceration, bleeding, and impaired barrier function",
+        "Excessive gut perfusion",
+        "Increased peristalsis and hyperabsorption",
+        "Direct bacterial invasion of the myocardium"
+      ],
+      "answer": 0,
+      "explanation": "The splanchnic circulation is constricted early in shock; the gut mucosa ischemically ulcerates and loses its barrier, allowing bacterial translocation that can perpetuate sepsis and MODS.",
+      "explanationImage": null,
+      "tags": [
+        "Heart Failure & Circulatory Shock",
+        "Hemodynamics, Complications, and Synthesis"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch07-q187",
+      "stem": "Which pairing of shock type and hemodynamic profile is CORRECT?",
+      "image": null,
+      "options": [
+        "Septic shock — high SVR, low cardiac output (early)",
+        "Hypovolemic shock — high PCWP",
+        "Cardiogenic shock — low cardiac output, high SVR, high PCWP",
+        "Neurogenic shock — high SVR with tachycardia"
+      ],
+      "answer": 2,
+      "explanation": "The cardiogenic profile (weak pump → low CO; vasoconstriction → high SVR; pulmonary congestion → high PCWP) is correct. Septic shock is low SVR/high CO early (A), hypovolemia is low PCWP (B), and neurogenic shock is low SVR with bradycardia (D).",
+      "explanationImage": null,
+      "tags": [
+        "Heart Failure & Circulatory Shock",
+        "Hemodynamics, Complications, and Synthesis"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch07-q188",
+      "stem": "Late septic shock may demonstrate a LOW cardiac output because:",
+      "image": null,
+      "options": [
+        "Perfusion has fully recovered",
+        "All patients recover spontaneously",
+        "The heart is never affected in sepsis",
+        "Capillary-leak hypovolemia and septic myocardial depression reduce preload and contractility"
+      ],
+      "answer": 3,
+      "explanation": "As the vasodilated, leaking circulation loses volume into tissues and mediators depress the myocardium, the initially hyperdynamic heart can no longer maintain output — the transition from \"warm\" to \"cold\" septic shock.",
+      "explanationImage": null,
+      "tags": [
+        "Heart Failure & Circulatory Shock",
+        "Hemodynamics, Complications, and Synthesis"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch07-q189",
+      "stem": "At the cellular level, all forms of shock converge on:",
+      "image": null,
+      "options": [
+        "Enhanced oxidative phosphorylation",
+        "Increased ATP production",
+        "Respiratory alkalosis",
+        "Anaerobic metabolism with lactic acidosis, progressing to cell death"
+      ],
+      "answer": 3,
+      "explanation": "Without adequate oxygen delivery, cells switch to anaerobic metabolism; lactate accumulates, pH falls, membranes fail, and the cell dies — the common terminal pathway of every shock state.",
+      "explanationImage": null,
+      "tags": [
+        "Heart Failure & Circulatory Shock",
+        "Hemodynamics, Complications, and Synthesis"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch07-q190",
+      "stem": "A LOW pulmonary capillary wedge pressure is characteristic of which shock state?",
+      "image": null,
+      "options": [
+        "Hypovolemic shock",
+        "Cardiogenic shock",
+        "Early septic shock",
+        "Left ventricular failure from infarction"
+      ],
+      "answer": 0,
+      "explanation": "In hypovolemia the LV is underfilled, so PCWP (a surrogate for LV preload) is low. Cardiogenic shock (B) and LV failure (D) elevate PCWP, and early sepsis typically shows low SVR with brisk output.",
+      "explanationImage": null,
+      "tags": [
+        "Heart Failure & Circulatory Shock",
+        "Hemodynamics, Complications, and Synthesis"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch07-q191",
+      "stem": "According to the lecture's conclusion, treatments of all forms of shock share the goal of:",
+      "image": null,
+      "options": [
+        "Eradicating infection with antibiotics",
+        "Reestablishing blood flow to the heart (and hence to the tissues)",
+        "Immediate surgery for every patient",
+        "Deliberately reducing cardiac output"
+      ],
+      "answer": 1,
+      "explanation": "Whether the fix is volume, inotropes, surgery, or vasopressors, every shock treatment ultimately works to restore effective circulation to the heart and the tissues it serves.",
+      "explanationImage": null,
+      "tags": [
+        "Heart Failure & Circulatory Shock",
+        "Hemodynamics, Complications, and Synthesis"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch07-q192",
+      "stem": "\"Refractory\" or irreversible shock is the stage in which:",
+      "image": null,
+      "options": [
+        "The patient responds fully to therapy",
+        "Only mild symptoms are present",
+        "There is no response to therapy — cellular and organ injury has progressed to a point of no return",
+        "The compensatory mechanisms are just beginning"
+      ],
+      "answer": 2,
+      "explanation": "In the refractory stage, perfusion cannot be reestablished effectively; established cell death and MODS progress despite all treatment, ending in death. Compensation (D) describes the earliest stage instead.",
+      "explanationImage": null,
+      "tags": [
+        "Heart Failure & Circulatory Shock",
+        "Hemodynamics, Complications, and Synthesis"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch07-q193",
+      "stem": "The role of echocardiography in a patient with undifferentiated shock is to:",
+      "image": null,
+      "options": [
+        "Play no role",
+        "Measure only the heart rate",
+        "Rapidly assess LV and RV function, detect effusion/tamponade, gauge volume status via the IVC, and identify valvular causes",
+        "Replace all hemodynamic monitoring permanently"
+      ],
+      "answer": 2,
+      "explanation": "A focused echo quickly sorts the shock: poor LV contraction (cardiogenic), RV strain (PE), effusion with collapse (tamponade), IVC collapse (hypovolemia), and valve lesions — directly guiding therapy.",
+      "explanationImage": null,
+      "tags": [
+        "Heart Failure & Circulatory Shock",
+        "Hemodynamics, Complications, and Synthesis"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch07-q194",
+      "stem": "Acute right ventricular dilation and dysfunction with septal flattening in a shock patient suggests:",
+      "image": null,
+      "options": [
+        "Hypovolemic shock",
+        "Massive pulmonary embolism (obstructive shock)",
+        "Cardiac tamponade",
+        "Neurogenic shock"
+      ],
+      "answer": 1,
+      "explanation": "Sudden RV pressure overload from a large PE acutely dilates the RV and flattens the septum toward the LV — an echo signature of obstructive shock. Hypovolemia shows a small, hyperdynamic RV; tamponade shows effusion with collapse.",
+      "explanationImage": null,
+      "tags": [
+        "Heart Failure & Circulatory Shock",
+        "Hemodynamics, Complications, and Synthesis"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch07-q195",
+      "stem": "The compensated (early) stage of shock is characterized by:",
+      "image": null,
+      "options": [
+        "Frank hypotension with organ failure",
+        "Established multi-organ dysfunction",
+        "Absence of any compensatory response",
+        "Tachycardia and vasoconstriction that maintain blood pressure and perfusion"
+      ],
+      "answer": 3,
+      "explanation": "In compensation, SNS mechanisms (tachycardia, vasoconstriction) and RAAS retention hold BP and output near normal; the patient may appear anxious with cool skin but stable vital signs.",
+      "explanationImage": null,
+      "tags": [
+        "Heart Failure & Circulatory Shock",
+        "Hemodynamics, Complications, and Synthesis"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch07-q196",
+      "stem": "The progressive stage of shock is recognized by:",
+      "image": null,
+      "options": [
+        "A falling blood pressure as compensatory mechanisms begin to fail, with intensifying signs of hypoperfusion",
+        "A rising blood pressure with bounding pulses",
+        "Complete absence of symptoms",
+        "Improved urine output"
+      ],
+      "answer": 0,
+      "explanation": "When compensation is outmatched, BP falls, oliguria deepens, mentation clouds, and tissue hypoxia worsens — the progressive stage demanding immediate, aggressive intervention before refractory shock.",
+      "explanationImage": null,
+      "tags": [
+        "Heart Failure & Circulatory Shock",
+        "Hemodynamics, Complications, and Synthesis"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch07-q197",
+      "stem": "An elevated serum lactate level in a shock patient indicates:",
+      "image": null,
+      "options": [
+        "Metabolic alkalosis",
+        "Improved tissue perfusion",
+        "Excess cellular ATP",
+        "Anaerobic metabolism from tissue hypoxia"
+      ],
+      "answer": 3,
+      "explanation": "Lactate is the product of oxygen-starved anaerobic glycolysis; rising levels quantify the depth of perfusion failure and correlate with mortality, making it a key marker of shock severity.",
+      "explanationImage": null,
+      "tags": [
+        "Heart Failure & Circulatory Shock",
+        "Hemodynamics, Complications, and Synthesis"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch07-q198",
+      "stem": "Multiple organ dysfunction follows shock primarily because:",
+      "image": null,
+      "options": [
+        "Perfusion to organs increases during shock",
+        "Immune suppression alone, with normal perfusion",
+        "Prolonged hypoperfusion, reperfusion injury, and inflammation injure the cells of multiple organs simultaneously",
+        "Each organ fails independently with no shared mechanism"
+      ],
+      "answer": 2,
+      "explanation": "Sustained hypoxia, then reperfusion with oxygen-free-radical injury, plus systemic inflammation, damage lungs, kidneys, gut, and clotting system together — producing the syndrome, not isolated coincidental failures.",
+      "explanationImage": null,
+      "tags": [
+        "Heart Failure & Circulatory Shock",
+        "Hemodynamics, Complications, and Synthesis"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch07-q199",
+      "stem": "An elderly patient has orthopnea, peripheral edema, EF 30%, elevated PCWP, and low cardiac output. The most likely diagnosis is:",
+      "image": null,
+      "options": [
+        "Congestive heart failure",
+        "Hypovolemic shock",
+        "Anaphylactic shock",
+        "Neurogenic shock"
+      ],
+      "answer": 0,
+      "explanation": "Low EF with elevated filling pressures plus positional dyspnea and edema defines CHF (systolic, left-dominant with secondary right involvement). Shock states (B–D) would present with acute hypotension and hypoperfusion.",
+      "explanationImage": null,
+      "tags": [
+        "Heart Failure & Circulatory Shock",
+        "Hemodynamics, Complications, and Synthesis"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch07-q200",
+      "stem": "Which statement accurately reflects the lecture's conclusions?",
+      "image": null,
+      "options": [
+        "Distributive shock is most common in athletics",
+        "Hypovolemic shock is most common in athletics, distributive shock is common in allergic reactions, and left- and right-sided failure have differing manifestations",
+        "All forms of circulatory failure are identical and interchangeable",
+        "Treatments of shock never involve the heart"
+      ],
+      "answer": 1,
+      "explanation": "The lecture concluded that hypovolemic shock predominates in athletics, distributive shock accompanies allergic reactions, and left- versus right-sided failure produce differing manifestations. Treatments of shock all aim to reestablish blood flow to the heart (D is false). --- **End of question bank — 200 questions.** *Coverage: heart failure definitions and classifications, systolic vs diastolic failure, left- vs right-sided failure, clinical manifestations, compensatory mechanisms (Frank-Starling, SNS, RAAS, hypertrophy), treatment, cardiogenic/hypovolemic/obstructive/distributive shock, and complications of shock.*",
+      "explanationImage": null,
+      "tags": [
+        "Heart Failure & Circulatory Shock",
+        "Hemodynamics, Complications, and Synthesis"
+      ],
+      "reference": ""
+    }
+  ]
+}

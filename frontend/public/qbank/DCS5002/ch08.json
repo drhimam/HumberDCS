@@ -1,0 +1,3806 @@
+{
+  "chapterId": "ch08",
+  "title": "Cardiac Cellular Structure & Function",
+  "questions": [
+    {
+      "id": "DCS5002-ch08-q001",
+      "stem": "Which of the three muscle tissue types is under voluntary (conscious) control?",
+      "image": null,
+      "options": [
+        "Smooth muscle",
+        "Skeletal muscle",
+        "Cardiac muscle",
+        "Both smooth and cardiac muscle"
+      ],
+      "answer": 1,
+      "explanation": "Skeletal muscle is stimulated consciously by the nervous system to produce movement at joints. Cardiac and smooth muscle are both involuntary.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiac Cellular Structure & Function",
+        "Muscle Tissue Types — Comparative Structure and Function"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch08-q002",
+      "stem": "Smooth muscle is characteristically found in:",
+      "image": null,
+      "options": [
+        "The walls of hollow organs, blood vessels, and respiratory passageways",
+        "The myocardium",
+        "Tendons and ligaments",
+        "The bony skeleton"
+      ],
+      "answer": 0,
+      "explanation": "Smooth muscle forms the walls of hollow organs (stomach, intestines, bladder), blood vessels, and airways, where it moves contents and regulates lumen diameter.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiac Cellular Structure & Function",
+        "Muscle Tissue Types — Comparative Structure and Function"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch08-q003",
+      "stem": "Compared with skeletal muscle, cardiac muscle is described as:",
+      "image": null,
+      "options": [
+        "Unstriated",
+        "Multinucleated with long cylindrical fibers",
+        "Heavily striated",
+        "Lightly striated"
+      ],
+      "answer": 3,
+      "explanation": "Cardiac muscle is striated like skeletal muscle but only lightly so, reflecting its less densely organized sarcomere arrangement.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiac Cellular Structure & Function",
+        "Muscle Tissue Types — Comparative Structure and Function"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch08-q004",
+      "stem": "Multinucleated muscle cells are a feature of:",
+      "image": null,
+      "options": [
+        "Cardiac muscle",
+        "Smooth muscle",
+        "Skeletal muscle",
+        "All three muscle types"
+      ],
+      "answer": 2,
+      "explanation": "Skeletal muscle fibers are long, cylindrical, and multinucleated, arising from developmental mitosis without cytoplasmic division. Cardiac cells have one (occasionally two) nuclei; smooth cells have one.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiac Cellular Structure & Function",
+        "Muscle Tissue Types — Comparative Structure and Function"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch08-q005",
+      "stem": "Which muscle type fatigues rapidly?",
+      "image": null,
+      "options": [
+        "Skeletal muscle",
+        "Smooth muscle",
+        "Cardiac muscle",
+        "None — no muscle type fatigues"
+      ],
+      "answer": 0,
+      "explanation": "Skeletal muscle contracts and relaxes rapidly but fatigues quickly. Cardiac and smooth muscle are built for sustained, rhythmic, or prolonged activity without fatigue.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiac Cellular Structure & Function",
+        "Muscle Tissue Types — Comparative Structure and Function"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch08-q006",
+      "stem": "Cardiac muscle is classified as which type of control?",
+      "image": null,
+      "options": [
+        "Voluntary",
+        "Involuntary but not self-excitatory",
+        "Voluntary under stress",
+        "Involuntary and self-excitatory"
+      ],
+      "answer": 3,
+      "explanation": "The heart generates its own electrical impulses (autorhythmicity), though the autonomic nervous system and hormones modify rate and force. Contraction is involuntary.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiac Cellular Structure & Function",
+        "Muscle Tissue Types — Comparative Structure and Function"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch08-q007",
+      "stem": "Wavelike (peristaltic) contractions that move substances through hollow organs are a function of:",
+      "image": null,
+      "options": [
+        "Skeletal muscle",
+        "Smooth muscle",
+        "Cardiac muscle",
+        "Intercalated discs"
+      ],
+      "answer": 1,
+      "explanation": "Peristalsis is the hallmark of smooth muscle, propelling contents along the GI tract and other tubular organs.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiac Cellular Structure & Function",
+        "Muscle Tissue Types — Comparative Structure and Function"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch08-q008",
+      "stem": "Skeletal muscle produces body movement by:",
+      "image": null,
+      "options": [
+        "Attaching to bones and acting across joints",
+        "Contracting walls of hollow organs",
+        "Rhythmic autonomous contraction",
+        "Shortening intercalated discs"
+      ],
+      "answer": 0,
+      "explanation": "Skeletal muscle attaches to bones; its voluntary contractions pull on bones to produce movement at joints.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiac Cellular Structure & Function",
+        "Muscle Tissue Types — Comparative Structure and Function"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch08-q009",
+      "stem": "A spindle-shaped cell, tapered at each end with a single central nucleus, describes:",
+      "image": null,
+      "options": [
+        "Smooth muscle",
+        "Cardiac muscle",
+        "Skeletal muscle",
+        "A motor neuron"
+      ],
+      "answer": 0,
+      "explanation": "The smooth muscle cell is spindle-shaped with tapered ends and one central nucleus — markedly different from branched cardiac cells or long multinucleated skeletal fibers.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiac Cellular Structure & Function",
+        "Muscle Tissue Types — Comparative Structure and Function"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch08-q010",
+      "stem": "Cardiac myocytes are morphologically described as:",
+      "image": null,
+      "options": [
+        "Long, cylindrical, and multinucleated",
+        "Spindle-shaped with tapered ends",
+        "Short and branched",
+        "Round and anuclear"
+      ],
+      "answer": 2,
+      "explanation": "Cardiac myocytes are short, branched cells — a design that, with intercalated discs, creates a connected network capable of synchronized contraction.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiac Cellular Structure & Function",
+        "Muscle Tissue Types — Comparative Structure and Function"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch08-q011",
+      "stem": "Intercalated discs are found exclusively in:",
+      "image": null,
+      "options": [
+        "Smooth muscle",
+        "Skeletal muscle",
+        "Both smooth and cardiac muscle",
+        "Cardiac muscle"
+      ],
+      "answer": 3,
+      "explanation": "Intercalated discs — containing desmosomes and gap junctions — are the specialized junctions connecting cardiac myocytes; they do not exist in skeletal or smooth muscle.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiac Cellular Structure & Function",
+        "Muscle Tissue Types — Comparative Structure and Function"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch08-q012",
+      "stem": "The ability of muscle to generate its own electrical impulses (autorhythmicity) is a property of:",
+      "image": null,
+      "options": [
+        "Skeletal muscle",
+        "Cardiac muscle",
+        "Smooth muscle",
+        "All muscle types"
+      ],
+      "answer": 1,
+      "explanation": "Cardiac muscle is self-excitatory: impulses arise within the muscle itself (SA node). Skeletal muscle requires nerve stimulation, and smooth muscle responds to nerves, hormones, and local factors.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiac Cellular Structure & Function",
+        "Muscle Tissue Types — Comparative Structure and Function"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch08-q013",
+      "stem": "Which muscle type constitutes the largest proportion of the body's muscle tissue?",
+      "image": null,
+      "options": [
+        "Smooth muscle",
+        "Cardiac muscle",
+        "Skeletal muscle",
+        "They are equal in mass"
+      ],
+      "answer": 2,
+      "explanation": "Skeletal muscle constitutes the largest proportion of the body's muscle mass, consistent with its role in posture and movement.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiac Cellular Structure & Function",
+        "Muscle Tissue Types — Comparative Structure and Function"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch08-q014",
+      "stem": "The single central nucleus of a smooth muscle cell sits within a cell that is:",
+      "image": null,
+      "options": [
+        "Long and cylindrical",
+        "Spindle-shaped with tapered ends",
+        "Branched with intercalated discs",
+        "Multinucleated"
+      ],
+      "answer": 1,
+      "explanation": "The classic smooth muscle morphology is a spindle (fusiform) shape, tapered at each end, with a single central nucleus.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiac Cellular Structure & Function",
+        "Muscle Tissue Types — Comparative Structure and Function"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch08-q015",
+      "stem": "Heavy striations in skeletal muscle reflect:",
+      "image": null,
+      "options": [
+        "Disorganized myofilaments",
+        "The absence of myosin",
+        "Multiple nuclei per cell",
+        "The highly organized arrangement of actin and myosin into sarcomeres"
+      ],
+      "answer": 3,
+      "explanation": "Striations are the visual signature of sarcomeres: precisely aligned thick and thin filaments. Skeletal muscle is heavily striated because of this ordered arrangement.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiac Cellular Structure & Function",
+        "Muscle Tissue Types — Comparative Structure and Function"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch08-q016",
+      "stem": "Smooth muscle responds to which of the following stimuli?",
+      "image": null,
+      "options": [
+        "Only conscious cortical commands",
+        "Only hormonal stimulation",
+        "Only direct electrical pacing",
+        "Nerve impulses, hormones, and other local stimuli"
+      ],
+      "answer": 3,
+      "explanation": "As an involuntary muscle, smooth muscle is regulated by autonomic nerves, circulating hormones, and local chemical factors (e.g., metabolites, stretch).",
+      "explanationImage": null,
+      "tags": [
+        "Cardiac Cellular Structure & Function",
+        "Muscle Tissue Types — Comparative Structure and Function"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch08-q017",
+      "stem": "Cardiac muscle activity is modified by:",
+      "image": null,
+      "options": [
+        "Nothing — it is entirely independent",
+        "The autonomic nervous system and hormones",
+        "Voluntary motor cortex output",
+        "Skeletal muscle feedback only"
+      ],
+      "answer": 1,
+      "explanation": "Although the heart initiates its own impulses, the autonomic nervous system (sympathetic/parasympathetic) and hormones (e.g., epinephrine, thyroid hormone) modify rate and contractile force.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiac Cellular Structure & Function",
+        "Muscle Tissue Types — Comparative Structure and Function"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch08-q018",
+      "stem": "Multiple nuclei per skeletal muscle fiber result from:",
+      "image": null,
+      "options": [
+        "Repeated mitosis during development without cytoplasmic (cytokinetic) division",
+        "Fusion with neurons",
+        "Repeated meiosis",
+        "Nuclear migration from satellite cells in adults"
+      ],
+      "answer": 0,
+      "explanation": "During development, skeletal muscle cells undergo mitosis without cytoplasmic division, producing long multinucleated fibers.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiac Cellular Structure & Function",
+        "Muscle Tissue Types — Comparative Structure and Function"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch08-q019",
+      "stem": "The myometrium of the uterus is composed of:",
+      "image": null,
+      "options": [
+        "Skeletal muscle",
+        "Cardiac muscle",
+        "A mixture of all three types",
+        "Smooth muscle"
+      ],
+      "answer": 3,
+      "explanation": "The uterus, like other hollow organs, is lined with smooth muscle capable of slow, powerful, sustained contractions coordinated by hormones.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiac Cellular Structure & Function",
+        "Muscle Tissue Types — Comparative Structure and Function"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch08-q020",
+      "stem": "Cardiac muscle is located in:",
+      "image": null,
+      "options": [
+        "Hollow organ walls",
+        "Tendons",
+        "The wall of the heart (myocardium)",
+        "Airways only"
+      ],
+      "answer": 2,
+      "explanation": "Cardiac muscle is confined to the myocardium, the muscular wall of the heart. ---",
+      "explanationImage": null,
+      "tags": [
+        "Cardiac Cellular Structure & Function",
+        "Smooth Muscle Structure and Function"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch08-q021",
+      "stem": "The contraction characteristics of smooth muscle are best described as:",
+      "image": null,
+      "options": [
+        "Rapid, brief twitches",
+        "Voluntary and fast",
+        "Slow and sustained, able to remain contracted for long periods",
+        "Rhythmic and self-excitatory"
+      ],
+      "answer": 2,
+      "explanation": "Smooth muscle contracts slowly and can maintain contraction for extended periods without fatigue — ideal for vascular tone, sphincter control, and organ wall function.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiac Cellular Structure & Function",
+        "Smooth Muscle Structure and Function"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch08-q022",
+      "stem": "Smooth muscle is non-striated because:",
+      "image": null,
+      "options": [
+        "It lacks myosin entirely",
+        "Its actin filaments are absent",
+        "It has no cell membrane",
+        "Its actin and myosin are not arranged in a regular sarcomere pattern"
+      ],
+      "answer": 3,
+      "explanation": "Smooth muscle contains actin and myosin, but they are not organized into repeating sarcomere units; hence no visible striations.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiac Cellular Structure & Function",
+        "Smooth Muscle Structure and Function"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch08-q023",
+      "stem": "Within blood vessels, vascular smooth muscle primarily functions to:",
+      "image": null,
+      "options": [
+        "Pump blood forward like a ventricle",
+        "Regulate the diameter (caliber) of the vessel lumen",
+        "Produce blood cells",
+        "Anchor the vessel to surrounding tissue"
+      ],
+      "answer": 1,
+      "explanation": "Vascular smooth muscle adjusts vessel caliber: constriction narrows the lumen, relaxation widens it — regulating flow distribution and blood pressure.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiac Cellular Structure & Function",
+        "Smooth Muscle Structure and Function"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch08-q024",
+      "stem": "The mechanism by which smooth muscle moves substances through hollow organs is:",
+      "image": null,
+      "options": [
+        "Synchronized atrial kick",
+        "Multinucleated rapid contraction",
+        "Wavelike (peristaltic) contractions",
+        "Gap junction conduction"
+      ],
+      "answer": 2,
+      "explanation": "Sequential wavelike contractions (peristalsis) propel contents along tubular organs — the signature function of smooth muscle in the gut and ureters.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiac Cellular Structure & Function",
+        "Smooth Muscle Structure and Function"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch08-q025",
+      "stem": "Sustained smooth muscle tone in the arterioles contributes directly to:",
+      "image": null,
+      "options": [
+        "Blood pressure regulation",
+        "Ventricular filling",
+        "Electrical conduction",
+        "Valve closure"
+      ],
+      "answer": 0,
+      "explanation": "Arteriolar tone sets systemic vascular resistance; constriction raises blood pressure, and relaxation lowers it.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiac Cellular Structure & Function",
+        "Smooth Muscle Structure and Function"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch08-q026",
+      "stem": "Which statement about smooth muscle striations is correct?",
+      "image": null,
+      "options": [
+        "Smooth muscle is heavily striated",
+        "Smooth muscle has the heaviest striations of the three types",
+        "Smooth muscle is non-striated",
+        "Smooth muscle striations appear only during systole"
+      ],
+      "answer": 2,
+      "explanation": "Because its myofilaments are not organized into sarcomeres, smooth muscle shows no striations on microscopy.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiac Cellular Structure & Function",
+        "Smooth Muscle Structure and Function"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch08-q027",
+      "stem": "In the respiratory passageways, smooth muscle controls:",
+      "image": null,
+      "options": [
+        "Gas exchange directly",
+        "Ciliary beating",
+        "Mucus production",
+        "Airway diameter (bronchoconstriction and bronchodilation)"
+      ],
+      "answer": 3,
+      "explanation": "Airway smooth muscle adjusts bronchial caliber, widening airways with relaxation and narrowing them with constriction (as in asthma).",
+      "explanationImage": null,
+      "tags": [
+        "Cardiac Cellular Structure & Function",
+        "Smooth Muscle Structure and Function"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch08-q028",
+      "stem": "Sphincters that regulate the openings of hollow organs are composed of:",
+      "image": null,
+      "options": [
+        "Skeletal muscle only",
+        "Cardiac muscle",
+        "Dense connective tissue",
+        "Smooth muscle"
+      ],
+      "answer": 3,
+      "explanation": "Circular arrangements of smooth muscle form sphincters, controlling passage between organ segments through slow, sustained contraction.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiac Cellular Structure & Function",
+        "Smooth Muscle Structure and Function"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch08-q029",
+      "stem": "In the absence of sarcomeres, smooth muscle myofilaments attach to:",
+      "image": null,
+      "options": [
+        "Z-lines",
+        "Intercalated discs",
+        "Myosin heads",
+        "Dense bodies within the cell"
+      ],
+      "answer": 3,
+      "explanation": "Smooth muscle actin filaments anchor to dense bodies (the functional analog of Z-lines), transmitting force across the cell as it contracts.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiac Cellular Structure & Function",
+        "Smooth Muscle Structure and Function"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch08-q030",
+      "stem": "The ability of vascular smooth muscle to hold contraction for long periods without fatigue is essential for:",
+      "image": null,
+      "options": [
+        "Rapid skeletal movement",
+        "Maintaining stable vascular tone and blood pressure",
+        "Generating the QRS complex",
+        "Producing troponin"
+      ],
+      "answer": 1,
+      "explanation": "Persistent, low-energy contraction maintains constant vessel caliber — the basis of stable vascular resistance and blood pressure.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiac Cellular Structure & Function",
+        "Smooth Muscle Structure and Function"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch08-q031",
+      "stem": "Excessive constriction of vascular smooth muscle produces:",
+      "image": null,
+      "options": [
+        "Vasodilation and shock",
+        "Hypertension (and vasospasm)",
+        "Increased venous capacitance",
+        "Bradycardia"
+      ],
+      "answer": 1,
+      "explanation": "When VSM constricts excessively, resistance rises and blood pressure climbs; focal spasm (e.g., Prinzmetal angina) can even occlude coronary flow.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiac Cellular Structure & Function",
+        "Smooth Muscle Structure and Function"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch08-q032",
+      "stem": "Peristaltic contractions along the intestinal wall are an example of smooth muscle:",
+      "image": null,
+      "options": [
+        "Voluntary control",
+        "Failure",
+        "Coordinated wavelike propulsion",
+        "Syncytial electrical conduction"
+      ],
+      "answer": 2,
+      "explanation": "Sequential contraction waves move intraluminal contents aborally — the classic propulsive function of smooth muscle.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiac Cellular Structure & Function",
+        "Smooth Muscle Structure and Function"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch08-q033",
+      "stem": "The nucleus of a smooth muscle cell is:",
+      "image": null,
+      "options": [
+        "Multiple per cell",
+        "Single and centrally located",
+        "Absent",
+        "Located at the cell periphery in groups"
+      ],
+      "answer": 1,
+      "explanation": "Each smooth muscle cell has a single nucleus located centrally within its spindle-shaped body.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiac Cellular Structure & Function",
+        "Smooth Muscle Structure and Function"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch08-q034",
+      "stem": "Caliber control of the vessel lumen belongs to which vascular layer?",
+      "image": null,
+      "options": [
+        "Tunica media",
+        "Tunica intima",
+        "Tunica adventitia",
+        "Valve leaflets"
+      ],
+      "answer": 0,
+      "explanation": "The tunica media contains the vascular smooth muscle that constricts or dilates the vessel, controlling lumen diameter.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiac Cellular Structure & Function",
+        "Smooth Muscle Structure and Function"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch08-q035",
+      "stem": "Which of the following can initiate smooth muscle contraction?",
+      "image": null,
+      "options": [
+        "Autonomic nerve impulses",
+        "Circulating hormones",
+        "Local chemical and mechanical factors",
+        "All of the above"
+      ],
+      "answer": 3,
+      "explanation": "Smooth muscle is highly responsive: autonomic nerves, hormones (e.g., angiotensin, vasopressin), and local factors (stretch, metabolites, endothelial signals) all regulate its contraction.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiac Cellular Structure & Function",
+        "Smooth Muscle Structure and Function"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch08-q036",
+      "stem": "The microscopic appearance of smooth muscle is distinguished from skeletal muscle by its:",
+      "image": null,
+      "options": [
+        "Presence of intercalated discs",
+        "Heavier striations",
+        "Lack of organized sarcomere banding",
+        "Multinucleation"
+      ],
+      "answer": 2,
+      "explanation": "Without sarcomere-level alignment of actin and myosin, smooth muscle lacks the banded (striated) pattern seen in skeletal and cardiac muscle.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiac Cellular Structure & Function",
+        "Smooth Muscle Structure and Function"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch08-q037",
+      "stem": "Relaxation of arterial smooth muscle produces:",
+      "image": null,
+      "options": [
+        "Increased blood pressure",
+        "Decreased vessel radius and increased resistance",
+        "Decreased blood pressure through increased vessel radius",
+        "Aortic valve closure"
+      ],
+      "answer": 2,
+      "explanation": "Vasodilation widens the lumen, lowering resistance and therefore blood pressure — the hemodynamic basis of antihypertensive vasodilators.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiac Cellular Structure & Function",
+        "Smooth Muscle Structure and Function"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch08-q038",
+      "stem": "A patient presents with episodic digital ischemia from intense focal arterial constriction. This symptom reflects:",
+      "image": null,
+      "options": [
+        "Excessive vasodilation",
+        "Endocardial inflammation",
+        "Sarcomere shortening",
+        "Excessive vascular smooth muscle constriction (vasospasm)"
+      ],
+      "answer": 3,
+      "explanation": "Localized, excessive VSM constriction (vasospasm) can critically narrow vessels — the mechanism in vasospastic conditions such as Raynaud phenomenon or Prinzmetal angina.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiac Cellular Structure & Function",
+        "Smooth Muscle Structure and Function"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch08-q039",
+      "stem": "Drugs that relax vascular smooth muscle will:",
+      "image": null,
+      "options": [
+        "Increase systemic vascular resistance",
+        "Lower blood pressure",
+        "Increase afterload",
+        "Close the AV valves"
+      ],
+      "answer": 1,
+      "explanation": "Vasodilators reduce vascular resistance (afterload) and lower blood pressure — used in hypertension, heart failure, and vasospastic disease.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiac Cellular Structure & Function",
+        "Smooth Muscle Structure and Function"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch08-q040",
+      "stem": "The vascular layer specifically composed of smooth muscle is the:",
+      "image": null,
+      "options": [
+        "Tunica intima",
+        "Tunica media",
+        "Tunica adventitia",
+        "Subendocardium"
+      ],
+      "answer": 1,
+      "explanation": "The tunica media is the muscular middle layer; the intima is endothelial lining and the adventitia is supportive connective tissue. ---",
+      "explanationImage": null,
+      "tags": [
+        "Cardiac Cellular Structure & Function",
+        "Cardiac Muscle and Intercalated Discs"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch08-q041",
+      "stem": "Intercalated discs contain which two specialized junction types?",
+      "image": null,
+      "options": [
+        "Desmosomes and gap junctions",
+        "Tight junctions and hemidesmosomes",
+        "Synapses and axon terminals",
+        "Plasmodesmata and Z-lines"
+      ],
+      "answer": 0,
+      "explanation": "Intercalated discs house desmosomes (mechanical anchoring) and gap junctions (electrical conduction), giving the disc both structural and communicative roles.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiac Cellular Structure & Function",
+        "Cardiac Muscle and Intercalated Discs"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch08-q042",
+      "stem": "The function of desmosomes within intercalated discs is to:",
+      "image": null,
+      "options": [
+        "Conduct electrical impulses between cells",
+        "Store calcium",
+        "Anchor adjacent cells together, preventing separation during contraction",
+        "Generate autorhythmic impulses"
+      ],
+      "answer": 2,
+      "explanation": "Desmosomes are mechanical \"rivets\" that hold myocytes together as they contract, preventing the cells from pulling apart under repetitive force.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiac Cellular Structure & Function",
+        "Cardiac Muscle and Intercalated Discs"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch08-q043",
+      "stem": "The function of gap junctions within intercalated discs is to:",
+      "image": null,
+      "options": [
+        "Prevent cell separation",
+        "Hydrolyze ATP",
+        "Produce troponin",
+        "Allow ions to pass between cells, conducting the electrical impulse"
+      ],
+      "answer": 3,
+      "explanation": "Gap junctions form low-resistance channels for ion flow, allowing the action potential to spread rapidly from myocyte to myocyte.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiac Cellular Structure & Function",
+        "Cardiac Muscle and Intercalated Discs"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch08-q044",
+      "stem": "Gap junctions are best described as:",
+      "image": null,
+      "options": [
+        "High-resistance insulating barriers",
+        "Low-resistance pathways for electrical current between cells",
+        "Calcium storage organelles",
+        "Connective tissue septa"
+      ],
+      "answer": 1,
+      "explanation": "By providing low-resistance intercellular pathways, gap junctions let depolarization current spread directly from one cell to the next.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiac Cellular Structure & Function",
+        "Cardiac Muscle and Intercalated Discs"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch08-q045",
+      "stem": "Because all myocytes are electrically coupled, the heart contracts:",
+      "image": null,
+      "options": [
+        "Chamber by chamber in isolation",
+        "As isolated cellular twitches",
+        "Only when externally paced",
+        "As a single functional unit (functional syncytium)"
+      ],
+      "answer": 3,
+      "explanation": "Electrical coupling through gap junctions makes the atria and ventricles behave as coordinated functional syncytia — each contracting as one unit.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiac Cellular Structure & Function",
+        "Cardiac Muscle and Intercalated Discs"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch08-q046",
+      "stem": "Adjacent cardiac myocytes are connected by:",
+      "image": null,
+      "options": [
+        "Loose connective tissue",
+        "Specialized cell membranes called intercalated discs",
+        "Myelin sheaths",
+        "Tendinous insertions"
+      ],
+      "answer": 1,
+      "explanation": "Intercalated discs are the specialized end-to-end cell membrane junctions that connect individual myocytes into a branching network.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiac Cellular Structure & Function",
+        "Cardiac Muscle and Intercalated Discs"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch08-q047",
+      "stem": "The arrangement of cardiac myocytes is best described as:",
+      "image": null,
+      "options": [
+        "A branching, interconnected network of cells",
+        "Parallel non-communicating fibers",
+        "Isolated spherical cells",
+        "A layered epithelial sheet"
+      ],
+      "answer": 0,
+      "explanation": "Myocytes branch and interconnect, creating a meshwork that transmits force and electrical signals in three dimensions.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiac Cellular Structure & Function",
+        "Cardiac Muscle and Intercalated Discs"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch08-q048",
+      "stem": "The typical number of nuclei in a cardiac myocyte is:",
+      "image": null,
+      "options": [
+        "Many (dozens)",
+        "None",
+        "One (occasionally two)",
+        "Four"
+      ],
+      "answer": 2,
+      "explanation": "Cardiac myocytes usually contain a single nucleus, occasionally two — in contrast to multinucleated skeletal fibers.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiac Cellular Structure & Function",
+        "Cardiac Muscle and Intercalated Discs"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch08-q049",
+      "stem": "\"Autorhythmicity\" means that:",
+      "image": null,
+      "options": [
+        "The heart's rhythm is set entirely by the brain",
+        "Electrical impulses are generated within the muscle itself",
+        "Rhythm requires continuous nerve input",
+        "Only the ventricles can pace the heart"
+      ],
+      "answer": 1,
+      "explanation": "Specialized cardiac cells (like the SA node) spontaneously depolarize, so impulses arise within the heart itself rather than from external nerves.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiac Cellular Structure & Function",
+        "Cardiac Muscle and Intercalated Discs"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch08-q050",
+      "stem": "Which statement correctly describes the relationship between the autonomic nervous system and cardiac contraction?",
+      "image": null,
+      "options": [
+        "The ANS modifies the rate and force of cardiac contractions but does not initiate them",
+        "The ANS initiates every heartbeat",
+        "The ANS has no influence on the heart",
+        "The ANS can voluntarily stop the heart at will"
+      ],
+      "answer": 0,
+      "explanation": "Because the heart is autorhythmic, ANS input (sympathetic/parasympathetic) tunes rate and contractility — it does not create the impulse.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiac Cellular Structure & Function",
+        "Cardiac Muscle and Intercalated Discs"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch08-q051",
+      "stem": "Without desmosomes, the most likely mechanical consequence during repeated contractions would be:",
+      "image": null,
+      "options": [
+        "Failure of impulse conduction",
+        "Increased calcium storage",
+        "Enhanced contractility",
+        "Separation of adjacent myocytes under contraction forces"
+      ],
+      "answer": 3,
+      "explanation": "Desmosomes anchor cells together; without them, the mechanical stress of repeated contraction would pull myocytes apart.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiac Cellular Structure & Function",
+        "Cardiac Muscle and Intercalated Discs"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch08-q052",
+      "stem": "Which intercalated disc component conducts the electrical impulse?",
+      "image": null,
+      "options": [
+        "Desmosome",
+        "Z-line",
+        "Gap junction",
+        "T-tubule"
+      ],
+      "answer": 2,
+      "explanation": "Gap junctions carry ionic current between cells; desmosomes serve only mechanical attachment.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiac Cellular Structure & Function",
+        "Cardiac Muscle and Intercalated Discs"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch08-q053",
+      "stem": "In cardiac muscle, the electrical impulse originates:",
+      "image": null,
+      "options": [
+        "In the brainstem motor centers",
+        "In the spinal cord",
+        "In the skeletal motor nerve",
+        "Within the muscle itself (self-excitatory)"
+      ],
+      "answer": 3,
+      "explanation": "Cardiac muscle is self-excitatory: its impulses arise intrinsically (autorhythmic cells) and are then modified by the ANS.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiac Cellular Structure & Function",
+        "Cardiac Muscle and Intercalated Discs"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch08-q054",
+      "stem": "Cardiac muscle is histologically:",
+      "image": null,
+      "options": [
+        "Non-striated",
+        "Heavily striated with many nuclei",
+        "Spindle-shaped and tapered",
+        "Lightly striated with intercalated discs"
+      ],
+      "answer": 3,
+      "explanation": "Cardiac muscle shows light striations (sarcomeres present but less densely organized) and its signature intercalated discs.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiac Cellular Structure & Function",
+        "Cardiac Muscle and Intercalated Discs"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch08-q055",
+      "stem": "Individual cardiac myocytes connect to form:",
+      "image": null,
+      "options": [
+        "Independent contractile islands",
+        "A branching network of interconnected cells",
+        "Long parallel unbranched fibers",
+        "A single giant multinucleated cell"
+      ],
+      "answer": 1,
+      "explanation": "The branching network architecture allows force and impulses to travel in multiple directions — essential for a wringing ejection motion.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiac Cellular Structure & Function",
+        "Cardiac Muscle and Intercalated Discs"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch08-q056",
+      "stem": "Regarding fatigue, cardiac muscle:",
+      "image": null,
+      "options": [
+        "Does not fatigue under normal conditions",
+        "Fatigues faster than skeletal muscle",
+        "Fatigues after each systole",
+        "Only fatigues during sleep"
+      ],
+      "answer": 0,
+      "explanation": "The heart contracts rhythmically for a lifetime without functional fatigue, thanks to its aerobic metabolism and rhythmically paced contraction.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiac Cellular Structure & Function",
+        "Cardiac Muscle and Intercalated Discs"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch08-q057",
+      "stem": "Cardiac myocytes are composed of bundles of:",
+      "image": null,
+      "options": [
+        "Myofibrils",
+        "Nuclei",
+        "Sarcolemmas",
+        "Desmosomes"
+      ],
+      "answer": 0,
+      "explanation": "Within each myocyte, bundles of myofibrils run longitudinally; each myofibril contains the contractile myofilaments.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiac Cellular Structure & Function",
+        "Cardiac Muscle and Intercalated Discs"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch08-q058",
+      "stem": "The layer of the heart wall composed of cardiac muscle is the:",
+      "image": null,
+      "options": [
+        "Endocardium",
+        "Epicardium",
+        "Myocardium",
+        "Pericardium"
+      ],
+      "answer": 2,
+      "explanation": "The myocardium is the thick muscular middle layer made of cardiac muscle; the endocardium is the endothelial lining and the epicardium the outer serous layer.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiac Cellular Structure & Function",
+        "Cardiac Muscle and Intercalated Discs"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch08-q059",
+      "stem": "Which of the following hormones can modify cardiac contractile activity?",
+      "image": null,
+      "options": [
+        "Insulin only",
+        "Growth hormone only",
+        "Antidiuretic hormone only",
+        "Epinephrine and thyroid hormone"
+      ],
+      "answer": 3,
+      "explanation": "Circulating catecholamines (epinephrine) and thyroid hormone are classic modulators of cardiac rate and contractility, acting alongside ANS input.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiac Cellular Structure & Function",
+        "Cardiac Muscle and Intercalated Discs"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch08-q060",
+      "stem": "The specialized cell membrane junction that both anchors myocytes and transmits impulses is the:",
+      "image": null,
+      "options": [
+        "Sarcomere",
+        "Intercalated disc",
+        "T-tubule",
+        "Sarcoplasmic reticulum"
+      ],
+      "answer": 1,
+      "explanation": "The intercalated disc combines mechanical (desmosomes) and electrical (gap junctions) functions in one structure. ---",
+      "explanationImage": null,
+      "tags": [
+        "Cardiac Cellular Structure & Function",
+        "Skeletal Muscle and Myocyte Internal Organization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch08-q061",
+      "stem": "Skeletal muscle fibers are:",
+      "image": null,
+      "options": [
+        "Short, branched, and mononucleated",
+        "Spindle-shaped with tapered ends",
+        "Found in hollow organ walls",
+        "Long, cylindrical, multinucleated, and heavily striated"
+      ],
+      "answer": 3,
+      "explanation": "Skeletal fibers are long cylinders with many nuclei and dense sarcomere organization, specialized for powerful, voluntary, rapid contraction.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiac Cellular Structure & Function",
+        "Skeletal Muscle and Myocyte Internal Organization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch08-q062",
+      "stem": "A \"myocyte\" is:",
+      "image": null,
+      "options": [
+        "A nerve cell",
+        "A muscle cell",
+        "A connective tissue cell",
+        "An endothelial cell"
+      ],
+      "answer": 1,
+      "explanation": "Myocyte is the generic term for a muscle cell; cardiac myocytes are the working cells of the myocardium.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiac Cellular Structure & Function",
+        "Skeletal Muscle and Myocyte Internal Organization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch08-q063",
+      "stem": "Within a muscle cell, the contractile organelles are organized into:",
+      "image": null,
+      "options": [
+        "Myofibrils — bundles running the length of the cell",
+        "Mitochondria",
+        "Nucleoli",
+        "Gap junctions"
+      ],
+      "answer": 0,
+      "explanation": "Each myocyte contains longitudinally arranged bundles of myofibrils, each composed of serially repeating sarcomeres.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiac Cellular Structure & Function",
+        "Skeletal Muscle and Myocyte Internal Organization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch08-q064",
+      "stem": "Myofibrils are composed of:",
+      "image": null,
+      "options": [
+        "Glycogen granules",
+        "Desmosomes",
+        "Myofilaments (actin and myosin)",
+        "Sarcoplasmic reticulum only"
+      ],
+      "answer": 2,
+      "explanation": "Myofibrils contain myofilaments — the thin (actin) and thick (myosin) filaments that interact to generate force.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiac Cellular Structure & Function",
+        "Skeletal Muscle and Myocyte Internal Organization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch08-q065",
+      "stem": "Skeletal muscle contraction is:",
+      "image": null,
+      "options": [
+        "Involuntary",
+        "Voluntary",
+        "Self-excitatory",
+        "Hormone-driven only"
+      ],
+      "answer": 1,
+      "explanation": "Skeletal muscle is consciously controlled: motor nerves carry volitional commands from the cortex to the muscle fibers.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiac Cellular Structure & Function",
+        "Skeletal Muscle and Myocyte Internal Organization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch08-q066",
+      "stem": "Which muscle type contracts and relaxes rapidly but fatigues quickly?",
+      "image": null,
+      "options": [
+        "Skeletal muscle",
+        "Cardiac muscle",
+        "Smooth muscle",
+        "Vascular smooth muscle"
+      ],
+      "answer": 0,
+      "explanation": "Rapid contraction–relaxation cycles with quick fatigue characterize skeletal muscle, appropriate for movement but not for sustained work.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiac Cellular Structure & Function",
+        "Skeletal Muscle and Myocyte Internal Organization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch08-q067",
+      "stem": "The multinucleation of skeletal fibers results from:",
+      "image": null,
+      "options": [
+        "Cell fusion with endothelium",
+        "Nuclear division without cell division in adults",
+        "Developmental mitosis occurring without cytoplasmic division",
+        "Meiotic recombination"
+      ],
+      "answer": 2,
+      "explanation": "Embryonic myoblasts divide their nuclei without dividing the cytoplasm, producing long multinucleated fibers.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiac Cellular Structure & Function",
+        "Skeletal Muscle and Myocyte Internal Organization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch08-q068",
+      "stem": "Striations in skeletal muscle directly reflect:",
+      "image": null,
+      "options": [
+        "Nuclear position",
+        "Capillary density",
+        "The organized arrangement of actin and myosin into sarcomeres",
+        "Glycogen storage"
+      ],
+      "answer": 2,
+      "explanation": "The repeating banding pattern is the light-microscopic image of aligned sarcomeres within parallel myofibrils.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiac Cellular Structure & Function",
+        "Skeletal Muscle and Myocyte Internal Organization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch08-q069",
+      "stem": "The primary function of skeletal muscle is:",
+      "image": null,
+      "options": [
+        "Pumping blood",
+        "Producing movement at joints by acting on bones",
+        "Regulating vessel caliber",
+        "Conducting electrical impulses"
+      ],
+      "answer": 1,
+      "explanation": "Skeletal muscle attaches to bones across joints; its contractions produce movement and maintain posture.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiac Cellular Structure & Function",
+        "Skeletal Muscle and Myocyte Internal Organization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch08-q070",
+      "stem": "Within the cardiac myocyte, the contractile units are bundled into:",
+      "image": null,
+      "options": [
+        "Intercalated discs",
+        "T-tubules",
+        "Sarcolemmas",
+        "Myofibrils"
+      ],
+      "answer": 3,
+      "explanation": "The myocyte contains bundles of myofibrils; each myofibril is a chain of sarcomeres — the actual contractile machinery.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiac Cellular Structure & Function",
+        "Skeletal Muscle and Myocyte Internal Organization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch08-q071",
+      "stem": "The cytoplasm of a muscle cell is called:",
+      "image": null,
+      "options": [
+        "Sarcoplasm",
+        "Sarcolemma",
+        "Sarcoplasmic reticulum",
+        "Sarcomere"
+      ],
+      "answer": 0,
+      "explanation": "Sarcoplasm is the muscle cell's cytoplasm; the sarcolemma is its membrane, and the SR is its calcium-handling organelle.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiac Cellular Structure & Function",
+        "Skeletal Muscle and Myocyte Internal Organization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch08-q072",
+      "stem": "The cell membrane of a muscle fiber is termed the:",
+      "image": null,
+      "options": [
+        "Endomysium",
+        "Sarcolemma",
+        "Sarcoplasm",
+        "Z-line"
+      ],
+      "answer": 1,
+      "explanation": "The sarcolemma encloses the myocyte and invaginates to form T-tubules that carry the action potential inward.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiac Cellular Structure & Function",
+        "Skeletal Muscle and Myocyte Internal Organization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch08-q073",
+      "stem": "Which muscle type shows the heaviest striations?",
+      "image": null,
+      "options": [
+        "Skeletal muscle",
+        "Cardiac muscle",
+        "Smooth muscle",
+        "All types are equally striated"
+      ],
+      "answer": 0,
+      "explanation": "Skeletal muscle's densely packed, perfectly aligned sarcomeres produce the heaviest striations; cardiac striation is lighter, and smooth muscle is non-striated.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiac Cellular Structure & Function",
+        "Skeletal Muscle and Myocyte Internal Organization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch08-q074",
+      "stem": "The contraction–relaxation pattern of skeletal muscle is:",
+      "image": null,
+      "options": [
+        "Slow and sustained",
+        "Continuous and fatigue-free",
+        "Rhythmic throughout life",
+        "Rapid with quick fatigue"
+      ],
+      "answer": 3,
+      "explanation": "Skeletal muscle is built for speed: fast contraction and relaxation cycles that fatigue relatively quickly.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiac Cellular Structure & Function",
+        "Skeletal Muscle and Myocyte Internal Organization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch08-q075",
+      "stem": "Which muscle type is self-excitatory?",
+      "image": null,
+      "options": [
+        "Skeletal muscle",
+        "Smooth muscle",
+        "Cardiac muscle",
+        "None of the above"
+      ],
+      "answer": 2,
+      "explanation": "Only cardiac muscle generates its own electrical impulses; skeletal requires nervous activation, and smooth responds to nerves, hormones, and local factors.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiac Cellular Structure & Function",
+        "Skeletal Muscle and Myocyte Internal Organization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch08-q076",
+      "stem": "The correct hierarchical organization of cardiac muscle, from largest to smallest, is:",
+      "image": null,
+      "options": [
+        "Myofilament → myofibril → myocyte",
+        "Myocyte → myofibril → myofilament (sarcomere)",
+        "Sarcomere → myocyte → myofilament",
+        "Myofibril → myocyte → intercalated disc → myofilament"
+      ],
+      "answer": 1,
+      "explanation": "Myocytes contain myofibrils, which contain myofilaments organized into sarcomeres — each level nested within the next.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiac Cellular Structure & Function",
+        "Skeletal Muscle and Myocyte Internal Organization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch08-q077",
+      "stem": "The number of nuclei in a typical cardiac myocyte is:",
+      "image": null,
+      "options": [
+        "One (occasionally two)",
+        "Dozens",
+        "Zero",
+        "Three to five"
+      ],
+      "answer": 0,
+      "explanation": "Cardiac myocytes are typically mononucleated, occasionally binucleated — never multinucleated like skeletal fibers.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiac Cellular Structure & Function",
+        "Skeletal Muscle and Myocyte Internal Organization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch08-q078",
+      "stem": "Voluntary control of skeletal muscle is exerted by the:",
+      "image": null,
+      "options": [
+        "Autonomic nervous system",
+        "Endocrine system",
+        "Nervous system via conscious (cortical) command",
+        "SA node"
+      ],
+      "answer": 2,
+      "explanation": "Conscious commands descend from the motor cortex through nerves to stimulate skeletal muscle fibers.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiac Cellular Structure & Function",
+        "Skeletal Muscle and Myocyte Internal Organization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch08-q079",
+      "stem": "Which statement about cardiac muscle control is true?",
+      "image": null,
+      "options": [
+        "It is involuntary",
+        "It is voluntary",
+        "It is controlled consciously during exercise",
+        "It is controlled by skeletal motor nerves"
+      ],
+      "answer": 0,
+      "explanation": "Cardiac muscle contraction is involuntary; even though impulses arise internally, we cannot consciously direct them.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiac Cellular Structure & Function",
+        "Skeletal Muscle and Myocyte Internal Organization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch08-q080",
+      "stem": "How many types of muscle tissue exist in the body?",
+      "image": null,
+      "options": [
+        "Two",
+        "Four",
+        "Three",
+        "Five"
+      ],
+      "answer": 2,
+      "explanation": "Three: skeletal, cardiac, and smooth — distinguished by location, shape, control, striation, and fatigue behavior. ---",
+      "explanationImage": null,
+      "tags": [
+        "Cardiac Cellular Structure & Function",
+        "The Sarcomere — Basic Contractile Unit"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch08-q081",
+      "stem": "The sarcomere is defined as the segment between two:",
+      "image": null,
+      "options": [
+        "M-lines",
+        "Z-lines",
+        "Intercalated discs",
+        "Sarcoplasmic reticula"
+      ],
+      "answer": 1,
+      "explanation": "One sarcomere extends from one Z-line (Z-disk) to the next — the repeating basic contractile unit of the myofibril.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiac Cellular Structure & Function",
+        "The Sarcomere — Basic Contractile Unit"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch08-q082",
+      "stem": "The thick filaments of the sarcomere are composed of:",
+      "image": null,
+      "options": [
+        "Actin",
+        "Tropomyosin",
+        "Troponin",
+        "Myosin"
+      ],
+      "answer": 3,
+      "explanation": "Myosin forms the thick filament; its heads (with ATPase activity) form the cross-bridges that pull the thin filaments.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiac Cellular Structure & Function",
+        "The Sarcomere — Basic Contractile Unit"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch08-q083",
+      "stem": "The thin filaments of the sarcomere are composed of:",
+      "image": null,
+      "options": [
+        "Myosin",
+        "Titin only",
+        "Desmin",
+        "Actin (plus regulatory proteins)"
+      ],
+      "answer": 3,
+      "explanation": "Thin filaments consist mainly of actin along with the regulatory proteins tropomyosin and troponin.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiac Cellular Structure & Function",
+        "The Sarcomere — Basic Contractile Unit"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch08-q084",
+      "stem": "Each cardiac thick filament contains approximately how many myosin molecules?",
+      "image": null,
+      "options": [
+        "30",
+        "3,000",
+        "3",
+        "About 300"
+      ],
+      "answer": 3,
+      "explanation": "Roughly 300 myosin molecules assemble into each thick filament, with heads projecting outward for cross-bridge formation.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiac Cellular Structure & Function",
+        "The Sarcomere — Basic Contractile Unit"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch08-q085",
+      "stem": "Titin is best described as:",
+      "image": null,
+      "options": [
+        "The calcium-binding regulatory protein",
+        "The enzyme that hydrolyzes ATP",
+        "An elastic protein connecting myosin to the Z-line, maintaining sarcomere integrity",
+        "The membrane channel that admits calcium"
+      ],
+      "answer": 2,
+      "explanation": "Titin spans from the Z-line to the myosin filament, acting as a molecular spring that maintains sarcomere structural integrity and passive elasticity.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiac Cellular Structure & Function",
+        "The Sarcomere — Basic Contractile Unit"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch08-q086",
+      "stem": "Sarcomere shortening occurs through:",
+      "image": null,
+      "options": [
+        "Shortening of the myosin molecules themselves",
+        "Melting of the Z-lines",
+        "Stretching of titin",
+        "Interaction (sliding) between actin and myosin filaments"
+      ],
+      "answer": 3,
+      "explanation": "Cross-bridge cycling slides thin filaments toward the sarcomere center; the filaments themselves do not shorten — the sarcomere does.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiac Cellular Structure & Function",
+        "The Sarcomere — Basic Contractile Unit"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch08-q087",
+      "stem": "One Z-line to the next Z-line spans exactly:",
+      "image": null,
+      "options": [
+        "One intercalated disc",
+        "One sarcomere",
+        "One myofibril",
+        "One myocyte"
+      ],
+      "answer": 1,
+      "explanation": "The sarcomere's boundaries are defined by adjacent Z-lines; thousands repeat in series along each myofibril.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiac Cellular Structure & Function",
+        "The Sarcomere — Basic Contractile Unit"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch08-q088",
+      "stem": "During contraction, the relationship between actin and myosin is that they:",
+      "image": null,
+      "options": [
+        "Interact to cause sarcomere shortening",
+        "Separate from each other",
+        "Remain entirely passive",
+        "Repel one another"
+      ],
+      "answer": 0,
+      "explanation": "Myosin heads bind actin and pull, generating the sliding interaction that shortens the sarcomere.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiac Cellular Structure & Function",
+        "The Sarcomere — Basic Contractile Unit"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch08-q089",
+      "stem": "The myosin heads possess which enzymatic activity?",
+      "image": null,
+      "options": [
+        "Kinase activity",
+        "ATPase activity",
+        "Phosphatase activity",
+        "Amylase activity"
+      ],
+      "answer": 1,
+      "explanation": "Myosin heads are ATPases: hydrolysis of ATP energizes the head for the power stroke of contraction.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiac Cellular Structure & Function",
+        "The Sarcomere — Basic Contractile Unit"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch08-q090",
+      "stem": "The process that drives the actin–myosin interaction is:",
+      "image": null,
+      "options": [
+        "Glycolysis alone",
+        "Passive diffusion of myosin",
+        "Gap junction conduction",
+        "Excitation–contraction coupling"
+      ],
+      "answer": 3,
+      "explanation": "Excitation–contraction coupling links the electrical action potential to calcium release, which then permits and drives the actin–myosin interaction.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiac Cellular Structure & Function",
+        "The Sarcomere — Basic Contractile Unit"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch08-q091",
+      "stem": "The basic contractile unit of the myocyte is the:",
+      "image": null,
+      "options": [
+        "Myofibril",
+        "Myofilament",
+        "Sarcolemma",
+        "Sarcomere"
+      ],
+      "answer": 3,
+      "explanation": "The sarcomere — Z-line to Z-line — is the fundamental unit: all macroscopic contraction is the summed shortening of millions of sarcomeres.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiac Cellular Structure & Function",
+        "The Sarcomere — Basic Contractile Unit"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch08-q092",
+      "stem": "Beyond structure, the functional contribution of titin includes:",
+      "image": null,
+      "options": [
+        "Initiating the action potential",
+        "Providing passive elastic recoil that helps the sarcomere return to resting length",
+        "Hydrolyzing ATP",
+        "Binding calcium to trigger contraction"
+      ],
+      "answer": 1,
+      "explanation": "Titin's spring-like elasticity opposes overstretch and assists recoil toward resting sarcomere length during relaxation.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiac Cellular Structure & Function",
+        "The Sarcomere — Basic Contractile Unit"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch08-q093",
+      "stem": "Z-lines, myosin filaments, actin filaments, and titin are all components of the:",
+      "image": null,
+      "options": [
+        "Sarcolemma",
+        "Sarcoplasmic reticulum",
+        "T-tubule",
+        "Sarcomere"
+      ],
+      "answer": 3,
+      "explanation": "All these elements reside within the sarcomere, the organized repeating unit that produces striations and contraction.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiac Cellular Structure & Function",
+        "The Sarcomere — Basic Contractile Unit"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch08-q094",
+      "stem": "Which filament pair is correctly matched?",
+      "image": null,
+      "options": [
+        "Actin — thick filament",
+        "Myosin — thin filament",
+        "Troponin — thick filament",
+        "Actin — thin filament"
+      ],
+      "answer": 3,
+      "explanation": "Actin composes the thin filament; myosin composes the thick filament.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiac Cellular Structure & Function",
+        "The Sarcomere — Basic Contractile Unit"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch08-q095",
+      "stem": "In series along a myofibril, sarcomeres are separated and delimited by:",
+      "image": null,
+      "options": [
+        "Sarcolemma",
+        "Mitochondria",
+        "Adjacent Z-lines",
+        "Intercalated discs"
+      ],
+      "answer": 2,
+      "explanation": "Thousands of sarcomeres lie end-to-end, each delimited by a Z-line shared with its neighbor.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiac Cellular Structure & Function",
+        "The Sarcomere — Basic Contractile Unit"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch08-q096",
+      "stem": "The sliding filament mechanism means that during contraction:",
+      "image": null,
+      "options": [
+        "Filaments shorten individually",
+        "Z-lines thicken",
+        "Myosin dissolves",
+        "Thick and thin filaments slide past each other, reducing sarcomere length"
+      ],
+      "answer": 3,
+      "explanation": "Cross-bridge cycling pulls the filaments toward each other; filament lengths stay constant while the sarcomere shortens.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiac Cellular Structure & Function",
+        "The Sarcomere — Basic Contractile Unit"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch08-q097",
+      "stem": "As a sarcomere shortens, the Z-lines:",
+      "image": null,
+      "options": [
+        "Move farther apart",
+        "Move closer together",
+        "Disappear",
+        "Remain equidistant"
+      ],
+      "answer": 1,
+      "explanation": "Sliding of actin toward the center draws the Z-lines toward each other, reducing the sarcomere's length.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiac Cellular Structure & Function",
+        "The Sarcomere — Basic Contractile Unit"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch08-q098",
+      "stem": "Titin's physical span within the sarcomere runs from:",
+      "image": null,
+      "options": [
+        "Sarcolemma to sarcoplasmic reticulum",
+        "M-line to M-line",
+        "One myocyte to the next",
+        "The Z-line to the myosin filament"
+      ],
+      "answer": 3,
+      "explanation": "Titin anchors at the Z-line and extends to the thick (myosin) filament, tethering the sarcomere's architecture.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiac Cellular Structure & Function",
+        "The Sarcomere — Basic Contractile Unit"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch08-q099",
+      "stem": "The visible striated banding of cardiac and skeletal muscle corresponds to:",
+      "image": null,
+      "options": [
+        "The repeating sarcomere organization",
+        "Mitochondrial clusters",
+        "Nuclei alignment",
+        "Capillary cross-sections"
+      ],
+      "answer": 0,
+      "explanation": "A-bands, I-bands, and Z-lines of aligned sarcomeres create the striated pattern under the microscope.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiac Cellular Structure & Function",
+        "The Sarcomere — Basic Contractile Unit"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch08-q100",
+      "stem": "Because sarcomeres are arranged in series along a myofibril, their individual shortenings:",
+      "image": null,
+      "options": [
+        "Cancel each other out",
+        "Act only laterally",
+        "Sum to produce shortening of the entire myofibril and myocyte",
+        "Occur independently without effect"
+      ],
+      "answer": 2,
+      "explanation": "Serial sarcomeres shorten in concert, multiplying the total contraction along the myofibril — the basis of macroscopic muscle shortening. ---",
+      "explanationImage": null,
+      "tags": [
+        "Cardiac Cellular Structure & Function",
+        "Thick and Thin Filaments — Contractile and Regulatory Proteins"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch08-q101",
+      "stem": "The thin filament is composed of:",
+      "image": null,
+      "options": [
+        "Myosin and ATP",
+        "Titin and desmin",
+        "Actin plus regulatory proteins (tropomyosin and troponin)",
+        "Calcium and glycogen"
+      ],
+      "answer": 2,
+      "explanation": "Thin filaments contain the contractile protein actin plus the regulatory proteins that control access of myosin to the actin binding sites.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiac Cellular Structure & Function",
+        "Thick and Thin Filaments — Contractile and Regulatory Proteins"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch08-q102",
+      "stem": "Troponin T (TnT) has the specific role of:",
+      "image": null,
+      "options": [
+        "Binding calcium",
+        "Inhibiting contraction at rest",
+        "Hydrolyzing ATP",
+        "Anchoring the troponin complex to tropomyosin"
+      ],
+      "answer": 3,
+      "explanation": "TnT is the anchoring subunit that tethers the troponin complex to the tropomyosin strand on the thin filament.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiac Cellular Structure & Function",
+        "Thick and Thin Filaments — Contractile and Regulatory Proteins"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch08-q103",
+      "stem": "The troponin subunit that binds calcium and triggers contraction is:",
+      "image": null,
+      "options": [
+        "TnT",
+        "TnC",
+        "TnI",
+        "Myosin light chain"
+      ],
+      "answer": 1,
+      "explanation": "TnC is the calcium-binding subunit; its binding of Ca²⁺ initiates the conformational change that starts contraction.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiac Cellular Structure & Function",
+        "Thick and Thin Filaments — Contractile and Regulatory Proteins"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch08-q104",
+      "stem": "The troponin subunit that inhibits the actin–myosin interaction at rest is:",
+      "image": null,
+      "options": [
+        "TnI",
+        "TnC",
+        "TnT",
+        "Tropomyosin light chain"
+      ],
+      "answer": 0,
+      "explanation": "TnI is the inhibitory subunit: at rest it holds the actin–myosin interaction \"off\" until calcium removes the brake.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiac Cellular Structure & Function",
+        "Thick and Thin Filaments — Contractile and Regulatory Proteins"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch08-q105",
+      "stem": "The immediate chemical energy that powers contraction comes from:",
+      "image": null,
+      "options": [
+        "ATP hydrolysis",
+        "Glucose alone",
+        "Calcium itself",
+        "Lactate"
+      ],
+      "answer": 0,
+      "explanation": "Myosin ATPase hydrolyzes ATP to energize the myosin head; ATP is the immediate fuel for cross-bridge cycling.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiac Cellular Structure & Function",
+        "Thick and Thin Filaments — Contractile and Regulatory Proteins"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch08-q106",
+      "stem": "The projections of the myosin filament that bind to actin are called:",
+      "image": null,
+      "options": [
+        "Z-lines",
+        "Dense bodies",
+        "Myosin heads (cross-bridges)",
+        "T-tubules"
+      ],
+      "answer": 2,
+      "explanation": "Myosin heads project from the thick filament, forming cross-bridges with actin binding sites during contraction.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiac Cellular Structure & Function",
+        "Thick and Thin Filaments — Contractile and Regulatory Proteins"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch08-q107",
+      "stem": "Troponin and tropomyosin are located on the:",
+      "image": null,
+      "options": [
+        "Thick filament",
+        "Sarcolemma",
+        "Sarcoplasmic reticulum",
+        "Thin filament"
+      ],
+      "answer": 3,
+      "explanation": "The regulatory proteins sit on the thin (actin) filament, where they control exposure of the myosin binding sites.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiac Cellular Structure & Function",
+        "Thick and Thin Filaments — Contractile and Regulatory Proteins"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch08-q108",
+      "stem": "ATP is required during contraction specifically for:",
+      "image": null,
+      "options": [
+        "Calcium production",
+        "Cross-bridge formation and cycling",
+        "Troponin synthesis",
+        "Gap junction conduction"
+      ],
+      "answer": 1,
+      "explanation": "ATP energizes the myosin head (via its ATPase) and is also needed for cross-bridge detachment — without it, cycling stops.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiac Cellular Structure & Function",
+        "Thick and Thin Filaments — Contractile and Regulatory Proteins"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch08-q109",
+      "stem": "At rest, which protein covers the actin binding sites and blocks cross-bridge formation?",
+      "image": null,
+      "options": [
+        "Titin",
+        "TnC",
+        "Myosin",
+        "Tropomyosin"
+      ],
+      "answer": 3,
+      "explanation": "Tropomyosin lies in the groove of the actin helix, physically covering the myosin binding sites until calcium signaling moves it aside.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiac Cellular Structure & Function",
+        "Thick and Thin Filaments — Contractile and Regulatory Proteins"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch08-q110",
+      "stem": "The troponin complex consists of how many subunits?",
+      "image": null,
+      "options": [
+        "One",
+        "Three (TnT, TnI, TnC)",
+        "Twelve",
+        "Five"
+      ],
+      "answer": 1,
+      "explanation": "Three subunits: TnT (anchors to tropomyosin), TnI (inhibits at rest), and TnC (binds calcium).",
+      "explanationImage": null,
+      "tags": [
+        "Cardiac Cellular Structure & Function",
+        "Thick and Thin Filaments — Contractile and Regulatory Proteins"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch08-q111",
+      "stem": "Clinically, the cardiac troponin proteins are important because they:",
+      "image": null,
+      "options": [
+        "Serve as serum biomarkers of myocardial injury",
+        "Determine blood type",
+        "Regulate heart rate directly",
+        "Form the pericardium"
+      ],
+      "answer": 0,
+      "explanation": "Troponin released from damaged myocytes (e.g., in MI) is measured in serum as the primary biomarker of myocardial necrosis.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiac Cellular Structure & Function",
+        "Thick and Thin Filaments — Contractile and Regulatory Proteins"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch08-q112",
+      "stem": "The number of myosin molecules per cardiac thick filament is approximately:",
+      "image": null,
+      "options": [
+        "30",
+        "300",
+        "3,000",
+        "30,000"
+      ],
+      "answer": 1,
+      "explanation": "About 300 myosin molecules assemble into each thick filament — a structural fact with functional relevance to force generation.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiac Cellular Structure & Function",
+        "Thick and Thin Filaments — Contractile and Regulatory Proteins"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch08-q113",
+      "stem": "After ATP hydrolysis, the energized myosin head performs the:",
+      "image": null,
+      "options": [
+        "Calcium release",
+        "Power stroke, pulling the actin filament",
+        "Resting potential",
+        "Action potential propagation"
+      ],
+      "answer": 1,
+      "explanation": "The energized head swings (power stroke) after binding actin, dragging the thin filament toward the sarcomere center.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiac Cellular Structure & Function",
+        "Thick and Thin Filaments — Contractile and Regulatory Proteins"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch08-q114",
+      "stem": "The actin binding sites become exposed for myosin when:",
+      "image": null,
+      "options": [
+        "Calcium binds TnC, removing the TnI inhibition",
+        "ATP is depleted",
+        "Titin shortens",
+        "Tropomyosin thickens"
+      ],
+      "answer": 0,
+      "explanation": "Ca²⁺ binding to TnC induces a conformational change that releases TnI's inhibition and shifts tropomyosin, exposing the binding sites.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiac Cellular Structure & Function",
+        "Thick and Thin Filaments — Contractile and Regulatory Proteins"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch08-q115",
+      "stem": "The regulatory protein that must physically move to expose actin's binding sites is:",
+      "image": null,
+      "options": [
+        "TnI",
+        "Titin",
+        "Myosin",
+        "Tropomyosin"
+      ],
+      "answer": 3,
+      "explanation": "Tropomyosin strands slide deeper into the actin groove upon the calcium–troponin signal, uncovering the cross-bridge binding sites.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiac Cellular Structure & Function",
+        "Thick and Thin Filaments — Contractile and Regulatory Proteins"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch08-q116",
+      "stem": "Cross-bridge cycling requires ATP at which points?",
+      "image": null,
+      "options": [
+        "Only at the power stroke",
+        "Only at rest",
+        "For both head energization and detachment",
+        "Never — calcium alone suffices"
+      ],
+      "answer": 2,
+      "explanation": "ATP is hydrolyzed to energize the head and must bind again to detach the head from actin; cycling ceases without it.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiac Cellular Structure & Function",
+        "Thick and Thin Filaments — Contractile and Regulatory Proteins"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch08-q117",
+      "stem": "Which troponin subunit is inhibitory at rest?",
+      "image": null,
+      "options": [
+        "TnC",
+        "TnT",
+        "TnI",
+        "All three are inhibitory"
+      ],
+      "answer": 2,
+      "explanation": "TnI holds contraction off; calcium binding to TnC neutralizes TnI's inhibition, permitting cross-bridge formation.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiac Cellular Structure & Function",
+        "Thick and Thin Filaments — Contractile and Regulatory Proteins"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch08-q118",
+      "stem": "The \"trigger\" ion for contraction binds directly to:",
+      "image": null,
+      "options": [
+        "TnT",
+        "Tropomyosin",
+        "Titin",
+        "TnC"
+      ],
+      "answer": 3,
+      "explanation": "Calcium is the trigger and its receptor is TnC; without this binding, tropomyosin stays in the blocking position.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiac Cellular Structure & Function",
+        "Thick and Thin Filaments — Contractile and Regulatory Proteins"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch08-q119",
+      "stem": "Tropomyosin's position on the thin filament is:",
+      "image": null,
+      "options": [
+        "Crossing perpendicular to actin",
+        "Running along the groove of the actin double helix",
+        "Anchored to the Z-line only",
+        "Attached to the myosin head"
+      ],
+      "answer": 1,
+      "explanation": "Tropomyosin lies lengthwise in the helical groove of actin, ideally positioned to block or reveal successive binding sites.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiac Cellular Structure & Function",
+        "Thick and Thin Filaments — Contractile and Regulatory Proteins"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch08-q120",
+      "stem": "The thin filaments are anchored at:",
+      "image": null,
+      "options": [
+        "The Z-lines of the sarcomere",
+        "The M-line",
+        "The sarcolemma",
+        "The sarcoplasmic reticulum"
+      ],
+      "answer": 0,
+      "explanation": "Actin filaments extend from the Z-lines toward the sarcomere center, defining the I-bands on either side of the Z-disk. ---",
+      "explanationImage": null,
+      "tags": [
+        "Cardiac Cellular Structure & Function",
+        "Excitation–Contraction Coupling — Sarcolemma, T-Tubules, and Sarcoplasmic Reticulum"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch08-q121",
+      "stem": "Excitation–contraction coupling is the process that links:",
+      "image": null,
+      "options": [
+        "Electrical excitation (action potential) to mechanical contraction",
+        "Diastole to systole",
+        "The atria to the ventricles",
+        "Systolic pressure to diastolic pressure"
+      ],
+      "answer": 0,
+      "explanation": "ECC converts the myocyte's electrical signal into the calcium signal that produces mechanical shortening — the essential translation of ECG to pump function.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiac Cellular Structure & Function",
+        "Excitation–Contraction Coupling — Sarcolemma, T-Tubules, and Sarcoplasmic Reticulum"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch08-q122",
+      "stem": "The membrane of the cardiac myocyte is the:",
+      "image": null,
+      "options": [
+        "Sarcoplasmic reticulum",
+        "Intercalated disc",
+        "Sarcolemma",
+        "Z-line"
+      ],
+      "answer": 2,
+      "explanation": "The sarcolemma is the myocyte's cell membrane; it propagates the action potential and invaginates to form T-tubules.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiac Cellular Structure & Function",
+        "Excitation–Contraction Coupling — Sarcolemma, T-Tubules, and Sarcoplasmic Reticulum"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch08-q123",
+      "stem": "T-tubules are formed by:",
+      "image": null,
+      "options": [
+        "The sarcoplasmic reticulum",
+        "Mitochondrial cristae",
+        "Invaginations (inward folds) of the sarcolemma",
+        "Desmosomes"
+      ],
+      "answer": 2,
+      "explanation": "T-tubules are tubular inpouchings of the surface membrane (sarcolemma) that carry the action potential into the cell interior and open to the extracellular space.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiac Cellular Structure & Function",
+        "Excitation–Contraction Coupling — Sarcolemma, T-Tubules, and Sarcoplasmic Reticulum"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch08-q124",
+      "stem": "Because T-tubules open to the extracellular space, they serve as the site of:",
+      "image": null,
+      "options": [
+        "ATP synthesis",
+        "Ion exchange between the extracellular fluid and the myocyte interior",
+        "Troponin storage",
+        "Titin anchoring"
+      ],
+      "answer": 1,
+      "explanation": "Being continuous with the extracellular space, T-tubules bring ion channels into close contact with the SR, enabling rapid calcium-triggered excitation.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiac Cellular Structure & Function",
+        "Excitation–Contraction Coupling — Sarcolemma, T-Tubules, and Sarcoplasmic Reticulum"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch08-q125",
+      "stem": "The sarcoplasmic reticulum (SR) primarily functions in:",
+      "image": null,
+      "options": [
+        "Impulse initiation",
+        "Contractile protein synthesis",
+        "Valve closure",
+        "Calcium control — storing, releasing, and resequestering Ca²⁺"
+      ],
+      "answer": 3,
+      "explanation": "The SR is the myocyte's calcium reservoir: it releases Ca²⁺ to trigger contraction and reuptakes it to permit relaxation.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiac Cellular Structure & Function",
+        "Excitation–Contraction Coupling — Sarcolemma, T-Tubules, and Sarcoplasmic Reticulum"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch08-q126",
+      "stem": "The correct sequence of excitation–contraction coupling is:",
+      "image": null,
+      "options": [
+        "Calcium release → action potential → T-tubule depolarization",
+        "Action potential → T-tubule conduction → SR calcium release → contraction",
+        "Contraction → calcium release → action potential",
+        "SR calcium release → T-tubule depolarization → action potential"
+      ],
+      "answer": 1,
+      "explanation": "The action potential spreads along the sarcolemma into T-tubules, triggering SR calcium release, which then activates the contractile machinery.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiac Cellular Structure & Function",
+        "Excitation–Contraction Coupling — Sarcolemma, T-Tubules, and Sarcoplasmic Reticulum"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch08-q127",
+      "stem": "The functional coupling complex formed by a T-tubule and adjacent SR is called a:",
+      "image": null,
+      "options": [
+        "Diad (in cardiac muscle; triad in skeletal muscle)",
+        "Z-disk",
+        "Myofibril",
+        "Sarcolemma"
+      ],
+      "answer": 0,
+      "explanation": "In cardiac muscle, a T-tubule pairs with one SR terminal cisterna (a diad); skeletal muscle uses triads — both arrangements position calcium release next to the contractile filaments.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiac Cellular Structure & Function",
+        "Excitation–Contraction Coupling — Sarcolemma, T-Tubules, and Sarcoplasmic Reticulum"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch08-q128",
+      "stem": "Calcium released from the SR initiates contraction by binding to:",
+      "image": null,
+      "options": [
+        "Tropomyosin",
+        "Titin",
+        "Troponin C on the thin filament",
+        "The sarcolemma"
+      ],
+      "answer": 2,
+      "explanation": "SR-released calcium binds TnC, relieving inhibition and allowing tropomyosin movement and cross-bridge formation.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiac Cellular Structure & Function",
+        "Excitation–Contraction Coupling — Sarcolemma, T-Tubules, and Sarcoplasmic Reticulum"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch08-q129",
+      "stem": "Myocardial relaxation requires:",
+      "image": null,
+      "options": [
+        "Passive calcium diffusion only",
+        "Active reuptake of calcium into the SR (an ATP-dependent process)",
+        "Continued action potentials",
+        "Increased extracellular calcium"
+      ],
+      "answer": 1,
+      "explanation": "Relaxation is active: SR calcium pumps (ATP-driven) clear Ca²⁺ from the cytosol, tropomyosin re-covers the binding sites, and cross-bridges release.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiac Cellular Structure & Function",
+        "Excitation–Contraction Coupling — Sarcolemma, T-Tubules, and Sarcoplasmic Reticulum"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch08-q130",
+      "stem": "The structure that conducts the action potential from the cell surface into the myocyte interior is the:",
+      "image": null,
+      "options": [
+        "T-tubule",
+        "Z-line",
+        "Intercalated disc",
+        "Mitochondrion"
+      ],
+      "answer": 0,
+      "explanation": "T-tubules are sarcolemma invaginations that carry depolarization rapidly to the cell's core, ensuring synchronous SR calcium release.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiac Cellular Structure & Function",
+        "Excitation–Contraction Coupling — Sarcolemma, T-Tubules, and Sarcoplasmic Reticulum"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch08-q131",
+      "stem": "The purpose of sarcolemmal invagination (T-tubules) is to:",
+      "image": null,
+      "options": [
+        "Increase the cell's surface area for metabolism",
+        "Store calcium",
+        "Allow the impulse to reach deep myofilaments quickly and uniformly",
+        "Anchor desmosomes"
+      ],
+      "answer": 2,
+      "explanation": "Without T-tubules, depolarization would reach the cell center by slow diffusion; the invaginations make contraction of deep and superficial sarcomeres nearly simultaneous.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiac Cellular Structure & Function",
+        "Excitation–Contraction Coupling — Sarcolemma, T-Tubules, and Sarcoplasmic Reticulum"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch08-q132",
+      "stem": "Which organelle is responsible for calcium control in the myocyte?",
+      "image": null,
+      "options": [
+        "Golgi apparatus",
+        "Nucleus",
+        "Sarcoplasmic reticulum",
+        "Ribosome"
+      ],
+      "answer": 2,
+      "explanation": "The SR stores, releases, and resequesters calcium — making it the central regulator of the contraction–relaxation cycle.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiac Cellular Structure & Function",
+        "Excitation–Contraction Coupling — Sarcolemma, T-Tubules, and Sarcoplasmic Reticulum"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch08-q133",
+      "stem": "Excitation–contraction coupling literally converts:",
+      "image": null,
+      "options": [
+        "Mechanical shortening into electrical current",
+        "Calcium into ATP",
+        "An electrical signal into a mechanical event (shortening)",
+        "Diastole into systole pressure"
+      ],
+      "answer": 2,
+      "explanation": "The action potential (electrical) is coupled through calcium to cross-bridge cycling (mechanical) — the definition of ECC.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiac Cellular Structure & Function",
+        "Excitation–Contraction Coupling — Sarcolemma, T-Tubules, and Sarcoplasmic Reticulum"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch08-q134",
+      "stem": "The site of ion exchange between the extracellular space and the myocyte interior during excitation is the:",
+      "image": null,
+      "options": [
+        "Sarcoplasmic reticulum",
+        "M-line",
+        "Intercalated disc",
+        "T-tubule"
+      ],
+      "answer": 3,
+      "explanation": "Because T-tubules are open to the extracellular space, ion flux (including the calcium that triggers SR release) occurs across their membranes.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiac Cellular Structure & Function",
+        "Excitation–Contraction Coupling — Sarcolemma, T-Tubules, and Sarcoplasmic Reticulum"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch08-q135",
+      "stem": "The calcium that activates contraction comes from:",
+      "image": null,
+      "options": [
+        "The nucleus",
+        "SR release supplemented by a small influx across the sarcolemma/T-tubule",
+        "The mitochondria only",
+        "Troponin itself"
+      ],
+      "answer": 1,
+      "explanation": "Most activator calcium is released from the SR, triggered by a small \"trigger\" calcium influx through T-tubule channels — a positive-feedback concept known as calcium-induced calcium release.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiac Cellular Structure & Function",
+        "Excitation–Contraction Coupling — Sarcolemma, T-Tubules, and Sarcoplasmic Reticulum"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch08-q136",
+      "stem": "Relaxation of the myocyte begins when:",
+      "image": null,
+      "options": [
+        "Calcium is removed from the cytosol (reuptaken into the SR), allowing tropomyosin to re-cover the binding sites",
+        "Calcium binds TnC",
+        "The sarcolemma depolarizes",
+        "Titin contracts"
+      ],
+      "answer": 0,
+      "explanation": "As cytosolic calcium falls, troponin returns to its inhibitory configuration, cross-bridges detach, and the sarcomere lengthens passively.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiac Cellular Structure & Function",
+        "Excitation–Contraction Coupling — Sarcolemma, T-Tubules, and Sarcoplasmic Reticulum"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch08-q137",
+      "stem": "Calcium-induced calcium release refers to:",
+      "image": null,
+      "options": [
+        "The small T-tubule calcium influx triggering the SR to release a much larger amount of calcium",
+        "Calcium leaving through the sarcolemma only",
+        "Calcium synthesis by troponin",
+        "Calcium-induced ATP synthesis"
+      ],
+      "answer": 0,
+      "explanation": "Trigger calcium entering through L-type channels stimulates SR release channels, amplifying the signal ~10-fold — the amplification step of cardiac ECC.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiac Cellular Structure & Function",
+        "Excitation–Contraction Coupling — Sarcolemma, T-Tubules, and Sarcoplasmic Reticulum"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch08-q138",
+      "stem": "In cardiac muscle, the T-tubules are characteristically located at the level of the:",
+      "image": null,
+      "options": [
+        "M-line",
+        "H-zone",
+        "Z-line",
+        "A-band edge only"
+      ],
+      "answer": 2,
+      "explanation": "Cardiac T-tubules sit at the Z-line (unlike skeletal muscle, where they sit at the A–I junction), positioning calcium release near the sarcomere ends.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiac Cellular Structure & Function",
+        "Excitation–Contraction Coupling — Sarcolemma, T-Tubules, and Sarcoplasmic Reticulum"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch08-q139",
+      "stem": "A heart that generates normal electrical impulses but cannot couple them to contraction would:",
+      "image": null,
+      "options": [
+        "Beat rapidly",
+        "Have a normal ECG with no effective mechanical pumping (electromechanical dissociation)",
+        "Have a wide QRS",
+        "Show ST elevation"
+      ],
+      "answer": 1,
+      "explanation": "ECC failure (e.g., profound hypoxia, hyperkalemia, calcium dysfunction) produces electrical activity without mechanical output — pulseless electrical activity on the monitor.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiac Cellular Structure & Function",
+        "Excitation–Contraction Coupling — Sarcolemma, T-Tubules, and Sarcoplasmic Reticulum"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch08-q140",
+      "stem": "The SERCA pump of the sarcoplasmic reticulum functions to:",
+      "image": null,
+      "options": [
+        "Release calcium during systole",
+        "Reuptake (resequester) calcium into the SR during relaxation",
+        "Conduct the action potential",
+        "Bind calcium to troponin"
+      ],
+      "answer": 1,
+      "explanation": "SERCA (SR Ca²⁺-ATPase) actively pumps cytosolic calcium back into the SR, an ATP-dependent step essential for relaxation (lusitropy). ---",
+      "explanationImage": null,
+      "tags": [
+        "Cardiac Cellular Structure & Function",
+        "Calcium Handling, ATP, and the Contraction–Relaxation Cycle"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch08-q141",
+      "stem": "ATP is consumed during contraction primarily by:",
+      "image": null,
+      "options": [
+        "Troponin binding",
+        "Gap junctions",
+        "Titin shortening",
+        "The myosin ATPase powering cross-bridge cycling"
+      ],
+      "answer": 3,
+      "explanation": "Myosin heads hydrolyze ATP to energize and cycle; this is the largest direct ATP consumer during systole.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiac Cellular Structure & Function",
+        "Calcium Handling, ATP, and the Contraction–Relaxation Cycle"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch08-q142",
+      "stem": "The contraction cycle is switched on when:",
+      "image": null,
+      "options": [
+        "Tropomyosin binds myosin",
+        "Calcium binds troponin C, relieving TnI inhibition",
+        "ATP depletes",
+        "The Z-lines fuse"
+      ],
+      "answer": 1,
+      "explanation": "Ca²⁺–TnC binding is the \"on switch\"; it releases the inhibition and shifts tropomyosin off the actin binding sites.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiac Cellular Structure & Function",
+        "Calcium Handling, ATP, and the Contraction–Relaxation Cycle"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch08-q143",
+      "stem": "If ATP is completely unavailable to the myosin head, cross-bridges:",
+      "image": null,
+      "options": [
+        "Cannot detach, producing a rigor-like locked state",
+        "Cycle faster",
+        "Release calcium",
+        "Shorten more"
+      ],
+      "answer": 0,
+      "explanation": "Detachment requires ATP binding; without it, heads remain locked on actin (rigor), as occurs in severe ischemia and post-mortem rigor mortis.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiac Cellular Structure & Function",
+        "Calcium Handling, ATP, and the Contraction–Relaxation Cycle"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch08-q144",
+      "stem": "The chief ATP-generating pathway of the working cardiac myocyte is:",
+      "image": null,
+      "options": [
+        "Anaerobic glycolysis only",
+        "Creatine-only metabolism",
+        "Aerobic (oxidative) metabolism in abundant mitochondria",
+        "Calcium cycling"
+      ],
+      "answer": 2,
+      "explanation": "Cardiac myocytes are packed with mitochondria (~30–40% of cell volume) and depend almost entirely on oxidative phosphorylation — hence their oxygen sensitivity.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiac Cellular Structure & Function",
+        "Calcium Handling, ATP, and the Contraction–Relaxation Cycle"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch08-q145",
+      "stem": "The abundance of mitochondria in cardiac myocytes reflects:",
+      "image": null,
+      "options": [
+        "Their need for continuous aerobic ATP production",
+        "Their voluntary control",
+        "Their multinucleation",
+        "Their non-striated appearance"
+      ],
+      "answer": 0,
+      "explanation": "A heart that beats ~100,000 times a day cannot rely on anaerobic metabolism; mitochondrial density underpins its fatigue resistance and oxygen dependence.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiac Cellular Structure & Function",
+        "Calcium Handling, ATP, and the Contraction–Relaxation Cycle"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch08-q146",
+      "stem": "Relaxation of the myocardium is:",
+      "image": null,
+      "options": [
+        "An active, energy-requiring process (calcium reuptake)",
+        "Entirely passive with no energy cost",
+        "Impossible once contraction begins",
+        "Dependent on extracellular calcium influx"
+      ],
+      "answer": 0,
+      "explanation": "Clearing cytosolic calcium (SR pumps, sarcolemmal extrusion) requires ATP; impaired relaxation is an early feature of ischemia and diastolic dysfunction.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiac Cellular Structure & Function",
+        "Calcium Handling, ATP, and the Contraction–Relaxation Cycle"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch08-q147",
+      "stem": "The correct order of the cross-bridge cycle is:",
+      "image": null,
+      "options": [
+        "Detach → bind → energize → power stroke",
+        "Power stroke → bind → detach → energize",
+        "Energize → detach → power stroke → bind",
+        "Attach → power stroke → detach (ATP) → re-energize"
+      ],
+      "answer": 3,
+      "explanation": "The energized head attaches to actin, executes the power stroke, detaches when fresh ATP binds, and is re-energized by hydrolysis for the next cycle.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiac Cellular Structure & Function",
+        "Calcium Handling, ATP, and the Contraction–Relaxation Cycle"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch08-q148",
+      "stem": "The contraction phase of the cardiac cycle corresponds to the cellular period of:",
+      "image": null,
+      "options": [
+        "Calcium reuptake into the SR",
+        "Troponin inhibition",
+        "Elevated cytosolic calcium with active cross-bridge cycling",
+        "Tropomyosin covering the binding sites"
+      ],
+      "answer": 2,
+      "explanation": "Systole is the cellular picture of high cytosolic Ca²⁺ and cross-bridge activity; diastole is the calcium-cleared, inhibited state.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiac Cellular Structure & Function",
+        "Calcium Handling, ATP, and the Contraction–Relaxation Cycle"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch08-q149",
+      "stem": "Cytosolic calcium is cleared after contraction mainly by:",
+      "image": null,
+      "options": [
+        "Passive leak into the nucleus",
+        "Diffusion into titin",
+        "SR reuptake (SERCA), with some extrusion across the sarcolemma",
+        "Binding permanently to troponin"
+      ],
+      "answer": 2,
+      "explanation": "SERCA resequesters most calcium into the SR; a smaller amount exits via the Na⁺/Ca²⁺ exchanger and sarcolemmal pump.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiac Cellular Structure & Function",
+        "Calcium Handling, ATP, and the Contraction–Relaxation Cycle"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch08-q150",
+      "stem": "In myocardial ischemia, the combination of low ATP and impaired calcium handling causes:",
+      "image": null,
+      "options": [
+        "Enhanced cross-bridge cycling",
+        "Reduced systolic contraction and impaired (delayed) relaxation",
+        "Increased lusitropy",
+        "Stronger contractions with faster relaxation"
+      ],
+      "answer": 1,
+      "explanation": "Energy starvation weakens both contraction (less cross-bridge work) and relaxation (poor calcium clearance) — the cellular basis of ischemic systolic and diastolic dysfunction.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiac Cellular Structure & Function",
+        "Calcium Handling, ATP, and the Contraction–Relaxation Cycle"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch08-q151",
+      "stem": "The correct intracellular contraction cascade is:",
+      "image": null,
+      "options": [
+        "ATP → TnC → calcium → TnI",
+        "Calcium → TnC → release of TnI inhibition → tropomyosin shifts → actin–myosin interaction",
+        "Actin–myosin → calcium → tropomyosin → TnC",
+        "TnI → ATP → calcium → myosin"
+      ],
+      "answer": 1,
+      "explanation": "Calcium binds TnC, TnI's inhibition is lifted, tropomyosin moves off the binding sites, and cross-bridges form — the canonical sequence.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiac Cellular Structure & Function",
+        "Calcium Handling, ATP, and the Contraction–Relaxation Cycle"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch08-q152",
+      "stem": "The myosin head uses ATP by:",
+      "image": null,
+      "options": [
+        "Hydrolyzing it via its ATPase site to \"cock\" the head into the high-energy position",
+        "Storing it unaltered",
+        "Converting it to calcium",
+        "Exporting it through gap junctions"
+      ],
+      "answer": 0,
+      "explanation": "ATP hydrolysis energizes (cocks) the myosin head; the stored energy is released in the power stroke upon actin binding.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiac Cellular Structure & Function",
+        "Calcium Handling, ATP, and the Contraction–Relaxation Cycle"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch08-q153",
+      "stem": "A patient with severe coronary stenosis develops transient LV \"stiffness\" and elevated filling pressures during angina. The cellular explanation is:",
+      "image": null,
+      "options": [
+        "Impaired relaxation from ATP-starved calcium reuptake (ischemic diastolic dysfunction)",
+        "Excess sarcolemmal calcium influx improving relaxation",
+        "Troponin oversaturation",
+        "Titin overproduction"
+      ],
+      "answer": 0,
+      "explanation": "Without ATP, SERCA cannot clear calcium promptly; diastolic Ca²⁺ remains elevated and the ventricle relaxes poorly — raising filling pressures during ischemia.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiac Cellular Structure & Function",
+        "Calcium Handling, ATP, and the Contraction–Relaxation Cycle"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch08-q154",
+      "stem": "The ion directly responsible for switching contraction on is:",
+      "image": null,
+      "options": [
+        "Sodium",
+        "Potassium",
+        "Calcium",
+        "Chloride"
+      ],
+      "answer": 2,
+      "explanation": "Calcium is the universal contraction trigger in striated muscle; sodium and potassium mainly set the membrane potential.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiac Cellular Structure & Function",
+        "Calcium Handling, ATP, and the Contraction–Relaxation Cycle"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch08-q155",
+      "stem": "Systolic pump strength depends most directly on:",
+      "image": null,
+      "options": [
+        "The number of nuclei",
+        "The amount of calcium delivered to the contractile apparatus during each beat",
+        "Chloride channel density",
+        "Titin length only"
+      ],
+      "answer": 1,
+      "explanation": "More calcium released and available to troponin recruits more cross-bridges — the cellular basis of inotropy (and of positive inotropic drugs that raise calcium availability).",
+      "explanationImage": null,
+      "tags": [
+        "Cardiac Cellular Structure & Function",
+        "Calcium Handling, ATP, and the Contraction–Relaxation Cycle"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch08-q156",
+      "stem": "\"Lusitropy\" refers to:",
+      "image": null,
+      "options": [
+        "Contractile strength",
+        "The rate and completeness of myocardial relaxation",
+        "Conduction velocity",
+        "Preload reserve"
+      ],
+      "answer": 1,
+      "explanation": "Lusitropy is relaxation (diastolic function), driven mainly by SERCA-mediated calcium reuptake; enhanced by sympathetic stimulation, impaired by ischemia.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiac Cellular Structure & Function",
+        "Calcium Handling, ATP, and the Contraction–Relaxation Cycle"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch08-q157",
+      "stem": "A cross-bridge detaches from actin when:",
+      "image": null,
+      "options": [
+        "Calcium floods the SR",
+        "Troponin binds calcium",
+        "Tropomyosin shifts",
+        "A fresh ATP molecule binds the myosin head"
+      ],
+      "answer": 3,
+      "explanation": "ATP binding to myosin reduces its affinity for actin, allowing detachment — without ATP the bridge stays locked.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiac Cellular Structure & Function",
+        "Calcium Handling, ATP, and the Contraction–Relaxation Cycle"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch08-q158",
+      "stem": "Sympathetic (β1) stimulation improves both systole and diastole because it:",
+      "image": null,
+      "options": [
+        "Blocks calcium channels",
+        "Increases calcium influx and SR calcium uptake, enhancing inotropy (stronger contraction) and lusitropy (faster relaxation)",
+        "Inhibits the SR entirely",
+        "Depletes ATP"
+      ],
+      "answer": 1,
+      "explanation": "β1 stimulation raises trigger calcium (stronger systole) and speeds SERCA reuptake (faster diastolic relaxation) — allowing high heart rates without incomplete relaxation.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiac Cellular Structure & Function",
+        "Calcium Handling, ATP, and the Contraction–Relaxation Cycle"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch08-q159",
+      "stem": "Digoxin increases contractility at the cellular level by:",
+      "image": null,
+      "options": [
+        "Raising intracellular calcium availability (inhibiting the Na⁺/K⁺ pump, secondarily reducing calcium extrusion)",
+        "Blocking SR calcium release",
+        "Increasing sarcolemmal calcium efflux",
+        "Binding troponin C"
+      ],
+      "answer": 0,
+      "explanation": "By inhibiting Na⁺/K⁺ ATPase, digoxin raises intracellular Na⁺, which reduces the Na⁺/Ca²⁺ exchanger's calcium removal — leaving more calcium for the contractile machinery.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiac Cellular Structure & Function",
+        "Calcium Handling, ATP, and the Contraction–Relaxation Cycle"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch08-q160",
+      "stem": "The heart's total ATP expenditure each beat includes:",
+      "image": null,
+      "options": [
+        "Only cross-bridge cycling",
+        "Only calcium reuptake",
+        "Cross-bridge cycling plus ion pumping (SERCA, Na⁺/K⁺ ATPase, and other homeostatic pumps)",
+        "Only troponin turnover"
+      ],
+      "answer": 2,
+      "explanation": "Contraction work and the ion-pumping required to restore the resting state (including SERCA) together consume the myocyte's ATP each cycle. ---",
+      "explanationImage": null,
+      "tags": [
+        "Cardiac Cellular Structure & Function",
+        "Vascular Smooth Muscle and the Vessel Wall"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch08-q161",
+      "stem": "Vascular smooth muscle (VSM) is located in which layer of the vessel wall?",
+      "image": null,
+      "options": [
+        "Tunica intima",
+        "Tunica media",
+        "Tunica adventitia",
+        "Endothelium"
+      ],
+      "answer": 1,
+      "explanation": "The tunica media houses the smooth muscle that controls vessel caliber; the intima is endothelium and the adventitia is supporting connective tissue.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiac Cellular Structure & Function",
+        "Vascular Smooth Muscle and the Vessel Wall"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch08-q162",
+      "stem": "The three layers of the vessel wall, from innermost to outermost, are:",
+      "image": null,
+      "options": [
+        "Adventitia, media, intima",
+        "Intima, media, adventitia",
+        "Media, intima, adventitia",
+        "Intima, adventitia, media"
+      ],
+      "answer": 1,
+      "explanation": "Intima (endothelial lining), media (smooth muscle), adventitia (outer support/anchoring) — the standard trilaminar organization.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiac Cellular Structure & Function",
+        "Vascular Smooth Muscle and the Vessel Wall"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch08-q163",
+      "stem": "Vascular smooth muscle contraction (vasoconstriction) causes:",
+      "image": null,
+      "options": [
+        "Decreased blood pressure",
+        "Increased vessel radius",
+        "Increased resistance and increased blood pressure",
+        "Capillary opening"
+      ],
+      "answer": 2,
+      "explanation": "Narrowing the lumen raises resistance; since pressure = flow × resistance, vasoconstriction elevates blood pressure.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiac Cellular Structure & Function",
+        "Vascular Smooth Muscle and the Vessel Wall"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch08-q164",
+      "stem": "Vascular smooth muscle relaxation (vasodilation) causes:",
+      "image": null,
+      "options": [
+        "Increased resistance",
+        "Increased blood pressure",
+        "Decreased resistance and decreased blood pressure",
+        "Valve stenosis"
+      ],
+      "answer": 2,
+      "explanation": "A wider lumen lowers resistance and pressure — the mechanism of vasodilator therapy and of physiologic hyperemia.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiac Cellular Structure & Function",
+        "Vascular Smooth Muscle and the Vessel Wall"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch08-q165",
+      "stem": "Which vessel wall layer provides structural support and anchoring?",
+      "image": null,
+      "options": [
+        "Intima",
+        "Endothelium",
+        "Adventitia",
+        "Media"
+      ],
+      "answer": 2,
+      "explanation": "The outer adventitia (mostly connective tissue) anchors the vessel to surrounding structures and supports the wall.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiac Cellular Structure & Function",
+        "Vascular Smooth Muscle and the Vessel Wall"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch08-q166",
+      "stem": "The endothelial lining of the vessel wall resides in the:",
+      "image": null,
+      "options": [
+        "Media",
+        "Adventitia",
+        "Valve sinuses",
+        "Intima"
+      ],
+      "answer": 3,
+      "explanation": "The intima is the innermost layer, a single layer of squamous endothelial cells in direct contact with blood.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiac Cellular Structure & Function",
+        "Vascular Smooth Muscle and the Vessel Wall"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch08-q167",
+      "stem": "Arteries are distinguished from veins by:",
+      "image": null,
+      "options": [
+        "Larger lumens",
+        "A thicker media with more smooth muscle",
+        "The absence of endothelium",
+        "The presence of valves in the lumen"
+      ],
+      "answer": 1,
+      "explanation": "Arterial walls are thicker and more muscular to withstand and modulate higher pressures; veins are thinner, more compliant, and contain valves.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiac Cellular Structure & Function",
+        "Vascular Smooth Muscle and the Vessel Wall"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch08-q168",
+      "stem": "Compared with cardiac muscle, vascular smooth muscle:",
+      "image": null,
+      "options": [
+        "Contains actin and myosin but lacks organized sarcomeres",
+        "Has more organized sarcomeres",
+        "Contains intercalated discs",
+        "Is multinucleated"
+      ],
+      "answer": 0,
+      "explanation": "VSM contracts via actin–myosin interactions but without sarcomere-level organization — hence it is non-striated.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiac Cellular Structure & Function",
+        "Vascular Smooth Muscle and the Vessel Wall"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch08-q169",
+      "stem": "The contraction pattern of VSM is ideally suited to its role because it:",
+      "image": null,
+      "options": [
+        "Contracts slowly and sustains tone without fatigue",
+        "Fatigues rapidly",
+        "Contracts only during systole",
+        "Requires conscious control"
+      ],
+      "answer": 0,
+      "explanation": "Sustained low-energy tone maintains constant vessel caliber for hours to days — impossible for fatigable skeletal-type muscle.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiac Cellular Structure & Function",
+        "Vascular Smooth Muscle and the Vessel Wall"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch08-q170",
+      "stem": "By adjusting the diameter of different vascular beds, VSM performs the crucial function of:",
+      "image": null,
+      "options": [
+        "Generating the ECG",
+        "Producing plasma",
+        "Redistributing blood flow to where it is needed",
+        "Filtering lymph"
+      ],
+      "answer": 2,
+      "explanation": "Differential constriction/dilation shunts cardiac output among organs (e.g., to muscle during exercise, gut during digestion) without changing total output.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiac Cellular Structure & Function",
+        "Vascular Smooth Muscle and the Vessel Wall"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch08-q171",
+      "stem": "Chronic excessive VSM constriction systemically would be expected to cause:",
+      "image": null,
+      "options": [
+        "Hypotension",
+        "Bradycardia",
+        "Elevated filling pressures only",
+        "Hypertension"
+      ],
+      "answer": 3,
+      "explanation": "Persistently elevated vascular resistance from excessive vasoconstriction produces systemic hypertension.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiac Cellular Structure & Function",
+        "Vascular Smooth Muscle and the Vessel Wall"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch08-q172",
+      "stem": "Excessive systemic vasodilation (as in sepsis) causes:",
+      "image": null,
+      "options": [
+        "Hypertension",
+        "Hypotension (low resistance, maldistributed flow)",
+        "Aortic stenosis",
+        "Increased afterload"
+      ],
+      "answer": 1,
+      "explanation": "Vasodilation collapses resistance; blood pressure falls despite a hyperdynamic heart — the hemodynamics of distributive (septic) shock.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiac Cellular Structure & Function",
+        "Vascular Smooth Muscle and the Vessel Wall"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch08-q173",
+      "stem": "The vessels where VSM tone exerts the greatest control over resistance are the:",
+      "image": null,
+      "options": [
+        "Capillaries",
+        "Vena cavae",
+        "Pulmonary veins",
+        "Arterioles"
+      ],
+      "answer": 3,
+      "explanation": "Arterioles are the chief resistance vessels; their muscular tone sets regional resistance and pressure drop.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiac Cellular Structure & Function",
+        "Vascular Smooth Muscle and the Vessel Wall"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch08-q174",
+      "stem": "The layer that contains the smooth muscle responsible for caliber control is the:",
+      "image": null,
+      "options": [
+        "Intima",
+        "Media",
+        "Adventitia",
+        "Pericardium"
+      ],
+      "answer": 1,
+      "explanation": "The tunica media is the muscular layer; its VSM is the effector of vasoconstriction and vasodilation.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiac Cellular Structure & Function",
+        "Vascular Smooth Muscle and the Vessel Wall"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch08-q175",
+      "stem": "Vascular smooth muscle tone is regulated by:",
+      "image": null,
+      "options": [
+        "Autonomic nerves, circulating hormones, and local factors",
+        "Voluntary command only",
+        "The SA node",
+        "Skeletal motor nerves"
+      ],
+      "answer": 0,
+      "explanation": "VSM is governed by sympathetic nerves (constrictor tone), hormones (angiotensin II, vasopressin, epinephrine), and local metabolites/endothelial signals.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiac Cellular Structure & Function",
+        "Vascular Smooth Muscle and the Vessel Wall"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch08-q176",
+      "stem": "Capillaries differ from arteries and veins in that they:",
+      "image": null,
+      "options": [
+        "Possess thick muscular media",
+        "Contain valves",
+        "Lack a smooth muscle layer, consisting essentially of a single endothelial layer",
+        "Have three muscular layers"
+      ],
+      "answer": 2,
+      "explanation": "Capillaries are essentially endothelial tubes optimized for exchange; resistance control is exercised upstream at the arterioles.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiac Cellular Structure & Function",
+        "Vascular Smooth Muscle and the Vessel Wall"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch08-q177",
+      "stem": "A localized weakening of the tunica media in a major artery can result in:",
+      "image": null,
+      "options": [
+        "Valve regurgitation",
+        "An aneurysm (bulging from loss of wall support)",
+        "Pericardial effusion",
+        "Heart block"
+      ],
+      "answer": 1,
+      "explanation": "The media provides wall strength; its weakening (e.g., hypertension, Marfan, syphilis) allows progressive bulging — an aneurysm.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiac Cellular Structure & Function",
+        "Vascular Smooth Muscle and the Vessel Wall"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch08-q178",
+      "stem": "The largest amount of VSM relative to lumen size is found in:",
+      "image": null,
+      "options": [
+        "Capillaries",
+        "Large veins",
+        "Vena cavae",
+        "Arteries and arterioles"
+      ],
+      "answer": 3,
+      "explanation": "Arteries have proportionally thick muscular walls (the \"thicker, more muscle\" rule from the lecture), and arterioles carry the highest resistance function.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiac Cellular Structure & Function",
+        "Vascular Smooth Muscle and the Vessel Wall"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch08-q179",
+      "stem": "\"Vascular tone\" is best described as:",
+      "image": null,
+      "options": [
+        "The passive elasticity of the aorta only",
+        "The baseline state of partial VSM constriction, which can be increased or decreased",
+        "The heart rate set by the SA node",
+        "Blood viscosity"
+      ],
+      "answer": 1,
+      "explanation": "Vessels maintain a baseline tone; neurally and humorally modulated increases/decreases in tone produce vasoconstriction or vasodilation.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiac Cellular Structure & Function",
+        "Vascular Smooth Muscle and the Vessel Wall"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch08-q180",
+      "stem": "In septic shock, the hemodynamic picture of excessive vasodilation includes:",
+      "image": null,
+      "options": [
+        "High SVR and cold extremities",
+        "Elevated afterload with low cardiac output",
+        "Pulmonary stenosis",
+        "Low systemic vascular resistance with hypotension"
+      ],
+      "answer": 3,
+      "explanation": "Pathologic vasodilation drops SVR; blood pressure falls despite high cardiac output — distributive shock's defining profile. ---",
+      "explanationImage": null,
+      "tags": [
+        "Cardiac Cellular Structure & Function",
+        "Endothelial Cells, Myocardial Metabolism, and Integration"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch08-q181",
+      "stem": "The endothelium is composed of:",
+      "image": null,
+      "options": [
+        "Multilayered cuboidal cells",
+        "Striated muscle cells",
+        "A single layer of squamous cells lining all vessels",
+        "Fibroblasts and collagen only"
+      ],
+      "answer": 2,
+      "explanation": "The endothelium is a one-cell-thick squamous lining continuous throughout the vascular tree, in direct contact with circulating blood.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiac Cellular Structure & Function",
+        "Endothelial Cells, Myocardial Metabolism, and Integration"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch08-q182",
+      "stem": "The endothelial lining of the heart chambers is called the:",
+      "image": null,
+      "options": [
+        "Pericardium",
+        "Epicardium",
+        "Media",
+        "Endocardium"
+      ],
+      "answer": 3,
+      "explanation": "The endocardium is the heart's inner endothelial lining, continuous with the vessel intima — one continuous surface from heart to capillaries.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiac Cellular Structure & Function",
+        "Endothelial Cells, Myocardial Metabolism, and Integration"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch08-q183",
+      "stem": "The endothelium is continuous:",
+      "image": null,
+      "options": [
+        "Only within the coronary arteries",
+        "From the heart through all arteries, capillaries, and veins",
+        "Only in the systemic circulation",
+        "Only at the capillary level"
+      ],
+      "answer": 1,
+      "explanation": "Endothelium forms an unbroken lining from the heart chambers through the entire vascular circuit — vascular \"plumbing\" with one continuous surface.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiac Cellular Structure & Function",
+        "Endothelial Cells, Myocardial Metabolism, and Integration"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch08-q184",
+      "stem": "A principal function of the endothelium is to:",
+      "image": null,
+      "options": [
+        "Regulate vasodilation and vasoconstriction (e.g., via nitric oxide)",
+        "Generate the QRS complex",
+        "Shorten sarcomeres",
+        "Pump blood actively"
+      ],
+      "answer": 0,
+      "explanation": "Endothelial cells release vasodilators (NO, prostacyclin) and constrictors (endothelin), tuning vessel tone in response to flow and metabolic signals.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiac Cellular Structure & Function",
+        "Endothelial Cells, Myocardial Metabolism, and Integration"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch08-q185",
+      "stem": "Endothelial cells participate in hemostasis by:",
+      "image": null,
+      "options": [
+        "Producing red blood cells",
+        "Controlling clotting and platelet function (pro-coagulant and anti-coagulant balance)",
+        "Closing the AV valves",
+        "Generating pericardial fluid"
+      ],
+      "answer": 1,
+      "explanation": "The endothelium normally presents an anti-thrombotic surface but can become pro-coagulant when injured — central to thrombosis on disrupted plaques.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiac Cellular Structure & Function",
+        "Endothelial Cells, Myocardial Metabolism, and Integration"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch08-q186",
+      "stem": "Endothelial roles in immune function include:",
+      "image": null,
+      "options": [
+        "Producing antibodies against bacteria",
+        "Phagocytosing viruses directly",
+        "Modulating inflammatory responses and leukocyte trafficking",
+        "Producing hemoglobin"
+      ],
+      "answer": 2,
+      "explanation": "Endothelium expresses adhesion molecules and secretes inflammatory mediators, directing leukocyte movement during inflammation.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiac Cellular Structure & Function",
+        "Endothelial Cells, Myocardial Metabolism, and Integration"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch08-q187",
+      "stem": "The classic endothelium-derived vasodilating mediator is:",
+      "image": null,
+      "options": [
+        "Endothelin-1",
+        "Angiotensin II",
+        "Norepinephrine",
+        "Nitric oxide (NO)"
+      ],
+      "answer": 3,
+      "explanation": "NO released by endothelial cells relaxes VSM (vasodilation); endothelin-1 is the counterpart vasoconstrictor.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiac Cellular Structure & Function",
+        "Endothelial Cells, Myocardial Metabolism, and Integration"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch08-q188",
+      "stem": "Endothelial dysfunction is a central early event in:",
+      "image": null,
+      "options": [
+        "Mitral stenosis",
+        "Atherosclerosis",
+        "Heart block",
+        "Atrial fibrillation"
+      ],
+      "answer": 1,
+      "explanation": "Loss of normal endothelial vasodilator/anti-thrombotic function promotes lipid infiltration, inflammation, and plaque formation — the initiation of atherosclerosis.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiac Cellular Structure & Function",
+        "Endothelial Cells, Myocardial Metabolism, and Integration"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch08-q189",
+      "stem": "Capillary endothelium is structurally suited to its exchange role because it is:",
+      "image": null,
+      "options": [
+        "Muscular and multilayered",
+        "Non-continuous with the heart",
+        "A thick, impermeable barrier",
+        "Extremely thin, facilitating exchange of gases, nutrients, and waste"
+      ],
+      "answer": 3,
+      "explanation": "A single-cell-thick wall minimizes diffusion distance — the structural basis of capillary exchange.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiac Cellular Structure & Function",
+        "Endothelial Cells, Myocardial Metabolism, and Integration"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch08-q190",
+      "stem": "Which of the following is NOT a function of the endothelium?",
+      "image": null,
+      "options": [
+        "Vasomotor regulation",
+        "Sarcomere shortening",
+        "Blood clotting control",
+        "Immune modulation"
+      ],
+      "answer": 1,
+      "explanation": "Sarcomere shortening is the myocyte's job. The endothelium regulates vascular tone, hemostasis, and inflammation.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiac Cellular Structure & Function",
+        "Endothelial Cells, Myocardial Metabolism, and Integration"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch08-q191",
+      "stem": "According to the lecture's key takeaways, contraction of the heart is driven by:",
+      "image": null,
+      "options": [
+        "Calcium and ATP",
+        "Sodium and chloride",
+        "Nitric oxide",
+        "Blood pressure alone"
+      ],
+      "answer": 0,
+      "explanation": "Calcium is the trigger and ATP the fuel: \"Calcium + ATP drive contraction\" is the cellular engine room of every heartbeat.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiac Cellular Structure & Function",
+        "Endothelial Cells, Myocardial Metabolism, and Integration"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch08-q192",
+      "stem": "The phrase \"electrical → mechanical coupling\" summarizes:",
+      "image": null,
+      "options": [
+        "Venous return dynamics",
+        "Valve closure sequence",
+        "Excitation–contraction coupling: the action potential becomes contraction via calcium",
+        "Systolic–diastolic pressure relationship"
+      ],
+      "answer": 2,
+      "explanation": "ECC is literally the conversion of electrical excitation into mechanical shortening — the bridge between ECG and pump function.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiac Cellular Structure & Function",
+        "Endothelial Cells, Myocardial Metabolism, and Integration"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch08-q193",
+      "stem": "After a myocardial infarction, regional wall motion abnormality develops because:",
+      "image": null,
+      "options": [
+        "The pericardium thickens",
+        "Necrotic myocytes cannot execute excitation–contraction coupling, so the affected region does not shorten",
+        "The endothelium proliferates",
+        "Valves become stenotic"
+      ],
+      "answer": 1,
+      "explanation": "Dead myocytes lose contractile machinery; the infarct zone is akinetic or dyskinetic while surviving myocardium compensates — the echo signature of MI.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiac Cellular Structure & Function",
+        "Endothelial Cells, Myocardial Metabolism, and Integration"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch08-q194",
+      "stem": "Hypertrophic cardiomyopathy is characterized pathologically by:",
+      "image": null,
+      "options": [
+        "Disorganized, hypertrophied sarcomeres/myocytes producing a stiff, thick wall",
+        "Endothelial proliferation",
+        "Excessive VSM constriction",
+        "Absence of sarcomeres"
+      ],
+      "answer": 0,
+      "explanation": "Mutations in sarcomere proteins cause myocyte disarray and hypertrophy — thick, stiff walls with diastolic dysfunction and outflow obstruction.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiac Cellular Structure & Function",
+        "Endothelial Cells, Myocardial Metabolism, and Integration"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch08-q195",
+      "stem": "Because cardiac myocytes form an electrical syncytium, an impulse arising anywhere in the atrial muscle:",
+      "image": null,
+      "options": [
+        "Remains localized",
+        "Fades within one cell",
+        "Depolarizes only the SA node",
+        "Spreads through gap junctions to excite the atria as a single unit"
+      ],
+      "answer": 3,
+      "explanation": "Low-resistance gap junctions propagate the impulse cell-to-cell, so the whole chamber contracts as a unit — the syncytium concept.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiac Cellular Structure & Function",
+        "Endothelial Cells, Myocardial Metabolism, and Integration"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch08-q196",
+      "stem": "Infective endocarditis is an infection of the:",
+      "image": null,
+      "options": [
+        "Pericardial space",
+        "Tunica media",
+        "Endocardial (endothelial) surface, typically valve leaflets",
+        "Myocyte sarcomeres"
+      ],
+      "answer": 2,
+      "explanation": "The endocardium is the heart's endothelial lining; damaged valve endothelium can seed infection with vegetations.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiac Cellular Structure & Function",
+        "Endothelial Cells, Myocardial Metabolism, and Integration"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch08-q197",
+      "stem": "Age-related arterial stiffening is largely attributable to changes in the:",
+      "image": null,
+      "options": [
+        "Endothelial glycocalyx only",
+        "Capillary bed",
+        "Media — loss of elastic recoil and altered VSM/connective tissue",
+        "Pericardium"
+      ],
+      "answer": 2,
+      "explanation": "Medial degeneration (elastin fragmentation, collagen deposition, VSM changes) stiffens arteries, raising systolic pressure and afterload with age.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiac Cellular Structure & Function",
+        "Endothelial Cells, Myocardial Metabolism, and Integration"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch08-q198",
+      "stem": "On echocardiography, longstanding hypertension appears as thickened LV walls because:",
+      "image": null,
+      "options": [
+        "The pericardium hypertrophies",
+        "Myocytes add sarcomeres (hypertrophy) in response to chronic pressure load",
+        "Endothelial cells multiply",
+        "Blood becomes more viscous"
+      ],
+      "answer": 1,
+      "explanation": "Individual myocytes enlarge (add sarcomeres in parallel), thickening the wall — the cellular substrate of concentric LVH seen on echo.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiac Cellular Structure & Function",
+        "Endothelial Cells, Myocardial Metabolism, and Integration"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch08-q199",
+      "stem": "Which sequence correctly traces a contraction from impulse to shortening?",
+      "image": null,
+      "options": [
+        "SR calcium → impulse → gap junction → actin–myosin",
+        "Impulse → gap junctions → T-tubules → SR calcium release → calcium binds TnC → actin–myosin interaction → sarcomere shortening",
+        "Actin–myosin → SR calcium → T-tubules → impulse",
+        "ATP → endothelium → nitric oxide → shortening"
+      ],
+      "answer": 1,
+      "explanation": "This is the full ECC cascade: conducted impulse, T-tubular penetration, SR calcium release, troponin activation, cross-bridge cycling, sarcomere shortening.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiac Cellular Structure & Function",
+        "Endothelial Cells, Myocardial Metabolism, and Integration"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch08-q200",
+      "stem": "The final common pathway uniting all cardiac cellular machinery is:",
+      "image": null,
+      "options": [
+        "Sarcomere shortening through calcium-activated, ATP-fueled actin–myosin interaction",
+        "Endothelial NO release",
+        "VSM constriction",
+        "Venous valve closure"
+      ],
+      "answer": 0,
+      "explanation": "Whatever the trigger (electrical, hormonal, pharmacologic), the heart's output ultimately comes down to calcium-triggered, ATP-powered sarcomere shortening in millions of myocytes. --- *End of question bank — Lecture 7: Cardiac Cellular Structure and Function. 200 questions.*",
+      "explanationImage": null,
+      "tags": [
+        "Cardiac Cellular Structure & Function",
+        "Endothelial Cells, Myocardial Metabolism, and Integration"
+      ],
+      "reference": ""
+    }
+  ]
+}

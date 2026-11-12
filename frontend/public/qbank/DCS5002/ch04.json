@@ -1,58 +1,3804 @@
 {
   "chapterId": "ch04",
-  "title": "Hemodynamics & Cardiac Output",
+  "title": "Electrical Activity of the Heart",
   "questions": [
     {
       "id": "DCS5002-ch04-q001",
-      "stem": "Cardiac output is calculated as:",
+      "stem": "Which specialized structure allows electrical signals to spread directly from one cardiac muscle cell to the next?",
       "image": null,
       "options": [
-        "Stroke volume × heart rate",
-        "Stroke volume ÷ heart rate",
-        "End-diastolic volume − end-systolic volume",
-        "Mean arterial pressure × heart rate"
+        "Desmosomes",
+        "Gap junctions",
+        "T-tubules",
+        "Sarcolemma folds"
       ],
-      "answer": 0,
-      "explanation": "CO = SV × HR. Stroke volume is EDV − ESV. On echo it can also be found with LVOT area × LVOT VTI.",
+      "answer": 1,
+      "explanation": "Gap junctions form low-resistance channels that pass ions and current between adjacent myocytes, allowing cell-to-cell impulse spread. Desmosomes anchor cells mechanically but do not conduct electricity.",
       "explanationImage": null,
       "tags": [
-        "hemodynamics"
+        "Electrical Activity of the Heart",
+        "Cardiac Muscle Structure & the Electrical Syncytium"
       ],
       "reference": ""
     },
     {
       "id": "DCS5002-ch04-q002",
-      "stem": "An LVOT diameter of 2.0 cm and an LVOT VTI of 20 cm give a stroke volume of approximately:",
+      "stem": "Intercalated discs contain gap junctions plus which mechanical anchoring structure?",
       "image": null,
       "options": [
-        "31 mL",
-        "63 mL",
-        "80 mL",
-        "126 mL"
+        "Z-lines",
+        "Synaptic clefts",
+        "Desmosomes",
+        "Myofilaments"
       ],
-      "answer": 1,
-      "explanation": "LVOT area = 0.785 × D² = 0.785 × 4 = 3.14 cm². SV = 3.14 cm² × 20 cm ≈ 63 mL.",
+      "answer": 2,
+      "explanation": "Intercalated discs house both gap junctions (electrical coupling) and desmosomes (mechanical coupling that holds cells together during contraction). This combination supports synchronized beating.",
       "explanationImage": null,
       "tags": [
-        "calculations"
+        "Electrical Activity of the Heart",
+        "Cardiac Muscle Structure & the Electrical Syncytium"
       ],
       "reference": ""
     },
     {
       "id": "DCS5002-ch04-q003",
-      "stem": "According to the Frank-Starling mechanism, increasing preload (within physiologic limits) will:",
+      "stem": "The statement \"the heart behaves as a functional syncytium\" means that:",
       "image": null,
       "options": [
-        "Decrease stroke volume",
-        "Increase stroke volume",
-        "Not change stroke volume",
-        "Decrease contractility"
+        "Each myocyte contracts independently of its neighbors",
+        "There is no electrical coupling between cardiac cells",
+        "The atria function as one coordinated unit and the ventricles as another",
+        "Only the pacemaker cells generate contractile tension"
       ],
-      "answer": 1,
-      "explanation": "More stretch of the myocardial fibers at end-diastole (preload) produces a stronger contraction, so stroke volume increases. This holds until the fibers are overstretched.",
+      "answer": 2,
+      "explanation": "Because of extensive gap junctions, the atrial muscle depolarizes and contracts as a single unit, and the ventricular muscle does the same. The fibrous skeleton prevents direct electrical spread from atria to ventricles.",
       "explanationImage": null,
       "tags": [
-        "physiology"
+        "Electrical Activity of the Heart",
+        "Cardiac Muscle Structure & the Electrical Syncytium"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch04-q004",
+      "stem": "Which structural feature is found in cardiac muscle but NOT in skeletal muscle?",
+      "image": null,
+      "options": [
+        "Striations",
+        "Multiple peripheral nuclei",
+        "Voluntary (conscious) control",
+        "Intercalated discs"
+      ],
+      "answer": 3,
+      "explanation": "Intercalated discs with gap junctions and desmosomes are unique to cardiac muscle. Cardiac muscle is striated like skeletal muscle, but it is involuntary and typically has a single central nucleus.",
+      "explanationImage": null,
+      "tags": [
+        "Electrical Activity of the Heart",
+        "Cardiac Muscle Structure & the Electrical Syncytium"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch04-q005",
+      "stem": "Cardiac muscle cells characteristically contain:",
+      "image": null,
+      "options": [
+        "Several nuclei located peripherally",
+        "A single nucleus located centrally",
+        "No nucleus after maturation",
+        "Nuclei clustered at each cell end"
+      ],
+      "answer": 1,
+      "explanation": "Cardiac myocytes are short, branching cells with a single (occasionally two) centrally placed nucleus. Peripheral multiple nuclei are a feature of skeletal muscle fibers.",
+      "explanationImage": null,
+      "tags": [
+        "Electrical Activity of the Heart",
+        "Cardiac Muscle Structure & the Electrical Syncytium"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch04-q006",
+      "stem": "Functionally, gap junctions provide:",
+      "image": null,
+      "options": [
+        "Low-resistance pathways for ion flow between cells",
+        "Strong mechanical adhesion only",
+        "Electrical insulation between cells",
+        "A direct blood supply to each myocyte"
+      ],
+      "answer": 0,
+      "explanation": "Gap junctions are connexon channels that allow ions and small molecules to pass, creating a low-resistance electrical pathway. Desmosomes, not gap junctions, provide the mechanical attachment.",
+      "explanationImage": null,
+      "tags": [
+        "Electrical Activity of the Heart",
+        "Cardiac Muscle Structure & the Electrical Syncytium"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch04-q007",
+      "stem": "Depolarization spreads rapidly across the myocardium because of:",
+      "image": null,
+      "options": [
+        "Tight junctions between endothelial cells",
+        "Gap junctions combined with conduction along the sarcolemma",
+        "Slow chemical diffusion of neurotransmitters",
+        "Neural synapses within the myocardium"
+      ],
+      "answer": 1,
+      "explanation": "The impulse travels along each cell's sarcolemma and jumps to the next cell through gap junctions, producing rapid whole-tissue depolarization. There are no synapses within the working myocardium.",
+      "explanationImage": null,
+      "tags": [
+        "Electrical Activity of the Heart",
+        "Cardiac Muscle Structure & the Electrical Syncytium"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch04-q008",
+      "stem": "Autorhythmic cells are defined as cells that:",
+      "image": null,
+      "options": [
+        "Generate impulses spontaneously without external stimulation",
+        "Fire only when stimulated by the autonomic nervous system",
+        "Are found only in the ventricular walls",
+        "Maintain a perfectly stable resting membrane potential"
+      ],
+      "answer": 0,
+      "explanation": "Autorhythmic (pacemaker) cells depolarize themselves spontaneously and repeatedly, setting the heart's intrinsic rhythm. The ANS only modifies this intrinsic activity.",
+      "explanationImage": null,
+      "tags": [
+        "Electrical Activity of the Heart",
+        "Cardiac Muscle Structure & the Electrical Syncytium"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch04-q009",
+      "stem": "What is the role of the autonomic nervous system in the heartbeat?",
+      "image": null,
+      "options": [
+        "It initiates every heartbeat",
+        "It has no influence on cardiac electrical activity",
+        "It directly depolarizes ventricular muscle cells",
+        "It modifies the rate and force of the intrinsic rhythm"
+      ],
+      "answer": 3,
+      "explanation": "The heartbeat is generated intrinsically by the conduction system; sympathetic and parasympathetic input only speeds up, slows down, or strengthens the inherent rhythm. The heart continues beating without neural input.",
+      "explanationImage": null,
+      "tags": [
+        "Electrical Activity of the Heart",
+        "Cardiac Muscle Structure & the Electrical Syncytium"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch04-q010",
+      "stem": "The myocardium is composed of which tissue type?",
+      "image": null,
+      "options": [
+        "Cardiac muscle",
+        "Smooth muscle",
+        "Skeletal muscle",
+        "Dense fibrous connective tissue"
+      ],
+      "answer": 0,
+      "explanation": "The myocardium is the thick muscular middle layer of the heart made exclusively of cardiac muscle, the only tissue type found in the heart itself.",
+      "explanationImage": null,
+      "tags": [
+        "Electrical Activity of the Heart",
+        "Cardiac Muscle Structure & the Electrical Syncytium"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch04-q011",
+      "stem": "Which of the following is NOT a characteristic of cardiac muscle?",
+      "image": null,
+      "options": [
+        "Branching cells",
+        "Striated appearance",
+        "Under voluntary control",
+        "Involuntary contraction"
+      ],
+      "answer": 2,
+      "explanation": "Cardiac muscle is involuntary, striated, and composed of branching cells; it cannot be consciously controlled. Voluntary control is a property of skeletal muscle.",
+      "explanationImage": null,
+      "tags": [
+        "Electrical Activity of the Heart",
+        "Cardiac Muscle Structure & the Electrical Syncytium"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch04-q012",
+      "stem": "Cardiac myocytes are packed with mitochondria primarily because:",
+      "image": null,
+      "options": [
+        "Their continuous contractile activity demands large amounts of ATP",
+        "Mitochondria store the calcium for contraction",
+        "Mitochondria generate the action potentials",
+        "Mitochondria produce red blood cells"
+      ],
+      "answer": 0,
+      "explanation": "The heart works continuously and relies almost entirely on aerobic metabolism, so dense mitochondrial packing supplies the ATP for contraction and ion pumping. Calcium is stored in the sarcoplasmic reticulum, not mitochondria.",
+      "explanationImage": null,
+      "tags": [
+        "Electrical Activity of the Heart",
+        "Cardiac Muscle Structure & the Electrical Syncytium"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch04-q013",
+      "stem": "Sarcomeres, the contractile units of cardiac muscle, are located:",
+      "image": null,
+      "options": [
+        "Within the intercalated discs",
+        "Within myocytes, between successive Z-lines",
+        "In the sarcolemma",
+        "Inside gap junctions"
+      ],
+      "answer": 1,
+      "explanation": "Sarcomeres run from Z-line to Z-line within each cardiac cell and contain the actin–myosin contractile machinery. Intercalated discs and gap junctions are coupling structures, not contractile units.",
+      "explanationImage": null,
+      "tags": [
+        "Electrical Activity of the Heart",
+        "Cardiac Muscle Structure & the Electrical Syncytium"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch04-q014",
+      "stem": "The desmosomes of the intercalated disc serve to:",
+      "image": null,
+      "options": [
+        "Conduct ions between cells",
+        "Mechanically hold adjacent cells together during contraction",
+        "Delay conduction between atrium and ventricle",
+        "Generate the pacemaker potential"
+      ],
+      "answer": 1,
+      "explanation": "Desmosomes are anchoring junctions that resist the mechanical stress of repeated contraction. Ion conduction is the job of gap junctions in the same disc.",
+      "explanationImage": null,
+      "tags": [
+        "Electrical Activity of the Heart",
+        "Cardiac Muscle Structure & the Electrical Syncytium"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch04-q015",
+      "stem": "Direct electrical spread from atrial muscle into ventricular muscle is prevented by the:",
+      "image": null,
+      "options": [
+        "Coronary sinus",
+        "Thebesian valve",
+        "Gap junctions at the AV ring",
+        "Fibrous skeleton of the heart"
+      ],
+      "answer": 3,
+      "explanation": "The non-conducting fibrous skeleton (annulus fibrosus) electrically isolates atria from ventricles, so the impulse must pass through the AV node and His bundle. This isolation is what makes one-way, organized conduction possible.",
+      "explanationImage": null,
+      "tags": [
+        "Electrical Activity of the Heart",
+        "Cardiac Muscle Structure & the Electrical Syncytium"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch04-q016",
+      "stem": "If gap junction function were significantly reduced in ventricular myocardium, the most likely result would be:",
+      "image": null,
+      "options": [
+        "Faster impulse conduction",
+        "Slowed cell-to-cell spread of depolarization",
+        "Stronger, more synchronized contraction",
+        "No measurable effect"
+      ],
+      "answer": 1,
+      "explanation": "Gap junctions are the low-resistance route for current flow; reducing them increases electrical resistance and slows propagation. Slowed conduction predisposes to dyssynchrony and re-entry arrhythmias.",
+      "explanationImage": null,
+      "tags": [
+        "Electrical Activity of the Heart",
+        "Cardiac Muscle Structure & the Electrical Syncytium"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch04-q017",
+      "stem": "Cardiac cells are electrically coupled by gap junctions and mechanically coupled by:",
+      "image": null,
+      "options": [
+        "Synapses",
+        "Tight junctions",
+        "Desmosomes",
+        "Motor end plates"
+      ],
+      "answer": 2,
+      "explanation": "The intercalated disc contains both junction types: gap junctions for electrical continuity and desmosomes for mechanical strength. Synapses and motor end plates belong to the nervous system, not cardiac muscle.",
+      "explanationImage": null,
+      "tags": [
+        "Electrical Activity of the Heart",
+        "Cardiac Muscle Structure & the Electrical Syncytium"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch04-q018",
+      "stem": "Within a cardiac cell, the electrical signal reaches the cell interior rapidly via the:",
+      "image": null,
+      "options": [
+        "Z-lines",
+        "Intercalated disc",
+        "Mitochondria",
+        "T-tubules"
+      ],
+      "answer": 3,
+      "explanation": "T-tubules are sarcolemmal invaginations that carry the depolarization deep into the cell so the entire myofibril is activated nearly simultaneously. Gap junctions connect cells; T-tubules penetrate each cell.",
+      "explanationImage": null,
+      "tags": [
+        "Electrical Activity of the Heart",
+        "Cardiac Muscle Structure & the Electrical Syncytium"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch04-q019",
+      "stem": "The atria depolarizing and contracting \"as one unit\" is attributable to:",
+      "image": null,
+      "options": [
+        "A common nerve supplying every atrial cell simultaneously",
+        "Gap junctional coupling between atrial myocytes",
+        "The AV valves holding the cells together",
+        "The pericardium compressing the walls equally"
+      ],
+      "answer": 1,
+      "explanation": "Electrical coupling through gap junctions makes the atrial muscle behave electrically as a syncytium, so a single SA nodal impulse activates all atrial cells in sequence within milliseconds.",
+      "explanationImage": null,
+      "tags": [
+        "Electrical Activity of the Heart",
+        "Cardiac Muscle Structure & the Electrical Syncytium"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch04-q020",
+      "stem": "Compared with working (contractile) myocardial cells, SA nodal cells:",
+      "image": null,
+      "options": [
+        "Have abundant myofibrils and a stable resting potential",
+        "Contain multiple nuclei",
+        "Have no electrical connection to the atrial muscle",
+        "Have sparse contractile elements and depolarize spontaneously"
+      ],
+      "answer": 3,
+      "explanation": "SA nodal cells are small and specialized, lack strong contractile filaments, and generate impulses automatically. Their job is pacing, not force generation. ---",
+      "explanationImage": null,
+      "tags": [
+        "Electrical Activity of the Heart",
+        "Excitation–Contraction Coupling & Ion Movement"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch04-q021",
+      "stem": "In excitation–contraction coupling, which ion entering through the T-tubules triggers the sarcoplasmic reticulum to release its stored calcium?",
+      "image": null,
+      "options": [
+        "Sodium",
+        "Potassium",
+        "Calcium",
+        "Chloride"
+      ],
+      "answer": 2,
+      "explanation": "Calcium entering during the action potential plateau triggers additional calcium release from the sarcoplasmic reticulum (calcium-induced calcium release), producing a large cytosolic calcium rise that activates contraction.",
+      "explanationImage": null,
+      "tags": [
+        "Electrical Activity of the Heart",
+        "Excitation–Contraction Coupling & Ion Movement"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch04-q022",
+      "stem": "Released calcium initiates contraction by binding directly to:",
+      "image": null,
+      "options": [
+        "Tropomyosin",
+        "Troponin",
+        "Actin",
+        "Myosin"
+      ],
+      "answer": 1,
+      "explanation": "Calcium binds troponin, the calcium-sensing regulatory protein on the actin filament. This troponin–calcium complex then moves tropomyosin off the binding sites.",
+      "explanationImage": null,
+      "tags": [
+        "Electrical Activity of the Heart",
+        "Excitation–Contraction Coupling & Ion Movement"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch04-q023",
+      "stem": "When calcium binds its regulatory site, tropomyosin responds by:",
+      "image": null,
+      "options": [
+        "Blocking the actin filaments more tightly",
+        "Shifting position to expose myosin-binding sites on actin",
+        "Binding directly to myosin heads",
+        "Hydrolyzing ATP to ADP"
+      ],
+      "answer": 1,
+      "explanation": "The troponin–calcium complex pulls tropomyosin away from the actin binding grooves, allowing actin–myosin cross-bridge formation. ATP is hydrolyzed by myosin, not tropomyosin.",
+      "explanationImage": null,
+      "tags": [
+        "Electrical Activity of the Heart",
+        "Excitation–Contraction Coupling & Ion Movement"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch04-q024",
+      "stem": "Cardiac relaxation occurs when:",
+      "image": null,
+      "options": [
+        "Calcium accumulates in the cytosol",
+        "Calcium is removed from the cytosol and resequestered (mainly into the SR)",
+        "Sodium rushes into the cell",
+        "Potassium leaves the cell"
+      ],
+      "answer": 1,
+      "explanation": "Contraction ends as calcium is pumped back into the sarcoplasmic reticulum and extruded from the cell; tropomyosin then re-covers the actin binding sites. Rising cytosolic calcium causes contraction, not relaxation.",
+      "explanationImage": null,
+      "tags": [
+        "Electrical Activity of the Heart",
+        "Excitation–Contraction Coupling & Ion Movement"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch04-q025",
+      "stem": "The primary function of T-tubules in cardiac muscle is to:",
+      "image": null,
+      "options": [
+        "Carry the electrical signal rapidly into the interior of the cell",
+        "Store calcium for contraction",
+        "Connect adjacent cells electrically",
+        "Anchor the heart to the pericardium"
+      ],
+      "answer": 0,
+      "explanation": "T-tubules are sarcolemmal invaginations that transmit the surface action potential to the cell core, synchronizing SR calcium release throughout the myocyte. Calcium storage belongs to the sarcoplasmic reticulum.",
+      "explanationImage": null,
+      "tags": [
+        "Electrical Activity of the Heart",
+        "Excitation–Contraction Coupling & Ion Movement"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch04-q026",
+      "stem": "Actin–myosin cross-bridge cycling in cardiac muscle requires:",
+      "image": null,
+      "options": [
+        "Sodium and chloride",
+        "Calcium and ATP",
+        "Potassium and ATP",
+        "No ions, only ATP"
+      ],
+      "answer": 1,
+      "explanation": "Calcium uncovers the binding sites and ATP powers the myosin cross-bridge stroke. Without both, contraction cannot occur regardless of electrical excitation.",
+      "explanationImage": null,
+      "tags": [
+        "Electrical Activity of the Heart",
+        "Excitation–Contraction Coupling & Ion Movement"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch04-q027",
+      "stem": "Which event must occur first for the ventricles to contract?",
+      "image": null,
+      "options": [
+        "Ventricular depolarization (QRS)",
+        "Ventricular repolarization",
+        "Atrial repolarization",
+        "Closure of the AV valves"
+      ],
+      "answer": 0,
+      "explanation": "Electrical activity precedes mechanical activity: the ventricles must be depolarized before they can contract. Valve closure is a consequence of pressure changes that follow contraction.",
+      "explanationImage": null,
+      "tags": [
+        "Electrical Activity of the Heart",
+        "Excitation–Contraction Coupling & Ion Movement"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch04-q028",
+      "stem": "The sarcoplasmic reticulum of cardiac muscle functions to:",
+      "image": null,
+      "options": [
+        "Store sodium for depolarization",
+        "Store and release calcium",
+        "Conduct the action potential between cells",
+        "Anchor the Z-lines of adjacent sarcomeres"
+      ],
+      "answer": 1,
+      "explanation": "The SR is the intracellular calcium store; it releases calcium on stimulation and resequesters it for relaxation. Cell-to-cell conduction is a gap junction function.",
+      "explanationImage": null,
+      "tags": [
+        "Electrical Activity of the Heart",
+        "Excitation–Contraction Coupling & Ion Movement"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch04-q029",
+      "stem": "The term \"excitation–contraction coupling\" describes the linkage between:",
+      "image": null,
+      "options": [
+        "Electrical depolarization of the membrane and mechanical contraction",
+        "Atrial and ventricular contraction timing",
+        "The ECG and the pulse wave",
+        "Systole and diastole of the atria only"
+      ],
+      "answer": 0,
+      "explanation": "It is the sequence by which the action potential (electrical event) leads to calcium release and cross-bridge cycling (mechanical event). Depolarization initiates muscle action, and contraction follows a short, predictable delay.",
+      "explanationImage": null,
+      "tags": [
+        "Electrical Activity of the Heart",
+        "Excitation–Contraction Coupling & Ion Movement"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch04-q030",
+      "stem": "The Na⁺/K⁺ ATPase pump maintains ion gradients by:",
+      "image": null,
+      "options": [
+        "Moving sodium and potassium against their concentration gradients using ATP",
+        "Allowing both ions to diffuse passively down their gradients",
+        "Exchanging sodium for calcium only",
+        "Pumping potassium out and sodium in equally"
+      ],
+      "answer": 0,
+      "explanation": "The pump actively extrudes Na⁺ and brings K⁺ in, preserving the gradients that make resting potential and repeated action potentials possible. Without it, gradients would dissipate and the cell could not keep firing.",
+      "explanationImage": null,
+      "tags": [
+        "Electrical Activity of the Heart",
+        "Excitation–Contraction Coupling & Ion Movement"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch04-q031",
+      "stem": "The rapid upstroke (phase 0) of the ventricular action potential is produced mainly by:",
+      "image": null,
+      "options": [
+        "Potassium efflux",
+        "Calcium influx",
+        "Sodium influx through fast Na⁺ channels",
+        "Chloride influx"
+      ],
+      "answer": 2,
+      "explanation": "Fast sodium channels open at threshold and Na⁺ rushes in, rapidly driving the membrane toward positive values. K⁺ efflux repolarizes; Ca²⁺ influx sustains the plateau.",
+      "explanationImage": null,
+      "tags": [
+        "Electrical Activity of the Heart",
+        "Excitation–Contraction Coupling & Ion Movement"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch04-q032",
+      "stem": "The plateau (phase 2) of the ventricular action potential results from:",
+      "image": null,
+      "options": [
+        "Potassium efflux alone",
+        "Slow calcium influx roughly balancing potassium efflux",
+        "Sodium channel reactivation",
+        "Chloride influx"
+      ],
+      "answer": 1,
+      "explanation": "During the plateau, slow Ca²⁺ channels admit calcium while K⁺ channels let potassium leave; the opposing currents hold the membrane near 0 mV. This plateau extends contraction and the refractory period.",
+      "explanationImage": null,
+      "tags": [
+        "Electrical Activity of the Heart",
+        "Excitation–Contraction Coupling & Ion Movement"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch04-q033",
+      "stem": "Repolarization (phase 3) of the ventricular action potential is caused primarily by:",
+      "image": null,
+      "options": [
+        "Continued calcium influx",
+        "Sodium influx",
+        "Potassium efflux",
+        "Calcium pump failure"
+      ],
+      "answer": 2,
+      "explanation": "Ca²⁺ channels close and K⁺ channels open fully, so potassium leaves the cell and the potential returns toward the resting level. Na⁺ influx would depolarize, not repolarize.",
+      "explanationImage": null,
+      "tags": [
+        "Electrical Activity of the Heart",
+        "Excitation–Contraction Coupling & Ion Movement"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch04-q034",
+      "stem": "The resting membrane potential of a ventricular muscle cell is approximately:",
+      "image": null,
+      "options": [
+        "−90 mV",
+        "−40 mV",
+        "0 mV",
+        "+30 mV"
+      ],
+      "answer": 0,
+      "explanation": "Working ventricular cells rest near −90 mV, held stable by K⁺ permeability and the Na⁺/K⁺ pump. Values near −40 to −60 mV are typical of nodal tissue, and +30 mV is the peak of the AP.",
+      "explanationImage": null,
+      "tags": [
+        "Electrical Activity of the Heart",
+        "Excitation–Contraction Coupling & Ion Movement"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch04-q035",
+      "stem": "In a fast-response cardiac cell, the action potential fires once the membrane potential reaches threshold, approximately:",
+      "image": null,
+      "options": [
+        "0 mV",
+        "+30 mV",
+        "About −60 to −70 mV",
+        "About −95 mV"
+      ],
+      "answer": 2,
+      "explanation": "Fast Na⁺ channels activate at roughly −60 to −70 mV; reaching this threshold triggers the all-or-none upstroke. 0 mV is mid-plateau and +30 mV is the peak.",
+      "explanationImage": null,
+      "tags": [
+        "Electrical Activity of the Heart",
+        "Excitation–Contraction Coupling & Ion Movement"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch04-q036",
+      "stem": "Once fast sodium channels inactivate during the action potential, the cell:",
+      "image": null,
+      "options": [
+        "Can be immediately re-excited",
+        "Cannot be re-excited until the channels recover (refractory period)",
+        "Spontaneously hyperpolarizes to −110 mV",
+        "Undergoes tetanic contraction"
+      ],
+      "answer": 1,
+      "explanation": "Inactivated Na⁺ channels cannot reopen until the membrane repolarizes, making the cell refractory to new stimulation. This guarantees a full relaxation and refill between beats.",
+      "explanationImage": null,
+      "tags": [
+        "Electrical Activity of the Heart",
+        "Excitation–Contraction Coupling & Ion Movement"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch04-q037",
+      "stem": "Cardiac muscle cannot be tetanized because:",
+      "image": null,
+      "options": [
+        "Its action potential is too short",
+        "Its prolonged refractory period lasts almost as long as contraction",
+        "It has no ATP reserve",
+        "It lacks calcium channels"
+      ],
+      "answer": 1,
+      "explanation": "The long plateau action potential keeps Na⁺ channels inactivated for most of the twitch, so a second stimulus cannot summate contractions. Skeletal muscle, with its brief AP, can undergo summation and tetanus.",
+      "explanationImage": null,
+      "tags": [
+        "Electrical Activity of the Heart",
+        "Excitation–Contraction Coupling & Ion Movement"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch04-q038",
+      "stem": "The peak (overshoot) of the ventricular action potential reaches approximately:",
+      "image": null,
+      "options": [
+        "−90 mV",
+        "0 mV only",
+        "−60 mV",
+        "About +20 to +30 mV"
+      ],
+      "answer": 3,
+      "explanation": "Sodium influx drives the membrane from −90 mV to roughly +20 to +30 mV at the AP peak. The other choices describe resting or threshold values.",
+      "explanationImage": null,
+      "tags": [
+        "Electrical Activity of the Heart",
+        "Excitation–Contraction Coupling & Ion Movement"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch04-q039",
+      "stem": "The stoichiometry of the Na⁺/K⁺ ATPase is:",
+      "image": null,
+      "options": [
+        "3 Na⁺ out for every 2 K⁺ in",
+        "2 Na⁺ out for every 3 K⁺ in",
+        "Na⁺ in and K⁺ out in equal amounts",
+        "1 Ca²⁺ out for every 3 Na⁺ in"
+      ],
+      "answer": 0,
+      "explanation": "The pump exports 3 sodium ions and imports 2 potassium ions per ATP consumed, generating a net outward current that helps maintain the negative resting potential. The sodium–calcium exchanger (option D) is a separate transporter.",
+      "explanationImage": null,
+      "tags": [
+        "Electrical Activity of the Heart",
+        "Excitation–Contraction Coupling & Ion Movement"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch04-q040",
+      "stem": "Drugs such as digoxin increase contractility by:",
+      "image": null,
+      "options": [
+        "Depleting sarcoplasmic reticulum calcium",
+        "Blocking potassium channels",
+        "Increasing the amount of calcium available to the contractile machinery",
+        "Blocking sodium channels"
+      ],
+      "answer": 2,
+      "explanation": "By inhibiting the Na⁺/K⁺ pump, digoxin indirectly raises intracellular calcium, and more calcium delivered to troponin means a stronger contraction. This illustrates how ion movement directly links electrical activity to mechanical performance. ---",
+      "explanationImage": null,
+      "tags": [
+        "Electrical Activity of the Heart",
+        "The Cardiac Conduction System & Impulse Pathway"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch04-q041",
+      "stem": "What is the correct sequence of the normal cardiac impulse pathway?",
+      "image": null,
+      "options": [
+        "AV node → SA node → bundle of His → atria",
+        "SA node → Purkinje fibers → AV node → bundle branches",
+        "SA node → internodal pathways → AV node → bundle of His → bundle branches → Purkinje fibers",
+        "Bundle of His → SA node → AV node → Purkinje fibers"
+      ],
+      "answer": 2,
+      "explanation": "The impulse originates in the SA node, spreads through internodal/atrial pathways to the AV node, is delayed, then passes through the bundle of His, the right and left bundle branches, and finally the Purkinje fibers to the ventricles.",
+      "explanationImage": null,
+      "tags": [
+        "Electrical Activity of the Heart",
+        "The Cardiac Conduction System & Impulse Pathway"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch04-q042",
+      "stem": "Which structure is the normal pacemaker of the heart?",
+      "image": null,
+      "options": [
+        "AV node",
+        "SA node",
+        "Bundle of His",
+        "Purkinje fibers"
+      ],
+      "answer": 1,
+      "explanation": "The SA node generates impulses automatically at the highest intrinsic rate, so it dominates and sets the heart rhythm. All other sites can pace but only if the SA node fails.",
+      "explanationImage": null,
+      "tags": [
+        "Electrical Activity of the Heart",
+        "The Cardiac Conduction System & Impulse Pathway"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch04-q043",
+      "stem": "The SA node is located in the:",
+      "image": null,
+      "options": [
+        "Left atrium near the pulmonary vein orifices",
+        "Right atrium near the junction with the superior vena cava",
+        "Interventricular septum",
+        "Left ventricular apex"
+      ],
+      "answer": 1,
+      "explanation": "The SA node sits in the right atrial wall near the SVC entry. Nodal tissue near the pulmonary veins is ectopic, not normal, and the septum contains the AV node and His bundle.",
+      "explanationImage": null,
+      "tags": [
+        "Electrical Activity of the Heart",
+        "The Cardiac Conduction System & Impulse Pathway"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch04-q044",
+      "stem": "The physiologic purpose of the delay in the AV node is to:",
+      "image": null,
+      "options": [
+        "Speed conduction to the ventricles",
+        "Generate the P wave",
+        "Prevent atrial contraction",
+        "Allow time for ventricular filling before ventricular contraction"
+      ],
+      "answer": 3,
+      "explanation": "The AV nodal delay lets the atria finish ejecting blood (atrial kick) before the ventricles depolarize and contract, optimizing preload. Without this pause, ventricular filling would be compromised.",
+      "explanationImage": null,
+      "tags": [
+        "Electrical Activity of the Heart",
+        "The Cardiac Conduction System & Impulse Pathway"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch04-q045",
+      "stem": "The AV node is located:",
+      "image": null,
+      "options": [
+        "In the right ventricular free wall",
+        "In the left ventricular apex",
+        "Along the anterior interventricular septum",
+        "In the interatrial septum near the coronary sinus ostium"
+      ],
+      "answer": 3,
+      "explanation": "The AV node lies in the low interatrial septum, in Koch's triangle near the coronary sinus opening, positioned to receive the atrial impulse and pass it to the bundle of His.",
+      "explanationImage": null,
+      "tags": [
+        "Electrical Activity of the Heart",
+        "The Cardiac Conduction System & Impulse Pathway"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch04-q046",
+      "stem": "The bundle of His conducts the impulse from the AV node:",
+      "image": null,
+      "options": [
+        "Through the fibrous skeleton into the interventricular septum",
+        "Back into the right atrium",
+        "Along the AV groove",
+        "Directly to the SA node"
+      ],
+      "answer": 0,
+      "explanation": "The His bundle is the only normal electrical bridge across the electrically insulating fibrous skeleton, carrying the impulse into the ventricular septum where it divides into bundle branches.",
+      "explanationImage": null,
+      "tags": [
+        "Electrical Activity of the Heart",
+        "The Cardiac Conduction System & Impulse Pathway"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch04-q047",
+      "stem": "The right and left bundle branches course:",
+      "image": null,
+      "options": [
+        "Along the AV groove",
+        "Within the atrial walls",
+        "Inside the coronary arteries",
+        "Down the interventricular septum toward the apex"
+      ],
+      "answer": 3,
+      "explanation": "After the His bundle splits, the bundle branches descend along the interventricular septum and eventually subdivide into Purkinje fibers that reach the ventricular walls.",
+      "explanationImage": null,
+      "tags": [
+        "Electrical Activity of the Heart",
+        "The Cardiac Conduction System & Impulse Pathway"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch04-q048",
+      "stem": "Among the specialized conduction tissues, Purkinje fibers are distinguished by having the:",
+      "image": null,
+      "options": [
+        "Slowest conduction velocity",
+        "Fastest conduction velocity in the heart",
+        "Longest AV delay",
+        "Lowest intrinsic rate of all nodal tissue only in the atria"
+      ],
+      "answer": 1,
+      "explanation": "Purkinje fibers conduct at roughly 2–4 m/s, several times faster than AV nodal tissue, which allows near-simultaneous activation of the entire ventricular mass and efficient ejection.",
+      "explanationImage": null,
+      "tags": [
+        "Electrical Activity of the Heart",
+        "The Cardiac Conduction System & Impulse Pathway"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch04-q049",
+      "stem": "After the Purkinje fibers distribute the impulse, the next cells to be activated are the:",
+      "image": null,
+      "options": [
+        "AV nodal cells",
+        "Atrial working myocytes",
+        "Ventricular working myocytes",
+        "SA nodal cells"
+      ],
+      "answer": 2,
+      "explanation": "Purkinje fibers deliver the impulse to ordinary ventricular muscle cells, causing ventricular depolarization and contraction. The sequence never returns upward to atrial or nodal tissue in normal conduction.",
+      "explanationImage": null,
+      "tags": [
+        "Electrical Activity of the Heart",
+        "The Cardiac Conduction System & Impulse Pathway"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch04-q050",
+      "stem": "On the ECG, atrial depolarization is represented by the:",
+      "image": null,
+      "options": [
+        "P wave",
+        "QRS complex",
+        "T wave",
+        "U wave"
+      ],
+      "answer": 0,
+      "explanation": "The P wave records the spread of depolarization across both atria initiated by the SA node. The QRS and T waves reflect ventricular events.",
+      "explanationImage": null,
+      "tags": [
+        "Electrical Activity of the Heart",
+        "The Cardiac Conduction System & Impulse Pathway"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch04-q051",
+      "stem": "On the ECG, ventricular depolarization is represented by the:",
+      "image": null,
+      "options": [
+        "P wave",
+        "T wave",
+        "QRS complex",
+        "PR segment"
+      ],
+      "answer": 2,
+      "explanation": "The QRS complex records the rapid spread of depolarization through the ventricles via the bundle branches and Purkinje fibers. The T wave records ventricular repolarization, not depolarization.",
+      "explanationImage": null,
+      "tags": [
+        "Electrical Activity of the Heart",
+        "The Cardiac Conduction System & Impulse Pathway"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch04-q052",
+      "stem": "The T wave on the ECG represents:",
+      "image": null,
+      "options": [
+        "Ventricular repolarization",
+        "Atrial depolarization",
+        "Ventricular depolarization",
+        "Atrial repolarization"
+      ],
+      "answer": 0,
+      "explanation": "The T wave marks recovery (repolarization) of the ventricles. Atrial repolarization occurs during the QRS and is normally hidden by that larger complex.",
+      "explanationImage": null,
+      "tags": [
+        "Electrical Activity of the Heart",
+        "The Cardiac Conduction System & Impulse Pathway"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch04-q053",
+      "stem": "The PR interval primarily reflects:",
+      "image": null,
+      "options": [
+        "The duration of ventricular contraction",
+        "SA nodal firing time",
+        "QRS width",
+        "Conduction time from atrial depolarization through the AV node to ventricular depolarization"
+      ],
+      "answer": 3,
+      "explanation": "The PR interval spans the onset of the P wave to the onset of the QRS and is dominated by the AV nodal delay. It measures conduction timing, not contractile duration.",
+      "explanationImage": null,
+      "tags": [
+        "Electrical Activity of the Heart",
+        "The Cardiac Conduction System & Impulse Pathway"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch04-q054",
+      "stem": "Which cardiac tissue conducts impulses most slowly?",
+      "image": null,
+      "options": [
+        "Purkinje fibers",
+        "Bundle branches",
+        "AV node",
+        "Atrial muscle"
+      ],
+      "answer": 2,
+      "explanation": "The AV node conducts very slowly (a deliberate physiologic \"brake\"), creating the delay that permits ventricular filling. Purkinje fibers are the fastest-conducting tissue in the heart.",
+      "explanationImage": null,
+      "tags": [
+        "Electrical Activity of the Heart",
+        "The Cardiac Conduction System & Impulse Pathway"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch04-q055",
+      "stem": "If the SA node fails to fire, the next fastest intrinsic pacemaker — the AV junction — takes over at a rate of approximately:",
+      "image": null,
+      "options": [
+        "100–120 bpm",
+        "40–60 bpm",
+        "10–20 bpm",
+        "150–180 bpm"
+      ],
+      "answer": 1,
+      "explanation": "The AV nodal/junctional tissue has an intrinsic discharge of about 40–60 bpm, making it the normal backup pacemaker. Ventricular (His–Purkinje) escape is even slower at 20–40 bpm.",
+      "explanationImage": null,
+      "tags": [
+        "Electrical Activity of the Heart",
+        "The Cardiac Conduction System & Impulse Pathway"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch04-q056",
+      "stem": "An ECG records cardiac electrical activity by:",
+      "image": null,
+      "options": [
+        "Measuring voltage differences between skin electrodes and displaying them over time",
+        "Measuring intracardiac pressures",
+        "Imaging valve motion directly",
+        "Detecting blood flow velocity"
+      ],
+      "answer": 0,
+      "explanation": "Surface electrodes detect the summed voltage changes of cardiac depolarization and repolarization, plotted as a waveform against time. Pressures, valve motion, and flow are measured by other modalities.",
+      "explanationImage": null,
+      "tags": [
+        "Electrical Activity of the Heart",
+        "The Cardiac Conduction System & Impulse Pathway"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch04-q057",
+      "stem": "The statement \"the ECG shows timing, not contraction\" means the ECG:",
+      "image": null,
+      "options": [
+        "Displays actual contractile force",
+        "Displays valve motion",
+        "Displays chamber volumes",
+        "Displays only the electrical sequence and timing of activation"
+      ],
+      "answer": 3,
+      "explanation": "The ECG records electrical events and their timing; it does not directly show contraction. Echocardiography is the modality that visualizes the mechanical response.",
+      "explanationImage": null,
+      "tags": [
+        "Electrical Activity of the Heart",
+        "The Cardiac Conduction System & Impulse Pathway"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch04-q058",
+      "stem": "Which imaging modality directly visualizes the mechanical contraction that follows the electrical signal?",
+      "image": null,
+      "options": [
+        "ECG",
+        "Echocardiography",
+        "ECG stress test leads only",
+        "Holter recording"
+      ],
+      "answer": 1,
+      "explanation": "Echo images the moving myocardium, allowing direct observation of the mechanical response to electrical activation. The ECG and Holter record electrical timing only.",
+      "explanationImage": null,
+      "tags": [
+        "Electrical Activity of the Heart",
+        "The Cardiac Conduction System & Impulse Pathway"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch04-q059",
+      "stem": "The relationship between electrical activity and mechanical contraction is:",
+      "image": null,
+      "options": [
+        "Unpredictable",
+        "Contraction precedes depolarization",
+        "Electrical activity occurs first, with mechanical contraction following a short, predictable delay",
+        "They occur simultaneously with no delay"
+      ],
+      "answer": 2,
+      "explanation": "Depolarization initiates the muscle action, and contraction follows after a brief electromechanical delay. This consistent sequence is why ECG timing reliably predicts mechanical events.",
+      "explanationImage": null,
+      "tags": [
+        "Electrical Activity of the Heart",
+        "The Cardiac Conduction System & Impulse Pathway"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch04-q060",
+      "stem": "Which mechanical event immediately follows the P wave?",
+      "image": null,
+      "options": [
+        "Ventricular contraction",
+        "Atrial contraction",
+        "Ventricular relaxation",
+        "AV valve closure during ventricular systole"
+      ],
+      "answer": 1,
+      "explanation": "The P wave represents atrial depolarization, and atrial contraction follows it during the PR interval. Ventricular contraction waits until after the QRS. ---",
+      "explanationImage": null,
+      "tags": [
+        "Electrical Activity of the Heart",
+        "The SA Node & Autorhythmic (Pacemaker) Activity"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch04-q061",
+      "stem": "What is the intrinsic firing rate of the SA node?",
+      "image": null,
+      "options": [
+        "40–60 bpm",
+        "20–40 bpm",
+        "10–20 bpm",
+        "60–100 bpm"
+      ],
+      "answer": 3,
+      "explanation": "The SA node generates impulses automatically at 60–100 bpm, the fastest intrinsic rate in the heart, which is why it normally serves as the dominant pacemaker.",
+      "explanationImage": null,
+      "tags": [
+        "Electrical Activity of the Heart",
+        "The SA Node & Autorhythmic (Pacemaker) Activity"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch04-q062",
+      "stem": "What is the intrinsic rate of AV nodal (junctional) tissue?",
+      "image": null,
+      "options": [
+        "60–100 bpm",
+        "20–40 bpm",
+        "40–60 bpm",
+        "100–150 bpm"
+      ],
+      "answer": 2,
+      "explanation": "Junctional tissue discharges at about 40–60 bpm and serves as the backup pacemaker if the SA node fails. Junctional escape rhythms therefore run at 40–60 bpm with absent or retrograde P waves.",
+      "explanationImage": null,
+      "tags": [
+        "Electrical Activity of the Heart",
+        "The SA Node & Autorhythmic (Pacemaker) Activity"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch04-q063",
+      "stem": "What is the intrinsic discharge rate of the His–Purkinje system (ventricular escape pacemaker)?",
+      "image": null,
+      "options": [
+        "20–40 bpm",
+        "40–60 bpm",
+        "60–100 bpm",
+        "80–120 bpm"
+      ],
+      "answer": 0,
+      "explanation": "The His–Purkinje network fires intrinsically at only 20–40 bpm, the slowest of the potential pacemakers, which is why ventricular escape rhythms are slow with wide QRS complexes.",
+      "explanationImage": null,
+      "tags": [
+        "Electrical Activity of the Heart",
+        "The SA Node & Autorhythmic (Pacemaker) Activity"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch04-q064",
+      "stem": "The AV node does not normally pace the heart because:",
+      "image": null,
+      "options": [
+        "It lacks automaticity entirely",
+        "It is electrically isolated from the atria",
+        "The autonomic nervous system actively blocks it",
+        "It is overdrive-suppressed by the faster-firing SA node"
+      ],
+      "answer": 3,
+      "explanation": "The SA node's higher intrinsic rate depolarizes the AV node before the AV node can reach its own threshold. Suppressing a lower pacemaker with a faster one is called overdrive suppression.",
+      "explanationImage": null,
+      "tags": [
+        "Electrical Activity of the Heart",
+        "The SA Node & Autorhythmic (Pacemaker) Activity"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch04-q065",
+      "stem": "Pacemaker (autorhythmic) cells differ from working myocardial cells in that they have:",
+      "image": null,
+      "options": [
+        "A stable resting membrane potential of −90 mV",
+        "No stable resting potential — the membrane slowly depolarizes on its own until threshold",
+        "A rapid sodium-dependent plateau",
+        "Only a prolonged refractory period and no other special features"
+      ],
+      "answer": 1,
+      "explanation": "Autorhythmic cells drift spontaneously from a maximum negative value toward threshold, fire, repolarize, and repeat the cycle continuously. This pacemaker (pre)potential is the basis of the heart's intrinsic rhythm.",
+      "explanationImage": null,
+      "tags": [
+        "Electrical Activity of the Heart",
+        "The SA Node & Autorhythmic (Pacemaker) Activity"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch04-q066",
+      "stem": "The slow spontaneous depolarization (prepotential) of SA nodal cells is generated mainly by:",
+      "image": null,
+      "options": [
+        "Fast sodium channel activation",
+        "Potassium efflux alone",
+        "Slow sodium influx (funny current) combined with declining potassium efflux and late calcium influx",
+        "Chloride influx"
+      ],
+      "answer": 2,
+      "explanation": "Nodal diastolic depolarization results from gradual inward Na⁺ \"funny\" current, decreasing K⁺ permeability, and T-type Ca²⁺ influx carrying the cell to threshold. Fast Na⁺ channels play little role in nodal firing.",
+      "explanationImage": null,
+      "tags": [
+        "Electrical Activity of the Heart",
+        "The SA Node & Autorhythmic (Pacemaker) Activity"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch04-q067",
+      "stem": "The threshold for firing an action potential in SA nodal cells is approximately:",
+      "image": null,
+      "options": [
+        "−40 mV",
+        "−90 mV",
+        "0 mV",
+        "+30 mV"
+      ],
+      "answer": 0,
+      "explanation": "Nodal cells reach threshold near −40 mV, at which point L-type calcium channels open and an AP is fired. −90 mV is the ventricular resting potential; +30 mV is the ventricular AP peak.",
+      "explanationImage": null,
+      "tags": [
+        "Electrical Activity of the Heart",
+        "The SA Node & Autorhythmic (Pacemaker) Activity"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch04-q068",
+      "stem": "Although SA nodal cells lack strong contractile filaments, they fulfill their role because they are:",
+      "image": null,
+      "options": [
+        "Insulating the atria from each other",
+        "The strongest-contracting cells in the atrium",
+        "Directly conducting impulses into the ventricles",
+        "Electrically connected to atrial muscle and therefore initiate atrial depolarization"
+      ],
+      "answer": 3,
+      "explanation": "The SA node's automatic impulses spread through gap junctions into the surrounding atrial myocardium, making it the trigger for every normal heartbeat. Its contractile weakness is irrelevant to its pacing function.",
+      "explanationImage": null,
+      "tags": [
+        "Electrical Activity of the Heart",
+        "The SA Node & Autorhythmic (Pacemaker) Activity"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch04-q069",
+      "stem": "Vagal (parasympathetic) stimulation of the SA node:",
+      "image": null,
+      "options": [
+        "Increases the heart rate",
+        "Has no effect on nodal firing",
+        "Slows the heart rate by decreasing the slope of the pacemaker potential",
+        "Increases AV nodal conduction speed"
+      ],
+      "answer": 2,
+      "explanation": "Acetylcholine reduces the rate of spontaneous depolarization, so threshold is reached more slowly and firing frequency falls. It also slows AV conduction rather than speeding it.",
+      "explanationImage": null,
+      "tags": [
+        "Electrical Activity of the Heart",
+        "The SA Node & Autorhythmic (Pacemaker) Activity"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch04-q070",
+      "stem": "Sympathetic stimulation of the SA node:",
+      "image": null,
+      "options": [
+        "Slows the heart rate",
+        "Increases the heart rate by steepening the slope of the pacemaker potential",
+        "Blocks the AV node",
+        "Only shortens the ventricular refractory period"
+      ],
+      "answer": 1,
+      "explanation": "Norepinephrine accelerates the prepotential, so threshold is reached sooner and rate rises; it also speeds AV conduction. Increased contractility (inotropy) accompanies the chronotropic effect.",
+      "explanationImage": null,
+      "tags": [
+        "Electrical Activity of the Heart",
+        "The SA Node & Autorhythmic (Pacemaker) Activity"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch04-q071",
+      "stem": "Which electrical event immediately precedes atrial contraction (atrial systole)?",
+      "image": null,
+      "options": [
+        "The P wave (atrial depolarization)",
+        "The QRS complex",
+        "The T wave",
+        "The ST segment"
+      ],
+      "answer": 0,
+      "explanation": "Electrical activity precedes mechanical activity: atrial depolarization (P wave) triggers atrial contraction shortly afterward. The QRS relates to ventricular depolarization and contraction.",
+      "explanationImage": null,
+      "tags": [
+        "Electrical Activity of the Heart",
+        "The SA Node & Autorhythmic (Pacemaker) Activity"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch04-q072",
+      "stem": "The SA node is the heart's dominant pacemaker because, compared with all other potential pacemaker sites, it:",
+      "image": null,
+      "options": [
+        "Contains the largest cells",
+        "Has the most contractile filaments",
+        "Lies in the left atrium",
+        "Depolarizes to threshold the fastest"
+      ],
+      "answer": 3,
+      "explanation": "The rhythm belongs to whichever site fires first; because the SA node reaches threshold fastest (highest intrinsic rate), it controls the heart. Overdrive suppression keeps slower sites dormant.",
+      "explanationImage": null,
+      "tags": [
+        "Electrical Activity of the Heart",
+        "The SA Node & Autorhythmic (Pacemaker) Activity"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch04-q073",
+      "stem": "An ECG shows a regular narrow-QRS rhythm at 55 bpm with no visible P waves. This most likely represents:",
+      "image": null,
+      "options": [
+        "Normal sinus rhythm",
+        "Atrial fibrillation",
+        "An AV junctional (nodal) rhythm",
+        "Ventricular tachycardia"
+      ],
+      "answer": 2,
+      "explanation": "Junctional rhythms run at the AV nodal intrinsic rate (40–60 bpm), are narrow-QRS, and lack sinus P waves. Atrial fibrillation is irregularly irregular, and ventricular rhythms are wide-QRS.",
+      "explanationImage": null,
+      "tags": [
+        "Electrical Activity of the Heart",
+        "The SA Node & Autorhythmic (Pacemaker) Activity"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch04-q074",
+      "stem": "A 46-bpm regular narrow-complex rhythm without P waves is best classified as:",
+      "image": null,
+      "options": [
+        "Sinus bradycardia",
+        "A junctional escape rhythm",
+        "A ventricular escape rhythm",
+        "Supraventricular tachycardia"
+      ],
+      "answer": 1,
+      "explanation": "A rate within 40–60 bpm with absent P waves fits the AV junction's intrinsic range. Sinus bradycardia would show P waves; ventricular escape would be wide-complex and 20–40 bpm.",
+      "explanationImage": null,
+      "tags": [
+        "Electrical Activity of the Heart",
+        "The SA Node & Autorhythmic (Pacemaker) Activity"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch04-q075",
+      "stem": "A wide-QRS rhythm at 28 bpm in a patient with complete AV block indicates the escape pacemaker lies in the:",
+      "image": null,
+      "options": [
+        "AV junction",
+        "SA node",
+        "Atrial flutter circuit",
+        "Ventricles (His–Purkinje escape)"
+      ],
+      "answer": 3,
+      "explanation": "Slow (20–40 bpm) wide-QRS escape rhythms originate from His–Purkinje or ventricular tissue below the block. Junctional escapes are narrow and faster.",
+      "explanationImage": null,
+      "tags": [
+        "Electrical Activity of the Heart",
+        "The SA Node & Autorhythmic (Pacemaker) Activity"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch04-q076",
+      "stem": "The autorhythmic cycle repeats continuously because:",
+      "image": null,
+      "options": [
+        "After each action potential the membrane again drifts toward threshold and fires, repeating endlessly",
+        "Ion gradients run down and restart each cycle",
+        "Nerve input resets the membrane each beat",
+        "Calcium accumulates until the cell bursts into firing"
+      ],
+      "answer": 0,
+      "explanation": "Following each AP, repolarization restores conditions for the pacemaker potential, and the slow depolarization begins again. This self-repeating loop is the intrinsic cardiac rhythm and continues without neural input.",
+      "explanationImage": null,
+      "tags": [
+        "Electrical Activity of the Heart",
+        "The SA Node & Autorhythmic (Pacemaker) Activity"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch04-q077",
+      "stem": "If a rapid atrial tachycardia suddenly terminates, there is typically a pause before the sinus rhythm resumes. This pause reflects:",
+      "image": null,
+      "options": [
+        "Complete failure of the SA node",
+        "Fibrosis of the AV node",
+        "Overdrive suppression of the lower pacemakers, which need time to recover their automaticity",
+        "Excessive sympathetic tone"
+      ],
+      "answer": 2,
+      "explanation": "The fast rhythm had suppressed the sinus node and other pacemakers; once it stops, the suppressed pacemaker takes time to depolarize to threshold again. Recovery of automaticity after termination is a classic manifestation of overdrive suppression.",
+      "explanationImage": null,
+      "tags": [
+        "Electrical Activity of the Heart",
+        "The SA Node & Autorhythmic (Pacemaker) Activity"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch04-q078",
+      "stem": "Purkinje fibers characteristically have the ______ conduction velocity but the ______ intrinsic firing rate in the heart.",
+      "image": null,
+      "options": [
+        "Slowest; highest",
+        "Fastest; lowest",
+        "Fastest; highest",
+        "Slowest; lowest"
+      ],
+      "answer": 1,
+      "explanation": "Purkinje tissue conducts fastest (~2–4 m/s) yet fires intrinsically slowest (20–40 bpm). Rapid conduction and slow automaticity are separate properties, and both serve synchronized ventricular activation.",
+      "explanationImage": null,
+      "tags": [
+        "Electrical Activity of the Heart",
+        "The SA Node & Autorhythmic (Pacemaker) Activity"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch04-q079",
+      "stem": "At rest, the actual heart rate (~70 bpm) is lower than the SA node's intrinsic rate (~100 bpm) because:",
+      "image": null,
+      "options": [
+        "Sympathetic dominance raises it above the intrinsic rate",
+        "The intrinsic rate is fixed at 70 bpm under all conditions",
+        "The ANS has no effect on SA nodal rate",
+        "Resting parasympathetic (vagal) tone suppresses the intrinsic rate"
+      ],
+      "answer": 3,
+      "explanation": "Continuous vagal slowing holds the resting rate below the SA node's intrinsic 60–100 (nominally ~100) firing capacity. Loss of vagal tone (e.g., atropine) unmasks the faster intrinsic rate.",
+      "explanationImage": null,
+      "tags": [
+        "Electrical Activity of the Heart",
+        "The SA Node & Autorhythmic (Pacemaker) Activity"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch04-q080",
+      "stem": "A drug that increases the SA node firing rate is said to have a positive ______ effect.",
+      "image": null,
+      "options": [
+        "Chronotropic",
+        "Inotropic",
+        "Dromotropic",
+        "Lusitropic"
+      ],
+      "answer": 0,
+      "explanation": "Chronotropy refers to heart rate (frequency of firing); inotropy is contractile force, dromotropy is conduction velocity, and lusitropy is relaxation. Positive chronotropy = faster SA nodal discharge. ---",
+      "explanationImage": null,
+      "tags": [
+        "Electrical Activity of the Heart",
+        "AV Node, Bundle of His & the Purkinje Network"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch04-q081",
+      "stem": "Purkinje fibers are located:",
+      "image": null,
+      "options": [
+        "In a subendocardial network within the ventricular walls",
+        "Within the atrial walls",
+        "On the epicardial surface of the atria",
+        "Within the SA node region"
+      ],
+      "answer": 0,
+      "explanation": "Purkinje fibers form a broad subendocardial network in both ventricles, receiving impulses from the bundle branches and delivering them to the working ventricular myocardium.",
+      "explanationImage": null,
+      "tags": [
+        "Electrical Activity of the Heart",
+        "AV Node, Bundle of His & the Purkinje Network"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch04-q082",
+      "stem": "The main contribution of the Purkinje system to cardiac function is:",
+      "image": null,
+      "options": [
+        "Delaying the impulse for ventricular filling",
+        "Setting the heart rhythm",
+        "Conducting impulses between the atria",
+        "Distributing the impulse rapidly to ensure synchronized ventricular contraction and efficient blood ejection"
+      ],
+      "answer": 3,
+      "explanation": "By activating the ventricular mass almost simultaneously, Purkinje fibers make the ventricles contract as one unit, maximizing ejection. Delay and rhythm-setting belong to the AV node and SA node, respectively.",
+      "explanationImage": null,
+      "tags": [
+        "Electrical Activity of the Heart",
+        "AV Node, Bundle of His & the Purkinje Network"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch04-q083",
+      "stem": "Compared with Purkinje fibers, conduction through the AV node is:",
+      "image": null,
+      "options": [
+        "About 2–4 m/s, the same as Purkinje tissue",
+        "About 1 m/s, slightly slower than Purkinje tissue",
+        "Very slow (roughly 0.02–0.1 m/s), the slowest in the conduction system",
+        "Faster than atrial muscle conduction"
+      ],
+      "answer": 2,
+      "explanation": "AV nodal cells are small with few gap junctions, producing markedly slow conduction — the source of the AV delay. Purkinje conduction is dozens of times faster.",
+      "explanationImage": null,
+      "tags": [
+        "Electrical Activity of the Heart",
+        "AV Node, Bundle of His & the Purkinje Network"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch04-q084",
+      "stem": "Which structure transmits the impulse from the AV node into the interventricular septum?",
+      "image": null,
+      "options": [
+        "Bundle branches",
+        "Bundle of His",
+        "Purkinje fibers",
+        "Internodal pathways"
+      ],
+      "answer": 1,
+      "explanation": "The bundle (common) of His is the continuation of the AV node that crosses the fibrous skeleton into the septum, where it divides into the right and left bundle branches.",
+      "explanationImage": null,
+      "tags": [
+        "Electrical Activity of the Heart",
+        "AV Node, Bundle of His & the Purkinje Network"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch04-q085",
+      "stem": "The left bundle branch characteristically divides into:",
+      "image": null,
+      "options": [
+        "Anterior and posterior fascicles",
+        "Three separate nodal trunks",
+        "A single terminal strand",
+        "No subdivisions"
+      ],
+      "answer": 0,
+      "explanation": "The left bundle branch splits into anterior and posterior fascicles (plus a septal division in many hearts), whereas the right bundle descends as a single trunk. Fascicular block refers to disease of these divisions.",
+      "explanationImage": null,
+      "tags": [
+        "Electrical Activity of the Heart",
+        "AV Node, Bundle of His & the Purkinje Network"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch04-q086",
+      "stem": "In the normal heart, the only electrical connection between atrial myocardium and ventricular myocardium is the:",
+      "image": null,
+      "options": [
+        "Coronary sinus",
+        "Direct left atrial–left ventricular muscle continuity",
+        "Purkinje bridge across the annulus",
+        "AV junction (AV node and bundle of His)"
+      ],
+      "answer": 3,
+      "explanation": "The fibrous skeleton insulates the two muscle masses, so the impulse must funnel through the AV node and His bundle. Accessory pathways (e.g., in WPW) are abnormal exceptions.",
+      "explanationImage": null,
+      "tags": [
+        "Electrical Activity of the Heart",
+        "AV Node, Bundle of His & the Purkinje Network"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch04-q087",
+      "stem": "A PR interval of 0.28 seconds on the ECG indicates:",
+      "image": null,
+      "options": [
+        "Accelerated AV conduction",
+        "SA nodal disease",
+        "Delayed AV conduction (first-degree AV block)",
+        "A normal finding in all adults"
+      ],
+      "answer": 2,
+      "explanation": "A PR longer than 0.20 s signifies delayed conduction, usually at the AV node. It does not reflect SA nodal function, and 0.28 s exceeds the normal 0.12–0.20 s range.",
+      "explanationImage": null,
+      "tags": [
+        "Electrical Activity of the Heart",
+        "AV Node, Bundle of His & the Purkinje Network"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch04-q088",
+      "stem": "Which region of the conduction system has the longest refractory period, an important safeguard against excessively rapid ventricular rates?",
+      "image": null,
+      "options": [
+        "Purkinje fibers",
+        "AV node",
+        "Atrial working muscle",
+        "SA node"
+      ],
+      "answer": 1,
+      "explanation": "The AV node's long refractory period limits how many atrial impulses reach the ventricles, protecting them from arrhythmias such as atrial flutter or fibrillation (e.g., 2:1 or higher block).",
+      "explanationImage": null,
+      "tags": [
+        "Electrical Activity of the Heart",
+        "AV Node, Bundle of His & the Purkinje Network"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch04-q089",
+      "stem": "Regarding action potential duration among conduction tissues:",
+      "image": null,
+      "options": [
+        "Purkinje fibers have the shortest AP",
+        "Purkinje and ventricular APs have identical durations",
+        "Purkinje fibers generate no true AP",
+        "Purkinje fibers have the longest AP duration"
+      ],
+      "answer": 3,
+      "explanation": "Purkinje action potentials are the longest, which extends their refractory period and helps prevent retrograde re-excitation of the distal conduction system.",
+      "explanationImage": null,
+      "tags": [
+        "Electrical Activity of the Heart",
+        "AV Node, Bundle of His & the Purkinje Network"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch04-q090",
+      "stem": "Which potential pacemaker site has the slowest intrinsic discharge rate?",
+      "image": null,
+      "options": [
+        "His–Purkinje (ventricular) tissue",
+        "AV node",
+        "SA node",
+        "Atrial ectopic foci"
+      ],
+      "answer": 0,
+      "explanation": "The intrinsic-rate hierarchy runs from fastest to slowest: SA node (60–100) → AV junction (40–60) → His–Purkinje (20–40). The slowest site paces only when all faster sites fail.",
+      "explanationImage": null,
+      "tags": [
+        "Electrical Activity of the Heart",
+        "AV Node, Bundle of His & the Purkinje Network"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch04-q091",
+      "stem": "Bachmann's bundle is best described as:",
+      "image": null,
+      "options": [
+        "The fibrous partition between atria and ventricles",
+        "The continuation of the AV node into the septum",
+        "An interatrial conduction pathway that carries the impulse from the right atrium to the left atrium",
+        "The distal network within the ventricular apex"
+      ],
+      "answer": 2,
+      "explanation": "Bachmann's bundle is a major internodal/interatrial tract that spreads the SA nodal impulse to the left atrium, allowing both atria to depolarize as one unit.",
+      "explanationImage": null,
+      "tags": [
+        "Electrical Activity of the Heart",
+        "AV Node, Bundle of His & the Purkinje Network"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch04-q092",
+      "stem": "Vagal stimulation of the AV node will:",
+      "image": null,
+      "options": [
+        "Shorten the PR interval",
+        "Prolong the PR interval by slowing AV conduction",
+        "Have no effect on conduction",
+        "Increase the sinus rate"
+      ],
+      "answer": 1,
+      "explanation": "Acetylcholine slows AV nodal conduction and prolongs the PR interval; strong vagal tone can even produce AV block. It also slows the sinus rate rather than increasing it.",
+      "explanationImage": null,
+      "tags": [
+        "Electrical Activity of the Heart",
+        "AV Node, Bundle of His & the Purkinje Network"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch04-q093",
+      "stem": "Sympathetic stimulation of the AV node produces a:",
+      "image": null,
+      "options": [
+        "Shorter PR interval from enhanced AV conduction",
+        "Longer PR interval from nodal inhibition",
+        "Complete conduction block",
+        "Decrease in contractility"
+      ],
+      "answer": 0,
+      "explanation": "Norepinephrine speeds AV nodal conduction, shortening the PR interval while also raising rate and contractility. Sympathetic effects are uniformly \"positive\" (chronotropic, inotropic, dromotropic).",
+      "explanationImage": null,
+      "tags": [
+        "Electrical Activity of the Heart",
+        "AV Node, Bundle of His & the Purkinje Network"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch04-q094",
+      "stem": "An asymptomatic endurance athlete has a resting heart rate of 48 bpm with normal sinus rhythm. The most likely explanation is:",
+      "image": null,
+      "options": [
+        "Primary junctional pathology",
+        "SA node failure",
+        "Fever",
+        "Physiologic increase in vagal tone from training"
+      ],
+      "answer": 3,
+      "explanation": "Aerobic training raises resting vagal tone, slowing the SA node while stroke volume increases. The rhythm remains sinus, and this is a normal adaptive finding.",
+      "explanationImage": null,
+      "tags": [
+        "Electrical Activity of the Heart",
+        "AV Node, Bundle of His & the Purkinje Network"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch04-q095",
+      "stem": "The AV node's delay is longest for impulses arriving:",
+      "image": null,
+      "options": [
+        "Rapidly during the atrial fast pathway only",
+        "During early diastole",
+        "Prematurely, because some tissue is still refractory",
+        "During ventricular systole"
+      ],
+      "answer": 2,
+      "explanation": "Premature impulses encounter partially recovered nodal tissue and conduct even more slowly (or are blocked), further lengthening the effective delay. This decremental property protects the ventricles.",
+      "explanationImage": null,
+      "tags": [
+        "Electrical Activity of the Heart",
+        "AV Node, Bundle of His & the Purkinje Network"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch04-q096",
+      "stem": "Purkinje fibers \"support efficient blood ejection\" primarily because they:",
+      "image": null,
+      "options": [
+        "Activate the entire ventricular myocardium nearly simultaneously, producing a coordinated powerful contraction",
+        "Directly contract to push blood",
+        "Delay the impulse to enhance preload",
+        "Generate the pulse pressure themselves"
+      ],
+      "answer": 0,
+      "explanation": "Near-simultaneous activation makes the ventricles squeeze as a coordinated unit, maximizing stroke volume. Purkinje cells themselves contribute little force; their role is distribution of the signal.",
+      "explanationImage": null,
+      "tags": [
+        "Electrical Activity of the Heart",
+        "AV Node, Bundle of His & the Purkinje Network"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch04-q097",
+      "stem": "Unidirectional (one-way) conduction from atria to ventricles is ensured by:",
+      "image": null,
+      "options": [
+        "The AV valves physically pushing the impulse forward",
+        "Refractoriness of the SA node",
+        "The electrically insulating fibrous skeleton combined with the AV node acting as the sole conduit",
+        "The pericardial sac"
+      ],
+      "answer": 2,
+      "explanation": "Because the fibrous skeleton blocks all other routes, the impulse can only enter the ventricles through the AV junction, which normally conducts antegrade. This architecture prevents chaotic spread.",
+      "explanationImage": null,
+      "tags": [
+        "Electrical Activity of the Heart",
+        "AV Node, Bundle of His & the Purkinje Network"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch04-q098",
+      "stem": "A wide QRS complex (>0.12 s) on the ECG suggests:",
+      "image": null,
+      "options": [
+        "Rapid atrial conduction",
+        "Shortened AV conduction",
+        "Normal His–Purkinje activation",
+        "Slow cell-to-cell ventricular activation, as with bundle branch block or a ventricular origin"
+      ],
+      "answer": 3,
+      "explanation": "When activation bypasses the rapid Purkinje system — or a bundle branch is blocked — depolarization spreads slowly muscle-to-muscle, widening the QRS. Narrow QRS implies normal fast conduction.",
+      "explanationImage": null,
+      "tags": [
+        "Electrical Activity of the Heart",
+        "AV Node, Bundle of His & the Purkinje Network"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch04-q099",
+      "stem": "In complete AV block with a wide-QRS escape rhythm at 30 bpm, the escape pacemaker is located:",
+      "image": null,
+      "options": [
+        "Below the AV node, in the His–Purkinje/ventricular tissue",
+        "In the SA node",
+        "In the AV junction",
+        "In a sinus tachycardia focus"
+      ],
+      "answer": 0,
+      "explanation": "Wide QRS at 20–40 bpm indicates a sub-His (ventricular) escape. A junctional escape would be narrow-complex and 40–60 bpm; the SA node cannot drive the ventricles in complete block.",
+      "explanationImage": null,
+      "tags": [
+        "Electrical Activity of the Heart",
+        "AV Node, Bundle of His & the Purkinje Network"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch04-q100",
+      "stem": "Which conduction tissue has an action potential most similar to that of working ventricular muscle (a fast-response AP with a plateau)?",
+      "image": null,
+      "options": [
+        "SA node",
+        "AV node",
+        "Purkinje fibers",
+        "None — all conduction tissue uses calcium-driven APs"
+      ],
+      "answer": 2,
+      "explanation": "Purkinje fibers generate fast-response, sodium-dependent action potentials with a plateau, closely resembling ventricular muscle APs (but longer in duration). Nodal tissue relies on slow calcium channels. ---",
+      "explanationImage": null,
+      "tags": [
+        "Electrical Activity of the Heart",
+        "Action Potential Fundamentals & Ion Channels"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch04-q101",
+      "stem": "Cardiac action potentials are generated by:",
+      "image": null,
+      "options": [
+        "Ion accumulation outside the cell membrane",
+        "Movement of ions through membrane channels down their electrochemical gradients",
+        "Water flux across the sarcolemma",
+        "Protein synthesis within the myocyte"
+      ],
+      "answer": 1,
+      "explanation": "An action potential is an electrical signal created by controlled ion movement (Na⁺, Ca²⁺, K⁺) through selective membrane channels. The direction and magnitude of each current determine the shape of the AP.",
+      "explanationImage": null,
+      "tags": [
+        "Electrical Activity of the Heart",
+        "Action Potential Fundamentals & Ion Channels"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch04-q102",
+      "stem": "The term \"membrane potential\" refers to the:",
+      "image": null,
+      "options": [
+        "Charge difference between the inside and outside of the cell membrane",
+        "Pressure difference across the membrane",
+        "Intracellular pH",
+        "Osmotic pressure of the cytosol"
+      ],
+      "answer": 0,
+      "explanation": "Membrane potential is the voltage created by the separation of charge across the lipid membrane. Ion gradients (mainly Na⁺ outside, K⁺ inside) maintain this difference.",
+      "explanationImage": null,
+      "tags": [
+        "Electrical Activity of the Heart",
+        "Action Potential Fundamentals & Ion Channels"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch04-q103",
+      "stem": "Which ion channels participate in generating the cardiac action potential?",
+      "image": null,
+      "options": [
+        "Sodium, potassium, and chloride only",
+        "Calcium, magnesium, and chloride",
+        "Sodium, calcium, and magnesium",
+        "Sodium, potassium, and calcium"
+      ],
+      "answer": 3,
+      "explanation": "The cardiac AP is produced by coordinated Na⁺ (fast upstroke), Ca²⁺ (plateau), and K⁺ (repolarization) channel activity. Chloride and magnesium play only minor or structural roles.",
+      "explanationImage": null,
+      "tags": [
+        "Electrical Activity of the Heart",
+        "Action Potential Fundamentals & Ion Channels"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch04-q104",
+      "stem": "In the resting ventricular myocyte, membrane permeability is highest for which ion?",
+      "image": null,
+      "options": [
+        "Sodium",
+        "Calcium",
+        "Potassium",
+        "Chloride"
+      ],
+      "answer": 2,
+      "explanation": "Resting permeability is dominated by potassium channels, so the resting potential sits close to the potassium equilibrium potential (≈ −90 mV). Sodium permeability at rest is very low.",
+      "explanationImage": null,
+      "tags": [
+        "Electrical Activity of the Heart",
+        "Action Potential Fundamentals & Ion Channels"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch04-q105",
+      "stem": "Which feature of the cardiac action potential is absent from the nerve action potential?",
+      "image": null,
+      "options": [
+        "A plateau phase",
+        "Rapid depolarization",
+        "Repolarization",
+        "A refractory period"
+      ],
+      "answer": 0,
+      "explanation": "Nerve APs are brief spikes with no plateau; the cardiac AP's sustained plateau (phase 2) is its distinguishing feature, built from slow Ca²⁺ influx balanced against K⁺ efflux.",
+      "explanationImage": null,
+      "tags": [
+        "Electrical Activity of the Heart",
+        "Action Potential Fundamentals & Ion Channels"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch04-q106",
+      "stem": "The duration of a typical ventricular action potential is approximately:",
+      "image": null,
+      "options": [
+        "The same as a nerve AP",
+        "About 5 milliseconds",
+        "200–300 milliseconds",
+        "1 millisecond"
+      ],
+      "answer": 2,
+      "explanation": "Ventricular APs last 200–300 ms, roughly 100 times longer than the 1–2 ms nerve AP. The extended duration is what supports the long contraction and refractory period of the heart.",
+      "explanationImage": null,
+      "tags": [
+        "Electrical Activity of the Heart",
+        "Action Potential Fundamentals & Ion Channels"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch04-q107",
+      "stem": "The nerve action potential relies primarily on which ions?",
+      "image": null,
+      "options": [
+        "Sodium and potassium",
+        "Sodium, calcium, and potassium",
+        "Calcium alone",
+        "Potassium alone"
+      ],
+      "answer": 1,
+      "explanation": "This is the classic distractor trap: the *cardiac* AP uses Na⁺, Ca²⁺, and K⁺, while the *nerve* AP uses mainly Na⁺ and K⁺. Calcium channel activity is what creates the cardiac plateau.",
+      "explanationImage": null,
+      "tags": [
+        "Electrical Activity of the Heart",
+        "Action Potential Fundamentals & Ion Channels"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch04-q108",
+      "stem": "Inactivation of fast sodium channels during the cardiac AP results in:",
+      "image": null,
+      "options": [
+        "Hyperexcitability",
+        "A faster upstroke",
+        "Accelerated conduction",
+        "The absolute refractory period"
+      ],
+      "answer": 3,
+      "explanation": "Once fast Na⁺ channels inactivate, they cannot reopen until the membrane repolarizes, making the cell unexcitable (absolutely refractory). This prevents premature or summed contractions.",
+      "explanationImage": null,
+      "tags": [
+        "Electrical Activity of the Heart",
+        "Action Potential Fundamentals & Ion Channels"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch04-q109",
+      "stem": "Potassium efflux through delayed rectifier channels produces:",
+      "image": null,
+      "options": [
+        "Repolarization",
+        "Depolarization",
+        "The plateau",
+        "Mechanical contraction"
+      ],
+      "answer": 0,
+      "explanation": "Outward K⁺ current carries positive charge out of the cell, restoring the negative resting potential during phases 1 and 3. Inward Na⁺ and Ca²⁺ currents produce depolarization and plateau instead.",
+      "explanationImage": null,
+      "tags": [
+        "Electrical Activity of the Heart",
+        "Action Potential Fundamentals & Ion Channels"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch04-q110",
+      "stem": "The refractory period is defined as the interval during which:",
+      "image": null,
+      "options": [
+        "The cell is maximally excitable",
+        "A normal action potential cannot be elicited",
+        "The cell rests at −90 mV",
+        "Calcium accumulates in the cytosol only"
+      ],
+      "answer": 1,
+      "explanation": "During the refractory period, Na⁺ (or Ca²⁺) channels are unavailable, so the cell cannot fire another full AP regardless of stimulus strength. Partial recovery later permits only weak responses (relative refractory).",
+      "explanationImage": null,
+      "tags": [
+        "Electrical Activity of the Heart",
+        "Action Potential Fundamentals & Ion Channels"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch04-q111",
+      "stem": "The resting ionic gradients are characterized by:",
+      "image": null,
+      "options": [
+        "Sodium high inside, potassium high outside",
+        "Both ions concentrated inside",
+        "Both ions concentrated outside",
+        "Sodium high outside, potassium high inside"
+      ],
+      "answer": 3,
+      "explanation": "Na⁺/K⁺ ATPase maintains high extracellular Na⁺ and high intracellular K⁺. These opposing gradients power both depolarization (Na⁺ in) and repolarization (K⁺ out).",
+      "explanationImage": null,
+      "tags": [
+        "Electrical Activity of the Heart",
+        "Action Potential Fundamentals & Ion Channels"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch04-q112",
+      "stem": "The direct energy source for the Na⁺/K⁺ ATPase pump is:",
+      "image": null,
+      "options": [
+        "Glucose",
+        "GTP",
+        "ATP",
+        "Creatine phosphate"
+      ],
+      "answer": 2,
+      "explanation": "The pump hydrolyzes ATP to move 3 Na⁺ out and 2 K⁺ in against their gradients. The abundant mitochondria of cardiac cells supply this constant ATP demand.",
+      "explanationImage": null,
+      "tags": [
+        "Electrical Activity of the Heart",
+        "Action Potential Fundamentals & Ion Channels"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch04-q113",
+      "stem": "Phase 4 of the action potential corresponds to:",
+      "image": null,
+      "options": [
+        "Rapid depolarization",
+        "The resting (or diastolic depolarization) interval between beats",
+        "The plateau",
+        "Final repolarization"
+      ],
+      "answer": 1,
+      "explanation": "In working cells, phase 4 is the stable resting potential; in nodal cells, phase 4 is the slow spontaneous (pacemaker) depolarization that leads to the next AP. Either way, it is the interval between action potentials.",
+      "explanationImage": null,
+      "tags": [
+        "Electrical Activity of the Heart",
+        "Action Potential Fundamentals & Ion Channels"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch04-q114",
+      "stem": "Phase 1 of the ventricular action potential is:",
+      "image": null,
+      "options": [
+        "Brief early repolarization immediately after the upstroke (transient K⁺ outflow)",
+        "The plateau",
+        "Slow spontaneous depolarization",
+        "Terminal repolarization"
+      ],
+      "answer": 0,
+      "explanation": "After the Na⁺-driven upstroke, a transient outward K⁺ current produces a short notch of partial repolarization before the plateau begins. The plateau is phase 2, not phase 1.",
+      "explanationImage": null,
+      "tags": [
+        "Electrical Activity of the Heart",
+        "Action Potential Fundamentals & Ion Channels"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch04-q115",
+      "stem": "Which channels are primarily responsible for the plateau phase and for triggering sarcoplasmic reticulum calcium release?",
+      "image": null,
+      "options": [
+        "T-type calcium channels only",
+        "Fast sodium channels",
+        "Inward rectifier potassium channels",
+        "L-type calcium channels"
+      ],
+      "answer": 3,
+      "explanation": "L-type (\"long-lasting\") Ca²⁺ channels open during the plateau and admit the trigger calcium for excitation–contraction coupling. T-type channels contribute to nodal prepotentials, not the ventricular plateau.",
+      "explanationImage": null,
+      "tags": [
+        "Electrical Activity of the Heart",
+        "Action Potential Fundamentals & Ion Channels"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch04-q116",
+      "stem": "Conduction velocity of the action potential along cardiac tissue depends mainly on:",
+      "image": null,
+      "options": [
+        "ATP content of the sarcoplasmic reticulum",
+        "Troponin binding affinity",
+        "The speed of the phase-0 upstroke and availability of sodium channels",
+        "Heart rate alone"
+      ],
+      "answer": 2,
+      "explanation": "Faster, larger phase-0 upstrokes (more available fast Na⁺ channels) excite downstream cells sooner, increasing conduction velocity. This is why AV nodal tissue (slow Ca-driven upstroke) conducts slowly and why Na⁺-blocking drugs slow conduction.",
+      "explanationImage": null,
+      "tags": [
+        "Electrical Activity of the Heart",
+        "Action Potential Fundamentals & Ion Channels"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch04-q117",
+      "stem": "Electrical conduction between adjacent cardiac cells is characterized by:",
+      "image": null,
+      "options": [
+        "High resistance and slow spread",
+        "Low resistance and rapid spread via gap junctions",
+        "Infinite resistance",
+        "Resistance that varies with heart rate"
+      ],
+      "answer": 1,
+      "explanation": "Gap junctions create low-resistance intercellular connections, so current flows quickly from cell to cell. This syncytial behavior lets the whole chamber depolarize within milliseconds.",
+      "explanationImage": null,
+      "tags": [
+        "Electrical Activity of the Heart",
+        "Action Potential Fundamentals & Ion Channels"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch04-q118",
+      "stem": "The upstroke of the SA nodal action potential is slow because:",
+      "image": null,
+      "options": [
+        "It is carried by slow L-type calcium channels rather than fast sodium channels",
+        "Its sodium channels open too fast",
+        "Nodal cells have no ion channels",
+        "Potassium flows inward"
+      ],
+      "answer": 0,
+      "explanation": "Nodal cells depolarize with calcium-driven \"slow-response\" APs, giving a gradual upstroke and slow conduction. Fast Na⁺ channels are unavailable at nodal resting potentials.",
+      "explanationImage": null,
+      "tags": [
+        "Electrical Activity of the Heart",
+        "Action Potential Fundamentals & Ion Channels"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch04-q119",
+      "stem": "Which sequence correctly orders the phases of the ventricular action potential?",
+      "image": null,
+      "options": [
+        "Plateau → upstroke → repolarization → rest",
+        "Repolarization → plateau → upstroke → rest",
+        "Rest → plateau → upstroke → repolarization",
+        "Upstroke (0) → early repolarization (1) → plateau (2) → repolarization (3) → rest/diastole (4)"
+      ],
+      "answer": 3,
+      "explanation": "Phase 0 is the Na⁺ upstroke, phase 1 the transient notch, phase 2 the Ca²⁺ plateau, phase 3 K⁺ repolarization, and phase 4 the resting/diastolic state. Misordering these phases confuses AP interpretation.",
+      "explanationImage": null,
+      "tags": [
+        "Electrical Activity of the Heart",
+        "Action Potential Fundamentals & Ion Channels"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch04-q120",
+      "stem": "The effective refractory period of the ventricular AP spans roughly:",
+      "image": null,
+      "options": [
+        "Phase 4 only",
+        "Phase 2 only",
+        "Phase 0 through most of phase 3",
+        "All phases equally"
+      ],
+      "answer": 2,
+      "explanation": "From the upstroke until Na⁺ channels recover late in phase 3, the cell cannot generate a propagated AP. Only after substantial repolarization does excitability return (relative refractory period). ---",
+      "explanationImage": null,
+      "tags": [
+        "Electrical Activity of the Heart",
+        "Nodal vs Ventricular vs Nerve/Skeletal Muscle Action Potentials"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch04-q121",
+      "stem": "The primary functional purpose of the cardiac plateau phase is to:",
+      "image": null,
+      "options": [
+        "Speed neural-type signaling",
+        "Conserve ATP",
+        "Permit summation of contractions",
+        "Prolong contraction and prevent tetanic contraction"
+      ],
+      "answer": 3,
+      "explanation": "The plateau extends the AP and the refractory period long enough for a complete contraction–relaxation cycle, making summation/tetanus impossible and ensuring rhythmic pumping. Rapid signaling is the nerve AP's specialty.",
+      "explanationImage": null,
+      "tags": [
+        "Electrical Activity of the Heart",
+        "Nodal vs Ventricular vs Nerve/Skeletal Muscle Action Potentials"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch04-q122",
+      "stem": "The nerve action potential is suited for rapid signaling because it has:",
+      "image": null,
+      "options": [
+        "A long plateau",
+        "A very brief duration (~1–2 ms) that permits high-frequency firing",
+        "Sustained calcium influx",
+        "A very long refractory period"
+      ],
+      "answer": 1,
+      "explanation": "Short APs and short refractory periods let nerves fire hundreds of impulses per second. Cardiac APs, in contrast, trade speed for the ability to support contraction.",
+      "explanationImage": null,
+      "tags": [
+        "Electrical Activity of the Heart",
+        "Nodal vs Ventricular vs Nerve/Skeletal Muscle Action Potentials"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch04-q123",
+      "stem": "The action potential of skeletal muscle lasts approximately:",
+      "image": null,
+      "options": [
+        "1–5 ms",
+        "200–300 ms",
+        "The same as cardiac muscle",
+        "1 second"
+      ],
+      "answer": 0,
+      "explanation": "Skeletal muscle APs are brief (a few milliseconds), far shorter than the mechanical twitch, which allows stimuli to summate. Cardiac APs last 200–300 ms, nearly as long as the twitch itself.",
+      "explanationImage": null,
+      "tags": [
+        "Electrical Activity of the Heart",
+        "Nodal vs Ventricular vs Nerve/Skeletal Muscle Action Potentials"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch04-q124",
+      "stem": "Skeletal muscle can undergo summation and tetanus because:",
+      "image": null,
+      "options": [
+        "It has a prolonged refractory period",
+        "Calcium for contraction comes only from outside the cell",
+        "Its brief AP and refractory period allow successive stimuli to add tension before relaxation",
+        "It lacks ATP"
+      ],
+      "answer": 2,
+      "explanation": "With APs lasting only milliseconds, repeated stimulation can overlap twitches and build fused maximal tension. The heart's long refractory period makes this impossible.",
+      "explanationImage": null,
+      "tags": [
+        "Electrical Activity of the Heart",
+        "Nodal vs Ventricular vs Nerve/Skeletal Muscle Action Potentials"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch04-q125",
+      "stem": "Which statement correctly contrasts control of cardiac and skeletal muscle?",
+      "image": null,
+      "options": [
+        "Both are under voluntary control",
+        "Both are strictly involuntary with no neural input",
+        "Skeletal muscle is involuntary and the heart is voluntary",
+        "Cardiac muscle is involuntary with intrinsic and ANS control, while skeletal muscle is voluntary"
+      ],
+      "answer": 3,
+      "explanation": "The heart beats via its intrinsic conduction system and is modulated by the autonomic nervous system; skeletal muscle requires somatic motor nerve stimulation for every contraction.",
+      "explanationImage": null,
+      "tags": [
+        "Electrical Activity of the Heart",
+        "Nodal vs Ventricular vs Nerve/Skeletal Muscle Action Potentials"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch04-q126",
+      "stem": "Compared with the ventricular action potential, the SA nodal action potential has:",
+      "image": null,
+      "options": [
+        "A slow calcium-driven upstroke and an unstable, spontaneously depolarizing phase 4",
+        "A rapid sodium upstroke and stable resting potential",
+        "A stable resting potential of −90 mV",
+        "No refractory period"
+      ],
+      "answer": 0,
+      "explanation": "Nodal cells are slow-response: Ca²⁺-mediated upstroke, slow conduction, and a diastolic \"prepotential\" without a true resting state. Ventricular cells are fast-response with a Na⁺ upstroke and stable −90 mV phase 4.",
+      "explanationImage": null,
+      "tags": [
+        "Electrical Activity of the Heart",
+        "Nodal vs Ventricular vs Nerve/Skeletal Muscle Action Potentials"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch04-q127",
+      "stem": "The rapid upstroke of the ventricular action potential is generated by:",
+      "image": null,
+      "options": [
+        "Calcium influx through L-type channels",
+        "Rapid sodium influx through fast Na⁺ channels",
+        "Potassium influx",
+        "Chloride efflux"
+      ],
+      "answer": 1,
+      "explanation": "Voltage-gated fast Na⁺ channels open at threshold and flood the cell with sodium, producing the steep phase-0 upstroke. Calcium channels open later and sustain the plateau.",
+      "explanationImage": null,
+      "tags": [
+        "Electrical Activity of the Heart",
+        "Nodal vs Ventricular vs Nerve/Skeletal Muscle Action Potentials"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch04-q128",
+      "stem": "Relative to the ventricular action potential, the SA nodal action potential has:",
+      "image": null,
+      "options": [
+        "Greater amplitude and a faster rate of rise",
+        "Equal amplitude",
+        "Lower amplitude and a slower rate of rise",
+        "No measurable voltage change"
+      ],
+      "answer": 2,
+      "explanation": "Calcium-driven nodal APs rise slowly from a more positive baseline and reach a lower peak, giving smaller amplitude. This is precisely why nodal conduction is slow and why the AV node delays the impulse.",
+      "explanationImage": null,
+      "tags": [
+        "Electrical Activity of the Heart",
+        "Nodal vs Ventricular vs Nerve/Skeletal Muscle Action Potentials"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch04-q129",
+      "stem": "Comparing refractory periods:",
+      "image": null,
+      "options": [
+        "Skeletal muscle refractory period is longer than cardiac",
+        "They are identical in duration",
+        "Skeletal muscle has no refractory period",
+        "The cardiac refractory period is much longer than the skeletal muscle refractory period"
+      ],
+      "answer": 3,
+      "explanation": "The cardiac plateau keeps the heart refractory for ~250 ms, roughly the duration of the twitch itself, preventing summation. Skeletal refractory periods are only a few milliseconds.",
+      "explanationImage": null,
+      "tags": [
+        "Electrical Activity of the Heart",
+        "Nodal vs Ventricular vs Nerve/Skeletal Muscle Action Potentials"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch04-q130",
+      "stem": "A toxin that selectively blocks fast voltage-gated sodium channels would have which effect on the ventricular action potential?",
+      "image": null,
+      "options": [
+        "It would prolong the plateau",
+        "It would abolish the rapid phase-0 upstroke",
+        "It would accelerate repolarization",
+        "It would have no effect"
+      ],
+      "answer": 1,
+      "explanation": "Without functional fast Na⁺ channels, the ventricular cell cannot generate the steep upstroke. Calcium channels are unaffected, illustrating why upstroke and plateau depend on different channel populations.",
+      "explanationImage": null,
+      "tags": [
+        "Electrical Activity of the Heart",
+        "Nodal vs Ventricular vs Nerve/Skeletal Muscle Action Potentials"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch04-q131",
+      "stem": "A calcium channel blocker administered to a patient would most directly:",
+      "image": null,
+      "options": [
+        "Slow SA nodal firing and AV nodal conduction",
+        "Increase the heart rate",
+        "Have no cardiac effect because nodal cells lack calcium channels",
+        "Affect only ventricular contractility"
+      ],
+      "answer": 0,
+      "explanation": "Nodal action potentials depend on L-type calcium channels, so blocking them slows the pacemaker prepotential and AV conduction (negative chronotropic and dromotropic effects). Nodal tissue is the most calcium-dependent tissue in the heart.",
+      "explanationImage": null,
+      "tags": [
+        "Electrical Activity of the Heart",
+        "Nodal vs Ventricular vs Nerve/Skeletal Muscle Action Potentials"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch04-q132",
+      "stem": "Comparing signal speeds, the nerve action potential is:",
+      "image": null,
+      "options": [
+        "Slower than cardiac AP conduction",
+        "The same velocity as cardiac",
+        "Limited by calcium channels",
+        "Much faster overall than cardiac impulse conduction"
+      ],
+      "answer": 3,
+      "explanation": "Nerve fibers conduct extremely rapidly with short APs; even the heart's fastest tissue (Purkinje, ~2–4 m/s) conducts more slowly, and the whole cardiac beat cycle takes hundreds of milliseconds.",
+      "explanationImage": null,
+      "tags": [
+        "Electrical Activity of the Heart",
+        "Nodal vs Ventricular vs Nerve/Skeletal Muscle Action Potentials"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch04-q133",
+      "stem": "From an echocardiographer's perspective, the impossibility of cardiac tetany means that:",
+      "image": null,
+      "options": [
+        "The heart can contract faster than it relaxes indefinitely",
+        "Summation increases stroke volume during stress",
+        "Every depolarization is followed by a full relaxation and filling period, preserving the pumping cycle",
+        "The heart can fuse contractions at high heart rates"
+      ],
+      "answer": 2,
+      "explanation": "Because the long refractory period forbids summation, each beat is a complete contraction followed by relaxation and filling — the basis of rhythmic pumping. Even maximal heart rates preserve this one-contraction-per-depolarization rule.",
+      "explanationImage": null,
+      "tags": [
+        "Electrical Activity of the Heart",
+        "Nodal vs Ventricular vs Nerve/Skeletal Muscle Action Potentials"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch04-q134",
+      "stem": "Which statement about the heart's independence from nerves is correct?",
+      "image": null,
+      "options": [
+        "The heart requires intact nerves to beat at all",
+        "The heart contains an intrinsic pacemaker and conduction system; skeletal muscle requires nerve input to contract",
+        "Both cardiac and skeletal muscle are intrinsically rhythmic",
+        "Neither tissue can contract without autonomic nerves"
+      ],
+      "answer": 1,
+      "explanation": "Autorhythmic cells generate the heartbeat without any neural input (demonstrated by transplanted or denervated hearts). Skeletal muscle, lacking automaticity, is silent until its motor nerve fires.",
+      "explanationImage": null,
+      "tags": [
+        "Electrical Activity of the Heart",
+        "Nodal vs Ventricular vs Nerve/Skeletal Muscle Action Potentials"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch04-q135",
+      "stem": "The action potential feature that most directly ties electrical activity to contraction in cardiac muscle is:",
+      "image": null,
+      "options": [
+        "The plateau, whose calcium influx provides the trigger for excitation–contraction coupling",
+        "The rapid upstroke",
+        "Phase 4 stability",
+        "The T wave"
+      ],
+      "answer": 0,
+      "explanation": "Calcium entering during the plateau is the same calcium that triggers SR release and contraction, making the AP itself the start of excitation–contraction coupling. This is unique to cardiac muscle.",
+      "explanationImage": null,
+      "tags": [
+        "Electrical Activity of the Heart",
+        "Nodal vs Ventricular vs Nerve/Skeletal Muscle Action Potentials"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch04-q136",
+      "stem": "The total duration of a ventricular action potential is approximately:",
+      "image": null,
+      "options": [
+        "2 ms",
+        "20 ms",
+        "200–300 ms",
+        "1,000 ms"
+      ],
+      "answer": 2,
+      "explanation": "The plateau and slow repolarization stretch the ventricular AP to 200–300 ms — hundreds of times longer than nerve or skeletal muscle APs, and matched to the duration of the mechanical twitch.",
+      "explanationImage": null,
+      "tags": [
+        "Electrical Activity of the Heart",
+        "Nodal vs Ventricular vs Nerve/Skeletal Muscle Action Potentials"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch04-q137",
+      "stem": "During the plateau phase, the fast sodium channels are in which state?",
+      "image": null,
+      "options": [
+        "Open",
+        "Closed but available for activation",
+        "Rapidly reactivating",
+        "Inactivated"
+      ],
+      "answer": 3,
+      "explanation": "Fast Na⁺ channels opened during phase 0 close into an inactivated state and remain unavailable throughout the plateau, which is the molecular basis of the absolute refractory period.",
+      "explanationImage": null,
+      "tags": [
+        "Electrical Activity of the Heart",
+        "Nodal vs Ventricular vs Nerve/Skeletal Muscle Action Potentials"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch04-q138",
+      "stem": "Why does nodal tissue not use fast sodium channels for its upstroke?",
+      "image": null,
+      "options": [
+        "Sodium is too concentrated inside the cell",
+        "Nodal cells rest at a more positive potential where fast Na⁺ channels remain inactivated",
+        "Gap junctions block sodium movement",
+        "The ANS blocks sodium channels"
+      ],
+      "answer": 1,
+      "explanation": "Nodal maximum diastolic potential (about −60 mV) is too positive for fast Na⁺ channel availability, so depolarization falls to the slower L-type calcium channels. This defines the \"slow response\" AP.",
+      "explanationImage": null,
+      "tags": [
+        "Electrical Activity of the Heart",
+        "Nodal vs Ventricular vs Nerve/Skeletal Muscle Action Potentials"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch04-q139",
+      "stem": "Which of the following has the shortest action potential duration?",
+      "image": null,
+      "options": [
+        "Nerve",
+        "Ventricular muscle",
+        "Purkinje fiber",
+        "SA node"
+      ],
+      "answer": 0,
+      "explanation": "Nerve APs last only 1–2 ms. SA nodal APs are shorter than ventricular APs but still far longer than nerve APs, and Purkinje APs are the longest of all.",
+      "explanationImage": null,
+      "tags": [
+        "Electrical Activity of the Heart",
+        "Nodal vs Ventricular vs Nerve/Skeletal Muscle Action Potentials"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch04-q140",
+      "stem": "During the plateau (phase 2), the membrane potential behavior is best described as:",
+      "image": null,
+      "options": [
+        "Returning immediately to −90 mV",
+        "Progressive hyperpolarization",
+        "Hovering near 0 mV while inward Ca²⁺ and outward K⁺ currents balance",
+        "Rising to +90 mV"
+      ],
+      "answer": 2,
+      "explanation": "Balanced opposing currents hold the potential at approximately 0 mV for ~100–200 ms. Immediate return to −90 mV describes skeletal muscle repolarization, and +90 mV is unphysiologic. ---",
+      "explanationImage": null,
+      "tags": [
+        "Electrical Activity of the Heart",
+        "Intrinsic Rates & Pacemaker Hierarchy"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch04-q141",
+      "stem": "With all autonomic nervous system influence removed, the SA node fires at approximately:",
+      "image": null,
+      "options": [
+        "60 bpm",
+        "40–60 bpm",
+        "20–40 bpm",
+        "~100 bpm"
+      ],
+      "answer": 3,
+      "explanation": "The truly intrinsic SA nodal rate is about 100 bpm; normal resting rates (~70) exist only because of tonic vagal slowing. This distinction explains the tachycardia seen after atropine or transplantation.",
+      "explanationImage": null,
+      "tags": [
+        "Electrical Activity of the Heart",
+        "Intrinsic Rates & Pacemaker Hierarchy"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch04-q142",
+      "stem": "Which site normally determines the heart rate?",
+      "image": null,
+      "options": [
+        "SA node",
+        "AV node",
+        "Bundle of His",
+        "Purkinje fibers"
+      ],
+      "answer": 0,
+      "explanation": "The SA node depolarizes to threshold fastest and therefore paces the heart; all other sites are latent pacemakers held in check by overdrive suppression.",
+      "explanationImage": null,
+      "tags": [
+        "Electrical Activity of the Heart",
+        "Intrinsic Rates & Pacemaker Hierarchy"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch04-q143",
+      "stem": "The correct hierarchy of intrinsic rates from fastest to slowest is:",
+      "image": null,
+      "options": [
+        "His–Purkinje > AV node > SA node",
+        "AV node > SA node > His–Purkinje",
+        "SA node (60–100) > AV junction (40–60) > His–Purkinje (20–40)",
+        "Purkinje > SA node > AV node"
+      ],
+      "answer": 2,
+      "explanation": "The pacemaker hierarchy descends through the conduction system, with each successively distal site firing more slowly. The fastest site wins and normally is the SA node.",
+      "explanationImage": null,
+      "tags": [
+        "Electrical Activity of the Heart",
+        "Intrinsic Rates & Pacemaker Hierarchy"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch04-q144",
+      "stem": "A junctional escape rhythm characteristically runs at:",
+      "image": null,
+      "options": [
+        "20–40 bpm",
+        "40–60 bpm",
+        "60–100 bpm",
+        "100–140 bpm"
+      ],
+      "answer": 1,
+      "explanation": "AV junctional tissue's intrinsic rate is 40–60 bpm, so junctional escapes and junctional rhythms fall in this range. Rates of 20–40 bpm belong to ventricular escapes.",
+      "explanationImage": null,
+      "tags": [
+        "Electrical Activity of the Heart",
+        "Intrinsic Rates & Pacemaker Hierarchy"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch04-q145",
+      "stem": "The slowest intrinsic discharge rate of the potential pacemakers belongs to:",
+      "image": null,
+      "options": [
+        "His–Purkinje tissue at 20–40 bpm",
+        "AV nodal tissue at 40–60 bpm",
+        "SA nodal tissue at 60–100 bpm",
+        "Atrial ectopic foci at 60–80 bpm"
+      ],
+      "answer": 0,
+      "explanation": "Distal His–Purkinje tissue fires at only 20–40 bpm. It becomes the pacemaker only when both the SA node and the AV junction fail, which is why complete heart block below the His produces profound bradycardia.",
+      "explanationImage": null,
+      "tags": [
+        "Electrical Activity of the Heart",
+        "Intrinsic Rates & Pacemaker Hierarchy"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch04-q146",
+      "stem": "A resting ECG at 65 bpm with a P wave before every QRS indicates a rhythm originating from the:",
+      "image": null,
+      "options": [
+        "AV junction",
+        "Atrial ectopic focus",
+        "Ventricles",
+        "SA node (normal sinus rhythm)"
+      ],
+      "answer": 3,
+      "explanation": "A P wave preceding each QRS at a normal rate indicates SA nodal dominance. Junctional and ventricular rhythms lack upright sinus P waves or show dissociation.",
+      "explanationImage": null,
+      "tags": [
+        "Electrical Activity of the Heart",
+        "Intrinsic Rates & Pacemaker Hierarchy"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch04-q147",
+      "stem": "\"Sinus bradycardia\" is best defined as:",
+      "image": null,
+      "options": [
+        "Any heart rate below 60 bpm regardless of origin",
+        "A slow wide-complex rhythm",
+        "Normal P waves with a rate below 60 bpm",
+        "Absent P waves with a slow rate"
+      ],
+      "answer": 2,
+      "explanation": "Sinus bradycardia retains the normal SA nodal origin (P before each QRS) but at a rate under 60 bpm, often from high vagal tone. Options B and D describe escape rhythms, not a sinus mechanism.",
+      "explanationImage": null,
+      "tags": [
+        "Electrical Activity of the Heart",
+        "Intrinsic Rates & Pacemaker Hierarchy"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch04-q148",
+      "stem": "\"Sinus tachycardia\" is best defined as:",
+      "image": null,
+      "options": [
+        "A narrow-complex rhythm without P waves",
+        "A normally driven (P–QRS) rhythm exceeding 100 bpm",
+        "A wide-complex rhythm at 150 bpm",
+        "An irregularly irregular rhythm"
+      ],
+      "answer": 1,
+      "explanation": "The sinus mechanism is preserved but the SA node fires faster than 100 bpm, typically from sympathetic stimulation. Option D suggests atrial fibrillation, and option C suggests VT.",
+      "explanationImage": null,
+      "tags": [
+        "Electrical Activity of the Heart",
+        "Intrinsic Rates & Pacemaker Hierarchy"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch04-q149",
+      "stem": "Heart rate rises during exercise primarily because:",
+      "image": null,
+      "options": [
+        "Sympathetic stimulation steepens the slope of the SA nodal pacemaker potential",
+        "The AV node becomes the primary pacemaker",
+        "The intrinsic SA rate decreases",
+        "Vagal stimulation increases"
+      ],
+      "answer": 0,
+      "explanation": "Norepinephrine accelerates the prepotential so threshold is reached sooner, raising firing frequency. Vagal input simultaneously falls, releasing the node to its higher intrinsic capability.",
+      "explanationImage": null,
+      "tags": [
+        "Electrical Activity of the Heart",
+        "Intrinsic Rates & Pacemaker Hierarchy"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch04-q150",
+      "stem": "An \"ectopic atrial rhythm\" implies that:",
+      "image": null,
+      "options": [
+        "The SA node always wins under any circumstance",
+        "The ectopic focus fires slower than the SA node",
+        "An impulse source outside the SA node has become the dominant pacemaker",
+        "The ventricles are pacing the heart"
+      ],
+      "answer": 2,
+      "explanation": "If an atrial focus (e.g., low atrial or wandering atrial pacemaker) reaches threshold first, it drives the rhythm, producing altered P-wave morphology. The SA node wins only when it depolarizes fastest.",
+      "explanationImage": null,
+      "tags": [
+        "Electrical Activity of the Heart",
+        "Intrinsic Rates & Pacemaker Hierarchy"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch04-q151",
+      "stem": "A regular tachycardia at 120 bpm with a normal-appearing P wave before each QRS is best classified as:",
+      "image": null,
+      "options": [
+        "Junctional rhythm",
+        "Atrial fibrillation",
+        "Ventricular tachycardia",
+        "Sinus tachycardia"
+      ],
+      "answer": 3,
+      "explanation": "A regular rate above 100 bpm with a normal sinus P–QRS sequence is sinus tachycardia, typically driven by sympathetic stimulation. Atrial fibrillation is irregular, and junctional/ventricular rhythms lack sinus P waves.",
+      "explanationImage": null,
+      "tags": [
+        "Electrical Activity of the Heart",
+        "Intrinsic Rates & Pacemaker Hierarchy"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch04-q152",
+      "stem": "The intrinsic firing rate of atrial (non-sinus) pacemaker sites is approximately:",
+      "image": null,
+      "options": [
+        "20–40 bpm",
+        "40–60 bpm",
+        "60–80 bpm",
+        "100–120 bpm"
+      ],
+      "answer": 2,
+      "explanation": "Atrial ectopic pacemakers fire intrinsically at roughly 60–80 bpm, just below the SA node — faster than the AV junction (40–60) but slower than the SA node's 60–100 capability.",
+      "explanationImage": null,
+      "tags": [
+        "Electrical Activity of the Heart",
+        "Intrinsic Rates & Pacemaker Hierarchy"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch04-q153",
+      "stem": "The term \"overdrive suppression\" refers to:",
+      "image": null,
+      "options": [
+        "The suppression of a slower pacemaker by the repetitive depolarizing activity of a faster one",
+        "Suppression of the heart by excess calcium",
+        "The SA node being silenced by the AV node",
+        "Autonomic shutdown of the entire conduction system"
+      ],
+      "answer": 0,
+      "explanation": "A faster pacemaker keeps slower sites depolarized before they can reach their own threshold. When the fast site stops, the suppressed sites take time to recover — the basis of escape rhythms and post-tachycardia pauses.",
+      "explanationImage": null,
+      "tags": [
+        "Electrical Activity of the Heart",
+        "Intrinsic Rates & Pacemaker Hierarchy"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch04-q154",
+      "stem": "A \"wandering atrial pacemaker\" is recognized on the ECG by:",
+      "image": null,
+      "options": [
+        "A single uniform P-wave morphology",
+        "Three or more different P-wave morphologies",
+        "Complete absence of P waves",
+        "Wide QRS complexes"
+      ],
+      "answer": 1,
+      "explanation": "Shifting between multiple atrial foci produces at least three distinct P-wave shapes with varying PR intervals. Absent P waves suggest fibrillation or a junctional mechanism.",
+      "explanationImage": null,
+      "tags": [
+        "Electrical Activity of the Heart",
+        "Intrinsic Rates & Pacemaker Hierarchy"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch04-q155",
+      "stem": "The hallmark of complete (third-degree) AV block on the ECG is:",
+      "image": null,
+      "options": [
+        "A shortened PR interval",
+        "Every P wave followed by a QRS",
+        "Sinus rhythm only",
+        "Independent atrial and ventricular activity (AV dissociation)"
+      ],
+      "answer": 3,
+      "explanation": "No atrial impulse reaches the ventricles, so P waves and QRS complexes occur independently, with the QRS arising from a junctional or ventricular escape pacemaker.",
+      "explanationImage": null,
+      "tags": [
+        "Electrical Activity of the Heart",
+        "Intrinsic Rates & Pacemaker Hierarchy"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch04-q156",
+      "stem": "An \"escape rhythm\" is defined as:",
+      "image": null,
+      "options": [
+        "A rhythm caused by excess sympathetic tone",
+        "Any tachycardia above 150 bpm",
+        "A rhythm that emerges from a latent pacemaker when faster pacemakers fail to fire or conduct",
+        "A rhythm paced by an artificial device only"
+      ],
+      "answer": 2,
+      "explanation": "When the dominant pacemaker fails, the next-fastest site \"escapes\" suppression and takes over at its own intrinsic rate (junctional 40–60 or ventricular 20–40 bpm).",
+      "explanationImage": null,
+      "tags": [
+        "Electrical Activity of the Heart",
+        "Intrinsic Rates & Pacemaker Hierarchy"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch04-q157",
+      "stem": "Myocardial ischemia promotes arrhythmias primarily because it:",
+      "image": null,
+      "options": [
+        "Speeds conduction through the Purkinje system",
+        "Slows conduction and alters action potentials, creating ectopic foci and re-entry substrate",
+        "Has no electrophysiologic effect",
+        "Always destroys the SA node first"
+      ],
+      "answer": 1,
+      "explanation": "Ischemic cells become depolarized, conduct slowly, and develop abnormal automaticity — conditions favoring re-entry and ectopic beats. This is why arrhythmias complicate acute infarction.",
+      "explanationImage": null,
+      "tags": [
+        "Electrical Activity of the Heart",
+        "Intrinsic Rates & Pacemaker Hierarchy"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch04-q158",
+      "stem": "Digitalis (digoxin) is useful for rate control in atrial fibrillation because it:",
+      "image": null,
+      "options": [
+        "Slows AV nodal conduction, limiting how many atrial impulses reach the ventricles",
+        "Speeds AV nodal conduction",
+        "Directly abolishes the atrial fibrillation",
+        "Increases the junctional escape rate"
+      ],
+      "answer": 0,
+      "explanation": "Digoxin enhances vagal tone on the AV node, whose long refractory period then filters the rapid fibrillatory impulses. The atria continue to fibrillate, but the ventricular rate falls.",
+      "explanationImage": null,
+      "tags": [
+        "Electrical Activity of the Heart",
+        "Intrinsic Rates & Pacemaker Hierarchy"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch04-q159",
+      "stem": "In atrial flutter with an atrial rate of 300 bpm, a ventricular rate of exactly 150 bpm implies:",
+      "image": null,
+      "options": [
+        "Complete AV conduction of every flutter wave",
+        "Ventricular pacing",
+        "SA nodal capture",
+        "2:1 AV block — the AV node transmits every other beat because of its refractory period"
+      ],
+      "answer": 3,
+      "explanation": "The AV node's refractory tissue cannot conduct 300 impulses per minute, so every second flutter wave is blocked. This protective filtering function is a core role of AV nodal physiology.",
+      "explanationImage": null,
+      "tags": [
+        "Electrical Activity of the Heart",
+        "Intrinsic Rates & Pacemaker Hierarchy"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch04-q160",
+      "stem": "In a rapid supraventricular tachycardia, the structure that determines the maximum ventricular rate is the:",
+      "image": null,
+      "options": [
+        "SA node",
+        "Purkinje fibers",
+        "AV node",
+        "His bundle fascicles"
+      ],
+      "answer": 2,
+      "explanation": "All impulses from above must cross the AV node, whose conduction velocity and refractory period set the ceiling on ventricular response rate. Purkinje tissue conducts fast but only receives what the AV node passes. ---",
+      "explanationImage": null,
+      "tags": [
+        "Electrical Activity of the Heart",
+        "ECG Waves, Intervals & Electrical–Mechanical Timing"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch04-q161",
+      "stem": "The normal PR interval measures:",
+      "image": null,
+      "options": [
+        "0.02–0.06 s",
+        "0.12–0.20 s",
+        "0.28–0.36 s",
+        "0.40 s or more"
+      ],
+      "answer": 1,
+      "explanation": "A PR interval of 0.12–0.20 s (3–5 small boxes) reflects the SA-to-ventricle conduction time dominated by AV nodal delay. Values above 0.20 s indicate first-degree AV block.",
+      "explanationImage": null,
+      "tags": [
+        "Electrical Activity of the Heart",
+        "ECG Waves, Intervals & Electrical–Mechanical Timing"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch04-q162",
+      "stem": "The normal QRS duration is:",
+      "image": null,
+      "options": [
+        "0.06–0.10 s",
+        "0.16–0.20 s",
+        "0.24 s",
+        "0.30 s"
+      ],
+      "answer": 0,
+      "explanation": "Rapid Purkinje-mediated activation completes ventricular depolarization within 0.06–0.10 s. A QRS longer than 0.12 s signals bundle branch block, ventricular origin, or other slow activation.",
+      "explanationImage": null,
+      "tags": [
+        "Electrical Activity of the Heart",
+        "ECG Waves, Intervals & Electrical–Mechanical Timing"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch04-q163",
+      "stem": "Which ECG wave is characteristically absent in atrial fibrillation?",
+      "image": null,
+      "options": [
+        "QRS complex",
+        "T wave",
+        "U wave",
+        "P wave"
+      ],
+      "answer": 3,
+      "explanation": "Disorganized fibrillatory activity prevents a coordinated atrial depolarization wave, so distinct P waves are replaced by an irregular fibrillatory baseline. QRS complexes remain because the AV node and ventricles still function.",
+      "explanationImage": null,
+      "tags": [
+        "Electrical Activity of the Heart",
+        "ECG Waves, Intervals & Electrical–Mechanical Timing"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch04-q164",
+      "stem": "An upright, rounded P wave in lead II suggests:",
+      "image": null,
+      "options": [
+        "A ventricular rhythm",
+        "Retrograde conduction",
+        "Origin from the SA node (normal sinus mechanism)",
+        "AV nodal block"
+      ],
+      "answer": 2,
+      "explanation": "The normal atrial activation vector travels from the SA node (high right atrium) inferiorly and leftward, producing upright P waves in lead II. Altered polarity suggests an ectopic or retrograde origin.",
+      "explanationImage": null,
+      "tags": [
+        "Electrical Activity of the Heart",
+        "ECG Waves, Intervals & Electrical–Mechanical Timing"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch04-q165",
+      "stem": "The QT interval represents:",
+      "image": null,
+      "options": [
+        "Total ventricular electrical systole — depolarization plus repolarization",
+        "Atrial depolarization only",
+        "The AV nodal delay only",
+        "Diastole"
+      ],
+      "answer": 0,
+      "explanation": "QT spans the onset of the QRS to the end of the T wave, capturing the entire ventricular action potential duration. A lengthened QT increases susceptibility to re-entrant ventricular arrhythmias.",
+      "explanationImage": null,
+      "tags": [
+        "Electrical Activity of the Heart",
+        "ECG Waves, Intervals & Electrical–Mechanical Timing"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch04-q166",
+      "stem": "At a standard paper speed of 25 mm/s, each small ECG box represents:",
+      "image": null,
+      "options": [
+        "0.12 s",
+        "0.2 s",
+        "0.01 s",
+        "0.04 s"
+      ],
+      "answer": 3,
+      "explanation": "At 25 mm/s, one 1-mm small box equals 0.04 s and one large box (5 small boxes) equals 0.20 s. These conversions are essential for measuring intervals and calculating rate.",
+      "explanationImage": null,
+      "tags": [
+        "Electrical Activity of the Heart",
+        "ECG Waves, Intervals & Electrical–Mechanical Timing"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch04-q167",
+      "stem": "On a regular ECG, the R–R interval spans 4 large boxes. The heart rate is approximately:",
+      "image": null,
+      "options": [
+        "60 bpm",
+        "50 bpm",
+        "75 bpm",
+        "100 bpm"
+      ],
+      "answer": 2,
+      "explanation": "Dividing 300 by the number of large boxes (300/4) yields ~75 bpm, since each large box represents 0.2 s. This quick method applies only to regular rhythms.",
+      "explanationImage": null,
+      "tags": [
+        "Electrical Activity of the Heart",
+        "ECG Waves, Intervals & Electrical–Mechanical Timing"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch04-q168",
+      "stem": "The onset of mechanical ventricular contraction coincides most closely with which ECG component?",
+      "image": null,
+      "options": [
+        "The QRS complex",
+        "The P wave",
+        "The T wave",
+        "The PR segment"
+      ],
+      "answer": 0,
+      "explanation": "Ventricular depolarization (QRS) triggers ventricular contraction after a brief electromechanical delay, so systole begins around the end of the QRS. The P wave drives atrial contraction and the T wave marks repolarization.",
+      "explanationImage": null,
+      "tags": [
+        "Electrical Activity of the Heart",
+        "ECG Waves, Intervals & Electrical–Mechanical Timing"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch04-q169",
+      "stem": "On an echocardiogram, aortic valve opening occurs:",
+      "image": null,
+      "options": [
+        "Before the QRS complex",
+        "Shortly after the QRS complex begins, as ventricular pressure rises",
+        "During the P wave",
+        "At the end of the T wave"
+      ],
+      "answer": 1,
+      "explanation": "Electrical depolarization (QRS) precedes mechanical contraction, so ventricular pressure builds and opens the aortic valve just after the QRS. This electrical-to-mechanical lag is a consistent, predictable relationship.",
+      "explanationImage": null,
+      "tags": [
+        "Electrical Activity of the Heart",
+        "ECG Waves, Intervals & Electrical–Mechanical Timing"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch04-q170",
+      "stem": "The late-diastolic A-wave of mitral inflow on echo corresponds to which ECG event?",
+      "image": null,
+      "options": [
+        "A wave occurring before the P wave",
+        "The QRS complex",
+        "Atrial contraction following the P wave",
+        "The T wave"
+      ],
+      "answer": 2,
+      "explanation": "The P wave triggers atrial depolarization, and atrial contraction follows during the PR interval, producing the late-diastolic A-wave on mitral inflow Doppler. This links the electrical P wave to a measurable mechanical event.",
+      "explanationImage": null,
+      "tags": [
+        "Electrical Activity of the Heart",
+        "ECG Waves, Intervals & Electrical–Mechanical Timing"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch04-q171",
+      "stem": "On the ECG, the AV nodal delay appears as the:",
+      "image": null,
+      "options": [
+        "Tall P wave",
+        "Flat (isoelectric) PR segment between the P wave and the QRS",
+        "Wide QRS complex",
+        "Inverted T wave"
+      ],
+      "answer": 1,
+      "explanation": "The impulse is delayed in the small AV node, generating too little voltage to deflect the surface ECG, so the segment between P and QRS remains flat. A normal pause here is essential for ventricular filling.",
+      "explanationImage": null,
+      "tags": [
+        "Electrical Activity of the Heart",
+        "ECG Waves, Intervals & Electrical–Mechanical Timing"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch04-q172",
+      "stem": "Why is atrial repolarization not seen on the standard ECG?",
+      "image": null,
+      "options": [
+        "The atria never repolarize",
+        "It generates no voltage",
+        "It occurs during the resting phase",
+        "It occurs at the same time as the QRS and is masked by the larger ventricular signal"
+      ],
+      "answer": 3,
+      "explanation": "Atrial repolarization happens during ventricular depolarization, and the much larger QRS complex overwhelms it. It is present electrically but not visually distinguishable.",
+      "explanationImage": null,
+      "tags": [
+        "Electrical Activity of the Heart",
+        "ECG Waves, Intervals & Electrical–Mechanical Timing"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch04-q173",
+      "stem": "The ST segment represents the period when:",
+      "image": null,
+      "options": [
+        "Ventricular cells are at their resting potential",
+        "The atria are depolarizing",
+        "All ventricular cells are depolarized (the AP plateau), before repolarization begins",
+        "Ventricular repolarization is complete"
+      ],
+      "answer": 2,
+      "explanation": "During the ST segment, the ventricles are uniformly depolarized and the membrane potential sits on the plateau, so no net voltage difference appears — the segment is isoelectric. ST elevation or depression indicates injury currents.",
+      "explanationImage": null,
+      "tags": [
+        "Electrical Activity of the Heart",
+        "ECG Waves, Intervals & Electrical–Mechanical Timing"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch04-q174",
+      "stem": "A broad, notched (bifid) P wave in lead II suggests:",
+      "image": null,
+      "options": [
+        "Left atrial enlargement",
+        "Normal atrial activation",
+        "Right atrial enlargement only",
+        "Ventricular hypertrophy"
+      ],
+      "answer": 0,
+      "explanation": "Delayed, prolonged left atrial activation widens the P wave beyond 0.12 s and may notch it (P mitrale), classically seen in mitral valve disease — a common echo referral diagnosis.",
+      "explanationImage": null,
+      "tags": [
+        "Electrical Activity of the Heart",
+        "ECG Waves, Intervals & Electrical–Mechanical Timing"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch04-q175",
+      "stem": "At a heart rate of 60 bpm, the R–R interval measures:",
+      "image": null,
+      "options": [
+        "0.6 s",
+        "1.0 s",
+        "1.2 s",
+        "0.86 s"
+      ],
+      "answer": 1,
+      "explanation": "60 beats per minute equals one beat every second, so the R–R interval is 1.0 s (five large boxes). The relationship is rate = 60 / R–R interval in seconds.",
+      "explanationImage": null,
+      "tags": [
+        "Electrical Activity of the Heart",
+        "ECG Waves, Intervals & Electrical–Mechanical Timing"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch04-q176",
+      "stem": "Which portion of the ECG corresponds most directly to rapid activation of the ventricles by the Purkinje system?",
+      "image": null,
+      "options": [
+        "The P wave",
+        "The PR segment",
+        "The T wave",
+        "The steep upstroke and downstroke of the QRS complex"
+      ],
+      "answer": 3,
+      "explanation": "The QRS deflections are produced by the fast Purkinje-mediated spread of depolarization across the ventricular mass. The slower AV nodal portion of conduction produces no visible deflection.",
+      "explanationImage": null,
+      "tags": [
+        "Electrical Activity of the Heart",
+        "ECG Waves, Intervals & Electrical–Mechanical Timing"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch04-q177",
+      "stem": "Which information can the ECG NOT provide?",
+      "image": null,
+      "options": [
+        "Rhythm regularity",
+        "Rate",
+        "Contractile function and wall motion",
+        "Conduction intervals"
+      ],
+      "answer": 2,
+      "explanation": "The ECG displays the electrical timing of activation only; it cannot show contraction, motion, or ejection. Echocardiography is the modality that visualizes the mechanical response to those electrical events.",
+      "explanationImage": null,
+      "tags": [
+        "Electrical Activity of the Heart",
+        "ECG Waves, Intervals & Electrical–Mechanical Timing"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch04-q178",
+      "stem": "The first deflection of the normal cardiac cycle on the ECG is the:",
+      "image": null,
+      "options": [
+        "P wave",
+        "QRS complex",
+        "T wave",
+        "U wave"
+      ],
+      "answer": 0,
+      "explanation": "The SA node fires first, so atrial depolarization (P wave) opens the cycle. No ventricular deflection can appear before atrial activation in a normally conducted beat.",
+      "explanationImage": null,
+      "tags": [
+        "Electrical Activity of the Heart",
+        "ECG Waves, Intervals & Electrical–Mechanical Timing"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch04-q179",
+      "stem": "Because contraction follows depolarization by a short electromechanical delay (~50–100 ms), echocardiographic mechanical events:",
+      "image": null,
+      "options": [
+        "Precede their ECG counterparts",
+        "Occur simultaneously with no lag",
+        "Are unrelated to the ECG",
+        "Slightly lag the corresponding ECG events"
+      ],
+      "answer": 3,
+      "explanation": "Electrical activation must trigger calcium release and cross-bridge formation before force develops, so echo-visible events (valve opening, wall motion) consistently follow the ECG by tens of milliseconds. Understanding this lag is essential when timing echo measurements against the ECG.",
+      "explanationImage": null,
+      "tags": [
+        "Electrical Activity of the Heart",
+        "ECG Waves, Intervals & Electrical–Mechanical Timing"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch04-q180",
+      "stem": "The U wave is best described as:",
+      "image": null,
+      "options": [
+        "A wave of atrial repolarization",
+        "A small deflection after the T wave, possibly representing Purkinje fiber or late myocardial repolarization",
+        "Part of the QRS complex",
+        "A pure artifact in every case"
+      ],
+      "answer": 1,
+      "explanation": "The U wave is a low-amplitude deflection following the T wave; its origin is debated but is thought to reflect late repolarization. Prominent or inverted U waves can be clinically significant. ---",
+      "explanationImage": null,
+      "tags": [
+        "Electrical Activity of the Heart",
+        "Refractory Periods, Rhythm Recognition & Clinical Integration"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch04-q181",
+      "stem": "During the absolute refractory period:",
+      "image": null,
+      "options": [
+        "A stronger-than-normal stimulus can elicit an action potential",
+        "The cell is hyperexcitable",
+        "Only potassium channels are blocked",
+        "No stimulus of any strength can elicit a propagated action potential"
+      ],
+      "answer": 3,
+      "explanation": "With Na⁺ (or in nodal tissue Ca²⁺) channels fully inactivated, the membrane is completely unexcitable. Only after partial channel recovery does the relative refractory period begin.",
+      "explanationImage": null,
+      "tags": [
+        "Electrical Activity of the Heart",
+        "Refractory Periods, Rhythm Recognition & Clinical Integration"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch04-q182",
+      "stem": "A premature impulse falling within the relative refractory period may:",
+      "image": null,
+      "options": [
+        "Fire a larger-than-normal action potential",
+        "Conduct slowly and potentially initiate a re-entrant arrhythmia",
+        "Hyperpolarize the tissue",
+        "Be indistinguishable from a normal beat"
+      ],
+      "answer": 1,
+      "explanation": "Cells in the relative refractory period respond weakly and conduct slowly, conditions that favor unidirectional block and re-entry. This is the electrophysiologic basis of many triggered and re-entrant arrhythmias.",
+      "explanationImage": null,
+      "tags": [
+        "Electrical Activity of the Heart",
+        "Refractory Periods, Rhythm Recognition & Clinical Integration"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch04-q183",
+      "stem": "The classic requirements for a re-entry circuit are:",
+      "image": null,
+      "options": [
+        "Two SA nodes firing simultaneously",
+        "Tetanic contraction",
+        "Transient unidirectional block, slowed conduction, and recovered (excitable) tissue ahead of the circuit",
+        "Complete AV block"
+      ],
+      "answer": 2,
+      "explanation": "An impulse must find a closed pathway with slow conduction and unidirectional block so it can circle back and re-excite recovered tissue. Ischemia, accessory pathways, and scar provide this substrate.",
+      "explanationImage": null,
+      "tags": [
+        "Electrical Activity of the Heart",
+        "Refractory Periods, Rhythm Recognition & Clinical Integration"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch04-q184",
+      "stem": "An early, wide, bizarre QRS complex without a preceding P wave on the ECG is a:",
+      "image": null,
+      "options": [
+        "Premature ventricular contraction (PVC)",
+        "Premature atrial contraction (PAC)",
+        "Junctional escape beat",
+        "Normal sinus beat"
+      ],
+      "answer": 0,
+      "explanation": "A ventricular focus fires early, bypassing the fast conduction system, so the QRS is early, wide, and bizarre with no sinus P wave. A PAC would be early but narrow with an abnormal preceding P wave.",
+      "explanationImage": null,
+      "tags": [
+        "Electrical Activity of the Heart",
+        "Refractory Periods, Rhythm Recognition & Clinical Integration"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch04-q185",
+      "stem": "A premature narrow-QRS complex preceded by an abnormally shaped early P wave is a:",
+      "image": null,
+      "options": [
+        "PVC",
+        "Junctional escape",
+        "Premature atrial contraction (PAC)",
+        "Ventricular escape beat"
+      ],
+      "answer": 2,
+      "explanation": "The beat originates in the atria above the ventricles, so it conducts through the normal His–Purkinje system and remains narrow. The ectopic P wave distinguishes it from a junctional beat.",
+      "explanationImage": null,
+      "tags": [
+        "Electrical Activity of the Heart",
+        "Refractory Periods, Rhythm Recognition & Clinical Integration"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch04-q186",
+      "stem": "The \"R-on-T\" phenomenon is dangerous because:",
+      "image": null,
+      "options": [
+        "It increases preload",
+        "It blocks the AV node",
+        "It is a normal finding during exercise",
+        "The impulse lands on the vulnerable relative refractory period and can precipitate ventricular tachycardia or fibrillation"
+      ],
+      "answer": 3,
+      "explanation": "Stimulating the ventricle during partial repolarization creates heterogeneous excitability, the perfect substrate for re-entry. This is why PVCs falling on the T wave are treated with heightened concern.",
+      "explanationImage": null,
+      "tags": [
+        "Electrical Activity of the Heart",
+        "Refractory Periods, Rhythm Recognition & Clinical Integration"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch04-q187",
+      "stem": "A regular narrow-complex tachycardia at 180 bpm most likely originates:",
+      "image": null,
+      "options": [
+        "In the ventricles",
+        "Above the ventricles, with conduction through the normal His–Purkinje system (supraventricular tachycardia)",
+        "As an idioventricular rhythm",
+        "From complete heart block"
+      ],
+      "answer": 1,
+      "explanation": "A narrow QRS means ventricular activation uses the fast conduction system, which is only possible when the impulse originates above the ventricles. Ventricular rhythms activate slowly muscle-to-muscle and are wide.",
+      "explanationImage": null,
+      "tags": [
+        "Electrical Activity of the Heart",
+        "Refractory Periods, Rhythm Recognition & Clinical Integration"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch04-q188",
+      "stem": "Which feature most strongly suggests ventricular tachycardia rather than SVT with aberrancy?",
+      "image": null,
+      "options": [
+        "A narrow QRS",
+        "P waves always present during the tachycardia",
+        "A wide QRS with AV dissociation",
+        "Rate under 100 bpm"
+      ],
+      "answer": 2,
+      "explanation": "Wide QRS with independent atrial activity (AV dissociation) indicates a ventricular focus activating the ventricles separately from the atria. Narrow QRS argues for a supraventricular origin.",
+      "explanationImage": null,
+      "tags": [
+        "Electrical Activity of the Heart",
+        "Refractory Periods, Rhythm Recognition & Clinical Integration"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch04-q189",
+      "stem": "From an echocardiography standpoint, each QRS complex on the ECG is followed by:",
+      "image": null,
+      "options": [
+        "A mechanical ventricular contraction (after the electromechanical delay), unless the beat is electrically or hemodynamically ineffective",
+        "Atrial contraction",
+        "Valve closure with no wall motion",
+        "Nothing — the ECG and contraction are unrelated"
+      ],
+      "answer": 0,
+      "explanation": "Depolarization initiates contraction after a short, predictable delay, so each effective QRS produces wall motion and ejection. This one-to-one electrical–mechanical coupling is what allows ECG gating of echo images.",
+      "explanationImage": null,
+      "tags": [
+        "Electrical Activity of the Heart",
+        "Refractory Periods, Rhythm Recognition & Clinical Integration"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch04-q190",
+      "stem": "A wide QRS complex immediately preceded by a sharp vertical pacing spike indicates:",
+      "image": null,
+      "options": [
+        "A PVC with no relation to the device",
+        "Normal sinus conduction",
+        "Ventricular pacing from an artificial pacemaker",
+        "Atrial pacing with intact AV conduction"
+      ],
+      "answer": 2,
+      "explanation": "The spike is the pacing stimulus, and the wide QRS reflects slow, non-Purkinje activation from the pacing lead (usually in the right ventricle), mimicking a PVC pattern. Atrial pacing with intact conduction yields a narrow QRS after a stimulated P wave.",
+      "explanationImage": null,
+      "tags": [
+        "Electrical Activity of the Heart",
+        "Refractory Periods, Rhythm Recognition & Clinical Integration"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch04-q191",
+      "stem": "A markedly prolonged PR interval can produce which echocardiographic finding in the mitral inflow pattern?",
+      "image": null,
+      "options": [
+        "Fusion of the E and A waves, because atrial contraction occurs while ventricular filling is still finishing",
+        "Shortened diastolic filling time with separated waves",
+        "No echo change at any PR length",
+        "Reversed E-wave direction"
+      ],
+      "answer": 0,
+      "explanation": "With a long PR, the atrial contraction (A-wave) occurs while the ventricle is still relaxed and filling, so the A-wave can merge with the E-wave. This is a classic echo correlate of first-degree AV block.",
+      "explanationImage": null,
+      "tags": [
+        "Electrical Activity of the Heart",
+        "Refractory Periods, Rhythm Recognition & Clinical Integration"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch04-q192",
+      "stem": "In atrial fibrillation, the mitral inflow Doppler characteristically shows:",
+      "image": null,
+      "options": [
+        "A strong, organized A-wave each beat",
+        "Absence of an organized A-wave with an irregular ventricular response",
+        "A normal A-wave with regular R–R intervals",
+        "Pure sinus-beat patterns"
+      ],
+      "answer": 1,
+      "explanation": "Without coordinated atrial contraction there is no A-wave, and the varying R–R intervals produce beat-to-beat variation in the E-wave. This directly mirrors the electrical absence of P waves.",
+      "explanationImage": null,
+      "tags": [
+        "Electrical Activity of the Heart",
+        "Refractory Periods, Rhythm Recognition & Clinical Integration"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch04-q193",
+      "stem": "The echocardiographic correlate of complete AV block is:",
+      "image": null,
+      "options": [
+        "Every atrial contraction followed by ventricular contraction",
+        "A consistently short PR relationship",
+        "Dissociation between atrial contraction and ventricular contraction",
+        "Absent ventricular contraction"
+      ],
+      "answer": 2,
+      "explanation": "Just as the ECG shows AV dissociation, echo shows atrial contractions occurring independently of ventricular contraction and valve events. The ventricles are driven by a slower escape pacemaker.",
+      "explanationImage": null,
+      "tags": [
+        "Electrical Activity of the Heart",
+        "Refractory Periods, Rhythm Recognition & Clinical Integration"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch04-q194",
+      "stem": "Vagal maneuvers (e.g., carotid sinus massage) terminate some SVTs because they:",
+      "image": null,
+      "options": [
+        "Increase sympathetic tone",
+        "Speed AV nodal conduction",
+        "Have no cardiac effect",
+        "Increase vagal tone, slowing the SA and AV nodes and breaking the re-entry circuit"
+      ],
+      "answer": 3,
+      "explanation": "Heightened vagal activity slows AV nodal conduction and prolongs its refractory period, interrupting circuits that depend on the node. This exploits the AV node's sensitivity to acetylcholine.",
+      "explanationImage": null,
+      "tags": [
+        "Electrical Activity of the Heart",
+        "Refractory Periods, Rhythm Recognition & Clinical Integration"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch04-q195",
+      "stem": "The AV node protects the ventricles during atrial fibrillation because:",
+      "image": null,
+      "options": [
+        "Its long refractory period filters out many of the 350–600 atrial impulses per minute",
+        "The SA node overrides the fibrillation",
+        "The ventricles remain refractory the entire time",
+        "Gap junctions block the atrial impulses"
+      ],
+      "answer": 0,
+      "explanation": "Only a fraction of fibrillatory impulses find recovered AV nodal tissue and reach the ventricles, producing the characteristically \"irregularly irregular\" rate. Without this filtering, the ventricles could not maintain output.",
+      "explanationImage": null,
+      "tags": [
+        "Electrical Activity of the Heart",
+        "Refractory Periods, Rhythm Recognition & Clinical Integration"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch04-q196",
+      "stem": "A cell that fires before the SA node depolarizes indicates:",
+      "image": null,
+      "options": [
+        "Overdrive suppression by the SA node",
+        "An ectopic site with enhanced automaticity or re-entry",
+        "Normal pacemaker physiology",
+        "Excess vagal tone"
+      ],
+      "answer": 1,
+      "explanation": "Reaching threshold before the dominant pacemaker defines an ectopic focus. Enhanced automaticity, triggered activity, or re-entry circuits all allow non-sinus sites to capture the rhythm.",
+      "explanationImage": null,
+      "tags": [
+        "Electrical Activity of the Heart",
+        "Refractory Periods, Rhythm Recognition & Clinical Integration"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch04-q197",
+      "stem": "Ischemic myocardial cells characteristically show:",
+      "image": null,
+      "options": [
+        "Prolonged action potentials and faster conduction",
+        "No electrophysiologic change",
+        "Only mechanical changes without electrical effects",
+        "Altered (often shortened) action potentials with slowed conduction, promoting arrhythmias"
+      ],
+      "answer": 3,
+      "explanation": "Hypoxia impairs pumps and channels, changing AP duration and slowing conduction — the electrophysiologic environment in which ectopy and re-entry develop. This is why arrhythmias are a leading complication of infarction.",
+      "explanationImage": null,
+      "tags": [
+        "Electrical Activity of the Heart",
+        "Refractory Periods, Rhythm Recognition & Clinical Integration"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch04-q198",
+      "stem": "The complementary roles of the ECG and echocardiography are best summarized as:",
+      "image": null,
+      "options": [
+        "The ECG shows valve closure and echo shows depolarization",
+        "Both display the same events",
+        "Both show only mechanical motion",
+        "The ECG displays electrical timing; echo displays the mechanical response"
+      ],
+      "answer": 3,
+      "explanation": "The ECG records the electrical sequence (depolarization, repolarization) and its timing, while echo directly visualizes the contraction that follows. Integrating the two links electrical events to mechanical function.",
+      "explanationImage": null,
+      "tags": [
+        "Electrical Activity of the Heart",
+        "Refractory Periods, Rhythm Recognition & Clinical Integration"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch04-q199",
+      "stem": "The T wave occurs mechanically closest to:",
+      "image": null,
+      "options": [
+        "The onset of ventricular contraction",
+        "Atrial systole",
+        "The end of ventricular systole, as relaxation approaches",
+        "Atrial depolarization"
+      ],
+      "answer": 2,
+      "explanation": "Ventricular repolarization (T wave) signals the cells returning to their resting state, coinciding with the end of contraction and the start of relaxation. Aortic valve closure occurs around the end of the T wave.",
+      "explanationImage": null,
+      "tags": [
+        "Electrical Activity of the Heart",
+        "Refractory Periods, Rhythm Recognition & Clinical Integration"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch04-q200",
+      "stem": "Every normal heartbeat begins with:",
+      "image": null,
+      "options": [
+        "Spontaneous depolarization of the SA node, initiating atrial depolarization",
+        "Ventricular contraction",
+        "Firing of the AV node",
+        "The T wave"
+      ],
+      "answer": 0,
+      "explanation": "The SA node's automatic impulse starts the entire cascade: atrial depolarization, AV delay, rapid ventricular activation, and contraction. Electrical activity initiates the heartbeat, and mechanical function follows. --- **End of question bank — 200 questions.** Core lecture references: SA node as pacemaker; conduction pathway (SA → internodal → AV → His → bundle branches → Purkinje); gap junctions and syncytial behavior; excitation–contraction coupling; nodal vs ventricular action potentials; plateau and refractory periods; intrinsic rates (SA 60–100, AV 40–60, His–Purkinje 20–40); ECG components as electrical timing preceding mechanical events. Further study: https://cvphysiology.com/",
+      "explanationImage": null,
+      "tags": [
+        "Electrical Activity of the Heart",
+        "Refractory Periods, Rhythm Recognition & Clinical Integration"
       ],
       "reference": ""
     }

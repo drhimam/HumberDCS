@@ -1,58 +1,3804 @@
 {
   "chapterId": "ch02",
-  "title": "Coronary Circulation",
+  "title": "Cardiovascular Structure, Function & Hemodynamics",
   "questions": [
     {
       "id": "DCS5002-ch02-q001",
-      "stem": "The left anterior descending (LAD) artery primarily supplies:",
+      "stem": "Which of the following best describes the three primary functions of the cardiovascular system?",
       "image": null,
       "options": [
-        "Inferior wall",
-        "Anterior wall and anterior two-thirds of the septum",
-        "Lateral wall only",
-        "Right ventricular free wall"
+        "Filtration, reabsorption, and secretion",
+        "Pumping blood, producing hormones, and generating heat",
+        "Transporting and exchanging substances, controlling and regulating homeostasis, and protecting the body",
+        "Neural signaling, hormonal signaling, and renal regulation"
       ],
-      "answer": 1,
-      "explanation": "The LAD supplies the anterior wall, the anterior septum, and the apex. The RCA usually supplies the inferior wall, and the circumflex supplies the lateral wall.",
+      "answer": 2,
+      "explanation": "The lecture lists three core functions: transport/exchange (O₂, glucose, CO₂, nutrients, water, hormones, wastes), homeostatic regulation (temperature, blood volume, blood pressure), and protection (WBCs, antibodies, platelets). The other options describe mechanisms rather than the three overall functions.",
       "explanationImage": null,
       "tags": [
-        "coronaries"
+        "Cardiovascular Structure, Function & Hemodynamics",
+        "Purpose and Functions of the Cardiovascular System"
       ],
       "reference": ""
     },
     {
       "id": "DCS5002-ch02-q002",
-      "stem": "Coronary artery dominance is determined by which artery gives rise to the:",
+      "stem": "Which of the following substances is transported and exchanged by the cardiovascular system?",
       "image": null,
       "options": [
-        "Left main coronary artery",
-        "Posterior descending artery",
-        "First diagonal branch",
-        "Obtuse marginal branch"
+        "Atmospheric nitrogen",
+        "Oxygen",
+        "Glucose",
+        "Hormones"
       ],
-      "answer": 1,
-      "explanation": "Dominance is defined by which artery gives rise to the posterior descending artery (PDA). About 70-80% of people are right dominant, meaning the PDA comes from the RCA.",
+      "answer": 0,
+      "explanation": "The blood transports oxygen, glucose, CO₂, nutrients, water, hormones, and waste products. Atmospheric nitrogen is inhaled and exhaled but is not transported or exchanged by the cardiovascular system as a metabolic substrate.",
       "explanationImage": null,
       "tags": [
-        "coronaries"
+        "Cardiovascular Structure, Function & Hemodynamics",
+        "Purpose and Functions of the Cardiovascular System"
       ],
       "reference": ""
     },
     {
       "id": "DCS5002-ch02-q003",
-      "stem": "Most coronary blood flow to the left ventricle occurs during:",
+      "stem": "Which blood components primarily carry out the protective function of the cardiovascular system?",
       "image": null,
       "options": [
-        "Isovolumic contraction",
-        "Systole",
-        "Diastole",
-        "Atrial systole only"
+        "Erythrocytes and plasma proteins",
+        "Albumin and electrolytes",
+        "Erythrocytes and platelets",
+        "Leukocytes, antibodies, and platelets"
       ],
-      "answer": 2,
-      "explanation": "During systole, the contracting LV myocardium compresses the intramural coronary vessels. Most LV perfusion therefore happens in diastole. This is why tachycardia, which shortens diastole, can cause ischemia.",
+      "answer": 3,
+      "explanation": "Protection is mediated by WBCs and antibodies that fight infection and by platelets and clotting agents that stop bleeding. Erythrocytes serve transport, not defense.",
       "explanationImage": null,
       "tags": [
-        "physiology"
+        "Cardiovascular Structure, Function & Hemodynamics",
+        "Purpose and Functions of the Cardiovascular System"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch02-q004",
+      "stem": "The cardiovascular system directly helps regulate which set of homeostatic variables?",
+      "image": null,
+      "options": [
+        "Blood pH, urine osmolality, and body weight",
+        "Body temperature, blood volume, and blood pressure",
+        "Cerebrospinal fluid pressure, serum sodium, and body weight",
+        "Respiratory rate, blood glucose, and urine output"
+      ],
+      "answer": 1,
+      "explanation": "Per the lecture, the cardiovascular system regulates body temperature (via cutaneous blood flow), blood volume, and blood pressure. The distractors involve other organ systems' contributions.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular Structure, Function & Hemodynamics",
+        "Purpose and Functions of the Cardiovascular System"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch02-q005",
+      "stem": "During a fever, a patient's skin becomes flushed and warm. Cutaneous vasodilation that dissipates heat to the environment best illustrates which cardiovascular function?",
+      "image": null,
+      "options": [
+        "Transporting substances",
+        "Protecting the body",
+        "Controlling and regulating homeostasis",
+        "Pumping blood in series"
+      ],
+      "answer": 2,
+      "explanation": "Redirecting blood to the skin to lose heat is temperature homeostasis, one of the three regulatory functions. It is not primarily a transport or protective role.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular Structure, Function & Hemodynamics",
+        "Purpose and Functions of the Cardiovascular System"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch02-q006",
+      "stem": "Carbon dioxide produced by working skeletal muscle is carried by the venous blood to the lungs. This best illustrates which function of the cardiovascular system?",
+      "image": null,
+      "options": [
+        "Protection from infection",
+        "Transporting and exchanging substances",
+        "Regulation of blood volume",
+        "In-parallel organ perfusion"
+      ],
+      "answer": 1,
+      "explanation": "Moving CO₂ (a waste product) from tissues to the lungs for removal is the classic transport-and-exchange function listed in the lecture.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular Structure, Function & Hemodynamics",
+        "Purpose and Functions of the Cardiovascular System"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch02-q007",
+      "stem": "All of the following are stated functions of the cardiovascular system EXCEPT:",
+      "image": null,
+      "options": [
+        "Fighting infection with white blood cells and antibodies",
+        "Stopping bleeding with platelets and clotting agents",
+        "Regulating body temperature, blood volume, and blood pressure",
+        "Producing digestive enzymes for nutrient breakdown"
+      ],
+      "answer": 3,
+      "explanation": "Digestive enzyme production is a function of the gastrointestinal system (e.g., pancreas, salivary glands). The cardiovascular system transports nutrients but does not produce digestive enzymes.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular Structure, Function & Hemodynamics",
+        "Purpose and Functions of the Cardiovascular System"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch02-q008",
+      "stem": "Waste products such as CO₂ and metabolic byproducts are transported by the blood primarily to which organs for elimination?",
+      "image": null,
+      "options": [
+        "Lungs and kidneys",
+        "Liver and spleen",
+        "Heart and brain",
+        "Stomach and intestines"
+      ],
+      "answer": 0,
+      "explanation": "CO₂ is eliminated by the lungs and metabolic waste products (e.g., urea) by the kidneys; both are sites to which blood transports wastes for excretion.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular Structure, Function & Hemodynamics",
+        "Purpose and Functions of the Cardiovascular System"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch02-q009",
+      "stem": "Hormones such as thyroid hormone reach their distant target organs by which mechanism?",
+      "image": null,
+      "options": [
+        "Direct nerve axoplasmic transport",
+        "Lymphatic diffusion alone",
+        "Transport in the circulating blood",
+        "Local paracrine diffusion across capillaries only"
+      ],
+      "answer": 2,
+      "explanation": "Hormones are explicitly listed among the substances transported by the blood, allowing endocrine glands to communicate with distant targets throughout the body.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular Structure, Function & Hemodynamics",
+        "Purpose and Functions of the Cardiovascular System"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch02-q010",
+      "stem": "A laceration stops bleeding within minutes at the injury site. Which blood component is most responsible?",
+      "image": null,
+      "options": [
+        "Erythrocytes",
+        "Lymphocytes",
+        "Monocytes",
+        "Platelets"
+      ],
+      "answer": 3,
+      "explanation": "Platelets and clotting agents stop bleeding (hemostasis), which is part of the protective function of blood.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular Structure, Function & Hemodynamics",
+        "Purpose and Functions of the Cardiovascular System"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch02-q011",
+      "stem": "Which organ system works most directly with the cardiovascular system to regulate long-term blood volume?",
+      "image": null,
+      "options": [
+        "Respiratory system",
+        "Integumentary system",
+        "Nervous system",
+        "Renal system"
+      ],
+      "answer": 3,
+      "explanation": "The kidneys regulate blood volume through sodium and water handling (supported by aldosterone and ADH), making renal control the key long-term volume regulator.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular Structure, Function & Hemodynamics",
+        "Purpose and Functions of the Cardiovascular System"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch02-q012",
+      "stem": "Glucose absorbed from the intestines after a meal is delivered to skeletal muscle cells primarily by:",
+      "image": null,
+      "options": [
+        "The lymphatic system only",
+        "Direct diffusion through tissue spaces",
+        "Active neuronal transport",
+        "The cardiovascular system (blood transport)"
+      ],
+      "answer": 3,
+      "explanation": "Nutrients such as glucose are listed among the substances the cardiovascular system transports from absorptive sites to cells for metabolism.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular Structure, Function & Hemodynamics",
+        "Purpose and Functions of the Cardiovascular System"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch02-q013",
+      "stem": "Plasma water continuously exchanges with the interstitial fluid across capillary walls. This exchange is essential for delivering nutrients and removing wastes at the:",
+      "image": null,
+      "options": [
+        "Heart chambers",
+        "Great vessels",
+        "Capillary–tissue interface",
+        "Venous valves"
+      ],
+      "answer": 2,
+      "explanation": "Substances move between blood and tissues across the capillary wall; this exchange at the capillary level is the basis of the transport-and-exchange function.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular Structure, Function & Hemodynamics",
+        "Purpose and Functions of the Cardiovascular System"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch02-q014",
+      "stem": "A patient with a severe bacterial infection responds with an elevated white blood cell count. This response demonstrates which cardiovascular/blood function?",
+      "image": null,
+      "options": [
+        "Protection of the body",
+        "Regulation of blood pressure",
+        "In-series circulation",
+        "Transport of hormones"
+      ],
+      "answer": 0,
+      "explanation": "Increased leukocytes to fight infection exemplify the protective function of blood described in the lecture.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular Structure, Function & Hemodynamics",
+        "Purpose and Functions of the Cardiovascular System"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch02-q015",
+      "stem": "In cold weather, skin of the extremities becomes pale and cool. Which mechanism produces this response?",
+      "image": null,
+      "options": [
+        "Local metabolic vasodilation",
+        "Increased platelet activity",
+        "Increased nitric oxide release",
+        "Sympathetically mediated cutaneous vasoconstriction to conserve heat"
+      ],
+      "answer": 3,
+      "explanation": "Blood is diverted away from the skin by sympathetic vasoconstriction, preserving core temperature — a homeostatic (thermoregulatory) cardiovascular function.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular Structure, Function & Hemodynamics",
+        "Purpose and Functions of the Cardiovascular System"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch02-q016",
+      "stem": "Antibodies circulating in the bloodstream are produced by which cells and function in which capacity?",
+      "image": null,
+      "options": [
+        "Platelets — hemostasis",
+        "Erythrocytes — gas transport",
+        "Lymphocytes — immune defense against infection",
+        "Monocytes — oxygen transport"
+      ],
+      "answer": 2,
+      "explanation": "Antibodies (immunoglobulins) are produced by lymphocytes (B cells) and represent part of the blood's protective function against infection.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular Structure, Function & Hemodynamics",
+        "Purpose and Functions of the Cardiovascular System"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch02-q017",
+      "stem": "Which of the following is an example of the cardiovascular system regulating blood pressure?",
+      "image": null,
+      "options": [
+        "Adjusting vascular resistance and cardiac output to maintain perfusion",
+        "Producing bile salts to emulsify fats",
+        "Filtering airway debris",
+        "Synthesizing vitamin D in the skin"
+      ],
+      "answer": 0,
+      "explanation": "Blood pressure is maintained by adjusting cardiac output and total vascular resistance — the core hemodynamic strategy for preserving perfusion.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular Structure, Function & Hemodynamics",
+        "Purpose and Functions of the Cardiovascular System"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch02-q018",
+      "stem": "Cessation of circulation for even a few minutes causes irreversible injury to the brain faster than to the skin because the brain has:",
+      "image": null,
+      "options": [
+        "High, uninterrupted metabolic demand with minimal energy stores",
+        "Very low blood flow at rest",
+        "Anaerobic metabolism as its primary pathway",
+        "No dependence on glucose"
+      ],
+      "answer": 0,
+      "explanation": "The brain's continuous high oxygen and glucose demand explains why interruption of transport (perfusion) rapidly threatens tissue viability, underscoring the transport function's importance.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular Structure, Function & Hemodynamics",
+        "Purpose and Functions of the Cardiovascular System"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch02-q019",
+      "stem": "Which substance is transported by the blood primarily bound to a carrier protein within erythrocytes?",
+      "image": null,
+      "options": [
+        "Glucose",
+        "Electrolytes",
+        "Urea",
+        "Oxygen (bound to hemoglobin)"
+      ],
+      "answer": 3,
+      "explanation": "Oxygen travels bound to hemoglobin inside erythrocytes; glucose, electrolytes, and urea travel dissolved in plasma.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular Structure, Function & Hemodynamics",
+        "Purpose and Functions of the Cardiovascular System"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch02-q020",
+      "stem": "The protective function of blood against bleeding and infection is carried out, respectively, by:",
+      "image": null,
+      "options": [
+        "Erythrocytes and albumin",
+        "Platelets/clotting agents and WBCs/antibodies",
+        "Leukocytes and erythrocytes",
+        "Plasma water and electrolytes"
+      ],
+      "answer": 1,
+      "explanation": "The lecture pairs platelets/clotting agents with stopping bleeding and WBCs/antibodies with fighting infection — the two arms of the protective function.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular Structure, Function & Hemodynamics",
+        "In-Series and In-Parallel Circulation"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch02-q021",
+      "stem": "Which of the following correctly states the normal sequence of blood flow through the cardiovascular system?",
+      "image": null,
+      "options": [
+        "Body → LA → LV → pulmonary arteries → lungs → pulmonary veins → RA → RV → aorta → body",
+        "Body → RA → RV → pulmonary arteries → lungs → pulmonary veins → LA → LV → aorta → body",
+        "Body → RV → RA → lungs → pulmonary arteries → LA → LV → pulmonary veins → aorta → body",
+        "Body → RA → RV → pulmonary veins → lungs → pulmonary arteries → LA → LV → aorta → body"
+      ],
+      "answer": 1,
+      "explanation": "Deoxygenated blood returns from the body to the RA, is pumped by the RV through the pulmonary arteries to the lungs, returns via pulmonary veins to the LA, and is pumped by the LV into the aorta. Options A, C, and D misorder chambers or pulmonary vessels.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular Structure, Function & Hemodynamics",
+        "In-Series and In-Parallel Circulation"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch02-q022",
+      "stem": "A patient develops acute right ventricular failure from a massive pulmonary embolism. Which of the following best describes the expected consequence for the left heart?",
+      "image": null,
+      "options": [
+        "Increased LV preload with increased stroke volume",
+        "Mitral regurgitation from LV dilation",
+        "Elevated LV afterload",
+        "Reduced LV preload, leading to reduced cardiac output"
+      ],
+      "answer": 3,
+      "explanation": "Because the two sides of the heart are in series, RV failure limits blood delivery to the LA/LV, reducing LV preload and therefore cardiac output — the key clinical implication stated in the lecture.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular Structure, Function & Hemodynamics",
+        "In-Series and In-Parallel Circulation"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch02-q023",
+      "stem": "The in-series relationship of the right and left heart means that:",
+      "image": null,
+      "options": [
+        "Each ventricle pumps into a completely independent circuit",
+        "The ventricles never influence each other's volumes",
+        "Only the left ventricle's output matters for perfusion",
+        "The outputs of the two ventricles are interdependent"
+      ],
+      "answer": 3,
+      "explanation": "In-series means the right and left hearts are connected in sequence; a change in blood volume on one side directly affects the other side.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular Structure, Function & Hemodynamics",
+        "In-Series and In-Parallel Circulation"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch02-q024",
+      "stem": "Which statement best characterizes the in-parallel arrangement of systemic organ circulations?",
+      "image": null,
+      "options": [
+        "Blood must pass through each organ sequentially",
+        "All organs share a single adjustable resistance bed",
+        "Blood flow to one organ is independent of blood flow through another",
+        "Organ flows can only change together as a group"
+      ],
+      "answer": 2,
+      "explanation": "Organs supplied in parallel each receive blood from the aorta independently, so each can adjust its own flow to meet metabolic needs without significantly disturbing other organs.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular Structure, Function & Hemodynamics",
+        "In-Series and In-Parallel Circulation"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch02-q025",
+      "stem": "Which of the following lists major organ circulations supplied in parallel from the aorta?",
+      "image": null,
+      "options": [
+        "Head and arms, stomach and intestines, kidneys, lower body and legs",
+        "Only the brain and heart",
+        "Kidneys and lungs only",
+        "None of the organs; all organs are in series"
+      ],
+      "answer": 0,
+      "explanation": "The lecture identifies head and arms, lungs, stomach and intestines, kidneys, and lower body/legs as parallel circuits. The lungs are parallel with other organs but in series with the two ventricles.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular Structure, Function & Hemodynamics",
+        "In-Series and In-Parallel Circulation"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch02-q026",
+      "stem": "The liver is unique because it receives a dual blood supply. Which description is correct?",
+      "image": null,
+      "options": [
+        "Hepatic artery — in-series supply from the GI tract; hepatic portal vein — parallel supply from the aorta",
+        "Both supplies are purely in-series",
+        "Both supplies are purely in-parallel from the pulmonary circuit",
+        "Hepatic artery — parallel supply from the aorta; hepatic portal vein — in-series supply from the stomach and intestines"
+      ],
+      "answer": 3,
+      "explanation": "The hepatic artery branches from the aorta (parallel supply), while the hepatic portal vein drains the stomach and intestines, placing it in series with the splanchnic circulation.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular Structure, Function & Hemodynamics",
+        "In-Series and In-Parallel Circulation"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch02-q027",
+      "stem": "The hepatic portal vein delivers blood to the liver that has first passed through the capillary beds of the:",
+      "image": null,
+      "options": [
+        "Kidneys",
+        "Lungs",
+        "Brain",
+        "Stomach and intestines"
+      ],
+      "answer": 3,
+      "explanation": "The portal vein is the in-series component of the liver's dual supply, carrying nutrient-rich venous blood from the stomach and intestines to the liver.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular Structure, Function & Hemodynamics",
+        "In-Series and In-Parallel Circulation"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch02-q028",
+      "stem": "During exercise, blood flow to skeletal muscle rises sharply while renal flow is maintained. This differential adjustment is possible because systemic organs are arranged:",
+      "image": null,
+      "options": [
+        "In series with the lungs",
+        "Only through the portal system",
+        "In parallel, allowing each organ to adjust flow to its own metabolic needs",
+        "In a single loop with fixed resistances"
+      ],
+      "answer": 2,
+      "explanation": "Parallel arrangement gives each organ its own adjustable resistance, permitting independent flow regulation without significantly disturbing other organs.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular Structure, Function & Hemodynamics",
+        "In-Series and In-Parallel Circulation"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch02-q029",
+      "stem": "A patient with severe mitral regurgitation develops volume overload of the LA and pulmonary congestion. The right ventricle must then eject against increased pulmonary venous backpressure. This chain of events reflects that:",
+      "image": null,
+      "options": [
+        "The two ventricles function entirely independently",
+        "Blood volume changes on one side of the heart directly affect the other side (in-series interdependence)",
+        "The pulmonary circulation is a parallel bed with no link to the systemic side",
+        "Venous valves control intracardiac volumes"
+      ],
+      "answer": 1,
+      "explanation": "Because the heart works in series, altered volumes/pressures on the left side propagate backward to affect the right side.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular Structure, Function & Hemodynamics",
+        "In-Series and In-Parallel Circulation"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch02-q030",
+      "stem": "In chronic RV failure, which hemodynamic pattern is most likely on echocardiographic assessment?",
+      "image": null,
+      "options": [
+        "Increased LV end-diastolic volume",
+        "Increased systemic vascular resistance",
+        "Elevated LA pressure with normal LV size",
+        "Decreased LV filling (preload) with decreased stroke volume"
+      ],
+      "answer": 3,
+      "explanation": "With the RV failing to deliver normal flow through the lungs, LV filling falls and stroke volume declines — the direct hemodynamic consequence of the in-series arrangement.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular Structure, Function & Hemodynamics",
+        "In-Series and In-Parallel Circulation"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch02-q031",
+      "stem": "Which organ receives blood flow arranged both in parallel and in series?",
+      "image": null,
+      "options": [
+        "The liver",
+        "The kidneys",
+        "The brain",
+        "The skeletal muscle"
+      ],
+      "answer": 0,
+      "explanation": "The liver receives parallel flow via the hepatic artery (from the aorta) and in-series flow via the hepatic portal vein (from the GI circulation).",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular Structure, Function & Hemodynamics",
+        "In-Series and In-Parallel Circulation"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch02-q032",
+      "stem": "A patient suffers renal artery stenosis reducing renal blood flow. Cerebral and coronary flows remain largely unchanged. This preservation of other organ flows is explained by:",
+      "image": null,
+      "options": [
+        "The sequential passage of blood through each organ",
+        "Venous valve competence",
+        "In-parallel circulation, where changes in one organ's flow do not significantly disturb others",
+        "Equal pressures in all organs"
+      ],
+      "answer": 2,
+      "explanation": "Parallel organ circulations are independently adjustable; a change in one organ's vascular resistance does not significantly alter flow to the others.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular Structure, Function & Hemodynamics",
+        "In-Series and In-Parallel Circulation"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch02-q033",
+      "stem": "The right heart is best described as:",
+      "image": null,
+      "options": [
+        "A high-pressure pump serving the systemic circuit",
+        "A low-pressure pump serving the pulmonary circuit",
+        "A pump with output independent of the left heart",
+        "The main pump for coronary perfusion"
+      ],
+      "answer": 1,
+      "explanation": "The RV generates much lower pressures because the pulmonary vascular resistance is low; the LV is the high-pressure systemic pump.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular Structure, Function & Hemodynamics",
+        "In-Series and In-Parallel Circulation"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch02-q034",
+      "stem": "Immediately after the left ventricle ejects blood, it enters which vessel?",
+      "image": null,
+      "options": [
+        "Pulmonary artery",
+        "Coronary sinus",
+        "Pulmonary vein",
+        "Aorta"
+      ],
+      "answer": 3,
+      "explanation": "The LV ejects into the aorta, initiating the systemic circulation; the RV ejects into the pulmonary artery.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular Structure, Function & Hemodynamics",
+        "In-Series and In-Parallel Circulation"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch02-q035",
+      "stem": "A 58-year-old presents with acute dyspnea and hypotension after leg-surgery immobilization. Echo shows a dilated, hypokinetic RV with a small, underfilled LV. The most likely mechanism is:",
+      "image": null,
+      "options": [
+        "Primary LV systolic failure",
+        "Mitral stenosis reducing LA emptying",
+        "Acute RV pressure overload (pulmonary embolism) with secondary reduction of LV preload",
+        "Aortic stenosis increasing LV afterload"
+      ],
+      "answer": 2,
+      "explanation": "The small underfilled LV with a dilated RV reflects the in-series effect: obstructed pulmonary flow (embolism) acutely overloads the RV and starves the LV of preload, reducing cardiac output.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular Structure, Function & Hemodynamics",
+        "In-Series and In-Parallel Circulation"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch02-q036",
+      "stem": "Which circulation is fundamentally arranged in series (rather than in parallel) with respect to the two ventricles?",
+      "image": null,
+      "options": [
+        "Renal circulation",
+        "Cerebral circulation",
+        "Splanchnic circulation",
+        "Pulmonary circulation (RV → lungs → LA)"
+      ],
+      "answer": 3,
+      "explanation": "The pulmonary circuit lies between the RV and LV, so the right heart, lungs, and left heart form a series pathway; systemic organs are parallel beds off the aorta.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular Structure, Function & Hemodynamics",
+        "In-Series and In-Parallel Circulation"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch02-q037",
+      "stem": "A patient with chronic LV failure develops pulmonary edema. Which secondary cardiac effect is most likely?",
+      "image": null,
+      "options": [
+        "Increased RV afterload due to elevated pulmonary vascular pressures",
+        "Decreased RA pressure",
+        "Decreased pulmonary artery pressure",
+        "Reduced tricuspid valve closure pressures"
+      ],
+      "answer": 0,
+      "explanation": "Backward transmission of LV failure raises pulmonary venous and arterial pressures, increasing the RV's ejection load — again illustrating in-series interdependence.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular Structure, Function & Hemodynamics",
+        "In-Series and In-Parallel Circulation"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch02-q038",
+      "stem": "Over time, the output of the right ventricle must equal the output of the left ventricle because:",
+      "image": null,
+      "options": [
+        "Both ventricles eject into parallel circuits",
+        "Venous valves ensure equal forward flow",
+        "The circuits are arranged in series, so sustained imbalance would cause progressive volume accumulation on one side",
+        "The aorta and pulmonary artery have identical wall thickness"
+      ],
+      "answer": 2,
+      "explanation": "In a series system, a sustained mismatch in outputs would progressively shift blood volume to one side; therefore long-term outputs must match.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular Structure, Function & Hemodynamics",
+        "In-Series and In-Parallel Circulation"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch02-q039",
+      "stem": "After a large meal, splanchnic blood flow increases considerably. Which finding would be expected in the other parallel beds?",
+      "image": null,
+      "options": [
+        "Cerebral flow must fall proportionally",
+        "Coronary flow must rise equally",
+        "Other organ flows adjust only minimally because parallel beds are largely independent",
+        "Renal flow must rise by the same amount"
+      ],
+      "answer": 2,
+      "explanation": "The defining feature of in-parallel circulation is that changes in one organ's flow do not significantly disturb the others.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular Structure, Function & Hemodynamics",
+        "In-Series and In-Parallel Circulation"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch02-q040",
+      "stem": "Which statement best summarizes the clinical implication of the in-series relationship of the two ventricles?",
+      "image": null,
+      "options": [
+        "LV failure always improves RV filling",
+        "RV and LV outputs can permanently diverge without consequence",
+        "Pulmonary flow has no influence on systemic output",
+        "RV failure reduces LV preload, which leads to reduced cardiac output"
+      ],
+      "answer": 3,
+      "explanation": "This is the stated clinical implication: failure of one ventricle compromises filling and output of the other because they are connected in series.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular Structure, Function & Hemodynamics",
+        "Quantitative Cardiac Assessment — SV, CO, CI, and EF"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch02-q041",
+      "stem": "Which formula correctly defines stroke volume?",
+      "image": null,
+      "options": [
+        "SV = EDV − ESV",
+        "SV = CO × HR",
+        "SV = EDV + ESV",
+        "SV = CI × BSA"
+      ],
+      "answer": 0,
+      "explanation": "Stroke volume is the volume ejected per heartbeat: SV = EDV − ESV. CO = SV × HR rearranges incorrectly (option B), and CI = CO ÷ BSA defines cardiac index, not SV.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular Structure, Function & Hemodynamics",
+        "Quantitative Cardiac Assessment — SV, CO, CI, and EF"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch02-q042",
+      "stem": "A patient has a stroke volume of 70 mL and a heart rate of 80 bpm. What is the cardiac output?",
+      "image": null,
+      "options": [
+        "1.5 L/min",
+        "5.6 L/min",
+        "6.0 L/min",
+        "15.0 L/min"
+      ],
+      "answer": 1,
+      "explanation": "CO = SV × HR = 0.070 L × 80 = 5.6 L/min. Option C results from misusing a 60-bpm heart rate.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular Structure, Function & Hemodynamics",
+        "Quantitative Cardiac Assessment — SV, CO, CI, and EF"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch02-q043",
+      "stem": "A patient has an EDV of 120 mL and an ESV of 50 mL. What is the ejection fraction?",
+      "image": null,
+      "options": [
+        "58%",
+        "70%",
+        "42%",
+        "25%"
+      ],
+      "answer": 0,
+      "explanation": "EF = SV/EDV = (120 − 50)/120 = 70/120 ≈ 58%, which lies within the normal ~55–70% range. Option B is the stroke volume, not the EF.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular Structure, Function & Hemodynamics",
+        "Quantitative Cardiac Assessment — SV, CO, CI, and EF"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch02-q044",
+      "stem": "A patient has a cardiac output of 5.0 L/min and a body surface area of 2.0 m². What is the cardiac index?",
+      "image": null,
+      "options": [
+        "10.0 L/min/m²",
+        "2.5 L/min/m²",
+        "0.4 L/min/m²",
+        "5.0 L/min/m²"
+      ],
+      "answer": 1,
+      "explanation": "CI = CO ÷ BSA = 5.0 ÷ 2.0 = 2.5 L/min/m², at the lower edge of the normal ~2.5–4.0 L/min/m² range.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular Structure, Function & Hemodynamics",
+        "Quantitative Cardiac Assessment — SV, CO, CI, and EF"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch02-q045",
+      "stem": "What is the normal range for cardiac index?",
+      "image": null,
+      "options": [
+        "~2.5–4.0 L/min/m²",
+        "~5–8 L/min",
+        "~55–70%",
+        "~120/80 mmHg"
+      ],
+      "answer": 0,
+      "explanation": "Cardiac index is CO normalized to body surface area; its normal range is approximately 2.5–4.0 L/min/m². Low CI indicates inadequate tissue perfusion.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular Structure, Function & Hemodynamics",
+        "Quantitative Cardiac Assessment — SV, CO, CI, and EF"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch02-q046",
+      "stem": "Which ejection fraction range is generally considered normal for systolic function?",
+      "image": null,
+      "options": [
+        "20–35%",
+        "35–45%",
+        "45–50%",
+        "~55–70%"
+      ],
+      "answer": 3,
+      "explanation": "EF = SV/EDV, and a normal value is approximately 55–70%; values below this range indicate reduced systolic performance.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular Structure, Function & Hemodynamics",
+        "Quantitative Cardiac Assessment — SV, CO, CI, and EF"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch02-q047",
+      "stem": "Using the lecture's tachycardia example, a patient has HR = 120 bpm and SV = 70 mL. What is the cardiac output?",
+      "image": null,
+      "options": [
+        "4.2 L/min",
+        "0.84 L/min",
+        "8.4 L/min",
+        "12.0 L/min"
+      ],
+      "answer": 2,
+      "explanation": "CO = 0.07 L × 120 = 8.4 L/min. With SV constant, increasing HR increases cardiac output.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular Structure, Function & Hemodynamics",
+        "Quantitative Cardiac Assessment — SV, CO, CI, and EF"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch02-q048",
+      "stem": "Using the lecture's resting example, a patient has HR = 60 bpm and SV = 70 mL. What is the cardiac output?",
+      "image": null,
+      "options": [
+        "8.4 L/min",
+        "4.2 L/min",
+        "2.1 L/min",
+        "7.0 L/min"
+      ],
+      "answer": 1,
+      "explanation": "CO = 0.07 × 60 = 4.2 L/min, a typical resting cardiac output.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular Structure, Function & Hemodynamics",
+        "Quantitative Cardiac Assessment — SV, CO, CI, and EF"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch02-q049",
+      "stem": "A critically ill patient has a cardiac index of 1.6 L/min/m². What does this value indicate?",
+      "image": null,
+      "options": [
+        "Inadequate tissue perfusion (low cardiac index)",
+        "Normal cardiac index",
+        "High-output state",
+        "Isolated elevation of systemic vascular resistance"
+      ],
+      "answer": 0,
+      "explanation": "Normal CI is ~2.5–4.0 L/min/m²; a value of 1.6 is well below normal and indicates the heart is not delivering enough blood per unit body size to perfuse tissues.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular Structure, Function & Hemodynamics",
+        "Quantitative Cardiac Assessment — SV, CO, CI, and EF"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch02-q050",
+      "stem": "A patient has an EDV of 140 mL and an ESV of 70 mL. What is the stroke volume?",
+      "image": null,
+      "options": [
+        "210 mL",
+        "2.0",
+        "70 mL",
+        "50%"
+      ],
+      "answer": 2,
+      "explanation": "SV = EDV − ESV = 140 − 70 = 70 mL. Option D confuses EF with SV (EF would be 70/140 = 50%).",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular Structure, Function & Hemodynamics",
+        "Quantitative Cardiac Assessment — SV, CO, CI, and EF"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch02-q051",
+      "stem": "A patient has a cardiac output of 4.2 L/min and a BSA of 1.75 m². Which value and interpretation are correct?",
+      "image": null,
+      "options": [
+        "CI = 7.35 L/min/m² — abnormally high",
+        "CI = 0.42 L/min/m² — critically low",
+        "CI = 3.2 L/min/m² — normal",
+        "CI = 2.4 L/min/m² — low, consistent with hypoperfusion"
+      ],
+      "answer": 3,
+      "explanation": "CI = 4.2 ÷ 1.75 = 2.4 L/min/m², which falls just below the normal ~2.5–4.0 L/min/m² range and suggests inadequate perfusion for body size.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular Structure, Function & Hemodynamics",
+        "Quantitative Cardiac Assessment — SV, CO, CI, and EF"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch02-q052",
+      "stem": "A patient with dilated cardiomyopathy has an EDV of 160 mL and an ESV of 120 mL. What is the ejection fraction, and what does it indicate?",
+      "image": null,
+      "options": [
+        "EF = 75% — hyperdynamic function",
+        "EF = 25% — severely reduced systolic function",
+        "EF = 40% — normal function",
+        "EF = 133% — calculation error"
+      ],
+      "answer": 1,
+      "explanation": "SV = 160 − 120 = 40 mL; EF = 40/160 = 25%. This is markedly below the normal ~55–70% and indicates severe systolic dysfunction, in which stroke volume is reduced.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular Structure, Function & Hemodynamics",
+        "Quantitative Cardiac Assessment — SV, CO, CI, and EF"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch02-q053",
+      "stem": "If stroke volume remains constant, doubling the heart rate from 60 to 120 bpm will:",
+      "image": null,
+      "options": [
+        "Double the cardiac output",
+        "Halve the cardiac output",
+        "Leave cardiac output unchanged",
+        "Increase cardiac output fourfold"
+      ],
+      "answer": 0,
+      "explanation": "CO = SV × HR; with SV fixed at, for example, 70 mL, CO rises from 4.2 L/min to 8.4 L/min — the key principle from the lecture's worked examples.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular Structure, Function & Hemodynamics",
+        "Quantitative Cardiac Assessment — SV, CO, CI, and EF"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch02-q054",
+      "stem": "A patient has an ESV of 30 mL and a stroke volume of 85 mL. What is the end-diastolic volume?",
+      "image": null,
+      "options": [
+        "55 mL",
+        "2550 mL",
+        "115 mL",
+        "74%"
+      ],
+      "answer": 2,
+      "explanation": "Rearranging SV = EDV − ESV gives EDV = SV + ESV = 85 + 30 = 115 mL.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular Structure, Function & Hemodynamics",
+        "Quantitative Cardiac Assessment — SV, CO, CI, and EF"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch02-q055",
+      "stem": "A patient has a cardiac output of 6.0 L/min at a heart rate of 100 bpm. What is the stroke volume?",
+      "image": null,
+      "options": [
+        "600 mL",
+        "60 mL",
+        "0.6 mL",
+        "160 mL"
+      ],
+      "answer": 1,
+      "explanation": "SV = CO ÷ HR = 6000 mL ÷ 100 = 60 mL per beat.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular Structure, Function & Hemodynamics",
+        "Quantitative Cardiac Assessment — SV, CO, CI, and EF"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch02-q056",
+      "stem": "Cardiac output is 5.0 L/min in both a 50-kg patient (BSA 1.5 m²) and a 110-kg patient (BSA 2.3 m²). Which measurement best reflects that the smaller patient is actually better perfused relative to size?",
+      "image": null,
+      "options": [
+        "Cardiac index (CO normalized to BSA)",
+        "Stroke volume",
+        "Ejection fraction",
+        "End-systolic volume"
+      ],
+      "answer": 0,
+      "explanation": "CI = CO ÷ BSA normalizes output to body size; the smaller patient's CI is 3.3 L/min/m² versus 2.2 L/min/m², revealing relative perfusion differences raw CO hides.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular Structure, Function & Hemodynamics",
+        "Quantitative Cardiac Assessment — SV, CO, CI, and EF"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch02-q057",
+      "stem": "Which measurement is the key echocardiographic indicator of systolic function?",
+      "image": null,
+      "options": [
+        "Ejection fraction (SV/EDV)",
+        "Heart rate",
+        "Body surface area",
+        "Blood pressure"
+      ],
+      "answer": 0,
+      "explanation": "EF expresses the percentage of blood ejected per beat and is the key indicator of systolic performance, normally ~55–70%.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular Structure, Function & Hemodynamics",
+        "Quantitative Cardiac Assessment — SV, CO, CI, and EF"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch02-q058",
+      "stem": "A patient with BSA 1.5 m² has a cardiac index of 3.0 L/min/m². What is the cardiac output?",
+      "image": null,
+      "options": [
+        "2.0 L/min",
+        "0.45 L/min",
+        "4.5 L/min",
+        "30 L/min"
+      ],
+      "answer": 2,
+      "explanation": "Rearranging CI = CO ÷ BSA gives CO = CI × BSA = 3.0 × 1.5 = 4.5 L/min.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular Structure, Function & Hemodynamics",
+        "Quantitative Cardiac Assessment — SV, CO, CI, and EF"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch02-q059",
+      "stem": "A patient has an EDV of 100 mL and a stroke volume of 55 mL. What is the ejection fraction?",
+      "image": null,
+      "options": [
+        "155%",
+        "45%",
+        "1.8",
+        "55%"
+      ],
+      "answer": 3,
+      "explanation": "EF = SV/EDV = 55/100 = 55%, at the lower boundary of the normal ~55–70% range.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular Structure, Function & Hemodynamics",
+        "Quantitative Cardiac Assessment — SV, CO, CI, and EF"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch02-q060",
+      "stem": "A patient with severe aortic stenosis develops tachycardia to 150 bpm, and diastolic filling time is markedly shortened. Despite the high heart rate, cardiac output fails to rise. The best explanation is:",
+      "image": null,
+      "options": [
+        "Cardiac output is independent of stroke volume",
+        "Body surface area has increased",
+        "Heart rate reduces ESV directly",
+        "Stroke volume falls because shortened diastole reduces EDV (preload), offsetting the tachycardia"
+      ],
+      "answer": 3,
+      "explanation": "CO = SV × HR, but at very high rates diastolic filling time shortens, EDV falls, and SV drops — so the HR increase no longer translates into higher output. Filling occurs mainly in diastole.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular Structure, Function & Hemodynamics",
+        "Intracardiac Pressures and Pressure-Driven Flow"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch02-q061",
+      "stem": "The fundamental principle governing blood flow through the heart and vessels is that blood moves:",
+      "image": null,
+      "options": [
+        "From low to high pressure, driven by valve contraction",
+        "Only when the heart is in systole",
+        "From high to low pressure",
+        "Randomly, determined by vessel elasticity"
+      ],
+      "answer": 2,
+      "explanation": "Pressure drives flow: blood always moves down a pressure gradient from higher to lower pressure, whether across valves, chambers, or vessels.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular Structure, Function & Hemodynamics",
+        "Intracardiac Pressures and Pressure-Driven Flow"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch02-q062",
+      "stem": "Which side of the heart is the high-pressure system?",
+      "image": null,
+      "options": [
+        "Left heart",
+        "Right heart",
+        "Both sides equally",
+        "Neither; pressures are identical in both ventricles"
+      ],
+      "answer": 0,
+      "explanation": "The left heart generates systemic pressures (~120 mmHg systolic), whereas the right heart is a low-pressure pump serving the pulmonary circulation.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular Structure, Function & Hemodynamics",
+        "Intracardiac Pressures and Pressure-Driven Flow"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch02-q063",
+      "stem": "What is the approximate normal mean pressure in the right atrium?",
+      "image": null,
+      "options": [
+        "20–25 mmHg",
+        "2–6 mmHg",
+        "60–80 mmHg",
+        "35–45 mmHg"
+      ],
+      "answer": 1,
+      "explanation": "RA mean pressure is low (roughly 2–6 mmHg), reflecting the low-pressure venous return system of the right heart.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular Structure, Function & Hemodynamics",
+        "Intracardiac Pressures and Pressure-Driven Flow"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch02-q064",
+      "stem": "A normal pulmonary artery systolic pressure is approximately:",
+      "image": null,
+      "options": [
+        "120 mmHg",
+        "15–30 mmHg",
+        "2–6 mmHg",
+        "80 mmHg"
+      ],
+      "answer": 1,
+      "explanation": "Pulmonary artery systolic pressure is normally about 15–30 mmHg (commonly quoted ~25), far lower than aortic pressure because pulmonary vascular resistance is low.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular Structure, Function & Hemodynamics",
+        "Intracardiac Pressures and Pressure-Driven Flow"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch02-q065",
+      "stem": "The mitral and aortic valves open and close primarily in response to:",
+      "image": null,
+      "options": [
+        "Sympathetic nerve impulses to the leaflets",
+        "Active contraction of the valve muscle",
+        "Pressure differences across the valves",
+        "Gravity within the chambers"
+      ],
+      "answer": 2,
+      "explanation": "Valves are passive structures that open when upstream pressure exceeds downstream pressure and close when the gradient reverses, ensuring unidirectional flow.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular Structure, Function & Hemodynamics",
+        "Intracardiac Pressures and Pressure-Driven Flow"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch02-q066",
+      "stem": "What is the approximate normal mean pressure in the left atrium (pulmonary capillary wedge pressure)?",
+      "image": null,
+      "options": [
+        "6–12 mmHg",
+        "25–35 mmHg",
+        "0–2 mmHg",
+        "60–90 mmHg"
+      ],
+      "answer": 0,
+      "explanation": "LA mean pressure is normally about 6–12 mmHg — higher than RA pressure because the left side operates at higher filling pressures.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular Structure, Function & Hemodynamics",
+        "Intracardiac Pressures and Pressure-Driven Flow"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch02-q067",
+      "stem": "Which chamber generates the highest systolic pressure?",
+      "image": null,
+      "options": [
+        "Right atrium",
+        "Right ventricle",
+        "Left atrium",
+        "Left ventricle"
+      ],
+      "answer": 3,
+      "explanation": "The LV generates ~120 mmHg systolic pressure to drive the systemic circulation — the highest of the four chambers.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular Structure, Function & Hemodynamics",
+        "Intracardiac Pressures and Pressure-Driven Flow"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch02-q068",
+      "stem": "A 62-year-old with mitral stenosis presents with exertional dyspnea. Echo shows a thickened, doming mitral valve and a dilated left atrium. The most likely intracardiac pressure abnormality is:",
+      "image": null,
+      "options": [
+        "Elevated RV systolic pressure with normal LA pressure",
+        "Decreased LV diastolic pressure",
+        "Elevated aortic diastolic pressure",
+        "Elevated LA (pulmonary venous) pressure"
+      ],
+      "answer": 3,
+      "explanation": "Mitral stenosis obstructs LA emptying, raising LA and pulmonary venous pressures and causing congestion — the dilated LA is the echo correlate.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular Structure, Function & Hemodynamics",
+        "Intracardiac Pressures and Pressure-Driven Flow"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch02-q069",
+      "stem": "During early diastole, blood flows rapidly across the mitral valve because:",
+      "image": null,
+      "options": [
+        "LV pressure briefly exceeds LA pressure",
+        "Aortic pressure exceeds LV pressure",
+        "LA pressure exceeds falling LV pressure, creating a transmitral gradient",
+        "The pulmonary artery pressure drops to zero"
+      ],
+      "answer": 2,
+      "explanation": "Ventricular relaxation drops LV pressure below LA pressure, and the resulting gradient opens the mitral valve and drives filling — pressure-difference–driven flow.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular Structure, Function & Hemodynamics",
+        "Intracardiac Pressures and Pressure-Driven Flow"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch02-q070",
+      "stem": "The right ventricle develops much lower systolic pressure than the left ventricle because:",
+      "image": null,
+      "options": [
+        "The RV myocardium is nonfunctional",
+        "Pulmonary vascular resistance is low, so less pressure is required to eject the same output",
+        "The tricuspid valve is incompetent at rest",
+        "Venous valves augment RV contraction"
+      ],
+      "answer": 1,
+      "explanation": "In-series output equality with a low-resistance pulmonary circuit means the RV achieves the same flow at far lower pressure.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular Structure, Function & Hemodynamics",
+        "Intracardiac Pressures and Pressure-Driven Flow"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch02-q071",
+      "stem": "For the mitral valve to open at the start of diastole, which pressure relationship must exist?",
+      "image": null,
+      "options": [
+        "LV pressure > LA pressure",
+        "LA pressure > LV pressure",
+        "Aortic pressure > LV pressure",
+        "PA pressure > LA pressure"
+      ],
+      "answer": 1,
+      "explanation": "The mitral valve opens when LA pressure exceeds LV pressure; closure occurs when LV pressure rises above LA pressure at the onset of systole.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular Structure, Function & Hemodynamics",
+        "Intracardiac Pressures and Pressure-Driven Flow"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch02-q072",
+      "stem": "The aortic valve closes at end-systole when:",
+      "image": null,
+      "options": [
+        "LV pressure exceeds aortic pressure",
+        "LA pressure exceeds LV pressure",
+        "RA pressure exceeds RV pressure",
+        "Aortic pressure exceeds falling LV pressure"
+      ],
+      "answer": 3,
+      "explanation": "As the LV relaxes, aortic pressure momentarily exceeds LV pressure, closing the aortic valve and producing the dicrotic notch — valve motion is dictated by pressure gradients.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular Structure, Function & Hemodynamics",
+        "Intracardiac Pressures and Pressure-Driven Flow"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch02-q073",
+      "stem": "A normal mean pulmonary artery pressure is approximately:",
+      "image": null,
+      "options": [
+        "100 mmHg",
+        "3 mmHg",
+        "10–20 mmHg",
+        "120 mmHg"
+      ],
+      "answer": 2,
+      "explanation": "Mean PA pressure is normally about 10–20 mmHg (often quoted ~15), consistent with the low-pressure pulmonary circuit.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular Structure, Function & Hemodynamics",
+        "Intracardiac Pressures and Pressure-Driven Flow"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch02-q074",
+      "stem": "A sonographer notes a dilated, plethoric inferior vena cava with reduced respiratory collapse. This suggests:",
+      "image": null,
+      "options": [
+        "Elevated LA pressure only",
+        "Decreased systemic venous pressure",
+        "Elevated RA pressure",
+        "Normal right-heart filling pressures"
+      ],
+      "answer": 2,
+      "explanation": "A plethoric IVC with blunted collapse reflects elevated RA/right-heart filling pressure, since the IVC delivers venous return to the RA.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular Structure, Function & Hemodynamics",
+        "Intracardiac Pressures and Pressure-Driven Flow"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch02-q075",
+      "stem": "Continuous-wave Doppler across a tricuspid regurgitant jet measures a peak velocity of 2.5 m/s, and the estimated RA pressure is 5 mmHg. Using the simplified Bernoulli equation, the estimated RV systolic pressure is approximately:",
+      "image": null,
+      "options": [
+        "15 mmHg",
+        "30 mmHg",
+        "20 mmHg",
+        "45 mmHg"
+      ],
+      "answer": 1,
+      "explanation": "RVSP = 4V² + RA pressure = 4(2.5)² + 5 = 25 + 5 = 30 mmHg, at the upper end of normal — a standard echo application of pressure-gradient physiology.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular Structure, Function & Hemodynamics",
+        "Intracardiac Pressures and Pressure-Driven Flow"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch02-q076",
+      "stem": "Which vessel contains the highest systemic arterial pressure?",
+      "image": null,
+      "options": [
+        "Aorta",
+        "Pulmonary artery",
+        "Superior vena cava",
+        "Coronary sinus"
+      ],
+      "answer": 0,
+      "explanation": "The aorta, receiving the full LV stroke volume, carries the highest pressure (~120/80 mmHg) of any vessel.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular Structure, Function & Hemodynamics",
+        "Intracardiac Pressures and Pressure-Driven Flow"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch02-q077",
+      "stem": "In an uncomplicated ostium secundum atrial septal defect, the shunt flows from left to right because:",
+      "image": null,
+      "options": [
+        "RA pressure exceeds LA pressure",
+        "Both atrial pressures are always equal",
+        "LA pressure is normally higher than RA pressure",
+        "Venous valves force blood rightward"
+      ],
+      "answer": 2,
+      "explanation": "Flow follows the pressure gradient; since LA pressure (6–12 mmHg) normally exceeds RA pressure (2–6 mmHg), blood shunts from LA to RA.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular Structure, Function & Hemodynamics",
+        "Intracardiac Pressures and Pressure-Driven Flow"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch02-q078",
+      "stem": "Ventricular filling during diastole is driven primarily by:",
+      "image": null,
+      "options": [
+        "The atrial-to-ventricular pressure gradient",
+        "Active atrial squeezing against a closed AV valve",
+        "Aortic pressure pushing blood backward",
+        "Sympathetic stimulation of the AV valves"
+      ],
+      "answer": 0,
+      "explanation": "AV valves open when atrial pressure exceeds relaxed ventricular pressure; the gradient passively drives most of ventricular filling.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular Structure, Function & Hemodynamics",
+        "Intracardiac Pressures and Pressure-Driven Flow"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch02-q079",
+      "stem": "Which pressure is normally the LOWEST?",
+      "image": null,
+      "options": [
+        "Aortic systolic pressure",
+        "Right atrial mean pressure",
+        "Pulmonary artery systolic pressure",
+        "LV systolic pressure"
+      ],
+      "answer": 1,
+      "explanation": "RA mean (2–6 mmHg) is the lowest listed; it reflects the venous reservoir feeding the low-pressure right heart.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular Structure, Function & Hemodynamics",
+        "Intracardiac Pressures and Pressure-Driven Flow"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch02-q080",
+      "stem": "Which statement about intracardiac pressures and valve function is TRUE?",
+      "image": null,
+      "options": [
+        "Valves open and close according to neural timing signals",
+        "Blood flows against pressure gradients in diastole",
+        "Left-sided pressures are always lower than right-sided pressures",
+        "Valves open and close passively in response to pressure differences that change during systole and diastole"
+      ],
+      "answer": 3,
+      "explanation": "The lecture emphasizes that pressure drives flow, valve motion depends on pressure differences, and these gradients change with the cardiac cycle (systole and diastole).",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular Structure, Function & Hemodynamics",
+        "The Parasternal Long-Axis (PSLAX) View and Echo Anatomy"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch02-q081",
+      "stem": "To obtain the standard parasternal long-axis view, the transducer is placed:",
+      "image": null,
+      "options": [
+        "At the subxiphoid region angled cephalad",
+        "Left of the sternum, with the beam along the heart's long axis",
+        "At the cardiac apex angled toward the right shoulder",
+        "Right of the sternum angled caudally"
+      ],
+      "answer": 1,
+      "explanation": "The PSLAX view is acquired by placing the probe immediately left of the sternum so the ultrasound plane slices the heart along its long axis.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular Structure, Function & Hemodynamics",
+        "The Parasternal Long-Axis (PSLAX) View and Echo Anatomy"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch02-q082",
+      "stem": "In the PSLAX view, the circular, ring-shaped structure seen posterior to the left atrium is the:",
+      "image": null,
+      "options": [
+        "Right ventricular outflow tract",
+        "Descending aorta",
+        "Pulmonary artery bifurcation",
+        "Coronary sinus"
+      ],
+      "answer": 1,
+      "explanation": "The descending thoracic aorta appears as a round, fluid-filled circle posterior to the LA in the PSLAX view — a key landmark in that view.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular Structure, Function & Hemodynamics",
+        "The Parasternal Long-Axis (PSLAX) View and Echo Anatomy"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch02-q083",
+      "stem": "Which chamber is seen closest to the transducer (most anterior) in a standard PSLAX view?",
+      "image": null,
+      "options": [
+        "Left atrium",
+        "Left ventricle",
+        "Right ventricle",
+        "Descending aorta"
+      ],
+      "answer": 2,
+      "explanation": "The RV lies anteriorly, directly beneath the chest wall and transducer, while the LA is the most posterior chamber.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular Structure, Function & Hemodynamics",
+        "The Parasternal Long-Axis (PSLAX) View and Echo Anatomy"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch02-q084",
+      "stem": "Which valve is imaged within the aortic root at the center of the PSLAX view?",
+      "image": null,
+      "options": [
+        "Mitral valve",
+        "Tricuspid valve",
+        "Pulmonic valve",
+        "Aortic valve"
+      ],
+      "answer": 3,
+      "explanation": "The aortic valve sits in the aortic root between the LA and the RV outflow region in this plane; the mitral valve is seen inferior to it.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular Structure, Function & Hemodynamics",
+        "The Parasternal Long-Axis (PSLAX) View and Echo Anatomy"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch02-q085",
+      "stem": "The valve positioned between the left atrium and left ventricle in the PSLAX view is the:",
+      "image": null,
+      "options": [
+        "Tricuspid valve",
+        "Mitral valve",
+        "Aortic valve",
+        "Pulmonic valve"
+      ],
+      "answer": 1,
+      "explanation": "The mitral (left AV) valve separates the LA and LV and is a core structure to identify in PSLAX imaging.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular Structure, Function & Hemodynamics",
+        "The Parasternal Long-Axis (PSLAX) View and Echo Anatomy"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch02-q086",
+      "stem": "Which wall is visualized along the far (posterior) border of the left ventricle in the PSLAX view?",
+      "image": null,
+      "options": [
+        "RV free wall",
+        "Interventricular septum",
+        "LA lateral wall",
+        "LV posterior wall"
+      ],
+      "answer": 3,
+      "explanation": "In PSLAX, the LV is bounded anteriorly by the interventricular septum and posteriorly by the LV posterior wall — both are measurement targets.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular Structure, Function & Hemodynamics",
+        "The Parasternal Long-Axis (PSLAX) View and Echo Anatomy"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch02-q087",
+      "stem": "The muscular wall separating the RV cavity from the LV cavity in the PSLAX view is the:",
+      "image": null,
+      "options": [
+        "Interventricular septum (IVS)",
+        "LV posterior wall",
+        "Interatrial septum",
+        "Right ventricular moderator band"
+      ],
+      "answer": 0,
+      "explanation": "The IVS lies between the anterior RV and the LV cavity and should thicken and move toward the posterior wall in systole.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular Structure, Function & Hemodynamics",
+        "The Parasternal Long-Axis (PSLAX) View and Echo Anatomy"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch02-q088",
+      "stem": "The PSLAX view is specifically used to estimate which quantitative parameters?",
+      "image": null,
+      "options": [
+        "Pulmonary vascular resistance and Qp/Qs",
+        "Stroke volume and ejection fraction",
+        "Cardiac index and BSA only",
+        "Venous valve competency"
+      ],
+      "answer": 1,
+      "explanation": "Per the lecture, PSLAX is the standard view used to estimate SV and EF% through linear and volumetric measurements of the LV.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular Structure, Function & Hemodynamics",
+        "The Parasternal Long-Axis (PSLAX) View and Echo Anatomy"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch02-q089",
+      "stem": "Which mitral valve leaflets are both visible in the PSLAX view?",
+      "image": null,
+      "options": [
+        "Anterior and posterior",
+        "Only the posterior leaflet",
+        "Septal and anterior tricuspid leaflets",
+        "Right and left coronary leaflets"
+      ],
+      "answer": 0,
+      "explanation": "The PSLAX plane cuts through both the anterior and posterior mitral leaflets, showing their full excursion between the LA and LV.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular Structure, Function & Hemodynamics",
+        "The Parasternal Long-Axis (PSLAX) View and Echo Anatomy"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch02-q090",
+      "stem": "For standard linear measurements of LV internal dimension in the PSLAX view, the measurement should be made:",
+      "image": null,
+      "options": [
+        "At the aortic annulus in late systole",
+        "At the apex in mid-diastole",
+        "Perpendicular to the long axis at the level of the mitral valve leaflet tips in end-diastole",
+        "Parallel to the septum during atrial contraction"
+      ],
+      "answer": 2,
+      "explanation": "Standard M-mode/2D LV dimension measurement is taken just at the mitral leaflet tips, perpendicular to the LV long axis, at end-diastole, ensuring reproducibility.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular Structure, Function & Hemodynamics",
+        "The Parasternal Long-Axis (PSLAX) View and Echo Anatomy"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch02-q091",
+      "stem": "Which of the following structures is NOT typically identified in a standard PSLAX view?",
+      "image": null,
+      "options": [
+        "Left atrium",
+        "Left ventricle",
+        "Descending aorta",
+        "Pulmonary artery (pulmonic valve)"
+      ],
+      "answer": 3,
+      "explanation": "The pulmonic valve and pulmonary artery lie in a plane not captured by PSLAX; they are assessed in parasternal short-axis. The LA, LV, and descending aorta are all PSLAX structures.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular Structure, Function & Hemodynamics",
+        "The Parasternal Long-Axis (PSLAX) View and Echo Anatomy"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch02-q092",
+      "stem": "The anatomic relationship of the descending aorta in the PSLAX view is:",
+      "image": null,
+      "options": [
+        "Posterior to the left atrium",
+        "Anterior to the right ventricle",
+        "Within the interventricular septum",
+        "Left of the pulmonary artery at the same depth as the RV"
+      ],
+      "answer": 0,
+      "explanation": "The descending aorta runs immediately behind the LA, which is why it appears as the posterior circular structure and helps localize pericardial versus pleural fluid.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular Structure, Function & Hemodynamics",
+        "The Parasternal Long-Axis (PSLAX) View and Echo Anatomy"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch02-q093",
+      "stem": "In a patient with a pericardial effusion, the echo-free space in the PSLAX view is expected:",
+      "image": null,
+      "options": [
+        "Only within the LV cavity",
+        "Between the myocardium and the mitral valve",
+        "Posterior to the LV, anterior to the descending aorta (within the pericardial sac)",
+        "Only anterior to the RV outflow tract in all cases"
+      ],
+      "answer": 2,
+      "explanation": "Pericardial fluid accumulates within the pericardial sac behind the LV; because the pericardium ends before the descending aorta, fluid anterior to the descending aorta confirms pericardial (not pleural) location.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular Structure, Function & Hemodynamics",
+        "The Parasternal Long-Axis (PSLAX) View and Echo Anatomy"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch02-q094",
+      "stem": "During systole in the PSLAX view, which valve behavior is expected?",
+      "image": null,
+      "options": [
+        "Mitral valve opens wide as the LV ejects",
+        "Aortic valve closes to hold pressure",
+        "Both AV and semilunar valves open simultaneously",
+        "The mitral valve closes and the aortic valve opens"
+      ],
+      "answer": 3,
+      "explanation": "Systole raises LV pressure above LA (closing the mitral valve) and above aortic diastolic pressure (opening the aortic valve), allowing ejection.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular Structure, Function & Hemodynamics",
+        "The Parasternal Long-Axis (PSLAX) View and Echo Anatomy"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch02-q095",
+      "stem": "In the PSLAX view, the left atrium is located:",
+      "image": null,
+      "options": [
+        "Posterior to the aortic root and mitral valve",
+        "Anterior to the right ventricle",
+        "Lateral to the LV apex",
+        "Superior to the pulmonary artery"
+      ],
+      "answer": 0,
+      "explanation": "The LA is the most posterior chamber, sitting behind the aortic root and mitral annulus in this plane.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular Structure, Function & Hemodynamics",
+        "The Parasternal Long-Axis (PSLAX) View and Echo Anatomy"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch02-q096",
+      "stem": "Which structure in the PSLAX view normally appears as an anterior, crescent-shaped chamber whose free wall is difficult to fully assess?",
+      "image": null,
+      "options": [
+        "Left atrium",
+        "Descending aorta",
+        "Left ventricle",
+        "Right ventricle"
+      ],
+      "answer": 3,
+      "explanation": "The RV is the anterior, wedge/crescent-shaped chamber hugging the chest wall in PSLAX; its free wall is near-field and partially foreshortened in this view.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular Structure, Function & Hemodynamics",
+        "The Parasternal Long-Axis (PSLAX) View and Echo Anatomy"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch02-q097",
+      "stem": "During systole in the PSLAX view, normal motion of the interventricular septum is:",
+      "image": null,
+      "options": [
+        "Away from the LV posterior wall with thinning",
+        "Paradoxical anterior motion",
+        "Movement toward the LV posterior wall with wall thickening",
+        "No motion at all"
+      ],
+      "answer": 2,
+      "explanation": "Normal systolic function thickens the septum and moves it inward toward the posterior wall, reducing LV cavity size — the basis for visually estimating EF in PSLAX.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular Structure, Function & Hemodynamics",
+        "The Parasternal Long-Axis (PSLAX) View and Echo Anatomy"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch02-q098",
+      "stem": "Which of the following is NOT one of the eight structures the lecture lists for PSLAX identification?",
+      "image": null,
+      "options": [
+        "Interventricular septum",
+        "Right atrium",
+        "LV posterior wall",
+        "Descending aorta"
+      ],
+      "answer": 1,
+      "explanation": "The listed structures are descending aorta, aortic valve, mitral valve, LA, LV, RV (anterior), IVS, and LV posterior wall; the RA is not part of the standard PSLAX view.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular Structure, Function & Hemodynamics",
+        "The Parasternal Long-Axis (PSLAX) View and Echo Anatomy"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch02-q099",
+      "stem": "A patient in hypovolemic shock is scanned. In the PSLAX view, the LV cavity at end-systole appears nearly obliterated with hyperdynamic wall motion. The most likely diagnosis is:",
+      "image": null,
+      "options": [
+        "Dilated cardiomyopathy",
+        "Large pericardial effusion with tamponade",
+        "Severe mitral regurgitation",
+        "Low preload with compensatory hypercontractility"
+      ],
+      "answer": 3,
+      "explanation": "A small, \"kissing-walls\" LV with vigorous systolic function indicates reduced filling volume (low preload), as in hypovolemia — quantitative EF/SV assessment in PSLAX supports this.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular Structure, Function & Hemodynamics",
+        "The Parasternal Long-Axis (PSLAX) View and Echo Anatomy"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch02-q100",
+      "stem": "In the PSLAX view during the cardiac cycle, which sequence of valve motion is correct?",
+      "image": null,
+      "options": [
+        "Aortic valve opens first, then mitral valve opens",
+        "Both valves are always open together",
+        "Mitral valve closes at onset of systole, aortic valve opens during ejection, then closes, and mitral valve reopens for diastole",
+        "Mitral valve remains open throughout systole"
+      ],
+      "answer": 2,
+      "explanation": "Valve timing follows pressure gradients: MV closure begins systole, AV opens for ejection, AV closure ends systole, and MV reopening allows diastolic filling.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular Structure, Function & Hemodynamics",
+        "Blood Vessel Types and the Tunic Layers"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch02-q101",
+      "stem": "Which tunic layer is the innermost layer of a blood vessel wall?",
+      "image": null,
+      "options": [
+        "Tunica intima",
+        "Tunica media",
+        "Tunica externa",
+        "Tunica adventitia of the myocardium"
+      ],
+      "answer": 0,
+      "explanation": "The tunica intima is the innermost layer, containing the endothelium in direct contact with blood plus loose connective tissue beneath it.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular Structure, Function & Hemodynamics",
+        "Blood Vessel Types and the Tunic Layers"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch02-q102",
+      "stem": "Which tunic layer contains the smooth muscle that enables vasoconstriction and vasodilation?",
+      "image": null,
+      "options": [
+        "Tunica externa",
+        "Tunica media",
+        "Tunica intima",
+        "Endocardium"
+      ],
+      "answer": 1,
+      "explanation": "The tunica media is the middle layer, composed of smooth muscle whose contraction/relaxation changes vessel caliber and therefore resistance.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular Structure, Function & Hemodynamics",
+        "Blood Vessel Types and the Tunic Layers"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch02-q103",
+      "stem": "Control of the smooth muscle in the tunica media is primarily exerted by the:",
+      "image": null,
+      "options": [
+        "Parasympathetic nervous system",
+        "Sympathetic nervous system",
+        "Somatic motor nerves",
+        "Enteric nervous system"
+      ],
+      "answer": 1,
+      "explanation": "Vascular smooth muscle is under sympathetic control: sympathetic stimulation causes vasoconstriction, a key mechanism of vascular flow control.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular Structure, Function & Hemodynamics",
+        "Blood Vessel Types and the Tunic Layers"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch02-q104",
+      "stem": "The outermost tunic layer, composed mostly of fibrous connective tissue, serves to:",
+      "image": null,
+      "options": [
+        "Exchange gases with the blood",
+        "Generate vasoconstriction",
+        "Secrete nitric oxide",
+        "Anchor the vessel in the surrounding tissue"
+      ],
+      "answer": 3,
+      "explanation": "The tunica externa anchors the vessel within surrounding tissue; its fibrous composition provides structural support rather than exchange or muscle function.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular Structure, Function & Hemodynamics",
+        "Blood Vessel Types and the Tunic Layers"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch02-q105",
+      "stem": "Across the systemic circuit, which vessel segment has the greatest total cross-sectional area and therefore the slowest flow velocity?",
+      "image": null,
+      "options": [
+        "Capillaries",
+        "Aorta",
+        "Large veins",
+        "Arterioles"
+      ],
+      "answer": 0,
+      "explanation": "The enormous number of parallel capillaries creates a huge total cross-sectional area, slowing velocity to optimize exchange — a core hemodynamic principle.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular Structure, Function & Hemodynamics",
+        "Blood Vessel Types and the Tunic Layers"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch02-q106",
+      "stem": "Which vessel type is the primary site of substance exchange between blood and tissues?",
+      "image": null,
+      "options": [
+        "Elastic arteries",
+        "Capillaries",
+        "Venules",
+        "Muscular arteries"
+      ],
+      "answer": 1,
+      "explanation": "Capillaries have walls only one endothelial cell thick, making them the exchange vessels for gases, nutrients, and wastes.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular Structure, Function & Hemodynamics",
+        "Blood Vessel Types and the Tunic Layers"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch02-q107",
+      "stem": "Which vessel type is called the \"resistance vessels\" because they are the major regulators of regional blood flow and arterial pressure?",
+      "image": null,
+      "options": [
+        "Vena cavae",
+        "Elastic arteries",
+        "Arterioles",
+        "Venules"
+      ],
+      "answer": 2,
+      "explanation": "Arterioles have proportionally thick muscular media and small lumens, so their caliber changes dramatically alter resistance and distribute flow.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular Structure, Function & Hemodynamics",
+        "Blood Vessel Types and the Tunic Layers"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch02-q108",
+      "stem": "Rounded, non-compressible vessels with thick walls and high internal pressure are:",
+      "image": null,
+      "options": [
+        "Veins",
+        "Arteries",
+        "Lymphatics",
+        "Capillaries"
+      ],
+      "answer": 1,
+      "explanation": "Arteries carry high-pressure blood away from the heart; their thick elastic walls keep them rounded and resistant to compression, unlike collapsed, compressible veins.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular Structure, Function & Hemodynamics",
+        "Blood Vessel Types and the Tunic Layers"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch02-q109",
+      "stem": "The wall of a capillary consists of:",
+      "image": null,
+      "options": [
+        "All three tunic layers with a thick media",
+        "Essentially only the tunica intima (a single endothelial layer)",
+        "Tunica media and externa only",
+        "Fibrous externa surrounding smooth muscle"
+      ],
+      "answer": 1,
+      "explanation": "Capillaries are reduced to a single endothelial layer (plus basement membrane), which is precisely what makes them ideal for diffusion and exchange.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular Structure, Function & Hemodynamics",
+        "Blood Vessel Types and the Tunic Layers"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch02-q110",
+      "stem": "Small venules converge progressively into larger veins. Compared with arteries, veins characteristically have:",
+      "image": null,
+      "options": [
+        "Thin walls, low pressure, large capacity, and valves in the limbs",
+        "Thick muscular walls and high pressure",
+        "No ability to hold volume",
+        "Rounded, non-compressible shapes"
+      ],
+      "answer": 0,
+      "explanation": "Veins are thin-walled, low-pressure, high-capacitance vessels that often collapse when empty and contain valves, especially below the heart.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular Structure, Function & Hemodynamics",
+        "Blood Vessel Types and the Tunic Layers"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch02-q111",
+      "stem": "Which cells form the smooth surface in direct contact with the flowing blood?",
+      "image": null,
+      "options": [
+        "Smooth muscle cells of the media",
+        "Fibroblasts of the externa",
+        "Endothelial cells of the intima",
+        "Pericytes of the adventitia"
+      ],
+      "answer": 2,
+      "explanation": "The endothelial lining of the tunica intima provides the blood-contacting surface; it also secretes regulatory substances such as nitric oxide and prostacyclin.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular Structure, Function & Hemodynamics",
+        "Blood Vessel Types and the Tunic Layers"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch02-q112",
+      "stem": "Redistribution of blood flow among organs during exercise is accomplished mainly by changing:",
+      "image": null,
+      "options": [
+        "Capillary pore size",
+        "Venous valve position",
+        "Aortic wall elasticity",
+        "Arteriolar resistance (vasoconstriction/vasodilation)"
+      ],
+      "answer": 3,
+      "explanation": "Because arterioles control resistance into each parallel organ bed, adjusting their caliber redistributes cardiac output toward working tissues.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular Structure, Function & Hemodynamics",
+        "Blood Vessel Types and the Tunic Layers"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch02-q113",
+      "stem": "Why do veins have such thin muscular walls compared with arteries?",
+      "image": null,
+      "options": [
+        "They operate at low pressure and function as capacitance vessels, so thick media is unnecessary",
+        "They must withstand systolic pressure surges",
+        "Their walls are made only of fibrous externa",
+        "Blood flow velocity in veins is very high"
+      ],
+      "answer": 0,
+      "explanation": "Low venous pressure requires little muscular support; the thin walls allow veins to distend and store most of the blood volume.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular Structure, Function & Hemodynamics",
+        "Blood Vessel Types and the Tunic Layers"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch02-q114",
+      "stem": "Loose connective tissue directly beneath the endothelium belongs to which tunic?",
+      "image": null,
+      "options": [
+        "Tunica media",
+        "Tunica intima",
+        "Tunica externa",
+        "Pericardium"
+      ],
+      "answer": 1,
+      "explanation": "The intima consists of the endothelial lining plus underlying loose connective tissue — a detail distinguishing it from the media and externa.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular Structure, Function & Hemodynamics",
+        "Blood Vessel Types and the Tunic Layers"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch02-q115",
+      "stem": "Which tunic is composed mostly of fibrous connective tissue and is best developed in large vessels where it prevents overexpansion?",
+      "image": null,
+      "options": [
+        "Tunica intima",
+        "Endothelium",
+        "Tunica media",
+        "Tunica externa"
+      ],
+      "answer": 3,
+      "explanation": "The externa (adventitia) is the fibrous outer coat that anchors the vessel and limits distension.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular Structure, Function & Hemodynamics",
+        "Blood Vessel Types and the Tunic Layers"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch02-q116",
+      "stem": "Compared at the same approximate size, which vessels have the thickest walls relative to their lumen diameter?",
+      "image": null,
+      "options": [
+        "Veins",
+        "Capillaries",
+        "Arteries",
+        "Venules"
+      ],
+      "answer": 2,
+      "explanation": "Arteries have proportionally the thickest walls to withstand and dampen high pulsatile pressures; veins have thinner walls at similar sizes.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular Structure, Function & Hemodynamics",
+        "Blood Vessel Types and the Tunic Layers"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch02-q117",
+      "stem": "The main mechanism by which arterioles control flow into a capillary bed is:",
+      "image": null,
+      "options": [
+        "Changing their radius through vasoconstriction and vasodilation",
+        "One-way valve opening and closing",
+        "Pulsatile wall recoil",
+        "Increasing total blood volume"
+      ],
+      "answer": 0,
+      "explanation": "Since resistance varies inversely with radius to the fourth power, small arteriolar caliber changes produce large changes in regional flow.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular Structure, Function & Hemodynamics",
+        "Blood Vessel Types and the Tunic Layers"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch02-q118",
+      "stem": "Blood velocity is lowest in capillaries primarily because:",
+      "image": null,
+      "options": [
+        "Capillary pressure is highest of all vessels",
+        "Their combined cross-sectional area is greatest",
+        "They lack valves",
+        "They have the thickest walls"
+      ],
+      "answer": 1,
+      "explanation": "Velocity equals flow divided by total cross-sectional area; the massive aggregate capillary area slows flow, permitting adequate diffusion time.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular Structure, Function & Hemodynamics",
+        "Blood Vessel Types and the Tunic Layers"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch02-q119",
+      "stem": "Capillary blood flow is regulated locally by tissue metabolic signals because capillaries:",
+      "image": null,
+      "options": [
+        "Are innervated by somatic nerves",
+        "Contain a thick tunica media responsive to epinephrine",
+        "Lack smooth muscle (no media), so control is indirect via upstream arterioles and metabolic signals",
+        "Have valves responding to pressure"
+      ],
+      "answer": 2,
+      "explanation": "Capillaries have no muscular media; adjustments occur through precapillary arterioles responding to local low O₂ and high CO₂ with vasodilation.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular Structure, Function & Hemodynamics",
+        "Blood Vessel Types and the Tunic Layers"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch02-q120",
+      "stem": "Which sequence correctly traces a drop of blood from the heart back to the heart through the systemic circuit?",
+      "image": null,
+      "options": [
+        "Artery → capillary → arteriole → vein",
+        "Arteriole → artery → capillary → venule → vein",
+        "Artery → arteriole → capillary → venule → vein",
+        "Vein → venule → capillary → arteriole → artery"
+      ],
+      "answer": 2,
+      "explanation": "Blood leaves the heart through arteries, passes into arterioles, then capillaries (exchange), collects into venules, and returns via veins.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular Structure, Function & Hemodynamics",
+        "Arteries vs. Veins, the Pulmonary Exception, and Venous Valves"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch02-q121",
+      "stem": "Which rule regarding vessel direction is ABSOLUTE (no exceptions)?",
+      "image": null,
+      "options": [
+        "Arteries always carry oxygenated blood",
+        "Veins always carry deoxygenated blood",
+        "Pulmonary arteries always carry oxygenated blood",
+        "Arteries always carry blood away from the heart; veins always carry blood toward the heart"
+      ],
+      "answer": 3,
+      "explanation": "Direction relative to the heart is the absolute rule. Oxygen content rules are only usual: pulmonary arteries carry deoxygenated and pulmonary veins oxygenated blood.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular Structure, Function & Hemodynamics",
+        "Arteries vs. Veins, the Pulmonary Exception, and Venous Valves"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch02-q122",
+      "stem": "The pulmonary arteries carry which type of blood and to where?",
+      "image": null,
+      "options": [
+        "Oxygenated blood, from the lungs to the LA",
+        "Deoxygenated blood, from the RV to the lungs",
+        "Oxygenated blood, from the LV to the body",
+        "Deoxygenated blood, from the RA to the RV"
+      ],
+      "answer": 1,
+      "explanation": "The pulmonary arteries carry deoxygenated blood from the right ventricle to the lungs for gas exchange — the classic pulmonary exception to the \"arteries carry oxygenated blood\" rule.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular Structure, Function & Hemodynamics",
+        "Arteries vs. Veins, the Pulmonary Exception, and Venous Valves"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch02-q123",
+      "stem": "The pulmonary veins carry which type of blood and to where?",
+      "image": null,
+      "options": [
+        "Deoxygenated blood from the RV to the lungs",
+        "Deoxygenated blood from the body to the RA",
+        "Oxygenated blood from the lungs to the left atrium",
+        "Oxygenated blood from the LV into the aorta"
+      ],
+      "answer": 2,
+      "explanation": "Pulmonary veins are the exception among veins: they carry freshly oxygenated blood from the lungs back to the LA.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular Structure, Function & Hemodynamics",
+        "Arteries vs. Veins, the Pulmonary Exception, and Venous Valves"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch02-q124",
+      "stem": "Which vessel normally carries oxygenated blood toward the heart?",
+      "image": null,
+      "options": [
+        "Pulmonary veins",
+        "Pulmonary arteries",
+        "Superior vena cava",
+        "Hepatic portal vein"
+      ],
+      "answer": 0,
+      "explanation": "Pulmonary veins are the only veins that normally carry oxygen-rich blood, delivering it to the left atrium.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular Structure, Function & Hemodynamics",
+        "Arteries vs. Veins, the Pulmonary Exception, and Venous Valves"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch02-q125",
+      "stem": "On a cross-sectional image, veins typically appear:",
+      "image": null,
+      "options": [
+        "Rounded and non-compressible",
+        "Pulsatile with thick echogenic walls",
+        "Triple-layered with a thick media",
+        "Irregular, often collapsed, and easily compressible"
+      ],
+      "answer": 3,
+      "explanation": "Low venous pressure means veins are frequently collapsed or irregular in shape and collapse with transducer pressure — a key sonographic distinction from arteries.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular Structure, Function & Hemodynamics",
+        "Arteries vs. Veins, the Pulmonary Exception, and Venous Valves"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch02-q126",
+      "stem": "Which vessel type normally lacks valves?",
+      "image": null,
+      "options": [
+        "Veins below the heart",
+        "Arteries",
+        "Limb veins",
+        "Leg veins"
+      ],
+      "answer": 1,
+      "explanation": "Arteries do not have valves; high arterial pressure maintains unidirectional flow, whereas valves are needed in low-pressure veins against gravity.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular Structure, Function & Hemodynamics",
+        "Arteries vs. Veins, the Pulmonary Exception, and Venous Valves"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch02-q127",
+      "stem": "Venous valves are most common in which vessels?",
+      "image": null,
+      "options": [
+        "Pulmonary veins",
+        "Central veins above the heart",
+        "Limb veins and veins below the heart",
+        "Hepatic portal system"
+      ],
+      "answer": 2,
+      "explanation": "Valves are concentrated in the limbs and below-heart veins, where blood must travel upward against gravity.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular Structure, Function & Hemodynamics",
+        "Arteries vs. Veins, the Pulmonary Exception, and Venous Valves"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch02-q128",
+      "stem": "A patient presents with dilated, tortuous leg veins and pitting ankle edema. The underlying pathophysiology is most likely:",
+      "image": null,
+      "options": [
+        "Venous valve dysfunction (incompetence) causing reflux and venous insufficiency",
+        "Arterial valve regurgitation",
+        "Excessive venous valve multiplication",
+        "Pulmonary vein stenosis"
+      ],
+      "answer": 0,
+      "explanation": "Incompetent venous valves allow backflow (reflux), producing venous insufficiency, varicose veins, and leg edema — the stated consequences of valve dysfunction.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular Structure, Function & Hemodynamics",
+        "Arteries vs. Veins, the Pulmonary Exception, and Venous Valves"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch02-q129",
+      "stem": "The primary function of venous valves is to:",
+      "image": null,
+      "options": [
+        "Prevent backflow when blood moves against gravity or is squeezed by muscles",
+        "Increase arterial pressure",
+        "Filter clots from venous blood",
+        "Regulate venous oxygen content"
+      ],
+      "answer": 0,
+      "explanation": "Valves open to permit forward flow toward the heart and close to prevent reversal, especially in dependent limbs and during muscle compression.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular Structure, Function & Hemodynamics",
+        "Arteries vs. Veins, the Pulmonary Exception, and Venous Valves"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch02-q130",
+      "stem": "A 45-year-old teacher who stands all day develops heavy, aching legs with visible superficial vein dilation. Which mechanism best explains her findings?",
+      "image": null,
+      "options": [
+        "Arterial wall calcification restricting flow",
+        "Chronic venous reflux from incompetent valves with elevated distal venous pressure",
+        "Lymphatic valve overactivity",
+        "Capillary absence in the lower limb"
+      ],
+      "answer": 1,
+      "explanation": "Prolonged standing increases hydrostatic venous pressure; failing valves permit reflux, and sustained distal pressure dilates superficial veins and causes edema.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular Structure, Function & Hemodynamics",
+        "Arteries vs. Veins, the Pulmonary Exception, and Venous Valves"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch02-q131",
+      "stem": "Which statement about oxygen content in systemic vessels is correct?",
+      "image": null,
+      "options": [
+        "Systemic arteries carry high-O₂ blood and systemic veins low-O₂ blood; pulmonary vessels are reversed",
+        "Systemic arteries carry low-O₂ blood",
+        "Systemic veins carry high-O₂ blood",
+        "All vessels carry blood of identical oxygen content"
+      ],
+      "answer": 0,
+      "explanation": "In the systemic circuit, arteries are oxygen-rich and veins oxygen-poor; the pulmonary circuit reverses this usual pattern.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular Structure, Function & Hemodynamics",
+        "Arteries vs. Veins, the Pulmonary Exception, and Venous Valves"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch02-q132",
+      "stem": "In the fetus, the umbilical vein carries oxygenated blood toward the fetal heart while the umbilical arteries carry deoxygenated blood away. This arrangement demonstrates that:",
+      "image": null,
+      "options": [
+        "Valves determine oxygen content",
+        "Placental vessels always deoxygenate blood",
+        "Vessel type (artery vs. vein) defines direction, not oxygen content — oxygen content rules have exceptions",
+        "The fetal heart lacks ventricles"
+      ],
+      "answer": 2,
+      "explanation": "The fetal circulation is another example of the pulmonary-exception principle: arteries can carry deoxygenated and veins oxygenated blood, since direction — not oxygen — defines vessel type.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular Structure, Function & Hemodynamics",
+        "Arteries vs. Veins, the Pulmonary Exception, and Venous Valves"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch02-q133",
+      "stem": "During walking, calf muscle contraction squeezes deep veins and propels blood upward. Which coordinated action maintains one-way flow?",
+      "image": null,
+      "options": [
+        "Arterial valves open while venous valves close",
+        "Venous valves open for forward flow and close to prevent reversal",
+        "Muscle compression forces blood backward through open valves",
+        "The muscle pump is inactive during walking"
+      ],
+      "answer": 1,
+      "explanation": "The muscle pump works only because valves open in the direction of flow and close instantly against backflow; without them, squeezing would merely displace blood up and down.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular Structure, Function & Hemodynamics",
+        "Arteries vs. Veins, the Pulmonary Exception, and Venous Valves"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch02-q134",
+      "stem": "Which statement about arteries and veins is FALSE?",
+      "image": null,
+      "options": [
+        "Arteries have thicker walls than veins",
+        "Arteries operate at higher pressure than veins",
+        "Arteries always carry blood away from the heart",
+        "Veins always carry deoxygenated blood"
+      ],
+      "answer": 3,
+      "explanation": "The pulmonary veins carry oxygenated blood; \"veins always carry deoxygenated blood\" is only a usual rule with exceptions, unlike the absolute direction rules.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular Structure, Function & Hemodynamics",
+        "Arteries vs. Veins, the Pulmonary Exception, and Venous Valves"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch02-q135",
+      "stem": "Which sonographic finding supports venous rather than arterial identification in a leg vessel?",
+      "image": null,
+      "options": [
+        "Non-compressibility with probe pressure",
+        "Thick, three-layered wall with high-resistance pulsatile flow",
+        "Rounded, persistent lumen at all probe pressures",
+        "Easy compressibility, irregular collapsed shape, and valve leaflets"
+      ],
+      "answer": 3,
+      "explanation": "Veins are compressible, irregular, and valve-bearing; arteries remain rounded and pulsatile — standard duplex criteria for differentiating limb vessels.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular Structure, Function & Hemodynamics",
+        "Arteries vs. Veins, the Pulmonary Exception, and Venous Valves"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch02-q136",
+      "stem": "Arterial walls are thick primarily because they must:",
+      "image": null,
+      "options": [
+        "Withstand high pressure and pulsatile ejection from the heart",
+        "House venous valves",
+        "Permit easy compression during scanning",
+        "Store most of the blood volume"
+      ],
+      "answer": 0,
+      "explanation": "High systemic pressures (~120 mmHg systolic) and pulsatile flow demand thick, elastic-muscular arterial walls.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular Structure, Function & Hemodynamics",
+        "Arteries vs. Veins, the Pulmonary Exception, and Venous Valves"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch02-q137",
+      "stem": "Arteries do not require valves because:",
+      "image": null,
+      "options": [
+        "They are too small to accommodate leaflets",
+        "High driving pressure maintains continuous forward flow",
+        "Their endothelium actively pumps blood backward",
+        "Gravity assists arterial flow everywhere"
+      ],
+      "answer": 1,
+      "explanation": "The large, sustained pressure gradient from the heart keeps arterial flow unidirectional; only low-pressure veins fighting gravity need valves.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular Structure, Function & Hemodynamics",
+        "Arteries vs. Veins, the Pulmonary Exception, and Venous Valves"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch02-q138",
+      "stem": "Deoxygenated blood arriving at the lungs travels in which sequence of vessels?",
+      "image": null,
+      "options": [
+        "Pulmonary veins → LA → LV → aorta",
+        "Vena cava → RA → LV → pulmonary arteries",
+        "Aorta → systemic arteries → veins",
+        "RV → pulmonary arteries → pulmonary capillaries"
+      ],
+      "answer": 3,
+      "explanation": "The RV ejects deoxygenated blood into the pulmonary arteries, which branch down to the pulmonary capillary beds where gas exchange occurs.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular Structure, Function & Hemodynamics",
+        "Arteries vs. Veins, the Pulmonary Exception, and Venous Valves"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch02-q139",
+      "stem": "The hepatic portal vein is classified as a vein even though it connects two capillary beds (intestines → liver) because:",
+      "image": null,
+      "options": [
+        "It carries blood toward the heart (through the liver to the hepatic veins), satisfying the definition of a vein",
+        "It carries only oxygenated blood",
+        "It contains multiple valves",
+        "It is the only vessel draining the liver"
+      ],
+      "answer": 0,
+      "explanation": "Veins are defined by carrying blood toward the heart; portal venous blood ultimately reaches the hepatic veins and IVC, so the direction rule — not oxygen content — governs classification.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular Structure, Function & Hemodynamics",
+        "Arteries vs. Veins, the Pulmonary Exception, and Venous Valves"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch02-q140",
+      "stem": "The pathophysiology of varicose veins involves:",
+      "image": null,
+      "options": [
+        "Hypertrophy of the arterial media",
+        "Rupture of venous valves from high arterial pressure",
+        "Valve incompetence with chronic reflux, venous hypertension, and gradual vessel dilation and tortuosity",
+        "Excessive sympathetic vasoconstriction of veins"
+      ],
+      "answer": 2,
+      "explanation": "When valves fail, blood refluxes downward, raising distal venous pressure; sustained pressure dilates and elongates the superficial veins, producing the classic varicose appearance.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular Structure, Function & Hemodynamics",
+        "Blood Composition and Function (Part 1)"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch02-q141",
+      "stem": "The most abundant formed element of blood is:",
+      "image": null,
+      "options": [
+        "Leukocytes",
+        "Erythrocytes",
+        "Platelets",
+        "Plasma cells"
+      ],
+      "answer": 1,
+      "explanation": "Erythrocytes (red blood cells) vastly outnumber all other formed elements, reflecting their specialized role in gas transport.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular Structure, Function & Hemodynamics",
+        "Blood Composition and Function (Part 1)"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch02-q142",
+      "stem": "The primary function of erythrocytes is:",
+      "image": null,
+      "options": [
+        "Transport of oxygen (and contribution to CO₂ transport) via hemoglobin",
+        "Production of antibodies",
+        "Formation of the platelet plug",
+        "Maintenance of plasma oncotic pressure"
+      ],
+      "answer": 0,
+      "explanation": "RBCs contain hemoglobin, which binds oxygen in the lungs and releases it in tissues; they also assist CO₂ carriage. Antibodies come from lymphocytes and oncotic pressure from albumin.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular Structure, Function & Hemodynamics",
+        "Blood Composition and Function (Part 1)"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch02-q143",
+      "stem": "Which leukocyte is typically the first responder to an acute bacterial infection?",
+      "image": null,
+      "options": [
+        "Neutrophil",
+        "Basophil",
+        "B lymphocyte",
+        "Eosinophil"
+      ],
+      "answer": 0,
+      "explanation": "Neutrophils are the predominant circulating granulocyte and the first cells recruited to bacterial sites; lymphocytes handle adaptive responses and eosinophils allergies/parasites.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular Structure, Function & Hemodynamics",
+        "Blood Composition and Function (Part 1)"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch02-q144",
+      "stem": "When a vessel wall is injured, which blood component is first to respond by adhering and aggregating at the site?",
+      "image": null,
+      "options": [
+        "Erythrocytes",
+        "Lymphocytes",
+        "Platelets",
+        "Plasma proteins alone"
+      ],
+      "answer": 2,
+      "explanation": "Platelets adhere to exposed subendothelium, aggregate, and form the initial hemostatic plug, stopping bleeding as part of blood's protective function.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular Structure, Function & Hemodynamics",
+        "Blood Composition and Function (Part 1)"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch02-q145",
+      "stem": "Plasma, the liquid portion of blood, is best described as:",
+      "image": null,
+      "options": [
+        "A cell-rich suspension with no dissolved proteins",
+        "A mostly water-based fluid containing proteins, electrolytes, nutrients, hormones, and wastes",
+        "Pure water",
+        "The formed elements minus the platelets"
+      ],
+      "answer": 1,
+      "explanation": "Plasma is the fluid matrix (over 90% water) carrying dissolved proteins, nutrients, hormones, wastes, and electrolytes; \"formed elements\" refers to the cells.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular Structure, Function & Hemodynamics",
+        "Blood Composition and Function (Part 1)"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch02-q146",
+      "stem": "The most abundant plasma protein, responsible for maintaining plasma oncotic pressure, is:",
+      "image": null,
+      "options": [
+        "Gamma globulin",
+        "Fibrinogen",
+        "Hemoglobin",
+        "Albumin"
+      ],
+      "answer": 3,
+      "explanation": "Albumin is the most plentiful plasma protein and holds water within the vasculature by oncotic (colloid osmotic) pressure; hemoglobin is inside RBCs, not plasma.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular Structure, Function & Hemodynamics",
+        "Blood Composition and Function (Part 1)"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch02-q147",
+      "stem": "Which leukocyte type gives rise to antibody-producing plasma cells?",
+      "image": null,
+      "options": [
+        "Lymphocytes (B cells)",
+        "Neutrophils",
+        "Erythrocytes",
+        "Basophils"
+      ],
+      "answer": 0,
+      "explanation": "B lymphocytes differentiate into plasma cells that secrete antibodies, the humoral arm of the blood's protective function.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular Structure, Function & Hemodynamics",
+        "Blood Composition and Function (Part 1)"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch02-q148",
+      "stem": "Coagulation factors such as fibrinogen circulate in the blood as part of:",
+      "image": null,
+      "options": [
+        "The erythrocyte membrane",
+        "Platelet granules only",
+        "Plasma proteins",
+        "Leukocyte lysosomes"
+      ],
+      "answer": 2,
+      "explanation": "Clotting proteins are synthesized (mainly in the liver) and circulate dissolved in plasma, ready to be activated at injury sites.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular Structure, Function & Hemodynamics",
+        "Blood Composition and Function (Part 1)"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch02-q149",
+      "stem": "A patient with severe anemia presents with fatigue, pallor, and exertional dyspnea. The underlying mechanism is:",
+      "image": null,
+      "options": [
+        "Excess plasma volume diluting nutrients",
+        "Reduced hemoglobin mass, decreasing oxygen-carrying capacity of the blood",
+        "Overactive platelet plug formation",
+        "Elevated antibody levels"
+      ],
+      "answer": 1,
+      "explanation": "Fewer erythrocytes/hemoglobin means less oxygen delivered per unit time, so tissues hypoperfused of oxygen cause the classic anemic symptoms.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular Structure, Function & Hemodynamics",
+        "Blood Composition and Function (Part 1)"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch02-q150",
+      "stem": "Leukocytes collectively function to:",
+      "image": null,
+      "options": [
+        "Defend the body against infection and foreign material",
+        "Carry oxygen to tissues",
+        "Form clots at injury sites",
+        "Generate plasma oncotic pressure"
+      ],
+      "answer": 0,
+      "explanation": "White blood cells and their antibodies fight infection — the immune arm of the protective function described in the lecture.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular Structure, Function & Hemodynamics",
+        "Blood Composition and Function (Part 1)"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch02-q151",
+      "stem": "A patient with long-standing hypoxia from lung disease develops an elevated hematocrit. The increased red cell concentration will most directly:",
+      "image": null,
+      "options": [
+        "Decrease blood viscosity",
+        "Increase plasma oncotic pressure",
+        "Increase blood viscosity, increasing resistance to flow",
+        "Reduce clotting ability"
+      ],
+      "answer": 2,
+      "explanation": "More erythrocytes per unit volume raises viscosity; since resistance rises with viscosity (Poiseuille), flow becomes harder to drive — a compensatory change with hemodynamic costs.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular Structure, Function & Hemodynamics",
+        "Blood Composition and Function (Part 1)"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch02-q152",
+      "stem": "Which of the following is NOT a formed element of blood?",
+      "image": null,
+      "options": [
+        "Erythrocytes",
+        "Leukocytes",
+        "Platelets",
+        "Plasma"
+      ],
+      "answer": 3,
+      "explanation": "Plasma is the liquid matrix in which the formed elements (erythrocytes, leukocytes, platelets) are suspended.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular Structure, Function & Hemodynamics",
+        "Blood Composition and Function (Part 1)"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch02-q153",
+      "stem": "A patient with a parasitic infection and allergic symptoms shows an elevated count of which leukocyte?",
+      "image": null,
+      "options": [
+        "Eosinophils",
+        "Neutrophils",
+        "Monocytes",
+        "Erythrocytes"
+      ],
+      "answer": 0,
+      "explanation": "Eosinophils characteristically respond to parasitic infections and allergic reactions; neutrophils handle bacteria and monocytes become macrophages.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular Structure, Function & Hemodynamics",
+        "Blood Composition and Function (Part 1)"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch02-q154",
+      "stem": "The sequence of hemostasis at a vessel injury begins with:",
+      "image": null,
+      "options": [
+        "Fibrinolysis followed by platelet dissolution",
+        "Platelet adhesion and aggregation forming a plug, followed by the coagulation cascade",
+        "Antibody binding to the wound",
+        "Erythrocyte swelling to seal the defect"
+      ],
+      "answer": 1,
+      "explanation": "Platelets adhere to damaged endothelium and aggregate into a plug; coagulation factors then reinforce the clot with fibrin — the protective response to bleeding.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular Structure, Function & Hemodynamics",
+        "Blood Composition and Function (Part 1)"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch02-q155",
+      "stem": "Hematocrit is defined as:",
+      "image": null,
+      "options": [
+        "The percentage of blood volume occupied by plasma",
+        "Total number of leukocytes per microliter",
+        "The percentage of blood volume occupied by erythrocytes (normally ~45%)",
+        "The concentration of hemoglobin per liter of plasma"
+      ],
+      "answer": 2,
+      "explanation": "Hematocrit measures the packed red cell fraction of blood volume; the remainder is mostly plasma, which contains the leukocytes and platelets.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular Structure, Function & Hemodynamics",
+        "Blood Composition and Function (Part 1)"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch02-q156",
+      "stem": "Monocytes that migrate into tissues differentiate into:",
+      "image": null,
+      "options": [
+        "Macrophages",
+        "Platelets",
+        "Erythrocytes",
+        "Neutrophils"
+      ],
+      "answer": 0,
+      "explanation": "Monocytes are circulating precursors of tissue macrophages, the long-lived phagocytic defenders of the immune response.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular Structure, Function & Hemodynamics",
+        "Blood Composition and Function (Part 1)"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch02-q157",
+      "stem": "Which of the following is NOT a plasma protein?",
+      "image": null,
+      "options": [
+        "Albumin",
+        "Fibrinogen",
+        "Immunoglobulins",
+        "Hemoglobin"
+      ],
+      "answer": 3,
+      "explanation": "Hemoglobin is enclosed within erythrocytes and is not a dissolved plasma protein; albumin, fibrinogen, and immunoglobulins all circulate in plasma.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular Structure, Function & Hemodynamics",
+        "Blood Composition and Function (Part 1)"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch02-q158",
+      "stem": "Which leukocytes contain granules of histamine and heparin that promote inflammation?",
+      "image": null,
+      "options": [
+        "Neutrophils",
+        "Basophils",
+        "B lymphocytes",
+        "Monocytes"
+      ],
+      "answer": 1,
+      "explanation": "Basophils release histamine (vasodilation, increased permeability) and heparin (anticoagulation), participating in inflammatory and allergic responses.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular Structure, Function & Hemodynamics",
+        "Blood Composition and Function (Part 1)"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch02-q159",
+      "stem": "Erythrocytes are shaped as biconcave discs. This shape primarily serves to:",
+      "image": null,
+      "options": [
+        "Enable them to produce antibodies",
+        "Increase their attraction to platelets",
+        "Maximize surface area for gas exchange and allow flexibility through narrow capillaries",
+        "Anchor them to the vessel walls"
+      ],
+      "answer": 2,
+      "explanation": "The biconcave form increases the membrane surface-to-volume ratio for O₂/CO₂ diffusion and the deformability needed to traverse capillaries narrower than the cell itself.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular Structure, Function & Hemodynamics",
+        "Blood Composition and Function (Part 1)"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch02-q160",
+      "stem": "Serum differs from plasma in that serum:",
+      "image": null,
+      "options": [
+        "Contains intact erythrocytes",
+        "Has a higher hematocrit",
+        "Contains extra fibrinogen",
+        "Is plasma from which clotting factors (e.g., fibrinogen) have been consumed during clotting"
+      ],
+      "answer": 3,
+      "explanation": "When blood clots, platelets and fibrin remove the clotting proteins; the remaining cell-free fluid (serum) therefore lacks fibrinogen and other consumed factors.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular Structure, Function & Hemodynamics",
+        "Vascular Control Mechanisms — Autonomic, Metabolic, and Endothelial"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch02-q161",
+      "stem": "Sympathetic nervous system stimulation of vascular smooth muscle produces:",
+      "image": null,
+      "options": [
+        "Vasoconstriction",
+        "Vasodilation",
+        "Valve closure",
+        "Increased capillary permeability only"
+      ],
+      "answer": 0,
+      "explanation": "Sympathetic stimulation contracts vascular smooth muscle (via α-adrenergic receptors), narrowing vessels, raising resistance, and supporting blood pressure.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular Structure, Function & Hemodynamics",
+        "Vascular Control Mechanisms — Autonomic, Metabolic, and Endothelial"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch02-q162",
+      "stem": "Local accumulation of low oxygen and high carbon dioxide in active tissue causes:",
+      "image": null,
+      "options": [
+        "Sympathetically mediated vasoconstriction",
+        "Arteriolar smooth muscle hypertrophy",
+        "Local (metabolic) vasodilation that increases blood flow to the tissue",
+        "Venous valve closure"
+      ],
+      "answer": 2,
+      "explanation": "Metabolic signals such as low O₂ and high CO₂ relax local arterioles, matching perfusion to metabolic demand — the local control mechanism named in the lecture.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular Structure, Function & Hemodynamics",
+        "Vascular Control Mechanisms — Autonomic, Metabolic, and Endothelial"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch02-q163",
+      "stem": "Nitric oxide released from endothelial cells acts on vascular smooth muscle to cause:",
+      "image": null,
+      "options": [
+        "Vasoconstriction",
+        "Vasodilation",
+        "Platelet aggregation",
+        "Media hypertrophy"
+      ],
+      "answer": 1,
+      "explanation": "Nitric oxide (formerly \"endothelium-derived relaxing factor\") is a vasodilator that also helps inhibit platelet adhesion, preserving vessel patency.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular Structure, Function & Hemodynamics",
+        "Vascular Control Mechanisms — Autonomic, Metabolic, and Endothelial"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch02-q164",
+      "stem": "Endothelin-1 is best described as a(n):",
+      "image": null,
+      "options": [
+        "Endothelial vasodilator",
+        "Platelet inhibitor",
+        "Metabolic waste product",
+        "Potent endothelium-derived vasoconstrictor"
+      ],
+      "answer": 3,
+      "explanation": "Endothelin-1 is a powerful vasoconstrictor peptide released by endothelium, opposing the vasodilators NO and prostacyclin in vascular tone regulation.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular Structure, Function & Hemodynamics",
+        "Vascular Control Mechanisms — Autonomic, Metabolic, and Endothelial"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch02-q165",
+      "stem": "Prostacyclin (PGI₂), produced by the endothelium, functions primarily as a(n):",
+      "image": null,
+      "options": [
+        "Vasoconstrictor and pro-thrombotic agent",
+        "Vasodilator and inhibitor of platelet aggregation",
+        "Chemotactic factor for neutrophils",
+        "Hemoglobin-binding protein"
+      ],
+      "answer": 1,
+      "explanation": "PGI₂ dilates vessels and prevents platelets from sticking to healthy endothelium, working with NO to keep the intimal surface nonthrombogenic.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular Structure, Function & Hemodynamics",
+        "Vascular Control Mechanisms — Autonomic, Metabolic, and Endothelial"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch02-q166",
+      "stem": "The endothelium continuously secretes substances that regulate tone. Which pairing of substance and effect is CORRECT?",
+      "image": null,
+      "options": [
+        "Endothelin-1 — vasodilation",
+        "Nitric oxide — vasoconstriction",
+        "Nitric oxide and prostacyclin — vasodilation; endothelin-1 — vasoconstriction",
+        "Prostacyclin — vasoconstriction"
+      ],
+      "answer": 2,
+      "explanation": "The lecture lists nitric oxide and PGI₂ as vasodilators and endothelin-1 as the vasoconstrictor; the distractors reverse these roles.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular Structure, Function & Hemodynamics",
+        "Vascular Control Mechanisms — Autonomic, Metabolic, and Endothelial"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch02-q167",
+      "stem": "During intense exercise, blood flow through a working skeletal muscle increases many-fold even without a change in systemic pressure. The dominant mechanism is:",
+      "image": null,
+      "options": [
+        "Local metabolic vasodilation driven by low O₂, high CO₂, and metabolites",
+        "Sympathetic vasoconstriction of the muscle bed",
+        "Closure of venous valves",
+        "Increased endothelin-1 release in the muscle"
+      ],
+      "answer": 0,
+      "explanation": "Active tissue autoregulates its perfusion: metabolic vasodilators overwhelm baseline tone and open arterioles, dramatically lowering local resistance.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular Structure, Function & Hemodynamics",
+        "Vascular Control Mechanisms — Autonomic, Metabolic, and Endothelial"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch02-q168",
+      "stem": "Which change would most likely DECREASE systemic vascular resistance?",
+      "image": null,
+      "options": [
+        "Increased sympathetic outflow",
+        "Increased circulating endothelin-1",
+        "Increased α-adrenergic receptor activation",
+        "Increased endothelial nitric oxide release"
+      ],
+      "answer": 3,
+      "explanation": "NO relaxes vascular smooth muscle, lowering resistance; sympathetic activity, α-receptor stimulation, and endothelin-1 all increase resistance.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular Structure, Function & Hemodynamics",
+        "Vascular Control Mechanisms — Autonomic, Metabolic, and Endothelial"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch02-q169",
+      "stem": "The receptor subtype principally mediating sympathetically induced vasoconstriction in systemic arterioles is:",
+      "image": null,
+      "options": [
+        "β₂-adrenergic",
+        "Muscarinic",
+        "α₁-adrenergic",
+        "Nicotinic"
+      ],
+      "answer": 2,
+      "explanation": "α₁ receptors on vascular smooth muscle mediate contraction; β₂ receptors (and muscarinic receptors in some beds) promote dilation.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular Structure, Function & Hemodynamics",
+        "Vascular Control Mechanisms — Autonomic, Metabolic, and Endothelial"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch02-q170",
+      "stem": "During exercise, why does blood pressure remain stable even though cardiac output rises several-fold?",
+      "image": null,
+      "options": [
+        "Venous valves clamp down on return flow",
+        "Metabolic vasodilation in muscle is offset by sympathetic vasoconstriction in less-active beds, keeping total resistance appropriate",
+        "Heart rate has no effect on output",
+        "Arterioles in all beds dilate maximally"
+      ],
+      "answer": 1,
+      "explanation": "Selective sympathetic vasoconstriction of non-working beds (splanchnic, renal) balances the huge drop in muscle-bed resistance, so total resistance and pressure are maintained while flow is redistributed.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular Structure, Function & Hemodynamics",
+        "Vascular Control Mechanisms — Autonomic, Metabolic, and Endothelial"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch02-q171",
+      "stem": "Elevated circulating endothelin-1 is clinically associated with which condition relevant to the echocardiography laboratory?",
+      "image": null,
+      "options": [
+        "Systemic hypotension from sepsis",
+        "Hyperdynamic septic vasodilation",
+        "Coronary vasospasm from prostacyclin excess",
+        "Pulmonary arterial hypertension, where endothelin-mediated vasoconstriction raises pulmonary vascular resistance"
+      ],
+      "answer": 3,
+      "explanation": "Endothelin-1 is a potent vasoconstrictor implicated in pulmonary arterial hypertension; echo supports the diagnosis by estimating elevated RV systolic pressure from TR jets.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular Structure, Function & Hemodynamics",
+        "Vascular Control Mechanisms — Autonomic, Metabolic, and Endothelial"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch02-q172",
+      "stem": "A frightened patient in a cold examination room develops cool, pale hands. The immediate mechanism is:",
+      "image": null,
+      "options": [
+        "Sympathetically mediated cutaneous vasoconstriction",
+        "Local metabolic vasodilation",
+        "Release of nitric oxide from the endothelium",
+        "Prostacyclin-mediated vasodilation"
+      ],
+      "answer": 0,
+      "explanation": "Cold and stress both activate sympathetic output; α-mediated constriction of skin vessels conserves core temperature and explains pallor.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular Structure, Function & Hemodynamics",
+        "Vascular Control Mechanisms — Autonomic, Metabolic, and Endothelial"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch02-q173",
+      "stem": "Which endothelial product both dilates vessels and opposes platelet aggregation at the intimal surface?",
+      "image": null,
+      "options": [
+        "Endothelin-1",
+        "Angiotensin II",
+        "Prostacyclin (PGI₂)",
+        "Norepinephrine"
+      ],
+      "answer": 2,
+      "explanation": "PGI₂ is the endothelial prostaglandin that vasodilates and is anti-aggregatory; endothelin-1 and angiotensin II constrict, and norepinephrine is a sympathetic transmitter.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular Structure, Function & Hemodynamics",
+        "Vascular Control Mechanisms — Autonomic, Metabolic, and Endothelial"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch02-q174",
+      "stem": "Local metabolic control of blood flow is physiologically important because it:",
+      "image": null,
+      "options": [
+        "Ensures identical flow to every organ at all times",
+        "Matches tissue perfusion to each tissue's changing metabolic needs",
+        "Replaces the need for cardiac output regulation",
+        "Raises arterial pressure during rest"
+      ],
+      "answer": 1,
+      "explanation": "Metabolic vasodilation couples blood supply to demand in each parallel organ bed, which is the functional payoff of the in-parallel circulation.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular Structure, Function & Hemodynamics",
+        "Vascular Control Mechanisms — Autonomic, Metabolic, and Endothelial"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch02-q175",
+      "stem": "According to Poiseuille's law, if arteriolar radius doubles while all other variables remain constant, flow through that vessel will:",
+      "image": null,
+      "options": [
+        "Increase 16-fold (radius⁴ effect)",
+        "Double",
+        "Decrease by half",
+        "Remain unchanged"
+      ],
+      "answer": 0,
+      "explanation": "Flow varies with the fourth power of radius (Q ∝ r⁴), so doubling radius multiplies flow by 2⁴ = 16 — the reason tiny caliber changes are such powerful flow controls.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular Structure, Function & Hemodynamics",
+        "Vascular Control Mechanisms — Autonomic, Metabolic, and Endothelial"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch02-q176",
+      "stem": "Which substance would INCREASE vascular resistance when released by the endothelium?",
+      "image": null,
+      "options": [
+        "Nitric oxide",
+        "Prostacyclin (PGI₂)",
+        "Adenosine",
+        "Endothelin-1"
+      ],
+      "answer": 3,
+      "explanation": "Endothelin-1 constricts vessels and raises resistance; NO, PGI₂, and adenosine are all vasodilators that lower resistance.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular Structure, Function & Hemodynamics",
+        "Vascular Control Mechanisms — Autonomic, Metabolic, and Endothelial"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch02-q177",
+      "stem": "β₂-adrenergic stimulation of skeletal muscle vasculature produces:",
+      "image": null,
+      "options": [
+        "Vasoconstriction",
+        "Vasodilation, preparing muscle for increased flow during stress or exercise",
+        "Capillary valve closure",
+        "Increased blood viscosity"
+      ],
+      "answer": 1,
+      "explanation": "β₂ receptors mediate relaxation of vascular smooth muscle in skeletal muscle beds, supporting the \"fight-or-flight\" redistribution of blood toward muscle.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular Structure, Function & Hemodynamics",
+        "Vascular Control Mechanisms — Autonomic, Metabolic, and Endothelial"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch02-q178",
+      "stem": "A septic patient in the ICU has warm extremities, wide pulse pressure, and a mean arterial pressure of 55 mmHg. Echo shows a hyperdynamic LV. The hemodynamic problem is:",
+      "image": null,
+      "options": [
+        "Excessive sympathetic vasoconstriction",
+        "Cardiac output too low to perfuse",
+        "Profound peripheral vasodilation (low systemic vascular resistance)",
+        "Elevated venous valve resistance"
+      ],
+      "answer": 2,
+      "explanation": "Septic shock is characterized by low SVR from vasodilation; cardiac output is high, so the pressure problem lies in the vasculature, not the pump.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular Structure, Function & Hemodynamics",
+        "Vascular Control Mechanisms — Autonomic, Metabolic, and Endothelial"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch02-q179",
+      "stem": "All of the following are vasodilators EXCEPT:",
+      "image": null,
+      "options": [
+        "Endothelin-1",
+        "Nitric oxide",
+        "Prostacyclin (PGI₂)",
+        "Low tissue oxygen (hypoxia)"
+      ],
+      "answer": 0,
+      "explanation": "Endothelin-1 is the vasoconstrictor among the listed agents; NO, PGI₂, and hypoxia-driven metabolic signals all dilate vessels.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular Structure, Function & Hemodynamics",
+        "Vascular Control Mechanisms — Autonomic, Metabolic, and Endothelial"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch02-q180",
+      "stem": "After release of a blood pressure cuff following 5 minutes of arm occlusion, distal blood flow transiently exceeds baseline. This \"reactive hyperemia\" is driven by:",
+      "image": null,
+      "options": [
+        "Sympathetic vasoconstriction",
+        "Accumulation of local metabolic vasodilators during the ischemic period",
+        "Enhanced endothelin-1 secretion",
+        "Venous valve recruitment"
+      ],
+      "answer": 1,
+      "explanation": "Occlusion allows metabolites (CO₂, adenosine, low O₂) to build; on release, these dilate arterioles and produce the overshoot in flow — a classic demonstration of metabolic flow control.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular Structure, Function & Hemodynamics",
+        "Blood Pressure Regulation — Neural, Hormonal, Renal, and Exercise Responses"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch02-q181",
+      "stem": "The arterial baroreceptors that sense blood pressure changes are located primarily in the:",
+      "image": null,
+      "options": [
+        "Jugular veins and coronary sinus",
+        "Left ventricle and pulmonary artery",
+        "Carotid sinuses and aortic arch",
+        "Renal afferent arterioles"
+      ],
+      "answer": 2,
+      "explanation": "Baroreceptors in the carotid sinus (via CN IX) and aortic arch (via CN X) detect stretch from pressure changes and mediate rapid reflex adjustments; they link neural and hormonal responses.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular Structure, Function & Hemodynamics",
+        "Blood Pressure Regulation — Neural, Hormonal, Renal, and Exercise Responses"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch02-q182",
+      "stem": "Neural control of blood pressure is characterized as:",
+      "image": null,
+      "options": [
+        "Slow and long-term",
+        "Rapid, short-term regulation acting through heart rate, contractility, and vasoconstriction",
+        "Solely dependent on aldosterone",
+        "Independent of the cardiovascular system"
+      ],
+      "answer": 1,
+      "explanation": "The sympathetic/baroreceptor system responds within seconds by adjusting HR, contractility, and vascular tone; renal and hormonal mechanisms provide the slower, long-term control.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular Structure, Function & Hemodynamics",
+        "Blood Pressure Regulation — Neural, Hormonal, Renal, and Exercise Responses"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch02-q183",
+      "stem": "Renin is released from the kidney's juxtaglomerular cells in response to:",
+      "image": null,
+      "options": [
+        "A drop in blood pressure/renal perfusion",
+        "Elevated atrial pressure",
+        "Increased serum sodium and water excess",
+        "Baroreceptor stimulation of the vagus nerve"
+      ],
+      "answer": 0,
+      "explanation": "Decreased perfusion pressure triggers renin release, starting the RAAS cascade: renin → angiotensin II → vasoconstriction plus aldosterone.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular Structure, Function & Hemodynamics",
+        "Blood Pressure Regulation — Neural, Hormonal, Renal, and Exercise Responses"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch02-q184",
+      "stem": "Angiotensin II raises blood pressure mainly by:",
+      "image": null,
+      "options": [
+        "Inhibiting aldosterone and promoting natriuresis",
+        "Dilating systemic arterioles",
+        "Suppressing ADH release",
+        "Causing widespread vasoconstriction and stimulating aldosterone secretion"
+      ],
+      "answer": 3,
+      "explanation": "Angiotensin II is a potent vasoconstrictor and also drives aldosterone release (sodium/water retention), attacking low blood pressure through both resistance and volume.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular Structure, Function & Hemodynamics",
+        "Blood Pressure Regulation — Neural, Hormonal, Renal, and Exercise Responses"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch02-q185",
+      "stem": "Aldosterone, released from the adrenal cortex, raises blood pressure by:",
+      "image": null,
+      "options": [
+        "Promoting sodium and water excretion",
+        "Increasing Na⁺ (and water) retention, expanding blood volume",
+        "Blocking angiotensin II receptors",
+        "Dilating veins"
+      ],
+      "answer": 1,
+      "explanation": "Aldosterone acts on the kidney to retain sodium and water, increasing blood volume and therefore preload and arterial pressure.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular Structure, Function & Hemodynamics",
+        "Blood Pressure Regulation — Neural, Hormonal, Renal, and Exercise Responses"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch02-q186",
+      "stem": "Antidiuretic hormone (ADH/vasopressin) contributes to blood pressure maintenance primarily by:",
+      "image": null,
+      "options": [
+        "Increasing sodium excretion",
+        "Converting angiotensin I to angiotensin II",
+        "Promoting water reabsorption by the kidneys, raising blood volume",
+        "Vasodilating resistance vessels"
+      ],
+      "answer": 2,
+      "explanation": "ADH released from the posterior pituitary increases renal water retention; with aldosterone, it expands volume in support of long-term blood pressure.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular Structure, Function & Hemodynamics",
+        "Blood Pressure Regulation — Neural, Hormonal, Renal, and Exercise Responses"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch02-q187",
+      "stem": "Which sequence correctly orders the RAAS pathway?",
+      "image": null,
+      "options": [
+        "Angiotensin II → renin → aldosterone → angiotensin I",
+        "Aldosterone → angiotensinogen → renin → angiotensin II",
+        "Renin → aldosterone → angiotensin I → angiotensin II",
+        "↓ BP → renin → angiotensin I → angiotensin II → vasoconstriction + aldosterone"
+      ],
+      "answer": 3,
+      "explanation": "Low blood pressure triggers renin, which generates angiotensin I (converted to angiotensin II), producing vasoconstriction and aldosterone release — the cascade as summarized in the lecture.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular Structure, Function & Hemodynamics",
+        "Blood Pressure Regulation — Neural, Hormonal, Renal, and Exercise Responses"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch02-q188",
+      "stem": "A patient suffers an acute 800 mL hemorrhage. Which set of responses is expected within seconds to minutes?",
+      "image": null,
+      "options": [
+        "Increased sympathetic activity: tachycardia, increased contractility, and vasoconstriction",
+        "Bradycardia with vasodilation",
+        "Immediate suppression of renin release",
+        "Decreased ADH secretion"
+      ],
+      "answer": 0,
+      "explanation": "Falling pressure unloads baroreceptors, removing vagal braking and increasing sympathetic output — rapid compensation of heart rate and vascular tone while RAAS and ADH follow more slowly.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular Structure, Function & Hemodynamics",
+        "Blood Pressure Regulation — Neural, Hormonal, Renal, and Exercise Responses"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch02-q189",
+      "stem": "At the onset of dynamic exercise, which cardiovascular adjustments dominate?",
+      "image": null,
+      "options": [
+        "Parasympathetic-driven bradycardia with generalized vasoconstriction of muscle",
+        "Sympathetic increases in heart rate and contractility, with metabolic vasodilation in working muscle",
+        "Decreased cardiac output",
+        "Reduced venous return"
+      ],
+      "answer": 1,
+      "explanation": "Exercise raises HR and contractility sympathetically while working muscle vasodilates metabolically; cardiac output and venous return both increase to meet demand.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular Structure, Function & Hemodynamics",
+        "Blood Pressure Regulation — Neural, Hormonal, Renal, and Exercise Responses"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch02-q190",
+      "stem": "A patient stands quickly, becomes briefly light-headed, then recovers. The compensating reflex sequence is:",
+      "image": null,
+      "options": [
+        "Increased baroreceptor firing → vasodilation and bradycardia",
+        "Decreased venous valve activity",
+        "Decreased baroreceptor firing → increased sympathetic outflow → tachycardia and vasoconstriction",
+        "Increased ADH release within 2 seconds as the primary rescue"
+      ],
+      "answer": 2,
+      "explanation": "Standing pools blood in the legs, dropping pressure; reduced baroreceptor firing disinhibits sympathetic tone, rapidly restoring HR and resistance. ADH/RAAS are slower, long-term mechanisms.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular Structure, Function & Hemodynamics",
+        "Blood Pressure Regulation — Neural, Hormonal, Renal, and Exercise Responses"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch02-q191",
+      "stem": "Which mechanism provides the SLOW, long-term regulation of blood pressure?",
+      "image": null,
+      "options": [
+        "Renal and hormonal control (RAAS, aldosterone, ADH) of blood volume",
+        "Baroreceptor reflex",
+        "Chemoreceptor reflex",
+        "Vagal-mediated bradycardia"
+      ],
+      "answer": 0,
+      "explanation": "Volume control through the kidneys and hormones adjusts blood pressure over hours to days; neural mechanisms handle only short-term fluctuations.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular Structure, Function & Hemodynamics",
+        "Blood Pressure Regulation — Neural, Hormonal, Renal, and Exercise Responses"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch02-q192",
+      "stem": "Angiotensin-converting enzyme (ACE) inhibitors lower blood pressure because they:",
+      "image": null,
+      "options": [
+        "Block aldosterone receptors directly",
+        "Increase ADH secretion",
+        "Stimulate renin release",
+        "Prevent conversion of angiotensin I to angiotensin II, reducing vasoconstriction and aldosterone secretion"
+      ],
+      "answer": 3,
+      "explanation": "Without angiotensin II, both vascular resistance and aldosterone-driven volume retention fall, lowering blood pressure — pharmacology built directly on RAAS physiology.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular Structure, Function & Hemodynamics",
+        "Blood Pressure Regulation — Neural, Hormonal, Renal, and Exercise Responses"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch02-q193",
+      "stem": "Aldosterone is secreted by which structure?",
+      "image": null,
+      "options": [
+        "Posterior pituitary",
+        "Juxtaglomerular cells",
+        "Adrenal cortex (zona glomerulosa)",
+        "Renal medullary interstitium"
+      ],
+      "answer": 2,
+      "explanation": "The adrenal cortex releases aldosterone in response to angiotensin II; renin comes from the kidney and ADH from the posterior pituitary — common distractor sources.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular Structure, Function & Hemodynamics",
+        "Blood Pressure Regulation — Neural, Hormonal, Renal, and Exercise Responses"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch02-q194",
+      "stem": "ADH release is stimulated primarily by:",
+      "image": null,
+      "options": [
+        "Low plasma osmolality",
+        "Increased plasma osmolality or decreased blood volume",
+        "Elevated blood pressure in the carotid sinus",
+        "Aldosterone excess"
+      ],
+      "answer": 1,
+      "explanation": "High osmolality and hypovolemia are the classic stimuli for ADH, which then retains water to restore volume and osmolality.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular Structure, Function & Hemodynamics",
+        "Blood Pressure Regulation — Neural, Hormonal, Renal, and Exercise Responses"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch02-q195",
+      "stem": "The overarching goal of blood pressure regulation, as summarized in the lecture, is to:",
+      "image": null,
+      "options": [
+        "Keep blood pressure constant regardless of tissue needs",
+        "Minimize blood volume at all times",
+        "Maximize vascular resistance permanently",
+        "Maintain organ perfusion by regulating blood volume and vascular resistance"
+      ],
+      "answer": 3,
+      "explanation": "Pressure is regulated in service of perfusion; the body adjusts volume (kidneys, hormones) and resistance (neural, endothelial, metabolic) to sustain tissue blood flow.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular Structure, Function & Hemodynamics",
+        "Blood Pressure Regulation — Neural, Hormonal, Renal, and Exercise Responses"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch02-q196",
+      "stem": "Baroreceptors are important because they:",
+      "image": null,
+      "options": [
+        "Link the neural and hormonal responses into a coordinated blood pressure defense",
+        "Replace renal function during volume depletion",
+        "Directly synthesize angiotensinogen",
+        "Secrete ADH from the aortic arch"
+      ],
+      "answer": 0,
+      "explanation": "Baroreceptor afferents trigger rapid neural adjustments and modulate hormonal release (e.g., ADH, RAAS), integrating both systems described in the lecture summary.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular Structure, Function & Hemodynamics",
+        "Blood Pressure Regulation — Neural, Hormonal, Renal, and Exercise Responses"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch02-q197",
+      "stem": "During acute psychological stress, epinephrine released from the adrenal medulla produces:",
+      "image": null,
+      "options": [
+        "Decreased heart rate and contractility",
+        "Isolated venous dilation without cardiac effects",
+        "Increased heart rate and contractility (raising cardiac output) plus redistribution of flow",
+        "Reduced blood pressure through vasodilation of all beds"
+      ],
+      "answer": 2,
+      "explanation": "Catecholamines augment cardiac performance and redirect blood to critical beds — the classic stress response supporting \"fight-or-flight\" perfusion demands.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular Structure, Function & Hemodynamics",
+        "Blood Pressure Regulation — Neural, Hormonal, Renal, and Exercise Responses"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch02-q198",
+      "stem": "An endurance athlete has a resting heart rate of 45 bpm yet maintains a normal cardiac output of ~5 L/min. The most likely explanation is:",
+      "image": null,
+      "options": [
+        "Excessive blood volume causing valve regurgitation",
+        "Elevated stroke volume (large, compliant LV) compensating for the low heart rate",
+        "Reduced BSA increasing cardiac index",
+        "Chronic baroreceptor failure"
+      ],
+      "answer": 1,
+      "explanation": "Since CO = SV × HR, a trained heart's large stroke volume (~110 mL) preserves output despite bradycardia; cardiac index would remain within the normal 2.5–4.0 L/min/m² range.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular Structure, Function & Hemodynamics",
+        "Blood Pressure Regulation — Neural, Hormonal, Renal, and Exercise Responses"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch02-q199",
+      "stem": "Over the long term (days to weeks), arterial blood pressure is determined predominantly by:",
+      "image": null,
+      "options": [
+        "Blood volume, controlled by renal sodium and water handling",
+        "Heart rate alone",
+        "Capillary pore size",
+        "Venous valve density"
+      ],
+      "answer": 0,
+      "explanation": "Renal-hormonal volume regulation is the slow, dominant long-term determinant of pressure, which is why kidney function and RAAS are central to chronic hypertension management.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular Structure, Function & Hemodynamics",
+        "Blood Pressure Regulation — Neural, Hormonal, Renal, and Exercise Responses"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch02-q200",
+      "stem": "A 58-year-old with vomiting and diarrhea for 3 days presents dizzy with a blood pressure of 88/54 mmHg and dry mucous membranes. Which hormonal response is most appropriate to restore pressure?",
+      "image": null,
+      "options": [
+        "Suppressed ADH and suppressed RAAS",
+        "Increased atrial natriuretic peptide",
+        "Increased renal sodium excretion",
+        "Activation of RAAS (renin → angiotensin II → aldosterone) plus increased ADH, retaining salt and water to rebuild volume"
+      ],
+      "answer": 3,
+      "explanation": "Hypovolemia from fluid loss activates both the RAAS (vasoconstriction + sodium/water retention) and ADH (water retention) — the coordinated slow- and intermediate-term responses to restore perfusion. --- **End of Question Bank — 200 questions.** Answers are distributed roughly evenly across A, B, C, and D. Content anchored in DCS 5002 Lecture 2 (Cardiovascular Structure, Function, and Hemodynamics), supplemented with closely related core cardiac physiology and hemodynamics. Reference: cvphysiology.com.",
+      "explanationImage": null,
+      "tags": [
+        "Cardiovascular Structure, Function & Hemodynamics",
+        "Blood Pressure Regulation — Neural, Hormonal, Renal, and Exercise Responses"
       ],
       "reference": ""
     }

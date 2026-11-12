@@ -6,23 +6,53 @@
   "chapters": [
     {
       "id": "ch01",
-      "title": "Cardiac Chambers & Walls",
+      "title": "Cardiovascular System Overview",
       "file": "ch01.json"
     },
     {
       "id": "ch02",
-      "title": "Coronary Circulation",
+      "title": "Cardiovascular Structure, Function & Hemodynamics",
       "file": "ch02.json"
     },
     {
       "id": "ch03",
-      "title": "Cardiac Cycle & Pressures",
+      "title": "Cross-Sectional Anatomy of the Thorax",
       "file": "ch03.json"
     },
     {
       "id": "ch04",
-      "title": "Hemodynamics & Cardiac Output",
+      "title": "Electrical Activity of the Heart",
       "file": "ch04.json"
+    },
+    {
+      "id": "ch05",
+      "title": "ECG Fundamentals",
+      "file": "ch05.json"
+    },
+    {
+      "id": "ch06",
+      "title": "Alterations in Cardiac Function",
+      "file": "ch06.json"
+    },
+    {
+      "id": "ch07",
+      "title": "Heart Failure & Circulatory Shock",
+      "file": "ch07.json"
+    },
+    {
+      "id": "ch08",
+      "title": "Cardiac Cellular Structure & Function",
+      "file": "ch08.json"
+    },
+    {
+      "id": "ch09",
+      "title": "Cardiac Function & Hemodynamics",
+      "file": "ch09.json"
+    },
+    {
+      "id": "ch10",
+      "title": "Neurohumoral Control & Autoregulation",
+      "file": "ch10.json"
     }
   ]
 }

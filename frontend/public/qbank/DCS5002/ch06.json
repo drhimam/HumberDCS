@@ -1,0 +1,3806 @@
+{
+  "chapterId": "ch06",
+  "title": "Alterations in Cardiac Function",
+  "questions": [
+    {
+      "id": "DCS5002-ch06-q001",
+      "stem": "The most common cause of diminished coronary blood flow in adults is:",
+      "image": null,
+      "options": [
+        "coronary artery embolism",
+        "atherosclerotic plaque buildup",
+        "congenital coronary atresia",
+        "coronary arteriovenous fistula"
+      ],
+      "answer": 1,
+      "explanation": "Atherosclerosis of the coronary arteries is by far the most common cause of impaired coronary perfusion in adults. Embolism, atresia, and fistula are rare.",
+      "explanationImage": null,
+      "tags": [
+        "Alterations in Cardiac Function",
+        "Section 1 — Coronary Artery Disease Overview & Ischemia vs Infarction"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch06-q002",
+      "stem": "Which statement best differentiates ischemia from infarction?",
+      "image": null,
+      "options": [
+        "Ischemia produces irreversible cell death, whereas infarction is reversible.",
+        "Ischemia affects only the pericardium, whereas infarction affects the myocardium.",
+        "Ischemia occurs only with valvular disease, whereas infarction occurs only with coronary spasm.",
+        "Ischemia is a reversible deficit in oxygen supply, whereas infarction is irreversible myocardial cell death following prolonged severe ischemia."
+      ],
+      "answer": 3,
+      "explanation": "This is the core lecture distinction: ischemia is potentially reversible; infarction is permanent cell death. Option A reverses the relationship — a common distractor.",
+      "explanationImage": null,
+      "tags": [
+        "Alterations in Cardiac Function",
+        "Section 1 — Coronary Artery Disease Overview & Ischemia vs Infarction"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch06-q003",
+      "stem": "Which is the earliest functional consequence of myocardial ischemia detectable on echocardiography?",
+      "image": null,
+      "options": [
+        "impaired LV relaxation (diastolic dysfunction)",
+        "formation of a ventricular aneurysm",
+        "tricuspid valve coaptation failure",
+        "immediate transmural necrosis"
+      ],
+      "answer": 0,
+      "explanation": "Abnormal relaxation (diastolic dysfunction) precedes systolic wall motion changes during ischemia. Aneurysm formation requires completed infarction.",
+      "explanationImage": null,
+      "tags": [
+        "Alterations in Cardiac Function",
+        "Section 1 — Coronary Artery Disease Overview & Ischemia vs Infarction"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch06-q004",
+      "stem": "The subendocardium is the myocardial layer most vulnerable to ischemia because it:",
+      "image": null,
+      "options": [
+        "has the greatest number of capillaries",
+        "lies closest to the epicardial coronary arteries",
+        "is compressed during systole and is perfused primarily late in diastole under high intracavitary pressure",
+        "receives blood directly from the aortic root at very high pressure"
+      ],
+      "answer": 2,
+      "explanation": "Systolic wall tension compresses the deepest layers, limiting their perfusion; flow to the subendocardium occurs predominantly in late diastole. This makes it the first region deprived and the site of subendocardial (NSTEMI-type) infarction.",
+      "explanationImage": null,
+      "tags": [
+        "Alterations in Cardiac Function",
+        "Section 1 — Coronary Artery Disease Overview & Ischemia vs Infarction"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch06-q005",
+      "stem": "Unstable angina, NSTEMI, and STEMI are collectively classified as:",
+      "image": null,
+      "options": [
+        "acute coronary syndromes",
+        "chronic ischemic heart disease",
+        "secondary cardiomyopathies",
+        "vasospastic disorders"
+      ],
+      "answer": 0,
+      "explanation": "Per the lecture breakdown, unstable angina and myocardial infarction (STEMI/NSTEMI) constitute the acute coronary syndromes; stable and variant angina are the chronic forms.",
+      "explanationImage": null,
+      "tags": [
+        "Alterations in Cardiac Function",
+        "Section 1 — Coronary Artery Disease Overview & Ischemia vs Infarction"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch06-q006",
+      "stem": "Coronary blood flow to the left ventricular myocardium occurs primarily during:",
+      "image": null,
+      "options": [
+        "systole",
+        "diastole",
+        "isovolumetric contraction only",
+        "atrial systole only"
+      ],
+      "answer": 1,
+      "explanation": "Intramyocardial vessels are compressed during systole, so LV coronary perfusion occurs predominantly in diastole. This is why tachycardia (shortened diastole) worsens ischemia.",
+      "explanationImage": null,
+      "tags": [
+        "Alterations in Cardiac Function",
+        "Section 1 — Coronary Artery Disease Overview & Ischemia vs Infarction"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch06-q007",
+      "stem": "Angina pectoris develops when:",
+      "image": null,
+      "options": [
+        "the coronary sinus drains inadequately",
+        "the heart rate falls below 50 bpm",
+        "myocardial oxygen demand exceeds the oxygen supply delivered through stenotic coronary arteries",
+        "left atrial pressure exceeds pulmonary capillary pressure"
+      ],
+      "answer": 2,
+      "explanation": "Angina reflects a supply–demand mismatch: a fixed atherosclerotic narrowing cannot deliver enough oxygen during increased workload.",
+      "explanationImage": null,
+      "tags": [
+        "Alterations in Cardiac Function",
+        "Section 1 — Coronary Artery Disease Overview & Ischemia vs Infarction"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch06-q008",
+      "stem": "Which of the following lists the diagnostic modalities used for coronary artery disease as presented in the lecture?",
+      "image": null,
+      "options": [
+        "auscultation and chest X-ray only",
+        "cardiac MRI and PET scanning only",
+        "serum biomarkers only",
+        "ECG, stress testing, and angiography"
+      ],
+      "answer": 3,
+      "explanation": "The lecture specifies ECG, stress-testing, and angiography for stable angina diagnosis; serum markers are added for unstable angina/MI.",
+      "explanationImage": null,
+      "tags": [
+        "Alterations in Cardiac Function",
+        "Section 1 — Coronary Artery Disease Overview & Ischemia vs Infarction"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch06-q009",
+      "stem": "Which conditions are classified as chronic ischemic heart disease?",
+      "image": null,
+      "options": [
+        "stable angina and variant (Prinzmetal's) angina",
+        "unstable angina and STEMI",
+        "NSTEMI and unstable angina",
+        "dilated and hypertrophic cardiomyopathy"
+      ],
+      "answer": 0,
+      "explanation": "The lecture places stable angina and variant/Prinzmetal's angina under chronic ischemic heart disease; unstable angina and MI fall under acute coronary syndrome. Cardiomyopathies are a separate category.",
+      "explanationImage": null,
+      "tags": [
+        "Alterations in Cardiac Function",
+        "Section 1 — Coronary Artery Disease Overview & Ischemia vs Infarction"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch06-q010",
+      "stem": "Which term describes myocardial dysfunction that persists temporarily after an ischemic episode despite restored perfusion, then gradually recovers?",
+      "image": null,
+      "options": [
+        "myocardial hibernation",
+        "remote necrosis",
+        "myocardial stunning",
+        "myocardial fibrosis"
+      ],
+      "answer": 2,
+      "explanation": "Stunning is transient post-ischemic dysfunction after reperfusion. Hibernation is chronic downregulated function in hypoperfused but viable myocardium; both are distinct from necrosis/fibrosis.",
+      "explanationImage": null,
+      "tags": [
+        "Alterations in Cardiac Function",
+        "Section 1 — Coronary Artery Disease Overview & Ischemia vs Infarction"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch06-q011",
+      "stem": "Which of the following is a modifiable risk factor for coronary atherosclerosis?",
+      "image": null,
+      "options": [
+        "male sex",
+        "cigarette smoking",
+        "family history of premature CAD",
+        "advanced age"
+      ],
+      "answer": 1,
+      "explanation": "Smoking can be modified (cessation is a stated treatment goal in the lecture). Sex, family history, and age are non-modifiable.",
+      "explanationImage": null,
+      "tags": [
+        "Alterations in Cardiac Function",
+        "Section 1 — Coronary Artery Disease Overview & Ischemia vs Infarction"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch06-q012",
+      "stem": "During ischemia, myocardial cells shift to anaerobic metabolism, resulting in:",
+      "image": null,
+      "options": [
+        "increased ATP production",
+        "decreased lactate production",
+        "increased aerobic glucose utilization",
+        "lactate accumulation and intracellular acidosis"
+      ],
+      "answer": 3,
+      "explanation": "Anaerobic metabolism generates far less ATP and accumulates lactate, causing acidosis that impairs contractility. Options A and B contradict the metabolic shift.",
+      "explanationImage": null,
+      "tags": [
+        "Alterations in Cardiac Function",
+        "Section 1 — Coronary Artery Disease Overview & Ischemia vs Infarction"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch06-q013",
+      "stem": "The left main coronary artery normally:",
+      "image": null,
+      "options": [
+        "bifurcates into the left anterior descending and circumflex arteries",
+        "directly supplies the inferior wall",
+        "gives rise to the posterior descending artery in 85% of people",
+        "courses in the posterior atrioventricular groove"
+      ],
+      "answer": 0,
+      "explanation": "The left main divides into the LAD and LCx; the posterior descending usually arises from the RCA. Disease of the left main threatens a very large myocardial territory.",
+      "explanationImage": null,
+      "tags": [
+        "Alterations in Cardiac Function",
+        "Section 1 — Coronary Artery Disease Overview & Ischemia vs Infarction"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch06-q014",
+      "stem": "Occlusion of the left anterior descending artery most typically results in infarction of the:",
+      "image": null,
+      "options": [
+        "inferior wall",
+        "lateral wall only",
+        "anterior wall, apical segments, and anterior septum",
+        "right ventricle exclusively"
+      ],
+      "answer": 2,
+      "explanation": "The LAD supplies the anterior wall, apex, and anterior septum. The inferior wall is usually a right coronary territory.",
+      "explanationImage": null,
+      "tags": [
+        "Alterations in Cardiac Function",
+        "Section 1 — Coronary Artery Disease Overview & Ischemia vs Infarction"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch06-q015",
+      "stem": "An inferior wall myocardial infarction with right ventricular involvement most often results from occlusion of the:",
+      "image": null,
+      "options": [
+        "left circumflex artery",
+        "left main artery",
+        "obtuse marginal branch",
+        "right coronary artery"
+      ],
+      "answer": 3,
+      "explanation": "The RCA supplies the inferior wall and frequently the RV via acute marginal branches; proximal RCA occlusion produces this pattern.",
+      "explanationImage": null,
+      "tags": [
+        "Alterations in Cardiac Function",
+        "Section 1 — Coronary Artery Disease Overview & Ischemia vs Infarction"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch06-q016",
+      "stem": "Complete thrombotic occlusion of a coronary artery with sustained transmural ischemia most characteristically produces:",
+      "image": null,
+      "options": [
+        "subendocardial infarction only",
+        "a transmural (Q-wave) infarction",
+        "transient anginal pain without cell death",
+        "isolated pericarditis"
+      ],
+      "answer": 1,
+      "explanation": "Complete occlusion with sustained transmural ischemia (STEMI physiology) infarcts the full wall thickness. Partial occlusion sparing the subendocardial-sparing outer layers produces NSTEMI patterns.",
+      "explanationImage": null,
+      "tags": [
+        "Alterations in Cardiac Function",
+        "Section 1 — Coronary Artery Disease Overview & Ischemia vs Infarction"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch06-q017",
+      "stem": "A perfusion defect seen during stress imaging that normalizes at rest indicates:",
+      "image": null,
+      "options": [
+        "viable, ischemic myocardium",
+        "completed infarction",
+        "pericardial thickening",
+        "hibernating scar tissue"
+      ],
+      "answer": 0,
+      "explanation": "Reversibility means the myocardium is alive but under-supplied during demand — inducible ischemia. A fixed defect suggests scar/infarction.",
+      "explanationImage": null,
+      "tags": [
+        "Alterations in Cardiac Function",
+        "Section 1 — Coronary Artery Disease Overview & Ischemia vs Infarction"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch06-q018",
+      "stem": "Chronic ischemic heart disease most often leads to which measurable change in LV performance?",
+      "image": null,
+      "options": [
+        "supranormal ejection fraction",
+        "exaggerated diastolic filling",
+        "reduced systolic function with regional wall motion abnormalities",
+        "uniform hyperkinesis"
+      ],
+      "answer": 2,
+      "explanation": "Repeated or persistent ischemia progressively impairs systolic function with regional hypokinetic/akinetic territories and reduced EF.",
+      "explanationImage": null,
+      "tags": [
+        "Alterations in Cardiac Function",
+        "Section 1 — Coronary Artery Disease Overview & Ischemia vs Infarction"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch06-q019",
+      "stem": "Prolonged complete coronary occlusion without reperfusion ultimately results in:",
+      "image": null,
+      "options": [
+        "reversible myocardial stunning",
+        "adaptive hypertrophy",
+        "myocyte hibernation",
+        "myocyte necrosis with scar formation and permanent loss of contractile function"
+      ],
+      "answer": 3,
+      "explanation": "This is the lecture's key impact point: infarction is ischemic death of myocardial cells, permanently replaced by non-contractile scar.",
+      "explanationImage": null,
+      "tags": [
+        "Alterations in Cardiac Function",
+        "Section 1 — Coronary Artery Disease Overview & Ischemia vs Infarction"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch06-q020",
+      "stem": "Which chronic structural complication may develop weeks to months after a large transmural infarction?",
+      "image": null,
+      "options": [
+        "congenital ventricular septal defect",
+        "ventricular aneurysm with paradoxical (dyskinetic) motion",
+        "Ebstein anomaly",
+        "mitral stenosis"
+      ],
+      "answer": 1,
+      "explanation": "Scarred, thinned myocardium stretches into an aneurysm that bulges and moves paradoxically in systole. The other options are congenital or unrelated. ---",
+      "explanationImage": null,
+      "tags": [
+        "Alterations in Cardiac Function",
+        "Section 2 — Chronic Ischemic Heart Disease: Stable Angina"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch06-q021",
+      "stem": "The hallmark of stable angina is chest pain that is:",
+      "image": null,
+      "options": [
+        "constant over 24 hours",
+        "provoked by rest and worse with exercise",
+        "triggered by exertion or emotional stress and relieved within minutes by rest",
+        "associated with a pleuritic quality"
+      ],
+      "answer": 2,
+      "explanation": "The lecture defines stable angina as exertion-triggered, rest-relieved chest discomfort. Option B inverts the pattern.",
+      "explanationImage": null,
+      "tags": [
+        "Alterations in Cardiac Function",
+        "Section 2 — Chronic Ischemic Heart Disease: Stable Angina"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch06-q022",
+      "stem": "The mechanism of stable angina is best described as:",
+      "image": null,
+      "options": [
+        "a fixed atherosclerotic stenosis preventing coronary supply from meeting increased demand",
+        "spontaneous coronary artery spasm at rest",
+        "rupture of a plaque with total thrombotic occlusion",
+        "embolic occlusion of a coronary branch"
+      ],
+      "answer": 0,
+      "explanation": "Stable angina reflects a fixed narrowing; demand rises with activity beyond what the stenotic artery can deliver. Spasm (B) defines variant angina; plaque rupture (C) defines acute coronary syndromes.",
+      "explanationImage": null,
+      "tags": [
+        "Alterations in Cardiac Function",
+        "Section 2 — Chronic Ischemic Heart Disease: Stable Angina"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch06-q023",
+      "stem": "Typical duration of an episode of stable angina:",
+      "image": null,
+      "options": [
+        "several hours",
+        "less than 10 seconds",
+        "more than 30 minutes",
+        "a few minutes, resolving promptly with rest or nitroglycerin"
+      ],
+      "answer": 3,
+      "explanation": "Stable anginal episodes are brief and predictably relieved by rest or nitrates; pain lasting >20 minutes suggests unstable angina or infarction.",
+      "explanationImage": null,
+      "tags": [
+        "Alterations in Cardiac Function",
+        "Section 2 — Chronic Ischemic Heart Disease: Stable Angina"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch06-q024",
+      "stem": "According to the lecture, diagnosis of stable angina relies on:",
+      "image": null,
+      "options": [
+        "cardiac biopsy and PET",
+        "ECG, stress testing, and angiography",
+        "auscultation and chest X-ray",
+        "genetic testing"
+      ],
+      "answer": 1,
+      "explanation": "ECG, stress-testing, and angiography are the lecture's stated diagnostic tools for stable angina.",
+      "explanationImage": null,
+      "tags": [
+        "Alterations in Cardiac Function",
+        "Section 2 — Chronic Ischemic Heart Disease: Stable Angina"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch06-q025",
+      "stem": "The drug class emphasized in the lecture for symptomatic relief of stable angina is:",
+      "image": null,
+      "options": [
+        "beta-blockers",
+        "diuretics",
+        "nitrates",
+        "anticoagulants"
+      ],
+      "answer": 2,
+      "explanation": "Nitrates are the lecture's stated drug therapy for stable angina. Anticoagulants belong to unstable angina/ACS management.",
+      "explanationImage": null,
+      "tags": [
+        "Alterations in Cardiac Function",
+        "Section 2 — Chronic Ischemic Heart Disease: Stable Angina"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch06-q026",
+      "stem": "Nitrates relieve anginal pain mainly by:",
+      "image": null,
+      "options": [
+        "venodilation, which decreases preload and myocardial oxygen demand, plus coronary vasodilation",
+        "increasing myocardial contractility",
+        "increasing preload to raise coronary perfusion pressure",
+        "blocking calcium channels in the SA node"
+      ],
+      "answer": 0,
+      "explanation": "Venodilation lowers wall stress and oxygen demand while nitrates also dilate epicardial coronaries, improving supply. Increasing contractility (B) would worsen demand.",
+      "explanationImage": null,
+      "tags": [
+        "Alterations in Cardiac Function",
+        "Section 2 — Chronic Ischemic Heart Disease: Stable Angina"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch06-q027",
+      "stem": "Which lifestyle modification set is recommended for stable angina?",
+      "image": null,
+      "options": [
+        "bed rest and fluid restriction",
+        "smoking cessation, stress reduction, regular exercise, and dietary changes",
+        "high-sodium diet and isometric exercise",
+        "complete avoidance of all physical activity"
+      ],
+      "answer": 1,
+      "explanation": "The lecture lists exactly these lifestyle changes for stable angina management.",
+      "explanationImage": null,
+      "tags": [
+        "Alterations in Cardiac Function",
+        "Section 2 — Chronic Ischemic Heart Disease: Stable Angina"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch06-q028",
+      "stem": "Medical procedures used for stable angina refractory to medications include:",
+      "image": null,
+      "options": [
+        "mitral commissurotomy",
+        "pericardiocentesis",
+        "heart transplantation only",
+        "percutaneous angioplasty and coronary artery bypass grafting"
+      ],
+      "answer": 3,
+      "explanation": "The lecture lists angioplasty and CABG as the procedures for stable angina. The other options address unrelated conditions.",
+      "explanationImage": null,
+      "tags": [
+        "Alterations in Cardiac Function",
+        "Section 2 — Chronic Ischemic Heart Disease: Stable Angina"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch06-q029",
+      "stem": "In coronary artery bypass grafting, the internal mammary artery or saphenous vein graft is anastomosed:",
+      "image": null,
+      "options": [
+        "from the aorta to the pulmonary artery",
+        "from the coronary sinus to the aorta",
+        "from the aorta to the coronary artery distal to the stenosis",
+        "from the left ventricle to the coronary sinus"
+      ],
+      "answer": 2,
+      "explanation": "The graft creates a bypass channel carrying aortic blood to the coronary artery beyond the blockage, restoring distal perfusion.",
+      "explanationImage": null,
+      "tags": [
+        "Alterations in Cardiac Function",
+        "Section 2 — Chronic Ischemic Heart Disease: Stable Angina"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch06-q030",
+      "stem": "The purpose of stress echocardiography in suspected stable angina is to detect:",
+      "image": null,
+      "options": [
+        "inducible regional wall motion abnormalities appearing with increased demand",
+        "resting valvular gradients only",
+        "pericardial effusion",
+        "congenital shunt flow"
+      ],
+      "answer": 0,
+      "explanation": "Ischemic myocardium becomes hypokinetic only when stressed; the test reveals supply–demand mismatch not evident at rest.",
+      "explanationImage": null,
+      "tags": [
+        "Alterations in Cardiac Function",
+        "Section 2 — Chronic Ischemic Heart Disease: Stable Angina"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch06-q031",
+      "stem": "During an active ischemic episode, the expected echocardiographic finding is:",
+      "image": null,
+      "options": [
+        "global hyperdynamic motion",
+        "a transient regional wall motion abnormality in the affected vascular territory",
+        "new severe aortic stenosis",
+        "asymmetric septal hypertrophy"
+      ],
+      "answer": 1,
+      "explanation": "Ischemia produces transient hypokinesis/akinesis in the territory of the stenosed artery, resolving when perfusion recovers.",
+      "explanationImage": null,
+      "tags": [
+        "Alterations in Cardiac Function",
+        "Section 2 — Chronic Ischemic Heart Disease: Stable Angina"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch06-q032",
+      "stem": "Chest pain that persists more than 20 minutes despite rest and nitroglycerin should raise concern for:",
+      "image": null,
+      "options": [
+        "musculoskeletal strain",
+        "variant angina only, with no further workup",
+        "unstable angina or myocardial infarction",
+        "esophageal reflux"
+      ],
+      "answer": 2,
+      "explanation": "Rest pain lasting >20 minutes is the lecture's red-flag threshold for acute coronary syndrome requiring urgent evaluation.",
+      "explanationImage": null,
+      "tags": [
+        "Alterations in Cardiac Function",
+        "Section 2 — Chronic Ischemic Heart Disease: Stable Angina"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch06-q033",
+      "stem": "Which feature best distinguishes stable angina from variant angina?",
+      "image": null,
+      "options": [
+        "stable angina pain is more severe",
+        "variant angina does not respond to nitrates",
+        "stable angina requires ECG monitoring",
+        "stable angina occurs with exertion, whereas variant angina occurs at rest, often at night"
+      ],
+      "answer": 3,
+      "explanation": "Exertion-triggered versus rest/night-triggered pain is the key differentiator. Both respond to nitrates (B is false).",
+      "explanationImage": null,
+      "tags": [
+        "Alterations in Cardiac Function",
+        "Section 2 — Chronic Ischemic Heart Disease: Stable Angina"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch06-q034",
+      "stem": "Why does rest relieve stable angina?",
+      "image": null,
+      "options": [
+        "myocardial oxygen demand decreases while the fixed coronary supply remains sufficient for the lower workload",
+        "resting increases coronary spasm",
+        "resting raises the heart rate, improving perfusion",
+        "rest abolishes the atherosclerotic plaque"
+      ],
+      "answer": 0,
+      "explanation": "Resting lowers heart rate, contractility, and wall stress, restoring supply–demand balance below the fixed stenotic limit.",
+      "explanationImage": null,
+      "tags": [
+        "Alterations in Cardiac Function",
+        "Section 2 — Chronic Ischemic Heart Disease: Stable Angina"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch06-q035",
+      "stem": "A 58-year-old smoker with hypertension and hyperlipidemia reports chest pressure after walking two blocks that stops when he sits down. The most likely diagnosis is:",
+      "image": null,
+      "options": [
+        "unstable angina",
+        "hypertrophic cardiomyopathy",
+        "stable angina",
+        "mitral stenosis"
+      ],
+      "answer": 2,
+      "explanation": "Exertional, rest-relieved chest pressure in a patient with classic risk factors defines stable angina. No rest pain or escalation is described.",
+      "explanationImage": null,
+      "tags": [
+        "Alterations in Cardiac Function",
+        "Section 2 — Chronic Ischemic Heart Disease: Stable Angina"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch06-q036",
+      "stem": "An exercise ECG showing ≥1 mm of horizontal ST depression suggests:",
+      "image": null,
+      "options": [
+        "pericarditis",
+        "myocardial ischemia",
+        "right ventricular hypertrophy",
+        "a normal study"
+      ],
+      "answer": 1,
+      "explanation": "Horizontal/downsloping ST depression with exercise is the classic ischemic stress-test response, warranting further evaluation.",
+      "explanationImage": null,
+      "tags": [
+        "Alterations in Cardiac Function",
+        "Section 2 — Chronic Ischemic Heart Disease: Stable Angina"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch06-q037",
+      "stem": "Beta-blockers help stable angina primarily by:",
+      "image": null,
+      "options": [
+        "dilating coronary arteries directly",
+        "preventing platelet aggregation",
+        "increasing contractility",
+        "lowering heart rate and contractility, thereby reducing myocardial oxygen demand"
+      ],
+      "answer": 3,
+      "explanation": "Slowing the heart rate lengthens diastole (more perfusion time) and reduces demand — the core antianginal mechanism. Beta-blockers do not dilate coronaries.",
+      "explanationImage": null,
+      "tags": [
+        "Alterations in Cardiac Function",
+        "Section 2 — Chronic Ischemic Heart Disease: Stable Angina"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch06-q038",
+      "stem": "Percutaneous transluminal coronary angioplasty treats ischemia by:",
+      "image": null,
+      "options": [
+        "dilating the stenotic coronary segment, typically with stent placement",
+        "removing the atrial appendage",
+        "ligating the coronary sinus",
+        "replacing the aortic valve"
+      ],
+      "answer": 0,
+      "explanation": "Balloon inflation and stenting reopen the stenotic segment, restoring antegrade flow through the native artery.",
+      "explanationImage": null,
+      "tags": [
+        "Alterations in Cardiac Function",
+        "Section 2 — Chronic Ischemic Heart Disease: Stable Angina"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch06-q039",
+      "stem": "In chronic stable angina, the resting echocardiogram between episodes is most likely to show:",
+      "image": null,
+      "options": [
+        "asymmetric septal hypertrophy",
+        "a large pericardial effusion",
+        "normal or near-normal wall motion",
+        "severe LV dilation with EF 20%"
+      ],
+      "answer": 2,
+      "explanation": "With a fixed stenosis and adequate resting supply, resting wall motion is usually normal; abnormalities appear only during ischemia (or with prior infarction).",
+      "explanationImage": null,
+      "tags": [
+        "Alterations in Cardiac Function",
+        "Section 2 — Chronic Ischemic Heart Disease: Stable Angina"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch06-q040",
+      "stem": "Which symptom is least characteristic of stable angina?",
+      "image": null,
+      "options": [
+        "substernal pressure with exertion",
+        "sharp pain lasting several hours at rest",
+        "relief with nitroglycerin",
+        "radiation to the left arm or jaw"
+      ],
+      "answer": 1,
+      "explanation": "Hours of rest pain contradicts stable angina and suggests ACS. Typical angina is brief, exertional, and nitrate-responsive. ---",
+      "explanationImage": null,
+      "tags": [
+        "Alterations in Cardiac Function",
+        "Section 3 — Variant (Prinzmetal's) Angina"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch06-q041",
+      "stem": "Variant (Prinzmetal's) angina is caused primarily by:",
+      "image": null,
+      "options": [
+        "transient coronary artery spasm",
+        "total fixed occlusion of the LAD",
+        "severe aortic stenosis",
+        "ruptured plaque with permanent occlusion"
+      ],
+      "answer": 0,
+      "explanation": "The lecture defines Prinzmetal's/vasospastic angina as chest pain due to coronary artery spasm, not fixed obstruction.",
+      "explanationImage": null,
+      "tags": [
+        "Alterations in Cardiac Function",
+        "Section 3 — Variant (Prinzmetal's) Angina"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch06-q042",
+      "stem": "Characteristic timing of Prinzmetal's angina pain:",
+      "image": null,
+      "options": [
+        "only with exertion",
+        "immediately after meals while walking",
+        "uniformly during exercise stress tests",
+        "at rest, often at night"
+      ],
+      "answer": 3,
+      "explanation": "Rest occurrence, often nocturnal, is the signature of vasospastic angina and distinguishes it from stable angina.",
+      "explanationImage": null,
+      "tags": [
+        "Alterations in Cardiac Function",
+        "Section 3 — Variant (Prinzmetal's) Angina"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch06-q043",
+      "stem": "Which terms are synonyms for variant angina?",
+      "image": null,
+      "options": [
+        "unstable angina and crescendo angina",
+        "silent ischemia and hibernation",
+        "Prinzmetal's angina and vasospastic angina",
+        "preinfarction angina and refractory angina"
+      ],
+      "answer": 2,
+      "explanation": "The lecture uses \"Prinzmetal's angina\" and \"vasospastic angina\" interchangeably with variant angina.",
+      "explanationImage": null,
+      "tags": [
+        "Alterations in Cardiac Function",
+        "Section 3 — Variant (Prinzmetal's) Angina"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch06-q044",
+      "stem": "The ECG during an episode of coronary vasospasm classically shows:",
+      "image": null,
+      "options": [
+        "persistent deep Q waves",
+        "transient ST-segment elevation",
+        "fixed ST depression at rest",
+        "low voltage"
+      ],
+      "answer": 1,
+      "explanation": "Spasm causes brief transmural ischemia with ST elevation that resolves when the spasm relaxes — mimicking STEMI transiently but without permanent occlusion.",
+      "explanationImage": null,
+      "tags": [
+        "Alterations in Cardiac Function",
+        "Section 3 — Variant (Prinzmetal's) Angina"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch06-q045",
+      "stem": "First-line drug therapy for variant angina is:",
+      "image": null,
+      "options": [
+        "calcium channel blockers and nitrates",
+        "anticoagulants and diuretics",
+        "inotropes and diuretics",
+        "ACE inhibitors and digoxin"
+      ],
+      "answer": 0,
+      "explanation": "The lecture specifies calcium channel blockers and nitrates for variant angina; both relax vascular smooth muscle and prevent/relieve spasm.",
+      "explanationImage": null,
+      "tags": [
+        "Alterations in Cardiac Function",
+        "Section 3 — Variant (Prinzmetal's) Angina"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch06-q046",
+      "stem": "Calcium channel blockers abort coronary vasospasm by:",
+      "image": null,
+      "options": [
+        "increasing platelet aggregation",
+        "blocking beta-1 receptors",
+        "inhibiting calcium influx into vascular smooth muscle, relaxing the coronary artery",
+        "increasing sympathetic tone"
+      ],
+      "answer": 2,
+      "explanation": "Reduced intracellular calcium prevents contraction of coronary smooth muscle, the direct mechanism against vasospasm.",
+      "explanationImage": null,
+      "tags": [
+        "Alterations in Cardiac Function",
+        "Section 3 — Variant (Prinzmetal's) Angina"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch06-q047",
+      "stem": "Which statement about patients with variant angina is true?",
+      "image": null,
+      "options": [
+        "it occurs exclusively in patients over 70",
+        "it always requires surgical bypass",
+        "it cannot occur in smokers",
+        "it may occur with or without fixed atherosclerotic plaques, and is associated with smoking"
+      ],
+      "answer": 3,
+      "explanation": "Vasospasm can affect angiographically normal arteries or occur at plaque sites; smoking is a major risk factor. It is treated medically, not with routine bypass.",
+      "explanationImage": null,
+      "tags": [
+        "Alterations in Cardiac Function",
+        "Section 3 — Variant (Prinzmetal's) Angina"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch06-q048",
+      "stem": "The pain of variant angina is distinguished from unstable angina chiefly by:",
+      "image": null,
+      "options": [
+        "its response to aspirin",
+        "its episodic, spasm-related pattern versus plaque rupture with thrombosis",
+        "the presence of dyspnea",
+        "its onset only with exertion"
+      ],
+      "answer": 1,
+      "explanation": "Both cause rest pain, but variant angina is intermittent spasm while unstable angina reflects ruptured plaque and non-occlusive thrombus with impending infarction risk.",
+      "explanationImage": null,
+      "tags": [
+        "Alterations in Cardiac Function",
+        "Section 3 — Variant (Prinzmetal's) Angina"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch06-q049",
+      "stem": "An echocardiogram captured during a vasospastic episode may demonstrate:",
+      "image": null,
+      "options": [
+        "a reversible regional wall motion abnormality matching the spastic artery's territory",
+        "asymmetric septal hypertrophy with SAM",
+        "fixed valvular stenosis",
+        "pericardial effusion"
+      ],
+      "answer": 0,
+      "explanation": "Spasm creates transient ischemia, so the corresponding segments become hypokinetic and recover when the spasm resolves.",
+      "explanationImage": null,
+      "tags": [
+        "Alterations in Cardiac Function",
+        "Section 3 — Variant (Prinzmetal's) Angina"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch06-q050",
+      "stem": "If a coronary spasm causes prolonged total occlusion, the potential consequence is:",
+      "image": null,
+      "options": [
+        "no clinically significant effect",
+        "only transient T-wave changes",
+        "immediate dilated cardiomyopathy",
+        "progression to myocardial infarction and life-threatening arrhythmia"
+      ],
+      "answer": 3,
+      "explanation": "Severe prolonged spasm can completely occlude the artery long enough to cause infarction and ventricular arrhythmias, which is why vasospastic angina must be treated.",
+      "explanationImage": null,
+      "tags": [
+        "Alterations in Cardiac Function",
+        "Section 3 — Variant (Prinzmetal's) Angina"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch06-q051",
+      "stem": "Which drug class is least appropriate as sole therapy for variant angina?",
+      "image": null,
+      "options": [
+        "dihydropyridine calcium channel blockers",
+        "long-acting nitrates",
+        "nonselective beta-blockers",
+        "calcium channel blockers combined with nitrates"
+      ],
+      "answer": 2,
+      "explanation": "Nonselective beta-blockade leaves alpha-mediated vasoconstriction unopposed and can worsen coronary spasm. CCBs and nitrates are the correct lecture-listed therapy.",
+      "explanationImage": null,
+      "tags": [
+        "Alterations in Cardiac Function",
+        "Section 3 — Variant (Prinzmetal's) Angina"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch06-q052",
+      "stem": "Short-acting nitroglycerin in variant angina acts to:",
+      "image": null,
+      "options": [
+        "dilate the spastic coronary segment and relieve pain rapidly",
+        "increase platelet aggregation",
+        "permanently increase the heart rate",
+        "dissolve an already formed thrombus"
+      ],
+      "answer": 0,
+      "explanation": "Nitrates are direct vasodilators, so they counteract spasm within minutes. They are not thrombolytic agents.",
+      "explanationImage": null,
+      "tags": [
+        "Alterations in Cardiac Function",
+        "Section 3 — Variant (Prinzmetal's) Angina"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch06-q053",
+      "stem": "Historically, provocative agents used to diagnose coronary spasm in the catheterization laboratory include:",
+      "image": null,
+      "options": [
+        "adenosine for flow reserve only",
+        "dobutamine",
+        "nitroprusside",
+        "ergonovine or acetylcholine"
+      ],
+      "answer": 3,
+      "explanation": "Ergonovine and acetylcholine provoke spasm in susceptible patients, confirming vasospastic angina. Dobutamine provokes demand ischemia, not spasm.",
+      "explanationImage": null,
+      "tags": [
+        "Alterations in Cardiac Function",
+        "Section 3 — Variant (Prinzmetal's) Angina"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch06-q054",
+      "stem": "Variant angina should be suspected when:",
+      "image": null,
+      "options": [
+        "ST depression appears only during exercise",
+        "ST elevation appears transiently at rest with pain and resolves when the pain subsides",
+        "Q waves are permanent",
+        "troponin is persistently elevated"
+      ],
+      "answer": 1,
+      "explanation": "Dynamic, pain-linked ST elevation that resolves is the electrocardiographic signature of vasospasm. Fixed Q waves or persistent biomarker elevation indicate infarction.",
+      "explanationImage": null,
+      "tags": [
+        "Alterations in Cardiac Function",
+        "Section 3 — Variant (Prinzmetal's) Angina"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch06-q055",
+      "stem": "Coronary spasm most often occurs:",
+      "image": null,
+      "options": [
+        "randomly throughout the vessel wall",
+        "only in venous bypass grafts",
+        "at or near a site of endothelial dysfunction or plaque, though the arteries may appear angiographically normal",
+        "exclusively at the coronary ostia"
+      ],
+      "answer": 2,
+      "explanation": "Spasm localizes to segments with endothelial injury or atherosclerotic plaque, but may also involve angiographically normal vessels — a hallmark of Prinzmetal's angina.",
+      "explanationImage": null,
+      "tags": [
+        "Alterations in Cardiac Function",
+        "Section 3 — Variant (Prinzmetal's) Angina"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch06-q056",
+      "stem": "Which habit is a strong risk factor for coronary vasospasm?",
+      "image": null,
+      "options": [
+        "cigarette smoking",
+        "a high-fiber diet",
+        "regular aerobic exercise",
+        "moderate hydration"
+      ],
+      "answer": 0,
+      "explanation": "Smoking injures the endothelium and promotes vasoconstriction, making it a leading trigger for vasospastic angina.",
+      "explanationImage": null,
+      "tags": [
+        "Alterations in Cardiac Function",
+        "Section 3 — Variant (Prinzmetal's) Angina"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch06-q057",
+      "stem": "Recurrent episodes of severe vasospasm place the patient at risk for:",
+      "image": null,
+      "options": [
+        "congenital heart disease",
+        "rheumatic valve disease",
+        "aortic stenosis",
+        "arrhythmia, myocardial infarction, and sudden death"
+      ],
+      "answer": 3,
+      "explanation": "Prolonged total spasm can precipitate infarction and malignant ventricular arrhythmias, the serious complications of untreated variant angina.",
+      "explanationImage": null,
+      "tags": [
+        "Alterations in Cardiac Function",
+        "Section 3 — Variant (Prinzmetal's) Angina"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch06-q058",
+      "stem": "The typical description of variant anginal pain is:",
+      "image": null,
+      "options": [
+        "a dull ache only when climbing stairs",
+        "chest pain that awakens the patient from sleep, not provoked by exertion",
+        "burning pain after spicy meals",
+        "pain relieved by leaning forward"
+      ],
+      "answer": 1,
+      "explanation": "Nocturnal, rest-related pain unprovoked by exertion defines vasospastic angina. Options A and D describe other etiologies.",
+      "explanationImage": null,
+      "tags": [
+        "Alterations in Cardiac Function",
+        "Section 3 — Variant (Prinzmetal's) Angina"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch06-q059",
+      "stem": "Cocaine use can precipitate variant angina because it:",
+      "image": null,
+      "options": [
+        "causes intense coronary vasoconstriction while increasing myocardial oxygen demand",
+        "dilates the coronary arteries",
+        "decreases the heart rate",
+        "chronically lowers blood pressure"
+      ],
+      "answer": 0,
+      "explanation": "Cocaine is a sympathomimetic that produces coronary spasm plus tachycardia and hypertension, a dangerous supply–demand mismatch.",
+      "explanationImage": null,
+      "tags": [
+        "Alterations in Cardiac Function",
+        "Section 3 — Variant (Prinzmetal's) Angina"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch06-q060",
+      "stem": "A 45-year-old smoker has nocturnal chest pain with transient ST elevation; angiography shows smooth coronaries without significant stenosis. The most likely diagnosis is:",
+      "image": null,
+      "options": [
+        "STEMI",
+        "stable angina",
+        "variant (Prinzmetal's) angina",
+        "dilated cardiomyopathy"
+      ],
+      "answer": 2,
+      "explanation": "Rest/night pain with transient ST elevation and angiographically normal arteries is the classic vasospastic angina presentation. ---",
+      "explanationImage": null,
+      "tags": [
+        "Alterations in Cardiac Function",
+        "Section 4 — Unstable Angina & Acute Coronary Syndromes"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch06-q061",
+      "stem": "The clinical significance of unstable angina is that it can be:",
+      "image": null,
+      "options": [
+        "managed only with transplantation",
+        "caused by valvular stenosis",
+        "cured by calcium channel blockers",
+        "a sign of impending myocardial infarction"
+      ],
+      "answer": 3,
+      "explanation": "The lecture's first statement about unstable angina is precisely that it signals an impending MI, demanding urgent treatment.",
+      "explanationImage": null,
+      "tags": [
+        "Alterations in Cardiac Function",
+        "Section 4 — Unstable Angina & Acute Coronary Syndromes"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch06-q062",
+      "stem": "Which symptom pattern defines unstable angina?",
+      "image": null,
+      "options": [
+        "brief exertional pain relieved by rest",
+        "pain at rest that is more severe or more frequent, lasting more than 20 minutes",
+        "nocturnal pain lasting a few seconds",
+        "pain with deep inspiration only"
+      ],
+      "answer": 1,
+      "explanation": "The lecture's definition: rest pain, greater severity or frequency, and duration exceeding 20 minutes. Option A describes stable angina.",
+      "explanationImage": null,
+      "tags": [
+        "Alterations in Cardiac Function",
+        "Section 4 — Unstable Angina & Acute Coronary Syndromes"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch06-q063",
+      "stem": "In classic unstable angina (versus NSTEMI), serum cardiac biomarkers are:",
+      "image": null,
+      "options": [
+        "not elevated, because myocyte necrosis has not occurred",
+        "markedly elevated",
+        "always above 10 ng/mL",
+        "replaced by serum cholesterol measurement"
+      ],
+      "answer": 0,
+      "explanation": "No necrosis means no troponin/CK-MB release; this is the defining biochemical difference between unstable angina and NSTEMI.",
+      "explanationImage": null,
+      "tags": [
+        "Alterations in Cardiac Function",
+        "Section 4 — Unstable Angina & Acute Coronary Syndromes"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch06-q064",
+      "stem": "Which medication class is added in unstable angina specifically to limit thrombus propagation?",
+      "image": null,
+      "options": [
+        "diuretics",
+        "inotropes",
+        "calcium channel blockers",
+        "anticoagulants"
+      ],
+      "answer": 3,
+      "explanation": "Heparin-based anticoagulation prevents growth of the evolving platelet-fibrin thrombus on the ruptured plaque. The lecture lists anticoagulants in its UA treatment set.",
+      "explanationImage": null,
+      "tags": [
+        "Alterations in Cardiac Function",
+        "Section 4 — Unstable Angina & Acute Coronary Syndromes"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch06-q065",
+      "stem": "Aspirin benefits the patient with unstable angina by:",
+      "image": null,
+      "options": [
+        "dissolving the existing clot completely",
+        "increasing the heart rate",
+        "irreversibly inhibiting platelet aggregation via thromboxane A2 blockade",
+        "dilating the bronchioles"
+      ],
+      "answer": 2,
+      "explanation": "Aspirin's antiplatelet effect reduces further thrombus formation on the disrupted plaque; it is not a thrombolytic.",
+      "explanationImage": null,
+      "tags": [
+        "Alterations in Cardiac Function",
+        "Section 4 — Unstable Angina & Acute Coronary Syndromes"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch06-q066",
+      "stem": "The underlying pathophysiology of unstable angina is usually:",
+      "image": null,
+      "options": [
+        "a stable fibrous plaque with no change",
+        "plaque rupture or erosion with non-occlusive thrombus formation",
+        "coronary embolism from a mural thrombus",
+        "severe aortic stenosis"
+      ],
+      "answer": 1,
+      "explanation": "UA sits between stable angina and MI: the plaque disrupts, a partially occluding thrombus forms, and flow is severely reduced but not completely cut off.",
+      "explanationImage": null,
+      "tags": [
+        "Alterations in Cardiac Function",
+        "Section 4 — Unstable Angina & Acute Coronary Syndromes"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch06-q067",
+      "stem": "An acute coronary syndrome presentation with rest pain, no ST elevation, and negative troponin is classified as:",
+      "image": null,
+      "options": [
+        "unstable angina",
+        "STEMI",
+        "stable angina",
+        "Prinzmetal's angina"
+      ],
+      "answer": 0,
+      "explanation": "Rest ischemia without ST elevation and without biomarker rise is the textbook definition of unstable angina within the ACS spectrum.",
+      "explanationImage": null,
+      "tags": [
+        "Alterations in Cardiac Function",
+        "Section 4 — Unstable Angina & Acute Coronary Syndromes"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch06-q068",
+      "stem": "The key distinction between unstable angina and NSTEMI is:",
+      "image": null,
+      "options": [
+        "the location of the pain",
+        "the heart rate",
+        "the blood pressure response",
+        "NSTEMI shows biochemical evidence of necrosis with elevated troponin"
+      ],
+      "answer": 3,
+      "explanation": "Clinically and electrocardiographically they overlap; the troponin rise (myocyte death) is what converts UA into NSTEMI.",
+      "explanationImage": null,
+      "tags": [
+        "Alterations in Cardiac Function",
+        "Section 4 — Unstable Angina & Acute Coronary Syndromes"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch06-q069",
+      "stem": "Beta-blockers in unstable angina reduce ischemia by:",
+      "image": null,
+      "options": [
+        "causing vasospasm",
+        "decreasing heart rate, blood pressure, and contractility",
+        "raising preload",
+        "blocking potassium channels"
+      ],
+      "answer": 1,
+      "explanation": "Lower demand on a supply-limited myocardium is the goal; the lecture includes beta-blockers in UA therapy. They do not cause spasm (and are avoided in vasospastic disease).",
+      "explanationImage": null,
+      "tags": [
+        "Alterations in Cardiac Function",
+        "Section 4 — Unstable Angina & Acute Coronary Syndromes"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch06-q070",
+      "stem": "The appropriate clinical response to suspected unstable angina is:",
+      "image": null,
+      "options": [
+        "outpatient follow-up in two weeks",
+        "reassurance and discharge home",
+        "emergency evaluation with continuous ECG monitoring and serum markers",
+        "an immediate treadmill stress test at presentation"
+      ],
+      "answer": 2,
+      "explanation": "Because UA may progress to infarction, patients require emergency assessment, monitoring, biomarkers, and treatment — not outpatient management or stress testing.",
+      "explanationImage": null,
+      "tags": [
+        "Alterations in Cardiac Function",
+        "Section 4 — Unstable Angina & Acute Coronary Syndromes"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch06-q071",
+      "stem": "\"Crescendo\" angina refers to angina that is:",
+      "image": null,
+      "options": [
+        "new-onset or increasing in severity, frequency, or duration, occurring at lower workloads",
+        "present only at night",
+        "completely relieved by a single nitroglycerin tablet",
+        "caused solely by anemia"
+      ],
+      "answer": 0,
+      "explanation": "An escalating pattern defines unstable (\"crescendo\") angina and reflects a worsening plaque lesion.",
+      "explanationImage": null,
+      "tags": [
+        "Alterations in Cardiac Function",
+        "Section 4 — Unstable Angina & Acute Coronary Syndromes"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch06-q072",
+      "stem": "A 64-year-old has had 40 minutes of chest pain at rest. Which finding most strongly indicates myocardial necrosis rather than unstable angina?",
+      "image": null,
+      "options": [
+        "ST depression only",
+        "T-wave inversions",
+        "sinus tachycardia",
+        "an elevated serum troponin"
+      ],
+      "answer": 3,
+      "explanation": "Troponin elevation is the specific marker of myocyte necrosis, separating NSTEMI from unstable angina. ST depression and T inversions occur in both.",
+      "explanationImage": null,
+      "tags": [
+        "Alterations in Cardiac Function",
+        "Section 4 — Unstable Angina & Acute Coronary Syndromes"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch06-q073",
+      "stem": "In the acute phase, echocardiography in unstable angina is most useful to:",
+      "image": null,
+      "options": [
+        "measure the mitral valve area",
+        "identify regional wall motion abnormalities and assess overall LV function",
+        "image the coronary arteries directly",
+        "measure pulmonary artery pressure only"
+      ],
+      "answer": 1,
+      "explanation": "Echo detects transient or persistent wall motion abnormalities and quantifies global systolic function; it cannot directly visualize the coronaries (that requires angiography).",
+      "explanationImage": null,
+      "tags": [
+        "Alterations in Cardiac Function",
+        "Section 4 — Unstable Angina & Acute Coronary Syndromes"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch06-q074",
+      "stem": "Nitrates in unstable angina relieve pain by:",
+      "image": null,
+      "options": [
+        "strengthening contraction",
+        "increasing afterload",
+        "venodilation to reduce preload and myocardial oxygen demand, plus coronary vasodilation",
+        "blocking platelets"
+      ],
+      "answer": 2,
+      "explanation": "The lecture lists nitrates for UA; their supply–demand benefit is the same as in stable angina. Antiplatelet action belongs to aspirin.",
+      "explanationImage": null,
+      "tags": [
+        "Alterations in Cardiac Function",
+        "Section 4 — Unstable Angina & Acute Coronary Syndromes"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch06-q075",
+      "stem": "Per the lecture, unstable anginal pain lasting longer than which duration is particularly concerning?",
+      "image": null,
+      "options": [
+        "20 minutes",
+        "5 minutes",
+        "2 hours",
+        "60 seconds"
+      ],
+      "answer": 0,
+      "explanation": "More than 20 minutes of pain is the lecture's explicit threshold in the unstable angina symptom definition.",
+      "explanationImage": null,
+      "tags": [
+        "Alterations in Cardiac Function",
+        "Section 4 — Unstable Angina & Acute Coronary Syndromes"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch06-q076",
+      "stem": "High-risk unstable angina patients are typically managed with:",
+      "image": null,
+      "options": [
+        "home nitroglycerin alone",
+        "lifestyle counseling only",
+        "annual stress testing",
+        "early coronary angiography with revascularization (PCI or CABG)"
+      ],
+      "answer": 3,
+      "explanation": "High-risk patients undergo early invasive strategy: angiography followed by angioplasty or bypass to treat the culprit lesion.",
+      "explanationImage": null,
+      "tags": [
+        "Alterations in Cardiac Function",
+        "Section 4 — Unstable Angina & Acute Coronary Syndromes"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch06-q077",
+      "stem": "Which feature is characteristic of unstable rather than stable angina?",
+      "image": null,
+      "options": [
+        "pain relieved by rest",
+        "new-onset rest pain or an escalating pattern of attacks",
+        "a permanently normal ECG",
+        "pain that never exceeds 5 minutes"
+      ],
+      "answer": 1,
+      "explanation": "New-onset, rest-related, or worsening angina defines instability. Stable angina is the exertional, rest-relieved, brief pattern.",
+      "explanationImage": null,
+      "tags": [
+        "Alterations in Cardiac Function",
+        "Section 4 — Unstable Angina & Acute Coronary Syndromes"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch06-q078",
+      "stem": "Histologically, the culprit lesion in unstable angina typically shows:",
+      "image": null,
+      "options": [
+        "a smooth, thick fibrous cap",
+        "a completely healed plaque",
+        "a ruptured thin-cap plaque with a platelet-rich thrombus",
+        "calcified annular deposits"
+      ],
+      "answer": 2,
+      "explanation": "The \"vulnerable\" thin-cap plaque ruptures, exposing thrombogenic material and triggering platelet-rich thrombus — the mechanism of ACS.",
+      "explanationImage": null,
+      "tags": [
+        "Alterations in Cardiac Function",
+        "Section 4 — Unstable Angina & Acute Coronary Syndromes"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch06-q079",
+      "stem": "Supplemental oxygen is administered in acute coronary syndromes when:",
+      "image": null,
+      "options": [
+        "oxygen saturation is low, to improve oxygen delivery to the ischemic myocardium",
+        "the patient routinely requests it for years",
+        "the blood pressure is high",
+        "the troponin is negative"
+      ],
+      "answer": 0,
+      "explanation": "Oxygen is part of the lecture's UA/MI treatment list and is targeted at hypoxemia to maximize oxygen delivery to ischemic tissue.",
+      "explanationImage": null,
+      "tags": [
+        "Alterations in Cardiac Function",
+        "Section 4 — Unstable Angina & Acute Coronary Syndromes"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch06-q080",
+      "stem": "Which biomarker pattern supports a diagnosis of unstable angina rather than NSTEMI?",
+      "image": null,
+      "options": [
+        "CK-MB twice the upper limit of normal",
+        "myoglobin markedly elevated",
+        "troponin I elevated at 6 hours",
+        "serial troponins within normal limits"
+      ],
+      "answer": 3,
+      "explanation": "Persistently negative troponins despite rest ischemia = unstable angina; any biomarker elevation indicates infarction (NSTEMI). ---",
+      "explanationImage": null,
+      "tags": [
+        "Alterations in Cardiac Function",
+        "Section 5 — Myocardial Infarction: STEMI & NSTEMI"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch06-q081",
+      "stem": "Myocardial infarction is defined as:",
+      "image": null,
+      "options": [
+        "temporary chest discomfort",
+        "ischemic death of myocardial cells due to complete occlusion of a coronary artery",
+        "inflammation of the pericardium",
+        "reversible impairment of relaxation"
+      ],
+      "answer": 1,
+      "explanation": "This is the lecture's exact definition: ischemic death of myocardial cells from complete coronary occlusion.",
+      "explanationImage": null,
+      "tags": [
+        "Alterations in Cardiac Function",
+        "Section 5 — Myocardial Infarction: STEMI & NSTEMI"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch06-q082",
+      "stem": "STEMI is characterized by:",
+      "image": null,
+      "options": [
+        "complete coronary occlusion causing transmural ischemia with ST elevation on ECG",
+        "ST depression with negative troponin",
+        "always normal coronary arteries",
+        "isolated diastolic dysfunction"
+      ],
+      "answer": 0,
+      "explanation": "Total occlusion and full-thickness (transmural) ischemia generate the ST-elevation pattern and require emergency reperfusion.",
+      "explanationImage": null,
+      "tags": [
+        "Alterations in Cardiac Function",
+        "Section 5 — Myocardial Infarction: STEMI & NSTEMI"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch06-q083",
+      "stem": "NSTEMI differs from STEMI in that NSTEMI usually involves:",
+      "image": null,
+      "options": [
+        "total permanent occlusion with transmural necrosis",
+        "no biomarker elevation",
+        "partial/non-occlusive thrombus causing subendocardial infarction with ST depression or T-wave inversion",
+        "the right atrium exclusively"
+      ],
+      "answer": 2,
+      "explanation": "NSTEMI is subendocardial necrosis from incomplete occlusion; the subendocardium is the most ischemia-vulnerable layer. Biomarkers are elevated (B is false).",
+      "explanationImage": null,
+      "tags": [
+        "Alterations in Cardiac Function",
+        "Section 5 — Myocardial Infarction: STEMI & NSTEMI"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch06-q084",
+      "stem": "Which symptom constellation is typical of acute myocardial infarction?",
+      "image": null,
+      "options": [
+        "pain only with inspiration",
+        "painless bradycardia only",
+        "burning epigastric pain relieved by antacids",
+        "severe chest pain radiating to the arms or neck, with shortness of breath, nausea, and lightheadedness"
+      ],
+      "answer": 3,
+      "explanation": "The lecture lists these classic MI symptoms: severe radiating chest pain, SOB, nausea, lightheadedness.",
+      "explanationImage": null,
+      "tags": [
+        "Alterations in Cardiac Function",
+        "Section 5 — Myocardial Infarction: STEMI & NSTEMI"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch06-q085",
+      "stem": "Diagnosis of myocardial infarction relies on:",
+      "image": null,
+      "options": [
+        "auscultation alone",
+        "ECG, serum markers, and angiography",
+        "urine studies",
+        "chest X-ray only"
+      ],
+      "answer": 1,
+      "explanation": "The lecture lists ECG, serum markers, and angiography as MI diagnostic tools.",
+      "explanationImage": null,
+      "tags": [
+        "Alterations in Cardiac Function",
+        "Section 5 — Myocardial Infarction: STEMI & NSTEMI"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch06-q086",
+      "stem": "Per the lecture, initial treatment of myocardial infarction includes:",
+      "image": null,
+      "options": [
+        "oxygen, pain relief, aspirin, and nitrates",
+        "digoxin and diuretics first",
+        "calcium channel blockers only",
+        "observation without medication"
+      ],
+      "answer": 0,
+      "explanation": "The lecture's MI treatment list begins with oxygen, pain relief, aspirin, and nitrates, plus emergency reperfusion in practice.",
+      "explanationImage": null,
+      "tags": [
+        "Alterations in Cardiac Function",
+        "Section 5 — Myocardial Infarction: STEMI & NSTEMI"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch06-q087",
+      "stem": "The ECG hallmark of STEMI is:",
+      "image": null,
+      "options": [
+        "diffuse T-wave flattening",
+        "sinus tachycardia",
+        "ST elevation in two or more contiguous leads",
+        "PR prolongation"
+      ],
+      "answer": 2,
+      "explanation": "ST elevation in anatomically adjacent leads localizes the transmural injury and defines the STEMI diagnosis.",
+      "explanationImage": null,
+      "tags": [
+        "Alterations in Cardiac Function",
+        "Section 5 — Myocardial Infarction: STEMI & NSTEMI"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch06-q088",
+      "stem": "ST elevation in leads V1–V4 suggests occlusion of the:",
+      "image": null,
+      "options": [
+        "right coronary artery",
+        "left circumflex artery",
+        "posterior descending artery",
+        "left anterior descending artery"
+      ],
+      "answer": 3,
+      "explanation": "The anterior/septal precordial leads reflect the LAD territory; occlusion there produces an anterior STEMI.",
+      "explanationImage": null,
+      "tags": [
+        "Alterations in Cardiac Function",
+        "Section 5 — Myocardial Infarction: STEMI & NSTEMI"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch06-q089",
+      "stem": "ST elevation in leads II, III, and aVF localizes the infarct to the:",
+      "image": null,
+      "options": [
+        "anterior wall",
+        "inferior wall",
+        "lateral wall",
+        "posterior wall only"
+      ],
+      "answer": 1,
+      "explanation": "The inferior leads view the diaphragmatic surface, usually supplied by the right coronary artery.",
+      "explanationImage": null,
+      "tags": [
+        "Alterations in Cardiac Function",
+        "Section 5 — Myocardial Infarction: STEMI & NSTEMI"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch06-q090",
+      "stem": "The urgent goal in STEMI management is:",
+      "image": null,
+      "options": [
+        "rapid reperfusion of the occluded artery — \"time is muscle\"",
+        "rate control with digoxin",
+        "anticoagulation only for weeks",
+        "aggressive diuresis"
+      ],
+      "answer": 0,
+      "explanation": "Every minute of total occlusion kills myocardium; primary PCI (or thrombolysis) must occur emergently to salvage tissue.",
+      "explanationImage": null,
+      "tags": [
+        "Alterations in Cardiac Function",
+        "Section 5 — Myocardial Infarction: STEMI & NSTEMI"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch06-q091",
+      "stem": "Serum troponin after myocardial infarction:",
+      "image": null,
+      "options": [
+        "never rises",
+        "returns to normal within 1 hour",
+        "rises only after 24 hours and stays elevated for life",
+        "begins rising within hours of necrosis and remains elevated for days"
+      ],
+      "answer": 3,
+      "explanation": "Troponin is released as myocytes die: detectable within a few hours, peaking around 24 hours, and remaining elevated for roughly 7–10 days.",
+      "explanationImage": null,
+      "tags": [
+        "Alterations in Cardiac Function",
+        "Section 5 — Myocardial Infarction: STEMI & NSTEMI"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch06-q092",
+      "stem": "A patient with chest pain, ST depression in V4–V6, and a troponin of 2.0 ng/mL is best classified as:",
+      "image": null,
+      "options": [
+        "unstable angina",
+        "stable angina",
+        "NSTEMI",
+        "Prinzmetal's angina"
+      ],
+      "answer": 2,
+      "explanation": "Ischemic ECG changes plus elevated troponin (necrosis) without ST elevation = NSTEMI.",
+      "explanationImage": null,
+      "tags": [
+        "Alterations in Cardiac Function",
+        "Section 5 — Myocardial Infarction: STEMI & NSTEMI"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch06-q093",
+      "stem": "The expected echocardiographic hallmark after a completed MI is:",
+      "image": null,
+      "options": [
+        "symmetric hyperkinesis",
+        "a regional wall motion abnormality (hypokinesis or akinesis) in the infarct territory",
+        "asymmetric septal hypertrophy",
+        "increased E-point septal separation with normal EF"
+      ],
+      "answer": 1,
+      "explanation": "Dead myocardium is hypokinetic or akinetic in the distribution of the occluded artery — the resting echo signature of infarction.",
+      "explanationImage": null,
+      "tags": [
+        "Alterations in Cardiac Function",
+        "Section 5 — Myocardial Infarction: STEMI & NSTEMI"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch06-q094",
+      "stem": "An ischemic wall motion abnormality involving a papillary muscle may acutely produce:",
+      "image": null,
+      "options": [
+        "mitral stenosis",
+        "tricuspid stenosis",
+        "acute mitral regurgitation with a flail leaflet",
+        "aortic regurgitation"
+      ],
+      "answer": 2,
+      "explanation": "Infarction or rupture of a papillary muscle eliminates its chordal support, allowing prolapse/flail and sudden severe MR.",
+      "explanationImage": null,
+      "tags": [
+        "Alterations in Cardiac Function",
+        "Section 5 — Myocardial Infarction: STEMI & NSTEMI"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch06-q095",
+      "stem": "Rupture of the interventricular septum after MI results in:",
+      "image": null,
+      "options": [
+        "isolated aortic regurgitation",
+        "mitral stenosis",
+        "no hemodynamic change",
+        "an acquired ventricular septal defect with a left-to-right shunt"
+      ],
+      "answer": 3,
+      "explanation": "Septal rupture creates a post-infarction VSD; echo shows turbulent left-to-right flow and a step-up in right-heart oxygen saturation.",
+      "explanationImage": null,
+      "tags": [
+        "Alterations in Cardiac Function",
+        "Section 5 — Myocardial Infarction: STEMI & NSTEMI"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch06-q096",
+      "stem": "Free wall rupture 3–7 days after MI most often causes:",
+      "image": null,
+      "options": [
+        "chronic stable angina",
+        "cardiac tamponade and sudden collapse",
+        "aortic stenosis",
+        "pulmonary embolism"
+      ],
+      "answer": 1,
+      "explanation": "Blood escapes into the pericardial space, causing hemopericardium and tamponade — usually fatal without immediate intervention.",
+      "explanationImage": null,
+      "tags": [
+        "Alterations in Cardiac Function",
+        "Section 5 — Myocardial Infarction: STEMI & NSTEMI"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch06-q097",
+      "stem": "Chronic post-infarction remodeling can lead to:",
+      "image": null,
+      "options": [
+        "rheumatic commissural fusion",
+        "a congenitally bicuspid aortic valve",
+        "LV aneurysm formation with reduced EF and risk of mural thrombus",
+        "pulmonary stenosis"
+      ],
+      "answer": 2,
+      "explanation": "Scarred myocardium stretches into an aneurysm; blood stasis within it promotes mural thrombus and embolic risk.",
+      "explanationImage": null,
+      "tags": [
+        "Alterations in Cardiac Function",
+        "Section 5 — Myocardial Infarction: STEMI & NSTEMI"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch06-q098",
+      "stem": "The long-term functional impact of infarcted myocardium, as opposed to ischemic myocardium, is:",
+      "image": null,
+      "options": [
+        "permanent loss of contractile tissue replaced by non-functioning scar",
+        "complete recovery in every case",
+        "improved ventricular compliance",
+        "reversibility after nitroglycerin"
+      ],
+      "answer": 0,
+      "explanation": "Infarction is irreversible; ischemia is the reversible state. This distinction is a stated lecture objective.",
+      "explanationImage": null,
+      "tags": [
+        "Alterations in Cardiac Function",
+        "Section 5 — Myocardial Infarction: STEMI & NSTEMI"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch06-q099",
+      "stem": "Definitive treatment for acute STEMI is:",
+      "image": null,
+      "options": [
+        "antibiotics",
+        "heart transplantation",
+        "digoxin loading",
+        "emergent reperfusion by primary PCI (or thrombolytics when PCI is unavailable)"
+      ],
+      "answer": 3,
+      "explanation": "Opening the occluded artery immediately is the only therapy that limits infarct size. Adjunctive drugs (oxygen, aspirin, nitrates, pain relief) support but do not replace reperfusion.",
+      "explanationImage": null,
+      "tags": [
+        "Alterations in Cardiac Function",
+        "Section 5 — Myocardial Infarction: STEMI & NSTEMI"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch06-q100",
+      "stem": "On echocardiography, a post-infarct segment that bulges outward and moves paradoxically during systole is described as:",
+      "image": null,
+      "options": [
+        "hypokinetic",
+        "dyskinetic, consistent with an aneurysm",
+        "hyperkinetic",
+        "normal"
+      ],
+      "answer": 1,
+      "explanation": "Dyskinesis (outward paradoxical motion) indicates a thinned aneurysmal segment, more severe than hypokinesis (reduced motion) or akinesis (no motion). ---",
+      "explanationImage": null,
+      "tags": [
+        "Alterations in Cardiac Function",
+        "Section 6 — Hypertrophic Cardiomyopathy"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch06-q101",
+      "stem": "Hypertrophic cardiomyopathy is best described as:",
+      "image": null,
+      "options": [
+        "an acquired infection of the myocardium",
+        "a disease of the pericardium",
+        "dilation of all four cardiac chambers",
+        "an inherited condition causing marked left ventricular hypertrophy"
+      ],
+      "answer": 3,
+      "explanation": "The lecture defines HCM as inherited (genetic) LV hypertrophy, typically from sarcomere protein mutations passed in an autosomal dominant pattern.",
+      "explanationImage": null,
+      "tags": [
+        "Alterations in Cardiac Function",
+        "Section 6 — Hypertrophic Cardiomyopathy"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch06-q102",
+      "stem": "The classic echocardiographic finding in HCM is:",
+      "image": null,
+      "options": [
+        "global hypokinesis with a dilated cavity",
+        "asymmetric septal hypertrophy with a septal-to-posterior-wall ratio greater than 1.3",
+        "rheumatic leaflet thickening",
+        "a dyskinetic apical segment only"
+      ],
+      "answer": 1,
+      "explanation": "Asymmetric septal hypertrophy (ASH) is the HCM hallmark on echo; the disproportionate septum bulges into the outflow tract. Global dilation/hypokinesis defines DCM.",
+      "explanationImage": null,
+      "tags": [
+        "Alterations in Cardiac Function",
+        "Section 6 — Hypertrophic Cardiomyopathy"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch06-q103",
+      "stem": "Systolic anterior motion (SAM) of the mitral valve refers to:",
+      "image": null,
+      "options": [
+        "diastolic doming of the leaflets",
+        "prolapse of the posterior leaflet",
+        "anterior displacement of the mitral leaflets toward the septum in systole, causing LV outflow obstruction and mitral regurgitation",
+        "calcification of the mitral annulus"
+      ],
+      "answer": 2,
+      "explanation": "SAM is the dynamic component of obstruction in HCM: systolic flow drags the leaflets into the narrowed LVOT, simultaneously obstructing flow and causing MR.",
+      "explanationImage": null,
+      "tags": [
+        "Alterations in Cardiac Function",
+        "Section 6 — Hypertrophic Cardiomyopathy"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch06-q104",
+      "stem": "Classic symptoms of HCM include:",
+      "image": null,
+      "options": [
+        "shortness of breath, chest pain, and syncope, especially with exertion",
+        "peripheral edema only",
+        "painless jaundice",
+        "hemoptysis"
+      ],
+      "answer": 0,
+      "explanation": "The lecture lists SOB, chest pain, and syncope as HCM symptoms; syncope with exertion in a young patient is a classic red flag.",
+      "explanationImage": null,
+      "tags": [
+        "Alterations in Cardiac Function",
+        "Section 6 — Hypertrophic Cardiomyopathy"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch06-q105",
+      "stem": "The diagnostic modalities of choice for HCM are:",
+      "image": null,
+      "options": [
+        "cardiac catheterization only",
+        "urine catecholamines",
+        "coronary angiography alone",
+        "echocardiography and ECG"
+      ],
+      "answer": 3,
+      "explanation": "The lecture states echo and ECG diagnose HCM; echo directly demonstrates the hypertrophy, SAM, and dynamic gradient.",
+      "explanationImage": null,
+      "tags": [
+        "Alterations in Cardiac Function",
+        "Section 6 — Hypertrophic Cardiomyopathy"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch06-q106",
+      "stem": "The mainstay drug treatment of symptomatic obstructive HCM is:",
+      "image": null,
+      "options": [
+        "nitrates",
+        "positive inotropes such as digoxin",
+        "beta-blockers",
+        "vasodilators"
+      ],
+      "answer": 2,
+      "explanation": "The lecture specifies beta-blockers: they slow the heart rate, improve diastolic filling time, and reduce the dynamic outflow gradient. Nitrates/vasodilators/inotropes worsen obstruction.",
+      "explanationImage": null,
+      "tags": [
+        "Alterations in Cardiac Function",
+        "Section 6 — Hypertrophic Cardiomyopathy"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch06-q107",
+      "stem": "Dynamic LV outflow obstruction in HCM results from:",
+      "image": null,
+      "options": [
+        "the hypertrophied septum narrowing the outflow tract, worsened by SAM drawing the leaflets into the flow stream",
+        "a fixed subaortic membrane",
+        "a supravalvular aortic ring",
+        "a calcified aortic valve"
+      ],
+      "answer": 0,
+      "explanation": "Obstruction is dynamic and variable: septal bulge plus SAM interact with flow, so the gradient changes with loading conditions — unlike fixed lesions.",
+      "explanationImage": null,
+      "tags": [
+        "Alterations in Cardiac Function",
+        "Section 6 — Hypertrophic Cardiomyopathy"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch06-q108",
+      "stem": "The characteristic continuous-wave Doppler spectral pattern of LVOT obstruction in HCM is:",
+      "image": null,
+      "options": [
+        "a symmetric parabolic trace",
+        "a late-peaking \"dagger-shaped\" envelope",
+        "a flat plateau",
+        "an early-peaking trace identical to fixed aortic stenosis"
+      ],
+      "answer": 1,
+      "explanation": "Because obstruction worsens in mid-to-late systole as flow accelerates, the CW envelope is late-peaking and dagger-shaped; fixed stenosis produces an early-peaking dome.",
+      "explanationImage": null,
+      "tags": [
+        "Alterations in Cardiac Function",
+        "Section 6 — Hypertrophic Cardiomyopathy"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch06-q109",
+      "stem": "The mitral regurgitation jet associated with SAM in HCM is typically:",
+      "image": null,
+      "options": [
+        "central and directed anteriorly",
+        "directed toward the septum",
+        "absent",
+        "posteriorly directed, opposite the obstructed outflow"
+      ],
+      "answer": 3,
+      "explanation": "SAM causes malcoaptation with the jet directed posteriorly, away from the LVOT jet; two separate high-velocity signals (LVOT and MR) must be distinguished.",
+      "explanationImage": null,
+      "tags": [
+        "Alterations in Cardiac Function",
+        "Section 6 — Hypertrophic Cardiomyopathy"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch06-q110",
+      "stem": "Which conditions or maneuvers increase the LVOT gradient in HCM?",
+      "image": null,
+      "options": [
+        "dehydration, exercise, and vasodilators (decreased preload and afterload)",
+        "squatting",
+        "beta-blockade",
+        "increased afterload from handgrip"
+      ],
+      "answer": 0,
+      "explanation": "Anything reducing preload or afterload lets the hypertrophied septum appose the mitral leaflets more closely, increasing obstruction; squatting/handgrip and beta-blockers reduce the gradient.",
+      "explanationImage": null,
+      "tags": [
+        "Alterations in Cardiac Function",
+        "Section 6 — Hypertrophic Cardiomyopathy"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch06-q111",
+      "stem": "Which medication should generally be avoided in obstructive HCM?",
+      "image": null,
+      "options": [
+        "beta-blockers",
+        "disopyramide",
+        "digoxin and other positive inotropes or vasodilators",
+        "nondihydropyridine calcium channel blockers"
+      ],
+      "answer": 2,
+      "explanation": "Inotropes increase contraction (worsening SAM) and vasodilators lower afterload/preload, both increasing the gradient — the opposite of therapy goals.",
+      "explanationImage": null,
+      "tags": [
+        "Alterations in Cardiac Function",
+        "Section 6 — Hypertrophic Cardiomyopathy"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch06-q112",
+      "stem": "HCM is distinguished from hypertrophy due to long-standing hypertension or athletic training by:",
+      "image": null,
+      "options": [
+        "a uniformly concentric pattern in every case",
+        "an asymmetric hypertrophy pattern, often with a family history of sudden cardiac death",
+        "normal diastolic function",
+        "the presence of valvular calcification"
+      ],
+      "answer": 1,
+      "explanation": "Asymmetry, familial occurrence, and sudden-death history point to genetic HCM rather than pressure-overload or athlete's heart.",
+      "explanationImage": null,
+      "tags": [
+        "Alterations in Cardiac Function",
+        "Section 6 — Hypertrophic Cardiomyopathy"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch06-q113",
+      "stem": "A feared complication of HCM in young athletes is:",
+      "image": null,
+      "options": [
+        "pulmonary embolism",
+        "infective endocarditis of the tricuspid valve",
+        "pericardial constriction",
+        "sudden cardiac death from ventricular arrhythmia"
+      ],
+      "answer": 3,
+      "explanation": "HCM is the leading cause of sudden death in young athletes, driven by ventricular arrhythmias — hence exercise-related syncope demands prompt evaluation.",
+      "explanationImage": null,
+      "tags": [
+        "Alterations in Cardiac Function",
+        "Section 6 — Hypertrophic Cardiomyopathy"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch06-q114",
+      "stem": "When medications fail to relieve obstructive symptoms in HCM, invasive options include:",
+      "image": null,
+      "options": [
+        "surgical septal myectomy or alcohol septal ablation",
+        "mitral valve replacement only",
+        "pericardiectomy",
+        "heart transplantation as the routine first step"
+      ],
+      "answer": 0,
+      "explanation": "Myectomy (or alcohol ablation) thins the basal septum and widens the LVOT, reducing the dynamic gradient in drug-refractory obstructive HCM.",
+      "explanationImage": null,
+      "tags": [
+        "Alterations in Cardiac Function",
+        "Section 6 — Hypertrophic Cardiomyopathy"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch06-q115",
+      "stem": "Diastolic function in HCM is typically:",
+      "image": null,
+      "options": [
+        "normal",
+        "impaired, from a stiff, thick, noncompliant left ventricle",
+        "exaggerated in every case",
+        "impossible to assess"
+      ],
+      "answer": 1,
+      "explanation": "Massive hypertrophy stiffens the ventricle, impairing relaxation and filling; this contributes to dyspnea and elevated filling pressures.",
+      "explanationImage": null,
+      "tags": [
+        "Alterations in Cardiac Function",
+        "Section 6 — Hypertrophic Cardiomyopathy"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch06-q116",
+      "stem": "LV outflow obstruction in HCM is quantified by:",
+      "image": null,
+      "options": [
+        "color M-mode only",
+        "tissue Doppler of the septum only",
+        "continuous-wave Doppler across the outflow tract using the simplified Bernoulli equation",
+        "2D measurement of the aortic annulus"
+      ],
+      "answer": 2,
+      "explanation": "CW Doppler captures the peak LVOT velocity, converted to a peak instantaneous gradient (ΔP = 4v²); this is the standard severity measure.",
+      "explanationImage": null,
+      "tags": [
+        "Alterations in Cardiac Function",
+        "Section 6 — Hypertrophic Cardiomyopathy"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch06-q117",
+      "stem": "The apical variant of HCM characteristically shows:",
+      "image": null,
+      "options": [
+        "a basal septal bulge only",
+        "a normally shaped cavity",
+        "a dilated left ventricle",
+        "a \"spade-shaped\" LV cavity at end-diastole"
+      ],
+      "answer": 3,
+      "explanation": "Apical hypertrophy obliterates the apex, creating the spade-like cavity contour classically paired with giant T-wave inversions on ECG.",
+      "explanationImage": null,
+      "tags": [
+        "Alterations in Cardiac Function",
+        "Section 6 — Hypertrophic Cardiomyopathy"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch06-q118",
+      "stem": "Concentric LV hypertrophy in which all walls thicken uniformly is:",
+      "image": null,
+      "options": [
+        "less typical of HCM, which is classically asymmetric, and more suggestive of hypertensive or infiltrative disease",
+        "the classic hallmark of HCM",
+        "diagnostic of DCM",
+        "never seen clinically"
+      ],
+      "answer": 0,
+      "explanation": "HCM is classically asymmetric septal; uniform thickening should prompt consideration of hypertension, aortic stenosis, or infiltrative/storage disease instead.",
+      "explanationImage": null,
+      "tags": [
+        "Alterations in Cardiac Function",
+        "Section 6 — Hypertrophic Cardiomyopathy"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch06-q119",
+      "stem": "Until late in the disease, systolic function in HCM is typically:",
+      "image": null,
+      "options": [
+        "severely reduced globally",
+        "normal or hyperdynamic",
+        "absent",
+        "judged by EF alone as the key finding"
+      ],
+      "answer": 1,
+      "explanation": "The thick-walled, small-cavity LV ejects vigorously (often EF > 70%); the problem is obstruction and filling, not global systolic failure until end-stage.",
+      "explanationImage": null,
+      "tags": [
+        "Alterations in Cardiac Function",
+        "Section 6 — Hypertrophic Cardiomyopathy"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch06-q120",
+      "stem": "Performance of the Valsalva maneuver during an HCM echocardiogram:",
+      "image": null,
+      "options": [
+        "always lowers the gradient",
+        "has no hemodynamic effect",
+        "increases preload",
+        "decreases preload, bringing the septum closer to the mitral leaflets and increasing the obstruction"
+      ],
+      "answer": 3,
+      "explanation": "Strain reduces venous return; a smaller LV intensifies septal–leaflets contact and augments the murmur and Doppler gradient — a classic provocative test. ---",
+      "explanationImage": null,
+      "tags": [
+        "Alterations in Cardiac Function",
+        "Section 7 — Dilated Cardiomyopathy"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch06-q121",
+      "stem": "Dilated cardiomyopathy is defined by:",
+      "image": null,
+      "options": [
+        "asymmetric septal hypertrophy",
+        "restrictive filling only",
+        "progressive dilation of the ventricles with impaired systolic contraction",
+        "normal chamber sizes with reduced ejection fraction"
+      ],
+      "answer": 2,
+      "explanation": "DCM is progressive cardiac dilation with systolic pump failure — the ventricle enlarges and contracts poorly.",
+      "explanationImage": null,
+      "tags": [
+        "Alterations in Cardiac Function",
+        "Section 7 — Dilated Cardiomyopathy"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch06-q122",
+      "stem": "Per the lecture, the etiology of DCM is:",
+      "image": null,
+      "options": [
+        "mostly genetic, but also infections, alcohol, and chemotherapeutic agents",
+        "exclusively rheumatic fever",
+        "exclusively valvular stenosis",
+        "always a congenitally bicuspid valve"
+      ],
+      "answer": 0,
+      "explanation": "The lecture lists genetic causes as predominant, with infections (viral myocarditis), alcohol, and chemotherapy (e.g., anthracyclines) as other etiologies.",
+      "explanationImage": null,
+      "tags": [
+        "Alterations in Cardiac Function",
+        "Section 7 — Dilated Cardiomyopathy"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch06-q123",
+      "stem": "Typical presenting symptoms of DCM are:",
+      "image": null,
+      "options": [
+        "exertional syncope only",
+        "heart failure symptoms — shortness of breath and reduced exercise capacity",
+        "painless hematuria",
+        "leg claudication"
+      ],
+      "answer": 1,
+      "explanation": "Low-output and congestion symptoms (SOB, reduced exercise tolerance) dominate; syncope alone is more typical of HCM or arrhythmia.",
+      "explanationImage": null,
+      "tags": [
+        "Alterations in Cardiac Function",
+        "Section 7 — Dilated Cardiomyopathy"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch06-q124",
+      "stem": "Diagnostic evaluation of DCM includes:",
+      "image": null,
+      "options": [
+        "cardiac biopsy only",
+        "auscultation alone",
+        "genetic testing only",
+        "echocardiography and ECG"
+      ],
+      "answer": 3,
+      "explanation": "The lecture specifies echo and ECG for DCM diagnosis; echo quantifies dilation, EF, and valve function.",
+      "explanationImage": null,
+      "tags": [
+        "Alterations in Cardiac Function",
+        "Section 7 — Dilated Cardiomyopathy"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch06-q125",
+      "stem": "The lecture lists which treatments for DCM?",
+      "image": null,
+      "options": [
+        "ACE inhibitors, beta-blockers, diuretics, digoxin, and alcohol avoidance",
+        "calcium channel blockers and nitrates only",
+        "aspirin and streptokinase",
+        "nitrates and anticoagulants only"
+      ],
+      "answer": 0,
+      "explanation": "This matches the lecture exactly; these agents improve contractility, unload the ventricle, control congestion, and remove cardiac toxins.",
+      "explanationImage": null,
+      "tags": [
+        "Alterations in Cardiac Function",
+        "Section 7 — Dilated Cardiomyopathy"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch06-q126",
+      "stem": "The expected echocardiographic picture in advanced DCM is:",
+      "image": null,
+      "options": [
+        "a small hyperdynamic LV",
+        "asymmetric septal hypertrophy with SAM",
+        "a dilated LV with global hypokinesis and reduced ejection fraction",
+        "a normal LV with severe aortic stenosis"
+      ],
+      "answer": 2,
+      "explanation": "Dilation plus global hypokinesis and low EF is the classic DCM echo, distinguishing it from the small, hyperdynamic LV of HCM.",
+      "explanationImage": null,
+      "tags": [
+        "Alterations in Cardiac Function",
+        "Section 7 — Dilated Cardiomyopathy"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch06-q127",
+      "stem": "On M-mode echocardiography, DCM commonly shows an increased:",
+      "image": null,
+      "options": [
+        "septal-to-posterior wall ratio",
+        "E-point septal separation (EPSS)",
+        "LVOT gradient",
+        "aortic root dimension"
+      ],
+      "answer": 1,
+      "explanation": "Poor mitral leaflet excursion in a dilated, poorly contracting LV widens the E-point-to-septum distance; EPSS is a quick bedside marker of low EF.",
+      "explanationImage": null,
+      "tags": [
+        "Alterations in Cardiac Function",
+        "Section 7 — Dilated Cardiomyopathy"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch06-q128",
+      "stem": "Mitral and tricuspid regurgitation in DCM are usually:",
+      "image": null,
+      "options": [
+        "rheumatic",
+        "due to leaflet perforation",
+        "congenital",
+        "functional, from annular dilation and papillary muscle displacement preventing coaptation"
+      ],
+      "answer": 3,
+      "explanation": "The structurally normal leaflets fail to coapt because the ventricle and annulus dilate and the papillary muscles are displaced — secondary (\"functional\") regurgitation.",
+      "explanationImage": null,
+      "tags": [
+        "Alterations in Cardiac Function",
+        "Section 7 — Dilated Cardiomyopathy"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch06-q129",
+      "stem": "Which finding would be unexpected in DCM?",
+      "image": null,
+      "options": [
+        "LV dilation",
+        "low ejection fraction",
+        "systolic anterior motion of the mitral valve with dynamic outflow obstruction",
+        "functional mitral regurgitation"
+      ],
+      "answer": 2,
+      "explanation": "SAM and dynamic obstruction belong to HCM; in DCM the problem is dilation with poor coaptation, not outflow tract obstruction.",
+      "explanationImage": null,
+      "tags": [
+        "Alterations in Cardiac Function",
+        "Section 7 — Dilated Cardiomyopathy"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch06-q130",
+      "stem": "Doppler in advanced DCM often shows:",
+      "image": null,
+      "options": [
+        "a restrictive mitral inflow pattern (tall E wave, short deceleration time) indicating elevated filling pressures",
+        "absent inflow",
+        "a dagger-shaped LVOT trace",
+        "continuous diastolic flow reversal in the descending aorta"
+      ],
+      "answer": 0,
+      "explanation": "As DCM progresses, filling pressures rise and the E/A pattern becomes restrictive; the dagger shape (C) indicates HCM obstruction, and diastolic aortic reversal (D) indicates severe AR.",
+      "explanationImage": null,
+      "tags": [
+        "Alterations in Cardiac Function",
+        "Section 7 — Dilated Cardiomyopathy"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch06-q131",
+      "stem": "According to the lecture conclusions, the only cure for end-stage cardiomyopathy is:",
+      "image": null,
+      "options": [
+        "digoxin",
+        "diuretics",
+        "ACE inhibitors",
+        "heart replacement (transplantation)"
+      ],
+      "answer": 3,
+      "explanation": "The lecture's conclusion is explicit: medications manage symptoms, but heart replacement is the only cure for cardiomyopathies.",
+      "explanationImage": null,
+      "tags": [
+        "Alterations in Cardiac Function",
+        "Section 7 — Dilated Cardiomyopathy"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch06-q132",
+      "stem": "ACE inhibitors benefit DCM by:",
+      "image": null,
+      "options": [
+        "increasing contractility",
+        "reducing afterload and adverse neurohormonal remodeling",
+        "blocking calcium channels in smooth muscle only",
+        "increasing preload"
+      ],
+      "answer": 1,
+      "explanation": "Blocking the renin–angiotensin system unloads the failing ventricle and blunts the remodeling that drives progressive dilation.",
+      "explanationImage": null,
+      "tags": [
+        "Alterations in Cardiac Function",
+        "Section 7 — Dilated Cardiomyopathy"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch06-q133",
+      "stem": "Digoxin acts in heart failure by:",
+      "image": null,
+      "options": [
+        "inhibiting the Na-K-ATPase pump, increasing myocardial contractility",
+        "blocking beta receptors",
+        "causing vasodilation",
+        "dissolving thrombus"
+      ],
+      "answer": 0,
+      "explanation": "Digoxin is a positive inotrope that improves contraction and rate control in atrial fibrillation; it does not dilate vessels or affect platelets.",
+      "explanationImage": null,
+      "tags": [
+        "Alterations in Cardiac Function",
+        "Section 7 — Dilated Cardiomyopathy"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch06-q134",
+      "stem": "Diuretics in DCM relieve symptoms by:",
+      "image": null,
+      "options": [
+        "improving contractility",
+        "slowing conduction",
+        "reducing volume overload, congestion, and edema",
+        "increasing afterload"
+      ],
+      "answer": 2,
+      "explanation": "By removing excess fluid, diuretics decrease pulmonary/venous congestion and ventricular wall stress — symptomatic, though not mortality-improving.",
+      "explanationImage": null,
+      "tags": [
+        "Alterations in Cardiac Function",
+        "Section 7 — Dilated Cardiomyopathy"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch06-q135",
+      "stem": "Which chemotherapeutic agent is a classic cause of DCM?",
+      "image": null,
+      "options": [
+        "cisplatin",
+        "methotrexate",
+        "tamoxifen",
+        "doxorubicin (an anthracycline)"
+      ],
+      "answer": 3,
+      "explanation": "Anthracyclines cause cumulative, dose-dependent myocyte injury leading to a dilated, poorly contracting ventricle — the lecture's \"chemotherapeutic agents\" cause.",
+      "explanationImage": null,
+      "tags": [
+        "Alterations in Cardiac Function",
+        "Section 7 — Dilated Cardiomyopathy"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch06-q136",
+      "stem": "A key echocardiographic contrast between DCM and HCM is:",
+      "image": null,
+      "options": [
+        "HCM has a dilated, hypocontractile LV; DCM has a small, hyperdynamic cavity",
+        "DCM shows a dilated, globally hypocontractile LV, whereas HCM shows a small or normal cavity with thick walls",
+        "both look identical",
+        "HCM has no hypertrophy"
+      ],
+      "answer": 1,
+      "explanation": "Big-and-weak versus small-and-strong (thick) summarizes the two phenotypes; option A reverses them.",
+      "explanationImage": null,
+      "tags": [
+        "Alterations in Cardiac Function",
+        "Section 7 — Dilated Cardiomyopathy"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch06-q137",
+      "stem": "Common ECG abnormalities in DCM include:",
+      "image": null,
+      "options": [
+        "arrhythmias, conduction delay, and low voltages",
+        "persistent ST elevation in contiguous leads",
+        "delta waves only",
+        "no abnormalities ever"
+      ],
+      "answer": 0,
+      "explanation": "Chamber enlargement, conduction disturbance (e.g., LBBB), low voltage, and arrhythmias (especially AF and PVCs) characterize DCM.",
+      "explanationImage": null,
+      "tags": [
+        "Alterations in Cardiac Function",
+        "Section 7 — Dilated Cardiomyopathy"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch06-q138",
+      "stem": "Because of blood stasis in the poorly contracting LV, patients with DCM are at risk for:",
+      "image": null,
+      "options": [
+        "aortic stenosis",
+        "rheumatic fever",
+        "pericardial constriction",
+        "mural thrombus with embolic stroke"
+      ],
+      "answer": 3,
+      "explanation": "Low-velocity flow in a dilated ventricle promotes thrombus formation on the endocardium, which can embolize — a rationale for anticoagulation in selected patients.",
+      "explanationImage": null,
+      "tags": [
+        "Alterations in Cardiac Function",
+        "Section 7 — Dilated Cardiomyopathy"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch06-q139",
+      "stem": "Alcohol avoidance is part of DCM management because:",
+      "image": null,
+      "options": [
+        "alcohol causes valvular stenosis",
+        "alcohol raises hemoglobin",
+        "alcohol is directly toxic to myocardial cells and worsens systolic function",
+        "alcohol increases digoxin levels"
+      ],
+      "answer": 2,
+      "explanation": "Ethanol is a direct myocardial toxin and a recognized cause of DCM; continued use accelerates pump failure, so the lecture includes abstinence in treatment.",
+      "explanationImage": null,
+      "tags": [
+        "Alterations in Cardiac Function",
+        "Section 7 — Dilated Cardiomyopathy"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch06-q140",
+      "stem": "Beta-blockers improve survival in DCM heart failure when:",
+      "image": null,
+      "options": [
+        "given at maximal dose immediately during acute decompensation",
+        "started at a low dose and titrated slowly during clinical stability",
+        "used only together with digoxin in acute pulmonary edema",
+        "combined with nitrates for vasospasm"
+      ],
+      "answer": 1,
+      "explanation": "Chronic low-dose titration counteracts maladaptive sympathetic activation; abrupt full dosing in decompensated failure worsens the low-output state. ---",
+      "explanationImage": null,
+      "tags": [
+        "Alterations in Cardiac Function",
+        "Section 8 — Valvular Stenosis"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch06-q141",
+      "stem": "Stenosis of a cardiac valve is defined as:",
+      "image": null,
+      "options": [
+        "narrowing of the valve or orifice that obstructs forward flow",
+        "backflow through an incompletely closed valve",
+        "infection of the leaflets",
+        "prolapse without a gradient"
+      ],
+      "answer": 0,
+      "explanation": "The lecture's definition: stenosis is narrowing that impairs forward (directional) flow; backflow (B) is regurgitation.",
+      "explanationImage": null,
+      "tags": [
+        "Alterations in Cardiac Function",
+        "Section 8 — Valvular Stenosis"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch06-q142",
+      "stem": "Per the lecture, valvular disorders are most common in the:",
+      "image": null,
+      "options": [
+        "tricuspid and pulmonary valves",
+        "pulmonary and mitral valves",
+        "aortic and tricuspid valves",
+        "mitral and aortic valves"
+      ],
+      "answer": 3,
+      "explanation": "The mitral and aortic valves experience the highest pressure loads, making them the most commonly diseased.",
+      "explanationImage": null,
+      "tags": [
+        "Alterations in Cardiac Function",
+        "Section 8 — Valvular Stenosis"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch06-q143",
+      "stem": "The primary hemodynamic consequence of stenosis is:",
+      "image": null,
+      "options": [
+        "backflow into the proximal chamber",
+        "a pressure gradient across the valve, with elevated pressure proximal to the obstruction",
+        "decreased pressure in the proximal chamber",
+        "no change in flow dynamics"
+      ],
+      "answer": 1,
+      "explanation": "The narrowed orifice forces the pumping chamber to generate higher pressure to push blood through, producing the measurable transvalvular gradient.",
+      "explanationImage": null,
+      "tags": [
+        "Alterations in Cardiac Function",
+        "Section 8 — Valvular Stenosis"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch06-q144",
+      "stem": "Chronic aortic stenosis causes the left ventricle to develop:",
+      "image": null,
+      "options": [
+        "dilation with low EF from the outset",
+        "eccentric hypertrophy",
+        "concentric hypertrophy from chronic pressure (afterload) overload",
+        "hypoplasia"
+      ],
+      "answer": 2,
+      "explanation": "Pressure overload triggers parallel sarcomere replication: wall thickening with a normal or small cavity (concentric). Dilation with eccentric hypertrophy follows regurgitant lesions.",
+      "explanationImage": null,
+      "tags": [
+        "Alterations in Cardiac Function",
+        "Section 8 — Valvular Stenosis"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch06-q145",
+      "stem": "Chronic mitral stenosis results in:",
+      "image": null,
+      "options": [
+        "left atrial enlargement, pulmonary congestion, and risk of atrial fibrillation",
+        "LV dilation",
+        "right atrial enlargement only",
+        "immediate RV hypertrophy without LA change"
+      ],
+      "answer": 0,
+      "explanation": "The pressure backs up into the LA (enlargement, Afib risk), then the lungs; the LV is characteristically underfilled and small.",
+      "explanationImage": null,
+      "tags": [
+        "Alterations in Cardiac Function",
+        "Section 8 — Valvular Stenosis"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch06-q146",
+      "stem": "The mitral valve area in MS can be measured noninvasively by:",
+      "image": null,
+      "options": [
+        "tissue Doppler of the septum only",
+        "ECG voltage",
+        "chest X-ray",
+        "2D planimetry and pressure half-time"
+      ],
+      "answer": 3,
+      "explanation": "Direct planimetry of the orifice and the pressure half-time method are the standard noninvasive MS area techniques.",
+      "explanationImage": null,
+      "tags": [
+        "Alterations in Cardiac Function",
+        "Section 8 — Valvular Stenosis"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch06-q147",
+      "stem": "The most common cause of aortic stenosis in adults over 65 is:",
+      "image": null,
+      "options": [
+        "rheumatic fever",
+        "calcific degeneration of a trileaflet valve",
+        "infective endocarditis",
+        "Marfan syndrome"
+      ],
+      "answer": 1,
+      "explanation": "Age-related calcific degeneration dominates in the elderly; rheumatic AS is the classic cause in younger patients in endemic regions.",
+      "explanationImage": null,
+      "tags": [
+        "Alterations in Cardiac Function",
+        "Section 8 — Valvular Stenosis"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch06-q148",
+      "stem": "The most common cause of mitral stenosis worldwide is:",
+      "image": null,
+      "options": [
+        "a congenital parachute mitral valve",
+        "infective endocarditis",
+        "rheumatic fever",
+        "papillary muscle rupture"
+      ],
+      "answer": 2,
+      "explanation": "Rheumatic commissural fusion and leaflet thickening remain the leading cause of MS globally; congenital MS is rare.",
+      "explanationImage": null,
+      "tags": [
+        "Alterations in Cardiac Function",
+        "Section 8 — Valvular Stenosis"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch06-q149",
+      "stem": "The simplified Bernoulli equation (ΔP = 4v²) is applied with continuous-wave Doppler to obtain:",
+      "image": null,
+      "options": [
+        "peak and mean transvalvular pressure gradients",
+        "chamber volumes",
+        "the ejection fraction",
+        "the stroke volume only"
+      ],
+      "answer": 0,
+      "explanation": "The measured jet velocity is converted to instantaneous pressure gradients — the core Doppler severity assessment for all stenotic valves.",
+      "explanationImage": null,
+      "tags": [
+        "Alterations in Cardiac Function",
+        "Section 8 — Valvular Stenosis"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch06-q150",
+      "stem": "The classic symptom triad of aortic stenosis is:",
+      "image": null,
+      "options": [
+        "fever, weight loss, night sweats",
+        "dyspnea, edema, ascites",
+        "exertional syncope, angina, and dyspnea/heart failure",
+        "palpitations, tremor, weight loss"
+      ],
+      "answer": 2,
+      "explanation": "Syncope, angina, and heart failure are the AS triad; their appearance marks decompensation and mandates valve intervention.",
+      "explanationImage": null,
+      "tags": [
+        "Alterations in Cardiac Function",
+        "Section 8 — Valvular Stenosis"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch06-q151",
+      "stem": "The murmur of mitral stenosis is:",
+      "image": null,
+      "options": [
+        "a low-pitched diastolic rumble best heard at the apex",
+        "a systolic ejection murmur at the right upper sternal border",
+        "a continuous murmur",
+        "a high-pitched diastolic decrescendo murmur at the left sternal border"
+      ],
+      "answer": 0,
+      "explanation": "Turbulent LA-to-LV flow across the narrowed orifice during diastole produces the apical diastolic rumble, often with an opening snap.",
+      "explanationImage": null,
+      "tags": [
+        "Alterations in Cardiac Function",
+        "Section 8 — Valvular Stenosis"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch06-q152",
+      "stem": "The murmur of aortic stenosis is:",
+      "image": null,
+      "options": [
+        "a mid-diastolic rumble at the apex",
+        "a holosystolic murmur at the lower left sternal border",
+        "a harsh systolic crescendo-decrescendo murmur radiating to the carotids",
+        "a diastolic blow along the left sternal border"
+      ],
+      "answer": 2,
+      "explanation": "Ejection through the stenotic valve creates a diamond-shaped systolic murmur radiating to the neck; option D describes aortic regurgitation.",
+      "explanationImage": null,
+      "tags": [
+        "Alterations in Cardiac Function",
+        "Section 8 — Valvular Stenosis"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch06-q153",
+      "stem": "A normal mitral valve orifice area is about 4–6 cm²; severe mitral stenosis is generally defined as:",
+      "image": null,
+      "options": [
+        "less than 3.0 cm²",
+        "less than 1.5 cm² (critical near 1.0 cm²)",
+        "greater than 2.5 cm²",
+        "exactly 6.0 cm²"
+      ],
+      "answer": 1,
+      "explanation": "Severity thresholds are mild <2.5, moderate 1.5–2.5, and severe <1.5 cm²; symptoms typically appear in the severe range.",
+      "explanationImage": null,
+      "tags": [
+        "Alterations in Cardiac Function",
+        "Section 8 — Valvular Stenosis"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch06-q154",
+      "stem": "Severe aortic stenosis is generally defined by a valve area of:",
+      "image": null,
+      "options": [
+        "greater than 2.0 cm²",
+        "1.5–2.0 cm²",
+        "exactly 2.0 cm²",
+        "less than 1.0 cm²"
+      ],
+      "answer": 3,
+      "explanation": "AVA <1.0 cm² (with high gradients, e.g., mean >40 mmHg) defines severe AS in a normal-flow state.",
+      "explanationImage": null,
+      "tags": [
+        "Alterations in Cardiac Function",
+        "Section 8 — Valvular Stenosis"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch06-q155",
+      "stem": "In chronic aortic stenosis, the LV adapts by:",
+      "image": null,
+      "options": [
+        "developing concentric hypertrophy to normalize wall stress, with a normal or small cavity",
+        "dilating immediately",
+        "thinning its walls",
+        "increasing compliance without limit"
+      ],
+      "answer": 0,
+      "explanation": "Sustained afterload excess thickens the walls inward; eventually hypertrophy fails, the ventricle decompensates, and EF falls.",
+      "explanationImage": null,
+      "tags": [
+        "Alterations in Cardiac Function",
+        "Section 8 — Valvular Stenosis"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch06-q156",
+      "stem": "Left atrial enlargement from mitral stenosis predisposes the patient to:",
+      "image": null,
+      "options": [
+        "sinus bradycardia",
+        "first-degree AV block only",
+        "atrial fibrillation and atrial thrombus with embolic risk",
+        "complete heart block"
+      ],
+      "answer": 2,
+      "explanation": "A stretched, pressured LA develops electrical instability (Afib) and stasis, so thrombus and stroke risk rise — anticoagulation decisions follow.",
+      "explanationImage": null,
+      "tags": [
+        "Alterations in Cardiac Function",
+        "Section 8 — Valvular Stenosis"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch06-q157",
+      "stem": "Per the lecture, treatment of significant valvular stenosis includes:",
+      "image": null,
+      "options": [
+        "observation only in all cases",
+        "indefinite antibiotics",
+        "anticoagulation alone as definitive therapy",
+        "medical management of symptoms with surgical repair"
+      ],
+      "answer": 3,
+      "explanation": "The lecture states valvular disorders are treated by symptom management and surgical repair — for stenosis, valvuloplasty, commissurotomy, or valve replacement.",
+      "explanationImage": null,
+      "tags": [
+        "Alterations in Cardiac Function",
+        "Section 8 — Valvular Stenosis"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch06-q158",
+      "stem": "Modalities used to diagnose valvular disorders, per the lecture, are:",
+      "image": null,
+      "options": [
+        "cardiac MRI and biopsy",
+        "auscultation, echocardiography, ECG, and chest X-ray",
+        "urine analysis and stress testing only",
+        "genetic testing"
+      ],
+      "answer": 1,
+      "explanation": "This list matches the lecture exactly; echocardiography is the definitive tool for confirming and quantifying the lesion.",
+      "explanationImage": null,
+      "tags": [
+        "Alterations in Cardiac Function",
+        "Section 8 — Valvular Stenosis"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch06-q159",
+      "stem": "With a continuous-wave Doppler peak velocity of 5 m/s across the aortic valve, the peak gradient is approximately:",
+      "image": null,
+      "options": [
+        "20 mmHg",
+        "50 mmHg",
+        "100 mmHg",
+        "125 mmHg"
+      ],
+      "answer": 2,
+      "explanation": "Applying ΔP = 4v²: 4 × 5² = 4 × 25 = 100 mmHg — severe aortic stenosis physiology.",
+      "explanationImage": null,
+      "tags": [
+        "Alterations in Cardiac Function",
+        "Section 8 — Valvular Stenosis"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch06-q160",
+      "stem": "A congenitally bicuspid aortic valve:",
+      "image": null,
+      "options": [
+        "predisposes to earlier aortic stenosis or regurgitation, often presenting in middle age",
+        "never causes dysfunction",
+        "causes only tricuspid valve disease",
+        "always requires transplantation"
+      ],
+      "answer": 0,
+      "explanation": "The abnormal two-leaflet architecture concentrates mechanical stress, accelerating calcific stenosis (or causing AR) decades before a trileaflet valve would fail. ---",
+      "explanationImage": null,
+      "tags": [
+        "Alterations in Cardiac Function",
+        "Section 9 — Valvular Regurgitation"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch06-q161",
+      "stem": "Regurgitation of a cardiac valve is defined as:",
+      "image": null,
+      "options": [
+        "forward obstruction",
+        "calcific narrowing",
+        "normal valve motion",
+        "incomplete valve closure creating backflow of blood"
+      ],
+      "answer": 3,
+      "explanation": "The lecture's definition: regurgitation is backflow through a valve that fails to close completely, impairing directional flow in the opposite way from stenosis.",
+      "explanationImage": null,
+      "tags": [
+        "Alterations in Cardiac Function",
+        "Section 9 — Valvular Regurgitation"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch06-q162",
+      "stem": "Chronic aortic regurgitation imposes on the left ventricle:",
+      "image": null,
+      "options": [
+        "pressure overload",
+        "volume overload, producing LV dilation and eccentric hypertrophy",
+        "no change in load",
+        "isolated right atrial overload"
+      ],
+      "answer": 1,
+      "explanation": "Diastolic backflow returns to a ventricle already filled from the LA, so the LV must handle excess volume — dilating with eccentric (series-replication) hypertrophy.",
+      "explanationImage": null,
+      "tags": [
+        "Alterations in Cardiac Function",
+        "Section 9 — Valvular Regurgitation"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch06-q163",
+      "stem": "Mitral regurgitation produces:",
+      "image": null,
+      "options": [
+        "a diastolic gradient from LA to LV",
+        "isolated right ventricular enlargement",
+        "systolic backflow into the LA, enlarging the LA and LV",
+        "decreased LA pressure"
+      ],
+      "answer": 2,
+      "explanation": "Each systole ejects part of the stroke volume backward, so the LA (receiving the jet) and the LV (handling the volume-plus-return) both enlarge.",
+      "explanationImage": null,
+      "tags": [
+        "Alterations in Cardiac Function",
+        "Section 9 — Valvular Regurgitation"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch06-q164",
+      "stem": "Acute severe mitral regurgitation differs from chronic MR because:",
+      "image": null,
+      "options": [
+        "the normal-sized LA cannot accommodate the regurgitant volume, causing abrupt pulmonary edema with a normal LV size",
+        "the LV is always dilated at onset",
+        "pulmonary pressures fall",
+        "the jet is always small"
+      ],
+      "answer": 0,
+      "explanation": "Chronicity allows chamber adaptation; acute MR (e.g., papillary rupture, endocarditis) strikes unadapted chambers, so a small hyperdynamic LV meets a stiff, noncompliant LA and flooding lungs.",
+      "explanationImage": null,
+      "tags": [
+        "Alterations in Cardiac Function",
+        "Section 9 — Valvular Regurgitation"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch06-q165",
+      "stem": "The murmur of aortic regurgitation is:",
+      "image": null,
+      "options": [
+        "systolic at the apex",
+        "continuous",
+        "a diastolic rumble at the apex only",
+        "a high-pitched diastolic decrescendo murmur along the left sternal border"
+      ],
+      "answer": 3,
+      "explanation": "Retrograde diastolic flow from the aorta into the LV produces the blowing, decrescendo diastolic murmur; an apical rumble (Austin Flint) may also be heard in severe AR.",
+      "explanationImage": null,
+      "tags": [
+        "Alterations in Cardiac Function",
+        "Section 9 — Valvular Regurgitation"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch06-q166",
+      "stem": "Chronic aortic regurgitation echocardiographic findings include:",
+      "image": null,
+      "options": [
+        "a small, hyperdynamic LV with a thick septum",
+        "a dilated LV with increased stroke volume and vigorous (hyperdynamic) contraction",
+        "asymmetric septal hypertrophy with SAM",
+        "a uniformly small aortic root"
+      ],
+      "answer": 1,
+      "explanation": "Volume overload yields a large, hyperdynamic ventricle with high total stroke volume; EF remains high until decompensation, then falls — a late sign.",
+      "explanationImage": null,
+      "tags": [
+        "Alterations in Cardiac Function",
+        "Section 9 — Valvular Regurgitation"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch06-q167",
+      "stem": "Prolapse of the posterior mitral leaflet produces an MR jet directed:",
+      "image": null,
+      "options": [
+        "posteriorly toward the left atrial wall",
+        "toward the LV outflow tract",
+        "anteriorly, toward the interatrial septum",
+        "straight and central"
+      ],
+      "answer": 2,
+      "explanation": "The regurgitant jet points opposite the prolapsing (abnormal) leaflet: posterior leaflet prolapse → anteriorly directed jet (and vice versa).",
+      "explanationImage": null,
+      "tags": [
+        "Alterations in Cardiac Function",
+        "Section 9 — Valvular Regurgitation"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch06-q168",
+      "stem": "Which aortic root diseases can cause aortic regurgitation?",
+      "image": null,
+      "options": [
+        "dissection, annuloaortic ectasia, and Marfan syndrome",
+        "mitral stenosis",
+        "tricuspid stenosis",
+        "pulmonary embolism"
+      ],
+      "answer": 0,
+      "explanation": "Root dilation or dissection pulls the commissures apart, preventing central leaflet coaptation; the valve leaflets themselves may be normal.",
+      "explanationImage": null,
+      "tags": [
+        "Alterations in Cardiac Function",
+        "Section 9 — Valvular Regurgitation"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch06-q169",
+      "stem": "Which echocardiographic measures quantify regurgitant severity?",
+      "image": null,
+      "options": [
+        "E-point septal separation",
+        "isovolumetric relaxation time",
+        "planimetry of the annulus",
+        "vena contracta width, PISA radius, and regurgitant fraction or volume"
+      ],
+      "answer": 3,
+      "explanation": "These are the standard quantitative tools; EPSS relates to EF, and the others are unrelated to jet severity.",
+      "explanationImage": null,
+      "tags": [
+        "Alterations in Cardiac Function",
+        "Section 9 — Valvular Regurgitation"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch06-q170",
+      "stem": "Infective endocarditis can cause acute severe regurgitation by:",
+      "image": null,
+      "options": [
+        "fusing the commissures",
+        "perforating or destroying leaflets and impairing coaptation with vegetations",
+        "narrowing the orifice",
+        "calcifying the annulus only"
+      ],
+      "answer": 1,
+      "explanation": "Vegetations erode, perforate, or prolapse leaflets, abruptly converting a competent valve into a severely leaking one — a surgical emergency.",
+      "explanationImage": null,
+      "tags": [
+        "Alterations in Cardiac Function",
+        "Section 9 — Valvular Regurgitation"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch06-q171",
+      "stem": "Ischemic damage or rupture of a papillary muscle most directly causes:",
+      "image": null,
+      "options": [
+        "mitral stenosis",
+        "aortic stenosis",
+        "acute mitral regurgitation",
+        "tricuspid stenosis"
+      ],
+      "answer": 2,
+      "explanation": "The papillary muscle anchors the chordae; loss of its support lets the leaflet prolapse into the LA, producing sudden, torrential MR. This is the \"ischemic damage\" valve etiology named in the lecture.",
+      "explanationImage": null,
+      "tags": [
+        "Alterations in Cardiac Function",
+        "Section 9 — Valvular Regurgitation"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch06-q172",
+      "stem": "Per the lecture, treatment of significant regurgitation includes:",
+      "image": null,
+      "options": [
+        "medical management of symptoms and surgical repair or replacement",
+        "thrombolytics",
+        "nitrates only",
+        "chemotherapy"
+      ],
+      "answer": 0,
+      "explanation": "The lecture's valvular treatment applies to both stenosis and regurgitation: control symptoms medically, then repair or replace the valve as needed.",
+      "explanationImage": null,
+      "tags": [
+        "Alterations in Cardiac Function",
+        "Section 9 — Valvular Regurgitation"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch06-q173",
+      "stem": "In chronic mitral regurgitation, the left atrium:",
+      "image": null,
+      "options": [
+        "remains normal in size",
+        "enlarges and becomes compliant, so pulmonary pressures may remain normal for years",
+        "shrinks over time",
+        "calcifies"
+      ],
+      "answer": 1,
+      "explanation": "Gradual LA dilation \"absorbs\" the regurgitant volume at lower pressure, protecting the lungs; decompensation appears only after years — unlike acute MR.",
+      "explanationImage": null,
+      "tags": [
+        "Alterations in Cardiac Function",
+        "Section 9 — Valvular Regurgitation"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch06-q174",
+      "stem": "The tricuspid regurgitation jet velocity is used to estimate:",
+      "image": null,
+      "options": [
+        "LV end-diastolic pressure",
+        "LA pressure",
+        "aortic pressure",
+        "right ventricular systolic pressure (adding estimated RA pressure)"
+      ],
+      "answer": 3,
+      "explanation": "Applying ΔP = 4v² to the TR jet and adding RA pressure gives RV systolic pressure, a routine echo estimate of pulmonary artery systolic pressure.",
+      "explanationImage": null,
+      "tags": [
+        "Alterations in Cardiac Function",
+        "Section 9 — Valvular Regurgitation"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch06-q175",
+      "stem": "Among color Doppler parameters, the most reliable single measure for grading MR severity is:",
+      "image": null,
+      "options": [
+        "the mitral E velocity alone",
+        "the aortic velocity",
+        "the vena contracta width",
+        "the LVOT VTI only"
+      ],
+      "answer": 2,
+      "explanation": "The vena contracta (narrowest jet neck) is less load- and gain-dependent than jet area; comprehensive grading integrates it with PISA and regurgitant volume.",
+      "explanationImage": null,
+      "tags": [
+        "Alterations in Cardiac Function",
+        "Section 9 — Valvular Regurgitation"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch06-q176",
+      "stem": "Rheumatic valvular disease frequently produces:",
+      "image": null,
+      "options": [
+        "combined stenosis and regurgitation of the same valve, most often the mitral",
+        "isolated pulmonic stenosis",
+        "only aortic regurgitation",
+        "purely functional TR with normal leaflets"
+      ],
+      "answer": 0,
+      "explanation": "Chronic rheumatic inflammation fuses commissures (stenosis) while scarring and shortening leaflets (regurgitation), commonly producing a mixed mitral lesion.",
+      "explanationImage": null,
+      "tags": [
+        "Alterations in Cardiac Function",
+        "Section 9 — Valvular Regurgitation"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch06-q177",
+      "stem": "Physical findings of chronic significant aortic regurgitation include:",
+      "image": null,
+      "options": [
+        "narrow pulse pressure and a soft murmur",
+        "fixed splitting of S2",
+        "a pericardial rub",
+        "widened pulse pressure with bounding (water-hammer) pulses"
+      ],
+      "answer": 3,
+      "explanation": "Rapid diastolic runoff drops diastolic pressure while systolic pressure rises, creating a wide pulse pressure with collapsing pulses — classic chronic AR.",
+      "explanationImage": null,
+      "tags": [
+        "Alterations in Cardiac Function",
+        "Section 9 — Valvular Regurgitation"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch06-q178",
+      "stem": "The ventricular adaptation pattern in regurgitant (volume overload) lesions is:",
+      "image": null,
+      "options": [
+        "concentric hypertrophy",
+        "eccentric hypertrophy with chamber dilation",
+        "no adaptation",
+        "wall thinning without dilation"
+      ],
+      "answer": 1,
+      "explanation": "Volume overload adds sarcomeres in series, so the chamber dilates while walls thicken relatively less — the reverse of the pressure-overload (stenosis) pattern.",
+      "explanationImage": null,
+      "tags": [
+        "Alterations in Cardiac Function",
+        "Section 9 — Valvular Regurgitation"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch06-q179",
+      "stem": "Functional (secondary) mitral regurgitation in DCM results from:",
+      "image": null,
+      "options": [
+        "rheumatic leaflet fusion",
+        "a congenital cleft mitral valve",
+        "LV and annular dilation plus papillary muscle displacement preventing leaflet coaptation",
+        "ruptured chordae from endocarditis"
+      ],
+      "answer": 2,
+      "explanation": "The leaflets are structurally normal; geometric distortion of the dilated ventricle alone prevents coaptation — distinguishing primary from secondary MR.",
+      "explanationImage": null,
+      "tags": [
+        "Alterations in Cardiac Function",
+        "Section 9 — Valvular Regurgitation"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch06-q180",
+      "stem": "The primary modality for diagnosing and quantifying valvular regurgitation is:",
+      "image": null,
+      "options": [
+        "echocardiography with Doppler",
+        "urine culture",
+        "a plain abdominal film",
+        "spirometry"
+      ],
+      "answer": 0,
+      "explanation": "Color, pulsed, and continuous-wave Doppler localize the leak, grade severity, and assess chamber consequences; auscultation raises suspicion, echo confirms. ---",
+      "explanationImage": null,
+      "tags": [
+        "Alterations in Cardiac Function",
+        "Section 10 — Comprehensive Integration: Lecture Review & Echo Correlation"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch06-q181",
+      "stem": "A 55-year-old reports substernal pressure after walking uphill, relieved within 5 minutes by rest. The most likely diagnosis is:",
+      "image": null,
+      "options": [
+        "STEMI",
+        "stable angina",
+        "mitral stenosis",
+        "dilated cardiomyopathy"
+      ],
+      "answer": 1,
+      "explanation": "Exertion-triggered, rest-relieved chest pain is the textbook signature of stable angina; nothing suggests rest pain, necrosis, or ventricular failure.",
+      "explanationImage": null,
+      "tags": [
+        "Alterations in Cardiac Function",
+        "Section 10 — Comprehensive Integration: Lecture Review & Echo Correlation"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch06-q182",
+      "stem": "A 48-year-old smoker awakens at 3 AM with severe chest pain and transient ST elevation; the pain resolves with nitroglycerin. The most likely diagnosis is:",
+      "image": null,
+      "options": [
+        "NSTEMI",
+        "stable angina",
+        "hypertrophic cardiomyopathy",
+        "variant (Prinzmetal's) angina"
+      ],
+      "answer": 3,
+      "explanation": "Nocturnal rest pain with resolving ST elevation in a smoker is vasospastic angina; STEMI would not resolve, and stable angina is exertional.",
+      "explanationImage": null,
+      "tags": [
+        "Alterations in Cardiac Function",
+        "Section 10 — Comprehensive Integration: Lecture Review & Echo Correlation"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch06-q183",
+      "stem": "A 62-year-old has recurrent rest chest pain lasting more than 20 minutes, more severe and frequent than before; the ECG shows no ST elevation and serial troponins are negative. The most likely diagnosis is:",
+      "image": null,
+      "options": [
+        "STEMI",
+        "stable angina",
+        "unstable angina",
+        "dilated cardiomyopathy"
+      ],
+      "answer": 2,
+      "explanation": "Rest pain >20 minutes with an escalating pattern and negative biomarkers exactly fits the lecture's unstable angina definition.",
+      "explanationImage": null,
+      "tags": [
+        "Alterations in Cardiac Function",
+        "Section 10 — Comprehensive Integration: Lecture Review & Echo Correlation"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch06-q184",
+      "stem": "A 70-year-old with crushing chest pain has ST elevation in V1–V4 and a troponin of 5 ng/mL. The most likely diagnosis is:",
+      "image": null,
+      "options": [
+        "anterior STEMI from LAD occlusion",
+        "posterior NSTEMI",
+        "Prinzmetal's angina",
+        "hypertrophic cardiomyopathy"
+      ],
+      "answer": 0,
+      "explanation": "Anterior ST elevation plus biomarker rise indicates complete LAD occlusion with transmural infarction, demanding immediate reperfusion.",
+      "explanationImage": null,
+      "tags": [
+        "Alterations in Cardiac Function",
+        "Section 10 — Comprehensive Integration: Lecture Review & Echo Correlation"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch06-q185",
+      "stem": "A 22-year-old athlete with exertional syncope has an echo showing a 25 mm septum, 10 mm posterior wall, and SAM of the mitral valve. The most likely diagnosis is:",
+      "image": null,
+      "options": [
+        "dilated cardiomyopathy",
+        "hypertrophic cardiomyopathy with dynamic LVOT obstruction",
+        "rheumatic mitral stenosis",
+        "pericardial effusion"
+      ],
+      "answer": 1,
+      "explanation": "Asymmetric septal hypertrophy plus SAM plus exertional syncope in a young patient is classic obstructive HCM, the leading cause of sudden death in young athletes.",
+      "explanationImage": null,
+      "tags": [
+        "Alterations in Cardiac Function",
+        "Section 10 — Comprehensive Integration: Lecture Review & Echo Correlation"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch06-q186",
+      "stem": "A 58-year-old with long-term heavy alcohol use has cardiomegaly, global hypokinesis, and an EF of 25%. The most likely diagnosis is:",
+      "image": null,
+      "options": [
+        "hypertrophic cardiomyopathy",
+        "mitral stenosis",
+        "STEMI",
+        "dilated cardiomyopathy"
+      ],
+      "answer": 3,
+      "explanation": "Alcoholic DCM presents as four-chamber dilation with global systolic failure; regional thick walls with SAM would indicate HCM instead.",
+      "explanationImage": null,
+      "tags": [
+        "Alterations in Cardiac Function",
+        "Section 10 — Comprehensive Integration: Lecture Review & Echo Correlation"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch06-q187",
+      "stem": "An 82-year-old with exertional syncope has a harsh crescendo-decrescendo murmur, a calcified aortic valve, and a mean gradient of 45 mmHg with an AVA of 0.7 cm². The most likely diagnosis is:",
+      "image": null,
+      "options": [
+        "mitral stenosis",
+        "aortic regurgitation",
+        "severe aortic stenosis",
+        "mitral regurgitation"
+      ],
+      "answer": 2,
+      "explanation": "Calcified valve, systolic ejection murmur, AVA <1.0 cm², and mean gradient >40 mmHg confirm severe calcific AS.",
+      "explanationImage": null,
+      "tags": [
+        "Alterations in Cardiac Function",
+        "Section 10 — Comprehensive Integration: Lecture Review & Echo Correlation"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch06-q188",
+      "stem": "A 45-year-old with childhood rheumatic fever has an apical diastolic rumble, LA enlargement, and a mitral area of 1.0 cm² by planimetry. The most likely diagnosis is:",
+      "image": null,
+      "options": [
+        "severe mitral stenosis",
+        "hypertrophic cardiomyopathy",
+        "acute mitral regurgitation",
+        "dilated cardiomyopathy"
+      ],
+      "answer": 0,
+      "explanation": "Rheumatic history, diastolic rumble, and a valve area ≤1.0 cm² (critical) establish severe rheumatic MS.",
+      "explanationImage": null,
+      "tags": [
+        "Alterations in Cardiac Function",
+        "Section 10 — Comprehensive Integration: Lecture Review & Echo Correlation"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch06-q189",
+      "stem": "Which echo finding best supports significant chronic aortic regurgitation?",
+      "image": null,
+      "options": [
+        "a small LV with low EF",
+        "a dilated, hyperdynamic LV with a diastolic AR jet and increased LVOT stroke volume",
+        "asymmetric septal hypertrophy",
+        "an isolated dilated right atrium"
+      ],
+      "answer": 1,
+      "explanation": "Chronic volume overload produces a big, vigorously contracting LV plus the diastolic jet; low EF in chronic AR is a late, ominous sign.",
+      "explanationImage": null,
+      "tags": [
+        "Alterations in Cardiac Function",
+        "Section 10 — Comprehensive Integration: Lecture Review & Echo Correlation"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch06-q190",
+      "stem": "Per the lecture conclusions, which condition ultimately requires heart replacement as the only cure?",
+      "image": null,
+      "options": [
+        "stable angina",
+        "variant angina",
+        "valvular stenosis",
+        "the cardiomyopathies"
+      ],
+      "answer": 3,
+      "explanation": "The lecture concludes that cardiomyopathies — loss of pumping effectiveness from muscle disease — are curable only by heart replacement.",
+      "explanationImage": null,
+      "tags": [
+        "Alterations in Cardiac Function",
+        "Section 10 — Comprehensive Integration: Lecture Review & Echo Correlation"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch06-q191",
+      "stem": "On stress echocardiography, a new wall motion abnormality appearing only with stress indicates:",
+      "image": null,
+      "options": [
+        "infarcted scar",
+        "normal myocardium",
+        "inducible ischemia of viable myocardium",
+        "pericardial constriction"
+      ],
+      "answer": 2,
+      "explanation": "Stress-induced (reversible) wall motion abnormality marks demand ischemia in living muscle; a scarred segment is abnormal at rest and worsens little with stress.",
+      "explanationImage": null,
+      "tags": [
+        "Alterations in Cardiac Function",
+        "Section 10 — Comprehensive Integration: Lecture Review & Echo Correlation"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch06-q192",
+      "stem": "Which pairing correctly classifies the forms of coronary heart disease from the lecture?",
+      "image": null,
+      "options": [
+        "Chronic ischemic heart disease: stable and variant angina; acute coronary syndrome: unstable angina, STEMI, and NSTEMI",
+        "Chronic: unstable angina; acute: stable angina",
+        "Chronic: STEMI; acute: variant angina",
+        "All forms are chronic"
+      ],
+      "answer": 0,
+      "explanation": "This is the lecture's exact breakdown: stable/variant angina are chronic; UA, STEMI, and NSTEMI are the acute coronary syndromes.",
+      "explanationImage": null,
+      "tags": [
+        "Alterations in Cardiac Function",
+        "Section 10 — Comprehensive Integration: Lecture Review & Echo Correlation"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch06-q193",
+      "stem": "Provided a valvular disorder, its effect on blood flow dynamics is best summarized as:",
+      "image": null,
+      "options": [
+        "both stenosis and regurgitation always increase forward flow",
+        "stenosis obstructs forward flow with a pressure gradient; regurgitation allows backward flow through incomplete closure",
+        "regurgitation obstructs flow; stenosis permits backflow",
+        "neither affects cardiovascular function"
+      ],
+      "answer": 1,
+      "explanation": "This matches the lecture objective: stenosis narrows and blocks forward flow; regurgitation leaks backward — both impair directional blood flow.",
+      "explanationImage": null,
+      "tags": [
+        "Alterations in Cardiac Function",
+        "Section 10 — Comprehensive Integration: Lecture Review & Echo Correlation"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch06-q194",
+      "stem": "Which MI type characteristically shows subendocardial (nontransmural) necrosis with ST depression and elevated troponin?",
+      "image": null,
+      "options": [
+        "STEMI",
+        "Q-wave infarct",
+        "Prinzmetal's angina",
+        "NSTEMI"
+      ],
+      "answer": 3,
+      "explanation": "Partial occlusion injures the ischemia-vulnerable subendocardium (NSTEMI); complete occlusion produces transmural STEMI with ST elevation.",
+      "explanationImage": null,
+      "tags": [
+        "Alterations in Cardiac Function",
+        "Section 10 — Comprehensive Integration: Lecture Review & Echo Correlation"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch06-q195",
+      "stem": "Which treatment–disease pairing is correct?",
+      "image": null,
+      "options": [
+        "variant angina — calcium channel blockers; HCM — beta-blockers",
+        "HCM — nitrates; variant angina — digoxin",
+        "DCM — vasodilators only; mitral stenosis — inotropes",
+        "stable angina — anticoagulants as first-line"
+      ],
+      "answer": 0,
+      "explanation": "The lecture's exact pairings: CCBs/nitrates for vasospasm and beta-blockers for HCM. Nitrates and inotropes worsen HCM obstruction, making B and C wrong.",
+      "explanationImage": null,
+      "tags": [
+        "Alterations in Cardiac Function",
+        "Section 10 — Comprehensive Integration: Lecture Review & Echo Correlation"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch06-q196",
+      "stem": "Nitrates have a therapeutic role in which forms of ischemic heart disease?",
+      "image": null,
+      "options": [
+        "HCM only",
+        "DCM only",
+        "stable angina, variant angina, unstable angina, and myocardial infarction",
+        "no form"
+      ],
+      "answer": 2,
+      "explanation": "Nitrates appear in the lecture's treatment lists for all ischemic forms; they are avoided in HCM obstruction and are only supportive in DCM heart failure.",
+      "explanationImage": null,
+      "tags": [
+        "Alterations in Cardiac Function",
+        "Section 10 — Comprehensive Integration: Lecture Review & Echo Correlation"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch06-q197",
+      "stem": "Following acute MI, echocardiography is valuable for:",
+      "image": null,
+      "options": [
+        "measuring serum troponin",
+        "assessing EF, wall motion, and mechanical complications such as MR, VSD, and thrombus",
+        "opening the coronary artery directly",
+        "replacing angiography for reperfusion decisions"
+      ],
+      "answer": 1,
+      "explanation": "Echo quantifies ventricular function and screens for complications; it cannot measure biomarkers, recanalize arteries, or substitute for angiography in reperfusion.",
+      "explanationImage": null,
+      "tags": [
+        "Alterations in Cardiac Function",
+        "Section 10 — Comprehensive Integration: Lecture Review & Echo Correlation"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch06-q198",
+      "stem": "Which finding differentiates NSTEMI from unstable angina?",
+      "image": null,
+      "options": [
+        "ST depression versus T-wave inversion",
+        "the location of chest pain",
+        "the heart rate",
+        "an elevated serum troponin indicating myocyte necrosis"
+      ],
+      "answer": 3,
+      "explanation": "Biochemical necrosis is the dividing line; ECG changes and symptoms overlap between the two syndromes.",
+      "explanationImage": null,
+      "tags": [
+        "Alterations in Cardiac Function",
+        "Section 10 — Comprehensive Integration: Lecture Review & Echo Correlation"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch06-q199",
+      "stem": "The lecture's conclusion about treatment of coronary heart disease is that:",
+      "image": null,
+      "options": [
+        "one protocol fits all forms",
+        "all forms require surgery",
+        "treatment approaches vary with the form of the disease and its prognosis",
+        "medications never help"
+      ],
+      "answer": 2,
+      "explanation": "Each form demands a different approach: lifestyle/nitrates for stable angina, CCBs for vasospasm, aggressive antithrombotic and reperfusion therapy for ACS.",
+      "explanationImage": null,
+      "tags": [
+        "Alterations in Cardiac Function",
+        "Section 10 — Comprehensive Integration: Lecture Review & Echo Correlation"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch06-q200",
+      "stem": "Untreated severe aortic stenosis progresses to heart failure through:",
+      "image": null,
+      "options": [
+        "chronic volume overload causing LV dilation",
+        "chronic afterload excess causing hypertrophy, then decompensation",
+        "rheumatic inflammation of the myocardium",
+        "reduced preload only"
+      ],
+      "answer": 1,
+      "explanation": "Stenosis is a pressure-overload lesion: concentric hypertrophy initially compensates, then fails, with dilation, low EF, and heart failure — linking stenosis pathophysiology to outcome. --- *End of question bank — 200 questions. Correct answers: 50 each (A, B, C, D).*",
+      "explanationImage": null,
+      "tags": [
+        "Alterations in Cardiac Function",
+        "Section 10 — Comprehensive Integration: Lecture Review & Echo Correlation"
+      ],
+      "reference": ""
+    }
+  ]
+}

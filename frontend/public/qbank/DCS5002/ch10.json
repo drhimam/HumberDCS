@@ -1,0 +1,3806 @@
+{
+  "chapterId": "ch10",
+  "title": "Neurohumoral Control & Autoregulation",
+  "questions": [
+    {
+      "id": "DCS5002-ch10-q001",
+      "stem": "Why must blood flow be continuously redistributed among the organs of the body?",
+      "image": null,
+      "options": [
+        "Tissues have constantly changing metabolic demands",
+        "Arterial pressure is identical in every organ at all times",
+        "All organs consume oxygen at the same rate",
+        "The heart can only pump a fixed volume to a single organ"
+      ],
+      "answer": 0,
+      "explanation": "Blood flow must constantly redistribute based on metabolic demand, so organs with higher activity receive more perfusion. Since organs compete for a limited blood supply, the nervous and endocrine systems continuously reallocate flow.",
+      "explanationImage": null,
+      "tags": [
+        "Neurohumoral Control & Autoregulation",
+        "Why Cardiovascular Control Is Necessary and the Autonomic Nervous System"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch10-q002",
+      "stem": "Which organ's blood supply is always prioritized during redistribution of cardiac output?",
+      "image": null,
+      "options": [
+        "The liver",
+        "The skeletal muscles",
+        "The brain",
+        "The gastrointestinal tract"
+      ],
+      "answer": 2,
+      "explanation": "The brain is always prioritized because neurons tolerate even brief interruption of perfusion poorly. Other organs, such as the gut and kidneys, can tolerate more variable flow.",
+      "explanationImage": null,
+      "tags": [
+        "Neurohumoral Control & Autoregulation",
+        "Why Cardiovascular Control Is Necessary and the Autonomic Nervous System"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch10-q003",
+      "stem": "During exercise, blood flow increases significantly to which of the following vascular beds?",
+      "image": null,
+      "options": [
+        "Gastrointestinal tract",
+        "Skeletal muscle",
+        "Renal cortex only",
+        "Coronary veins"
+      ],
+      "answer": 1,
+      "explanation": "Exercise increases skeletal muscle perfusion to match the rising metabolic demand of working muscle. Flow to less active beds, such as the gut, is reduced relative to muscle.",
+      "explanationImage": null,
+      "tags": [
+        "Neurohumoral Control & Autoregulation",
+        "Why Cardiovascular Control Is Necessary and the Autonomic Nervous System"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch10-q004",
+      "stem": "Which physiologic state is associated with a relative increase in gastrointestinal blood flow?",
+      "image": null,
+      "options": [
+        "Vigorous exercise",
+        "Acute hemorrhage",
+        "Severe hypovolemia",
+        "Digestion after a meal"
+      ],
+      "answer": 3,
+      "explanation": "Digestion increases gastrointestinal flow so absorbed nutrients can be processed and transported. During exercise or hypovolemia, flow is redirected away from the gut toward muscle and brain.",
+      "explanationImage": null,
+      "tags": [
+        "Neurohumoral Control & Autoregulation",
+        "Why Cardiovascular Control Is Necessary and the Autonomic Nervous System"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch10-q005",
+      "stem": "Cardiovascular homeostasis requires balancing which two primary hemodynamic determinants?",
+      "image": null,
+      "options": [
+        "Heart rate and blood viscosity",
+        "Preload and afterload only",
+        "Hemoglobin and hematocrit",
+        "Cardiac output with systemic vascular resistance"
+      ],
+      "answer": 3,
+      "explanation": "Homeostasis requires balancing heart output (cardiac output) with systemic resistance so that arterial pressure and tissue perfusion remain adequate. Adjusting only one side of this equation would destabilize blood pressure.",
+      "explanationImage": null,
+      "tags": [
+        "Neurohumoral Control & Autoregulation",
+        "Why Cardiovascular Control Is Necessary and the Autonomic Nervous System"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch10-q006",
+      "stem": "Which system provides the FASTEST response to hemodynamic changes such as a sudden drop in blood pressure?",
+      "image": null,
+      "options": [
+        "The endocrine system",
+        "The autonomic nervous system",
+        "The renal hormonal system",
+        "Local myogenic mechanisms"
+      ],
+      "answer": 1,
+      "explanation": "The autonomic nervous system provides the fastest response because neural signals act within seconds. Hormonal mechanisms such as ADH and RAAS develop more slowly but last longer.",
+      "explanationImage": null,
+      "tags": [
+        "Neurohumoral Control & Autoregulation",
+        "Why Cardiovascular Control Is Necessary and the Autonomic Nervous System"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch10-q007",
+      "stem": "What is the primary control center for cardiovascular regulation?",
+      "image": null,
+      "options": [
+        "The hypothalamus",
+        "The cerebral cortex",
+        "The medulla oblongata",
+        "The cerebellum"
+      ],
+      "answer": 2,
+      "explanation": "The medulla oblongata in the brainstem is the primary cardiovascular control center, housing the cardiac accelerator, cardioinhibitory, and vasomotor centers. The hypothalamus modulates it but is not the primary center.",
+      "explanationImage": null,
+      "tags": [
+        "Neurohumoral Control & Autoregulation",
+        "Why Cardiovascular Control Is Necessary and the Autonomic Nervous System"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch10-q008",
+      "stem": "Which higher brain center influences the medulla during emotional stress such as fear or anxiety?",
+      "image": null,
+      "options": [
+        "The limbic system",
+        "The kidneys",
+        "The carotid sinus",
+        "The coronary sinus"
+      ],
+      "answer": 0,
+      "explanation": "The limbic system influences the medulla during emotional stress, which explains tachycardia during anxiety. This is an example of higher brain centers overriding basic reflex control.",
+      "explanationImage": null,
+      "tags": [
+        "Neurohumoral Control & Autoregulation",
+        "Why Cardiovascular Control Is Necessary and the Autonomic Nervous System"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch10-q009",
+      "stem": "What is the function of the cardiac accelerator center in the medulla?",
+      "image": null,
+      "options": [
+        "It slows the heart through the vagus nerve",
+        "It constricts systemic arterioles",
+        "It increases heart activity via sympathetic fibers",
+        "It stimulates renal sodium retention"
+      ],
+      "answer": 2,
+      "explanation": "The cardiac accelerator center increases heart activity by sending signals through sympathetic fibers to the SA node, AV node, and myocardium. The cardioinhibitory center performs the opposite action.",
+      "explanationImage": null,
+      "tags": [
+        "Neurohumoral Control & Autoregulation",
+        "Why Cardiovascular Control Is Necessary and the Autonomic Nervous System"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch10-q010",
+      "stem": "Which nerve carries cardioinhibitory parasympathetic fibers to the heart?",
+      "image": null,
+      "options": [
+        "The vagus nerve",
+        "The phrenic nerve",
+        "The glossopharyngeal nerve",
+        "The sympathetic chain"
+      ],
+      "answer": 0,
+      "explanation": "The cardioinhibitory center slows the heart via the vagus nerve, the main parasympathetic supply to the SA and AV nodes. Increased vagal activity slows both rate and AV conduction.",
+      "explanationImage": null,
+      "tags": [
+        "Neurohumoral Control & Autoregulation",
+        "Why Cardiovascular Control Is Necessary and the Autonomic Nervous System"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch10-q011",
+      "stem": "Sympathetic stimulation of the vasomotor center causes vasoconstriction, which directly increases which hemodynamic parameter?",
+      "image": null,
+      "options": [
+        "Preload",
+        "Lusitropy",
+        "Contractility",
+        "Afterload"
+      ],
+      "answer": 3,
+      "explanation": "Sympathetic vasomotor stimulation constricts systemic vessels, raising systemic vascular resistance and therefore afterload. This increases the pressure work the left ventricle must perform with each beat.",
+      "explanationImage": null,
+      "tags": [
+        "Neurohumoral Control & Autoregulation",
+        "Why Cardiovascular Control Is Necessary and the Autonomic Nervous System"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch10-q012",
+      "stem": "The term \"chronotropy\" refers to which cardiac property?",
+      "image": null,
+      "options": [
+        "The force of myocardial contraction",
+        "The heart rate, controlled primarily at the SA node",
+        "The speed of AV nodal conduction",
+        "The rate of myocardial relaxation"
+      ],
+      "answer": 1,
+      "explanation": "Chronotropy affects the heart rate, and its primary site of control is the SA node. Positive chronotropy increases rate; negative chronotropy slows it.",
+      "explanationImage": null,
+      "tags": [
+        "Neurohumoral Control & Autoregulation",
+        "Why Cardiovascular Control Is Necessary and the Autonomic Nervous System"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch10-q013",
+      "stem": "\"Inotropy\" describes a change in which of the following?",
+      "image": null,
+      "options": [
+        "The force of myocardial contraction",
+        "SA node firing frequency",
+        "Venous valve competence",
+        "Capillary filtration pressure"
+      ],
+      "answer": 0,
+      "explanation": "Inotropy affects the force of contraction of the myocardium. Positive inotropic agents, such as norepinephrine acting on beta-1 receptors, increase contractile strength.",
+      "explanationImage": null,
+      "tags": [
+        "Neurohumoral Control & Autoregulation",
+        "Why Cardiovascular Control Is Necessary and the Autonomic Nervous System"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch10-q014",
+      "stem": "\"Dromotropy\" refers to changes in which parameter?",
+      "image": null,
+      "options": [
+        "The stroke volume of the ventricles",
+        "The duration of the P wave",
+        "The venous return rate",
+        "The speed of conduction through the AV node and His-Purkinje system"
+      ],
+      "answer": 3,
+      "explanation": "Dromotropy affects the speed of conduction, chiefly through the AV node and His-Purkinje system. Sympathetic stimulation produces positive dromotropy (faster conduction); vagal stimulation produces negative dromotropy.",
+      "explanationImage": null,
+      "tags": [
+        "Neurohumoral Control & Autoregulation",
+        "Why Cardiovascular Control Is Necessary and the Autonomic Nervous System"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch10-q015",
+      "stem": "\"Lusitropy\" refers to which of the following?",
+      "image": null,
+      "options": [
+        "The vigor of atrial kick",
+        "The degree of valve closure",
+        "The speed of myocardial relaxation during diastole",
+        "The tone of the venous system"
+      ],
+      "answer": 2,
+      "explanation": "Lusitropy affects the speed of myocardial relaxation, which determines how well the ventricle fills during diastole. Enhanced lusitropy improves early diastolic filling.",
+      "explanationImage": null,
+      "tags": [
+        "Neurohumoral Control & Autoregulation",
+        "Why Cardiovascular Control Is Necessary and the Autonomic Nervous System"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch10-q016",
+      "stem": "A drug that accelerates AV nodal conduction is best described as having which effect?",
+      "image": null,
+      "options": [
+        "A positive dromotropic effect",
+        "A positive inotropic effect",
+        "A negative chronotropic effect",
+        "A negative lusitropic effect"
+      ],
+      "answer": 0,
+      "explanation": "Any agent that speeds conduction through the AV node exerts a positive dromotropic effect. This is distinct from chronotropy (rate) and inotropy (contractile force).",
+      "explanationImage": null,
+      "tags": [
+        "Neurohumoral Control & Autoregulation",
+        "Why Cardiovascular Control Is Necessary and the Autonomic Nervous System"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch10-q017",
+      "stem": "An enhancement in the rate of ventricular relaxation during diastole is termed which of the following?",
+      "image": null,
+      "options": [
+        "Positive lusitropy",
+        "Positive chronotropy",
+        "Positive dromotropy",
+        "Positive inotropy"
+      ],
+      "answer": 0,
+      "explanation": "Faster myocardial relaxation is positive lusitropy, allowing more rapid and complete ventricular filling. Sympathetic stimulation improves both inotropy and lusitropy, improving systolic emptying and diastolic filling.",
+      "explanationImage": null,
+      "tags": [
+        "Neurohumoral Control & Autoregulation",
+        "Why Cardiovascular Control Is Necessary and the Autonomic Nervous System"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch10-q018",
+      "stem": "Stimulation of the vagus nerve produces which change in heart rate?",
+      "image": null,
+      "options": [
+        "An increase in heart rate",
+        "No change in heart rate",
+        "A decrease in heart rate",
+        "Heart rate that becomes fixed at 100 bpm"
+      ],
+      "answer": 2,
+      "explanation": "The vagus nerve decreases heart rate by releasing acetylcholine at the SA node, slowing the rate of depolarization. This is the primary mechanism of negative chronotropy in the heart.",
+      "explanationImage": null,
+      "tags": [
+        "Neurohumoral Control & Autoregulation",
+        "Why Cardiovascular Control Is Necessary and the Autonomic Nervous System"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch10-q019",
+      "stem": "Which neurotransmitter does the vagus nerve release at the SA node?",
+      "image": null,
+      "options": [
+        "Norepinephrine",
+        "Acetylcholine",
+        "Epinephrine",
+        "Dopamine"
+      ],
+      "answer": 1,
+      "explanation": "The vagus nerve releases acetylcholine, which acts on muscarinic receptors to slow SA node activity. Norepinephrine and epinephrine are sympathetic catecholamines with the opposite effect.",
+      "explanationImage": null,
+      "tags": [
+        "Neurohumoral Control & Autoregulation",
+        "Why Cardiovascular Control Is Necessary and the Autonomic Nervous System"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch10-q020",
+      "stem": "Sympathetic stimulation of the ventricular myocardium produces which result?",
+      "image": null,
+      "options": [
+        "Decreased ventricular force",
+        "Slowed relaxation",
+        "Reduced ejection fraction",
+        "Increased ventricular force of contraction"
+      ],
+      "answer": 3,
+      "explanation": "Sympathetic stimulation increases ventricular force of contraction (positive inotropy), raising stroke volume and cardiac output. It also speeds relaxation, so both systolic and diastolic performance improve.",
+      "explanationImage": null,
+      "tags": [
+        "Neurohumoral Control & Autoregulation",
+        "Sympathetic–Parasympathetic Cardiac Control and Resting Vagal Tone"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch10-q021",
+      "stem": "In the complete absence of autonomic input, what is the intrinsic firing rate of the SA node?",
+      "image": null,
+      "options": [
+        "50 beats per minute",
+        "60 beats per minute",
+        "80 beats per minute",
+        "100 beats per minute"
+      ],
+      "answer": 3,
+      "explanation": "The SA node has an intrinsic rate of 100 bpm. At rest, vagal tone slows this intrinsic rate down to the normal resting value of about 70 bpm.",
+      "explanationImage": null,
+      "tags": [
+        "Neurohumoral Control & Autoregulation",
+        "Sympathetic–Parasympathetic Cardiac Control and Resting Vagal Tone"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch10-q022",
+      "stem": "Which branch of the autonomic nervous system dominates cardiac control at rest?",
+      "image": null,
+      "options": [
+        "The sympathetic division",
+        "The parasympathetic division via the vagus nerve",
+        "The somatic nervous system",
+        "The enteric nervous system"
+      ],
+      "answer": 1,
+      "explanation": "Parasympathetic vagal tone dominates at rest, holding the heart below its intrinsic 100 bpm rate. Sympathetic influence is withdrawn at rest and only rises during stress or exertion.",
+      "explanationImage": null,
+      "tags": [
+        "Neurohumoral Control & Autoregulation",
+        "Sympathetic–Parasympathetic Cardiac Control and Resting Vagal Tone"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch10-q023",
+      "stem": "Resting vagal tone reduces the SA node rate from its intrinsic value to approximately which heart rate?",
+      "image": null,
+      "options": [
+        "70 beats per minute",
+        "100 beats per minute",
+        "120 beats per minute",
+        "150 beats per minute"
+      ],
+      "answer": 0,
+      "explanation": "Vagal tone slows the intrinsic 100 bpm SA node rate to approximately 70 bpm at rest. This continuous parasympathetic \"brake\" is the reason the resting ECG shows a rate below the intrinsic firing rate.",
+      "explanationImage": null,
+      "tags": [
+        "Neurohumoral Control & Autoregulation",
+        "Sympathetic–Parasympathetic Cardiac Control and Resting Vagal Tone"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch10-q024",
+      "stem": "What happens to heart rate when resting vagal tone is withdrawn?",
+      "image": null,
+      "options": [
+        "Heart rate decreases below 60 bpm",
+        "Heart rate is unchanged",
+        "Heart rate decreases to 40 bpm",
+        "Heart rate increases toward the intrinsic 100 bpm"
+      ],
+      "answer": 3,
+      "explanation": "Withdrawal of vagal tone removes the parasympathetic brake, allowing the heart rate to rise toward the SA node's intrinsic 100 bpm. This is one of the fastest mechanisms for increasing cardiac output.",
+      "explanationImage": null,
+      "tags": [
+        "Neurohumoral Control & Autoregulation",
+        "Sympathetic–Parasympathetic Cardiac Control and Resting Vagal Tone"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch10-q025",
+      "stem": "Which physiologic benefit is provided by resting vagal tone?",
+      "image": null,
+      "options": [
+        "Maximal systemic vasoconstriction",
+        "Elevated resting blood pressure",
+        "Efficient ventricular filling and a low resting workload",
+        "Increased coronary resistance"
+      ],
+      "answer": 2,
+      "explanation": "Vagal tone keeps the resting rate low, ensuring efficient filling time and a low resting workload for the heart. A slower rate prolongs diastole, increasing preload and coronary perfusion opportunity.",
+      "explanationImage": null,
+      "tags": [
+        "Neurohumoral Control & Autoregulation",
+        "Sympathetic–Parasympathetic Cardiac Control and Resting Vagal Tone"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch10-q026",
+      "stem": "Sympathetic fibers that increase heart rate reach the heart through which pathway?",
+      "image": null,
+      "options": [
+        "The cardiac accelerator nerves",
+        "The vagus nerve",
+        "The phrenic nerve",
+        "The recurrent laryngeal nerve"
+      ],
+      "answer": 0,
+      "explanation": "The cardiac accelerator nerves carry sympathetic fibers that increase rate, contractility, and conduction velocity. The vagus nerve carries parasympathetic fibers that slow the heart.",
+      "explanationImage": null,
+      "tags": [
+        "Neurohumoral Control & Autoregulation",
+        "Sympathetic–Parasympathetic Cardiac Control and Resting Vagal Tone"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch10-q027",
+      "stem": "What effect does sympathetic stimulation have on AV nodal conduction (dromotropy)?",
+      "image": null,
+      "options": [
+        "It slows AV conduction",
+        "It blocks AV conduction",
+        "It has no effect on conduction",
+        "It increases the speed of AV conduction"
+      ],
+      "answer": 3,
+      "explanation": "Sympathetic stimulation increases the speed of conduction through the AV node and His-Purkinje system (positive dromotropy). This allows the ventricles to be activated more quickly at high heart rates.",
+      "explanationImage": null,
+      "tags": [
+        "Neurohumoral Control & Autoregulation",
+        "Sympathetic–Parasympathetic Cardiac Control and Resting Vagal Tone"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch10-q028",
+      "stem": "Acetylcholine released by the vagus nerve affects the SA node in which way?",
+      "image": null,
+      "options": [
+        "It increases the slope of pacemaker depolarization",
+        "It slows SA node activity and pacemaker depolarization",
+        "It converts the SA node to a ventricular rhythm",
+        "It raises the resting membrane potential above threshold continuously"
+      ],
+      "answer": 1,
+      "explanation": "Acetylcholine slows SA node activity by decreasing the rate of spontaneous depolarization, lowering heart rate. This muscarinic effect is the cellular basis of vagal bradycardia.",
+      "explanationImage": null,
+      "tags": [
+        "Neurohumoral Control & Autoregulation",
+        "Sympathetic–Parasympathetic Cardiac Control and Resting Vagal Tone"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch10-q029",
+      "stem": "Which receptor subtype primarily mediates the sympathetic increase in heart rate at the SA node?",
+      "image": null,
+      "options": [
+        "Beta-1 receptors",
+        "Beta-2 receptors",
+        "Muscarinic receptors",
+        "Alpha-1 receptors"
+      ],
+      "answer": 0,
+      "explanation": "Beta-1 receptors in the SA node mediate the positive chronotropic effect of norepinephrine. This is why beta-1 blocker medications lower heart rate and blunt the rate response to exercise.",
+      "explanationImage": null,
+      "tags": [
+        "Neurohumoral Control & Autoregulation",
+        "Sympathetic–Parasympathetic Cardiac Control and Resting Vagal Tone"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch10-q030",
+      "stem": "Parasympathetic (vagal) stimulation of the AV node produces which electrophysiologic effect?",
+      "image": null,
+      "options": [
+        "Faster AV conduction and shorter PR interval",
+        "Slowed AV conduction and a longer PR interval",
+        "Reversal of conduction direction",
+        "Automatic increase in ventricular rate"
+      ],
+      "answer": 1,
+      "explanation": "Vagal stimulation slows AV nodal conduction (negative dromotropy), which can prolong the PR interval. Strong vagal activity can even produce transient AV block.",
+      "explanationImage": null,
+      "tags": [
+        "Neurohumoral Control & Autoregulation",
+        "Sympathetic–Parasympathetic Cardiac Control and Resting Vagal Tone"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch10-q031",
+      "stem": "Which of the following is NOT an effect of sympathetic stimulation of the heart?",
+      "image": null,
+      "options": [
+        "Increased heart rate",
+        "Increased contractile force",
+        "Slowed AV nodal conduction",
+        "Enhanced myocardial relaxation"
+      ],
+      "answer": 2,
+      "explanation": "Sympathetic stimulation increases rate, force, conduction velocity, and relaxation speed. Slowing AV conduction is a parasympathetic (vagal) effect, not a sympathetic one.",
+      "explanationImage": null,
+      "tags": [
+        "Neurohumoral Control & Autoregulation",
+        "Sympathetic–Parasympathetic Cardiac Control and Resting Vagal Tone"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch10-q032",
+      "stem": "At rest, the balance between the intrinsic SA node rate and autonomic tone produces which typical resting heart rate?",
+      "image": null,
+      "options": [
+        "100 bpm, matching the intrinsic rate",
+        "120 bpm, from added sympathetic drive",
+        "40 bpm, from maximal vagal block",
+        "About 70 bpm, below the intrinsic rate"
+      ],
+      "answer": 3,
+      "explanation": "The intrinsic rate of 100 bpm is actively slowed to about 70 bpm by resting vagal tone. The measured resting rate therefore reflects parasympathetic dominance over the intrinsic pacemaker.",
+      "explanationImage": null,
+      "tags": [
+        "Neurohumoral Control & Autoregulation",
+        "Sympathetic–Parasympathetic Cardiac Control and Resting Vagal Tone"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch10-q033",
+      "stem": "If all parasympathetic (vagal) influence on the SA node were pharmacologically blocked, the resting heart rate would be expected to do which of the following?",
+      "image": null,
+      "options": [
+        "Rise to approximately the intrinsic rate of 100 bpm",
+        "Fall to approximately 50 bpm",
+        "Remain fixed at 70 bpm",
+        "Become irregularly variable between 40 and 140 bpm"
+      ],
+      "answer": 0,
+      "explanation": "Removing the vagal brake exposes the intrinsic SA node rate of 100 bpm. This principle explains the tachycardia seen with anticholinergic drugs such as atropine.",
+      "explanationImage": null,
+      "tags": [
+        "Neurohumoral Control & Autoregulation",
+        "Sympathetic–Parasympathetic Cardiac Control and Resting Vagal Tone"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch10-q034",
+      "stem": "Which statement best describes autonomic balance in a healthy person at rest?",
+      "image": null,
+      "options": [
+        "Sympathetic and parasympathetic activity are both zero",
+        "Sympathetic activity dominates with high catecholamine levels",
+        "Parasympathetic (vagal) activity dominates over sympathetic activity",
+        "Hormonal mechanisms replace neural control entirely"
+      ],
+      "answer": 2,
+      "explanation": "At rest, the parasympathetic division dominates, maintaining a rate near 70 bpm. This dominance ensures efficient filling and a low myocardial oxygen workload.",
+      "explanationImage": null,
+      "tags": [
+        "Neurohumoral Control & Autoregulation",
+        "Sympathetic–Parasympathetic Cardiac Control and Resting Vagal Tone"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch10-q035",
+      "stem": "The primary purpose of resting vagal tone is to ensure which combination of effects?",
+      "image": null,
+      "options": [
+        "High blood pressure and rapid filling",
+        "Efficient ventricular filling and low resting workload",
+        "Maximal coronary vasoconstriction",
+        "Constant sympathetic readiness for exercise"
+      ],
+      "answer": 1,
+      "explanation": "Vagal tone slows the heart so that diastolic filling is efficient while myocardial oxygen demand stays low. This balance optimizes cardiac efficiency at rest.",
+      "explanationImage": null,
+      "tags": [
+        "Neurohumoral Control & Autoregulation",
+        "Sympathetic–Parasympathetic Cardiac Control and Resting Vagal Tone"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch10-q036",
+      "stem": "How does a slower resting heart rate improve ventricular filling?",
+      "image": null,
+      "options": [
+        "It shortens systole to increase ejection",
+        "It increases systemic vascular resistance",
+        "It reduces atrial compliance",
+        "It prolongs diastole, allowing more time for ventricular filling"
+      ],
+      "answer": 3,
+      "explanation": "A slower rate lengthens diastole, giving the ventricle more time to fill with venous return. This maintains an adequate stroke volume at a lower heart rate.",
+      "explanationImage": null,
+      "tags": [
+        "Neurohumoral Control & Autoregulation",
+        "Sympathetic–Parasympathetic Cardiac Control and Resting Vagal Tone"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch10-q037",
+      "stem": "Stimulation of the vagus nerve would be expected to produce which set of changes?",
+      "image": null,
+      "options": [
+        "Increased heart rate and increased contractility",
+        "Increased heart rate and vasoconstriction",
+        "Decreased heart rate and increased contractility",
+        "Decreased heart rate and slowed SA node activity"
+      ],
+      "answer": 3,
+      "explanation": "Vagal stimulation releases acetylcholine, which slows the SA node and decreases heart rate. Vagal effects on the ventricles are modest, so contractility is not significantly increased.",
+      "explanationImage": null,
+      "tags": [
+        "Neurohumoral Control & Autoregulation",
+        "Sympathetic–Parasympathetic Cardiac Control and Resting Vagal Tone"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch10-q038",
+      "stem": "Which neurotransmitter is released by postganglionic sympathetic fibers at the heart?",
+      "image": null,
+      "options": [
+        "Acetylcholine",
+        "Norepinephrine",
+        "Gamma-aminobutyric acid",
+        "Serotonin"
+      ],
+      "answer": 1,
+      "explanation": "Postganglionic sympathetic fibers release norepinephrine, which increases heart rate and contractility via beta-1 receptors. Acetylcholine is the parasympathetic neurotransmitter at the SA node.",
+      "explanationImage": null,
+      "tags": [
+        "Neurohumoral Control & Autoregulation",
+        "Sympathetic–Parasympathetic Cardiac Control and Resting Vagal Tone"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch10-q039",
+      "stem": "What happens to heart rate when sympathetic firing to the heart increases?",
+      "image": null,
+      "options": [
+        "It decreases because of muscarinic activation",
+        "It remains at the intrinsic 100 bpm",
+        "It increases as the SA node depolarizes more rapidly",
+        "It first increases, then falls to 40 bpm"
+      ],
+      "answer": 2,
+      "explanation": "Norepinephrine acting on SA node beta-1 receptors increases the slope of pacemaker depolarization, raising heart rate. This is the primary mechanism for increasing cardiac output during exercise and stress.",
+      "explanationImage": null,
+      "tags": [
+        "Neurohumoral Control & Autoregulation",
+        "Sympathetic–Parasympathetic Cardiac Control and Resting Vagal Tone"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch10-q040",
+      "stem": "A well-trained endurance athlete typically has a low resting heart rate primarily because of which mechanism?",
+      "image": null,
+      "options": [
+        "Loss of SA node automaticity",
+        "Increased resting vagal (parasympathetic) tone",
+        "Chronic excess norepinephrine release",
+        "Reduced ventricular compliance"
+      ],
+      "answer": 1,
+      "explanation": "Athletes have enhanced resting vagal tone, which exerts a stronger parasympathetic brake on the SA node. The intrinsic rate is normal; the low resting rate reflects greater vagal dominance.",
+      "explanationImage": null,
+      "tags": [
+        "Neurohumoral Control & Autoregulation",
+        "The Baroreceptor Reflex"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch10-q041",
+      "stem": "Baroreceptors detect which physiologic stimulus?",
+      "image": null,
+      "options": [
+        "Changes in blood pH",
+        "Changes in plasma osmolality",
+        "Stretch of the vessel wall",
+        "Changes in blood glucose"
+      ],
+      "answer": 2,
+      "explanation": "Baroreceptors are stretch receptors in the vessel wall; pressure changes alter wall stretch and therefore receptor firing. They are mechanoreceptors, not chemical sensors.",
+      "explanationImage": null,
+      "tags": [
+        "Neurohumoral Control & Autoregulation",
+        "The Baroreceptor Reflex"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch10-q042",
+      "stem": "When blood pressure suddenly increases, the firing rate of the baroreceptors does which of the following?",
+      "image": null,
+      "options": [
+        "It increases because wall stretch is greater",
+        "It decreases because the vessels stiffen",
+        "It remains at baseline",
+        "It stops entirely for several seconds"
+      ],
+      "answer": 0,
+      "explanation": "Increased pressure stretches the baroreceptors, raising their firing rate. This increased afferent signal tells the medulla that pressure is too high and triggers corrective responses.",
+      "explanationImage": null,
+      "tags": [
+        "Neurohumoral Control & Autoregulation",
+        "The Baroreceptor Reflex"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch10-q043",
+      "stem": "Baroreceptors located in the aortic arch primarily monitor which circulation?",
+      "image": null,
+      "options": [
+        "Coronary sinus pressure",
+        "Pulmonary artery pressure",
+        "Left atrial filling pressure",
+        "Systemic arterial pressure"
+      ],
+      "answer": 3,
+      "explanation": "Aortic arch receptors monitor systemic pressure in the high-pressure arterial system. Their signals travel to the medulla to support rapid blood pressure regulation.",
+      "explanationImage": null,
+      "tags": [
+        "Neurohumoral Control & Autoregulation",
+        "The Baroreceptor Reflex"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch10-q044",
+      "stem": "Baroreceptors in the carotid sinuses are positioned specifically to monitor which of the following?",
+      "image": null,
+      "options": [
+        "Pulmonary vascular resistance",
+        "Cerebral perfusion pressure",
+        "Venous return from the lower body",
+        "Coronary perfusion during systole"
+      ],
+      "answer": 1,
+      "explanation": "The carotid sinuses sit at the bifurcation of the common carotid arteries, where they monitor pressure perfusing the brain. This placement protects cerebral blood flow, the body's highest priority.",
+      "explanationImage": null,
+      "tags": [
+        "Neurohumoral Control & Autoregulation",
+        "The Baroreceptor Reflex"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch10-q045",
+      "stem": "Baroreceptors located in the atria monitor which variable?",
+      "image": null,
+      "options": [
+        "Systemic vascular resistance",
+        "Venous return and atrial filling (low-pressure stretch)",
+        "Aortic diastolic pressure",
+        "Pulmonary capillary wedge pressure only"
+      ],
+      "answer": 1,
+      "explanation": "Atrial receptors monitor venous return by sensing atrial wall stretch, reflecting the volume returning to the heart. This low-pressure input complements the high-pressure arterial baroreceptors.",
+      "explanationImage": null,
+      "tags": [
+        "Neurohumoral Control & Autoregulation",
+        "The Baroreceptor Reflex"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch10-q046",
+      "stem": "In response to a sudden increase in blood pressure, the medulla activates which autonomic pathway?",
+      "image": null,
+      "options": [
+        "Increased sympathetic outflow to the heart and vessels",
+        "Increased adrenal androgen release",
+        "Parasympathetic (vagal) pathways while withdrawing sympathetic tone",
+        "Renal release of erythropoietin"
+      ],
+      "answer": 2,
+      "explanation": "Increased baroreceptor firing activates parasympathetic pathways and withdraws sympathetic drive. This combination lowers heart rate, contractility, and vascular tone.",
+      "explanationImage": null,
+      "tags": [
+        "Neurohumoral Control & Autoregulation",
+        "The Baroreceptor Reflex"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch10-q047",
+      "stem": "Which pair of changes occurs when the baroreceptor reflex responds to elevated blood pressure?",
+      "image": null,
+      "options": [
+        "Increased heart rate and vasoconstriction",
+        "Increased heart rate and increased output",
+        "Decreased heart rate and vasoconstriction",
+        "Decreased heart rate and decreased cardiac output"
+      ],
+      "answer": 3,
+      "explanation": "The response to high pressure reduces heart rate and cardiac output, while peripheral vasodilation lowers resistance. Together these changes bring blood pressure back toward normal.",
+      "explanationImage": null,
+      "tags": [
+        "Neurohumoral Control & Autoregulation",
+        "The Baroreceptor Reflex"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch10-q048",
+      "stem": "In the response to elevated blood pressure, peripheral vasodilation lowers blood pressure primarily by doing which of the following?",
+      "image": null,
+      "options": [
+        "Increasing venous return",
+        "Reducing systemic vascular resistance",
+        "Increasing blood viscosity",
+        "Reducing ventricular contractility directly"
+      ],
+      "answer": 1,
+      "explanation": "Vasodilation widens the resistance vessels, decreasing systemic vascular resistance. Because pressure = flow × resistance, lowering resistance lowers arterial pressure.",
+      "explanationImage": null,
+      "tags": [
+        "Neurohumoral Control & Autoregulation",
+        "The Baroreceptor Reflex"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch10-q049",
+      "stem": "When blood pressure falls, baroreceptor firing rate changes in which way, and what reflex follows?",
+      "image": null,
+      "options": [
+        "Firing increases, triggering vagal activation",
+        "Firing is unchanged, so no reflex occurs",
+        "Firing stops, triggering vasodilation",
+        "Firing decreases, activating sympathetic pathways"
+      ],
+      "answer": 3,
+      "explanation": "Reduced pressure decreases baroreceptor firing, and the medulla responds by activating sympathetic pathways. The result is tachycardia, increased contractility, and vasoconstriction.",
+      "explanationImage": null,
+      "tags": [
+        "Neurohumoral Control & Autoregulation",
+        "The Baroreceptor Reflex"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch10-q050",
+      "stem": "Which combination best describes the complete baroreceptor response to a sudden fall in blood pressure?",
+      "image": null,
+      "options": [
+        "Bradycardia, decreased contractility, vasodilation",
+        "Bradycardia, increased contractility, vasodilation",
+        "Tachycardia, increased contractility, vasoconstriction",
+        "Tachycardia, decreased contractility, vasodilation"
+      ],
+      "answer": 2,
+      "explanation": "Reduced baroreceptor firing activates the sympathetic system, raising heart rate, contractility, and vascular tone. Peripheral vessels constrict rapidly, returning blood pressure toward normal.",
+      "explanationImage": null,
+      "tags": [
+        "Neurohumoral Control & Autoregulation",
+        "The Baroreceptor Reflex"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch10-q051",
+      "stem": "A patient in the echo lab develops a rapid supraventricular rate. Carotid sinus massage is performed. Which sequence explains the therapeutic effect?",
+      "image": null,
+      "options": [
+        "Vagal afferent firing decreases, sympathetic activity rises, and the rate slows",
+        "Baroreceptor stretch and firing increase, medullary parasympathetic outflow rises, and the rate slows",
+        "Atrial receptors are compressed, triggering the Bainbridge reflex and a faster rate",
+        "Carotid chemoreceptors are stimulated, increasing sympathetic drive to the SA node"
+      ],
+      "answer": 1,
+      "explanation": "Massaging the carotid sinus mimics a pressure rise: baroreceptors fire more, and the medulla increases vagal (parasympathetic) output to slow the SA node. This bedside maneuver exploits the normal baroreceptor reflex arc.",
+      "explanationImage": null,
+      "tags": [
+        "Neurohumoral Control & Autoregulation",
+        "The Baroreceptor Reflex"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch10-q052",
+      "stem": "A patient stands up quickly and blood pressure momentarily drops. Which baroreceptor-mediated response restores pressure?",
+      "image": null,
+      "options": [
+        "Decreased baroreceptor firing, increased sympathetic outflow with tachycardia",
+        "Increased baroreceptor firing, increased vagal outflow",
+        "Decreased baroreceptor firing, increased vagal outflow with bradycardia",
+        "Increased baroreceptor firing, decreased sympathetic outflow"
+      ],
+      "answer": 0,
+      "explanation": "Standing lowers venous return and arterial pressure, reducing baroreceptor firing; the medulla responds with sympathetic activation. Heart rate and contractility rise and vessels constrict, restoring pressure.",
+      "explanationImage": null,
+      "tags": [
+        "Neurohumoral Control & Autoregulation",
+        "The Baroreceptor Reflex"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch10-q053",
+      "stem": "A patient becomes light-headed and dizzy every time she stands, with a documented drop in blood pressure and no compensatory tachycardia. This presentation suggests dysfunction of which reflex?",
+      "image": null,
+      "options": [
+        "The Bainbridge reflex",
+        "The chemoreceptor reflex",
+        "The baroreceptor reflex (impaired orthostatic compensation)",
+        "The Frank-Starling mechanism"
+      ],
+      "answer": 2,
+      "explanation": "Orthostatic hypotension with absent compensatory tachycardia indicates the baroreceptor reflex is failing to activate sympathetic output on standing. Normally, the fall in pressure should reduce baroreceptor firing and trigger tachycardia and vasoconstriction.",
+      "explanationImage": null,
+      "tags": [
+        "Neurohumoral Control & Autoregulation",
+        "The Baroreceptor Reflex"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch10-q054",
+      "stem": "At normal resting blood pressure, arterial baroreceptors display which firing pattern?",
+      "image": null,
+      "options": [
+        "Tonic (baseline) firing that signals pressure moment to moment",
+        "Complete silence between heartbeats",
+        "Firing only during hypertension",
+        "Firing only when pressure exceeds 200 mmHg"
+      ],
+      "answer": 0,
+      "explanation": "Baroreceptors tonically fire at normal pressure, providing continuous feedback to the medulla. Increases or decreases in pressure then modulate this baseline firing up or down.",
+      "explanationImage": null,
+      "tags": [
+        "Neurohumoral Control & Autoregulation",
+        "The Baroreceptor Reflex"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch10-q055",
+      "stem": "During sustained chronic hypertension, arterial baroreceptors typically do which of the following?",
+      "image": null,
+      "options": [
+        "Fire maximally and drive pressure even higher",
+        "Reset (adapt) to the higher pressure level",
+        "Permanently cease all firing",
+        "Convert to chemoreceptors"
+      ],
+      "answer": 1,
+      "explanation": "Baroreceptors adapt (reset) when pressure stays elevated, so they no longer signal the elevated pressure as abnormal. This is why the baroreflex regulates short-term pressure changes but does not correct chronic hypertension.",
+      "explanationImage": null,
+      "tags": [
+        "Neurohumoral Control & Autoregulation",
+        "The Baroreceptor Reflex"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch10-q056",
+      "stem": "Afferent baroreceptor fibers from the carotid sinus travel to the medulla through which nerve?",
+      "image": null,
+      "options": [
+        "The vagus nerve (CN X)",
+        "The hypoglossal nerve (CN XII)",
+        "The glossopharyngeal nerve (CN IX)",
+        "The accessory nerve (CN XI)"
+      ],
+      "answer": 2,
+      "explanation": "The carotid sinus sends its afferent signal via the glossopharyngeal nerve (CN IX) to the medulla. The aortic arch receptors, in contrast, signal via the vagus nerve.",
+      "explanationImage": null,
+      "tags": [
+        "Neurohumoral Control & Autoregulation",
+        "The Baroreceptor Reflex"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch10-q057",
+      "stem": "Afferent baroreceptor fibers from the aortic arch travel through which nerve?",
+      "image": null,
+      "options": [
+        "The vagus nerve (CN X)",
+        "The facial nerve (CN VII)",
+        "The trigeminal nerve (CN V)",
+        "The optic nerve (CN II)"
+      ],
+      "answer": 0,
+      "explanation": "Aortic arch baroreceptors transmit via the vagus nerve (CN X) to the medullary cardiovascular centers. The carotid sinus uses the glossopharyngeal nerve instead.",
+      "explanationImage": null,
+      "tags": [
+        "Neurohumoral Control & Autoregulation",
+        "The Baroreceptor Reflex"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch10-q058",
+      "stem": "All afferent baroreceptor signals from the carotid sinuses and aortic arch are integrated in which structure?",
+      "image": null,
+      "options": [
+        "The renal juxtaglomerular apparatus",
+        "The carotid body",
+        "The posterior pituitary",
+        "The medulla oblongata (cardiovascular centers)"
+      ],
+      "answer": 3,
+      "explanation": "The medulla oblongata integrates baroreceptor input and adjusts the cardiac accelerator, cardioinhibitory, and vasomotor centers. This integration is the core of short-term blood pressure control.",
+      "explanationImage": null,
+      "tags": [
+        "Neurohumoral Control & Autoregulation",
+        "The Baroreceptor Reflex"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch10-q059",
+      "stem": "Which sequence correctly describes the baroreceptor response to increased blood pressure?",
+      "image": null,
+      "options": [
+        "Reduced stretch → reduced firing → increased sympathetic tone → vasodilation",
+        "Increased stretch → increased firing → increased parasympathetic tone → decreased heart rate and output",
+        "Increased stretch → decreased firing → decreased parasympathetic tone → tachycardia",
+        "Reduced stretch → increased firing → increased vasomotor tone → vasoconstriction"
+      ],
+      "answer": 1,
+      "explanation": "Higher pressure stretches the receptors, increasing firing; the medulla responds by increasing parasympathetic activity, lowering heart rate and cardiac output. Peripheral vasodilation then completes the correction.",
+      "explanationImage": null,
+      "tags": [
+        "Neurohumoral Control & Autoregulation",
+        "The Baroreceptor Reflex"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch10-q060",
+      "stem": "What effect does the vasodilation of the high-pressure baroreceptor response have on afterload?",
+      "image": null,
+      "options": [
+        "It increases afterload",
+        "It decreases afterload by lowering systemic vascular resistance",
+        "It leaves afterload unchanged",
+        "It converts afterload into preload"
+      ],
+      "answer": 1,
+      "explanation": "Vasodilation lowers systemic vascular resistance, which reduces afterload and eases left ventricular work. This supports the fall in blood pressure along with the reduced heart rate and output.",
+      "explanationImage": null,
+      "tags": [
+        "Neurohumoral Control & Autoregulation",
+        "The Bainbridge Reflex and Chemoreceptor Reflexes"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch10-q061",
+      "stem": "The Bainbridge reflex is triggered by which stimulus?",
+      "image": null,
+      "options": [
+        "Increased venous return causing atrial stretch",
+        "Elevated systemic vascular resistance",
+        "Low arterial oxygen tension",
+        "High intracranial pressure"
+      ],
+      "answer": 0,
+      "explanation": "The Bainbridge reflex is triggered by increased venous return that stretches the atrial walls. It is a low-pressure, volume-sensitive reflex distinct from the arterial baroreceptor reflex.",
+      "explanationImage": null,
+      "tags": [
+        "Neurohumoral Control & Autoregulation",
+        "The Bainbridge Reflex and Chemoreceptor Reflexes"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch10-q062",
+      "stem": "What is the physiological goal of the Bainbridge reflex?",
+      "image": null,
+      "options": [
+        "To decrease heart rate and conserve myocardial oxygen",
+        "To raise systemic vascular resistance",
+        "To redirect blood away from the kidneys",
+        "To move excess blood volume forward and prevent backup in the venous system"
+      ],
+      "answer": 3,
+      "explanation": "The reflex accelerates the heart to propel the excess venous volume forward, preventing congestion of the venous system. This \"anti-backup\" function complements the baroreflex.",
+      "explanationImage": null,
+      "tags": [
+        "Neurohumoral Control & Autoregulation",
+        "The Bainbridge Reflex and Chemoreceptor Reflexes"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch10-q063",
+      "stem": "Which mechanism produces the tachycardia of the Bainbridge reflex?",
+      "image": null,
+      "options": [
+        "Stimulation of the vagus nerve with muscarinic activation",
+        "Direct release of acetylcholine from atrial myocytes",
+        "Inhibition of parasympathetic (vagal) activity to increase heart rate",
+        "Decreased sympathetic outflow to the SA node"
+      ],
+      "answer": 2,
+      "explanation": "Atrial stretch signals the medulla to inhibit the parasympathetic system; removal of the vagal brake raises heart rate. The faster rate helps reduce atrial pressure and handle the volume load.",
+      "explanationImage": null,
+      "tags": [
+        "Neurohumoral Control & Autoregulation",
+        "The Bainbridge Reflex and Chemoreceptor Reflexes"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch10-q064",
+      "stem": "What is the hemodynamic result of the increased heart rate in the Bainbridge reflex?",
+      "image": null,
+      "options": [
+        "Increased systemic vascular resistance",
+        "Increased atrial pressure and venous congestion",
+        "Reduced atrial pressure with improved coordination of the volume load",
+        "Reduced ventricular contractility"
+      ],
+      "answer": 2,
+      "explanation": "The faster rate empties the atria more quickly, lowering atrial pressure and coordinating cardiac output with the volume overload. This prevents venous backup during increased venous return.",
+      "explanationImage": null,
+      "tags": [
+        "Neurohumoral Control & Autoregulation",
+        "The Bainbridge Reflex and Chemoreceptor Reflexes"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch10-q065",
+      "stem": "A patient receives a large intravenous fluid bolus. Which reflex most directly explains the transient tachycardia that follows?",
+      "image": null,
+      "options": [
+        "The chemoreceptor reflex",
+        "The baroreceptor reflex responding to hypertension",
+        "The Bainbridge reflex responding to increased venous return",
+        "The myogenic response"
+      ],
+      "answer": 2,
+      "explanation": "The fluid bolus increases venous return and stretches the atria, triggering the Bainbridge reflex. Inhibition of vagal tone raises the heart rate to move the extra volume forward.",
+      "explanationImage": null,
+      "tags": [
+        "Neurohumoral Control & Autoregulation",
+        "The Bainbridge Reflex and Chemoreceptor Reflexes"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch10-q066",
+      "stem": "Which statement correctly contrasts the Bainbridge reflex with the baroreceptor reflex?",
+      "image": null,
+      "options": [
+        "Both respond only to arterial pressure in the aortic arch",
+        "The baroreflex senses stretch in the atria, while the Bainbridge reflex senses arterial pressure",
+        "Both lower the heart rate when stimulated",
+        "The baroreflex senses arterial stretch, while the Bainbridge reflex senses atrial stretch from venous return"
+      ],
+      "answer": 3,
+      "explanation": "The baroreceptor reflex monitors high-pressure arterial stretch; the Bainbridge reflex monitors low-pressure atrial stretch. They can produce opposite heart-rate responses depending on the stimulus.",
+      "explanationImage": null,
+      "tags": [
+        "Neurohumoral Control & Autoregulation",
+        "The Bainbridge Reflex and Chemoreceptor Reflexes"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch10-q067",
+      "stem": "Peripheral chemoreceptors monitor which variables in the blood?",
+      "image": null,
+      "options": [
+        "Glucose, insulin, and hematocrit",
+        "Sodium, potassium, and calcium",
+        "Vessel wall stretch and atrial pressure",
+        "Oxygen, carbon dioxide, and pH"
+      ],
+      "answer": 3,
+      "explanation": "The chemoreceptors monitor oxygen, CO2, and pH levels in the blood. Chemical imbalances such as hypoxia or acidosis trigger autonomic responses to restore homeostasis.",
+      "explanationImage": null,
+      "tags": [
+        "Neurohumoral Control & Autoregulation",
+        "The Bainbridge Reflex and Chemoreceptor Reflexes"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch10-q068",
+      "stem": "Where are the peripheral chemoreceptors that mediate cardiovascular chemical reflexes located?",
+      "image": null,
+      "options": [
+        "In the renal cortex",
+        "In the carotid bodies and aortic bodies",
+        "In the left atrial appendage",
+        "In the medullary vasomotor center only"
+      ],
+      "answer": 1,
+      "explanation": "The carotid and aortic bodies detect changes in oxygen, CO2, and pH. Their afferent signals reach the medulla and drive sympathetic activation.",
+      "explanationImage": null,
+      "tags": [
+        "Neurohumoral Control & Autoregulation",
+        "The Bainbridge Reflex and Chemoreceptor Reflexes"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch10-q069",
+      "stem": "Which autonomic response is triggered by low oxygen levels or a falling pH?",
+      "image": null,
+      "options": [
+        "Increased parasympathetic outflow to the SA node",
+        "Inhibition of the adrenal medulla",
+        "Sympathetic activation to increase cardiac output",
+        "Renal water excretion"
+      ],
+      "answer": 2,
+      "explanation": "Low oxygen or falling pH (acidosis) triggers the sympathetic nervous system to increase cardiac output, improving delivery of oxygen and removal of waste. This is the chemoreceptor reflex.",
+      "explanationImage": null,
+      "tags": [
+        "Neurohumoral Control & Autoregulation",
+        "The Bainbridge Reflex and Chemoreceptor Reflexes"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch10-q070",
+      "stem": "Why is the sympathetic response of the chemoreceptor reflex described as a \"rescue\" for the acidotic myocardium?",
+      "image": null,
+      "options": [
+        "Because it raises blood viscosity to improve oxygen carrying",
+        "Because it lowers heart rate to reduce workload",
+        "Because acidosis depresses myocardial inotropy, and sympathetic stimulation restores contractile support",
+        "Because it promotes sodium and water excretion"
+      ],
+      "answer": 2,
+      "explanation": "Acidosis directly depresses myocardial inotropy (contractile force), threatening cardiac output. The chemoreceptor reflex provides a necessary sympathetic boost to maintain pump function.",
+      "explanationImage": null,
+      "tags": [
+        "Neurohumoral Control & Autoregulation",
+        "The Bainbridge Reflex and Chemoreceptor Reflexes"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch10-q071",
+      "stem": "Which stimulus most strongly activates the peripheral chemoreceptors?",
+      "image": null,
+      "options": [
+        "Low arterial oxygen (hypoxemia)",
+        "Elevated arterial oxygen",
+        "Low plasma sodium",
+        "High atrial wall tension"
+      ],
+      "answer": 0,
+      "explanation": "Falling arterial oxygen is the most powerful stimulus to the carotid and aortic bodies. Rising CO2 and falling pH also stimulate them, driving sympathetic activation.",
+      "explanationImage": null,
+      "tags": [
+        "Neurohumoral Control & Autoregulation",
+        "The Bainbridge Reflex and Chemoreceptor Reflexes"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch10-q072",
+      "stem": "What direct effect does acidosis (falling pH) have on myocardial contractility?",
+      "image": null,
+      "options": [
+        "It increases inotropy",
+        "It converts the ventricle to a passive conduit",
+        "It depresses inotropy (weakened contractile force)",
+        "It has no effect on the myocardium"
+      ],
+      "answer": 2,
+      "explanation": "Acidosis depresses myocardial inotropy, reducing the force of contraction and threatening cardiac output. This is why the chemoreflex's sympathetic \"rescue\" is physiologically important.",
+      "explanationImage": null,
+      "tags": [
+        "Neurohumoral Control & Autoregulation",
+        "The Bainbridge Reflex and Chemoreceptor Reflexes"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch10-q073",
+      "stem": "Which set of changes characterizes the chemoreceptor reflex response to hypoxia?",
+      "image": null,
+      "options": [
+        "Increased heart rate, increased contractility, increased sympathetic vascular tone",
+        "Decreased heart rate, decreased contractility, vasodilation",
+        "Decreased heart rate, increased parasympathetic tone, vasodilation",
+        "Increased urine output and decreased blood volume"
+      ],
+      "answer": 0,
+      "explanation": "Hypoxia activates the chemoreflex, increasing sympathetic output: heart rate and contractility rise and vessels constrict. The goal is to raise cardiac output and better perfuse tissues with oxygen.",
+      "explanationImage": null,
+      "tags": [
+        "Neurohumoral Control & Autoregulation",
+        "The Bainbridge Reflex and Chemoreceptor Reflexes"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch10-q074",
+      "stem": "A patient has rising arterial CO2 (hypercapnia) and falling pH. Which hemodynamic response is expected?",
+      "image": null,
+      "options": [
+        "Parasympathetic dominance with bradycardia and hypotension",
+        "Reduced sympathetic activity with vasodilation",
+        "Suppression of the adrenal medulla",
+        "Sympathetic activation with increased heart rate and blood pressure"
+      ],
+      "answer": 3,
+      "explanation": "Hypercapnia and acidosis stimulate the chemoreceptors, triggering sympathetic activation. The result is tachycardia and elevated pressure as the body attempts to improve perfusion and gas exchange.",
+      "explanationImage": null,
+      "tags": [
+        "Neurohumoral Control & Autoregulation",
+        "The Bainbridge Reflex and Chemoreceptor Reflexes"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch10-q075",
+      "stem": "Which statement correctly distinguishes baroreceptors from chemoreceptors?",
+      "image": null,
+      "options": [
+        "Both respond only to chemical changes",
+        "Baroreceptors are mechanoreceptors sensing wall stretch, while chemoreceptors sense O2, CO2, and pH",
+        "Baroreceptors sense pH, while chemoreceptors sense pressure",
+        "Both are located exclusively in the medulla"
+      ],
+      "answer": 1,
+      "explanation": "Baroreceptors detect vessel wall stretch (mechanical stimulus), whereas chemoreceptors detect chemical composition of the blood. Both send afferent information to the medullary cardiovascular centers.",
+      "explanationImage": null,
+      "tags": [
+        "Neurohumoral Control & Autoregulation",
+        "The Bainbridge Reflex and Chemoreceptor Reflexes"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch10-q076",
+      "stem": "In a patient with severe hypoxemia and falling pH, why is the chemoreceptor reflex particularly critical?",
+      "image": null,
+      "options": [
+        "Because it eliminates the need for the baroreceptor reflex",
+        "Because it lowers myocardial oxygen demand directly",
+        "Because it produces bradycardia to protect the myocardium",
+        "Because acidosis depresses inotropy and the sympathetic response is needed to maintain cardiac output"
+      ],
+      "answer": 3,
+      "explanation": "Acidosis weakens myocardial contractility, so the chemoreflex-driven sympathetic boost helps preserve cardiac output. Without this rescue, hypoxia and acidosis could precipitate circulatory failure.",
+      "explanationImage": null,
+      "tags": [
+        "Neurohumoral Control & Autoregulation",
+        "The Bainbridge Reflex and Chemoreceptor Reflexes"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch10-q077",
+      "stem": "Which reflex simultaneously stimulates ventilation and increases sympathetic cardiac drive in response to low oxygen?",
+      "image": null,
+      "options": [
+        "The Bainbridge reflex",
+        "The Frank-Starling mechanism",
+        "The chemoreceptor reflex",
+        "The myogenic response"
+      ],
+      "answer": 2,
+      "explanation": "The chemoreceptor reflex responds to hypoxia by increasing respiratory drive and sympathetic activation of the heart. Together these improve oxygen uptake and delivery.",
+      "explanationImage": null,
+      "tags": [
+        "Neurohumoral Control & Autoregulation",
+        "The Bainbridge Reflex and Chemoreceptor Reflexes"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch10-q078",
+      "stem": "The carotid bodies are located at which anatomic site?",
+      "image": null,
+      "options": [
+        "At the bifurcation of the common carotid arteries",
+        "Within the left ventricular wall",
+        "In the posterior pituitary",
+        "Along the renal artery"
+      ],
+      "answer": 0,
+      "explanation": "The carotid bodies sit near the bifurcation of the common carotid arteries, close to the carotid sinuses. The aortic bodies provide a similar function near the aortic arch.",
+      "explanationImage": null,
+      "tags": [
+        "Neurohumoral Control & Autoregulation",
+        "The Bainbridge Reflex and Chemoreceptor Reflexes"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch10-q079",
+      "stem": "In severe hemorrhage, once arterial pressure falls substantially, which receptors add to the sympathetic drive already produced by the baroreceptor reflex?",
+      "image": null,
+      "options": [
+        "Atrial baroreceptors sensing increased stretch",
+        "Renal juxtaglomerular cells sensing sodium excess",
+        "Peripheral chemoreceptors sensing poor perfusion, hypoxia, and acidosis",
+        "Ventricular volume receptors sensing overload"
+      ],
+      "answer": 2,
+      "explanation": "As hemorrhage worsens and tissue perfusion falls, hypoxia and acidosis activate the chemoreceptors. Their sympathetic output reinforces the baroreflex response to maintain pressure.",
+      "explanationImage": null,
+      "tags": [
+        "Neurohumoral Control & Autoregulation",
+        "The Bainbridge Reflex and Chemoreceptor Reflexes"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch10-q080",
+      "stem": "What is the effect of Bainbridge reflex activation on atrial pressure?",
+      "image": null,
+      "options": [
+        "It reduces atrial pressure by accelerating forward ejection",
+        "It increases atrial pressure by slowing the heart",
+        "It has no effect on atrial pressure",
+        "It converts atrial pressure into systemic pressure"
+      ],
+      "answer": 0,
+      "explanation": "The reflex-induced faster heart rate moves blood forward faster, reducing atrial pressure. This prevents pressure and volume from backing up into the venous system.",
+      "explanationImage": null,
+      "tags": [
+        "Neurohumoral Control & Autoregulation",
+        "Endocrine Regulation, Catecholamines, and Adrenergic/Muscarinic Receptors"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch10-q081",
+      "stem": "Compared with neural regulation, endocrine regulation of the cardiovascular system is characterized by which features?",
+      "image": null,
+      "options": [
+        "Faster onset and shorter duration",
+        "Slower onset and longer-lasting effects",
+        "Faster onset and longer duration",
+        "Slower onset and shorter duration"
+      ],
+      "answer": 1,
+      "explanation": "Endocrine responses develop more slowly than neural signals but last significantly longer. Hormones such as ADH, aldosterone, and EPO therefore handle sustained regulation of volume and pressure.",
+      "explanationImage": null,
+      "tags": [
+        "Neurohumoral Control & Autoregulation",
+        "Endocrine Regulation, Catecholamines, and Adrenergic/Muscarinic Receptors"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch10-q082",
+      "stem": "Which organ regulates blood volume most extensively through hormonal mechanisms?",
+      "image": null,
+      "options": [
+        "The lungs",
+        "The liver",
+        "The spleen",
+        "The kidneys"
+      ],
+      "answer": 3,
+      "explanation": "The kidneys regulate blood volume extensively through water and sodium handling under hormonal control. They release renin and erythropoietin and are the target organs of ADH, aldosterone, and the natriuretic peptides.",
+      "explanationImage": null,
+      "tags": [
+        "Neurohumoral Control & Autoregulation",
+        "Endocrine Regulation, Catecholamines, and Adrenergic/Muscarinic Receptors"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch10-q083",
+      "stem": "Circulating epinephrine is secreted primarily by which structure?",
+      "image": null,
+      "options": [
+        "The posterior pituitary",
+        "The adrenal cortex",
+        "The carotid bodies",
+        "The adrenal medulla"
+      ],
+      "answer": 3,
+      "explanation": "The adrenal medulla releases epinephrine (and norepinephrine) into the bloodstream under sympathetic stimulation. These catecholamines reinforce the \"fight or flight\" cardiovascular response.",
+      "explanationImage": null,
+      "tags": [
+        "Neurohumoral Control & Autoregulation",
+        "Endocrine Regulation, Catecholamines, and Adrenergic/Muscarinic Receptors"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch10-q084",
+      "stem": "Beta-1 adrenergic receptors are located predominantly in which tissue?",
+      "image": null,
+      "options": [
+        "Bronchial smooth muscle",
+        "The heart (SA node and myocardium)",
+        "Systemic veins only",
+        "Renal tubular cells"
+      ],
+      "answer": 1,
+      "explanation": "Beta-1 receptors are the dominant adrenergic receptors of the heart, mediating increased rate and contractility. Selective beta-1 blockade (e.g., metoprolol) is used to reduce cardiac workload.",
+      "explanationImage": null,
+      "tags": [
+        "Neurohumoral Control & Autoregulation",
+        "Endocrine Regulation, Catecholamines, and Adrenergic/Muscarinic Receptors"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch10-q085",
+      "stem": "Stimulation of beta-1 receptors in the heart produces which effects?",
+      "image": null,
+      "options": [
+        "Decreased heart rate and decreased contractility",
+        "Increased heart rate with decreased contractility",
+        "Increased heart rate and increased contractility",
+        "Bronchoconstriction with vasoconstriction"
+      ],
+      "answer": 2,
+      "explanation": "Beta-1 stimulation by norepinephrine or epinephrine raises both heart rate (positive chronotropy) and contractile force (positive inotropy). Cardiac output therefore increases.",
+      "explanationImage": null,
+      "tags": [
+        "Neurohumoral Control & Autoregulation",
+        "Endocrine Regulation, Catecholamines, and Adrenergic/Muscarinic Receptors"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch10-q086",
+      "stem": "Stimulation of beta-2 adrenergic receptors produces which effect?",
+      "image": null,
+      "options": [
+        "Relaxation (vasodilation) of bronchial and skeletal muscle vascular smooth muscle",
+        "Vasoconstriction of systemic arterioles",
+        "Slowing of AV nodal conduction",
+        "Increased sodium retention in the kidney"
+      ],
+      "answer": 0,
+      "explanation": "Beta-2 receptors mediate relaxation of bronchial and vascular smooth muscle, promoting bronchodilation and vasodilation. Epinephrine's beta-2 effect helps increase skeletal muscle perfusion during stress.",
+      "explanationImage": null,
+      "tags": [
+        "Neurohumoral Control & Autoregulation",
+        "Endocrine Regulation, Catecholamines, and Adrenergic/Muscarinic Receptors"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch10-q087",
+      "stem": "Stimulation of alpha-1 adrenergic receptors on vascular smooth muscle produces which effect?",
+      "image": null,
+      "options": [
+        "Vasoconstriction and increased systemic vascular resistance",
+        "Vasodilation and decreased systemic vascular resistance",
+        "Bronchodilation",
+        "Decreased heart rate"
+      ],
+      "answer": 0,
+      "explanation": "Alpha-1 activation constricts vascular smooth muscle, raising systemic vascular resistance and arterial pressure (afterload). This is the main receptor pathway for sympathetic vasomotor tone.",
+      "explanationImage": null,
+      "tags": [
+        "Neurohumoral Control & Autoregulation",
+        "Endocrine Regulation, Catecholamines, and Adrenergic/Muscarinic Receptors"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch10-q088",
+      "stem": "Acetylcholine released by the vagus nerve acts on which receptors at the SA and AV nodes?",
+      "image": null,
+      "options": [
+        "Beta-1 receptors",
+        "Alpha-1 receptors",
+        "Muscarinic (cholinergic) receptors",
+        "Beta-2 receptors"
+      ],
+      "answer": 2,
+      "explanation": "Vagal acetylcholine binds muscarinic receptors, slowing SA node depolarization and AV conduction. This produces negative chronotropic and dromotropic effects.",
+      "explanationImage": null,
+      "tags": [
+        "Neurohumoral Control & Autoregulation",
+        "Endocrine Regulation, Catecholamines, and Adrenergic/Muscarinic Receptors"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch10-q089",
+      "stem": "A patient is started on a selective beta-1 blocker. Which hemodynamic changes are expected?",
+      "image": null,
+      "options": [
+        "Increased heart rate and increased contractility",
+        "Vasodilation with increased cardiac output",
+        "Bronchodilation and tachycardia",
+        "Decreased heart rate, decreased contractility, and decreased cardiac output"
+      ],
+      "answer": 3,
+      "explanation": "Blocking beta-1 receptors removes sympathetic enhancement of rate and contractility, lowering cardiac output and myocardial oxygen demand. Blood pressure falls as a result, which is the therapeutic goal.",
+      "explanationImage": null,
+      "tags": [
+        "Neurohumoral Control & Autoregulation",
+        "Endocrine Regulation, Catecholamines, and Adrenergic/Muscarinic Receptors"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch10-q090",
+      "stem": "Norepinephrine released by sympathetic nerves acts primarily on which receptors in systemic arterioles?",
+      "image": null,
+      "options": [
+        "Alpha-1 receptors",
+        "Beta-2 receptors",
+        "Muscarinic receptors",
+        "Nicotinic receptors"
+      ],
+      "answer": 0,
+      "explanation": "Norepinephrine's predominant vascular action is alpha-1 stimulation, producing vasoconstriction and increased afterload. Epinephrine, in contrast, can also activate beta-2 receptors in some vascular beds.",
+      "explanationImage": null,
+      "tags": [
+        "Neurohumoral Control & Autoregulation",
+        "Endocrine Regulation, Catecholamines, and Adrenergic/Muscarinic Receptors"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch10-q091",
+      "stem": "Which catecholamine increases heart rate while also dilating skeletal muscle vessels through beta-2 effects?",
+      "image": null,
+      "options": [
+        "Acetylcholine",
+        "Aldosterone",
+        "Epinephrine",
+        "Vasopressin"
+      ],
+      "answer": 2,
+      "explanation": "Epinephrine from the adrenal medulla stimulates beta-1 receptors in the heart and beta-2 receptors in skeletal muscle vessels. This combination raises cardiac output while increasing muscle perfusion.",
+      "explanationImage": null,
+      "tags": [
+        "Neurohumoral Control & Autoregulation",
+        "Endocrine Regulation, Catecholamines, and Adrenergic/Muscarinic Receptors"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch10-q092",
+      "stem": "The slowing of the SA node by the vagus nerve is mediated by which receptor type?",
+      "image": null,
+      "options": [
+        "Nicotinic receptors",
+        "Muscarinic receptors",
+        "Beta-1 receptors",
+        "Alpha-2 receptors"
+      ],
+      "answer": 1,
+      "explanation": "Acetylcholine binds muscarinic receptors on SA node cells to slow pacemaker depolarization. Muscarinic blockade (e.g., atropine) removes this brake and causes tachycardia.",
+      "explanationImage": null,
+      "tags": [
+        "Neurohumoral Control & Autoregulation",
+        "Endocrine Regulation, Catecholamines, and Adrenergic/Muscarinic Receptors"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch10-q093",
+      "stem": "Beta-blocker therapy reduces myocardial oxygen demand by which mechanism?",
+      "image": null,
+      "options": [
+        "Lowering heart rate and contractility",
+        "Increasing systemic venous return",
+        "Raising systemic vascular resistance",
+        "Increasing preload through fluid retention"
+      ],
+      "answer": 0,
+      "explanation": "Blocking beta-1 receptors decreases heart rate and contractile force, both major determinants of myocardial oxygen consumption. This is a cornerstone of therapy in ischemic heart disease and heart failure.",
+      "explanationImage": null,
+      "tags": [
+        "Neurohumoral Control & Autoregulation",
+        "Endocrine Regulation, Catecholamines, and Adrenergic/Muscarinic Receptors"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch10-q094",
+      "stem": "Which of the following is a parasympathetic (vagal) effect on the heart?",
+      "image": null,
+      "options": [
+        "Increased contractility of the ventricles",
+        "Increased SA node firing rate",
+        "Bronchodilation",
+        "Decreased AV nodal conduction velocity"
+      ],
+      "answer": 3,
+      "explanation": "Vagal acetylcholine slows AV nodal conduction (negative dromotropy). The other choices are sympathetic or beta-2 effects, not parasympathetic ones.",
+      "explanationImage": null,
+      "tags": [
+        "Neurohumoral Control & Autoregulation",
+        "Endocrine Regulation, Catecholamines, and Adrenergic/Muscarinic Receptors"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch10-q095",
+      "stem": "Why do catecholamine (hormonal) cardiovascular effects persist longer than direct sympathetic nerve effects?",
+      "image": null,
+      "options": [
+        "Because catecholamines are destroyed instantly by the liver",
+        "Because neural signals last longer than hormones",
+        "Because catecholamines act only on the kidneys",
+        "Because circulating hormones are cleared slowly, so their effects last significantly longer"
+      ],
+      "answer": 3,
+      "explanation": "Hormones delivered by the blood are metabolized and cleared over minutes, prolonging their action. Neural effects are faster but brief because neurotransmitter is cleared at the synapse almost immediately.",
+      "explanationImage": null,
+      "tags": [
+        "Neurohumoral Control & Autoregulation",
+        "Endocrine Regulation, Catecholamines, and Adrenergic/Muscarinic Receptors"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch10-q096",
+      "stem": "The secretion of catecholamines by the adrenal medulla is controlled by which pathway?",
+      "image": null,
+      "options": [
+        "Parasympathetic postganglionic fibers",
+        "Preganglionic sympathetic fibers",
+        "The vagus nerve directly",
+        "Posterior pituitary hormones"
+      ],
+      "answer": 1,
+      "explanation": "Preganglionic sympathetic fibers stimulate the adrenal medulla, which functions as a modified sympathetic ganglion. During stress, this pathway floods the circulation with epinephrine and norepinephrine.",
+      "explanationImage": null,
+      "tags": [
+        "Neurohumoral Control & Autoregulation",
+        "Endocrine Regulation, Catecholamines, and Adrenergic/Muscarinic Receptors"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch10-q097",
+      "stem": "Which receptor type mediates the rapid vasoconstriction that raises blood pressure during the sympathetic response to hypotension?",
+      "image": null,
+      "options": [
+        "Alpha-1 receptors",
+        "Beta-1 receptors",
+        "Muscarinic receptors",
+        "Beta-2 receptors"
+      ],
+      "answer": 0,
+      "explanation": "Alpha-1 stimulation of vascular smooth muscle constricts resistance vessels, increasing systemic vascular resistance. This rapid vasoconstriction is essential for restoring pressure after a sudden fall.",
+      "explanationImage": null,
+      "tags": [
+        "Neurohumoral Control & Autoregulation",
+        "Endocrine Regulation, Catecholamines, and Adrenergic/Muscarinic Receptors"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch10-q098",
+      "stem": "What happens to systemic vascular resistance in skeletal muscle beds when epinephrine stimulates beta-2 receptors?",
+      "image": null,
+      "options": [
+        "It increases because of smooth muscle contraction",
+        "It remains constant",
+        "It decreases because vascular smooth muscle relaxes (vasodilation)",
+        "It first rises, then becomes fixed"
+      ],
+      "answer": 2,
+      "explanation": "Beta-2 stimulation relaxes skeletal muscle vascular smooth muscle, dilating those vessels. This lowers local resistance and increases muscle perfusion during exercise or stress.",
+      "explanationImage": null,
+      "tags": [
+        "Neurohumoral Control & Autoregulation",
+        "Endocrine Regulation, Catecholamines, and Adrenergic/Muscarinic Receptors"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch10-q099",
+      "stem": "The \"fight or flight\" increase in heart rate and contractility is mediated primarily by which mechanism?",
+      "image": null,
+      "options": [
+        "Muscarinic stimulation of the SA node",
+        "Beta-1 stimulation of the SA node and myocardium",
+        "Alpha-1 stimulation of the AV node",
+        "Vagal release of acetylcholine"
+      ],
+      "answer": 1,
+      "explanation": "Norepinephrine and epinephrine acting on beta-1 receptors increase rate and contractility during sympathetic activation. This prepares the cardiovascular system for maximum output.",
+      "explanationImage": null,
+      "tags": [
+        "Neurohumoral Control & Autoregulation",
+        "Endocrine Regulation, Catecholamines, and Adrenergic/Muscarinic Receptors"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch10-q100",
+      "stem": "Which statement best compares neural and endocrine control of blood pressure?",
+      "image": null,
+      "options": [
+        "Both act within milliseconds and last seconds",
+        "Endocrine control is faster, neural control is slower but sustained",
+        "Only endocrine control can change heart rate",
+        "Neural control is rapid but short-lived; endocrine control is slower but sustained"
+      ],
+      "answer": 3,
+      "explanation": "The nervous system provides the fastest response to hemodynamic changes, while hormonal systems such as RAAS and ADH develop more slowly and last longer. The two systems complement each other for both immediate and sustained regulation.",
+      "explanationImage": null,
+      "tags": [
+        "Neurohumoral Control & Autoregulation",
+        "ADH (Vasopressin) and the Respiratory Pump"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch10-q101",
+      "stem": "Antidiuretic hormone (ADH) is produced in which structure?",
+      "image": null,
+      "options": [
+        "The adrenal cortex",
+        "The juxtaglomerular apparatus",
+        "The hypothalamus",
+        "The right atrium"
+      ],
+      "answer": 2,
+      "explanation": "The hypothalamus produces antidiuretic hormone. It is then transported to and stored in the posterior pituitary, which releases it into the circulation.",
+      "explanationImage": null,
+      "tags": [
+        "Neurohumoral Control & Autoregulation",
+        "ADH (Vasopressin) and the Respiratory Pump"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch10-q102",
+      "stem": "ADH is stored and released into the bloodstream by which gland?",
+      "image": null,
+      "options": [
+        "The posterior pituitary",
+        "The anterior pituitary",
+        "The thyroid gland",
+        "The adrenal medulla"
+      ],
+      "answer": 0,
+      "explanation": "The hypothalamus produces ADH, and the posterior pituitary stores and releases it. This neuroendocrine pathway links brain osmoreceptors to renal water handling.",
+      "explanationImage": null,
+      "tags": [
+        "Neurohumoral Control & Autoregulation",
+        "ADH (Vasopressin) and the Respiratory Pump"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch10-q103",
+      "stem": "What is the primary renal action of ADH?",
+      "image": null,
+      "options": [
+        "Sodium excretion",
+        "Potassium retention",
+        "Renin secretion",
+        "Increased water reabsorption by the kidneys"
+      ],
+      "answer": 3,
+      "explanation": "ADH increases renal water reabsorption, concentrating the urine and conserving body water. This raises blood volume and supports arterial pressure.",
+      "explanationImage": null,
+      "tags": [
+        "Neurohumoral Control & Autoregulation",
+        "ADH (Vasopressin) and the Respiratory Pump"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch10-q104",
+      "stem": "In addition to its renal action, ADH contributes to blood pressure by which vascular effect?",
+      "image": null,
+      "options": [
+        "Vasodilation of the renal arteries",
+        "Vasoconstriction that increases systemic blood pressure",
+        "Selective coronary vasodilation",
+        "Decreased systemic vascular resistance"
+      ],
+      "answer": 1,
+      "explanation": "At high levels, ADH acts as a vasoconstrictor (hence its alternate name, vasopressin), increasing systemic vascular resistance and blood pressure. It also conserves water, adding volume support.",
+      "explanationImage": null,
+      "tags": [
+        "Neurohumoral Control & Autoregulation",
+        "ADH (Vasopressin) and the Respiratory Pump"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch10-q105",
+      "stem": "The overarching physiologic role of ADH is best summarized as which of the following?",
+      "image": null,
+      "options": [
+        "Conserving body water to maintain blood volume and pressure",
+        "Promoting sodium and water excretion",
+        "Stimulating red blood cell production",
+        "Increasing heart rate through beta-1 stimulation"
+      ],
+      "answer": 0,
+      "explanation": "ADH conserves body water through renal reabsorption and, when needed, constricts vessels. It is one of the key hormones defending blood volume during dehydration or hemorrhage.",
+      "explanationImage": null,
+      "tags": [
+        "Neurohumoral Control & Autoregulation",
+        "ADH (Vasopressin) and the Respiratory Pump"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch10-q106",
+      "stem": "During acute hemorrhage, elevated ADH helps maintain circulation through which combination of actions?",
+      "image": null,
+      "options": [
+        "Water excretion and vasodilation",
+        "Increased sodium excretion and bronchodilation",
+        "Erythropoiesis and inotropic stimulation",
+        "Water retention and vasoconstriction"
+      ],
+      "answer": 3,
+      "explanation": "ADH retains water to defend blood volume and constricts vessels to defend pressure. These combined actions make it a central part of the hemodynamic response to volume loss.",
+      "explanationImage": null,
+      "tags": [
+        "Neurohumoral Control & Autoregulation",
+        "ADH (Vasopressin) and the Respiratory Pump"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch10-q107",
+      "stem": "By what other name is ADH commonly known, reflecting one of its vascular actions?",
+      "image": null,
+      "options": [
+        "Renin",
+        "Atrial natriuretic peptide",
+        "Vasopressin",
+        "Erythropoietin"
+      ],
+      "answer": 2,
+      "explanation": "ADH is also called vasopressin because of its vasoconstrictor (presser) effect at high concentrations. Both names reflect its role in defending blood pressure.",
+      "explanationImage": null,
+      "tags": [
+        "Neurohumoral Control & Autoregulation",
+        "ADH (Vasopressin) and the Respiratory Pump"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch10-q108",
+      "stem": "Which stimulus most directly triggers the release of ADH from the posterior pituitary?",
+      "image": null,
+      "options": [
+        "Increased plasma osmolality (dehydration) or low blood volume",
+        "Elevated left atrial pressure from volume overload",
+        "High arterial oxygen content",
+        "Renal sodium wasting"
+      ],
+      "answer": 0,
+      "explanation": "Rising plasma osmolality and reduced blood volume stimulate hypothalamic osmoreceptors and volume sensors, prompting ADH release. The hormone then acts on the kidneys to retain water.",
+      "explanationImage": null,
+      "tags": [
+        "Neurohumoral Control & Autoregulation",
+        "ADH (Vasopressin) and the Respiratory Pump"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch10-q109",
+      "stem": "During normal inhalation, intrathoracic (pleural) pressure does which of the following?",
+      "image": null,
+      "options": [
+        "Decreases, creating a pressure gradient that assists venous flow to the heart",
+        "Increases, compressing the thoracic veins",
+        "Remains equal to atmospheric pressure",
+        "Becomes equal to abdominal pressure"
+      ],
+      "answer": 0,
+      "explanation": "Inhalation decreases thoracic pressure, which assists venous return by lowering the pressure in the chest relative to the abdomen. This is the mechanical basis of the respiratory pump.",
+      "explanationImage": null,
+      "tags": [
+        "Neurohumoral Control & Autoregulation",
+        "ADH (Vasopressin) and the Respiratory Pump"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch10-q110",
+      "stem": "What happens to intra-abdominal pressure during inhalation, and what is the result?",
+      "image": null,
+      "options": [
+        "It falls, pulling blood downward away from the heart",
+        "It remains unchanged, so no blood movement occurs",
+        "It rises, squeezing abdominal blood upward toward the thorax and heart",
+        "It rises, blocking venous return completely"
+      ],
+      "answer": 2,
+      "explanation": "Abdominal pressure rises during inhalation because the diaphragm descends. This squeezes abdominal venous blood upward while falling thoracic pressure draws it into the chest.",
+      "explanationImage": null,
+      "tags": [
+        "Neurohumoral Control & Autoregulation",
+        "ADH (Vasopressin) and the Respiratory Pump"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch10-q111",
+      "stem": "The respiratory pump mechanically increases which parameter on the right side of the heart during inspiration?",
+      "image": null,
+      "options": [
+        "Afterload",
+        "Preload (right-sided venous return)",
+        "Systemic vascular resistance",
+        "Aortic diastolic pressure"
+      ],
+      "answer": 1,
+      "explanation": "Inspiration lowers thoracic pressure and raises abdominal pressure, mechanically increasing venous return and right-sided preload. This supports right ventricular stroke volume with each breath.",
+      "explanationImage": null,
+      "tags": [
+        "Neurohumoral Control & Autoregulation",
+        "ADH (Vasopressin) and the Respiratory Pump"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch10-q112",
+      "stem": "The respiratory pump functions alongside which other system of venous return support?",
+      "image": null,
+      "options": [
+        "Coronary autoregulation",
+        "Lymphatic drainage",
+        "The baroreceptor-mediated bradycardic response",
+        "Neurohumoral regulation of venous tone"
+      ],
+      "answer": 3,
+      "explanation": "The respiratory pump works alongside neurohumoral venous tone regulation to support venous return. Venous constriction from sympathetic tone and the mechanical breathing effect both promote preload.",
+      "explanationImage": null,
+      "tags": [
+        "Neurohumoral Control & Autoregulation",
+        "ADH (Vasopressin) and the Respiratory Pump"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch10-q113",
+      "stem": "Which phase of the respiratory cycle is associated with the greatest mechanical increase in right-sided preload?",
+      "image": null,
+      "options": [
+        "Exhalation",
+        "End of expiration with breath-holding",
+        "Forced expiration against a closed glottis",
+        "Inspiration"
+      ],
+      "answer": 3,
+      "explanation": "During inspiration, falling thoracic pressure and rising abdominal pressure create the gradient that drives venous blood into the right heart. Expiration reverses this gradient somewhat.",
+      "explanationImage": null,
+      "tags": [
+        "Neurohumoral Control & Autoregulation",
+        "ADH (Vasopressin) and the Respiratory Pump"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch10-q114",
+      "stem": "Why does blood flow from the abdomen toward the thorax during inspiration?",
+      "image": null,
+      "options": [
+        "Because abdominal veins actively pump blood",
+        "Because a pressure gradient forms: thoracic pressure falls while abdominal pressure rises",
+        "Because gravity reverses during inhalation",
+        "Because the heart draws blood through the coronary sinus"
+      ],
+      "answer": 1,
+      "explanation": "Inspiration creates a pressure gradient: low thoracic pressure draws blood in while elevated abdominal pressure pushes it upward. The venous system is a passive conduit responding to these pressure differences.",
+      "explanationImage": null,
+      "tags": [
+        "Neurohumoral Control & Autoregulation",
+        "ADH (Vasopressin) and the Respiratory Pump"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch10-q115",
+      "stem": "If venous return to the heart is inadequate, cardiac output falls primarily because of which mechanism?",
+      "image": null,
+      "options": [
+        "Reduced afterload",
+        "Excessive lusitropy",
+        "Reduced preload, limiting Frank-Starling stretch",
+        "Increased contractility"
+      ],
+      "answer": 2,
+      "explanation": "Cardiac output depends on preload; inadequate venous return limits ventricular filling and Frank-Starling stretch. The respiratory pump and venous tone regulation both exist to maintain this inflow.",
+      "explanationImage": null,
+      "tags": [
+        "Neurohumoral Control & Autoregulation",
+        "ADH (Vasopressin) and the Respiratory Pump"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch10-q116",
+      "stem": "Which hormone's primary renal action is retention of water (rather than sodium)?",
+      "image": null,
+      "options": [
+        "ADH (vasopressin)",
+        "Aldosterone",
+        "Atrial natriuretic peptide",
+        "Erythropoietin"
+      ],
+      "answer": 0,
+      "explanation": "ADH primarily increases water reabsorption; aldosterone is the principal sodium-retaining hormone. Both raise blood volume but act through different renal pathways.",
+      "explanationImage": null,
+      "tags": [
+        "Neurohumoral Control & Autoregulation",
+        "ADH (Vasopressin) and the Respiratory Pump"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch10-q117",
+      "stem": "Hypothalamic osmoreceptors that regulate ADH release detect which variable?",
+      "image": null,
+      "options": [
+        "Blood glucose",
+        "Arterial oxygen",
+        "Plasma osmolality (solute concentration)",
+        "Left ventricular wall stress"
+      ],
+      "answer": 2,
+      "explanation": "Hypothalamic osmoreceptors sense plasma osmolality; dehydration (higher osmolality) stimulates ADH release. Blood volume signals also contribute to this regulation.",
+      "explanationImage": null,
+      "tags": [
+        "Neurohumoral Control & Autoregulation",
+        "ADH (Vasopressin) and the Respiratory Pump"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch10-q118",
+      "stem": "The name \"vasopressin\" reflects which action of ADH?",
+      "image": null,
+      "options": [
+        "Its diuretic effect at low doses",
+        "Its stimulation of red cell production",
+        "Its vasoconstrictor effect that raises blood pressure",
+        "Its natriuretic effect on the kidney"
+      ],
+      "answer": 2,
+      "explanation": "Vasopressin raises pressure through vasoconstriction of vascular smooth muscle. The name describes its pressor (pressure-raising) action, which complements its antidiuretic water-conserving role.",
+      "explanationImage": null,
+      "tags": [
+        "Neurohumoral Control & Autoregulation",
+        "ADH (Vasopressin) and the Respiratory Pump"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch10-q119",
+      "stem": "During a forced expiration against a closed glottis (Valsalva maneuver), venous return and preload do which of the following?",
+      "image": null,
+      "options": [
+        "Increase because thoracic pressure falls",
+        "Decrease because elevated intrathoracic pressure compresses the thoracic veins",
+        "Remain constant because gravity is neutralized",
+        "Increase because abdominal pressure falls"
+      ],
+      "answer": 1,
+      "explanation": "The Valsalva maneuver raises intrathoracic pressure, compressing veins and reducing venous return and preload. This is the mechanical opposite of the inspiratory phase of the respiratory pump.",
+      "explanationImage": null,
+      "tags": [
+        "Neurohumoral Control & Autoregulation",
+        "ADH (Vasopressin) and the Respiratory Pump"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch10-q120",
+      "stem": "Why is the respiratory pump clinically relevant in echocardiography?",
+      "image": null,
+      "options": [
+        "Because it changes valve anatomy during the cardiac cycle",
+        "Because it eliminates the need for preload assessment",
+        "Because it alters afterload through coronary dilation",
+        "Because respiration-induced preload changes produce measurable respiratory variation in ventricular filling and flow velocities"
+      ],
+      "answer": 3,
+      "explanation": "Breathing phases alter venous return and preload, producing respiratory variation in Doppler inflow and outflow velocities. Sonographers must interpret these variations rather than mistake them for pathology.",
+      "explanationImage": null,
+      "tags": [
+        "Neurohumoral Control & Autoregulation",
+        "The Renin-Angiotensin-Aldosterone System and Erythropoietin"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch10-q121",
+      "stem": "The renin-angiotensin-aldosterone system (RAAS) is triggered by which primary stimulus?",
+      "image": null,
+      "options": [
+        "Reduced renal blood flow",
+        "Elevated renal venous pressure",
+        "Excess dietary potassium",
+        "Hyperoxia in the carotid bodies"
+      ],
+      "answer": 0,
+      "explanation": "RAAS is triggered when the kidneys sense reduced renal blood flow or perfusion pressure. Renin release then initiates the cascade that restores pressure and volume.",
+      "explanationImage": null,
+      "tags": [
+        "Neurohumoral Control & Autoregulation",
+        "The Renin-Angiotensin-Aldosterone System and Erythropoietin"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch10-q122",
+      "stem": "Which enzyme, released by the kidney, initiates the RAAS cascade?",
+      "image": null,
+      "options": [
+        "ACE",
+        "Aldosterone synthase",
+        "Renin",
+        "Erythropoietin"
+      ],
+      "answer": 2,
+      "explanation": "Renin is released by the kidneys when renal blood flow is reduced. It cleaves angiotensinogen to angiotensin I, starting the RAAS cascade.",
+      "explanationImage": null,
+      "tags": [
+        "Neurohumoral Control & Autoregulation",
+        "The Renin-Angiotensin-Aldosterone System and Erythropoietin"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch10-q123",
+      "stem": "Angiotensin I is converted to the active angiotensin II primarily by which enzyme, found chiefly in which organ?",
+      "image": null,
+      "options": [
+        "Renin, in the kidney",
+        "Aldosterone, in the adrenal cortex",
+        "Erythropoietin, in the bone marrow",
+        "Angiotensin-converting enzyme (ACE), in the lungs"
+      ],
+      "answer": 3,
+      "explanation": "ACE, abundant in the pulmonary circulation, converts angiotensin I to the potent angiotensin II. This is why ACE inhibitor drugs block the pathway at this step.",
+      "explanationImage": null,
+      "tags": [
+        "Neurohumoral Control & Autoregulation",
+        "The Renin-Angiotensin-Aldosterone System and Erythropoietin"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch10-q124",
+      "stem": "The principal cardiovascular effect of angiotensin II is which of the following?",
+      "image": null,
+      "options": [
+        "Potent vasoconstriction that increases afterload",
+        "Vasodilation that decreases afterload",
+        "Bradycardia through vagal stimulation",
+        "Promotion of sodium and water excretion"
+      ],
+      "answer": 0,
+      "explanation": "Angiotensin II is a potent vasoconstrictor that immediately raises systemic vascular resistance and afterload. This rapidly supports arterial pressure when renal perfusion is threatened.",
+      "explanationImage": null,
+      "tags": [
+        "Neurohumoral Control & Autoregulation",
+        "The Renin-Angiotensin-Aldosterone System and Erythropoietin"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch10-q125",
+      "stem": "Aldosterone raises blood volume through which renal action?",
+      "image": null,
+      "options": [
+        "Promoting sodium and water excretion",
+        "Increasing potassium excretion with sodium and water retention",
+        "Blocking water reabsorption in the collecting ducts",
+        "Stimulating red cell production"
+      ],
+      "answer": 1,
+      "explanation": "Aldosterone causes sodium (and water) retention in the kidneys, expanding plasma volume. The retained volume increases preload.",
+      "explanationImage": null,
+      "tags": [
+        "Neurohumoral Control & Autoregulation",
+        "The Renin-Angiotensin-Aldosterone System and Erythropoietin"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch10-q126",
+      "stem": "Which RAAS component produces the immediate, rapid rise in blood pressure?",
+      "image": null,
+      "options": [
+        "Aldosterone, through gradual sodium retention",
+        "Angiotensin II, through potent vasoconstriction",
+        "Renin, through direct vascular action",
+        "Angiotensinogen, through vasodilation"
+      ],
+      "answer": 1,
+      "explanation": "Angiotensin II constricts vessels immediately, raising afterload and pressure. Aldosterone's volume effect develops more slowly, over hours to days.",
+      "explanationImage": null,
+      "tags": [
+        "Neurohumoral Control & Autoregulation",
+        "The Renin-Angiotensin-Aldosterone System and Erythropoietin"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch10-q127",
+      "stem": "ACE inhibitor medications lower blood pressure primarily by which mechanism?",
+      "image": null,
+      "options": [
+        "Blocking beta-1 receptors in the heart",
+        "Blocking ADH release from the pituitary",
+        "Preventing the formation of angiotensin II, reducing vasoconstriction and aldosterone release",
+        "Directly stimulating renal sodium excretion through natriuretic peptide receptors"
+      ],
+      "answer": 2,
+      "explanation": "ACE inhibitors block the conversion of angiotensin I to angiotensin II, removing both its vasoconstrictor effect and the stimulus for aldosterone release. Preload and afterload both fall, which is why RAAS is a primary target for blood pressure medications.",
+      "explanationImage": null,
+      "tags": [
+        "Neurohumoral Control & Autoregulation",
+        "The Renin-Angiotensin-Aldosterone System and Erythropoietin"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch10-q128",
+      "stem": "Aldosterone's effect on ventricular preload is which of the following?",
+      "image": null,
+      "options": [
+        "An increase, through sodium and water retention",
+        "A decrease, through diuresis",
+        "No change in volume status",
+        "A variable effect depending on heart rate"
+      ],
+      "answer": 0,
+      "explanation": "By retaining sodium and water, aldosterone expands plasma volume and increases preload. This helps restore cardiac output when perfusion is low but can contribute to congestion in heart failure.",
+      "explanationImage": null,
+      "tags": [
+        "Neurohumoral Control & Autoregulation",
+        "The Renin-Angiotensin-Aldosterone System and Erythropoietin"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch10-q129",
+      "stem": "The RAAS is a primary pharmacologic target for which class of clinical problems?",
+      "image": null,
+      "options": [
+        "Hypertension and heart failure, through blood pressure medications",
+        "Cardiac arrhythmias only",
+        "Anemia management",
+        "Bronchospasm"
+      ],
+      "answer": 0,
+      "explanation": "Because RAAS raises both afterload (angiotensin II) and preload (aldosterone), blocking it treats hypertension and heart failure. ACE inhibitors, ARBs, and aldosterone antagonists all act on this system.",
+      "explanationImage": null,
+      "tags": [
+        "Neurohumoral Control & Autoregulation",
+        "The Renin-Angiotensin-Aldosterone System and Erythropoietin"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch10-q130",
+      "stem": "Which of the following is the initiating stimulus for renin release from the kidney?",
+      "image": null,
+      "options": [
+        "Increased renal perfusion pressure",
+        "Rising plasma potassium",
+        "Reduced renal blood flow/perfusion pressure",
+        "Elevated left atrial pressure"
+      ],
+      "answer": 2,
+      "explanation": "Reduced renal blood flow is the trigger for renin release. The system is designed as a rescue pathway when renal perfusion falls, whether from hypovolemia, hemorrhage, or low pressure.",
+      "explanationImage": null,
+      "tags": [
+        "Neurohumoral Control & Autoregulation",
+        "The Renin-Angiotensin-Aldosterone System and Erythropoietin"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch10-q131",
+      "stem": "Which sequence correctly describes the RAAS cascade?",
+      "image": null,
+      "options": [
+        "Angiotensin II → renin → angiotensin I → aldosterone → angiotensinogen",
+        "Aldosterone → angiotensin I → renin → angiotensin II",
+        "Renin → angiotensin I → angiotensin II → aldosterone",
+        "ACE → renin → aldosterone → angiotensin II"
+      ],
+      "answer": 2,
+      "explanation": "Renin converts angiotensinogen to angiotensin I, which ACE converts to angiotensin II; angiotensin II then stimulates aldosterone release from the adrenal cortex. Each step raises pressure progressively.",
+      "explanationImage": null,
+      "tags": [
+        "Neurohumoral Control & Autoregulation",
+        "The Renin-Angiotensin-Aldosterone System and Erythropoietin"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch10-q132",
+      "stem": "Besides vasoconstriction and aldosterone secretion, angiotensin II also promotes which additional responses?",
+      "image": null,
+      "options": [
+        "Vasodilation and bradycardia",
+        "Sodium and water excretion",
+        "Decreased sympathetic tone",
+        "ADH release and thirst, supporting volume restoration"
+      ],
+      "answer": 3,
+      "explanation": "Angiotensin II stimulates ADH release and thirst, complementing its vasoconstrictor and volume-retaining actions. This multiplies the pressure-restoring effect of the RAAS.",
+      "explanationImage": null,
+      "tags": [
+        "Neurohumoral Control & Autoregulation",
+        "The Renin-Angiotensin-Aldosterone System and Erythropoietin"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch10-q133",
+      "stem": "Erythropoietin (EPO) is released by which organ, and under which condition?",
+      "image": null,
+      "options": [
+        "The liver, during hyperoxia",
+        "The adrenal glands, during stress",
+        "The lungs, during hypocapnia",
+        "The kidneys, during hypoxia"
+      ],
+      "answer": 3,
+      "explanation": "The kidneys release EPO when tissue oxygenation is inadequate. Its purpose is to stimulate red blood cell production and improve the blood's oxygen-carrying capacity.",
+      "explanationImage": null,
+      "tags": [
+        "Neurohumoral Control & Autoregulation",
+        "The Renin-Angiotensin-Aldosterone System and Erythropoietin"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch10-q134",
+      "stem": "The primary hematologic action of erythropoietin is which of the following?",
+      "image": null,
+      "options": [
+        "Stimulating red blood cell production in the bone marrow",
+        "Promoting white cell migration",
+        "Increasing plasma protein synthesis",
+        "Shortening the platelet lifespan"
+      ],
+      "answer": 0,
+      "explanation": "EPO stimulates red blood cell production, raising hematocrit and oxygen delivery. It is released during hypoxia as part of the body's oxygen-supply compensation.",
+      "explanationImage": null,
+      "tags": [
+        "Neurohumoral Control & Autoregulation",
+        "The Renin-Angiotensin-Aldosterone System and Erythropoietin"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch10-q135",
+      "stem": "An increase in the red blood cell mass has which direct hemodynamic consequence?",
+      "image": null,
+      "options": [
+        "Decreased blood viscosity",
+        "Increased blood viscosity (\"thickness\")",
+        "Reduced vascular resistance",
+        "Lowered afterload"
+      ],
+      "answer": 1,
+      "explanation": "More red blood cells increase blood viscosity (\"thickness\"), which is the direct hematologic consequence of EPO. The increased viscosity then raises vascular resistance and afterload.",
+      "explanationImage": null,
+      "tags": [
+        "Neurohumoral Control & Autoregulation",
+        "The Renin-Angiotensin-Aldosterone System and Erythropoietin"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch10-q136",
+      "stem": "Increased blood viscosity raises which hemodynamic parameter, increasing the heart's workload?",
+      "image": null,
+      "options": [
+        "Preload",
+        "Vascular resistance, significantly increasing afterload",
+        "Coronary perfusion time",
+        "Lusitropy"
+      ],
+      "answer": 1,
+      "explanation": "Thicker blood flows less easily, raising vascular resistance and therefore afterload. The ventricle must work harder to eject against this increased resistance.",
+      "explanationImage": null,
+      "tags": [
+        "Neurohumoral Control & Autoregulation",
+        "The Renin-Angiotensin-Aldosterone System and Erythropoietin"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch10-q137",
+      "stem": "A patient with polycythemia (markedly elevated hematocrit) would be expected to have which hemodynamic profile?",
+      "image": null,
+      "options": [
+        "Increased blood viscosity with increased afterload and increased cardiac workload",
+        "Decreased viscosity with decreased afterload",
+        "Normal resistance with reduced ejection fraction",
+        "Increased preload with decreased afterload"
+      ],
+      "answer": 0,
+      "explanation": "A high red cell mass thickens the blood, raising resistance and afterload. The heart's workload rises to eject against the thicker blood.",
+      "explanationImage": null,
+      "tags": [
+        "Neurohumoral Control & Autoregulation",
+        "The Renin-Angiotensin-Aldosterone System and Erythropoietin"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch10-q138",
+      "stem": "Which hemodynamic parameter is most directly elevated by increased blood viscosity?",
+      "image": null,
+      "options": [
+        "Preload",
+        "Stroke volume",
+        "Systemic vascular resistance",
+        "Diastolic filling time"
+      ],
+      "answer": 2,
+      "explanation": "Viscosity is one of the determinants of resistance, so thicker blood directly raises resistance. The heart then faces increased afterload.",
+      "explanationImage": null,
+      "tags": [
+        "Neurohumoral Control & Autoregulation",
+        "The Renin-Angiotensin-Aldosterone System and Erythropoietin"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch10-q139",
+      "stem": "Why does increased blood viscosity matter specifically for the heart?",
+      "image": null,
+      "options": [
+        "Because it reduces SA node automaticity",
+        "Because it raises afterload and myocardial workload, increasing oxygen demand",
+        "Because it shortens the PR interval",
+        "Because it decreases venous return through vasodilation"
+      ],
+      "answer": 1,
+      "explanation": "Higher viscosity increases resistance and afterload, forcing the ventricle to generate more pressure per beat. This raises myocardial oxygen demand and long-term workload.",
+      "explanationImage": null,
+      "tags": [
+        "Neurohumoral Control & Autoregulation",
+        "The Renin-Angiotensin-Aldosterone System and Erythropoietin"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch10-q140",
+      "stem": "Which condition would be expected to increase erythropoietin release?",
+      "image": null,
+      "options": [
+        "Polycythemia vera with supranormal hematocrit",
+        "Hyperbaric oxygen therapy",
+        "Chronic hypoxemia (e.g., severe lung disease or right-to-left shunt)",
+        "Elevated atrial pressure from overload"
+      ],
+      "answer": 2,
+      "explanation": "Chronic hypoxemia is the stimulus for renal EPO release. The hormone raises red cell production to improve oxygen carriage, at the cost of increased viscosity and afterload.",
+      "explanationImage": null,
+      "tags": [
+        "Neurohumoral Control & Autoregulation",
+        "Natriuretic Peptides (ANP/BNP) and Capillary Fluid Balance"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch10-q141",
+      "stem": "Atrial natriuretic peptide (ANP) is released in response to which stimulus?",
+      "image": null,
+      "options": [
+        "Ventricular overload",
+        "Renal hypoperfusion",
+        "Atrial stretch from increased atrial pressure/volume",
+        "Falling plasma osmolality"
+      ],
+      "answer": 2,
+      "explanation": "ANP is released from the atria when they are stretched by increased volume or pressure. It is the heart's own counter-regulatory signal to volume overload.",
+      "explanationImage": null,
+      "tags": [
+        "Neurohumoral Control & Autoregulation",
+        "Natriuretic Peptides (ANP/BNP) and Capillary Fluid Balance"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch10-q142",
+      "stem": "B-type natriuretic peptide (BNP) is released primarily in response to which stimulus?",
+      "image": null,
+      "options": [
+        "Atrial tachycardia",
+        "Ventricular overload (wall stress/stretch)",
+        "Hyperoxia",
+        "Low systemic vascular resistance"
+      ],
+      "answer": 1,
+      "explanation": "BNP is released by the ventricles in response to ventricular overload and wall stress. This makes it a direct signal of the failing or strained ventricle.",
+      "explanationImage": null,
+      "tags": [
+        "Neurohumoral Control & Autoregulation",
+        "Natriuretic Peptides (ANP/BNP) and Capillary Fluid Balance"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch10-q143",
+      "stem": "The shared renal action of ANP and BNP is which of the following?",
+      "image": null,
+      "options": [
+        "Increasing water reabsorption",
+        "Stimulating aldosterone release",
+        "Promoting sodium and water excretion (natriuresis and diuresis)",
+        "Stimulating red blood cell production"
+      ],
+      "answer": 2,
+      "explanation": "Both natriuretic peptides promote sodium and water excretion by the kidneys (natriuresis and diuresis). This excretion lowers blood volume, preload, and pressure, opposing RAAS and ADH.",
+      "explanationImage": null,
+      "tags": [
+        "Neurohumoral Control & Autoregulation",
+        "Natriuretic Peptides (ANP/BNP) and Capillary Fluid Balance"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch10-q144",
+      "stem": "What is the effect of natriuretic peptide action on blood volume and preload?",
+      "image": null,
+      "options": [
+        "Increased blood volume and increased preload",
+        "Unchanged volume with increased pressure",
+        "Increased viscosity and increased afterload",
+        "Decreased blood volume and decreased preload"
+      ],
+      "answer": 3,
+      "explanation": "By excreting sodium and water, ANP and BNP lower blood volume, which lowers preload and pressure. They unload an overfilled heart.",
+      "explanationImage": null,
+      "tags": [
+        "Neurohumoral Control & Autoregulation",
+        "Natriuretic Peptides (ANP/BNP) and Capillary Fluid Balance"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch10-q145",
+      "stem": "The natriuretic peptides are physiologic \"antagonists\" to which hormones?",
+      "image": null,
+      "options": [
+        "Erythropoietin and thyroxine",
+        "Insulin and cortisol",
+        "Epinephrine and norepinephrine",
+        "RAAS (renin-angiotensin-aldosterone) and ADH"
+      ],
+      "answer": 3,
+      "explanation": "ANP and BNP directly oppose RAAS and ADH: those hormones retain salt and water and raise pressure, while the natriuretic peptides excrete them and lower pressure. This counter-regulation protects against fluid overload.",
+      "explanationImage": null,
+      "tags": [
+        "Neurohumoral Control & Autoregulation",
+        "Natriuretic Peptides (ANP/BNP) and Capillary Fluid Balance"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch10-q146",
+      "stem": "Elevated serum BNP is a key clinical marker for which condition?",
+      "image": null,
+      "options": [
+        "Anemia",
+        "Heart failure",
+        "Renal calculi",
+        "Hypertensive crisis only"
+      ],
+      "answer": 1,
+      "explanation": "Elevated BNP is a key marker for heart failure because it reflects ventricular wall stress from overload. It helps distinguish cardiac from non-cardiac causes of dyspnea.",
+      "explanationImage": null,
+      "tags": [
+        "Neurohumoral Control & Autoregulation",
+        "Natriuretic Peptides (ANP/BNP) and Capillary Fluid Balance"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch10-q147",
+      "stem": "Which cardiac chamber is the principal source of BNP?",
+      "image": null,
+      "options": [
+        "The right atrium",
+        "The left atrium",
+        "The ventricles",
+        "The coronary sinus"
+      ],
+      "answer": 2,
+      "explanation": "BNP is released mainly by the ventricles when they are overloaded. ANP, by contrast, is released mainly from the atria.",
+      "explanationImage": null,
+      "tags": [
+        "Neurohumoral Control & Autoregulation",
+        "Natriuretic Peptides (ANP/BNP) and Capillary Fluid Balance"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch10-q148",
+      "stem": "The principal source of ANP is which part of the heart?",
+      "image": null,
+      "options": [
+        "The atria",
+        "The ventricles",
+        "The aortic root",
+        "The pulmonary veins"
+      ],
+      "answer": 0,
+      "explanation": "ANP is released from the atria in response to atrial stretch. Atrial volume or pressure overload therefore raises ANP levels.",
+      "explanationImage": null,
+      "tags": [
+        "Neurohumoral Control & Autoregulation",
+        "Natriuretic Peptides (ANP/BNP) and Capillary Fluid Balance"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch10-q149",
+      "stem": "During volume overload, how do the natriuretic peptides lower blood pressure?",
+      "image": null,
+      "options": [
+        "By increasing heart rate",
+        "By constricting the renal vasculature",
+        "By stimulating aldosterone release",
+        "By promoting sodium and water excretion, lowering blood volume (preload) and pressure"
+      ],
+      "answer": 3,
+      "explanation": "Excreting salt and water reduces circulating volume, which lowers preload and pressure. This is the heart's built-in defense against its own volume overload.",
+      "explanationImage": null,
+      "tags": [
+        "Neurohumoral Control & Autoregulation",
+        "Natriuretic Peptides (ANP/BNP) and Capillary Fluid Balance"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch10-q150",
+      "stem": "A patient presents with dyspnea and elevated BNP. In combination with echocardiography, this finding most supports which diagnosis?",
+      "image": null,
+      "options": [
+        "Pulmonary embolism only",
+        "Anemia",
+        "Heart failure with ventricular overload",
+        "Chronic kidney disease only"
+      ],
+      "answer": 2,
+      "explanation": "Elevated BNP reflects ventricular wall stress and is a key marker of heart failure. Combined with echo evidence of ventricular dysfunction or overload, it strongly supports the diagnosis.",
+      "explanationImage": null,
+      "tags": [
+        "Neurohumoral Control & Autoregulation",
+        "Natriuretic Peptides (ANP/BNP) and Capillary Fluid Balance"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch10-q151",
+      "stem": "The Starling forces govern which physiologic process?",
+      "image": null,
+      "options": [
+        "AV nodal conduction velocity",
+        "Movement of fluid across the capillary wall (filtration and reabsorption)",
+        "SA node automaticity",
+        "Coronary autoregulation only"
+      ],
+      "answer": 1,
+      "explanation": "Starling forces describe the balance of hydrostatic and oncotic pressures that determine whether fluid leaves or enters the capillary. This is the basis of capillary fluid dynamics and edema formation.",
+      "explanationImage": null,
+      "tags": [
+        "Neurohumoral Control & Autoregulation",
+        "Natriuretic Peptides (ANP/BNP) and Capillary Fluid Balance"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch10-q152",
+      "stem": "High preload increases which pressure, leading to fluid accumulation in the tissues?",
+      "image": null,
+      "options": [
+        "Plasma oncotic pressure",
+        "Interstitial oncotic pressure",
+        "Intrathoracic pressure",
+        "Capillary hydrostatic pressure"
+      ],
+      "answer": 3,
+      "explanation": "High preload raises capillary hydrostatic pressure, pushing fluid out of the capillary into the interstitium. This is the mechanism by which volume overload produces edema.",
+      "explanationImage": null,
+      "tags": [
+        "Neurohumoral Control & Autoregulation",
+        "Natriuretic Peptides (ANP/BNP) and Capillary Fluid Balance"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch10-q153",
+      "stem": "Which mechanism explains peripheral edema in a patient with volume overload?",
+      "image": null,
+      "options": [
+        "Reduced capillary hydrostatic pressure pulling fluid inward",
+        "Increased lymphatic drainage",
+        "Elevated hydrostatic pressure pushing fluid out of the capillaries into the interstitium",
+        "Increased plasma oncotic pressure"
+      ],
+      "answer": 2,
+      "explanation": "Elevated venous and capillary pressures from volume overload raise hydrostatic pressure, driving fluid into the tissues. High preload therefore increases hydrostatic pressure, causing edema.",
+      "explanationImage": null,
+      "tags": [
+        "Neurohumoral Control & Autoregulation",
+        "Natriuretic Peptides (ANP/BNP) and Capillary Fluid Balance"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch10-q154",
+      "stem": "Which Starling force pushes fluid OUT of the capillary?",
+      "image": null,
+      "options": [
+        "Capillary hydrostatic pressure",
+        "Plasma oncotic (colloid osmotic) pressure",
+        "Tissue oncotic pressure of zero",
+        "Arteriolar wall tension"
+      ],
+      "answer": 0,
+      "explanation": "Capillary hydrostatic pressure pushes fluid outward into the interstitium. Plasma oncotic pressure acts in the opposite direction, pulling fluid back into the vessel.",
+      "explanationImage": null,
+      "tags": [
+        "Neurohumoral Control & Autoregulation",
+        "Natriuretic Peptides (ANP/BNP) and Capillary Fluid Balance"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch10-q155",
+      "stem": "Which Starling force holds fluid WITHIN the capillary?",
+      "image": null,
+      "options": [
+        "Capillary hydrostatic pressure",
+        "Interstitial hydrostatic pressure",
+        "Plasma oncotic (colloid osmotic) pressure generated by plasma proteins",
+        "Intrathoracic pressure"
+      ],
+      "answer": 2,
+      "explanation": "Plasma proteins generate oncotic pressure, which pulls fluid back into the capillary. When hydrostatic pressure rises with volume overload, this retaining force is overcome and edema develops.",
+      "explanationImage": null,
+      "tags": [
+        "Neurohumoral Control & Autoregulation",
+        "Natriuretic Peptides (ANP/BNP) and Capillary Fluid Balance"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch10-q156",
+      "stem": "According to the lecture's key takeaways, high preload leads to edema through which pathway?",
+      "image": null,
+      "options": [
+        "Increased hydrostatic pressure causing fluid extravasation",
+        "Decreased capillary permeability",
+        "Increased lymphatic return",
+        "Reduced plasma protein synthesis"
+      ],
+      "answer": 0,
+      "explanation": "High preload increases hydrostatic pressure in the capillaries, causing fluid to move into the interstitium as edema. This is why volume overload is clinically associated with swelling and pulmonary congestion.",
+      "explanationImage": null,
+      "tags": [
+        "Neurohumoral Control & Autoregulation",
+        "Natriuretic Peptides (ANP/BNP) and Capillary Fluid Balance"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch10-q157",
+      "stem": "Therapeutically, what is the goal of enhancing natriuretic peptide activity in heart failure?",
+      "image": null,
+      "options": [
+        "Increasing afterload to improve ejection",
+        "Raising blood volume to improve preload",
+        "Increasing blood viscosity to improve oxygen delivery",
+        "Reducing preload by promoting sodium and water excretion"
+      ],
+      "answer": 3,
+      "explanation": "Drugs that enhance natriuretic peptide signaling (or inhibit its breakdown) promote salt and water excretion, lowering volume, preload, and wall stress. This relieves congestion in heart failure.",
+      "explanationImage": null,
+      "tags": [
+        "Neurohumoral Control & Autoregulation",
+        "Natriuretic Peptides (ANP/BNP) and Capillary Fluid Balance"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch10-q158",
+      "stem": "Which natriuretic peptide is more specifically associated with ventricular strain and is the preferred clinical biomarker for it?",
+      "image": null,
+      "options": [
+        "ANP",
+        "BNP",
+        "CNP",
+        "Erythropoietin"
+      ],
+      "answer": 1,
+      "explanation": "BNP is released by the ventricles under overload, making it more specific for ventricular wall stress. ANP reflects atrial stretch and is less specific for ventricular failure.",
+      "explanationImage": null,
+      "tags": [
+        "Neurohumoral Control & Autoregulation",
+        "Natriuretic Peptides (ANP/BNP) and Capillary Fluid Balance"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch10-q159",
+      "stem": "What effect do natriuretic peptides have on the RAAS and ADH systems?",
+      "image": null,
+      "options": [
+        "They stimulate both systems",
+        "They are unchanged by them",
+        "They convert them to natriuretic hormones",
+        "They inhibit and counteract them"
+      ],
+      "answer": 3,
+      "explanation": "ANP and BNP are physiologic antagonists of RAAS and ADH, inhibiting sodium/water retention and vasoconstriction. This opposition prevents unchecked expansion of blood volume.",
+      "explanationImage": null,
+      "tags": [
+        "Neurohumoral Control & Autoregulation",
+        "Natriuretic Peptides (ANP/BNP) and Capillary Fluid Balance"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch10-q160",
+      "stem": "A patient with atrial dilation from volume overload would be expected to have elevated levels of which peptide?",
+      "image": null,
+      "options": [
+        "Erythropoietin",
+        "ANP",
+        "Renin",
+        "ADH"
+      ],
+      "answer": 1,
+      "explanation": "Atrial stretch from volume or pressure overload triggers ANP release from the atria. ANP then promotes sodium and water excretion to lower the volume load.",
+      "explanationImage": null,
+      "tags": [
+        "Neurohumoral Control & Autoregulation",
+        "Autoregulation and the Coronary Circulation"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch10-q161",
+      "stem": "The term \"autoregulation\" refers to which fundamental process?",
+      "image": null,
+      "options": [
+        "Hormonal control of heart rate by the pituitary",
+        "The tissues' intrinsic ability to adjust their own blood flow based on metabolic needs",
+        "Neural control of heart rate by the medulla",
+        "Baroreceptor resetting in chronic hypertension"
+      ],
+      "answer": 1,
+      "explanation": "Autoregulation is the local, intrinsic control by which tissues adjust blood flow to match metabolic demand. It operates independently of nerves and hormones.",
+      "explanationImage": null,
+      "tags": [
+        "Neurohumoral Control & Autoregulation",
+        "Autoregulation and the Coronary Circulation"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch10-q162",
+      "stem": "During periods of increased activity, active cells produce which of the following?",
+      "image": null,
+      "options": [
+        "Local chemical vasoconstrictors",
+        "Extra norepinephrine",
+        "Local chemical vasodilators",
+        "Additional platelets"
+      ],
+      "answer": 2,
+      "explanation": "Active cells produce local chemical vasodilators when metabolic demand rises. These agents dilate nearby vessels, increasing local oxygen supply.",
+      "explanationImage": null,
+      "tags": [
+        "Neurohumoral Control & Autoregulation",
+        "Autoregulation and the Coronary Circulation"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch10-q163",
+      "stem": "Which set of local conditions triggers metabolic vasodilation?",
+      "image": null,
+      "options": [
+        "Low oxygen, high waste products, and falling pH",
+        "High oxygen, low waste, and rising pH",
+        "High oxygen and falling pH only",
+        "Low CO2 and high pH"
+      ],
+      "answer": 0,
+      "explanation": "Low oxygen, accumulated waste, and falling pH (acidosis) signal insufficient perfusion. Vessels dilate in response, increasing local flow and oxygen delivery.",
+      "explanationImage": null,
+      "tags": [
+        "Neurohumoral Control & Autoregulation",
+        "Autoregulation and the Coronary Circulation"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch10-q164",
+      "stem": "Which local metabolite is especially important for triggering rapid coronary vasodilation?",
+      "image": null,
+      "options": [
+        "Sodium",
+        "Glucose",
+        "Adenosine",
+        "Bicarbonate"
+      ],
+      "answer": 2,
+      "explanation": "Adenosine triggers rapid coronary vasodilation when myocardial oxygen demand outstrips supply. It is the key local metabolic mediator of coronary blood flow.",
+      "explanationImage": null,
+      "tags": [
+        "Neurohumoral Control & Autoregulation",
+        "Autoregulation and the Coronary Circulation"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch10-q165",
+      "stem": "The physiologic purpose of metabolic vasodilation is which of the following?",
+      "image": null,
+      "options": [
+        "To decrease tissue metabolism",
+        "To raise systemic blood pressure",
+        "To conserve blood volume",
+        "To increase local oxygen supply to the active tissue"
+      ],
+      "answer": 3,
+      "explanation": "Vasodilation increases flow to the metabolically active tissue, restoring its oxygen supply. This matching of flow to need is the essence of metabolic autoregulation.",
+      "explanationImage": null,
+      "tags": [
+        "Neurohumoral Control & Autoregulation",
+        "Autoregulation and the Coronary Circulation"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch10-q166",
+      "stem": "The myogenic autoregulatory response is triggered by which stimulus?",
+      "image": null,
+      "options": [
+        "Chemical changes in the interstitium",
+        "Physical stretch of the vascular smooth muscle",
+        "Vagal stimulation of the vessel wall",
+        "Plasma osmolality changes"
+      ],
+      "answer": 1,
+      "explanation": "Myogenic control depends on vascular smooth muscle responding directly to physical stretch. No nerves or hormones are required for this response.",
+      "explanationImage": null,
+      "tags": [
+        "Neurohumoral Control & Autoregulation",
+        "Autoregulation and the Coronary Circulation"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch10-q167",
+      "stem": "In the myogenic response, high vascular pressure produces which result?",
+      "image": null,
+      "options": [
+        "Vasodilation to increase flow",
+        "Protective vasoconstriction of the vessel",
+        "Increased capillary permeability",
+        "Reflex bradycardia"
+      ],
+      "answer": 1,
+      "explanation": "When pressure is high, the stretched smooth muscle constricts protectively. This limits pressure transmission to the fragile downstream capillaries.",
+      "explanationImage": null,
+      "tags": [
+        "Neurohumoral Control & Autoregulation",
+        "Autoregulation and the Coronary Circulation"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch10-q168",
+      "stem": "In the myogenic response, low vascular pressure produces which result?",
+      "image": null,
+      "options": [
+        "Vasoconstriction to protect the capillaries",
+        "Complete vessel collapse",
+        "Vasodilation to maintain flow",
+        "Increased vascular resistance"
+      ],
+      "answer": 2,
+      "explanation": "When pressure falls, the smooth muscle relaxes and the vessel dilates to maintain flow. This complements the constriction seen with high pressure.",
+      "explanationImage": null,
+      "tags": [
+        "Neurohumoral Control & Autoregulation",
+        "Autoregulation and the Coronary Circulation"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch10-q169",
+      "stem": "The myocardium receives the majority of its blood supply during which phase of the cardiac cycle?",
+      "image": null,
+      "options": [
+        "Diastole",
+        "Systole",
+        "Isovolumetric contraction only",
+        "Atrial systole only"
+      ],
+      "answer": 0,
+      "explanation": "Coronary flow to the left ventricle occurs primarily during diastole, when the relaxed myocardium does not compress the intramural vessels. This timing is critical to coronary hemodynamics.",
+      "explanationImage": null,
+      "tags": [
+        "Neurohumoral Control & Autoregulation",
+        "Autoregulation and the Coronary Circulation"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch10-q170",
+      "stem": "High heart rates adversely affect coronary perfusion primarily by doing which of the following?",
+      "image": null,
+      "options": [
+        "Increasing coronary perfusion pressure",
+        "Dilating the coronary arteries maximally",
+        "Reducing blood viscosity",
+        "Reducing the time available for coronary perfusion (diastolic time)"
+      ],
+      "answer": 3,
+      "explanation": "Tachycardia shortens diastole, reducing coronary perfusion time. Since the myocardium is perfused mainly during diastole, very fast rates compromise coronary blood supply.",
+      "explanationImage": null,
+      "tags": [
+        "Neurohumoral Control & Autoregulation",
+        "Autoregulation and the Coronary Circulation"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch10-q171",
+      "stem": "Why is tachycardia described as \"doubly harmful\" to the myocardium?",
+      "image": null,
+      "options": [
+        "It decreases oxygen demand while decreasing supply",
+        "It raises oxygen demand while also shortening diastolic coronary perfusion time",
+        "It increases viscosity and afterload simultaneously",
+        "It lowers both preload and afterload"
+      ],
+      "answer": 1,
+      "explanation": "A fast heart rate raises myocardial oxygen consumption while reducing the diastolic time available for coronary filling. Supply falls just as demand rises, a dangerous combination for ischemia.",
+      "explanationImage": null,
+      "tags": [
+        "Neurohumoral Control & Autoregulation",
+        "Autoregulation and the Coronary Circulation"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch10-q172",
+      "stem": "The Frank-Starling law describes which intrinsic mechanism?",
+      "image": null,
+      "options": [
+        "Hormonal matching of heart rate to blood pressure",
+        "Intrinsic matching of stroke volume to venous return",
+        "Neural matching of contractility to afterload",
+        "Chemical matching of coronary flow to hematocrit"
+      ],
+      "answer": 1,
+      "explanation": "The Frank-Starling law is an intrinsic autoregulatory mechanism that matches stroke volume to venous return. It requires no external signals to function.",
+      "explanationImage": null,
+      "tags": [
+        "Neurohumoral Control & Autoregulation",
+        "Autoregulation and the Coronary Circulation"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch10-q173",
+      "stem": "According to the Frank-Starling law, increased preload produces which result?",
+      "image": null,
+      "options": [
+        "Reduced stroke volume from fiber overlap",
+        "Stretching of myocardial fibers that produces a more forceful contraction",
+        "Decreased ventricular filling",
+        "Increased systemic vascular resistance"
+      ],
+      "answer": 1,
+      "explanation": "Increased preload stretches the myocardial fibers, and that stretch produces a more forceful contraction. The ventricle therefore ejects whatever volume it receives.",
+      "explanationImage": null,
+      "tags": [
+        "Neurohumoral Control & Autoregulation",
+        "Autoregulation and the Coronary Circulation"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch10-q174",
+      "stem": "A key functional consequence of the Frank-Starling mechanism is which of the following?",
+      "image": null,
+      "options": [
+        "Both ventricles pump different volumes to prevent overload",
+        "Stroke volume becomes independent of filling",
+        "The heart rate automatically slows when venous return rises",
+        "Both ventricles pump equal volumes, preventing congestion on either side"
+      ],
+      "answer": 3,
+      "explanation": "By matching output to filling, the Frank-Starling mechanism ensures both ventricles pump equal volumes. This prevents blood from accumulating on the venous side of either circulation.",
+      "explanationImage": null,
+      "tags": [
+        "Neurohumoral Control & Autoregulation",
+        "Autoregulation and the Coronary Circulation"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch10-q175",
+      "stem": "What happens to left ventricular coronary blood flow during systole?",
+      "image": null,
+      "options": [
+        "It increases because aortic pressure peaks",
+        "It remains equal to diastolic flow",
+        "It becomes retrograde",
+        "It is reduced because the contracting myocardium compresses the intramural coronary vessels"
+      ],
+      "answer": 3,
+      "explanation": "During systole the contracting left ventricle squeezes the intramural coronary vessels, restricting flow. This is why the myocardium depends on diastole for most of its perfusion.",
+      "explanationImage": null,
+      "tags": [
+        "Neurohumoral Control & Autoregulation",
+        "Autoregulation and the Coronary Circulation"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch10-q176",
+      "stem": "Adenosine accumulates in the myocardium under which condition?",
+      "image": null,
+      "options": [
+        "When oxygen supply exceeds demand",
+        "When myocardial oxygen demand exceeds supply (relative hypoxia with ATP breakdown)",
+        "When coronary flow is excessive",
+        "When the heart rate is very low"
+      ],
+      "answer": 1,
+      "explanation": "When demand outstrips oxygen supply, ATP is broken down faster, releasing adenosine. The accumulating adenosine then triggers rapid coronary vasodilation to restore the balance.",
+      "explanationImage": null,
+      "tags": [
+        "Neurohumoral Control & Autoregulation",
+        "Autoregulation and the Coronary Circulation"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch10-q177",
+      "stem": "The myogenic constriction that occurs at high pressure serves primarily to protect which structures?",
+      "image": null,
+      "options": [
+        "The great veins",
+        "The SA node",
+        "The downstream capillaries from excessive pressure",
+        "The coronary sinus valves"
+      ],
+      "answer": 2,
+      "explanation": "Constricting arterioles at high pressure shields the delicate capillaries from pressure spikes. This protective function is inherent to vascular smooth muscle.",
+      "explanationImage": null,
+      "tags": [
+        "Neurohumoral Control & Autoregulation",
+        "Autoregulation and the Coronary Circulation"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch10-q178",
+      "stem": "Which statement best characterizes autoregulation compared with neurohumoral control?",
+      "image": null,
+      "options": [
+        "Autoregulation requires both sympathetic and parasympathetic input",
+        "Autoregulation is an intrinsic local mechanism independent of nerves and hormones",
+        "Autoregulation depends entirely on adrenal catecholamines",
+        "Autoregulation is faster than any neural reflex"
+      ],
+      "answer": 1,
+      "explanation": "Autoregulation is local and intrinsic: metabolic (chemical) and myogenic (stretch) mechanisms operate within the tissue itself. It works alongside, not because of, the nervous and endocrine systems.",
+      "explanationImage": null,
+      "tags": [
+        "Neurohumoral Control & Autoregulation",
+        "Autoregulation and the Coronary Circulation"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch10-q179",
+      "stem": "Which pressure is the primary driving force for coronary perfusion of the left ventricle?",
+      "image": null,
+      "options": [
+        "Right atrial pressure alone",
+        "Pulmonary artery diastolic pressure",
+        "Left atrial mean pressure",
+        "Aortic (diastolic) pressure relative to intraventricular pressure"
+      ],
+      "answer": 3,
+      "explanation": "Coronary flow is driven by the aortic pressure during diastole, opposed by the pressure within the ventricular wall. This is why diastolic time and pressure are so critical to myocardial perfusion.",
+      "explanationImage": null,
+      "tags": [
+        "Neurohumoral Control & Autoregulation",
+        "Autoregulation and the Coronary Circulation"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch10-q180",
+      "stem": "When the metabolic activity of the myocardium increases, coronary blood flow responds in which way?",
+      "image": null,
+      "options": [
+        "It decreases to conserve oxygen",
+        "It becomes fixed regardless of demand",
+        "It increases through metabolic vasodilation, matching supply to demand",
+        "It increases only during systole"
+      ],
+      "answer": 2,
+      "explanation": "Increased myocardial work generates more local vasodilators (including adenosine), dilating coronary vessels. Coronary flow therefore rises to match the increased oxygen demand.",
+      "explanationImage": null,
+      "tags": [
+        "Neurohumoral Control & Autoregulation",
+        "Hypertension, Hemorrhage, Shock, and the Exercise Response"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch10-q181",
+      "stem": "Hypertension is best defined as which condition?",
+      "image": null,
+      "options": [
+        "A single episode of elevated pressure during exercise",
+        "Chronically elevated systemic blood pressure",
+        "Elevated pressure only in the pulmonary circulation",
+        "Low systemic pressure with high heart rate"
+      ],
+      "answer": 1,
+      "explanation": "Hypertension is defined as chronically elevated systemic pressure. Its sustained nature is what drives the long-term cardiac adaptations and eventual failure.",
+      "explanationImage": null,
+      "tags": [
+        "Neurohumoral Control & Autoregulation",
+        "Hypertension, Hemorrhage, Shock, and the Exercise Response"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch10-q182",
+      "stem": "Chronic hypertension increases cardiac workload through which hemodynamic mechanism, and what structural change follows?",
+      "image": null,
+      "options": [
+        "Increased preload leading to chamber dilation only",
+        "Decreased afterload leading to wall thinning",
+        "Increased blood viscosity leading to polycythemia",
+        "High afterload increasing workload, leading to ventricular thickening (hypertrophy)"
+      ],
+      "answer": 3,
+      "explanation": "Chronically elevated pressure raises afterload, increasing the work the ventricle performs each beat. Over time this load causes the ventricular wall to thicken.",
+      "explanationImage": null,
+      "tags": [
+        "Neurohumoral Control & Autoregulation",
+        "Hypertension, Hemorrhage, Shock, and the Exercise Response"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch10-q183",
+      "stem": "In chronic hypertension, what is the eventual consequence when compensatory mechanisms fail?",
+      "image": null,
+      "options": [
+        "Permanent return to normal pressure",
+        "Spontaneous regression of hypertrophy",
+        "Heart failure as the overwhelmed ventricle decompensates",
+        "Conversion to hypovolemic shock"
+      ],
+      "answer": 2,
+      "explanation": "Compensation eventually fails, leading to heart failure. The chronically overloaded, hypertrophied ventricle can no longer meet systemic demands.",
+      "explanationImage": null,
+      "tags": [
+        "Neurohumoral Control & Autoregulation",
+        "Hypertension, Hemorrhage, Shock, and the Exercise Response"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch10-q184",
+      "stem": "In acute hemorrhage, the sudden loss of blood volume causes which immediate hemodynamic change?",
+      "image": null,
+      "options": [
+        "A drop in preload",
+        "An increase in preload",
+        "An increase in afterload from vasodilation",
+        "An increase in blood viscosity"
+      ],
+      "answer": 0,
+      "explanation": "Sudden volume loss reduces venous return, dropping preload. Reduced filling lowers stroke volume and arterial pressure, triggering compensatory reflexes.",
+      "explanationImage": null,
+      "tags": [
+        "Neurohumoral Control & Autoregulation",
+        "Hypertension, Hemorrhage, Shock, and the Exercise Response"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch10-q185",
+      "stem": "Which reflex provides the most rapid cardiovascular compensation for acute hemorrhage?",
+      "image": null,
+      "options": [
+        "The Bainbridge reflex",
+        "The RAAS response",
+        "The baroreceptor reflex, rapidly increasing heart rate",
+        "The erythropoietin response"
+      ],
+      "answer": 2,
+      "explanation": "The baroreceptor reflex is the fastest response: falling pressure reduces receptor firing, activating sympathetic output and rapidly raising heart rate. Hormonal systems like RAAS and ADH follow more slowly.",
+      "explanationImage": null,
+      "tags": [
+        "Neurohumoral Control & Autoregulation",
+        "Hypertension, Hemorrhage, Shock, and the Exercise Response"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch10-q186",
+      "stem": "Which hormonal systems act to retain fluid during hemorrhage?",
+      "image": null,
+      "options": [
+        "ANP and BNP",
+        "RAAS and ADH",
+        "Erythropoietin and thyroxine",
+        "Insulin and cortisol"
+      ],
+      "answer": 1,
+      "explanation": "RAAS and ADH act to retain fluid: angiotensin II and ADH constrict vessels while aldosterone and ADH retain salt and water. The natriuretic peptides do the opposite and are suppressed in this setting.",
+      "explanationImage": null,
+      "tags": [
+        "Neurohumoral Control & Autoregulation",
+        "Hypertension, Hemorrhage, Shock, and the Exercise Response"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch10-q187",
+      "stem": "If compensatory mechanisms fail to maintain arterial pressure during hemorrhage, what end result occurs?",
+      "image": null,
+      "options": [
+        "Hypertensive crisis",
+        "Pulmonary edema",
+        "Shock",
+        "Right ventricular hypertrophy"
+      ],
+      "answer": 2,
+      "explanation": "Failure to maintain pressure during volume loss leads to shock, in which perfusion no longer meets tissue demands. This is the decompensated stage of hemorrhage.",
+      "explanationImage": null,
+      "tags": [
+        "Neurohumoral Control & Autoregulation",
+        "Hypertension, Hemorrhage, Shock, and the Exercise Response"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch10-q188",
+      "stem": "Shock is best defined as which of the following?",
+      "image": null,
+      "options": [
+        "Any elevation of heart rate above 100 bpm",
+        "Failure of perfusion to meet tissue demands",
+        "A psychological response to trauma",
+        "Chronic elevation of systemic pressure"
+      ],
+      "answer": 1,
+      "explanation": "Shock is the state in which perfusion fails to meet metabolic demands of the tissues. It can arise from problems with volume (preload), pump function (inotropy), or flow (resistance/obstruction).",
+      "explanationImage": null,
+      "tags": [
+        "Neurohumoral Control & Autoregulation",
+        "Hypertension, Hemorrhage, Shock, and the Exercise Response"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch10-q189",
+      "stem": "Hypovolemic shock is characterized primarily by which hemodynamic problem?",
+      "image": null,
+      "options": [
+        "Low preload due to volume loss",
+        "Low inotropy due to pump failure",
+        "Physical blockage of blood flow",
+        "Excessive vasodilation from sepsis only"
+      ],
+      "answer": 0,
+      "explanation": "Hypovolemic shock results from low preload caused by loss of blood volume (hemorrhage) or other fluids. The pump itself may be normal but cannot fill adequately.",
+      "explanationImage": null,
+      "tags": [
+        "Neurohumoral Control & Autoregulation",
+        "Hypertension, Hemorrhage, Shock, and the Exercise Response"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch10-q190",
+      "stem": "Cardiogenic shock is characterized primarily by which hemodynamic problem?",
+      "image": null,
+      "options": [
+        "Low preload from dehydration",
+        "Obstruction of the great vessels",
+        "Excessive preload from fluid overload",
+        "Low inotropy due to pump failure"
+      ],
+      "answer": 3,
+      "explanation": "Cardiogenic shock results from pump failure — depressed myocardial contractility (inotropy), often after extensive infarction. Preload may even be elevated, but the ventricle cannot eject effectively.",
+      "explanationImage": null,
+      "tags": [
+        "Neurohumoral Control & Autoregulation",
+        "Hypertension, Hemorrhage, Shock, and the Exercise Response"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch10-q191",
+      "stem": "Obstructive shock is characterized by which mechanism?",
+      "image": null,
+      "options": [
+        "Low inotropy from infarction",
+        "Excessive natriuresis",
+        "Physical blockage of blood flow (e.g., massive pulmonary embolism or tamponade)",
+        "Volume loss through the kidneys"
+      ],
+      "answer": 2,
+      "explanation": "Obstructive shock results from a physical blockage impeding blood flow, such as a massive PE or pericardial tamponade. Filling or ejection is mechanically prevented despite an intact pump and adequate volume.",
+      "explanationImage": null,
+      "tags": [
+        "Neurohumoral Control & Autoregulation",
+        "Hypertension, Hemorrhage, Shock, and the Exercise Response"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch10-q192",
+      "stem": "A trauma patient is hypotensive and tachycardic with cool, clammy skin and weak pulses. Which physiologic response best explains the tachycardia and vasoconstriction?",
+      "image": null,
+      "options": [
+        "The Bainbridge reflex responding to atrial stretch",
+        "Parasympathetic dominance via the vagus nerve",
+        "Sympathetic compensation driven by the baroreceptor reflex",
+        "ANP release promoting sodium excretion"
+      ],
+      "answer": 2,
+      "explanation": "Falling pressure reduces baroreceptor firing, activating the sympathetic system. Tachycardia, increased contractility, and peripheral vasoconstriction (cool, clammy skin with weak pulses) are the classic compensatory signs.",
+      "explanationImage": null,
+      "tags": [
+        "Neurohumoral Control & Autoregulation",
+        "Hypertension, Hemorrhage, Shock, and the Exercise Response"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch10-q193",
+      "stem": "A patient in shock has adequate blood volume and filling pressures but a dilated, poorly contracting ventricle. Which type of shock is this?",
+      "image": null,
+      "options": [
+        "Hypovolemic",
+        "Cardiogenic",
+        "Obstructive",
+        "Distributive only"
+      ],
+      "answer": 1,
+      "explanation": "Adequate volume with a failing pump defines cardiogenic shock: the problem is low inotropy, not low preload. Echocardiography distinguishes this from hypovolemic and obstructive forms.",
+      "explanationImage": null,
+      "tags": [
+        "Neurohumoral Control & Autoregulation",
+        "Hypertension, Hemorrhage, Shock, and the Exercise Response"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch10-q194",
+      "stem": "The concept of \"cardiac reserve\" refers to which of the following?",
+      "image": null,
+      "options": [
+        "The fixed stroke volume at rest",
+        "The difference between blood volume and plasma volume",
+        "The extra oxygen stored in myoglobin",
+        "The capacity to increase cardiac output above resting levels, mobilized largely through sympathetic output during exercise"
+      ],
+      "answer": 3,
+      "explanation": "Cardiac reserve is the heart's ability to raise output above resting levels when demand increases. Sympathetic output provides this reserve through increased rate and contractility.",
+      "explanationImage": null,
+      "tags": [
+        "Neurohumoral Control & Autoregulation",
+        "Hypertension, Hemorrhage, Shock, and the Exercise Response"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch10-q195",
+      "stem": "During exercise, which combination of cardiovascular responses occurs?",
+      "image": null,
+      "options": [
+        "Parasympathetic dominance with bradycardia and splanchnic vasodilation",
+        "Decreased skeletal muscle perfusion with increased GI flow",
+        "Unchanged cardiac output with increased resistance",
+        "Sympathetic activation increasing heart rate and contractility while skeletal muscle perfusion increases"
+      ],
+      "answer": 3,
+      "explanation": "Exercise triggers sympathetic activation (increased rate and contractility) and redistributes flow to working skeletal muscle. This combination dramatically raises cardiac output and muscle perfusion.",
+      "explanationImage": null,
+      "tags": [
+        "Neurohumoral Control & Autoregulation",
+        "Hypertension, Hemorrhage, Shock, and the Exercise Response"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch10-q196",
+      "stem": "During exercise, blood flow to the gastrointestinal tract does which of the following relative to the resting state?",
+      "image": null,
+      "options": [
+        "Increases to support nutrient absorption",
+        "Decreases as flow is redistributed to active skeletal muscle",
+        "Remains exactly constant",
+        "Reverses direction through portal shunts"
+      ],
+      "answer": 1,
+      "explanation": "During exercise, blood is redistributed away from the splanchnic circulation toward skeletal muscle. Organs compete for a limited blood supply, and muscle takes priority during exertion.",
+      "explanationImage": null,
+      "tags": [
+        "Neurohumoral Control & Autoregulation",
+        "Hypertension, Hemorrhage, Shock, and the Exercise Response"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch10-q197",
+      "stem": "According to the key takeaways, the medulla coordinates which two variables?",
+      "image": null,
+      "options": [
+        "Blood viscosity and hematocrit",
+        "Plasma osmolality and urine output",
+        "Heart rate and vessel tone",
+        "Ventricular filling and valve closure"
+      ],
+      "answer": 2,
+      "explanation": "The medulla coordinates heart rate and vessel tone through its cardiac and vasomotor centers. This central integration is the foundation of short-term cardiovascular homeostasis.",
+      "explanationImage": null,
+      "tags": [
+        "Neurohumoral Control & Autoregulation",
+        "Hypertension, Hemorrhage, Shock, and the Exercise Response"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch10-q198",
+      "stem": "According to the key takeaways, which nerve maintains the slow resting heart rate?",
+      "image": null,
+      "options": [
+        "The phrenic nerve",
+        "The sympathetic chain",
+        "The glossopharyngeal nerve",
+        "The vagus nerve"
+      ],
+      "answer": 3,
+      "explanation": "The vagus nerve maintains the slow resting heart rate through continuous vagal tone on the SA node. This parasympathetic brake keeps the resting rate near 70 bpm.",
+      "explanationImage": null,
+      "tags": [
+        "Neurohumoral Control & Autoregulation",
+        "Hypertension, Hemorrhage, Shock, and the Exercise Response"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch10-q199",
+      "stem": "According to the key takeaways, what do local metabolites trigger in the coronary circulation?",
+      "image": null,
+      "options": [
+        "Vasoconstriction during systole",
+        "Coronary vasodilation during diastole",
+        "Increased blood viscosity",
+        "Reflex bradycardia"
+      ],
+      "answer": 1,
+      "explanation": "Local metabolites such as adenosine trigger coronary vasodilation, which acts during diastole when the myocardium is actually perfused. This matches coronary supply to myocardial demand.",
+      "explanationImage": null,
+      "tags": [
+        "Neurohumoral Control & Autoregulation",
+        "Hypertension, Hemorrhage, Shock, and the Exercise Response"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5002-ch10-q200",
+      "stem": "According to the key takeaways, what role do the natriuretic peptides play in volume overload?",
+      "image": null,
+      "options": [
+        "They increase preload to improve contractility",
+        "They stimulate RAAS to raise blood pressure",
+        "They conserve water through the kidneys",
+        "They counteract cardiac volume overload by promoting sodium and water excretion"
+      ],
+      "answer": 3,
+      "explanation": "The natriuretic peptides counteract cardiac volume overload by excreting sodium and water, lowering preload and pressure. They are the heart's own protective response to being overfilled.",
+      "explanationImage": null,
+      "tags": [
+        "Neurohumoral Control & Autoregulation",
+        "Hypertension, Hemorrhage, Shock, and the Exercise Response"
+      ],
+      "reference": ""
+    }
+  ]
+}

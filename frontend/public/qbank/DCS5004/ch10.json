@@ -1,0 +1,2807 @@
+{
+  "subjectId": "DCS5004",
+  "chapterId": "ch10",
+  "title": "Module 10: Ultrasound Resolution, Instrumentation, and Image Optimization",
+  "questions": [
+    {
+      "id": "DCS5004-ch10-q001",
+      "stem": "Which statement best defines resolution in ultrasound?",
+      "image": null,
+      "options": [
+        "The strength of the returning echo from a reflector",
+        "The depth at which an image can be displayed",
+        "The ability to distinguish two structures as separate, measured by the minimum separation between them",
+        "The number of frames displayed per second"
+      ],
+      "answer": 2,
+      "explanation": "**Why C is correct:** Resolution is the minimum separation at which two structures are displayed as two distinct structures. A smaller value means better resolution.\n\n**Why the others are wrong:** A describes echo amplitude/reflectivity, not separation. B describes the maximum imaging depth (penetration). D describes frame rate, which governs only temporal resolution.",
+      "explanationImage": null,
+      "tags": [
+        "Ultrasound Resolution",
+        "Instrumentation",
+        "Image Optimization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch10-q002",
+      "stem": "Which of the following is NOT a component of spatial resolution?",
+      "image": null,
+      "options": [
+        "Temporal resolution",
+        "Axial resolution",
+        "Lateral resolution",
+        "Elevational resolution"
+      ],
+      "answer": 0,
+      "explanation": "**Why A is correct:** Spatial resolution distinguishes structures by location and includes axial, lateral and elevational resolution. Temporal resolution describes motion over time, and contrast resolution describes echo-intensity differences; neither is expressed as a spatial separation.\n\n**Why the others are wrong:** B, C and D are the three spatial dimensions of detail resolution (along the beam, across the beam, and slice thickness).",
+      "explanationImage": null,
+      "tags": [
+        "Ultrasound Resolution",
+        "Instrumentation",
+        "Image Optimization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch10-q003",
+      "stem": "Which of the following is NOT another name for axial resolution?",
+      "image": null,
+      "options": [
+        "Longitudinal resolution",
+        "Radial resolution",
+        "Range resolution",
+        "Transverse resolution"
+      ],
+      "answer": 3,
+      "explanation": "**Why D is correct:** Transverse (like lateral, angular and azimuthal) refers to resolution perpendicular to the beam. These names belong to the LATA group.\n\n**Why the others are wrong:** Longitudinal, Axial, Range, Radial and Depth make up LARRD, the mnemonic for axial resolution names.",
+      "explanationImage": null,
+      "tags": [
+        "Ultrasound Resolution",
+        "Instrumentation",
+        "Image Optimization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch10-q004",
+      "stem": "Axial resolution is equal to:",
+      "image": null,
+      "options": [
+        "Spatial pulse length × 2",
+        "Spatial pulse length ÷ 2",
+        "Beam width at the focus",
+        "Wavelength ÷ number of cycles"
+      ],
+      "answer": 1,
+      "explanation": "**Why B is correct:** Axial resolution (mm) = SPL ÷ 2, where SPL = number of cycles in the pulse × wavelength. The pulse must travel to the reflector and back, so two reflectors are resolved only if they are separated by more than half the pulse length.\n\n**Why the others are wrong:** A inverts the relationship. C is lateral resolution. D is not a valid expression; SPL is cycles multiplied by wavelength, not divided.",
+      "explanationImage": null,
+      "tags": [
+        "Ultrasound Resolution",
+        "Instrumentation",
+        "Image Optimization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch10-q005",
+      "stem": "A transducer produces a 3-cycle pulse with a wavelength of 0.4 mm. What is the axial resolution?",
+      "image": null,
+      "options": [
+        "0.6 mm",
+        "1.2 mm",
+        "0.2 mm",
+        "2.4 mm"
+      ],
+      "answer": 0,
+      "explanation": "**Why A is correct:** SPL = 3 cycles × 0.4 mm = 1.2 mm. Axial resolution = SPL ÷ 2 = 0.6 mm.\n\n**Why the others are wrong:** B is the SPL itself (forgot to divide by 2). C is wavelength ÷ 2 (ignored the number of cycles). D doubled SPL instead of halving it.",
+      "explanationImage": null,
+      "tags": [
+        "Ultrasound Resolution",
+        "Instrumentation",
+        "Image Optimization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch10-q006",
+      "stem": "Which combination gives the BEST axial resolution?",
+      "image": null,
+      "options": [
+        "Low frequency, many cycles per pulse",
+        "Low frequency, few cycles per pulse",
+        "High frequency, few cycles per pulse",
+        "High frequency, many cycles per pulse"
+      ],
+      "answer": 2,
+      "explanation": "**Why C is correct:** Higher frequency shortens the wavelength, and fewer cycles (heavier damping) shorten the pulse. Both reduce SPL and improve axial resolution.\n\n**Why the others are wrong:** A has the longest possible SPL (worst). B and D each change only one factor in the wrong direction, so the pulse stays longer than in C.",
+      "explanationImage": null,
+      "tags": [
+        "Ultrasound Resolution",
+        "Instrumentation",
+        "Image Optimization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch10-q007",
+      "stem": "How does axial resolution change as imaging depth increases?",
+      "image": null,
+      "options": [
+        "It improves because the beam is focused deeper",
+        "It stays the same because SPL does not depend on depth",
+        "It worsens because the beam diverges",
+        "It improves because attenuation removes low-frequency components"
+      ],
+      "answer": 1,
+      "explanation": "**Why B is correct:** Axial resolution depends on SPL, which is set by the source (frequency, number of cycles) and the medium. Depth does not change it.\n\n**Why the others are wrong:** A and C confuse axial resolution with lateral resolution, which depends on beam width and varies with depth. D is incorrect; attenuation does not improve axial resolution (frequency-dependent attenuation actually lowers the mean frequency slightly with depth, never improving detail).",
+      "explanationImage": null,
+      "tags": [
+        "Ultrasound Resolution",
+        "Instrumentation",
+        "Image Optimization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch10-q008",
+      "stem": "Two reflectors lie along the beam path 1.0 mm apart. The pulse has an SPL of 1.6 mm. What is the expected result?",
+      "image": null,
+      "options": [
+        "They are resolved as two separate structures",
+        "They merge into a single structure",
+        "They appear as a single structure unless frequency is lowered",
+        "They can only be resolved if the beam is focused"
+      ],
+      "answer": 0,
+      "explanation": "**Why A is correct:** Axial resolution = 1.6 ÷ 2 = 0.8 mm. The reflectors are separated by 1.0 mm, which is greater than 0.8 mm, so they are displayed separately.\n\n**Why the others are wrong:** B is wrong because the separation exceeds the axial resolution. C is backwards; lowering frequency lengthens the pulse and worsens axial resolution. D confuses focusing (lateral/elevational) with axial detail.",
+      "explanationImage": null,
+      "tags": [
+        "Ultrasound Resolution",
+        "Instrumentation",
+        "Image Optimization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch10-q009",
+      "stem": "Lateral resolution is approximately equal to:",
+      "image": null,
+      "options": [
+        "Half the spatial pulse length",
+        "The frame rate",
+        "The pulse repetition period",
+        "The beam width"
+      ],
+      "answer": 3,
+      "explanation": "**Why D is correct:** Lateral resolution (side by side, perpendicular to the beam) is approximately the beam width at the depth of the reflectors. A narrower beam gives better lateral resolution.\n\n**Why the others are wrong:** A is axial resolution. B is temporal resolution. C is a timing parameter that determines maximum unambiguous depth, not detail.",
+      "explanationImage": null,
+      "tags": [
+        "Ultrasound Resolution",
+        "Instrumentation",
+        "Image Optimization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch10-q010",
+      "stem": "At what location is lateral resolution best?",
+      "image": null,
+      "options": [
+        "At the transducer face",
+        "In the near-zone length at all depths",
+        "At the focal zone",
+        "In the far field"
+      ],
+      "answer": 2,
+      "explanation": "**Why C is correct:** The beam is narrowest at the focus, so lateral resolution is best there. This is why the focus should be placed at the region of interest.\n\n**Why the others are wrong:** A is wrong because the beam width at the face equals the aperture, which is wider than at the focus. B is wrong because the beam narrows only toward the focus. D is wrong because the beam diverges in the far field, which worsens lateral resolution.",
+      "explanationImage": null,
+      "tags": [
+        "Ultrasound Resolution",
+        "Instrumentation",
+        "Image Optimization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch10-q011",
+      "stem": "Which change will IMPROVE lateral resolution?",
+      "image": null,
+      "options": [
+        "Using a larger active aperture with focusing",
+        "Using a lower-frequency transducer",
+        "Placing the focus away from the region of interest",
+        "Decreasing the number of cycles in the pulse"
+      ],
+      "answer": 0,
+      "explanation": "**Why A is correct:** A larger active aperture, focusing, and higher frequency all narrow the beam and reduce divergence.\n\n**Why the others are wrong:** B widens and diverges the beam. C places the narrowest part of the beam at the wrong depth. D shortens the pulse, which improves axial (not lateral) resolution.",
+      "explanationImage": null,
+      "tags": [
+        "Ultrasound Resolution",
+        "Instrumentation",
+        "Image Optimization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch10-q012",
+      "stem": "What is the effect of using multiple transmit focal zones?",
+      "image": null,
+      "options": [
+        "Improves lateral resolution over a wider depth range and increases frame rate",
+        "Improves lateral resolution over a wider depth range but decreases frame rate",
+        "Improves axial resolution and decreases frame rate",
+        "Has no effect on either resolution or frame rate"
+      ],
+      "answer": 1,
+      "explanation": "**Why B is correct:** Each additional focal zone requires another pulse per scan line, so the beam stays narrow across more depths (better lateral resolution) but frame rate falls (worse temporal resolution).\n\n**Why the others are wrong:** A is wrong because additional pulses lower, not raise, frame rate. C is wrong because focusing does not change SPL. D is wrong because both frame rate and lateral detail are affected.",
+      "explanationImage": null,
+      "tags": [
+        "Ultrasound Resolution",
+        "Instrumentation",
+        "Image Optimization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch10-q013",
+      "stem": "Elevational resolution is also known as:",
+      "image": null,
+      "options": [
+        "Contrast resolution",
+        "Range resolution",
+        "Azimuthal resolution",
+        "Slice thickness (section thickness) resolution"
+      ],
+      "answer": 3,
+      "explanation": "**Why D is correct:** Elevational resolution is the ability to separate structures in the direction perpendicular to the imaging plane (the slice thickness). The thinner the slice, the better the image quality.\n\n**Why the others are wrong:** A is a separate concept about echo intensity. B is an axial name. C is a lateral name (within the scan plane).",
+      "explanationImage": null,
+      "tags": [
+        "Ultrasound Resolution",
+        "Instrumentation",
+        "Image Optimization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch10-q014",
+      "stem": "Which technology improves elevational resolution by allowing electronic focusing in the slice-thickness direction?",
+      "image": null,
+      "options": [
+        "1.5D and matrix arrays",
+        "Increasing pulse repetition frequency",
+        "Increasing the number of cycles per pulse",
+        "Using a longer spatial pulse length"
+      ],
+      "answer": 0,
+      "explanation": "**Why A is correct:** A fixed lens focuses elevation on 1D arrays, multiple-row (1.5D) arrays provide electronic elevational focusing, and matrix arrays focus in two dimensions.\n\n**Why the others are wrong:** B changes the timing/maximum depth, not slice thickness. C and D lengthen the pulse, which degrades axial resolution and does nothing for elevation.",
+      "explanationImage": null,
+      "tags": [
+        "Ultrasound Resolution",
+        "Instrumentation",
+        "Image Optimization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch10-q015",
+      "stem": "Which artifact is directly related to poor elevational resolution?",
+      "image": null,
+      "options": [
+        "Reverberation",
+        "Section thickness (slice thickness) artifact",
+        "Mirror image",
+        "Refraction"
+      ],
+      "answer": 1,
+      "explanation": "**Why B is correct:** A thick slice includes echoes from structures above and below the scan plane, filling in anechoic structures such as cysts or vessels.\n\n**Why the others are wrong:** Reverberation arises from multiple reflections between strong reflectors. Mirror image arises from a strong reflector acting like a mirror. Refraction arises from bending of the beam at an oblique boundary between media with different propagation speeds.",
+      "explanationImage": null,
+      "tags": [
+        "Ultrasound Resolution",
+        "Instrumentation",
+        "Image Optimization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch10-q016",
+      "stem": "Why does lateral resolution deteriorate in the far field of a sector image?",
+      "image": null,
+      "options": [
+        "Pulse length increases with depth",
+        "Frame rate decreases with depth",
+        "The beam diverges and becomes wider",
+        "Gain is lower at depth"
+      ],
+      "answer": 2,
+      "explanation": "**Why C is correct:** Beyond the focus the beam diverges, so a reflector is struck by a wide beam and neighbours merge. In a sector, line density also decreases with depth.\n\n**Why the others are wrong:** A is wrong because SPL is constant with depth. B affects temporal resolution, not lateral. D affects brightness, not separation.",
+      "explanationImage": null,
+      "tags": [
+        "Ultrasound Resolution",
+        "Instrumentation",
+        "Image Optimization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch10-q017",
+      "stem": "Temporal resolution is primarily determined by:",
+      "image": null,
+      "options": [
+        "Frame rate",
+        "Spatial pulse length",
+        "Beam width",
+        "Bit depth"
+      ],
+      "answer": 0,
+      "explanation": "**Why A is correct:** Temporal resolution is the ability to display motion accurately over time. A higher frame rate gives better temporal resolution.\n\n**Why the others are wrong:** B determines axial resolution. C determines lateral resolution. D determines the number of gray shades (contrast resolution of the digital image).",
+      "explanationImage": null,
+      "tags": [
+        "Ultrasound Resolution",
+        "Instrumentation",
+        "Image Optimization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch10-q018",
+      "stem": "Which adjustment would NOT improve frame rate?",
+      "image": null,
+      "options": [
+        "Decreasing imaging depth",
+        "Increasing the number of transmit focal zones",
+        "Narrowing the sector width",
+        "Decreasing scan line density"
+      ],
+      "answer": 1,
+      "explanation": "**Why B is correct:** Each extra focal zone needs an additional pulse along each scan line, so frame rate decreases.\n\n**Why the others are wrong:** A shortens pulse repetition period. C reduces lines per frame. D also reduces lines per frame. All three increase frame rate.",
+      "explanationImage": null,
+      "tags": [
+        "Ultrasound Resolution",
+        "Instrumentation",
+        "Image Optimization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch10-q019",
+      "stem": "Imaging depth is increased from 8 cm to 16 cm with no other changes. What happens to frame rate?",
+      "image": null,
+      "options": [
+        "It doubles",
+        "It is unchanged",
+        "It is approximately halved",
+        "It increases by a factor of four"
+      ],
+      "answer": 2,
+      "explanation": "**Why C is correct:** Doubling depth doubles the time for each pulse’s echoes to return (pulse repetition period), so each frame takes twice as long and frame rate is about half.\n\n**Why the others are wrong:** A is the opposite. B ignores the dependence on depth. D has no basis; the relationship is linear, not squared.",
+      "explanationImage": null,
+      "tags": [
+        "Ultrasound Resolution",
+        "Instrumentation",
+        "Image Optimization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch10-q020",
+      "stem": "A sonographer reduces the number of focal zones to improve temporal resolution. What is the trade-off?",
+      "image": null,
+      "options": [
+        "Lateral resolution may decrease away from the remaining focus",
+        "Axial resolution decreases",
+        "Elevational resolution improves",
+        "Frame rate decreases further"
+      ],
+      "answer": 0,
+      "explanation": "**Why A is correct:** Fewer focal zones raise frame rate, but the beam is narrow only near the remaining focus, so lateral detail suffers at other depths.\n\n**Why the others are wrong:** B is wrong because axial resolution depends on SPL. C is not a consequence of changing transmit focal zones. D is the opposite of the actual effect.",
+      "explanationImage": null,
+      "tags": [
+        "Ultrasound Resolution",
+        "Instrumentation",
+        "Image Optimization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch10-q021",
+      "stem": "Contrast resolution is best described as the ability to:",
+      "image": null,
+      "options": [
+        "Display motion accurately over time",
+        "Separate two reflectors along the beam path",
+        "Separate two reflectors side by side",
+        "Distinguish small differences in echo intensity"
+      ],
+      "answer": 3,
+      "explanation": "**Why D is correct:** Contrast resolution separates tissues of similar echogenicity (for example, subtle liver lesions) by displaying small amplitude differences as different gray shades.\n\n**Why the others are wrong:** A is temporal resolution. B is axial resolution. C is lateral resolution.",
+      "explanationImage": null,
+      "tags": [
+        "Ultrasound Resolution",
+        "Instrumentation",
+        "Image Optimization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch10-q022",
+      "stem": "Which of the following improves contrast resolution?",
+      "image": null,
+      "options": [
+        "Increasing the pulse repetition frequency",
+        "An appropriate dynamic range, harmonic imaging, spatial compounding and reduced noise",
+        "A longer spatial pulse length",
+        "Increasing the sector width"
+      ],
+      "answer": 1,
+      "explanation": "**Why B is correct:** Appropriate gain/TGC, dynamic range and gray map, noise and clutter reduction, harmonics and compounding all make subtle echo-intensity differences easier to see.\n\n**Why the others are wrong:** A changes the maximum unambiguous depth and timing, not gray-scale differentiation. C worsens axial resolution. D lowers frame rate and does not improve contrast.",
+      "explanationImage": null,
+      "tags": [
+        "Ultrasound Resolution",
+        "Instrumentation",
+        "Image Optimization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch10-q023",
+      "stem": "Which pair of resolution types is NOT expressed as a spatial separation distance?",
+      "image": null,
+      "options": [
+        "Axial and lateral",
+        "Lateral and elevational",
+        "Temporal and contrast",
+        "Axial and elevational"
+      ],
+      "answer": 2,
+      "explanation": "**Why C is correct:** Temporal resolution is expressed as frame rate (motion over time) and contrast resolution as the ability to display echo-intensity differences. Neither is a distance in mm.\n\n**Why the others are wrong:** Axial, lateral and elevational resolution are all measured as minimum separation distances, so every pair that contains them is a spatial pair.",
+      "explanationImage": null,
+      "tags": [
+        "Ultrasound Resolution",
+        "Instrumentation",
+        "Image Optimization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch10-q024",
+      "stem": "Which type of resolution is determined by spatial pulse length?",
+      "image": null,
+      "options": [
+        "Axial",
+        "Lateral",
+        "Elevational",
+        "Temporal"
+      ],
+      "answer": 0,
+      "explanation": "**Why A is correct:** Axial resolution = SPL ÷ 2.\n\n**Why the others are wrong:** Lateral resolution depends on beam width, elevational on slice thickness, and temporal on frame rate.",
+      "explanationImage": null,
+      "tags": [
+        "Ultrasound Resolution",
+        "Instrumentation",
+        "Image Optimization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch10-q025",
+      "stem": "A sonographer wants to improve visualization of a rapidly fluttering mitral valve leaflet. Which adjustment is MOST appropriate?",
+      "image": null,
+      "options": [
+        "Add more transmit focal zones",
+        "Increase imaging depth",
+        "Increase scan line density",
+        "Decrease depth and narrow the sector width"
+      ],
+      "answer": 3,
+      "explanation": "**Why D is correct:** Both a smaller depth and a narrower sector raise frame rate, which improves temporal resolution for fast-moving structures.\n\n**Why the others are wrong:** A requires extra pulses per line and lowers frame rate. B lengthens the pulse repetition period and lowers frame rate. C increases the number of lines per frame and lowers frame rate.",
+      "explanationImage": null,
+      "tags": [
+        "Ultrasound Resolution",
+        "Instrumentation",
+        "Image Optimization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch10-q026",
+      "stem": "Which sequence correctly describes the ultrasound signal path?",
+      "image": null,
+      "options": [
+        "Transducer → pulser → receiver → beam former → scan converter",
+        "Pulser → beam former → transducer → receiver → scan converter → display",
+        "Receiver → pulser → transducer → scan converter → beam former",
+        "Scan converter → beam former → pulser → transducer → receiver"
+      ],
+      "answer": 1,
+      "explanation": "**Why B is correct:** The pulser creates electrical pulses, the beam former times and focuses them, the transducer transmits and receives sound, the receiver amplifies and processes the echoes, and the scan converter builds the image for display and storage.\n\n**Why the others are wrong:** A, C and D place the scan converter before the receiver, or have echoes processed before they are received. The image cannot be formed before echoes are detected.",
+      "explanationImage": null,
+      "tags": [
+        "Ultrasound Resolution",
+        "Instrumentation",
+        "Image Optimization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch10-q027",
+      "stem": "Which is a function of the beam former?",
+      "image": null,
+      "options": [
+        "Amplifying weak echoes using TGC",
+        "Storing image frames in memory",
+        "Applying electronic delays for transmit focusing, steering and receive focusing",
+        "Detecting and rectifying echo voltages"
+      ],
+      "answer": 2,
+      "explanation": "**Why C is correct:** The beam former controls the timing of element excitation (delays), producing focusing and steering, and it controls active aperture and scan-line formation.\n\n**Why the others are wrong:** A is a receiver function. B is a scan converter/memory function. D is demodulation, which is performed by the receiver.",
+      "explanationImage": null,
+      "tags": [
+        "Ultrasound Resolution",
+        "Instrumentation",
+        "Image Optimization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch10-q028",
+      "stem": "Apodization, controlled by the beam former, is used mainly to:",
+      "image": null,
+      "options": [
+        "Reduce grating lobes",
+        "Increase the frame rate",
+        "Convert analog to digital signals",
+        "Increase output power"
+      ],
+      "answer": 0,
+      "explanation": "**Why A is correct:** Apodization varies the voltage applied across the elements of an array, reducing the strength of grating lobes (and side lobes) that cause artifacts.\n\n**Why the others are wrong:** B is not what apodization does. C is the A/D converter. D is controlled by the pulser output setting.",
+      "explanationImage": null,
+      "tags": [
+        "Ultrasound Resolution",
+        "Instrumentation",
+        "Image Optimization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch10-q029",
+      "stem": "Which statement correctly describes the pulser?",
+      "image": null,
+      "options": [
+        "It converts echoes into digital data",
+        "It amplifies returning echoes",
+        "It sets the transducer’s operating frequency",
+        "It controls pulse amplitude and PRF/PRP and so determines transmitted acoustic output"
+      ],
+      "answer": 3,
+      "explanation": "**Why D is correct:** The pulser generates the electrical pulses; their amplitude (and the pulse repetition rate) determines the acoustic output.\n\n**Why the others are wrong:** A is the A/D converter. B is the receiver. C is set by the transducer’s crystal thickness and damping, not by pulse voltage.",
+      "explanationImage": null,
+      "tags": [
+        "Ultrasound Resolution",
+        "Instrumentation",
+        "Image Optimization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch10-q030",
+      "stem": "Which statement about the pulser is FALSE?",
+      "image": null,
+      "options": [
+        "It determines the transmitted acoustic output",
+        "It amplifies the returning echoes",
+        "Higher output produces stronger returning echoes",
+        "The lowest output necessary for diagnosis should be used"
+      ],
+      "answer": 1,
+      "explanation": "**Why B is correct:** The pulser acts only on transmit. Amplification of received echoes is performed by the receiver.\n\n**Why the others are wrong:** A, C and D are all true statements about the pulser.",
+      "explanationImage": null,
+      "tags": [
+        "Ultrasound Resolution",
+        "Instrumentation",
+        "Image Optimization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch10-q031",
+      "stem": "A sonographer increases the output power. What happens to the transducer’s operating frequency?",
+      "image": null,
+      "options": [
+        "It increases",
+        "It decreases",
+        "It does not change",
+        "It doubles"
+      ],
+      "answer": 2,
+      "explanation": "**Why C is correct:** Frequency is determined by the transducer (and the electrical pulse type), not by the pulse voltage. Output power and frequency are unrelated.\n\n**Why the others are wrong:** A, B and D wrongly link amplitude to frequency.",
+      "explanationImage": null,
+      "tags": [
+        "Ultrasound Resolution",
+        "Instrumentation",
+        "Image Optimization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch10-q032",
+      "stem": "The ALARA principle states that the sonographer should:",
+      "image": null,
+      "options": [
+        "Use the lowest output power and shortest scanning time that give a diagnostic image",
+        "Always use maximum output and reduce receiver gain",
+        "Use the highest mechanical index at all times",
+        "Scan only for a fixed length of time regardless of the study"
+      ],
+      "answer": 0,
+      "explanation": "**Why A is correct:** ALARA (As Low As Reasonably Achievable) minimizes patient exposure and bioeffect risk.\n\n**Why the others are wrong:** B and C increase exposure without justification. D ignores the clinical need; scan time is limited to what the diagnosis requires, not fixed.",
+      "explanationImage": null,
+      "tags": [
+        "Ultrasound Resolution",
+        "Instrumentation",
+        "Image Optimization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch10-q033",
+      "stem": "Which pair of indices does the system display to help monitor output power?",
+      "image": null,
+      "options": [
+        "Frame rate and PRF",
+        "SNR and dynamic range",
+        "Gain and TGC",
+        "Mechanical Index and Thermal Index"
+      ],
+      "answer": 3,
+      "explanation": "**Why D is correct:** MI estimates the risk of mechanical bioeffects (cavitation) and TI estimates the risk of tissue heating.\n\n**Why the others are wrong:** A, B and C are imaging parameters, not safety indices.",
+      "explanationImage": null,
+      "tags": [
+        "Ultrasound Resolution",
+        "Instrumentation",
+        "Image Optimization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch10-q034",
+      "stem": "Which is a consequence of increasing output power?",
+      "image": null,
+      "options": [
+        "A lower signal-to-noise ratio",
+        "Higher echo amplitude, brighter image and better SNR, but increased patient exposure",
+        "Improved axial resolution",
+        "A change in the transducer frequency"
+      ],
+      "answer": 1,
+      "explanation": "**Why B is correct:** Stronger transmitted pulses produce stronger echoes, improving brightness, penetration and SNR, at the cost of a greater bioeffect risk.\n\n**Why the others are wrong:** A is the opposite. C is wrong because resolution depends on pulse length, not amplitude. D is wrong because frequency is independent of output power. Note: output power does not change the tissue’s attenuation coefficient; it only increases the starting amplitude of the beam.",
+      "explanationImage": null,
+      "tags": [
+        "Ultrasound Resolution",
+        "Instrumentation",
+        "Image Optimization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch10-q035",
+      "stem": "A sonographer needs a brighter image without increasing patient exposure. Which control should be adjusted?",
+      "image": null,
+      "options": [
+        "Overall receiver gain",
+        "Output power",
+        "Pulse repetition frequency (increase)",
+        "Transmit power (acoustic power)"
+      ],
+      "answer": 0,
+      "explanation": "**Why A is correct:** Receiver gain amplifies echoes after they are received and does not change the energy transmitted into the patient. It should be adjusted first, before output power.\n\n**Why the others are wrong:** B and D are the same control (the pulser) and raise exposure. C increases the number of pulses per second and therefore the time-averaged exposure.",
+      "explanationImage": null,
+      "tags": [
+        "Ultrasound Resolution",
+        "Instrumentation",
+        "Image Optimization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch10-q036",
+      "stem": "Signal-to-noise ratio (SNR) is calculated as:",
+      "image": null,
+      "options": [
+        "Noise amplitude ÷ signal amplitude",
+        "Signal amplitude × noise amplitude",
+        "Frame rate ÷ depth",
+        "Signal amplitude ÷ noise amplitude"
+      ],
+      "answer": 3,
+      "explanation": "**Why D is correct:** SNR compares the strength of meaningful echoes to background noise. A high SNR means a clearer image.\n\n**Why the others are wrong:** A inverts the ratio. B and C are not definitions of SNR.",
+      "explanationImage": null,
+      "tags": [
+        "Ultrasound Resolution",
+        "Instrumentation",
+        "Image Optimization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch10-q037",
+      "stem": "Which action most directly improves SNR?",
+      "image": null,
+      "options": [
+        "Increasing overall receiver gain",
+        "Increasing output power",
+        "Widening the sector",
+        "Decreasing the output power and increasing the gain"
+      ],
+      "answer": 1,
+      "explanation": "**Why B is correct:** A stronger transmitted pulse returns stronger signal while the electronic noise stays the same.\n\n**Why the others are wrong:** A amplifies signal and noise equally, so SNR is essentially unchanged. C affects frame rate. D reduces the signal and then amplifies noise with it, lowering SNR.",
+      "explanationImage": null,
+      "tags": [
+        "Ultrasound Resolution",
+        "Instrumentation",
+        "Image Optimization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch10-q038",
+      "stem": "Which component is the timing and control centre of the ultrasound system?",
+      "image": null,
+      "options": [
+        "Pulser",
+        "Scan converter",
+        "Master synchronizer",
+        "Receiver"
+      ],
+      "answer": 2,
+      "explanation": "**Why C is correct:** The master synchronizer triggers the pulser, times how long to listen for echoes, and ensures that the next pulse is not sent before echoes from the previous pulse have returned.\n\n**Why the others are wrong:** The pulser generates pulses on command. The scan converter builds and stores the image. The receiver processes echoes.",
+      "explanationImage": null,
+      "tags": [
+        "Ultrasound Resolution",
+        "Instrumentation",
+        "Image Optimization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch10-q039",
+      "stem": "How does the system determine the depth of a reflector?",
+      "image": null,
+      "options": [
+        "From the amplitude of the returning echo",
+        "From the operating frequency of the transducer",
+        "From the pulse duration",
+        "From the time between pulse transmission and echo reception"
+      ],
+      "answer": 3,
+      "explanation": "**Why D is correct:** With an assumed speed of 1540 m/s, each 13 µs of round-trip time corresponds to 1 cm of depth (the 13-microsecond rule).\n\n**Why the others are wrong:** A is related to reflectivity, not distance. B and C do not encode distance.",
+      "explanationImage": null,
+      "tags": [
+        "Ultrasound Resolution",
+        "Instrumentation",
+        "Image Optimization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch10-q040",
+      "stem": "The transmit/receive (T/R) switch:",
+      "image": null,
+      "options": [
+        "Amplifies weak received signals",
+        "Sends high-voltage pulses to the transducer, and directs the returning echo voltages to the receiver while protecting it",
+        "Converts analog to digital data",
+        "Controls time gain compensation"
+      ],
+      "answer": 1,
+      "explanation": "**Why B is correct:** The T/R switch keeps electrical signals travelling in the right direction. In transmit, strong voltages go to the transducer; if they reached the receiver electronics, they could damage them. In receive, it routes the weak echo voltages through the beam former to the receiver.\n\n**Why the others are wrong:** A is the receiver’s pre-amplifier. C is the A/D converter. D is a receiver function controlled by the sonographer.",
+      "explanationImage": null,
+      "tags": [
+        "Ultrasound Resolution",
+        "Instrumentation",
+        "Image Optimization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch10-q041",
+      "stem": "Which of the following is NOT a function of the receiver?",
+      "image": null,
+      "options": [
+        "Compensation",
+        "Compression",
+        "Generating the electrical pulses sent to the transducer",
+        "Rejection"
+      ],
+      "answer": 2,
+      "explanation": "**Why C is correct:** Generating electrical pulses is the job of the pulser. The receiver processes the returning echoes.\n\n**Why the others are wrong:** The receiver’s five functions are amplification, compensation (TGC), compression, demodulation and rejection.",
+      "explanationImage": null,
+      "tags": [
+        "Ultrasound Resolution",
+        "Instrumentation",
+        "Image Optimization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch10-q042",
+      "stem": "Which lists the receiver functions in their usual order?",
+      "image": null,
+      "options": [
+        "Amplification, compensation, compression, demodulation, rejection",
+        "Rejection, demodulation, compression, compensation, amplification",
+        "Compression, amplification, rejection, compensation, demodulation",
+        "Demodulation, rejection, amplification, compression, compensation"
+      ],
+      "answer": 0,
+      "explanation": "**Why A is correct:** Weak voltages are amplified first, attenuation is compensated by TGC, the range is compressed, the signal is demodulated (rectified and smoothed), and finally low-level noise is rejected.\n\n**Why the others are wrong:** B, C and D put processing steps in an order that would, for example, reject or demodulate signals before they have been amplified and compensated.",
+      "explanationImage": null,
+      "tags": [
+        "Ultrasound Resolution",
+        "Instrumentation",
+        "Image Optimization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch10-q043",
+      "stem": "Which statement describes overall gain?",
+      "image": null,
+      "options": [
+        "It increases amplification progressively with depth",
+        "It removes very low-level signals",
+        "It reduces the range of echo amplitudes",
+        "It amplifies all echoes from all depths by the same factor"
+      ],
+      "answer": 3,
+      "explanation": "**Why D is correct:** Overall gain applies uniform amplification to the entire RF signal before detection and image formation.\n\n**Why the others are wrong:** A describes TGC. B describes reject. C describes compression.",
+      "explanationImage": null,
+      "tags": [
+        "Ultrasound Resolution",
+        "Instrumentation",
+        "Image Optimization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch10-q044",
+      "stem": "What does increasing overall gain do to the RF signal?",
+      "image": null,
+      "options": [
+        "It stretches the waveform horizontally",
+        "It increases the vertical amplitude of the waveform",
+        "It changes the waveform frequency",
+        "It lengthens the pulse"
+      ],
+      "answer": 1,
+      "explanation": "**Why B is correct:** Gain multiplies the voltage amplitude (waveform height). Weak signals become detectable and strong signals become stronger.\n\n**Why the others are wrong:** A, C and D describe changes in time, frequency or pulse length; gain affects only amplitude.",
+      "explanationImage": null,
+      "tags": [
+        "Ultrasound Resolution",
+        "Instrumentation",
+        "Image Optimization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch10-q045",
+      "stem": "What is the purpose of time gain compensation (TGC)?",
+      "image": null,
+      "options": [
+        "To reduce electronic noise",
+        "To decrease the dynamic range",
+        "To compensate for attenuation by increasing amplification with depth",
+        "To increase the frame rate"
+      ],
+      "answer": 2,
+      "explanation": "**Why C is correct:** Sound weakens as it travels deeper, so identical reflectors at different depths return different amplitudes. TGC applies progressively more gain to late (deep) echoes so they display with equal brightness. Without TGC, deep structures would look too dark.\n\n**Why the others are wrong:** A is not what TGC does. B describes compression. D is unrelated to gain.",
+      "explanationImage": null,
+      "tags": [
+        "Ultrasound Resolution",
+        "Instrumentation",
+        "Image Optimization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch10-q046",
+      "stem": "What is a consequence of excessive overall gain?",
+      "image": null,
+      "options": [
+        "Tissue boundaries are obscured and weak differences in echo strength are lost",
+        "Penetration improves with no drawbacks",
+        "Patient exposure increases",
+        "Frame rate decreases"
+      ],
+      "answer": 0,
+      "explanation": "**Why A is correct:** Too much gain saturates echoes toward white, reduces contrast and obscures borders and small lesions.\n\n**Why the others are wrong:** B is wrong because of the loss of detail. C is wrong because gain is applied after the echoes are received and does not change patient exposure. D is wrong because gain does not change line density or depth.",
+      "explanationImage": null,
+      "tags": [
+        "Ultrasound Resolution",
+        "Instrumentation",
+        "Image Optimization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch10-q047",
+      "stem": "Which statement about reject (suppression) is correct?",
+      "image": null,
+      "options": [
+        "It removes the strongest echoes to prevent saturation",
+        "It adds noise to make the image smoother",
+        "It amplifies low-level echoes",
+        "It discards signals below a threshold, but excessive reject may remove real information"
+      ],
+      "answer": 3,
+      "explanation": "**Why D is correct:** Reject eliminates low-amplitude signals (noise) below a set threshold to clean up the image, but weak real echoes may be lost if it is set too high.\n\n**Why the others are wrong:** A is opposite; reject affects low-level, not high-level, signals. B and C do not describe reject.",
+      "explanationImage": null,
+      "tags": [
+        "Ultrasound Resolution",
+        "Instrumentation",
+        "Image Optimization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch10-q048",
+      "stem": "How are compression and dynamic range related?",
+      "image": null,
+      "options": [
+        "They are directly proportional",
+        "They are inversely related: as compression increases, dynamic range decreases",
+        "They are unrelated",
+        "Compression increases the dynamic range"
+      ],
+      "answer": 1,
+      "explanation": "**Why B is correct:** Compression brings strong and weak signals closer together, narrowing the range of amplitudes (dynamic range) so that it can be displayed.\n\n**Why the others are wrong:** A and D reverse the relationship. C is wrong because compression is the mechanism that sets the dynamic range.",
+      "explanationImage": null,
+      "tags": [
+        "Ultrasound Resolution",
+        "Instrumentation",
+        "Image Optimization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch10-q049",
+      "stem": "Which statement about dynamic range is correct?",
+      "image": null,
+      "options": [
+        "It is measured in hertz",
+        "It is measured in millimetres",
+        "It is the ratio of the largest to the smallest signals, measured in decibels; a wide range displays more gray shades and lower contrast",
+        "A narrow dynamic range displays more gray shades"
+      ],
+      "answer": 2,
+      "explanation": "**Why C is correct:** Dynamic range (dB) spans the strongest to weakest echoes. A wide range gives many gray shades (smooth, lower contrast); a narrow range gives a high-contrast, near black-and-white image.\n\n**Why the others are wrong:** A and B use the wrong units. D reverses the effect.",
+      "explanationImage": null,
+      "tags": [
+        "Ultrasound Resolution",
+        "Instrumentation",
+        "Image Optimization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch10-q050",
+      "stem": "Which two steps make up demodulation?",
+      "image": null,
+      "options": [
+        "Rectification and smoothing (envelope detection)",
+        "Amplification and compensation",
+        "Compression and rejection",
+        "Sampling and quantization"
+      ],
+      "answer": 0,
+      "explanation": "**Why A is correct:** Rectification turns negative voltages positive; smoothing wraps an envelope around the signal to remove the “bumps.”\n\n**Why the others are wrong:** B, C and D name other receiver or A/D conversion steps.",
+      "explanationImage": null,
+      "tags": [
+        "Ultrasound Resolution",
+        "Instrumentation",
+        "Image Optimization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch10-q051",
+      "stem": "Rectification of the received signal:",
+      "image": null,
+      "options": [
+        "Wraps an envelope around the signal",
+        "Increases the voltage of weak signals",
+        "Removes signals below a threshold",
+        "Converts negative voltages to positive voltages"
+      ],
+      "answer": 3,
+      "explanation": "**Why D is correct:** Rectification flips the negative half of the RF signal to the positive side of the baseline.\n\n**Why the others are wrong:** A is smoothing (the second step of demodulation). B is amplification. C is reject.",
+      "explanationImage": null,
+      "tags": [
+        "Ultrasound Resolution",
+        "Instrumentation",
+        "Image Optimization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch10-q052",
+      "stem": "Which statement correctly compares system compression with display dynamic range?",
+      "image": null,
+      "options": [
+        "Both occur after scan conversion",
+        "Display dynamic range is a preprocessing function",
+        "System compression occurs before scan conversion and changes the true dynamic range; display dynamic range occurs after scan conversion and remaps pixel brightness",
+        "Neither can be changed by the sonographer"
+      ],
+      "answer": 2,
+      "explanation": "**Why C is correct:** System compression acts on signal amplitude (preprocessing). Display dynamic range, or gray-scale mapping, acts on stored pixel brightness (postprocessing) and is what users usually adjust.\n\n**Why the others are wrong:** A and B misplace the stage of each. D is false; both are user-adjustable on most systems.",
+      "explanationImage": null,
+      "tags": [
+        "Ultrasound Resolution",
+        "Instrumentation",
+        "Image Optimization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch10-q053",
+      "stem": "What does the analog-to-digital (A/D) converter do?",
+      "image": null,
+      "options": [
+        "Samples the analog voltage and assigns each sample a digital number",
+        "Converts digital data back to analog for display",
+        "Rectifies the echo signal",
+        "Rejects low-level noise"
+      ],
+      "answer": 0,
+      "explanation": "**Why A is correct:** Sampling measures the signal at regular intervals and quantization assigns each sample a numeric value. Bit depth determines the number of available amplitude levels.\n\n**Why the others are wrong:** B is the D/A converter. C is demodulation. D is rejection.",
+      "explanationImage": null,
+      "tags": [
+        "Ultrasound Resolution",
+        "Instrumentation",
+        "Image Optimization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch10-q054",
+      "stem": "What is a limitation of A-mode?",
+      "image": null,
+      "options": [
+        "It displays echoes only as brightness",
+        "It produces too many data lines",
+        "It cannot show echo depth",
+        "It displays only one line of information and no 2D anatomical image"
+      ],
+      "answer": 3,
+      "explanation": "**Why D is correct:** A-mode (amplitude mode) shows echo amplitude versus depth along a single line, making spatial relationships difficult to interpret. This limitation led to the development of B-mode.\n\n**Why the others are wrong:** A describes B-mode. B is wrong because A-mode has a single line. C is wrong because depth is shown on the axis.",
+      "explanationImage": null,
+      "tags": [
+        "Ultrasound Resolution",
+        "Instrumentation",
+        "Image Optimization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch10-q055",
+      "stem": "In B-mode, echo amplitude is converted to:",
+      "image": null,
+      "options": [
+        "Color",
+        "Brightness",
+        "Velocity",
+        "Spike height"
+      ],
+      "answer": 1,
+      "explanation": "**Why B is correct:** B stands for brightness; stronger echoes produce brighter pixels and weaker echoes produce darker pixels.\n\n**Why the others are wrong:** A and C refer to color Doppler. D describes A-mode.",
+      "explanationImage": null,
+      "tags": [
+        "Ultrasound Resolution",
+        "Instrumentation",
+        "Image Optimization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch10-q056",
+      "stem": "How is a B-mode image formed from A-mode data?",
+      "image": null,
+      "options": [
+        "Each A-mode line becomes a column of pixels, and many lines side by side (about 250) make a frame",
+        "Each A-mode line becomes a single pixel",
+        "Each A-mode line becomes a complete frame",
+        "A-mode lines are averaged into one line"
+      ],
+      "answer": 0,
+      "explanation": "**Why A is correct:** The amplitude along each line is converted to a gray-scale brightness for each depth. Placing many lines next to each other forms the 2D image, repeated hundreds of times per frame.\n\n**Why the others are wrong:** B, C and D misstate how lines convert into the matrix.",
+      "explanationImage": null,
+      "tags": [
+        "Ultrasound Resolution",
+        "Instrumentation",
+        "Image Optimization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch10-q057",
+      "stem": "Which is NOT a function of the scan converter?",
+      "image": null,
+      "options": [
+        "Assigning brightness values",
+        "Compensating for attenuation with TGC",
+        "Storing image frames",
+        "Interpolating missing data"
+      ],
+      "answer": 1,
+      "explanation": "**Why B is correct:** TGC is a receiver function that is applied before scan conversion.\n\n**Why the others are wrong:** The scan converter formats A-mode lines into B-mode images, assigns brightness, organizes data into pixels, stores frames and interpolates missing pixels.",
+      "explanationImage": null,
+      "tags": [
+        "Ultrasound Resolution",
+        "Instrumentation",
+        "Image Optimization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch10-q058",
+      "stem": "A bistable image has:",
+      "image": null,
+      "options": [
+        "8 bits per pixel",
+        "256 gray shades",
+        "Color encoding",
+        "Only black and white pixels (1 bit)"
+      ],
+      "answer": 3,
+      "explanation": "**Why D is correct:** With one bit, each pixel is either 0 (black) or 1 (white). Early scan converters were bistable before gray-scale was introduced.\n\n**Why the others are wrong:** A and B describe modern systems. C is not a feature of bistable displays.",
+      "explanationImage": null,
+      "tags": [
+        "Ultrasound Resolution",
+        "Instrumentation",
+        "Image Optimization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch10-q059",
+      "stem": "How many shades of gray can a 4-bit memory store?",
+      "image": null,
+      "options": [
+        "8",
+        "12",
+        "16",
+        "32"
+      ],
+      "answer": 2,
+      "explanation": "**Why C is correct:** Shades = 2ⁿ, so 2⁴ = 16.\n\n**Why the others are wrong:** A is 2³. D is 2⁵. B is not a power of 2 and cannot be produced by binary memory.",
+      "explanationImage": null,
+      "tags": [
+        "Ultrasound Resolution",
+        "Instrumentation",
+        "Image Optimization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch10-q060",
+      "stem": "A byte is a group of:",
+      "image": null,
+      "options": [
+        "Eight bits",
+        "Four bits",
+        "Sixteen bits",
+        "Two bits"
+      ],
+      "answer": 0,
+      "explanation": "**Why A is correct:** A bit is the smallest unit (0 or 1); eight bits form one byte. An 8-bit pixel therefore stores 256 gray levels.\n\n**Why the others are wrong:** B, C and D are other group sizes (a nibble, a word on some systems, and a pair of bits).",
+      "explanationImage": null,
+      "tags": [
+        "Ultrasound Resolution",
+        "Instrumentation",
+        "Image Optimization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch10-q061",
+      "stem": "How many bits are needed to display 128 shades of gray?",
+      "image": null,
+      "options": [
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "answer": 1,
+      "explanation": "**Why B is correct:** 2⁷ = 128.\n\n**Why the others are wrong:** 6 bits gives 64 shades, 8 bits gives 256, and 9 bits gives 512.",
+      "explanationImage": null,
+      "tags": [
+        "Ultrasound Resolution",
+        "Instrumentation",
+        "Image Optimization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch10-q062",
+      "stem": "What is the decimal value of the binary number 1000?",
+      "image": null,
+      "options": [
+        "4",
+        "6",
+        "8",
+        "10"
+      ],
+      "answer": 2,
+      "explanation": "**Why C is correct:** Place values from right to left are 1, 2, 4 and 8. The only 1 is in the 8s position, so 1000 = 8.\n\n**Why the others are wrong:** A would be 0100. B would be 0110. D would be 1010.",
+      "explanationImage": null,
+      "tags": [
+        "Ultrasound Resolution",
+        "Instrumentation",
+        "Image Optimization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch10-q063",
+      "stem": "Which statement correctly distinguishes pixel from voxel?",
+      "image": null,
+      "options": [
+        "A pixel is a 2D picture element; a voxel is a 3D volume element",
+        "A pixel is a 3D volume element; a voxel is a 2D picture element",
+        "Both are units of 2D imaging",
+        "A pixel is a unit of memory; a voxel is a unit of frame rate"
+      ],
+      "answer": 0,
+      "explanation": "**Why A is correct:** Pixel means picture element, the smallest part of a 2D image. Voxel means volume element, the smallest part of a 3D volume.\n\n**Why the others are wrong:** B reverses the definitions. C ignores that voxels are volumetric. D mixes up unrelated concepts.",
+      "explanationImage": null,
+      "tags": [
+        "Ultrasound Resolution",
+        "Instrumentation",
+        "Image Optimization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch10-q064",
+      "stem": "How many pixels are in a 512 × 512 matrix?",
+      "image": null,
+      "options": [
+        "1,024",
+        "65,536",
+        "131,072",
+        "262,144"
+      ],
+      "answer": 3,
+      "explanation": "**Why D is correct:** 512 × 512 = 262,144 pixels.\n\n**Why the others are wrong:** A is 512 + 512. B is 256 × 256. C is half of the correct answer and has no basis.",
+      "explanationImage": null,
+      "tags": [
+        "Ultrasound Resolution",
+        "Instrumentation",
+        "Image Optimization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch10-q065",
+      "stem": "Which statement about matrix size and spatial resolution is correct?",
+      "image": null,
+      "options": [
+        "Larger pixels improve spatial resolution",
+        "More, smaller pixels give finer detail, so a 512 × 512 matrix is better than a 256 × 256 matrix",
+        "Matrix size has no effect on image detail",
+        "Bit depth determines spatial resolution"
+      ],
+      "answer": 1,
+      "explanation": "**Why B is correct:** A higher pixel density produces more detailed images. Pixel size also depends on field of view; for a given matrix, a larger field of view makes the pixels larger.\n\n**Why the others are wrong:** A is opposite; large pixels make the image look coarse. C is wrong because matrix size matters. D is wrong because bit depth determines the number of gray shades (contrast), not spatial detail.",
+      "explanationImage": null,
+      "tags": [
+        "Ultrasound Resolution",
+        "Instrumentation",
+        "Image Optimization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch10-q066",
+      "stem": "Which statement describes pixel (fill-in) interpolation?",
+      "image": null,
+      "options": [
+        "It adds new diagnostic information to the image",
+        "It improves axial resolution",
+        "It estimates missing pixels between scan lines from the surrounding gray shades to produce a smoother image",
+        "It increases frame rate"
+      ],
+      "answer": 2,
+      "explanation": "**Why C is correct:** In sector scans the lines diverge, leaving gaps, so the system estimates the missing pixels. Interpolation fills gaps but does not add new information.\n\n**Why the others are wrong:** A is the key misconception. B and D are not effects of interpolation.",
+      "explanationImage": null,
+      "tags": [
+        "Ultrasound Resolution",
+        "Instrumentation",
+        "Image Optimization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch10-q067",
+      "stem": "Which statement correctly describes RAM and ROM?",
+      "image": null,
+      "options": [
+        "RAM is temporary working memory (processing, cine-loop); ROM stores permanent system instructions",
+        "RAM stores permanent instructions; ROM is temporary memory",
+        "Both are permanent archives of saved studies",
+        "RAM permanently stores saved examinations"
+      ],
+      "answer": 0,
+      "explanation": "**Why A is correct:** RAM supports processing and cine-loop review and is lost when power is removed. ROM retains the system’s permanent instructions. Saved examinations live in digital storage, which is different from memory.\n\n**Why the others are wrong:** B reverses the definitions. C and D confuse system memory with archival storage.",
+      "explanationImage": null,
+      "tags": [
+        "Ultrasound Resolution",
+        "Instrumentation",
+        "Image Optimization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch10-q068",
+      "stem": "What is the cine-loop?",
+      "image": null,
+      "options": [
+        "A permanent archive of all exams",
+        "A tool that improves resolution after the exam",
+        "A recording of only color Doppler data",
+        "Internal storage of recent frames that can be reviewed frame by frame after the image is frozen; it cannot recover information never acquired"
+      ],
+      "answer": 3,
+      "explanation": "**Why D is correct:** The cine-loop temporarily stores the most recent frames, lets the sonographer select the best frame or save a short clip, and its length depends on system memory.\n\n**Why the others are wrong:** A describes PACS or other digital storage. B is wrong because review cannot add information. C is wrong because cine-loop stores any mode.",
+      "explanationImage": null,
+      "tags": [
+        "Ultrasound Resolution",
+        "Instrumentation",
+        "Image Optimization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch10-q069",
+      "stem": "What is the purpose of PACS?",
+      "image": null,
+      "options": [
+        "To control the pulse amplitude",
+        "Long-term archiving and communication of images",
+        "To amplify returning echoes",
+        "To convert digital data to analog"
+      ],
+      "answer": 1,
+      "explanation": "**Why B is correct:** PACS (Picture Archiving and Communication System) supports long-term image archiving and retrieval.\n\n**Why the others are wrong:** A is the pulser. C is the receiver. D is the D/A converter.",
+      "explanationImage": null,
+      "tags": [
+        "Ultrasound Resolution",
+        "Instrumentation",
+        "Image Optimization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch10-q070",
+      "stem": "Which pairing is correct?",
+      "image": null,
+      "options": [
+        "DICOM = drive array; RAID = file format",
+        "DICOM = analog tape; RAID = optical disc",
+        "DICOM = standard for image transfer and compatibility; RAID = multiple drives used for reliability",
+        "DICOM = scan conversion method; RAID = cine-loop"
+      ],
+      "answer": 2,
+      "explanation": "**Why C is correct:** DICOM (Digital Imaging and Communications in Medicine) enables image transfer and compatibility. RAID (Redundant Array of Independent Disks) uses multiple drives for reliability.\n\n**Why the others are wrong:** A reverses the two terms. B and D assign unrelated meanings.",
+      "explanationImage": null,
+      "tags": [
+        "Ultrasound Resolution",
+        "Instrumentation",
+        "Image Optimization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch10-q071",
+      "stem": "Which control is a PREPROCESSING function?",
+      "image": null,
+      "options": [
+        "Gray map selection",
+        "Edge enhancement",
+        "Read zoom",
+        "Time gain compensation"
+      ],
+      "answer": 3,
+      "explanation": "**Why D is correct:** Preprocessing is applied before image storage, affects raw echo data and usually cannot be reversed. Gain, TGC and output power are examples.\n\n**Why the others are wrong:** Gray maps, edge enhancement and read zoom change the stored image after it is formed, so they are postprocessing.",
+      "explanationImage": null,
+      "tags": [
+        "Ultrasound Resolution",
+        "Instrumentation",
+        "Image Optimization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch10-q072",
+      "stem": "Which is a POSTPROCESSING function?",
+      "image": null,
+      "options": [
+        "Gray map selection",
+        "Output power",
+        "Write zoom",
+        "Transmit focus"
+      ],
+      "answer": 0,
+      "explanation": "**Why A is correct:** Postprocessing is applied after image formation, changes the displayed image, and can often be adjusted after the image is frozen.\n\n**Why the others are wrong:** B and D are preprocessing and change the acquired data. C (write zoom) rescans the region before acquisition and is therefore a preprocessing function.",
+      "explanationImage": null,
+      "tags": [
+        "Ultrasound Resolution",
+        "Instrumentation",
+        "Image Optimization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch10-q073",
+      "stem": "Which statement about gray maps and chroma maps is correct?",
+      "image": null,
+      "options": [
+        "Chroma maps measure blood velocity",
+        "Gray maps change the underlying anatomy",
+        "Chroma maps replace gray shades with color to help differentiate echo levels, and should not be confused with color Doppler",
+        "Chroma maps are preprocessing functions that increase frame rate"
+      ],
+      "answer": 2,
+      "explanation": "**Why C is correct:** Gray maps assign echo amplitudes to shades; chroma maps assign colors to the same amplitudes. Both change the appearance only, and chroma does not encode motion.\n\n**Why the others are wrong:** A confuses chroma with Doppler. B is wrong because maps change appearance, not anatomy. D is wrong because maps do not change frame rate.",
+      "explanationImage": null,
+      "tags": [
+        "Ultrasound Resolution",
+        "Instrumentation",
+        "Image Optimization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch10-q074",
+      "stem": "What is the effect of high persistence?",
+      "image": null,
+      "options": [
+        "Increased frame rate",
+        "Reduced noise and flicker, but possible blurring of rapidly moving structures",
+        "Improved temporal resolution",
+        "Increased noise but better border definition"
+      ],
+      "answer": 1,
+      "explanation": "**Why B is correct:** Persistence controls how much frame averaging (combining of consecutive frames) is used. More averaging smooths random noise but smears fast motion.\n\n**Why the others are wrong:** A and C are wrong because high persistence reduces temporal resolution; low persistence preserves it. D is wrong because persistence reduces, not increases, noise.",
+      "explanationImage": null,
+      "tags": [
+        "Ultrasound Resolution",
+        "Instrumentation",
+        "Image Optimization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch10-q075",
+      "stem": "Real-time adaptive filtering:",
+      "image": null,
+      "options": [
+        "Analyzes local image content and adjusts processing to reduce noise and speckle while preserving strong tissue boundaries; excessive filtering may remove fine detail",
+        "Increases the transmitted output power",
+        "Enlarges stored pixels without improving resolution",
+        "Converts analog signals to digital data"
+      ],
+      "answer": 0,
+      "explanation": "**Why A is correct:** Adaptive filters (manufacturer examples include SRI, XRES and ClearVision) analyze the incoming image and smooth noise selectively, which improves contrast and lesion visibility.\n\n**Why the others are wrong:** B is the pulser. C describes read zoom. D is the A/D converter.",
+      "explanationImage": null,
+      "tags": [
+        "Ultrasound Resolution",
+        "Instrumentation",
+        "Image Optimization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch10-q076",
+      "stem": "Which statement about edge enhancement and smoothing is correct?",
+      "image": null,
+      "options": [
+        "Edge enhancement reduces speckle",
+        "Edge enhancement improves axial resolution",
+        "Edge enhancement emphasizes tissue boundaries but can create artificial borders; smoothing reduces speckle but may hide small structures",
+        "Excessive smoothing improves visibility of small structures"
+      ],
+      "answer": 2,
+      "explanation": "**Why C is correct:** Both are sonographer-adjustable processing controls that should be used conservatively.\n\n**Why the others are wrong:** A describes smoothing. B is wrong because processing cannot change physical resolution. D is opposite; excessive smoothing blurs small detail.",
+      "explanationImage": null,
+      "tags": [
+        "Ultrasound Resolution",
+        "Instrumentation",
+        "Image Optimization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch10-q077",
+      "stem": "Read zoom:",
+      "image": null,
+      "options": [
+        "Rescans a selected region before acquisition",
+        "Uses more scan lines in the region of interest",
+        "Is a preprocessing function",
+        "Enlarges the stored pixels without improving spatial resolution, and may look blocky"
+      ],
+      "answer": 3,
+      "explanation": "**Why D is correct:** Read zoom is a postprocessing function that simply magnifies the existing pixel data.\n\n**Why the others are wrong:** A, B and C describe write zoom.",
+      "explanationImage": null,
+      "tags": [
+        "Ultrasound Resolution",
+        "Instrumentation",
+        "Image Optimization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch10-q078",
+      "stem": "Which statement about write zoom is correct?",
+      "image": null,
+      "options": [
+        "It enlarges the stored image after freezing",
+        "It rescans a selected region before acquisition with more scan lines, improving spatial resolution",
+        "It can only be applied to frozen images",
+        "It decreases the scan line density"
+      ],
+      "answer": 1,
+      "explanation": "**Why B is correct:** The sonographer selects the region before acquisition, and the system spends all of its pulses on the smaller area, improving detail. Use write zoom when diagnostic detail matters.\n\n**Why the others are wrong:** A and C describe read zoom. D is the opposite of what happens.",
+      "explanationImage": null,
+      "tags": [
+        "Ultrasound Resolution",
+        "Instrumentation",
+        "Image Optimization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch10-q079",
+      "stem": "What is the main advantage of coded excitation?",
+      "image": null,
+      "options": [
+        "Increased SNR without sacrificing axial resolution",
+        "Increased frame rate without lowering line density",
+        "Higher output power with no bioeffects",
+        "Better lateral resolution at all depths"
+      ],
+      "answer": 0,
+      "explanation": "**Why A is correct:** Coded excitation transmits long coded pulses (more energy, higher SNR, useful at low MI) and compresses them on receive into short pulses, so axial resolution stays good.\n\n**Why the others are wrong:** B and D are not effects of coding. C is wrong because exposure is still governed by ALARA and MI/TI.",
+      "explanationImage": null,
+      "tags": [
+        "Ultrasound Resolution",
+        "Instrumentation",
+        "Image Optimization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch10-q080",
+      "stem": "How does coded excitation work?",
+      "image": null,
+      "options": [
+        "A short uncoded pulse is amplified on receive",
+        "A frequency is shifted by tissue to produce harmonics",
+        "A long coded pulse is sent and a matched filter on receive decodes it into a short pulse",
+        "Multiple angles are combined into one image"
+      ],
+      "answer": 2,
+      "explanation": "**Why C is correct:** The matched filter compresses the long coded echoes into short pulses. The system acts like it sent multiple short pulses rather than one long pulse.\n\n**Why the others are wrong:** A is not coded excitation. B describes tissue harmonic imaging. D describes spatial compounding.",
+      "explanationImage": null,
+      "tags": [
+        "Ultrasound Resolution",
+        "Instrumentation",
+        "Image Optimization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch10-q081",
+      "stem": "What is the principle of tissue harmonic imaging (THI)?",
+      "image": null,
+      "options": [
+        "The transducer transmits at twice the frequency it receives",
+        "Harmonic frequencies generated in tissue are received at multiples of the transmitted frequency",
+        "Only microbubble contrast agents can produce harmonics",
+        "The Doppler shift of moving tissue is displayed in gray scale"
+      ],
+      "answer": 1,
+      "explanation": "**Why B is correct:** As the pulse travels through tissue it becomes distorted and generates harmonics. The system receives the harmonic frequency (e.g., twice the transmitted frequency) and filters out the fundamental.\n\n**Why the others are wrong:** A reverses transmit and receive. C is wrong because tissue itself generates harmonics (microbubbles are used for contrast imaging). D describes a Doppler concept, not harmonics.",
+      "explanationImage": null,
+      "tags": [
+        "Ultrasound Resolution",
+        "Instrumentation",
+        "Image Optimization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch10-q082",
+      "stem": "Which statement about tissue harmonic imaging is correct?",
+      "image": null,
+      "options": [
+        "It improves penetration in large patients",
+        "It increases frame rate",
+        "It increases near-field clutter",
+        "It reduces near-field clutter and side-lobe artifacts and sharpens borders (e.g., endocardium), but may reduce penetration in larger patients"
+      ],
+      "answer": 3,
+      "explanation": "**Why D is correct:** Harmonics are produced mostly in the central, strongest part of the beam, avoiding much of the clutter and side-lobe energy. The sonographer can toggle THI, compare it with the fundamental image and turn it off if penetration is inadequate.\n\n**Why the others are wrong:** A is opposite. B is wrong because THI does not change line density or depth. C is the opposite effect.",
+      "explanationImage": null,
+      "tags": [
+        "Ultrasound Resolution",
+        "Instrumentation",
+        "Image Optimization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch10-q083",
+      "stem": "Which statement describes spatial compounding?",
+      "image": null,
+      "options": [
+        "It combines images from multiple angles to reduce speckle and some artifacts and improve border definition, but may lower the frame rate",
+        "It uses only a single steering angle",
+        "It increases speckle to improve contrast",
+        "It improves temporal resolution"
+      ],
+      "answer": 0,
+      "explanation": "**Why A is correct:** Multiple steered views are averaged, which smooths speckle and improves margins. It may also reduce posterior shadowing and enhancement. Each frame requires several acquisitions, so frame rate falls.\n\n**Why the others are wrong:** B is the opposite of compounding. C is wrong because speckle is reduced. D is wrong because temporal resolution is reduced.",
+      "explanationImage": null,
+      "tags": [
+        "Ultrasound Resolution",
+        "Instrumentation",
+        "Image Optimization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch10-q084",
+      "stem": "When should compound imaging be turned off?",
+      "image": null,
+      "options": [
+        "Whenever speckle is present",
+        "Whenever borders look smooth",
+        "If the frame rate becomes inadequate or if shadowing and enhancement are diagnostically useful",
+        "Only after the image has been frozen"
+      ],
+      "answer": 2,
+      "explanation": "**Why C is correct:** Compounding lowers frame rate and can suppress shadowing and enhancement, which help to characterize cysts and stones. The sonographer should compare both modes.\n\n**Why the others are wrong:** A is the reason to turn it on. B is not a reason to turn it off. D is wrong because compounding is applied during acquisition and can be toggled while scanning.",
+      "explanationImage": null,
+      "tags": [
+        "Ultrasound Resolution",
+        "Instrumentation",
+        "Image Optimization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch10-q085",
+      "stem": "Which description of B-Flow is correct?",
+      "image": null,
+      "options": [
+        "A color Doppler mode that measures velocity",
+        "A non-Doppler technique that displays blood flow with vessel anatomy in gray scale using digitally encoded signals",
+        "A spectral Doppler waveform display",
+        "A method that requires microbubble contrast"
+      ],
+      "answer": 1,
+      "explanation": "**Why B is correct:** B-Flow enhances echoes from moving blood and shows them with grayscale vascular anatomy in real time (applications include carotid imaging).\n\n**Why the others are wrong:** A and C are Doppler techniques; B-Flow is not. D is wrong because no contrast agent is needed.",
+      "explanationImage": null,
+      "tags": [
+        "Ultrasound Resolution",
+        "Instrumentation",
+        "Image Optimization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch10-q086",
+      "stem": "Which is a limitation of B-Flow?",
+      "image": null,
+      "options": [
+        "It measures velocity inaccurately",
+        "It requires an IV contrast agent",
+        "It is subject to aliasing",
+        "It does not measure velocity or produce spectral waveforms, and is available only on some systems"
+      ],
+      "answer": 3,
+      "explanation": "**Why D is correct:** B-Flow is a non-Doppler visualization tool and provides no quantitative velocity data.\n\n**Why the others are wrong:** A implies that it measures velocity at all. B is wrong because it works without contrast. C is wrong because aliasing is a Doppler phenomenon and B-Flow does not use Doppler.",
+      "explanationImage": null,
+      "tags": [
+        "Ultrasound Resolution",
+        "Instrumentation",
+        "Image Optimization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch10-q087",
+      "stem": "Extended field-of-view (panoramic) imaging:",
+      "image": null,
+      "options": [
+        "Combines sequential images acquired during transducer movement into one panoramic image; smooth, steady motion is required",
+        "Requires a stationary transducer",
+        "Is a form of 4D imaging",
+        "Improves temporal resolution"
+      ],
+      "answer": 0,
+      "explanation": "**Why A is correct:** It is useful when a structure exceeds the width of a single image. Poor alignment or irregular motion can distort anatomy.\n\n**Why the others are wrong:** B is opposite. C is wrong because it is a 2D technique. D is wrong because it does not change frame rate.",
+      "explanationImage": null,
+      "tags": [
+        "Ultrasound Resolution",
+        "Instrumentation",
+        "Image Optimization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch10-q088",
+      "stem": "How does 4D imaging differ from 3D imaging?",
+      "image": null,
+      "options": [
+        "4D is a static volume; 3D is real time",
+        "4D always adds color Doppler",
+        "3D displays a reconstructed volume; 4D displays 3D volumes in real time",
+        "They are identical"
+      ],
+      "answer": 2,
+      "explanation": "**Why C is correct:** The fourth dimension is time. Volume data can be rotated and reformatted in either mode.\n\n**Why the others are wrong:** A reverses the definitions. B is not a defining feature. D is wrong because of the real-time component.",
+      "explanationImage": null,
+      "tags": [
+        "Ultrasound Resolution",
+        "Instrumentation",
+        "Image Optimization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch10-q089",
+      "stem": "Which pairing of 3D display methods with their descriptions is correct?",
+      "image": null,
+      "options": [
+        "MPR = brightest voxels; MIP = three orthogonal planes",
+        "MPR = three orthogonal planes; MIP = brightest voxels in the volume",
+        "Surface rendering = sequential slices; tomographic = external contours",
+        "Biplane = a single plane; MPR = one plane only"
+      ],
+      "answer": 1,
+      "explanation": "**Why B is correct:** Multi-planar reconstruction shows three orthogonal planes. Maximum intensity projection emphasizes the brightest voxels. Surface rendering shows external contours, tomographic imaging shows parallel slices, and biplane shows two planes at once.\n\n**Why the others are wrong:** A swaps MPR and MIP. C swaps surface rendering and tomographic. D misstates biplane and MPR.",
+      "explanationImage": null,
+      "tags": [
+        "Ultrasound Resolution",
+        "Instrumentation",
+        "Image Optimization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch10-q090",
+      "stem": "Which statement describes strain elastography?",
+      "image": null,
+      "options": [
+        "It uses an acoustic push pulse to create shear waves",
+        "It reports stiffness in kPa or m/s",
+        "Stiffer tissue deforms more than softer tissue",
+        "It measures tissue deformation after compression, with softer tissue deforming more; it gives relative stiffness and depends on probe pressure"
+      ],
+      "answer": 3,
+      "explanation": "**Why D is correct:** Strain elastography is usually displayed as a color map and is highly dependent on probe pressure.\n\n**Why the others are wrong:** A and B describe shear-wave elastography. C reverses the behaviour; softer tissue deforms more.",
+      "explanationImage": null,
+      "tags": [
+        "Ultrasound Resolution",
+        "Instrumentation",
+        "Image Optimization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch10-q091",
+      "stem": "Which statement describes shear-wave elastography?",
+      "image": null,
+      "options": [
+        "An acoustic push pulse creates shear waves and the system measures their propagation speed, giving quantitative stiffness (m/s or kPa)",
+        "The sonographer compresses tissue manually and views a color map",
+        "It gives only relative stiffness",
+        "It measures the speed of longitudinal sound waves (1540 m/s)"
+      ],
+      "answer": 0,
+      "explanation": "**Why A is correct:** Stiffer tissue conducts shear waves faster, so the measured speed provides objective stiffness values.\n\n**Why the others are wrong:** B and C describe strain elastography. D is wrong because the measured speed is that of shear waves, which are far slower than longitudinal ultrasound waves in soft tissue.",
+      "explanationImage": null,
+      "tags": [
+        "Ultrasound Resolution",
+        "Instrumentation",
+        "Image Optimization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch10-q092",
+      "stem": "Which statement about elastography technique is correct?",
+      "image": null,
+      "options": [
+        "Probe pressure has no effect on results",
+        "Pressure matters only for B-mode",
+        "Excessive probe pressure can alter results",
+        "Elastography cannot be used for the liver"
+      ],
+      "answer": 2,
+      "explanation": "**Why C is correct:** Compression changes the apparent stiffness, so the sonographer should apply light, steady pressure and optimize acquisition. Elastography may assist with the assessment of the liver and focal lesions.\n\n**Why the others are wrong:** A and B are false. D is false because liver stiffness is a common application.",
+      "explanationImage": null,
+      "tags": [
+        "Ultrasound Resolution",
+        "Instrumentation",
+        "Image Optimization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch10-q093",
+      "stem": "How is strain obtained in cardiac strain imaging?",
+      "image": null,
+      "options": [
+        "By Doppler shift in the mitral inflow",
+        "By 2D speckle tracking, following natural acoustic speckles in the myocardium frame by frame",
+        "By injection of microbubbles",
+        "By M-mode measurements"
+      ],
+      "answer": 1,
+      "explanation": "**Why B is correct:** Tracking speckle “dots” allows measurement of myocardial deformation in longitudinal, radial and circumferential directions.\n\n**Why the others are wrong:** A, C and D are not the method used for 2D speckle-tracking strain.",
+      "explanationImage": null,
+      "tags": [
+        "Ultrasound Resolution",
+        "Instrumentation",
+        "Image Optimization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch10-q094",
+      "stem": "Which statement about global longitudinal strain (GLS) is correct?",
+      "image": null,
+      "options": [
+        "Normal GLS is approximately +20%",
+        "Strain values are always positive",
+        "GLS is measured in the radial direction",
+        "GLS reflects average fiber shortening from base to apex, with a normal value of approximately –20%"
+      ],
+      "answer": 3,
+      "explanation": "**Why D is correct:** Shortening is expressed as a negative number. A more negative value (about –20%) means better longitudinal function. Applications include cancer therapy monitoring, heart failure, and infiltrative disease such as amyloidosis.\n\n**Why the others are wrong:** A is wrong in sign. B is wrong because strain can be positive (lengthening) or negative (shortening). C is wrong because GLS is longitudinal.",
+      "explanationImage": null,
+      "tags": [
+        "Ultrasound Resolution",
+        "Instrumentation",
+        "Image Optimization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch10-q095",
+      "stem": "Which acquisition parameters support accurate speckle-tracking strain?",
+      "image": null,
+      "options": [
+        "Good apical 4-, 2- and 3-chamber views, frame rate about 40–80 Hz, harmonics on, adequate gain",
+        "Frame rate below 20 Hz",
+        "Harmonics turned off",
+        "A single apical view only"
+      ],
+      "answer": 0,
+      "explanation": "**Why A is correct:** The walls must be well visualized, depth must include the LA, RA and RV, and the frame rate must be high enough to track speckle without losing temporal detail.\n\n**Why the others are wrong:** B is too low for tracking. C is wrong because harmonics should be on. D is wrong because GLS requires all three apical views.",
+      "explanationImage": null,
+      "tags": [
+        "Ultrasound Resolution",
+        "Instrumentation",
+        "Image Optimization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch10-q096",
+      "stem": "Which statement about contrast-enhanced ultrasound (CEUS) is correct?",
+      "image": null,
+      "options": [
+        "Microbubbles leave the vascular space and enter tissue",
+        "A high mechanical index is used throughout",
+        "Intravenous microbubbles remain within the bloodstream and are imaged with contrast-specific, low-MI techniques to assess vascularity and perfusion",
+        "Oral contrast is used"
+      ],
+      "answer": 2,
+      "explanation": "**Why C is correct:** Microbubbles are intravascular. Low MI prevents their destruction and allows real-time evaluation of lesion enhancement.\n\n**Why the others are wrong:** A is wrong because bubbles stay intravascular. B is wrong because a high MI would burst them. D is wrong because the agent is given IV.",
+      "explanationImage": null,
+      "tags": [
+        "Ultrasound Resolution",
+        "Instrumentation",
+        "Image Optimization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch10-q097",
+      "stem": "Which statement about system presets is correct?",
+      "image": null,
+      "options": [
+        "Presets remove the need for optimization",
+        "Presets provide starting settings, but patient size and anatomy require active, individual adjustment",
+        "Presets should be saved before the image quality is acceptable",
+        "Presets should never be modified"
+      ],
+      "answer": 1,
+      "explanation": "**Why B is correct:** Presets adjust frequency, depth, focus, gain and processing for a typical exam, and the sonographer reassesses continuously.\n\n**Why the others are wrong:** A and D ignore patient variability. C is wrong because settings are saved only once image quality is acceptable.",
+      "explanationImage": null,
+      "tags": [
+        "Ultrasound Resolution",
+        "Instrumentation",
+        "Image Optimization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch10-q098",
+      "stem": "Image quality in a large patient is poor and penetration is inadequate with tissue harmonics ON. What is the best next step?",
+      "image": null,
+      "options": [
+        "Increase the number of focal zones",
+        "Increase transducer frequency",
+        "Narrow the dynamic range",
+        "Switch off tissue harmonics and/or use a lower-frequency transducer setting"
+      ],
+      "answer": 3,
+      "explanation": "**Why D is correct:** Harmonics may reduce penetration in larger patients, and lower frequencies attenuate less. Gain and TGC should also be reassessed before raising output, consistent with ALARA.\n\n**Why the others are wrong:** A lowers frame rate without fixing penetration. B increases attenuation. C affects contrast, not depth of penetration.",
+      "explanationImage": null,
+      "tags": [
+        "Ultrasound Resolution",
+        "Instrumentation",
+        "Image Optimization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch10-q099",
+      "stem": "A sonographer widens the sector to include the whole left ventricle. What is the trade-off?",
+      "image": null,
+      "options": [
+        "Frame rate falls unless line density is reduced, which in turn lowers lateral resolution",
+        "There is no effect on frame rate",
+        "Frame rate rises",
+        "Lateral resolution always improves"
+      ],
+      "answer": 0,
+      "explanation": "**Why A is correct:** A wider sector requires more scan lines per frame. Keeping the line density constant lowers frame rate; reducing line density restores frame rate but lowers spatial (lateral) detail.\n\n**Why the others are wrong:** B and C ignore the dependence of frame rate on lines per frame. D is wrong because line density and beam width determine lateral detail, not sector width.",
+      "explanationImage": null,
+      "tags": [
+        "Ultrasound Resolution",
+        "Instrumentation",
+        "Image Optimization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch10-q100",
+      "stem": "Which statement correctly summarizes the key takeaways of this lecture?",
+      "image": null,
+      "options": [
+        "Axial resolution improves with a longer SPL",
+        "Lateral resolution improves with a wider beam",
+        "Axial resolution improves with shorter SPL, lateral with a narrower beam, and temporal with a higher frame rate",
+        "Temporal resolution improves with more focal zones"
+      ],
+      "answer": 2,
+      "explanation": "**Why C is correct:** Each resolution type is tied to a specific physical factor: pulse length (axial), beam width (lateral) and frame rate (temporal).\n\n**Why the others are wrong:** A and B are opposite. D is wrong because more focal zones lower the frame rate.",
+      "explanationImage": null,
+      "tags": [
+        "Ultrasound Resolution",
+        "Instrumentation",
+        "Image Optimization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch10-q101",
+      "stem": "Two reflectors are positioned one behind the other along the direction of the ultrasound beam. Which factor most directly determines whether they are displayed separately?",
+      "image": null,
+      "options": [
+        "Beam width",
+        "Frame rate",
+        "Spatial pulse length",
+        "Slice thickness"
+      ],
+      "answer": 2,
+      "explanation": "**Why C is correct:** Reflectors lying along the beam are separated by axial resolution, which equals SPL ÷ 2. A shorter pulse resolves closer reflectors.\n\n**Why the others are wrong:** A (beam width) controls lateral resolution. B (frame rate) controls temporal resolution. D (slice thickness) controls elevational resolution.",
+      "explanationImage": null,
+      "tags": [
+        "Ultrasound Resolution",
+        "Instrumentation",
+        "Image Optimization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch10-q102",
+      "stem": "Which system change improves axial resolution?",
+      "image": null,
+      "options": [
+        "Increasing pulse duration",
+        "Increasing the number of cycles",
+        "Decreasing spatial pulse length",
+        "Increasing beam width"
+      ],
+      "answer": 2,
+      "explanation": "**Why C is correct:** Axial resolution = SPL ÷ 2, so any decrease in SPL improves it.\n\n**Why the others are wrong:** A and B lengthen the pulse and worsen axial resolution. D widens the beam, which affects lateral (not axial) resolution and in the wrong direction.",
+      "explanationImage": null,
+      "tags": [
+        "Ultrasound Resolution",
+        "Instrumentation",
+        "Image Optimization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch10-q103",
+      "stem": "A higher-frequency transducer generally improves axial resolution because it produces:",
+      "image": null,
+      "options": [
+        "A longer wavelength",
+        "A shorter spatial pulse length",
+        "A wider ultrasound beam",
+        "A lower pulse repetition frequency"
+      ],
+      "answer": 1,
+      "explanation": "**Why B is correct:** Higher frequency shortens the wavelength, and SPL = cycles × wavelength, so SPL falls and axial resolution improves.\n\n**Why the others are wrong:** A is opposite; higher frequency means a shorter wavelength. C is wrong because higher frequency actually reduces beam divergence. D is wrong because PRF is set by imaging depth, not by transducer frequency.",
+      "explanationImage": null,
+      "tags": [
+        "Ultrasound Resolution",
+        "Instrumentation",
+        "Image Optimization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch10-q104",
+      "stem": "Lateral resolution is primarily determined by:",
+      "image": null,
+      "options": [
+        "Pulse duration",
+        "Beam width",
+        "Frame rate",
+        "Dynamic range"
+      ],
+      "answer": 1,
+      "explanation": "**Why B is correct:** Reflectors side by side are separated only if the beam is narrower than the gap between them, so lateral resolution is approximately the beam width.\n\n**Why the others are wrong:** A relates to axial resolution. C relates to temporal resolution. D relates to contrast (gray-scale) display.",
+      "explanationImage": null,
+      "tags": [
+        "Ultrasound Resolution",
+        "Instrumentation",
+        "Image Optimization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch10-q105",
+      "stem": "Where is lateral resolution usually best?",
+      "image": null,
+      "options": [
+        "At the transducer face",
+        "At the focal zone",
+        "Beyond the far field",
+        "At the maximum imaging depth"
+      ],
+      "answer": 1,
+      "explanation": "**Why B is correct:** The beam is narrowest at the focus.\n\n**Why the others are wrong:** At the face the beam is as wide as the aperture. Beyond the far field (and at maximum depth) the beam diverges and is wider, so lateral resolution is worse.",
+      "explanationImage": null,
+      "tags": [
+        "Ultrasound Resolution",
+        "Instrumentation",
+        "Image Optimization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch10-q106",
+      "stem": "A sonographer wants to improve lateral resolution at the level of a small lesion. Which action is most appropriate?",
+      "image": null,
+      "options": [
+        "Increase persistence",
+        "Place the focal zone at the lesion",
+        "Increase imaging depth",
+        "Increase dynamic range"
+      ],
+      "answer": 1,
+      "explanation": "**Why B is correct:** Placing the focus at the lesion puts the narrowest part of the beam at that depth.\n\n**Why the others are wrong:** A averages frames and affects noise and temporal resolution. C lowers frame rate and does not narrow the beam at the lesion. D changes gray-scale contrast, not beam width.",
+      "explanationImage": null,
+      "tags": [
+        "Ultrasound Resolution",
+        "Instrumentation",
+        "Image Optimization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch10-q107",
+      "stem": "Elevational resolution is determined primarily by:",
+      "image": null,
+      "options": [
+        "Slice thickness",
+        "Spatial pulse length",
+        "Frame rate",
+        "Pulse repetition period"
+      ],
+      "answer": 0,
+      "explanation": "**Why A is correct:** Elevational resolution is the ability to separate structures in the slice-thickness direction, perpendicular to the scan plane.\n\n**Why the others are wrong:** B determines axial resolution. C determines temporal resolution. D is a timing parameter that determines maximum unambiguous depth.",
+      "explanationImage": null,
+      "tags": [
+        "Ultrasound Resolution",
+        "Instrumentation",
+        "Image Optimization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch10-q108",
+      "stem": "Poor elevational resolution most directly contributes to:",
+      "image": null,
+      "options": [
+        "Range ambiguity",
+        "Slice-thickness artifact",
+        "Mirror-image artifact",
+        "Refraction artifact"
+      ],
+      "answer": 1,
+      "explanation": "**Why B is correct:** A thick slice averages echoes from structures above and below the scan plane, filling in cysts or vessels.\n\n**Why the others are wrong:** A occurs when echoes from a previous pulse arrive after the next pulse is sent (PRF too high for the depth). C comes from a strong reflector acting as a mirror. D comes from beam bending at an oblique boundary between media with different propagation speeds.",
+      "explanationImage": null,
+      "tags": [
+        "Ultrasound Resolution",
+        "Instrumentation",
+        "Image Optimization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch10-q109",
+      "stem": "Which transducer design provides limited electronic focusing in the elevational plane?",
+      "image": null,
+      "options": [
+        "Annular array",
+        "Single-element transducer",
+        "1.5D array",
+        "Mechanical sector transducer"
+      ],
+      "answer": 2,
+      "explanation": "**Why C is correct:** A 1.5D array has several rows of elements, so slice thickness can be focused electronically (in a limited way) in addition to the usual in-plane focusing.\n\n**Why the others are wrong:** A uses concentric rings with mechanical steering and is not the multi-row design described by 1.5D. B and D rely on fixed lens or curvature focusing, which cannot be adjusted electronically in the elevational plane.",
+      "explanationImage": null,
+      "tags": [
+        "Ultrasound Resolution",
+        "Instrumentation",
+        "Image Optimization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch10-q110",
+      "stem": "Temporal resolution is primarily determined by:",
+      "image": null,
+      "options": [
+        "Dynamic range",
+        "Frame rate",
+        "Beam width",
+        "Spatial pulse length"
+      ],
+      "answer": 1,
+      "explanation": "**Why B is correct:** Temporal resolution is the ability to display motion accurately over time; a higher frame rate means better temporal resolution.\n\n**Why the others are wrong:** A affects contrast. C affects lateral resolution. D affects axial resolution.",
+      "explanationImage": null,
+      "tags": [
+        "Ultrasound Resolution",
+        "Instrumentation",
+        "Image Optimization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch10-q111",
+      "stem": "Which adjustment improves temporal resolution?",
+      "image": null,
+      "options": [
+        "Increasing imaging depth",
+        "Adding focal zones",
+        "Narrowing the sector width",
+        "Increasing line density"
+      ],
+      "answer": 2,
+      "explanation": "**Why C is correct:** A narrower sector has fewer scan lines per frame, so each frame takes less time.\n\n**Why the others are wrong:** A lengthens each pulse’s listening time. B needs extra pulses per line. D increases the number of lines per frame. All three lower frame rate.",
+      "explanationImage": null,
+      "tags": [
+        "Ultrasound Resolution",
+        "Instrumentation",
+        "Image Optimization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch10-q112",
+      "stem": "A sonographer decreases imaging depth while all other settings remain unchanged. What is the expected result?",
+      "image": null,
+      "options": [
+        "Decreased frame rate",
+        "Increased frame rate",
+        "Increased slice thickness",
+        "Decreased axial resolution"
+      ],
+      "answer": 1,
+      "explanation": "**Why B is correct:** Echoes from a shallower depth return sooner, so the pulse repetition period shortens and more frames can be made each second.\n\n**Why the others are wrong:** A is opposite. C and D are wrong because slice thickness and SPL do not depend on imaging depth.",
+      "explanationImage": null,
+      "tags": [
+        "Ultrasound Resolution",
+        "Instrumentation",
+        "Image Optimization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch10-q113",
+      "stem": "Adding multiple focal zones usually causes:",
+      "image": null,
+      "options": [
+        "Increased frame rate",
+        "Decreased temporal resolution",
+        "Improved penetration",
+        "Decreased spatial pulse length"
+      ],
+      "answer": 1,
+      "explanation": "**Why B is correct:** Each extra focal zone requires an additional pulse per scan line, so frame rate and temporal resolution fall.\n\n**Why the others are wrong:** A is opposite. C and D are unrelated; focusing does not change penetration or pulse length.",
+      "explanationImage": null,
+      "tags": [
+        "Ultrasound Resolution",
+        "Instrumentation",
+        "Image Optimization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch10-q114",
+      "stem": "Contrast resolution refers to the ability to distinguish:",
+      "image": null,
+      "options": [
+        "Two structures positioned along the beam",
+        "Two structures positioned side by side",
+        "Small differences in echo intensity",
+        "Rapidly moving structures over time"
+      ],
+      "answer": 2,
+      "explanation": "**Why C is correct:** Contrast resolution separates tissues of similar echogenicity by displaying small amplitude differences as different gray shades.\n\n**Why the others are wrong:** A is axial resolution. B is lateral resolution. D is temporal resolution.",
+      "explanationImage": null,
+      "tags": [
+        "Ultrasound Resolution",
+        "Instrumentation",
+        "Image Optimization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch10-q115",
+      "stem": "A wider dynamic range produces:",
+      "image": null,
+      "options": [
+        "Fewer shades of gray",
+        "More shades of gray",
+        "A higher frame rate",
+        "A shorter pulse duration"
+      ],
+      "answer": 1,
+      "explanation": "**Why B is correct:** A wider range of echo amplitudes is mapped to the display, so more gray levels are shown and contrast is smoother (lower).\n\n**Why the others are wrong:** A is opposite. C and D are not affected by dynamic range, which is a processing/display setting.",
+      "explanationImage": null,
+      "tags": [
+        "Ultrasound Resolution",
+        "Instrumentation",
+        "Image Optimization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch10-q116",
+      "stem": "A sonographer decreases the dynamic range. How will the image most likely change?",
+      "image": null,
+      "options": [
+        "More shades of gray will be displayed",
+        "Black-and-white contrast will increase",
+        "Frame rate will increase",
+        "Penetration will improve"
+      ],
+      "answer": 1,
+      "explanation": "**Why B is correct:** A narrower dynamic range uses fewer gray shades, giving a harsher, higher-contrast black-and-white image.\n\n**Why the others are wrong:** A is opposite. C and D are not changed by dynamic range.",
+      "explanationImage": null,
+      "tags": [
+        "Ultrasound Resolution",
+        "Instrumentation",
+        "Image Optimization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch10-q117",
+      "stem": "The primary function of the pulser is to:",
+      "image": null,
+      "options": [
+        "Amplify returning echoes",
+        "Generate electrical pulses for the transducer",
+        "Store image data",
+        "Convert scan lines into pixels"
+      ],
+      "answer": 1,
+      "explanation": "**Why B is correct:** The pulser produces the electrical pulses that excite the transducer; their amplitude sets the acoustic output.\n\n**Why the others are wrong:** A is the receiver. C is memory/storage. D is the scan converter.",
+      "explanationImage": null,
+      "tags": [
+        "Ultrasound Resolution",
+        "Instrumentation",
+        "Image Optimization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch10-q118",
+      "stem": "The beam former controls ultrasound beam steering and focusing by adjusting:",
+      "image": null,
+      "options": [
+        "Display brightness",
+        "Element timing",
+        "Dynamic range",
+        "Echo rejection"
+      ],
+      "answer": 1,
+      "explanation": "**Why B is correct:** Electronic delays in element excitation (and receive delays) steer and focus the beam.\n\n**Why the others are wrong:** A, C and D are display or receiver processing controls that do not shape the beam.",
+      "explanationImage": null,
+      "tags": [
+        "Ultrasound Resolution",
+        "Instrumentation",
+        "Image Optimization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch10-q119",
+      "stem": "Which receiver function amplifies echoes differently according to depth?",
+      "image": null,
+      "options": [
+        "Reject",
+        "Compression",
+        "Time gain compensation",
+        "Scan conversion"
+      ],
+      "answer": 2,
+      "explanation": "**Why C is correct:** TGC increases amplification with echo arrival time (depth) to offset attenuation.\n\n**Why the others are wrong:** A removes weak signals below a threshold. B reduces the range of amplitudes. D is not a receiver function; it formats the image after the receiver.",
+      "explanationImage": null,
+      "tags": [
+        "Ultrasound Resolution",
+        "Instrumentation",
+        "Image Optimization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch10-q120",
+      "stem": "A sonographer increases overall gain. Which change occurs?",
+      "image": null,
+      "options": [
+        "All received echoes are amplified",
+        "Only deep echoes are amplified",
+        "Acoustic output increases",
+        "Beam width decreases"
+      ],
+      "answer": 0,
+      "explanation": "**Why A is correct:** Overall gain applies the same amplification to every received echo, regardless of depth.\n\n**Why the others are wrong:** B describes TGC. C is wrong because output is set by the pulser, not the receiver. D is wrong because gain does not shape the beam.",
+      "explanationImage": null,
+      "tags": [
+        "Ultrasound Resolution",
+        "Instrumentation",
+        "Image Optimization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch10-q121",
+      "stem": "A sonographer increases reject excessively. Which finding is most likely?",
+      "image": null,
+      "options": [
+        "Weak real echoes disappear",
+        "Acoustic output increases",
+        "Frame rate increases",
+        "Penetration improves"
+      ],
+      "answer": 0,
+      "explanation": "**Why A is correct:** Reject discards signals below a threshold. If the threshold is too high, low-amplitude echoes that are real (for example, from deep or weakly reflecting tissue) are removed along with the noise.\n\n**Why the others are wrong:** B is wrong because output is set by the pulser. C is wrong because reject does not change pulses per frame. D is wrong because reject only removes signals and cannot increase penetration.",
+      "explanationImage": null,
+      "tags": [
+        "Ultrasound Resolution",
+        "Instrumentation",
+        "Image Optimization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch10-q122",
+      "stem": "The scan converter primarily:",
+      "image": null,
+      "options": [
+        "Generates the transmitted pulse",
+        "Assigns processed echoes to display locations",
+        "Controls transducer damping",
+        "Determines the speed of sound"
+      ],
+      "answer": 1,
+      "explanation": "**Why B is correct:** The scan converter places processed echo data into a pixel matrix and assigns brightness, producing the image the monitor displays.\n\n**Why the others are wrong:** A is the pulser. C is a transducer design feature (backing material). D is a property of the medium (assumed 1540 m/s by the system), not something the scan converter determines.",
+      "explanationImage": null,
+      "tags": [
+        "Ultrasound Resolution",
+        "Instrumentation",
+        "Image Optimization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch10-q123",
+      "stem": "Which control is most commonly classified as postprocessing?",
+      "image": null,
+      "options": [
+        "Output power",
+        "Time gain compensation",
+        "Gray-map selection",
+        "Focal-zone placement"
+      ],
+      "answer": 2,
+      "explanation": "**Why C is correct:** Gray maps remap stored pixel brightness after the image is formed and can often be changed after freezing.\n\n**Why the others are wrong:** A, B and D change the transmitted beam or the received signal before the image is stored, so they are preprocessing.",
+      "explanationImage": null,
+      "tags": [
+        "Ultrasound Resolution",
+        "Instrumentation",
+        "Image Optimization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch10-q124",
+      "stem": "Increasing persistence generally:",
+      "image": null,
+      "options": [
+        "Reduces random noise",
+        "Increases temporal resolution",
+        "Improves penetration",
+        "Shortens spatial pulse length"
+      ],
+      "answer": 0,
+      "explanation": "**Why A is correct:** Persistence averages consecutive frames, and random noise averages out while real structures remain.\n\n**Why the others are wrong:** B is opposite; averaging slows the response to motion and lowers temporal resolution. C and D are not affected because persistence is applied after echoes are received.",
+      "explanationImage": null,
+      "tags": [
+        "Ultrasound Resolution",
+        "Instrumentation",
+        "Image Optimization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch10-q125",
+      "stem": "Which clinical situation most strongly favours low persistence?",
+      "image": null,
+      "options": [
+        "Imaging a stationary thyroid nodule",
+        "Imaging rapid cardiac valve motion",
+        "Imaging a superficial cyst",
+        "Imaging a resting liver"
+      ],
+      "answer": 1,
+      "explanation": "**Why B is correct:** Rapidly moving valves would blur if several frames were averaged, so low persistence preserves temporal resolution.\n\n**Why the others are wrong:** A, C and D are stationary or slowly moving structures where higher persistence smooths noise with little motion blur.",
+      "explanationImage": null,
+      "tags": [
+        "Ultrasound Resolution",
+        "Instrumentation",
+        "Image Optimization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch10-q126",
+      "stem": "Which statement best describes write zoom?",
+      "image": null,
+      "options": [
+        "It enlarges stored pixels after freezing",
+        "It rescans a selected region with increased line density",
+        "It increases transmit power",
+        "It reduces the number of displayed gray shades"
+      ],
+      "answer": 1,
+      "explanation": "**Why B is correct:** Write zoom is chosen before acquisition; the system scans only the selected region, with scan lines closer together, adding real detail.\n\n**Why the others are wrong:** A describes read zoom. C is not a function of zoom. D is a gray-scale/dynamic range effect, unrelated to zoom.",
+      "explanationImage": null,
+      "tags": [
+        "Ultrasound Resolution",
+        "Instrumentation",
+        "Image Optimization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch10-q127",
+      "stem": "A sonographer activates tissue harmonic imaging. Which change is most likely?",
+      "image": null,
+      "options": [
+        "Increased near-field clutter",
+        "Reduced border definition",
+        "Reduced clutter and improved contrast",
+        "Increased slice thickness"
+      ],
+      "answer": 2,
+      "explanation": "**Why C is correct:** Harmonics build up within tissue rather than in the near-field body wall, reducing clutter and haze and improving contrast and borders.\n\n**Why the others are wrong:** A and B are opposite effects. D is wrong because slice thickness is set by the transducer’s elevational focusing, not harmonics.",
+      "explanationImage": null,
+      "tags": [
+        "Ultrasound Resolution",
+        "Instrumentation",
+        "Image Optimization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch10-q128",
+      "stem": "Spatial compounding creates an image by combining:",
+      "image": null,
+      "options": [
+        "Multiple pulse frequencies",
+        "Images acquired from multiple angles",
+        "Multiple focal depths from one pulse",
+        "Consecutive frames over time"
+      ],
+      "answer": 1,
+      "explanation": "**Why B is correct:** The beam is steered to several angles and the resulting views are averaged, reducing speckle and some artifacts.\n\n**Why the others are wrong:** A describes frequency compounding, a different technique. C describes multi-focus imaging, which needs multiple pulses and is not what compounding does. D describes frame averaging (persistence).",
+      "explanationImage": null,
+      "tags": [
+        "Ultrasound Resolution",
+        "Instrumentation",
+        "Image Optimization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch10-q129",
+      "stem": "Elastography primarily evaluates:",
+      "image": null,
+      "options": [
+        "Blood-flow direction",
+        "Tissue stiffness",
+        "Acoustic impedance",
+        "Pulse repetition frequency"
+      ],
+      "answer": 1,
+      "explanation": "**Why B is correct:** Elastography estimates how stiff or elastic tissue is, using strain (relative) or shear-wave speed (quantitative).\n\n**Why the others are wrong:** A is a Doppler measurement. C is the product of density and propagation speed and governs reflection, not stiffness maps. D is a system timing parameter.",
+      "explanationImage": null,
+      "tags": [
+        "Ultrasound Resolution",
+        "Instrumentation",
+        "Image Optimization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch10-q130",
+      "stem": "A sonographer increases frequency to improve visualization of a small superficial structure. Which trade-off should be expected?",
+      "image": null,
+      "options": [
+        "Reduced penetration",
+        "Lower axial resolution",
+        "Increased slice thickness",
+        "Reduced contrast resolution"
+      ],
+      "answer": 0,
+      "explanation": "**Why A is correct:** Higher frequency is attenuated more quickly, so the beam cannot reach as deep.\n\n**Why the others are wrong:** B is opposite; higher frequency shortens SPL and improves axial resolution. C is not a direct effect of frequency. D is not the expected trade-off.",
+      "explanationImage": null,
+      "tags": [
+        "Ultrasound Resolution",
+        "Instrumentation",
+        "Image Optimization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch10-q131",
+      "stem": "A sonographer activates write zoom over a small superficial lesion. Which change is most likely?",
+      "image": null,
+      "options": [
+        "Existing pixels are enlarged",
+        "The selected region is rescanned",
+        "Transmit power automatically increases",
+        "Axial resolution decreases"
+      ],
+      "answer": 1,
+      "explanation": "**Why B is correct:** Write zoom directs the pulses to the chosen region, which is rescanned with more lines.\n\n**Why the others are wrong:** A describes read zoom. C is wrong because power does not change automatically. D is wrong because SPL, and therefore axial resolution, is unchanged.",
+      "explanationImage": null,
+      "tags": [
+        "Ultrasound Resolution",
+        "Instrumentation",
+        "Image Optimization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch10-q132",
+      "stem": "Write zoom may improve lateral detail because the system can:",
+      "image": null,
+      "options": [
+        "Increase spatial pulse length",
+        "Use more closely spaced scan lines",
+        "Increase slice thickness",
+        "Reduce receiver bandwidth"
+      ],
+      "answer": 1,
+      "explanation": "**Why B is correct:** Concentrating the scan lines into a smaller area increases line density across the lesion.\n\n**Why the others are wrong:** A would worsen axial resolution. C would worsen elevational resolution. D has no role in zoom.",
+      "explanationImage": null,
+      "tags": [
+        "Ultrasound Resolution",
+        "Instrumentation",
+        "Image Optimization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch10-q133",
+      "stem": "Which statement best describes read zoom?",
+      "image": null,
+      "options": [
+        "It improves true spatial resolution",
+        "It restricts scanning to a selected region",
+        "It enlarges previously acquired image data",
+        "It increases the transmitted frequency"
+      ],
+      "answer": 2,
+      "explanation": "**Why C is correct:** Read zoom magnifies pixels that are already stored, so the image looks larger (and blockier) without new detail.\n\n**Why the others are wrong:** A is false; no new information is acquired. B describes write zoom. D is not what zoom does.",
+      "explanationImage": null,
+      "tags": [
+        "Ultrasound Resolution",
+        "Instrumentation",
+        "Image Optimization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch10-q134",
+      "stem": "An image is frozen and stored with the deep tissues severely under-gained. Which control should have been optimized during acquisition because the missing information may not be fully recovered afterward?",
+      "image": null,
+      "options": [
+        "Gray map",
+        "Chroma map",
+        "Time gain compensation",
+        "Display annotation"
+      ],
+      "answer": 2,
+      "explanation": "**Why C is correct:** TGC is a preprocessing control applied to the echo data before storage. Deep signals that were never amplified cannot be fully restored later.\n\n**Why the others are wrong:** A and B only change how stored brightness is displayed. D is text and graphics added to the image.",
+      "explanationImage": null,
+      "tags": [
+        "Ultrasound Resolution",
+        "Instrumentation",
+        "Image Optimization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch10-q135",
+      "stem": "Frame averaging improves image appearance primarily by:",
+      "image": null,
+      "options": [
+        "Shortening the transmitted pulse",
+        "Combining information from consecutive frames",
+        "Narrowing the elevational beam",
+        "Increasing acoustic output"
+      ],
+      "answer": 1,
+      "explanation": "**Why B is correct:** Averaging successive frames reduces random noise and gives a smoother image.\n\n**Why the others are wrong:** A and C are transducer or pulse properties unrelated to averaging. D would increase exposure and is not how averaging works.",
+      "explanationImage": null,
+      "tags": [
+        "Ultrasound Resolution",
+        "Instrumentation",
+        "Image Optimization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch10-q136",
+      "stem": "A sonographer increases frame averaging while imaging rapid cardiac motion. Which effect is most likely?",
+      "image": null,
+      "options": [
+        "Improved temporal resolution",
+        "Increased penetration",
+        "Motion blurring",
+        "Shorter spatial pulse length"
+      ],
+      "answer": 2,
+      "explanation": "**Why C is correct:** Averaging several frames of a fast-moving valve smears its positions together.\n\n**Why the others are wrong:** A is the opposite. B and D are unrelated to frame averaging.",
+      "explanationImage": null,
+      "tags": [
+        "Ultrasound Resolution",
+        "Instrumentation",
+        "Image Optimization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch10-q137",
+      "stem": "Pulse-inversion harmonic imaging may reduce temporal resolution because it:",
+      "image": null,
+      "options": [
+        "Requires multiple transmitted pulses to form image information",
+        "Increases imaging depth automatically",
+        "Widens the ultrasound beam",
+        "Increases persistence automatically"
+      ],
+      "answer": 0,
+      "explanation": "**Why A is correct:** Pulse inversion sends a pulse and its inverted copy along each line and combines the echoes. The extra pulses per line lower the frame rate.\n\n**Why the others are wrong:** B, C and D are not part of how pulse inversion works.",
+      "explanationImage": null,
+      "tags": [
+        "Ultrasound Resolution",
+        "Instrumentation",
+        "Image Optimization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch10-q138",
+      "stem": "After freezing the image, the sonographer reviews frames acquired immediately before the freeze command. Which feature is being used?",
+      "image": null,
+      "options": [
+        "Write zoom",
+        "Cine loop",
+        "Spatial compounding",
+        "Dynamic receive focusing"
+      ],
+      "answer": 1,
+      "explanation": "**Why B is correct:** The cine loop stores recent frames in memory so that they can be scrolled through after freezing.\n\n**Why the others are wrong:** A rescans a region before acquisition. C combines multiple angles during acquisition. D adjusts receive focus with depth.",
+      "explanationImage": null,
+      "tags": [
+        "Ultrasound Resolution",
+        "Instrumentation",
+        "Image Optimization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch10-q139",
+      "stem": "The image is uniformly too dark, but returning echoes are present at all depths. Which adjustment should generally be attempted before increasing acoustic output?",
+      "image": null,
+      "options": [
+        "Increase overall gain",
+        "Increase reject",
+        "Decrease dynamic range",
+        "Increase imaging depth"
+      ],
+      "answer": 0,
+      "explanation": "**Why A is correct:** Gain brightens the image without increasing patient exposure. Output is raised only if gain cannot produce a diagnostic image, consistent with ALARA.\n\n**Why the others are wrong:** B removes more low-level echoes and darkens or erases information. C raises contrast but does not uniformly brighten. D adds depth, which does not brighten the existing structures.",
+      "explanationImage": null,
+      "tags": [
+        "Ultrasound Resolution",
+        "Instrumentation",
+        "Image Optimization"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch10-q140",
+      "stem": "A sonographer increases line density to improve spatial detail. Which trade-off should be expected?",
+      "image": null,
+      "options": [
+        "Higher frame rate",
+        "Lower frame rate",
+        "Improved penetration",
+        "Shorter pulse duration"
+      ],
+      "answer": 1,
+      "explanation": "**Why B is correct:** More scan lines per frame take more time, so frame rate (temporal resolution) falls.\n\n**Why the others are wrong:** A is opposite. C and D are not changed by line density.",
+      "explanationImage": null,
+      "tags": [
+        "Ultrasound Resolution",
+        "Instrumentation",
+        "Image Optimization"
+      ],
+      "reference": ""
+    }
+  ]
+}

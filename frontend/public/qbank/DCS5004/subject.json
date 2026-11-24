@@ -43,6 +43,16 @@
       "id": "ch08",
       "title": "Module 8: Refraction, Scattering and Speckle",
       "file": "ch08.json"
+    },
+    {
+      "id": "ch09",
+      "title": "Module 9: Sound-Beam Formation, Focusing, and Control",
+      "file": "ch09.json"
+    },
+    {
+      "id": "ch10",
+      "title": "Module 10: Ultrasound Resolution, Instrumentation, and Image Optimization",
+      "file": "ch10.json"
     }
   ]
 }

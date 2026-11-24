@@ -1,0 +1,2807 @@
+{
+  "subjectId": "DCS5004",
+  "chapterId": "ch09",
+  "title": "Module 9: Sound-Beam Formation, Focusing, and Control",
+  "questions": [
+    {
+      "id": "DCS5004-ch09-q001",
+      "stem": "Two thyroid nodules at the same depth merge into one image. What directly improves separation?",
+      "image": null,
+      "options": [
+        "Thicker slice",
+        "Lower frequency",
+        "Higher gain",
+        "Narrower lateral beam"
+      ],
+      "answer": 3,
+      "explanation": "A smaller beam width separates side-by-side reflectors.\n\n**Distractor rationales:**\n- **A:** This worsens out-of-plane averaging.\n- **B:** At fixed aperture this increases diffraction.\n- **C:** Gain changes brightness, not beam width.",
+      "explanationImage": null,
+      "tags": [
+        "Sound-Beam Formation",
+        "Focusing and Control",
+        "Beam Geometry"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch09-q002",
+      "stem": "Which principle explains formation of a wavefront from secondary wavelets?",
+      "image": null,
+      "options": [
+        "Huygens’ principle",
+        "Piezoelectric effect",
+        "Doppler principle",
+        "Snell’s law"
+      ],
+      "answer": 0,
+      "explanation": "Each point on a wavefront acts as a secondary source whose wavelets combine.\n\n**Distractor rationales:**\n- **B:** It describes energy conversion in the crystal.\n- **C:** It relates frequency shift to motion.\n- **D:** It describes refraction at interfaces.",
+      "explanationImage": null,
+      "tags": [
+        "Sound-Beam Formation",
+        "Focusing and Control",
+        "Beam Geometry"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch09-q003",
+      "stem": "Which combination maximizes diffraction in the same medium?",
+      "image": null,
+      "options": [
+        "Low frequency and small aperture",
+        "High frequency and large aperture",
+        "High frequency and same small aperture",
+        "Low frequency and larger aperture"
+      ],
+      "answer": 0,
+      "explanation": "Long wavelength relative to aperture promotes spreading.\n\n**Distractor rationales:**\n- **B:** Both reduce spreading.\n- **C:** Shorter wavelength reduces spreading compared with low frequency.\n- **D:** Increasing aperture reduces spreading.",
+      "explanationImage": null,
+      "tags": [
+        "Sound-Beam Formation",
+        "Focusing and Control",
+        "Beam Geometry"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch09-q004",
+      "stem": "Which beam dimension is perpendicular to the imaging plane?",
+      "image": null,
+      "options": [
+        "Range",
+        "Lateral",
+        "Elevation",
+        "Axial"
+      ],
+      "answer": 2,
+      "explanation": "It determines section or slice thickness.\n\n**Distractor rationales:**\n- **A:** Range measures distance along the beam.\n- **B:** This is width within the imaging plane.\n- **D:** This follows propagation depth.",
+      "explanationImage": null,
+      "tags": [
+        "Sound-Beam Formation",
+        "Focusing and Control",
+        "Beam Geometry"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch09-q005",
+      "stem": "Increasing crystal thickness primarily changes which property?",
+      "image": null,
+      "options": [
+        "Steering angle",
+        "Scan line count",
+        "Aperture diameter",
+        "Operating frequency"
+      ],
+      "answer": 3,
+      "explanation": "A thicker resonant element generally operates at lower frequency.\n\n**Distractor rationales:**\n- **A:** Timing delays determine steering.\n- **B:** This depends on acquisition settings.\n- **C:** Diameter is an independent dimension.",
+      "explanationImage": null,
+      "tags": [
+        "Sound-Beam Formation",
+        "Focusing and Control",
+        "Beam Geometry"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch09-q006",
+      "stem": "What occurs when secondary wavelets arrive in phase?",
+      "image": null,
+      "options": [
+        "Refraction",
+        "Complete cancellation",
+        "Constructive interference",
+        "Attenuation"
+      ],
+      "answer": 2,
+      "explanation": "Their amplitudes reinforce, supporting beam formation.\n\n**Distractor rationales:**\n- **A:** Refraction involves a change in propagation direction at an interface.\n- **B:** Cancellation requires opposing phases.\n- **D:** Attenuation is loss of acoustic energy with propagation.",
+      "explanationImage": null,
+      "tags": [
+        "Sound-Beam Formation",
+        "Focusing and Control",
+        "Beam Geometry"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch09-q007",
+      "stem": "At a typical main-beam cross-section, intensity is greatest where?",
+      "image": null,
+      "options": [
+        "Outside the beam",
+        "At the periphery",
+        "At the centre",
+        "In a grating lobe"
+      ],
+      "answer": 2,
+      "explanation": "Energy is concentrated along the main beam axis.\n\n**Distractor rationales:**\n- **A:** Little main-beam energy is present there.\n- **B:** Intensity generally falls toward the edges.\n- **D:** These unwanted beams are generally weaker.",
+      "explanationImage": null,
+      "tags": [
+        "Sound-Beam Formation",
+        "Focusing and Control",
+        "Beam Geometry"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch09-q008",
+      "stem": "Two unfocused probes have equal frequency. Which has less far-field divergence?",
+      "image": null,
+      "options": [
+        "The larger aperture",
+        "The thicker crystal necessarily",
+        "The smaller aperture",
+        "Both equally"
+      ],
+      "answer": 0,
+      "explanation": "A larger diameter relative to wavelength reduces angular spreading.\n\n**Distractor rationales:**\n- **B:** Thickness is related to frequency, which is held constant here.\n- **C:** It produces more diffraction.\n- **D:** Aperture affects divergence.",
+      "explanationImage": null,
+      "tags": [
+        "Sound-Beam Formation",
+        "Focusing and Control",
+        "Beam Geometry"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch09-q009",
+      "stem": "At fixed aperture, increasing frequency causes what change?",
+      "image": null,
+      "options": [
+        "Longer wavelength and less divergence",
+        "Shorter wavelength and less divergence",
+        "Shorter wavelength and more divergence",
+        "No change in either"
+      ],
+      "answer": 1,
+      "explanation": "Wavelength equals speed divided by frequency; reduced wavelength decreases diffraction.\n\n**Distractor rationales:**\n- **A:** Wavelength decreases, not increases.\n- **C:** Shorter wavelength reduces spreading.\n- **D:** Both depend on frequency.",
+      "explanationImage": null,
+      "tags": [
+        "Sound-Beam Formation",
+        "Focusing and Control",
+        "Beam Geometry"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch09-q010",
+      "stem": "Which description of the physical beam is accurate?",
+      "image": null,
+      "options": [
+        "Uniform intensity volume",
+        "Two-dimensional sheet",
+        "Three-dimensional volume with depth-dependent dimensions",
+        "Constant-width cylinder"
+      ],
+      "answer": 2,
+      "explanation": "Width and thickness vary along propagation.\n\n**Distractor rationales:**\n- **A:** Intensity varies across the beam.\n- **B:** The displayed image is 2D, not the physical beam.\n- **D:** The beam converges and diverges.",
+      "explanationImage": null,
+      "tags": [
+        "Sound-Beam Formation",
+        "Focusing and Control",
+        "Beam Geometry"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch09-q011",
+      "stem": "Where does the Fresnel zone end for an unfocused circular element?",
+      "image": null,
+      "options": [
+        "At the end of the far field",
+        "Near the natural focus",
+        "At maximum display depth",
+        "At the probe face"
+      ],
+      "answer": 1,
+      "explanation": "This is the transition from near field to far field.\n\n**Distractor rationales:**\n- **A:** The far field follows the near field.\n- **C:** Display depth is a system setting.\n- **D:** The near field begins there.",
+      "explanationImage": null,
+      "tags": [
+        "Sound-Beam Formation",
+        "Focusing and Control",
+        "Beam Geometry"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch09-q012",
+      "stem": "If aperture diameter doubles at fixed frequency, NZL changes by what factor?",
+      "image": null,
+      "options": [
+        "One",
+        "Two",
+        "Four",
+        "One-half"
+      ],
+      "answer": 2,
+      "explanation": "NZL is proportional to diameter squared.\n\n**Distractor rationales:**\n- **A:** Diameter is not irrelevant.\n- **B:** This incorrectly assumes a linear diameter relationship.\n- **D:** Increasing diameter lengthens NZL.",
+      "explanationImage": null,
+      "tags": [
+        "Sound-Beam Formation",
+        "Focusing and Control",
+        "Beam Geometry"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch09-q013",
+      "stem": "A circular element has diameter 12 mm and wavelength 0.3 mm. Calculate NZL.",
+      "image": null,
+      "options": [
+        "120 mm",
+        "480 mm",
+        "10 mm",
+        "60 mm"
+      ],
+      "answer": 0,
+      "explanation": "12²/(4 × 0.3) = 120 mm.\n\n**Distractor rationales:**\n- **B:** This omits the factor of four.\n- **C:** This omits squaring the diameter.\n- **D:** This is half the correct result.",
+      "explanationImage": null,
+      "tags": [
+        "Sound-Beam Formation",
+        "Focusing and Control",
+        "Beam Geometry"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch09-q014",
+      "stem": "Frequency increases from 3 to 9 MHz at fixed diameter. Natural focal depth changes how?",
+      "image": null,
+      "options": [
+        "Remains constant",
+        "Increases ninefold",
+        "Decreases to one-third",
+        "Triples"
+      ],
+      "answer": 3,
+      "explanation": "NZL is directly proportional to frequency.\n\n**Distractor rationales:**\n- **A:** Frequency changes wavelength and NZL.\n- **B:** Frequency is not squared.\n- **C:** The relationship is direct, not inverse.",
+      "explanationImage": null,
+      "tags": [
+        "Sound-Beam Formation",
+        "Focusing and Control",
+        "Beam Geometry"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch09-q015",
+      "stem": "Higher frequency at fixed aperture produces which combination?",
+      "image": null,
+      "options": [
+        "Shorter NZL and poorer penetration",
+        "Shorter NZL and better penetration",
+        "Longer NZL and better penetration",
+        "Longer NZL and poorer penetration"
+      ],
+      "answer": 3,
+      "explanation": "Natural focus moves deeper while attenuation increases.\n\n**Distractor rationales:**\n- **A:** Only the penetration trend is correct.\n- **B:** Both trends are reversed.\n- **C:** Attenuation increases at higher frequency.",
+      "explanationImage": null,
+      "tags": [
+        "Sound-Beam Formation",
+        "Focusing and Control",
+        "Beam Geometry"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch09-q016",
+      "stem": "An unfocused element has D = 8 mm and wavelength = 0.4 mm. Find NZL.",
+      "image": null,
+      "options": [
+        "40 mm",
+        "5 mm",
+        "160 mm",
+        "20 mm"
+      ],
+      "answer": 0,
+      "explanation": "64/1.6 = 40 mm.\n\n**Distractor rationales:**\n- **B:** Diameter was not squared.\n- **C:** The factor of four was omitted.\n- **D:** This is half the correct value.",
+      "explanationImage": null,
+      "tags": [
+        "Sound-Beam Formation",
+        "Focusing and Control",
+        "Beam Geometry"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch09-q017",
+      "stem": "Diameter decreases from 10 to 5 mm at constant frequency. NZL becomes what?",
+      "image": null,
+      "options": [
+        "One-quarter",
+        "One-half",
+        "Twice",
+        "Four times"
+      ],
+      "answer": 0,
+      "explanation": "(5/10)² = 0.25.\n\n**Distractor rationales:**\n- **B:** Diameter must be squared.\n- **C:** Smaller aperture shortens NZL.\n- **D:** This reverses the relationship.",
+      "explanationImage": null,
+      "tags": [
+        "Sound-Beam Formation",
+        "Focusing and Control",
+        "Beam Geometry"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch09-q018",
+      "stem": "Which region is called the Fraunhofer zone?",
+      "image": null,
+      "options": [
+        "Near field",
+        "Focal length",
+        "Crystal thickness",
+        "Far field"
+      ],
+      "answer": 3,
+      "explanation": "It lies beyond the natural focal region and exhibits divergence.\n\n**Distractor rationales:**\n- **A:** This is the Fresnel zone.\n- **B:** This is a distance, not the far-field region.\n- **C:** This is a physical element dimension.",
+      "explanationImage": null,
+      "tags": [
+        "Sound-Beam Formation",
+        "Focusing and Control",
+        "Beam Geometry"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch09-q019",
+      "stem": "At 5 MHz in soft tissue (1540 m/s), what is wavelength?",
+      "image": null,
+      "options": [
+        "1.54 mm",
+        "0.154 mm",
+        "0.308 mm",
+        "3.08 mm"
+      ],
+      "answer": 2,
+      "explanation": "1540/5,000,000 m = 0.308 mm.\n\n**Distractor rationales:**\n- **A:** This corresponds to 1 MHz.\n- **B:** This corresponds to 10 MHz.\n- **D:** This is ten times too large.",
+      "explanationImage": null,
+      "tags": [
+        "Sound-Beam Formation",
+        "Focusing and Control",
+        "Beam Geometry"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch09-q020",
+      "stem": "A 10 mm circular aperture operates at 5 MHz in soft tissue. Approximate NZL?",
+      "image": null,
+      "options": [
+        "25 mm",
+        "81 mm",
+        "8.1 mm",
+        "325 mm"
+      ],
+      "answer": 1,
+      "explanation": "Wavelength is 0.308 mm; 100/(4 × 0.308) ≈ 81 mm.\n\n**Distractor rationales:**\n- **A:** This ignores the actual wavelength.\n- **C:** This is a decimal-place error.\n- **D:** This omits division by four.",
+      "explanationImage": null,
+      "tags": [
+        "Sound-Beam Formation",
+        "Focusing and Control",
+        "Beam Geometry"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch09-q021",
+      "stem": "Aperture doubles while frequency halves. What happens to NZL?",
+      "image": null,
+      "options": [
+        "Unchanged",
+        "Halves",
+        "Doubles",
+        "Quadruples"
+      ],
+      "answer": 2,
+      "explanation": "The diameter factor is four and frequency factor is one-half.\n\n**Distractor rationales:**\n- **A:** The two effects do not cancel because diameter is squared.\n- **B:** The diameter effect dominates.\n- **D:** This ignores the frequency decrease.",
+      "explanationImage": null,
+      "tags": [
+        "Sound-Beam Formation",
+        "Focusing and Control",
+        "Beam Geometry"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch09-q022",
+      "stem": "Which change reduces far-field divergence without increasing frequency?",
+      "image": null,
+      "options": [
+        "Increase aperture",
+        "Decrease aperture",
+        "Increase gain",
+        "Increase display depth"
+      ],
+      "answer": 0,
+      "explanation": "A larger active width reduces diffraction.\n\n**Distractor rationales:**\n- **B:** This increases spreading.\n- **C:** Gain does not alter the transmitted beam geometry.\n- **D:** This displays more range but does not inherently narrow the beam.",
+      "explanationImage": null,
+      "tags": [
+        "Sound-Beam Formation",
+        "Focusing and Control",
+        "Beam Geometry"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch09-q023",
+      "stem": "An unfocused beam has diameter 10 mm at the face. In the simplified lecture model, its width at natural focus is approximately what?",
+      "image": null,
+      "options": [
+        "5 mm",
+        "10 mm",
+        "0 mm",
+        "20 mm"
+      ],
+      "answer": 0,
+      "explanation": "The diagram on page 11 depicts D/2 at natural focus.\n\n**Distractor rationales:**\n- **B:** This is the face diameter.\n- **C:** Diffraction prevents a zero-width focus.\n- **D:** This is wider than the face.",
+      "explanationImage": null,
+      "tags": [
+        "Sound-Beam Formation",
+        "Focusing and Control",
+        "Beam Geometry"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch09-q024",
+      "stem": "If wavelength doubles at fixed aperture, NZL becomes what?",
+      "image": null,
+      "options": [
+        "Half",
+        "Double",
+        "Unchanged",
+        "Four times"
+      ],
+      "answer": 0,
+      "explanation": "NZL is inversely proportional to wavelength.\n\n**Distractor rationales:**\n- **B:** This reverses the relationship.\n- **C:** Wavelength is in the denominator.\n- **D:** Wavelength is not squared.",
+      "explanationImage": null,
+      "tags": [
+        "Sound-Beam Formation",
+        "Focusing and Control",
+        "Beam Geometry"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch09-q025",
+      "stem": "Two reflectors at 14 cm are poorly separated laterally beyond the focus. Why?",
+      "image": null,
+      "options": [
+        "Higher receive gain",
+        "Far-field beam divergence",
+        "Shorter pulse length",
+        "Reduced slice thickness"
+      ],
+      "answer": 1,
+      "explanation": "The widening beam can insonate both reflectors together.\n\n**Distractor rationales:**\n- **A:** Gain is not the underlying geometric cause.\n- **C:** This primarily improves axial resolution.\n- **D:** This improves elevation, not lateral separation directly.",
+      "explanationImage": null,
+      "tags": [
+        "Sound-Beam Formation",
+        "Focusing and Control",
+        "Beam Geometry"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch09-q026",
+      "stem": "A liver lesion lies at 7 cm and transmit focus is at 2 cm. Best first focusing adjustment?",
+      "image": null,
+      "options": [
+        "Increase slice thickness",
+        "Move focus to lesion depth",
+        "Increase gain",
+        "Move focus to 1 cm"
+      ],
+      "answer": 1,
+      "explanation": "The narrowest beam should coincide with the target.\n\n**Distractor rationales:**\n- **A:** This increases out-of-plane averaging.\n- **C:** Brightness does not relocate focus.\n- **D:** This places the focus farther from the lesion.",
+      "explanationImage": null,
+      "tags": [
+        "Sound-Beam Formation",
+        "Focusing and Control",
+        "Beam Geometry"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch09-q027",
+      "stem": "Which resolution is most directly improved by narrowing the in-plane beam?",
+      "image": null,
+      "options": [
+        "Temporal",
+        "Axial",
+        "Elevational",
+        "Lateral"
+      ],
+      "answer": 3,
+      "explanation": "It depends on beam width.\n\n**Distractor rationales:**\n- **A:** It depends on frame rate.\n- **B:** It primarily depends on spatial pulse length.\n- **C:** It depends on out-of-plane thickness.",
+      "explanationImage": null,
+      "tags": [
+        "Sound-Beam Formation",
+        "Focusing and Control",
+        "Beam Geometry"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch09-q028",
+      "stem": "What is focal length?",
+      "image": null,
+      "options": [
+        "Pulse duration",
+        "Distance from transducer to focus",
+        "Length of focal zone",
+        "Aperture width"
+      ],
+      "answer": 1,
+      "explanation": "It specifies focal depth.\n\n**Distractor rationales:**\n- **A:** This is a time interval.\n- **C:** This describes the range of good focus.\n- **D:** This is the active transducer dimension.",
+      "explanationImage": null,
+      "tags": [
+        "Sound-Beam Formation",
+        "Focusing and Control",
+        "Beam Geometry"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch09-q029",
+      "stem": "What is a focal zone?",
+      "image": null,
+      "options": [
+        "Region surrounding minimum beam width",
+        "Entire displayed depth",
+        "The whole far field",
+        "Only the transducer face"
+      ],
+      "answer": 0,
+      "explanation": "Lateral resolution is relatively good throughout this region.\n\n**Distractor rationales:**\n- **B:** Resolution varies with depth.\n- **C:** The beam diverges beyond focus.\n- **D:** Focus lies at a selected depth.",
+      "explanationImage": null,
+      "tags": [
+        "Sound-Beam Formation",
+        "Focusing and Control",
+        "Beam Geometry"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch09-q030",
+      "stem": "Stronger focusing generally produces which trade-off?",
+      "image": null,
+      "options": [
+        "Narrower waist and shorter focal zone",
+        "Wider waist and longer focal zone",
+        "Constant width at all depths",
+        "No change beyond focus"
+      ],
+      "answer": 0,
+      "explanation": "A tighter focus improves local resolution but reduces the depth range of optimal focus.\n\n**Distractor rationales:**\n- **B:** This reverses the expected trend.\n- **C:** Focusing does not eliminate divergence.\n- **D:** Stronger focusing increases postfocal divergence.",
+      "explanationImage": null,
+      "tags": [
+        "Sound-Beam Formation",
+        "Focusing and Control",
+        "Beam Geometry"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch09-q031",
+      "stem": "Which device provides fixed mechanical focusing?",
+      "image": null,
+      "options": [
+        "Receive delay circuit",
+        "Acoustic lens",
+        "Gain amplifier",
+        "Scan converter"
+      ],
+      "answer": 1,
+      "explanation": "Its physical curvature establishes a fixed focal depth.\n\n**Distractor rationales:**\n- **A:** It supports electronic focusing.\n- **C:** It changes signal amplitude.\n- **D:** It formats image data.",
+      "explanationImage": null,
+      "tags": [
+        "Sound-Beam Formation",
+        "Focusing and Control",
+        "Beam Geometry"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch09-q032",
+      "stem": "Increasing curvature of a converging acoustic lens generally moves focus where?",
+      "image": null,
+      "options": [
+        "Shallower",
+        "It never changes",
+        "Deeper",
+        "To infinity"
+      ],
+      "answer": 0,
+      "explanation": "Greater curvature produces stronger convergence in the lecture model.\n\n**Distractor rationales:**\n- **B:** Lens geometry determines focus.\n- **C:** This is the opposite trend.\n- **D:** That would imply negligible convergence.",
+      "explanationImage": null,
+      "tags": [
+        "Sound-Beam Formation",
+        "Focusing and Control",
+        "Beam Geometry"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch09-q033",
+      "stem": "A conventional 1D probe uses a lens primarily to control which otherwise unadjustable dimension?",
+      "image": null,
+      "options": [
+        "Lateral steering",
+        "Time",
+        "Axial",
+        "Elevation"
+      ],
+      "answer": 3,
+      "explanation": "A fixed lens can narrow the slice thickness.\n\n**Distractor rationales:**\n- **A:** Electronic phasing can steer within the imaging plane.\n- **B:** Frame rate governs temporal resolution.\n- **C:** Pulse length governs axial resolution.",
+      "explanationImage": null,
+      "tags": [
+        "Sound-Beam Formation",
+        "Focusing and Control",
+        "Beam Geometry"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch09-q034",
+      "stem": "What describes a Hanafy-style plano-concave element?",
+      "image": null,
+      "options": [
+        "Independent 2D matrix",
+        "Thick centre and thin edges",
+        "Thin centre and thicker edges",
+        "Motor-driven ring"
+      ],
+      "answer": 2,
+      "explanation": "The sculpted crystal provides fixed elevational focusing.\n\n**Distractor rationales:**\n- **A:** It is a curved element design, not a matrix.\n- **B:** This reverses the described geometry.\n- **D:** This describes a different transducer design.",
+      "explanationImage": null,
+      "tags": [
+        "Sound-Beam Formation",
+        "Focusing and Control",
+        "Beam Geometry"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch09-q035",
+      "stem": "How is adjustable transmit focusing achieved in an array?",
+      "image": null,
+      "options": [
+        "Changing monitor brightness",
+        "Increasing all voltages equally",
+        "Timed excitation of elements",
+        "Moving the patient alone"
+      ],
+      "answer": 2,
+      "explanation": "Delays make wavelets converge at the chosen depth.\n\n**Distractor rationales:**\n- **A:** This changes display only.\n- **B:** This changes output, not the delay pattern.\n- **D:** This does not electronically focus the beam.",
+      "explanationImage": null,
+      "tags": [
+        "Sound-Beam Formation",
+        "Focusing and Control",
+        "Beam Geometry"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch09-q036",
+      "stem": "For a centred transmit focus, which elements fire first?",
+      "image": null,
+      "options": [
+        "All simultaneously",
+        "Outer elements",
+        "Central elements",
+        "Random elements"
+      ],
+      "answer": 1,
+      "explanation": "Their paths to the focal point are longer, so they must start earlier.\n\n**Distractor rationales:**\n- **A:** Without focusing delays this produces an uncurved initial wavefront.\n- **C:** Their paths are shorter and require later firing.\n- **D:** Random timing prevents coherent convergence.",
+      "explanationImage": null,
+      "tags": [
+        "Sound-Beam Formation",
+        "Focusing and Control",
+        "Beam Geometry"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch09-q037",
+      "stem": "Which statement about an unfocused beam is true?",
+      "image": null,
+      "options": [
+        "It still has natural narrowing",
+        "It has zero diffraction",
+        "It has no far field",
+        "It never narrows"
+      ],
+      "answer": 0,
+      "explanation": "Interference creates a natural focal region even without an added lens.\n\n**Distractor rationales:**\n- **B:** Finite apertures diffract.\n- **C:** It diverges beyond the near field.\n- **D:** Natural focusing occurs.",
+      "explanationImage": null,
+      "tags": [
+        "Sound-Beam Formation",
+        "Focusing and Control",
+        "Beam Geometry"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch09-q038",
+      "stem": "A cyst at the focus is sharply defined, but deeper borders are blurred. What explains this?",
+      "image": null,
+      "options": [
+        "Improved axial resolution alone",
+        "Postfocal divergence",
+        "Higher frame rate",
+        "Uniform beam width"
+      ],
+      "answer": 1,
+      "explanation": "The beam widens beyond its waist, reducing lateral detail.\n\n**Distractor rationales:**\n- **A:** This does not explain lateral deterioration.\n- **C:** Temporal sampling is a different property.\n- **D:** This cannot explain depth-dependent blur.",
+      "explanationImage": null,
+      "tags": [
+        "Sound-Beam Formation",
+        "Focusing and Control",
+        "Beam Geometry"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch09-q039",
+      "stem": "Which change improves lateral resolution at a selected depth without necessarily changing pulse length?",
+      "image": null,
+      "options": [
+        "Higher display brightness",
+        "Longer pulse duration",
+        "Wider slice thickness",
+        "Electronic focusing"
+      ],
+      "answer": 3,
+      "explanation": "It narrows the beam at the selected depth.\n\n**Distractor rationales:**\n- **A:** It does not physically narrow the beam.\n- **B:** This worsens axial resolution.\n- **C:** It worsens elevational resolution.",
+      "explanationImage": null,
+      "tags": [
+        "Sound-Beam Formation",
+        "Focusing and Control",
+        "Beam Geometry"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch09-q040",
+      "stem": "Two targets lie along the same beam at different depths. Which resolution primarily separates them?",
+      "image": null,
+      "options": [
+        "Lateral",
+        "Temporal",
+        "Elevational",
+        "Axial"
+      ],
+      "answer": 3,
+      "explanation": "Separation along propagation depends primarily on spatial pulse length.\n\n**Distractor rationales:**\n- **A:** This separates targets side by side.\n- **B:** This describes motion sampling.\n- **C:** This separates out-of-plane targets.",
+      "explanationImage": null,
+      "tags": [
+        "Sound-Beam Formation",
+        "Focusing and Control",
+        "Beam Geometry"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch09-q041",
+      "stem": "What does A-mode display?",
+      "image": null,
+      "options": [
+        "A rectangular grayscale frame",
+        "Colour flow map",
+        "Echo amplitude as spikes versus depth",
+        "A real-time 3D volume"
+      ],
+      "answer": 2,
+      "explanation": "Spike height represents echo amplitude along one line.\n\n**Distractor rationales:**\n- **A:** This is a B-mode image format.\n- **B:** This is a Doppler display.\n- **D:** A-mode is one-dimensional.",
+      "explanationImage": null,
+      "tags": [
+        "Sound-Beam Formation",
+        "Focusing and Control",
+        "Beam Geometry"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch09-q042",
+      "stem": "How did static B-scanning obtain its lateral dimension?",
+      "image": null,
+      "options": [
+        "Manual probe sweeping",
+        "Electronic matrix steering",
+        "Changing crystal thickness",
+        "Continuous wave Doppler"
+      ],
+      "answer": 0,
+      "explanation": "Successive manually acquired lines formed a 2D image.\n\n**Distractor rationales:**\n- **B:** This was not the static B-scan method.\n- **C:** This changes frequency rather than scan position.\n- **D:** This measures motion rather than building the static image.",
+      "explanationImage": null,
+      "tags": [
+        "Sound-Beam Formation",
+        "Focusing and Control",
+        "Beam Geometry"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch09-q043",
+      "stem": "Why was static B-scanning vulnerable to motion artifacts?",
+      "image": null,
+      "options": [
+        "No echoes were received",
+        "All lines were acquired simultaneously",
+        "Slow sequential manual acquisition",
+        "Excessively fast frame rate"
+      ],
+      "answer": 2,
+      "explanation": "Anatomy could move between collected lines.\n\n**Distractor rationales:**\n- **A:** Echoes were essential to image formation.\n- **B:** They were collected sequentially.\n- **D:** Static scanning was slow.",
+      "explanationImage": null,
+      "tags": [
+        "Sound-Beam Formation",
+        "Focusing and Control",
+        "Beam Geometry"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch09-q044",
+      "stem": "What distinguishes a mechanical sector scanner?",
+      "image": null,
+      "options": [
+        "Only electronic steering",
+        "Motor physically moves the element",
+        "No moving components",
+        "Fixed parallel lines only"
+      ],
+      "answer": 1,
+      "explanation": "Movement sweeps the beam through the sector.\n\n**Distractor rationales:**\n- **A:** This describes a phased array.\n- **C:** Mechanical scanners have moving parts.\n- **D:** Mechanical sector lines sweep angularly.",
+      "explanationImage": null,
+      "tags": [
+        "Sound-Beam Formation",
+        "Focusing and Control",
+        "Beam Geometry"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch09-q045",
+      "stem": "Why was fluid used inside a mechanical probe dome?",
+      "image": null,
+      "options": [
+        "To electronically steer the beam",
+        "To maintain acoustic coupling",
+        "To create Doppler shifts",
+        "To increase air reflection"
+      ],
+      "answer": 1,
+      "explanation": "Fluid avoids a poorly transmitting air gap around the moving crystal.\n\n**Distractor rationales:**\n- **A:** The motor provides steering.\n- **C:** Coupling fluid is not used for this purpose.\n- **D:** Air reflection is undesirable.",
+      "explanationImage": null,
+      "tags": [
+        "Sound-Beam Formation",
+        "Focusing and Control",
+        "Beam Geometry"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch09-q046",
+      "stem": "Which design uses concentric ring elements?",
+      "image": null,
+      "options": [
+        "Matrix array",
+        "Linear sequenced array",
+        "Annular array",
+        "Convex array"
+      ],
+      "answer": 2,
+      "explanation": "The circular crystal is divided into rings.\n\n**Distractor rationales:**\n- **A:** Elements form rows and columns.\n- **B:** Elements are arranged in a straight row.\n- **D:** Elements follow a curved row.",
+      "explanationImage": null,
+      "tags": [
+        "Sound-Beam Formation",
+        "Focusing and Control",
+        "Beam Geometry"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch09-q047",
+      "stem": "Activating additional outer rings of an annular array increases what?",
+      "image": null,
+      "options": [
+        "Only lateral width",
+        "Crystal thickness",
+        "Effective aperture in both lateral and elevational directions",
+        "Only axial pulse length"
+      ],
+      "answer": 2,
+      "explanation": "The circular active diameter expands in both planes.\n\n**Distractor rationales:**\n- **A:** Circular symmetry affects both transverse dimensions.\n- **B:** Activation does not change physical thickness.\n- **D:** Ring activation primarily changes aperture.",
+      "explanationImage": null,
+      "tags": [
+        "Sound-Beam Formation",
+        "Focusing and Control",
+        "Beam Geometry"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch09-q048",
+      "stem": "Which is an advantage of a mechanical annular array over a simple fixed-focus element?",
+      "image": null,
+      "options": [
+        "Unlimited frame rate",
+        "Variable focusing in both transverse planes",
+        "No moving parts",
+        "No off-axis artifacts"
+      ],
+      "answer": 1,
+      "explanation": "Ring selection and timing permit focus control in lateral and elevation.\n\n**Distractor rationales:**\n- **A:** Mechanical motion limits temporal resolution.\n- **C:** Mechanical sweeping still requires motion.\n- **D:** Unwanted lobes may still occur.",
+      "explanationImage": null,
+      "tags": [
+        "Sound-Beam Formation",
+        "Focusing and Control",
+        "Beam Geometry"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch09-q049",
+      "stem": "What are kerfs?",
+      "image": null,
+      "options": [
+        "Electrical delays",
+        "Small gaps separating array elements",
+        "Scan lines",
+        "Acoustic lenses"
+      ],
+      "answer": 1,
+      "explanation": "Dicing creates gaps between individually controlled elements.\n\n**Distractor rationales:**\n- **A:** Delays control timing.\n- **C:** These are acoustic sampling paths.\n- **D:** Lenses provide focusing.",
+      "explanationImage": null,
+      "tags": [
+        "Sound-Beam Formation",
+        "Focusing and Control",
+        "Beam Geometry"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch09-q050",
+      "stem": "What limits a conventional 1D array?",
+      "image": null,
+      "options": [
+        "No 2D imaging",
+        "No independent element activation",
+        "No lateral focusing",
+        "No independent electronic elevational steering"
+      ],
+      "answer": 3,
+      "explanation": "One row permits in-plane control but not independent out-of-plane steering.\n\n**Distractor rationales:**\n- **A:** A 1D array can generate a 2D image.\n- **B:** Elements can be individually controlled.\n- **C:** In-plane electronic focusing is available.",
+      "explanationImage": null,
+      "tags": [
+        "Sound-Beam Formation",
+        "Focusing and Control",
+        "Beam Geometry"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch09-q051",
+      "stem": "Which array has several elevational rows but limited out-of-plane steering?",
+      "image": null,
+      "options": [
+        "Fully sampled 2D matrix",
+        "Conventional 1D array",
+        "Single disc",
+        "1.5D array"
+      ],
+      "answer": 3,
+      "explanation": "Additional rows improve elevational control without full matrix steering.\n\n**Distractor rationales:**\n- **A:** It supports more complete two-dimensional control.\n- **B:** It has one row.\n- **C:** It has no rows.",
+      "explanationImage": null,
+      "tags": [
+        "Sound-Beam Formation",
+        "Focusing and Control",
+        "Beam Geometry"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch09-q052",
+      "stem": "Which array supports electronic volumetric imaging without mechanically sweeping the probe?",
+      "image": null,
+      "options": [
+        "Conventional 1D linear array",
+        "Single disc",
+        "Mechanical sector element",
+        "2D matrix"
+      ],
+      "answer": 3,
+      "explanation": "Rows and columns permit steering in two dimensions.\n\n**Distractor rationales:**\n- **A:** It lacks independent elevational steering.\n- **B:** It cannot electronically sweep a volume.\n- **C:** It requires physical motion.",
+      "explanationImage": null,
+      "tags": [
+        "Sound-Beam Formation",
+        "Focusing and Control",
+        "Beam Geometry"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch09-q053",
+      "stem": "A probe contains thousands of tiny elements in rows and columns. What is it?",
+      "image": null,
+      "options": [
+        "Matrix array",
+        "Annular array",
+        "Linear sequenced 1D array",
+        "Single element"
+      ],
+      "answer": 0,
+      "explanation": "The two-dimensional element grid supports volumetric imaging.\n\n**Distractor rationales:**\n- **B:** Its elements are concentric rings.\n- **C:** It has a single row.\n- **D:** It has only one active element.",
+      "explanationImage": null,
+      "tags": [
+        "Sound-Beam Formation",
+        "Focusing and Control",
+        "Beam Geometry"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch09-q054",
+      "stem": "Which probe is best suited to a narrow intercostal cardiac window?",
+      "image": null,
+      "options": [
+        "Large convex abdominal array",
+        "Phased sector array",
+        "Wide linear sequenced array",
+        "Static B-scanner"
+      ],
+      "answer": 1,
+      "explanation": "Its small footprint and angular sector provide access between ribs.\n\n**Distractor rationales:**\n- **A:** Its footprint may be difficult to fit between ribs.\n- **C:** Its broad footprint is less suited to narrow windows.\n- **D:** It is not appropriate for real-time cardiac motion.",
+      "explanationImage": null,
+      "tags": [
+        "Sound-Beam Formation",
+        "Focusing and Control",
+        "Beam Geometry"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch09-q055",
+      "stem": "Which probe typically provides a broad rectangular view of superficial tendons?",
+      "image": null,
+      "options": [
+        "Annular mechanical array",
+        "Linear sequenced array",
+        "Phased sector array",
+        "Pencil CW probe"
+      ],
+      "answer": 1,
+      "explanation": "Parallel lines and a straight footprint suit superficial structures.\n\n**Distractor rationales:**\n- **A:** It produces a mechanically swept sector.\n- **C:** Its sector is narrow near the face.\n- **D:** It does not produce a conventional 2D image.",
+      "explanationImage": null,
+      "tags": [
+        "Sound-Beam Formation",
+        "Focusing and Control",
+        "Beam Geometry"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch09-q056",
+      "stem": "What is sequencing?",
+      "image": null,
+      "options": [
+        "Moving a mechanical motor",
+        "Activating small groups in order",
+        "Changing all receive gains",
+        "Firing random elements"
+      ],
+      "answer": 1,
+      "explanation": "Successive groups generate successive scan lines.\n\n**Distractor rationales:**\n- **A:** Sequencing is electronic group selection.\n- **C:** Gain is amplitude control.\n- **D:** Random excitation is not ordered sequencing.",
+      "explanationImage": null,
+      "tags": [
+        "Sound-Beam Formation",
+        "Focusing and Control",
+        "Beam Geometry"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch09-q057",
+      "stem": "What is phasing?",
+      "image": null,
+      "options": [
+        "Applying small relative timing delays",
+        "Selecting display brightness",
+        "Changing the lens curvature",
+        "Using only one fixed element"
+      ],
+      "answer": 0,
+      "explanation": "Coherent delays control beam direction and focus.\n\n**Distractor rationales:**\n- **B:** Brightness does not control wavefront shape.\n- **C:** This is mechanical focusing.\n- **D:** Phasing requires multiple contributors.",
+      "explanationImage": null,
+      "tags": [
+        "Sound-Beam Formation",
+        "Focusing and Control",
+        "Beam Geometry"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch09-q058",
+      "stem": "A phased sector array typically uses how many elements per scan line?",
+      "image": null,
+      "options": [
+        "Exactly one",
+        "Most or all available elements",
+        "Only one small translated group always",
+        "No active elements"
+      ],
+      "answer": 1,
+      "explanation": "Many elements contribute coherently to a steered line.\n\n**Distractor rationales:**\n- **A:** A single element cannot implement array phasing.\n- **C:** This describes conventional sequencing.\n- **D:** Transmission requires active elements.",
+      "explanationImage": null,
+      "tags": [
+        "Sound-Beam Formation",
+        "Focusing and Control",
+        "Beam Geometry"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch09-q059",
+      "stem": "With no steering or focusing delays, simultaneous excitation of a flat array directs the beam where?",
+      "image": null,
+      "options": [
+        "Back toward the cable",
+        "Always left",
+        "Always right",
+        "Straight ahead"
+      ],
+      "answer": 3,
+      "explanation": "A symmetric initial wavefront propagates normal to the face.\n\n**Distractor rationales:**\n- **A:** This is not the intended forward beam direction.\n- **B:** A lateral delay gradient is required.\n- **C:** A lateral delay gradient is required.",
+      "explanationImage": null,
+      "tags": [
+        "Sound-Beam Formation",
+        "Focusing and Control",
+        "Beam Geometry"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch09-q060",
+      "stem": "What produces an oblique beam in a flat array?",
+      "image": null,
+      "options": [
+        "Equal excitation times alone",
+        "Uniform gain increase",
+        "Increasing display depth",
+        "Progressive timing delays"
+      ],
+      "answer": 3,
+      "explanation": "A delay gradient tilts the wavefront and changes propagation direction.\n\n**Distractor rationales:**\n- **A:** These produce a straight beam in the ideal symmetric case.\n- **B:** This changes amplitude, not direction.\n- **C:** This does not steer the beam.",
+      "explanationImage": null,
+      "tags": [
+        "Sound-Beam Formation",
+        "Focusing and Control",
+        "Beam Geometry"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch09-q061",
+      "stem": "If the steering delay gradient is reversed, what happens?",
+      "image": null,
+      "options": [
+        "Frequency doubles",
+        "Beam stops propagating",
+        "Slice thickness becomes zero",
+        "Steering direction reverses"
+      ],
+      "answer": 3,
+      "explanation": "The wavefront tilt changes sign.\n\n**Distractor rationales:**\n- **A:** Timing gradient does not determine resonant frequency.\n- **B:** A reversed gradient still produces a beam.\n- **C:** Steering cannot eliminate slice thickness.",
+      "explanationImage": null,
+      "tags": [
+        "Sound-Beam Formation",
+        "Focusing and Control",
+        "Beam Geometry"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch09-q062",
+      "stem": "How is a phased sector image assembled?",
+      "image": null,
+      "options": [
+        "One pulse with no directional sampling",
+        "Sequential beams at different angles",
+        "Parallel lines from a straight translated aperture only",
+        "Changing gain repeatedly"
+      ],
+      "answer": 1,
+      "explanation": "Angular scan lines fill the sector.\n\n**Distractor rationales:**\n- **A:** A conventional sector requires multiple lines.\n- **C:** This forms a rectangular image.\n- **D:** Gain does not create angular sampling.",
+      "explanationImage": null,
+      "tags": [
+        "Sound-Beam Formation",
+        "Focusing and Control",
+        "Beam Geometry"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch09-q063",
+      "stem": "What distinguishes focusing delays from steering delays?",
+      "image": null,
+      "options": [
+        "Focusing delays only increase brightness",
+        "Focusing delays create convergence",
+        "Steering delays only change frequency",
+        "Neither affects wavefront shape"
+      ],
+      "answer": 1,
+      "explanation": "They compensate path lengths to a selected point; steering delays tilt the wavefront.\n\n**Distractor rationales:**\n- **A:** They alter beam geometry.\n- **C:** They alter direction.\n- **D:** Both manipulate interference.",
+      "explanationImage": null,
+      "tags": [
+        "Sound-Beam Formation",
+        "Focusing and Control",
+        "Beam Geometry"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch09-q064",
+      "stem": "A linear array is used for carotid imaging. What creates its usual rectangular B-mode format?",
+      "image": null,
+      "options": [
+        "Mechanical rotation only",
+        "Sequential parallel scan lines",
+        "Concentric ring activation",
+        "All lines diverge from a single apex"
+      ],
+      "answer": 1,
+      "explanation": "Groups move along the straight array.\n\n**Distractor rationales:**\n- **A:** A modern linear array uses electronic scanning.\n- **C:** This is annular architecture.\n- **D:** This describes sector imaging.",
+      "explanationImage": null,
+      "tags": [
+        "Sound-Beam Formation",
+        "Focusing and Control",
+        "Beam Geometry"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch09-q065",
+      "stem": "How is a trapezoidal image obtained with a linear array?",
+      "image": null,
+      "options": [
+        "Decrease aperture to zero",
+        "Increase gain at the edges",
+        "Steer outer beams outward",
+        "Reduce all line angles to zero"
+      ],
+      "answer": 2,
+      "explanation": "Oblique edge lines extend the field of view.\n\n**Distractor rationales:**\n- **A:** No useful beam would be transmitted.\n- **B:** Brightness cannot extend physical sampling.\n- **D:** This preserves a rectangle.",
+      "explanationImage": null,
+      "tags": [
+        "Sound-Beam Formation",
+        "Focusing and Control",
+        "Beam Geometry"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch09-q066",
+      "stem": "A sonographer steers a colour box while grayscale lines remain parallel. Which processes are used for the colour lines?",
+      "image": null,
+      "options": [
+        "Sequencing plus phasing",
+        "Mechanical lens rotation",
+        "Sequencing alone",
+        "Gain alone"
+      ],
+      "answer": 0,
+      "explanation": "Group selection positions lines and timing delays steer them.\n\n**Distractor rationales:**\n- **B:** This is not required for electronic colour steering.\n- **C:** Group translation alone does not produce oblique lines.\n- **D:** Gain changes signal amplitude.",
+      "explanationImage": null,
+      "tags": [
+        "Sound-Beam Formation",
+        "Focusing and Control",
+        "Beam Geometry"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch09-q067",
+      "stem": "Which probe geometry produces diverging lines through sequential activation on a curved face?",
+      "image": null,
+      "options": [
+        "Single stationary disc",
+        "Straight unsteered linear array",
+        "Convex sequenced array",
+        "A-mode display"
+      ],
+      "answer": 2,
+      "explanation": "Local element groups face different directions along the curved surface.\n\n**Distractor rationales:**\n- **A:** It provides one direction.\n- **B:** Its lines are parallel.\n- **D:** A-mode does not define a curved scan geometry.",
+      "explanationImage": null,
+      "tags": [
+        "Sound-Beam Formation",
+        "Focusing and Control",
+        "Beam Geometry"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch09-q068",
+      "stem": "Which array is commonly chosen for a broad abdominal survey?",
+      "image": null,
+      "options": [
+        "Single A-mode element",
+        "High-frequency narrow pencil probe",
+        "Convex array",
+        "Static B-scan"
+      ],
+      "answer": 2,
+      "explanation": "Its curved footprint provides a widening deep field of view.\n\n**Distractor rationales:**\n- **A:** It provides only one line.\n- **B:** It lacks conventional anatomical imaging.\n- **D:** It is not modern real-time scanning.",
+      "explanationImage": null,
+      "tags": [
+        "Sound-Beam Formation",
+        "Focusing and Control",
+        "Beam Geometry"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch09-q069",
+      "stem": "What is the main benefit of vector format on a linear probe?",
+      "image": null,
+      "options": [
+        "Wider field of view",
+        "Elimination of all artifacts",
+        "Zero acquisition time",
+        "Higher intrinsic pulse frequency"
+      ],
+      "answer": 0,
+      "explanation": "Outward steering adds coverage beyond the rectangular edges.\n\n**Distractor rationales:**\n- **B:** Artifacts may persist.\n- **C:** Additional angular sampling still requires acquisition.\n- **D:** Steering does not change crystal resonance.",
+      "explanationImage": null,
+      "tags": [
+        "Sound-Beam Formation",
+        "Focusing and Control",
+        "Beam Geometry"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch09-q070",
+      "stem": "A phased sector probe has fixed elevation focus. How can a volume be acquired with this conventional 1D design?",
+      "image": null,
+      "options": [
+        "Manual or mechanical elevational sweep",
+        "Increasing gain",
+        "In-plane steering alone",
+        "Changing focal marker only"
+      ],
+      "answer": 0,
+      "explanation": "Multiple planes can be collected by moving the probe or element.\n\n**Distractor rationales:**\n- **B:** This cannot create spatial samples.\n- **C:** This cannot sample independent elevational planes.\n- **D:** This changes in-plane focus, not volume coverage.",
+      "explanationImage": null,
+      "tags": [
+        "Sound-Beam Formation",
+        "Focusing and Control",
+        "Beam Geometry"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch09-q071",
+      "stem": "What is spatial compounding?",
+      "image": null,
+      "options": [
+        "Changing frequency only",
+        "Increasing gain on one frame",
+        "Combining images acquired from different steering angles",
+        "Displaying a single A-mode line"
+      ],
+      "answer": 2,
+      "explanation": "Averaging multiple views produces a composite image.\n\n**Distractor rationales:**\n- **A:** Frequency change alone is not spatial compounding.\n- **B:** This does not combine angular views.\n- **D:** This lacks multiple images.",
+      "explanationImage": null,
+      "tags": [
+        "Sound-Beam Formation",
+        "Focusing and Control",
+        "Beam Geometry"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch09-q072",
+      "stem": "How many angular images does the lecture describe for spatial compounding?",
+      "image": null,
+      "options": [
+        "Exactly two hundred",
+        "Three to nine",
+        "Exactly one",
+        "Zero"
+      ],
+      "answer": 1,
+      "explanation": "The lecture gives this typical range for the composite.\n\n**Distractor rationales:**\n- **A:** This is not the lecture range.\n- **C:** One view cannot provide angular averaging.\n- **D:** Images are necessary for compounding.",
+      "explanationImage": null,
+      "tags": [
+        "Sound-Beam Formation",
+        "Focusing and Control",
+        "Beam Geometry"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch09-q073",
+      "stem": "Which artifact may be reduced by spatial compounding?",
+      "image": null,
+      "options": [
+        "All artifacts without exception",
+        "Doppler aliasing necessarily",
+        "Angle-dependent reverberation",
+        "Every true anatomical echo"
+      ],
+      "answer": 2,
+      "explanation": "Different views can reduce inconsistent specular artifacts when averaged.\n\n**Distractor rationales:**\n- **A:** Compounding does not guarantee elimination.\n- **B:** Angular averaging is not the direct correction for aliasing.\n- **D:** Preserving anatomy is the goal.",
+      "explanationImage": null,
+      "tags": [
+        "Sound-Beam Formation",
+        "Focusing and Control",
+        "Beam Geometry"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch09-q074",
+      "stem": "What is a common cost of spatial compounding?",
+      "image": null,
+      "options": [
+        "Increased crystal thickness",
+        "No image formation",
+        "Reduced temporal resolution",
+        "Loss of all lateral resolution"
+      ],
+      "answer": 2,
+      "explanation": "Multiple angular acquisitions take time before a composite is formed.\n\n**Distractor rationales:**\n- **A:** Processing does not change probe construction.\n- **B:** A composite image is produced.\n- **D:** Compounding can improve image detail.",
+      "explanationImage": null,
+      "tags": [
+        "Sound-Beam Formation",
+        "Focusing and Control",
+        "Beam Geometry"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch09-q075",
+      "stem": "A rapidly moving structure appears less crisp after compounding is enabled. Why?",
+      "image": null,
+      "options": [
+        "Reduced effective frame rate",
+        "Shorter wavelength necessarily",
+        "A fixed acoustic lens breaks",
+        "The image becomes A-mode"
+      ],
+      "answer": 0,
+      "explanation": "Motion can occur between the angular acquisitions.\n\n**Distractor rationales:**\n- **B:** Compounding is not inherently a frequency change.\n- **C:** This is not implied by enabling compounding.\n- **D:** Compounding retains image format.",
+      "explanationImage": null,
+      "tags": [
+        "Sound-Beam Formation",
+        "Focusing and Control",
+        "Beam Geometry"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch09-q076",
+      "stem": "What is an active aperture?",
+      "image": null,
+      "options": [
+        "Entire monitor width",
+        "Width of elements participating in transmission or reception",
+        "Crystal thickness",
+        "Distance to the lesion"
+      ],
+      "answer": 1,
+      "explanation": "It is the effective acoustic opening, not necessarily the whole probe.\n\n**Distractor rationales:**\n- **A:** This is a display dimension.\n- **C:** This determines resonance rather than active width.\n- **D:** This is target depth.",
+      "explanationImage": null,
+      "tags": [
+        "Sound-Beam Formation",
+        "Focusing and Control",
+        "Beam Geometry"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch09-q077",
+      "stem": "How does variable aperture typically change with depth?",
+      "image": null,
+      "options": [
+        "All elements must always be active",
+        "Only crystal thickness changes",
+        "Fewer elements are used at greater depths",
+        "More elements are used at greater depths"
+      ],
+      "answer": 3,
+      "explanation": "A wider aperture helps limit divergence and maintain lateral detail.\n\n**Distractor rationales:**\n- **A:** The aperture can vary.\n- **B:** Physical thickness remains fixed.\n- **C:** This would generally increase diffraction.",
+      "explanationImage": null,
+      "tags": [
+        "Sound-Beam Formation",
+        "Focusing and Control",
+        "Beam Geometry"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch09-q078",
+      "stem": "Why use a larger aperture for deep targets?",
+      "image": null,
+      "options": [
+        "To increase attenuation deliberately",
+        "To reduce beam divergence",
+        "To change sound speed",
+        "To increase slice thickness necessarily"
+      ],
+      "answer": 1,
+      "explanation": "Increasing active width relative to wavelength improves beam confinement.\n\n**Distractor rationales:**\n- **A:** Aperture is not the principal attenuation control.\n- **C:** Sound speed is determined by the medium.\n- **D:** In-plane aperture control need not alter elevation.",
+      "explanationImage": null,
+      "tags": [
+        "Sound-Beam Formation",
+        "Focusing and Control",
+        "Beam Geometry"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch09-q079",
+      "stem": "Which parameter is directly changed by activating additional adjacent array elements?",
+      "image": null,
+      "options": [
+        "Display grayscale map",
+        "Tissue propagation speed",
+        "Crystal material",
+        "Active aperture width"
+      ],
+      "answer": 3,
+      "explanation": "More participating elements expand the effective opening.\n\n**Distractor rationales:**\n- **A:** This is separate processing.\n- **B:** The medium determines speed.\n- **C:** Activation does not alter composition.",
+      "explanationImage": null,
+      "tags": [
+        "Sound-Beam Formation",
+        "Focusing and Control",
+        "Beam Geometry"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch09-q080",
+      "stem": "What benefit does angular averaging provide in spatial compounding?",
+      "image": null,
+      "options": [
+        "Improved signal-to-noise ratio",
+        "Independent elevation steering in every 1D probe",
+        "Zero attenuation",
+        "Guaranteed higher frame rate"
+      ],
+      "answer": 0,
+      "explanation": "Consistent anatomy is reinforced relative to angle-dependent noise and artifacts.\n\n**Distractor rationales:**\n- **B:** Compounding does not change array architecture.\n- **C:** Averaging cannot eliminate propagation loss.\n- **D:** Multiple views commonly reduce frame rate.",
+      "explanationImage": null,
+      "tags": [
+        "Sound-Beam Formation",
+        "Focusing and Control",
+        "Beam Geometry"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch09-q081",
+      "stem": "Which unwanted beam is classically associated with periodic array element spacing?",
+      "image": null,
+      "options": [
+        "Main lobe",
+        "Grating lobe",
+        "Focal zone",
+        "Axial pulse"
+      ],
+      "answer": 1,
+      "explanation": "Periodic spacing permits additional directions of constructive interference.\n\n**Distractor rationales:**\n- **A:** This is the intended beam.\n- **C:** This is the region of narrow beam width.\n- **D:** This describes the transmitted pulse, not an off-axis lobe.",
+      "explanationImage": null,
+      "tags": [
+        "Sound-Beam Formation",
+        "Focusing and Control",
+        "Beam Geometry"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch09-q082",
+      "stem": "What is a side lobe?",
+      "image": null,
+      "options": [
+        "A display gain setting",
+        "A second crystal thickness",
+        "The main beam axis",
+        "Unwanted off-axis acoustic energy"
+      ],
+      "answer": 3,
+      "explanation": "Finite apertures produce secondary intensity maxima; side lobes can also occur in arrays.\n\n**Distractor rationales:**\n- **A:** Gain is not an acoustic lobe.\n- **B:** This is not a beam component.\n- **C:** This is the intended propagation direction.",
+      "explanationImage": null,
+      "tags": [
+        "Sound-Beam Formation",
+        "Focusing and Control",
+        "Beam Geometry"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch09-q083",
+      "stem": "Why can grating lobes create false echoes inside a cyst?",
+      "image": null,
+      "options": [
+        "Fluid always generates strong echoes",
+        "Sound speed becomes zero in fluid",
+        "Off-axis echoes are assigned to the main scan line",
+        "The cyst necessarily contains solid tissue"
+      ],
+      "answer": 2,
+      "explanation": "The system assumes echoes originate along the intended beam.\n\n**Distractor rationales:**\n- **A:** Simple fluid is normally anechoic.\n- **B:** Ultrasound propagates through fluid.\n- **D:** Artifacts can mimic internal material.",
+      "explanationImage": null,
+      "tags": [
+        "Sound-Beam Formation",
+        "Focusing and Control",
+        "Beam Geometry"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch09-q084",
+      "stem": "What is apodization?",
+      "image": null,
+      "options": [
+        "Increasing all voltages equally",
+        "Changing the speed of sound",
+        "Applying identical timing delays only",
+        "Varying element excitation amplitude across the aperture"
+      ],
+      "answer": 3,
+      "explanation": "Central elements receive stronger weighting than peripheral elements to suppress unwanted lobes.\n\n**Distractor rationales:**\n- **A:** Uniform scaling does not provide tapering.\n- **B:** This is not under beamformer amplitude control.\n- **C:** Timing is phasing, not amplitude weighting.",
+      "explanationImage": null,
+      "tags": [
+        "Sound-Beam Formation",
+        "Focusing and Control",
+        "Beam Geometry"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch09-q085",
+      "stem": "Which element weighting pattern matches the lecture’s apodization example?",
+      "image": null,
+      "options": [
+        "Random weights only",
+        "Weak centre and strongest edges",
+        "Equal weights everywhere",
+        "Strong centre and weaker edges"
+      ],
+      "answer": 3,
+      "explanation": "Tapering reduces unwanted off-axis energy.\n\n**Distractor rationales:**\n- **A:** Random weighting is not the specified controlled taper.\n- **B:** This reverses the described taper.\n- **C:** This is uniform excitation.",
+      "explanationImage": null,
+      "tags": [
+        "Sound-Beam Formation",
+        "Focusing and Control",
+        "Beam Geometry"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch09-q086",
+      "stem": "Which manufacturing technique helps reduce grating lobes?",
+      "image": null,
+      "options": [
+        "Increasing element spacing deliberately",
+        "Subdicing",
+        "Increasing display gain",
+        "Adding an air gap"
+      ],
+      "answer": 1,
+      "explanation": "Smaller effective element subdivisions help control unwanted array lobes.\n\n**Distractor rationales:**\n- **A:** Larger periodic spacing can promote grating lobes.\n- **C:** Gain cannot remove the acoustic cause.\n- **D:** Air impairs acoustic coupling.",
+      "explanationImage": null,
+      "tags": [
+        "Sound-Beam Formation",
+        "Focusing and Control",
+        "Beam Geometry"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch09-q087",
+      "stem": "Why can tissue harmonic imaging reduce lobe artifacts?",
+      "image": null,
+      "options": [
+        "It eliminates all echoes from tissue",
+        "Weak off-axis beams generate relatively little harmonic energy",
+        "It increases all grating-lobe amplitudes",
+        "It stops all fundamental sound transmission"
+      ],
+      "answer": 1,
+      "explanation": "Harmonic reception preferentially displays signals generated by stronger main-beam propagation.\n\n**Distractor rationales:**\n- **A:** Useful harmonic echoes remain.\n- **C:** This would worsen the problem.\n- **D:** Fundamental transmission is needed to generate tissue harmonics.",
+      "explanationImage": null,
+      "tags": [
+        "Sound-Beam Formation",
+        "Focusing and Control",
+        "Beam Geometry"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch09-q088",
+      "stem": "A strong reflector outside the intended scan line appears within the image. Which mechanism is most consistent?",
+      "image": null,
+      "options": [
+        "Reduced gain alone",
+        "Off-axis lobe reception",
+        "Perfect focusing",
+        "Correct axial ranging alone"
+      ],
+      "answer": 1,
+      "explanation": "Echoes from unintended directions may be misregistered along the main beam.\n\n**Distractor rationales:**\n- **A:** Gain does not create an off-axis propagation path.\n- **C:** Perfect confinement would reduce this mechanism.\n- **D:** Correct travel time does not guarantee correct direction.",
+      "explanationImage": null,
+      "tags": [
+        "Sound-Beam Formation",
+        "Focusing and Control",
+        "Beam Geometry"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch09-q089",
+      "stem": "Which adjustment is most directly intended to suppress unwanted array lobes rather than change focal depth?",
+      "image": null,
+      "options": [
+        "Increasing overall gain",
+        "Increasing display depth",
+        "Moving the focal marker",
+        "Apodization"
+      ],
+      "answer": 3,
+      "explanation": "Amplitude tapering targets off-axis energy.\n\n**Distractor rationales:**\n- **A:** This amplifies echoes including artifacts.\n- **B:** This changes displayed range.\n- **C:** This changes convergence depth.",
+      "explanationImage": null,
+      "tags": [
+        "Sound-Beam Formation",
+        "Focusing and Control",
+        "Beam Geometry"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch09-q090",
+      "stem": "A conventional 1D probe shows apparent debris from tissue outside the imaging plane. Which physical limitation is relevant?",
+      "image": null,
+      "options": [
+        "Short axial pulse length",
+        "High temporal resolution",
+        "Finite elevational slice thickness",
+        "A narrow lateral beam alone"
+      ],
+      "answer": 2,
+      "explanation": "Out-of-plane reflectors may be included in the displayed slice.\n\n**Distractor rationales:**\n- **A:** This improves depth separation.\n- **B:** This improves motion sampling.\n- **D:** In-plane narrowing does not eliminate out-of-plane echoes.",
+      "explanationImage": null,
+      "tags": [
+        "Sound-Beam Formation",
+        "Focusing and Control",
+        "Beam Geometry"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch09-q091",
+      "stem": "Why do echoes from one point reach different array elements at different times?",
+      "image": null,
+      "options": [
+        "Different tissue frequencies are mandatory",
+        "Each element changes tissue sound speed",
+        "All paths are always identical",
+        "Different propagation path lengths"
+      ],
+      "answer": 3,
+      "explanation": "Elements lie at different distances from the reflector.\n\n**Distractor rationales:**\n- **A:** Path differences alone suffice.\n- **B:** Elements do not change the medium’s speed.\n- **C:** This is not generally true for a finite aperture.",
+      "explanationImage": null,
+      "tags": [
+        "Sound-Beam Formation",
+        "Focusing and Control",
+        "Beam Geometry"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch09-q092",
+      "stem": "What does dynamic receive focusing do?",
+      "image": null,
+      "options": [
+        "Continuously moves the physical lens",
+        "Changes patient anatomy",
+        "Continuously adjusts receive delays with depth",
+        "Uses only one fixed receive focus"
+      ],
+      "answer": 2,
+      "explanation": "Echoes from each depth are aligned coherently to improve lateral resolution.\n\n**Distractor rationales:**\n- **A:** Electronic delays accomplish focusing.\n- **B:** Beamforming does not alter anatomy.\n- **D:** This is the opposite of dynamic focusing.",
+      "explanationImage": null,
+      "tags": [
+        "Sound-Beam Formation",
+        "Focusing and Control",
+        "Beam Geometry"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch09-q093",
+      "stem": "For an on-axis point reflector, which signals generally arrive first?",
+      "image": null,
+      "options": [
+        "Central element signals",
+        "No signals reach central elements",
+        "Outer element signals",
+        "All signals always simultaneously"
+      ],
+      "answer": 0,
+      "explanation": "Central elements have shorter return paths than outer elements.\n\n**Distractor rationales:**\n- **B:** Central elements participate in reception.\n- **C:** Their paths are longer for a centred target.\n- **D:** Finite aperture causes path differences.",
+      "explanationImage": null,
+      "tags": [
+        "Sound-Beam Formation",
+        "Focusing and Control",
+        "Beam Geometry"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch09-q094",
+      "stem": "How are earlier arriving echoes aligned with later ones during receive beamforming?",
+      "image": null,
+      "options": [
+        "Transmit another pulse for every receive depth",
+        "Increase gain only",
+        "Discard all later signals",
+        "Delay the earlier signals"
+      ],
+      "answer": 3,
+      "explanation": "Timing compensation allows coherent summation.\n\n**Distractor rationales:**\n- **A:** Dynamic receive focusing can operate on echoes from one transmission.\n- **B:** Amplitude amplification does not correct arrival time.\n- **C:** This loses useful aperture information.",
+      "explanationImage": null,
+      "tags": [
+        "Sound-Beam Formation",
+        "Focusing and Control",
+        "Beam Geometry"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch09-q095",
+      "stem": "Who normally performs dynamic receive focusing?",
+      "image": null,
+      "options": [
+        "The ultrasound system automatically",
+        "The acoustic coupling gel",
+        "The sonographer by moving the focus marker for each echo",
+        "The patient manually"
+      ],
+      "answer": 0,
+      "explanation": "The beamformer updates receive delays as echoes return.\n\n**Distractor rationales:**\n- **B:** Gel transmits sound but cannot process timing.\n- **C:** The automatic receive process is distinct from user-selected transmit focus.\n- **D:** Patient movement does not align electronic signals.",
+      "explanationImage": null,
+      "tags": [
+        "Sound-Beam Formation",
+        "Focusing and Control",
+        "Beam Geometry"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch09-q096",
+      "stem": "What is dynamic receive aperture?",
+      "image": null,
+      "options": [
+        "Changing the physical crystal thickness",
+        "Changing active receive width as echo depth increases",
+        "Changing grayscale brightness with depth",
+        "Steering the probe mechanically"
+      ],
+      "answer": 1,
+      "explanation": "More elements are typically recruited for deeper echoes.\n\n**Distractor rationales:**\n- **A:** The probe construction remains unchanged.\n- **C:** That is gain compensation, not aperture.\n- **D:** This does not describe electronic aperture selection.",
+      "explanationImage": null,
+      "tags": [
+        "Sound-Beam Formation",
+        "Focusing and Control",
+        "Beam Geometry"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch09-q097",
+      "stem": "Which pair works together to maintain lateral resolution over depth?",
+      "image": null,
+      "options": [
+        "Dynamic receive focusing and dynamic aperture",
+        "Overall gain and monitor brightness",
+        "Crystal thickness and patient height",
+        "A-mode and CW audio"
+      ],
+      "answer": 0,
+      "explanation": "Delay alignment and depth-dependent aperture jointly control the receive beam.\n\n**Distractor rationales:**\n- **B:** These change appearance rather than beam geometry.\n- **C:** These do not implement dynamic receive beamforming.\n- **D:** These do not provide the described beam control.",
+      "explanationImage": null,
+      "tags": [
+        "Sound-Beam Formation",
+        "Focusing and Control",
+        "Beam Geometry"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch09-q098",
+      "stem": "A renal lesion at several depths requires improved receive detail. Which feature is most useful?",
+      "image": null,
+      "options": [
+        "Dynamic receive focusing",
+        "Increasing gain alone",
+        "Fixed receive focus only",
+        "Disabling all but one element"
+      ],
+      "answer": 0,
+      "explanation": "Depth-dependent delays maintain coherent reception across multiple depths.\n\n**Distractor rationales:**\n- **B:** It does not align echo timing.\n- **C:** It optimizes a limited depth range.\n- **D:** This prevents effective array receive focusing.",
+      "explanationImage": null,
+      "tags": [
+        "Sound-Beam Formation",
+        "Focusing and Control",
+        "Beam Geometry"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch09-q099",
+      "stem": "Which probe technology best improves electronic control of slice thickness in both superficial and deep imaging?",
+      "image": null,
+      "options": [
+        "Pencil CW probe",
+        "Conventional 1D array with fixed lens",
+        "Single flat disc",
+        "2D matrix array"
+      ],
+      "answer": 3,
+      "explanation": "Independent control in rows and columns permits elevational focusing as well as lateral focusing.\n\n**Distractor rationales:**\n- **A:** It does not provide the required spatial beam control.\n- **B:** Its elevational focus is not dynamically adjustable.\n- **C:** It lacks independent electronic elements.",
+      "explanationImage": null,
+      "tags": [
+        "Sound-Beam Formation",
+        "Focusing and Control",
+        "Beam Geometry"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch09-q100",
+      "stem": "During abdominal imaging, a deep lesion is poorly penetrated and laterally blurred. Which approach best balances the two problems?",
+      "image": null,
+      "options": [
+        "Move focus far shallower than the lesion",
+        "Increase gain alone",
+        "Use the highest frequency regardless of penetration",
+        "Use a suitable lower frequency for penetration and optimize focus/aperture at the lesion"
+      ],
+      "answer": 3,
+      "explanation": "Lower frequency reduces attenuation; beam control helps compensate for poorer lateral confinement.\n\n**Distractor rationales:**\n- **A:** This leaves the target outside the best focal region.\n- **B:** It cannot restore absent signal or narrow the beam.\n- **C:** Deep echoes may become too weak.",
+      "explanationImage": null,
+      "tags": [
+        "Sound-Beam Formation",
+        "Focusing and Control",
+        "Beam Geometry"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch09-q101",
+      "stem": "What best describes an ultrasound beam?",
+      "image": null,
+      "options": [
+        "A single pulse travelling through tissue",
+        "A three-dimensional region containing acoustic energy",
+        "The distance between two successive pulses",
+        "The electrical signal returning to the receiver"
+      ],
+      "answer": 1,
+      "explanation": "The beam occupies a volume with axial, lateral and elevational dimensions.\n\n**Distractor rationales:**\n- **A:** A pulse is a finite packet of sound; a beam describes its spatial distribution.\n- **C:** Pulse spacing describes separation between emissions, not beam geometry.\n- **D:** A received electrical signal is produced by conversion of acoustic echoes.",
+      "explanationImage": null,
+      "tags": [
+        "Sound-Beam Formation",
+        "Focusing and Control",
+        "Beam Geometry"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch09-q102",
+      "stem": "Which dimension of an ultrasound beam is measured perpendicular to propagation within the imaging plane?",
+      "image": null,
+      "options": [
+        "Spatial pulse length",
+        "Beam width",
+        "Wavelength",
+        "Pulse duration"
+      ],
+      "answer": 1,
+      "explanation": "Beam width is the lateral extent within the imaging plane and determines side-by-side resolution.\n\n**Distractor rationales:**\n- **A:** Spatial pulse length is measured along propagation.\n- **C:** Wavelength is the distance between successive points of equal phase along propagation.\n- **D:** Pulse duration is measured in time, not transverse distance.",
+      "explanationImage": null,
+      "tags": [
+        "Sound-Beam Formation",
+        "Focusing and Control",
+        "Beam Geometry"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch09-q103",
+      "stem": "Why does a narrower ultrasound beam improve lateral resolution?",
+      "image": null,
+      "options": [
+        "It increases pulse repetition frequency",
+        "It reduces attenuation",
+        "It separates reflectors positioned side by side",
+        "It shortens the spatial pulse length"
+      ],
+      "answer": 2,
+      "explanation": "A narrow beam is less likely to insonate both adjacent reflectors simultaneously.\n\n**Distractor rationales:**\n- **A:** PRF describes the number of pulses emitted per second.\n- **B:** Attenuation depends on frequency, medium and path length; narrowing does not inherently reduce it.\n- **D:** Spatial pulse length primarily determines axial resolution.",
+      "explanationImage": null,
+      "tags": [
+        "Sound-Beam Formation",
+        "Focusing and Control",
+        "Beam Geometry"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch09-q104",
+      "stem": "According to Huygens’ principle, how is an ultrasound beam formed?",
+      "image": null,
+      "options": [
+        "Each point on a wavefront produces secondary wavelets",
+        "Each transducer element emits one continuous wave",
+        "Returning echoes create the transmitted beam",
+        "The scan converter narrows the sound pulse"
+      ],
+      "answer": 0,
+      "explanation": "Secondary wavelets combine through constructive and destructive interference to form the wavefront.\n\n**Distractor rationales:**\n- **B:** Huygens’ principle applies to pulsed as well as continuous waves and is not limited to one wave per element.\n- **C:** Returning echoes occur after transmission.\n- **D:** Scan conversion formats acquired data rather than shaping transmitted sound.",
+      "explanationImage": null,
+      "tags": [
+        "Sound-Beam Formation",
+        "Focusing and Control",
+        "Beam Geometry"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch09-q105",
+      "stem": "What occurs when wavelets from different portions of the transducer arrive in phase?",
+      "image": null,
+      "options": [
+        "Destructive interference",
+        "Constructive interference",
+        "Increased attenuation",
+        "Reduced aperture"
+      ],
+      "answer": 1,
+      "explanation": "In-phase pressure amplitudes add, reinforcing the acoustic field.\n\n**Distractor rationales:**\n- **A:** Destructive interference occurs when wavelets oppose each other.\n- **C:** Attenuation describes energy loss during propagation.\n- **D:** Aperture is the active transducer width, not a result of phase alignment.",
+      "explanationImage": null,
+      "tags": [
+        "Sound-Beam Formation",
+        "Focusing and Control",
+        "Beam Geometry"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch09-q106",
+      "stem": "Which region is also called the Fresnel zone?",
+      "image": null,
+      "options": [
+        "Far field",
+        "Focal zone",
+        "Near field",
+        "Dead zone"
+      ],
+      "answer": 2,
+      "explanation": "The Fresnel zone extends from the aperture toward the natural focus in the unfocused model.\n\n**Distractor rationales:**\n- **A:** The far field is the Fraunhofer zone.\n- **B:** The focal zone is the region surrounding the beam waist, not the entire near field.\n- **D:** The dead zone is the superficial region where echoes cannot be adequately resolved.",
+      "explanationImage": null,
+      "tags": [
+        "Sound-Beam Formation",
+        "Focusing and Control",
+        "Beam Geometry"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch09-q107",
+      "stem": "Which region is also called the Fraunhofer zone?",
+      "image": null,
+      "options": [
+        "Near field",
+        "Far field",
+        "Focal zone",
+        "Dead zone"
+      ],
+      "answer": 1,
+      "explanation": "The Fraunhofer zone lies beyond the natural focal region, where the beam diverges.\n\n**Distractor rationales:**\n- **A:** The near field is the Fresnel zone.\n- **C:** The focal zone surrounds the minimum beam width.\n- **D:** The dead zone is a superficial imaging limitation.",
+      "explanationImage": null,
+      "tags": [
+        "Sound-Beam Formation",
+        "Focusing and Control",
+        "Beam Geometry"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch09-q108",
+      "stem": "Where is the beam normally narrowest?",
+      "image": null,
+      "options": [
+        "At the transducer surface",
+        "At the focal region",
+        "At the end of the far field",
+        "At maximum imaging depth"
+      ],
+      "answer": 1,
+      "explanation": "At or near the focus the beam reaches its minimum width, giving the best lateral resolution.\n\n**Distractor rationales:**\n- **A:** The beam at the face is approximately the aperture width.\n- **C:** The beam widens beyond the focus.\n- **D:** Display depth does not determine the physical beam waist.",
+      "explanationImage": null,
+      "tags": [
+        "Sound-Beam Formation",
+        "Focusing and Control",
+        "Beam Geometry"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch09-q109",
+      "stem": "What happens to an unfocused beam as it travels through the near field?",
+      "image": null,
+      "options": [
+        "It immediately diverges",
+        "It generally narrows toward the natural focus",
+        "It maintains a constant width",
+        "It becomes a continuous wave"
+      ],
+      "answer": 1,
+      "explanation": "Interference produces natural narrowing even without an added lens or electronic focus.\n\n**Distractor rationales:**\n- **A:** The near-field envelope generally narrows rather than immediately diverging.\n- **C:** The beam width varies with distance.\n- **D:** Pulsed versus continuous operation is determined by excitation, not propagation depth.",
+      "explanationImage": null,
+      "tags": [
+        "Sound-Beam Formation",
+        "Focusing and Control",
+        "Beam Geometry"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch09-q110",
+      "stem": "What happens to an ultrasound beam beyond its focal region?",
+      "image": null,
+      "options": [
+        "It becomes progressively narrower",
+        "It stops propagating",
+        "It gradually diverges",
+        "It becomes electronically focused"
+      ],
+      "answer": 2,
+      "explanation": "Diffraction causes the beam to widen beyond the focal region, degrading lateral resolution.\n\n**Distractor rationales:**\n- **A:** Beyond the focus the beam spreads rather than narrows.\n- **B:** Sound continues propagating while undergoing attenuation.\n- **D:** Electronic focusing requires a controlled delay pattern; propagation alone does not create it.",
+      "explanationImage": null,
+      "tags": [
+        "Sound-Beam Formation",
+        "Focusing and Control",
+        "Beam Geometry"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch09-q111",
+      "stem": "Which change produces a longer natural near zone when aperture remains constant?",
+      "image": null,
+      "options": [
+        "Lower frequency",
+        "Higher frequency",
+        "Increased damping",
+        "Shorter pulse duration"
+      ],
+      "answer": 1,
+      "explanation": "NZL = D²f/(4c); at fixed aperture and sound speed, higher frequency increases NZL.\n\n**Distractor rationales:**\n- **A:** Lower frequency increases wavelength and shortens the natural near zone.\n- **C:** Damping primarily controls ringing and pulse length.\n- **D:** Pulse duration is not the determining variable in the natural near-zone formula.",
+      "explanationImage": null,
+      "tags": [
+        "Sound-Beam Formation",
+        "Focusing and Control",
+        "Beam Geometry"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch09-q112",
+      "stem": "Which change produces a longer natural near zone when frequency remains constant?",
+      "image": null,
+      "options": [
+        "Smaller aperture",
+        "Larger aperture",
+        "Lower gain",
+        "Shorter wavelength only"
+      ],
+      "answer": 1,
+      "explanation": "NZL = D²/(4λ); increasing diameter at fixed wavelength increases near-zone length quadratically.\n\n**Distractor rationales:**\n- **A:** Smaller diameter shortens NZL because diameter is squared.\n- **C:** Gain changes received signal amplitude, not natural focal depth.\n- **D:** At fixed frequency in the same medium, wavelength remains constant; it cannot independently shorten.",
+      "explanationImage": null,
+      "tags": [
+        "Sound-Beam Formation",
+        "Focusing and Control",
+        "Beam Geometry"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch09-q113",
+      "stem": "A sonographer selects a higher-frequency transducer. Which combination is expected?",
+      "image": null,
+      "options": [
+        "Shorter near zone and greater penetration",
+        "Longer near zone and reduced penetration",
+        "Greater divergence and greater penetration",
+        "Wider beam and reduced attenuation"
+      ],
+      "answer": 1,
+      "explanation": "At fixed aperture and medium, higher frequency shortens wavelength, lengthens NZL and increases attenuation.\n\n**Distractor rationales:**\n- **A:** Higher frequency lengthens rather than shortens the natural near zone and reduces penetration.\n- **C:** Higher frequency generally reduces divergence and penetration.\n- **D:** Higher frequency generally reduces diffraction but increases attenuation.",
+      "explanationImage": null,
+      "tags": [
+        "Sound-Beam Formation",
+        "Focusing and Control",
+        "Beam Geometry"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch09-q114",
+      "stem": "Which combination minimizes far-field beam divergence?",
+      "image": null,
+      "options": [
+        "Small aperture and low frequency",
+        "Small aperture and high frequency",
+        "Large aperture and high frequency",
+        "Large aperture and low damping"
+      ],
+      "answer": 2,
+      "explanation": "A large diameter and short wavelength minimize angular spreading for comparable unfocused apertures.\n\n**Distractor rationales:**\n- **A:** Both small aperture and low frequency promote diffraction.\n- **B:** High frequency helps, but a small aperture increases divergence relative to a larger one.\n- **D:** Damping is not the principal determinant of divergence; frequency is unspecified.",
+      "explanationImage": null,
+      "tags": [
+        "Sound-Beam Formation",
+        "Focusing and Control",
+        "Beam Geometry"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch09-q115",
+      "stem": "Which combination produces the greatest far-field divergence?",
+      "image": null,
+      "options": [
+        "Large aperture and high frequency",
+        "Small aperture and low frequency",
+        "Large aperture and low frequency",
+        "Small aperture and high frequency"
+      ],
+      "answer": 1,
+      "explanation": "A small aperture combined with long wavelength maximizes diffraction among the listed combinations.\n\n**Distractor rationales:**\n- **A:** Both factors reduce divergence.\n- **C:** A larger aperture reduces spreading compared with a small aperture at the same frequency.\n- **D:** Higher frequency reduces spreading compared with low frequency at the same aperture.",
+      "explanationImage": null,
+      "tags": [
+        "Sound-Beam Formation",
+        "Focusing and Control",
+        "Beam Geometry"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch09-q116",
+      "stem": "Where should the sonographer normally place the focal indicator?",
+      "image": null,
+      "options": [
+        "At the skin surface",
+        "At or just below the structure of interest",
+        "At maximum image depth",
+        "Above the transducer footprint"
+      ],
+      "answer": 1,
+      "explanation": "Placing the focus at or just below the target optimizes local lateral resolution.\n\n**Distractor rationales:**\n- **A:** A superficial focus may leave a deeper target outside the narrowest beam.\n- **C:** Maximum depth is appropriate only if it coincides with the target region.\n- **D:** A focal point above the footprint would not optimize the target within tissue.",
+      "explanationImage": null,
+      "tags": [
+        "Sound-Beam Formation",
+        "Focusing and Control",
+        "Beam Geometry"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch09-q117",
+      "stem": "Which image characteristic is most directly improved by adjusting focal depth?",
+      "image": null,
+      "options": [
+        "Axial resolution",
+        "Lateral resolution",
+        "Temporal resolution",
+        "Contrast resolution"
+      ],
+      "answer": 1,
+      "explanation": "Adjusting focal depth places the narrow beam waist at the target, improving side-by-side separation.\n\n**Distractor rationales:**\n- **A:** Axial resolution primarily depends on spatial pulse length.\n- **C:** Temporal resolution depends on frame rate; additional transmit foci may actually reduce it.\n- **D:** Contrast may benefit indirectly, but lateral resolution is the direct geometric effect.",
+      "explanationImage": null,
+      "tags": [
+        "Sound-Beam Formation",
+        "Focusing and Control",
+        "Beam Geometry"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch09-q118",
+      "stem": "What is a trade-off of strong focusing?",
+      "image": null,
+      "options": [
+        "Wider focal zone with less divergence",
+        "Narrower but shorter focal region",
+        "Improved resolution at all depths",
+        "Reduced axial resolution"
+      ],
+      "answer": 1,
+      "explanation": "A tighter waist improves local lateral detail at the expense of the depth range of good focus.\n\n**Distractor rationales:**\n- **A:** Strong focusing shortens the focal zone and increases postfocal divergence.\n- **C:** Resolution is not uniformly improved throughout the image.\n- **D:** Axial resolution is primarily determined by pulse length, not focal strength.",
+      "explanationImage": null,
+      "tags": [
+        "Sound-Beam Formation",
+        "Focusing and Control",
+        "Beam Geometry"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch09-q119",
+      "stem": "What is produced by placing an acoustic lens over a transducer element?",
+      "image": null,
+      "options": [
+        "Electronic steering",
+        "Fixed mechanical focusing",
+        "Dynamic receive focusing",
+        "Dynamic aperture"
+      ],
+      "answer": 1,
+      "explanation": "A converging acoustic lens creates a fixed focus through its physical geometry and acoustic properties.\n\n**Distractor rationales:**\n- **A:** Electronic steering uses relative timing delays.\n- **C:** Dynamic receive focusing uses changing electronic delays.\n- **D:** Dynamic aperture changes the number of participating elements.",
+      "explanationImage": null,
+      "tags": [
+        "Sound-Beam Formation",
+        "Focusing and Control",
+        "Beam Geometry"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch09-q120",
+      "stem": "How does increasing the curvature of an acoustic lens affect focal depth?",
+      "image": null,
+      "options": [
+        "It moves the focus deeper",
+        "It moves the focus closer to the transducer",
+        "It eliminates beam divergence",
+        "It increases pulse duration"
+      ],
+      "answer": 1,
+      "explanation": "For the lecture’s converging lens model, stronger curvature reduces focal length.\n\n**Distractor rationales:**\n- **A:** Greater curvature of a converging lens generally produces a shallower focus.\n- **C:** Diffraction still causes spreading beyond the focus.\n- **D:** Pulse duration depends on excitation and damping, not directly on lens curvature.",
+      "explanationImage": null,
+      "tags": [
+        "Sound-Beam Formation",
+        "Focusing and Control",
+        "Beam Geometry"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch09-q121",
+      "stem": "What distinguishes electronic focusing from fixed mechanical focusing?",
+      "image": null,
+      "options": [
+        "Electronic focusing changes pulse frequency",
+        "Electronic focusing allows focal depth to be adjusted",
+        "Electronic focusing requires a curved crystal",
+        "Electronic focusing is limited to single-element probes"
+      ],
+      "answer": 1,
+      "explanation": "Relative element delays can be changed to select a different convergence depth.\n\n**Distractor rationales:**\n- **A:** Focusing delays change wavefront geometry, not necessarily operating frequency.\n- **C:** A flat array can focus electronically without a curved crystal.\n- **D:** Independent elements are needed for electronic array focusing.",
+      "explanationImage": null,
+      "tags": [
+        "Sound-Beam Formation",
+        "Focusing and Control",
+        "Beam Geometry"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch09-q122",
+      "stem": "How does a linear sequenced array create individual scan lines?",
+      "image": null,
+      "options": [
+        "All elements fire simultaneously",
+        "Small groups of adjacent elements fire in sequence",
+        "One fixed element fires continuously",
+        "Elements are mechanically rotated"
+      ],
+      "answer": 1,
+      "explanation": "Successive adjacent groups create separate scan lines at different lateral positions.\n\n**Distractor rationales:**\n- **A:** Simultaneous activation of the entire array does not translate the active group along the face.\n- **C:** One fixed element cannot electronically generate the usual rectangular field.\n- **D:** Mechanical rotation is not required for linear electronic sequencing.",
+      "explanationImage": null,
+      "tags": [
+        "Sound-Beam Formation",
+        "Focusing and Control",
+        "Beam Geometry"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch09-q123",
+      "stem": "What image format is normally produced by an unsteered linear array?",
+      "image": null,
+      "options": [
+        "Sector",
+        "Rectangular",
+        "Circular",
+        "Trapezoidal only"
+      ],
+      "answer": 1,
+      "explanation": "Parallel lines originating at successive positions along a straight array form a rectangle.\n\n**Distractor rationales:**\n- **A:** A sector is characteristic of angular scanning, such as phased-array imaging.\n- **C:** A circular display is not the normal linear-array format.\n- **D:** A trapezoid requires outward steering of edge lines.",
+      "explanationImage": null,
+      "tags": [
+        "Sound-Beam Formation",
+        "Focusing and Control",
+        "Beam Geometry"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch09-q124",
+      "stem": "How does a phased-array transducer steer the ultrasound beam?",
+      "image": null,
+      "options": [
+        "By physically rotating the transducer elements",
+        "By applying small timing differences across elements",
+        "By changing receiver gain between scan lines",
+        "By increasing pulse repetition period"
+      ],
+      "answer": 1,
+      "explanation": "Progressive relative delays tilt the combined wavefront and steer it at a chosen angle.\n\n**Distractor rationales:**\n- **A:** Mechanical rotation is characteristic of mechanical scanners.\n- **C:** Gain changes echo amplitude rather than beam direction.\n- **D:** Pulse repetition period controls the interval between pulses, not steering angle.",
+      "explanationImage": null,
+      "tags": [
+        "Sound-Beam Formation",
+        "Focusing and Control",
+        "Beam Geometry"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch09-q125",
+      "stem": "Which feature makes a phased-array transducer particularly useful for cardiac imaging?",
+      "image": null,
+      "options": [
+        "Large rectangular footprint",
+        "Small footprint and electronically steered sector",
+        "Fixed focal depth",
+        "Absence of beam divergence"
+      ],
+      "answer": 1,
+      "explanation": "A small footprint fits an intercostal window while angular steering provides a broad view at depth.\n\n**Distractor rationales:**\n- **A:** A large footprint may be obstructed by ribs.\n- **C:** Adjustable electronic focusing is available and fixed focus is not the key advantage.\n- **D:** Phased beams still diverge beyond their focus.",
+      "explanationImage": null,
+      "tags": [
+        "Sound-Beam Formation",
+        "Focusing and Control",
+        "Beam Geometry"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch09-q126",
+      "stem": "A sonographer adds several transmit focal zones. What is the expected result?",
+      "image": null,
+      "options": [
+        "Improved lateral resolution with reduced frame rate",
+        "Improved temporal resolution with wider beams",
+        "Reduced lateral resolution with higher frame rate",
+        "Shorter pulse duration with increased penetration"
+      ],
+      "answer": 0,
+      "explanation": "Multiple conventional transmit foci require additional transmissions per line, improving lateral detail at several depths but reducing frame rate.\n\n**Distractor rationales:**\n- **B:** Additional transmissions reduce rather than improve temporal resolution.\n- **C:** The expected trade-off is the reverse.\n- **D:** Multiple foci do not inherently shorten the pulse or increase penetration.",
+      "explanationImage": null,
+      "tags": [
+        "Sound-Beam Formation",
+        "Focusing and Control",
+        "Beam Geometry"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch09-q127",
+      "stem": "What occurs during dynamic receive focusing?",
+      "image": null,
+      "options": [
+        "The transmit focus remains at one depth",
+        "Electronic delays align returning signals from changing depths",
+        "The sonographer manually moves the receive focus",
+        "The active aperture remains fixed"
+      ],
+      "answer": 1,
+      "explanation": "The beamformer continuously compensates for changing echo path lengths so signals sum coherently at each depth.\n\n**Distractor rationales:**\n- **A:** A fixed transmit focus is a separate concept and does not describe receive processing.\n- **C:** Receive focusing is automatic rather than manually adjusted for each echo.\n- **D:** Aperture selection is a separate process and may change with depth.",
+      "explanationImage": null,
+      "tags": [
+        "Sound-Beam Formation",
+        "Focusing and Control",
+        "Beam Geometry"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch09-q128",
+      "stem": "What is the principal benefit of dynamic receive focusing?",
+      "image": null,
+      "options": [
+        "Improved axial resolution at one depth",
+        "Improved lateral resolution across multiple depths",
+        "Reduced acoustic output",
+        "Increased penetration through bone"
+      ],
+      "answer": 1,
+      "explanation": "Depth-dependent receive delays keep the effective receive beam narrow over a range of depths.\n\n**Distractor rationales:**\n- **A:** Axial resolution primarily depends on pulse length.\n- **C:** Receive processing does not inherently change transmitted acoustic output.\n- **D:** It cannot overcome the strong attenuation and reflection associated with bone.",
+      "explanationImage": null,
+      "tags": [
+        "Sound-Beam Formation",
+        "Focusing and Control",
+        "Beam Geometry"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch09-q129",
+      "stem": "What occurs during dynamic aperture?",
+      "image": null,
+      "options": [
+        "The active receive aperture increases with depth",
+        "The active receive aperture decreases with depth",
+        "The transmit frequency continuously increases",
+        "The pulse duration changes with depth"
+      ],
+      "answer": 0,
+      "explanation": "Recruiting more receive elements at greater depth increases aperture and helps maintain lateral resolution.\n\n**Distractor rationales:**\n- **B:** This reverses the typical depth-dependent aperture pattern.\n- **C:** Dynamic aperture changes participating elements, not transmit frequency.\n- **D:** Pulse duration is not the defining variable.",
+      "explanationImage": null,
+      "tags": [
+        "Sound-Beam Formation",
+        "Focusing and Control",
+        "Beam Geometry"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch09-q130",
+      "stem": "Why is a smaller receive aperture used for shallow echoes?",
+      "image": null,
+      "options": [
+        "Shallow echoes require fewer active elements",
+        "It increases beam divergence at depth",
+        "It improves axial resolution",
+        "It increases transmitted power"
+      ],
+      "answer": 0,
+      "explanation": "A smaller aperture can maintain an appropriate depth-to-aperture ratio at shallow depths; deeper echoes require more elements.\n\n**Distractor rationales:**\n- **B:** The purpose is to control beam width at each depth, not deliberately increase deep divergence.\n- **C:** Axial resolution depends mainly on pulse length.\n- **D:** Receive aperture selection does not increase transmitted power.",
+      "explanationImage": null,
+      "tags": [
+        "Sound-Beam Formation",
+        "Focusing and Control",
+        "Beam Geometry"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch09-q131",
+      "stem": "Which statement best distinguishes sequencing from phasing?",
+      "image": null,
+      "options": [
+        "Sequencing changes frequency; phasing changes amplitude",
+        "Sequencing activates element groups in order; phasing uses timing delays",
+        "Sequencing is used only during reception",
+        "Phasing cannot steer an ultrasound beam"
+      ],
+      "answer": 1,
+      "explanation": "Group selection determines line origin, while timing delays determine beam steering and convergence.\n\n**Distractor rationales:**\n- **A:** Sequencing selects element groups; phasing changes relative timing rather than amplitude.\n- **C:** Sequencing is used in transmission to generate successive lines.\n- **D:** Phasing is a principal method of electronic steering.",
+      "explanationImage": null,
+      "tags": [
+        "Sound-Beam Formation",
+        "Focusing and Control",
+        "Beam Geometry"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch09-q132",
+      "stem": "Which action creates electronic transmit focusing?",
+      "image": null,
+      "options": [
+        "Applying identical firing times to every element",
+        "Applying curved timing delays across the aperture",
+        "Increasing overall receiver gain",
+        "Activating fewer scan lines"
+      ],
+      "answer": 1,
+      "explanation": "A curved delay profile compensates for unequal paths; outer elements fire earlier for an on-axis focus.\n\n**Distractor rationales:**\n- **A:** Identical firing times on a flat array do not create the required focusing curvature.\n- **C:** Receiver gain does not alter the transmitted wavefront.\n- **D:** Reducing line count affects sampling and frame rate, not transmit convergence.",
+      "explanationImage": null,
+      "tags": [
+        "Sound-Beam Formation",
+        "Focusing and Control",
+        "Beam Geometry"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch09-q133",
+      "stem": "Which statement correctly compares transmit and receive focusing?",
+      "image": null,
+      "options": [
+        "Both are adjustable continuously after transmission",
+        "Transmit focus is established during pulse emission; receive focus changes as echoes return",
+        "Receive focusing occurs only at one selected depth",
+        "Transmit focusing is performed only by an acoustic lens"
+      ],
+      "answer": 1,
+      "explanation": "Transmit delays establish focus at emission; receive delays can be updated as echoes arrive from successive depths.\n\n**Distractor rationales:**\n- **A:** An emitted pulse cannot be retrospectively refocused on transmission.\n- **C:** Dynamic receive focusing can operate across many depths.\n- **D:** Electronic array delays can also create transmit focus.",
+      "explanationImage": null,
+      "tags": [
+        "Sound-Beam Formation",
+        "Focusing and Control",
+        "Beam Geometry"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch09-q134",
+      "stem": "A sonographer sees two adjacent reflectors merge into one at a depth well below the focus. What is the most likely explanation?",
+      "image": null,
+      "options": [
+        "Reduced axial resolution",
+        "Increased far-field beam width",
+        "Excessive receiver bandwidth",
+        "Shortened spatial pulse length"
+      ],
+      "answer": 1,
+      "explanation": "Beyond the focus the beam diverges and can insonate both adjacent reflectors, causing them to merge.\n\n**Distractor rationales:**\n- **A:** Axial resolution separates reflectors along the beam, not adjacent lateral targets.\n- **C:** Receiver bandwidth is more closely related to pulse response than the described depth-dependent lateral blur.\n- **D:** A shorter pulse improves axial separation and does not explain the lateral merging.",
+      "explanationImage": null,
+      "tags": [
+        "Sound-Beam Formation",
+        "Focusing and Control",
+        "Beam Geometry"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch09-q135",
+      "stem": "Which unwanted beam is associated primarily with single-element transducers?",
+      "image": null,
+      "options": [
+        "Grating lobe",
+        "Side lobe",
+        "Main lobe",
+        "Receive beam"
+      ],
+      "answer": 1,
+      "explanation": "Side lobes are secondary off-axis maxima from finite apertures; they occur in single-element probes and can also occur in arrays.\n\n**Distractor rationales:**\n- **A:** Grating lobes arise from periodic array element spacing.\n- **C:** The main lobe is the intended beam.\n- **D:** The receive beam is the directional sensitivity pattern, not specifically an unwanted lobe.",
+      "explanationImage": null,
+      "tags": [
+        "Sound-Beam Formation",
+        "Focusing and Control",
+        "Beam Geometry"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch09-q136",
+      "stem": "Which unwanted beam is associated primarily with array transducers?",
+      "image": null,
+      "options": [
+        "Side lobe",
+        "Grating lobe",
+        "Main lobe",
+        "Harmonic beam"
+      ],
+      "answer": 1,
+      "explanation": "Regular array spacing can produce additional directions of constructive interference called grating lobes.\n\n**Distractor rationales:**\n- **A:** Side lobes can occur in arrays too, but are not the distinctive periodic-spacing artifact.\n- **C:** The main lobe is the intended beam.\n- **D:** Harmonic energy is not the characteristic spacing-related unwanted beam.",
+      "explanationImage": null,
+      "tags": [
+        "Sound-Beam Formation",
+        "Focusing and Control",
+        "Beam Geometry"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch09-q137",
+      "stem": "How can grating lobes create an image artifact?",
+      "image": null,
+      "options": [
+        "They cause all echoes to appear deeper",
+        "Off-axis echoes are displayed as though they came from the main beam",
+        "They shorten the transmitted pulse",
+        "They eliminate echoes from strong reflectors"
+      ],
+      "answer": 1,
+      "explanation": "The system assigns off-axis returns to the intended scan line, potentially creating false internal echoes in anechoic structures.\n\n**Distractor rationales:**\n- **A:** Misregistration is primarily directional; not all echoes appear deeper.\n- **C:** Grating lobes are spatial energy distributions, not a pulse-shortening mechanism.\n- **D:** Strong off-axis reflectors can generate false echoes rather than disappear.",
+      "explanationImage": null,
+      "tags": [
+        "Sound-Beam Formation",
+        "Focusing and Control",
+        "Beam Geometry"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch09-q138",
+      "stem": "Which technique reduces grating-lobe amplitude by applying different excitation strengths across the aperture?",
+      "image": null,
+      "options": [
+        "Apodization",
+        "Damping",
+        "Demodulation",
+        "Compression"
+      ],
+      "answer": 0,
+      "explanation": "Apodization weights element amplitudes, commonly stronger centrally and weaker at the edges, suppressing unwanted off-axis energy.\n\n**Distractor rationales:**\n- **B:** Damping reduces crystal ringing and pulse length.\n- **C:** Demodulation extracts the echo envelope.\n- **D:** Compression maps signal dynamic range for display.",
+      "explanationImage": null,
+      "tags": [
+        "Sound-Beam Formation",
+        "Focusing and Control",
+        "Beam Geometry"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch09-q139",
+      "stem": "What is the purpose of subdicing an array element?",
+      "image": null,
+      "options": [
+        "Increase pulse duration",
+        "Divide the element into smaller electrically connected parts",
+        "Create a larger dead zone",
+        "Reduce the number of scan lines"
+      ],
+      "answer": 1,
+      "explanation": "Smaller electrically connected subdivisions can reduce unwanted vibration and help control off-axis energy, as described in the lecture.\n\n**Distractor rationales:**\n- **A:** Subdicing is intended to control unwanted vibration modes, not lengthen pulses.\n- **C:** A larger dead zone is not the design objective.\n- **D:** Scan-line count is controlled by acquisition settings, not subdicing.",
+      "explanationImage": null,
+      "tags": [
+        "Sound-Beam Formation",
+        "Focusing and Control",
+        "Beam Geometry"
+      ],
+      "reference": ""
+    },
+    {
+      "id": "DCS5004-ch09-q140",
+      "stem": "A sonographer wants the best possible lateral resolution at a small lesion without unnecessarily reducing frame rate. Which action is most appropriate?",
+      "image": null,
+      "options": [
+        "Add several focal zones throughout the image",
+        "Use one focal zone at or just below the lesion",
+        "Place the focus at maximum depth",
+        "Remove all focusing"
+      ],
+      "answer": 1,
+      "explanation": "One focal zone at or just below the lesion provides local lateral detail without the extra transmissions required for multiple foci.\n\n**Distractor rationales:**\n- **A:** Multiple transmit foci improve detail at multiple depths but unnecessarily reduce frame rate for one small target.\n- **C:** Maximum depth may place the focus away from the lesion.\n- **D:** Removing focusing sacrifices local beam narrowing.",
+      "explanationImage": null,
+      "tags": [
+        "Sound-Beam Formation",
+        "Focusing and Control",
+        "Beam Geometry"
+      ],
+      "reference": ""
+    }
+  ]
+}
